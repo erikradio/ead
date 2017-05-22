@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Bowman, Alexander Grayson Diary?>
-<ead relatedencoding="MARC21"> 
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+ xmlns="urn:isbn:1-931666-22-9" relatedencoding="MARC21"> 
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Libraries,Special Collections//text(US::AzU::Alexander Grayson Bowman Diary)//en"
-	 "UAAZ001.xml"</eadid> 
+  <eadid>UAAZ001</eadid> 
   <filedesc> 
 	 <titlestmt> 
 		<titleproper encodinganalog="245$a">Alexander Grayson Bowman Diary, 
@@ -13,26 +13,29 @@
 		<titleproper encodinganalog="245$a">Bowman, (Alexander
 		  Grayson)</titleproper> 
 	 </titlestmt> 
-	 <publicationstmt> 
-		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
-		  Collections</publisher> 
-		<address> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
-		</address> 
-		<date>&#x00A9; 2005</date> 
-		<p>Arizona Board of Regents. All Rights Reserved.</p> 
-	 </publicationstmt> 
+  	<publicationstmt> 
+  		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+  		<address> 
+  			<addressline>PO Box 210055</addressline> 
+  			<addressline>Tucson, AZ 85721-0055</addressline> 
+  			<addressline>Phone: 520-621-6423</addressline> 
+  			<addressline>Fax: 520-621-9733</addressline> 
+  			<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+  		</address> 
+  		<date normal= "2005" era= "ce" calendar = "gregorian">2005</date> 
+  		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+  	</publicationstmt> 
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Amy Verheide. 
 		<date>October 2005</date></creation> 
-	 <langusage>Inventory is in<language langcode="en" encodinganalog="546">
-		English.</language></langusage> 
-  </profiledesc> 
+	 <langusage>Inventory is in<language langcode="eng" encodinganalog="546">
+		English.</language></langusage>
+  </profiledesc>
+	<revisiondesc><change>
+		<date normal="20170302">2017-03-02</date>
+		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
+	</change></revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
@@ -62,35 +65,28 @@
 <archdesc level="collection"> 
   <did id="a1"> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Alexander
+	 <unittitle encodinganalog="245" label="Collection Name">Alexander
 		Grayson Bowman diary, 
 		<unitdate type="inclusive"
 		 normal="1861/1865">1861-1865.</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us">AZ 001</unitid> 
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	  repositorycode="US-azu" countrycode="US">AZ 001</unitid> 
+	 <origination label="Creator"> 
 		<persname encodinganalog="100">Bowman, Alexander Grayson,
 		  1842-1915.</persname> </origination> 
-	 <abstract label="Abstract:">Hand-written diary and certificates of
+	 <abstract label="Abstract">Hand-written diary and certificates of
 		promotion and discharge, with accompanying transcript and biographical
 		material, consists of daily record of the march from Camp Union, near San
 		Francisco, Oct. 18, 1861, until his mustering out at Franklin, near El Paso,
 		Texas, Dec. 12, 1864; and includes his subsequent journey back to California,
 		to Feb. 12, 1865. Brief and factual diary entries provide a glimpse of military
 		travel and camp conditions.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
 		encodinganalog="300">.1 linear foot</extent></physdesc> 
-	 <repository label="Repository:"> 
+	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
-		<address> 
-		  <addressline>University of Arizona</addressline> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
-		</address></repository> 
+		</repository> 
   </did> 
   <accessrestrict encodinganalog="506"> 
 	 <head>Restrictions</head> 
@@ -142,19 +138,19 @@
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
-		  <geogname>United States. Army. California Volunteers.</geogname></item>
+			<subject encodinganalog="650" source= "lcsh">United States. Army. California Volunteers.</subject></item>
 		
 		<item> 
-		  <geogname>United States. Army -- Military life.</geogname></item> 
+			<subject encodinganalog="650" source= "lcsh">United States. Army -- Military life.</subject></item> 
 		<item> 
-		  <geogname>Arizona -- History -- Civil War, 1861-1865 --
-			 Sources.</geogname></item> 
+			<subject encodinganalog="650" source= "lcsh">Arizona -- History -- Civil War, 1861-1865 --
+				Sources.</subject></item> 
 		<item> 
-		  <geogname>Southwest, New -- History -- Civil War, 1861-1865 --
-			 Sources.</geogname></item> 
+			<subject encodinganalog="650" source= "lcsh">Southwest, New -- History -- Civil War, 1861-1865 --
+				Sources.</subject></item> 
 		<item> 
-		  <geogname>United States -- History -- Civil War, 1861-1865 -- Personal
-			 narratives.</geogname></item> 
+			<subject encodinganalog="650" source= "lcsh">United States -- History -- Civil War, 1861-1865 -- Personal
+				narratives.</subject></item> 
 	 </list> 
   </controlaccess> 
 </archdesc></ead>

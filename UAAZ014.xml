@@ -1,38 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Mckinney, Daniel C. Papers?>
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21"> 
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Daniel C. McKinney Papers)//en"
-	 "UAAZ014.xml"</eadid> 
+	<eadid>UAAZ014</eadid> 
   <filedesc> 
 	 <titlestmt> 
 		<titleproper encodinganalog="245$a">Daniel C. McKinney papers, 
 		  <date>1929-1948</date></titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by staff</author> 
 	 </titlestmt> 
-	 <publicationstmt> 
-		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
-		  Collections</publisher> 
-		<address> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
-		</address> 
-		<date>&#x00A9; 2001</date> 
-		<p>Arizona Board of Regents. All Rights Reserved.</p> 
-	 </publicationstmt> 
+  	<publicationstmt> 
+  		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+  		<address> 
+  			<addressline>PO Box 210055</addressline> 
+  			<addressline>Tucson, AZ 85721-0055</addressline> 
+  			<addressline>Phone: 520-621-6423</addressline> 
+  			<addressline>Fax: 520-621-9733</addressline> 
+  			<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+  		</address> 
+  		<date normal= "2001" era= "ce" calendar = "gregorian">2001</date> 
+  		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+  	</publicationstmt> 
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Jan Marie Payne 
 		<date>June 20, 2002</date></creation> 
-	 <langusage>Inventory is in<language langcode="en"
+	 <langusage>Inventory is in<language langcode="eng"
 		encodinganalog="546">English.</language></langusage> 
   </profiledesc> 
+	<revisiondesc><change>
+		<date normal="20170308">2017-03-08</date>
+		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
+	</change></revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
@@ -59,37 +62,30 @@
 	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage> 
 </frontmatter> 
-<archdesc level="collection"> 
+	<archdesc level="collection" type="inventory" relatedencoding="351$c"> 
   <did id="a1"> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Daniel
+	 <unittitle encodinganalog="245" label="Collection Name">Daniel
 		C. McKinney papers, 
 		<unitdate type="inclusive"
 		 normal="1929/1948">1929-1948</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us"> AZ 014</unitid> 
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	  repositorycode="US-azu" countrycode="US"> AZ 014</unitid> 
+	 <origination label="Creator"> 
 		<persname encodinganalog="100">McKinney, Daniel C.,
 		  1898-1969</persname></origination> 
-	 <abstract label="Abstract:">Correspondence, financial papers, reports, and
+	 <abstract label="Abstract">Correspondence, financial papers, reports, and
 		related materials dealing with activities in the Arizona Cattle Growers'
 		Association, the Arizona Livestock Sanitary Board, various farm credit
 		associations, the livestock interests of the Hearst Enterprises, and the
 		California Cattlemen's Association. Included is political material concerning
 		Osborn's 1940 campaign, and McKinney's own campaign in 1942.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
 		encodinganalog="300">.4 linear feet</extent></physdesc> 
-	 <repository label="Repository:"> 
+	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
-		<address> 
-		  <addressline>University of Arizona</addressline> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
-		</address></repository> 
+		</repository> 
   </did> 
   <accessrestrict encodinganalog="506"> 
 	 <head>Restrictions</head> 
@@ -107,7 +103,7 @@
   </userestrict> 
   <prefercite encodinganalog="524"> 
 	 <head>Credit Line</head> 
-	 <p>Daniel C. Mckinney papers (AZ 014). Special
+	 <p>Daniel C. McKinney papers (AZ 014). Special
 	 	Collections, University of Arizona Libraries.</p> 
   </prefercite> 
   <bioghist id="a2" encodinganalog="545"> 
@@ -144,72 +140,58 @@
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
-		  <persname encodinganalog="100">Osborn, Sidney Preston,
+		  <persname encodinganalog="600">Osborn, Sidney Preston,
 			 1884-1948</persname></item> 
-	 </list> 
-	 <list> 
+	 
 		<item> 
-		  <persname encodinganalog="100">Hearst, William Randolph,
+		  <persname encodinganalog="600">Hearst, William Randolph,
 			 1863-1951</persname></item> 
-	 </list> 
-	 <list> 
+	  
 		<item> 
-		  <corpname encodinganalog="110">Arizona -- Livestock
+		  <corpname encodinganalog="610">Arizona -- Livestock
 			 Board</corpname></item> 
-	 </list> 
-	 <list> 
+ 
 		<item> 
-		  <corpname encodinganalog="110">Arizona Cattle Growers'
+		  <corpname encodinganalog="610">Arizona Cattle Growers'
 			 Association</corpname></item> 
-	 </list> 
-	 <list> 
+	 
 		<item> 
-		  <corpname encodinganalog="110">California Cattlemen's
+		  <corpname encodinganalog="610">California Cattlemen's
 			 Association</corpname></item> 
-	 </list> 
-	 <list> 
+	 
 		<item> 
-		  <corpname encodinganalog="110">Hearst Sunical Land and Packing
+		  <corpname encodinganalog="610">Hearst Sunical Land and Packing
 			 Corporation</corpname></item> 
-	 </list> 
-	 <list> 
+	
 		<item> 
-		  <corpname encodinganalog="110">Babicora Development
+		  <corpname encodinganalog="610">Babicora Development
 			 Company</corpname></item> 
-	 </list> 
-	 <list> 
+	
 		<item> 
-		  <corpname encodinganalog="110">Democratic Party (Ariz.)
+		  <corpname encodinganalog="610">Democratic Party (Ariz.)
 			 </corpname></item> 
-	 </list> 
-	 <list> 
+
 		<item> 
-		  <subject>Cattle trade -- Arizona</subject></item> 
-	 </list> 
-	 <list> 
+			<subject encodinganalog="650" source="lcsh">Cattle trade -- Arizona</subject></item> 
+
 		<item> 
-		  <subject>Cattle trade -- California</subject></item> 
-	 </list> 
-	 <list> 
+			<subject encodinganalog="650" source="lcsh">Cattle trade -- California</subject></item> 
+	 
 		<item> 
-		  <subject>Cattle trade -- Mexico</subject></item> 
-	 </list> 
-	 <list> 
+			<subject encodinganalog="650" source="lcsh">Cattle trade -- Mexico</subject></item> 
+	 
 		<item> 
-		  <subject>Cattle -- Economic Aspects -- Arizona</subject></item> 
-	 </list> 
-	 <list> 
+			<subject encodinganalog="650" source="lcsh">Cattle -- Economic Aspects -- Arizona</subject></item> 
+	
 		<item> 
-		  <geogname>Arizona -- Politics and government -- 20th
-			 century</geogname></item> 
-	 </list> 
-	 <list> 
+			<subject encodinganalog="651" source="lcsh">Arizona -- Politics and government -- 20th
+			 century</subject></item> 
+	
 		<item> 
-		  <genreform>Correspondence</genreform></item> 
-	 </list> 
-	 <list> 
+			<genreform encodinganalog="656" source="aat">Correspondence</genreform></item> 
+	 
 		<item> 
-		  <genreform>Speeches</genreform></item> 
+			<genreform encodinganalog="656" source="aat">Speeches</genreform></item> 
 	 </list> 
   </controlaccess> 
   <dsc type="combined" id="a23"> 

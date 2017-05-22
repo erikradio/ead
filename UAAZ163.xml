@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Detroit Copper Mining Company Records?>
-<ead relatedencoding="MARC21">
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21">
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Detroit Copper Mining Company records)//en"
-	 "UAAZ163.xml"</eadid> 
+  <eadid>UAAZ163</eadid> 
   <filedesc> 
 	 <titlestmt> 
 		<titleproper encodinganalog="245$a">Detroit Copper Mining Company
@@ -30,14 +30,20 @@
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Linda A. Whitaker 
-		<date>June 26, 2002</date></creation> 
-	 <langusage>Inventory is in<language langcode="en"
+		<date normal="20020626">2002-06-26</date></creation> 
+	 <langusage>Inventory is in<language langcode="eng"
 		encodinganalog="546">English.</language></langusage> 
   </profiledesc> 
+    <revisiondesc>
+        <change>
+            <date normal="20170321">2017-03-21</date>
+            <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+        </change>
+    </revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
-	 <titleproper encodinganalog="245$a">Detroit Copper Mining Company records, 
+	 <titleproper encodinganalog="245$a">Detroit Copper Mining Company records 
 		<date>1882-1919</date></titleproper> 
 	 <num>Collection Number: AZ 163</num> 
 	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
@@ -60,15 +66,15 @@
 	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage>
 </frontmatter>
-<archdesc level="collection"> 
-  <did id="a1"> 
+<archdesc level="collection" type="inventory" encodinganalog="351$c"> 
+  <did> 
 	 <head>Collection Summary</head> 
 	 <unittitle encodinganalog="245" label="Collection Name:">Detroit Copper
-		Mining Company records, 
+		Mining Company records
 		<unitdate type="inclusive"
 		 normal="1882/1919">1882-1919</unitdate></unittitle> 
 	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us"> AZ 163</unitid> 
+	  repositorycode="US-azu" countrycode="US">AZ 163</unitid> 
 	 <origination label="Creator:"> 
 		<corpname encodinganalog="110">Detroit Copper Mining Company</corpname>
 		</origination> 
@@ -107,7 +113,7 @@
 	 <head>Credit Line</head> 
 	 <p>Detroit Copper Mining Company records (AZ 163). Special Collections, University of Arizona Libraries.</p> 
   </prefercite> 
-  <bioghist id="a2" encodinganalog="545"> 
+  <bioghist encodinganalog="545"> 
 	 <head>Historical Note</head> 
 	 <p>Copper mining company operations near Clifton and Morenci, Arizona,
 		started in 1875 by William Church. Phelps Dodge purchased an interest in the
@@ -124,13 +130,13 @@
 		<item>Series III: Payroll and Time Books, 1882-1911</item> 
 	 </list> 
   </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
 	 <p>Financial journals, payrolls, time books, and ore and freight records
 		related to mining company operations. Includes financial records of Hotel
 		Morenci (1904-1913) and Frisco Ranch (1909-1913). </p> 
   </scopecontent> 
-  <controlaccess id="a12"> 
+  <controlaccess> 
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
@@ -149,127 +155,127 @@
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Copper mines and mining -- Arizona -- History -- Sources
+		  <subject encodinganalog="650">Copper mines and mining -- Arizona -- History -- Sources
 			 </subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject> Mines and mineral resources -- Arizona -- Greenlee County --
+		    <subject encodinganalog="650">Mines and mineral resources -- Arizona -- Greenlee County --
 			 History -- Sources </subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Mineral industries -- Arizona -- Finance -- Sources
+		    <subject encodinganalog="650">Mineral industries -- Arizona -- Finance -- Sources
 			 </subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject> Copper miners -- History -- Sources </subject></item> 
+		    <subject encodinganalog="650">Copper miners -- History -- Sources </subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Hotels -- Arizona -- Morenci -- History -- Sources
+		    <subject encodinganalog="650">Hotels -- Arizona -- Morenci -- History -- Sources
 			 </subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Payrolls</genreform></item> 
+		    <genreform encodinganalog="655">Payrolls</genreform></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Account books</genreform></item> 
+		    <genreform encodinganalog="655">Account books</genreform></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Journals</genreform></item> 
+		    <genreform encodinganalog="655">Journals</genreform></item> 
 	 </list> 
   </controlaccess> 
-  <relatedmaterial encodinganalog="544$1"> 
+  <relatedmaterial encodinganalog="544"> 
 	 <head>Related Material</head> 
 	 <p>Additional payroll records and time books are on microfilm no. 2957.
 		</p> 
   </relatedmaterial> 
-  <dsc type="combined" id="a23"> 
+  <dsc type="combined"> 
 	 <head>Container List</head> 
-	 <c01 level="series" id="ser1"> 
+	 <c01 level="series" id="s1"> 
 		<did> 
-		  <unittitle>Series I: Financial Records, 
+		  <unittitle>Series I: Financial Records 
 			 <unitdate type="inclusive" normal="1883/1914">1883-1914
 				</unitdate></unittitle> 
 		</did> 
 		<c02 level="file"> 
 		  <did><container type="volume">1</container> 
-			 <unittitle>Journal. 
-				<unitdate type="inclusive" normal="">September 1883-August
+			 <unittitle>Journal 
+				<unitdate type="inclusive" normal="1883-09/1885-08">September 1883-August
 				  1885</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did><container type="volume">2</container> 
 			 <unittitle>Journal. 
-				<unitdate type="inclusive" normal="">September 1885-December
+				<unitdate type="inclusive" normal="1885-09/1892-12">September 1885-December
 				  1892</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did><container type="volume">3</container> 
-			 <unittitle>Journal. 
-				<unitdate type="inclusive" normal="">January 1893-December
+			 <unittitle>Journal 
+				<unitdate type="inclusive" normal="1893-01/1898-12">January 1893-December
 				  1898</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did><container type="volume">4</container> 
-			 <unittitle>Journal. 
-				<unitdate type="inclusive" normal="">January 1911-March
+			 <unittitle>Journal
+				<unitdate type="inclusive" normal="1911-01/1913-03">January 1911-March
 				  1913</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did><container type="volume">5</container> 
-			 <unittitle>Engine Record (West Yankie Concentrator). 
-				<unitdate type="inclusive" normal="">July 1911-February
+			 <unittitle>Engine Record (West Yankie Concentrator) 
+				<unitdate type="inclusive" normal="1911-07/1913-02">July 1911-February
 				  1913</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did><container type="volume">6</container> 
 			 <unittitle>Freight Record. 
-				<unitdate type="inclusive" normal="">October 1910-September
+				<unitdate type="inclusive" normal="1910-10/1914-09">October 1910-September
 				  1914</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 	 </c01> 
 	 <c01 level="series"> 
 		<did> 
-		  <unittitle>Series II: Hotel Morenci Payroll and Financial Records, 
+		  <unittitle>Series II: Hotel Morenci Payroll and Financial Records 
 			 <unitdate type="inclusive"
 			  normal="1904/1919">1904-1919</unitdate></unittitle> 
 		</did> 
 		<c02 level="file"> 
 		  <did><container type="volume">7</container> 
-			 <unittitle>Hotel Morenci Ledger. 
+			 <unittitle>Hotel Morenci Ledger
 				<unitdate type="inclusive"
 				 normal="1904/1905">1904-1905</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did><container type="volume">8</container> 
-			 <unittitle>Hotel Morenci Cash Book. 
-				<unitdate type="inclusive" normal="">January 1908-November
+			 <unittitle>Hotel Morenci Cash Book 
+				<unitdate type="inclusive" normal="1908-01/1910-11">January 1908-November
 				  1910</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did><container type="volume">9</container> 
-			 <unittitle>Hotel Morenci Financial Records (various). 
+			 <unittitle>Hotel Morenci Financial Records (various) 
 				<unitdate type="inclusive"
 				 normal="1909/1913">1909-1913</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did><container type="box">10</container> 
-			 <unittitle>Miscellaneous Records. 
+			 <unittitle>Miscellaneous Records 
 				<unitdate type="inclusive"
 				 normal="1900/1919">1900-1919</unitdate></unittitle> 
 		  </did> 
@@ -288,7 +294,7 @@
 	 </c01> 
 	 <c01 level="series"> 
 		<did> 
-		  <unittitle>Series III: Series III: Payroll and Time Books, 
+		  <unittitle>Series III: Series III: Payroll and Time Books 
 			 <unitdate type="inclusive"
 			  normal="1882/1911">1882-1911</unitdate></unittitle> 
 		</did> 
@@ -315,35 +321,35 @@
 		</c02> 
 		<c02 level="file"> 
 		  <did><container type="volume">14</container> 
-			 <unittitle>Time Book and Payroll. 
-				<unitdate type="inclusive" normal="">June 1897-July
+			 <unittitle>Time Book and Payroll
+				<unitdate type="inclusive" normal="1897-06/1898-07">June 1897-July
 				  1898</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did><container type="volume">15</container> 
-			 <unittitle>Time Book and Payroll. 
-				<unitdate type="inclusive" normal="">August 1898-May
+			 <unittitle>Time Book and Payroll
+				<unitdate type="inclusive" normal="1898-08/1899-05">August 1898-May
 				  1899</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did><container type="volume">16</container> 
-			 <unittitle>Time Book and Payroll. 
-				<unitdate type="inclusive" normal="">May-December
+			 <unittitle>Time Book and Payroll
+				<unitdate type="inclusive" normal="1899-05/1899-12">May-December
 				  1899</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did><container type="volume">17</container> 
-			 <unittitle>Time Book and Payroll. 
-				<unitdate type="inclusive" normal="">January-February
+			 <unittitle>Time Book and Payroll
+				<unitdate type="inclusive" normal="1900-01/1900-02">January-February
 				  1900</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did><container type="volume">18</container> 
-			 <unittitle>Ore Record. 
+			 <unittitle>Ore Record
 				<unitdate type="inclusive"
 				 normal="1904/1911">1904-1911</unitdate></unittitle> 
 		  </did> 

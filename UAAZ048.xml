@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21"> 
    <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
-      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
-		(US::AzU::Inauguration of Homer LeRoy Shantz as President of the University of Arizona)//en""UAAZ048.xml"
-      </eadid> 
+   	<eadid>UAAZ048</eadid> 
       <filedesc> 
          <titlestmt> 
          	<titleproper encodinganalog="title">Inauguration of Homer LeRoy Shantz as President of the University of Arizona,
@@ -28,7 +28,7 @@
 		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
 		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
 		    </address> 
-		    <date normal= "2015" era= "ce" calendar = "gregorian">; 2015</date> 
+		    <date normal= "2015" era= "ce" calendar = "gregorian">2015</date> 
             <p>Arizona Board of Regents. All Rights Reserved.</p> 
          </publicationstmt> 
       </filedesc> 
@@ -39,35 +39,31 @@
 	     <langusage>Finding aid encoded in<language> English.</language></langusage>
   	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
       </profiledesc>
+   	<revisiondesc><change>
+   		<date normal="20170316">2017-03-16</date>
+   		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
+   	</change></revisiondesc>
    </eadheader>
    <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
       <did id="a1"> 
          <head>Collection Summary</head> 
-      	<unittitle encodinganalog="245" label="Collection Name:"> Inauguration of Homer LeRoy Shantz as President of the University of Arizona,
-      		<unitdate type="inclusive" label="Dates:" normal="19300424">April 24, 1930</unitdate>
+      	<unittitle encodinganalog="245" label="Collection Name"> Inauguration of Homer LeRoy Shantz as President of the University of Arizona,
+      		<unitdate type="inclusive" label="Dates" normal="19300424">April 24, 1930</unitdate>
       		
       		
   	     </unittitle>
-	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 048</unitid>
-	     <origination label="Creator:"> 
+      	<unitid label="Collection Number" encodinganalog="099" repositorycode="US-azu" countrycode="US">AZ 048</unitid>
+	     <origination label="Creator"> 
             <corpname source="lcnaf" encodinganalog="110">University of Arizona.</corpname> </origination> 
-      	<abstract label="Abstract:">This collection pertains to the inauguration of Homer LeRoy Shantz 
+      	<abstract label="Abstract">This collection pertains to the inauguration of Homer LeRoy Shantz 
       								as president of The University of Arizona in 1930. Materials include programs 
       								from the inauguration, and letters of congratulations from individuals, American and foreign institutions.</abstract> 
-  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.8 linear feet</extent></physdesc>	 
-	     <repository label="Repository:"> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description"><extent>.8 linear feet</extent></physdesc>	 
+	     <repository label="Repository"> 
             <corpname>University of Arizona Libraries, Special Collections</corpname> 
-            <address> 
-               <addressline>University of Arizona</addressline> 
-		       <addressline>PO Box 210055</addressline> 
-		       <addressline>Tucson, AZ 85721-0055</addressline> 
-		       <addressline>Phone: 520-621-6423</addressline> 
-		       <addressline>Fax: 520-621-9733</addressline> 
-		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
-		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
-            </address>
+            
          </repository>
-         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
    	   
       </did> 
       <accessrestrict> 

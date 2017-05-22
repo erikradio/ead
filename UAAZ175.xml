@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Miller, Hugo W. Papers?> 
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21"> 
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Hugo W. Miller papers)//en"
-	 "UAAZ175.xml"</eadid> 
+  <eadid>UAAZ175</eadid> 
   <filedesc> 
 	 <titlestmt> 
-		<titleproper encodinganalog="245$a">Hugo W. Miller papers, 
+		<titleproper encodinganalog="245$a">Hugo W. Miller papers
 		  <date>1902-1958</date></titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by Staff. </author> 
 	 </titlestmt> 
@@ -29,14 +29,20 @@
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Linda A. Whitaker 
-		<date>June 27, 2002</date></creation> 
-	 <langusage>Inventory is in<language langcode="en"
+		<date normal="20020627">2002-06-27</date></creation> 
+	 <langusage>Inventory is in<language langcode="eng"
 		encodinganalog="546">English.</language></langusage> 
   </profiledesc> 
+    <revisiondesc>
+        <change>
+            <date normal="20170321">2017-03-21</date>
+            <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+        </change>
+    </revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
-	 <titleproper encodinganalog="245$a">Hugo W. Miller papers, 
+	 <titleproper encodinganalog="245$a">Hugo W. Miller papers 
 		<date>1902-1958</date></titleproper> 
 	 <num>Collection Number: AZ 175</num> 
 	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
@@ -59,24 +65,24 @@
 	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage> 
 </frontmatter> 
-<archdesc level="collection"> 
-  <did id="a1"> 
+    <archdesc level="collection" type="inventory" encodinganalog="351$c">
+  <did> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Hugo W. Miller
-		papers, 
+	 <unittitle encodinganalog="245" label="Collection Name">Hugo W. Miller
+		papers
 		<unitdate type="inclusive"
 		 normal="1902/1958">1902-1958</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us"> AZ 175</unitid> 
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	  repositorycode="US-azu" countrycode="US"> AZ 175</unitid> 
+	 <origination label="Creator"> 
 		<persname encodinganalog="100">Miller, Hugo
 		  Walter</persname></origination> 
 	 <abstract>Assay and ore records, and miscellaneous financial and
 		administrative papers. Includes mill, smelter, and convertor reports for the
 		Pride of the West Mining and Milling Company for 1902.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
 		encodinganalog="300">5 linear l feet</extent></physdesc> 
-	 <repository label="Repository:"> 
+	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
 		<address> 
@@ -106,7 +112,7 @@
 	 <head>Credit Line</head> 
 	 <p>Hugo W. Miller papers (AZ 175). Special Collections, University of Arizona Libraries.</p> 
   </prefercite> 
-  <bioghist id="a2" encodinganalog="545"> 
+  <bioghist encodinganalog="545"> 
 	 <head>Biographical Note</head> 
 	 <p>Businessman and engineer, Nogales, Arizona. Began Miller's Assay Office
 		in 1913; later Miller and Cox, 1921- 1924, later Hugo W. Miller Assay Office,
@@ -120,13 +126,13 @@
 		<item>Series II: Ore and Assay Records, 1913-1958</item> 
 	 </list> 
   </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
 	 <p>Assay and ore records, and miscellaneous financial and administrative
 		papers. Includes mill, smelter, and convertor reports for the Pride of the West
 		Mining and Milling Company for 1902.</p> 
   </scopecontent> 
-  <controlaccess id="a12"> 
+  <controlaccess> 
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
@@ -140,51 +146,51 @@
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Mines and mineral resources -- Arizona -- History --
+		    <subject encodinganalog="650">Mines and mineral resources -- Arizona -- History --
 			 Sources</subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Assaying -- History -- Sources</subject></item> 
+		    <subject encodinganalog="650">Assaying -- History -- Sources</subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Assayers -- Arizona -- Archives</subject></item> 
+		    <subject encodinganalog="650">Assayers -- Arizona -- Archives</subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Account Books</genreform></item> 
+		    <genreform encodinganalog="655">Account Books</genreform></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Journals (bookkeeping)</genreform></item> 
+		    <genreform encodinganalog="655">Journals (bookkeeping)</genreform></item> 
 	 </list> 
   </controlaccess> 
-  <dsc type="combined" id="a23"> 
+  <dsc type="combined"> 
 	 <head>Container List</head> 
-	 <c01 level="series" id="ser1"> 
+	 <c01 level="series" id="s1"> 
 		<did> 
-		  <unittitle>Series I: Personal and Financial Papers, 
+		  <unittitle>Series I: Personal and Financial Papers 
 			 <unitdate type="inclusive"
 			 normal="1902/1937">1902-1937</unitdate></unittitle> 
 		</did> 
 		<c02 level="file"> 
 		  <did> <container type="volume">1</container> 
-			 <unittitle>Miscellaneous Personal and Financial Papers. 
+			 <unittitle>Miscellaneous Personal and Financial Papers 
 				<unitdate type="inclusive"
 				normal="1902/1937">1902-1937</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">2</container> 
-			 <unittitle>Monthly and Six-Month Business Summary. 
+			 <unittitle>Monthly and Six-Month Business Summary
 				<unitdate type="inclusive"
 				normal="1915/1921">1915-1921</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">3</container> 
-			 <unittitle>Monthly Business Summary. 
+			 <unittitle>Monthly Business Summary
 				<unitdate type="inclusive"
 				normal="1921/1923">1921-1923</unitdate></unittitle> 
 		  </did> 
@@ -192,14 +198,14 @@
 		<c02 level="file"> 
 		  <did> <container type="volume">4</container> 
 			 <unittitle>Miscellaneous Financial Records (rents, loans, leftover
-				assay accounts, payrolls, personal notes, retail sales). 
+				assay accounts, payrolls, personal notes, retail sales) 
 				<unitdate type="inclusive"
 				normal="1923/1925">1923-1925</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">5</container> 
-			 <unittitle>Cash Accounts. 
+			 <unittitle>Cash Accounts 
 				<unitdate type="inclusive"
 				normal="1924/1927">1924-1927</unitdate></unittitle> 
 		  </did> 
@@ -207,14 +213,14 @@
 		<c02 level="file"> 
 		  <did> <container type="volume">6</container> 
 			 <unittitle>Various Ore Tests (mill, smelter and converter reports of
-				the Pride of the West Mining and Milling Company). 
+				the Pride of the West Mining and Milling Company)
 				<unitdate type="inclusive"
 				normal="1923/1924">1923-1924</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">7</container> 
-			 <unittitle>Daily Journal (includes inventory of the Assay Office). 
+			 <unittitle>Daily Journal (includes inventory of the Assay Office) 
 				<unitdate type="inclusive"
 				normal="1933/1934">1933-1934</unitdate></unittitle> 
 		  </did> 
@@ -222,7 +228,7 @@
 		<c02 level="file"> 
 		  <did> <container type="volume">8</container> 
 			 <unittitle>Miscellaneous Financial Records (assaying, loans, labor,
-				contracts, shipments). 
+				contracts, shipments)
 				<unitdate type="inclusive"
 				normal="1937">1937</unitdate></unittitle> 
 		  </did> 
@@ -230,118 +236,118 @@
 	 </c01> 
 	 <c01 level="series"> 
 		<did> 
-		  <unittitle>Series II: Ore and Assay Records, 
+		  <unittitle>Series II: Ore and Assay Records 
 			 <unitdate type="inclusive"
 			 normal="1913/1958">1913-1958</unitdate></unittitle> 
 		</did> 
 		<c02 level="file"> 
 		  <did> <container type="volume">9</container> 
-			 <unittitle>Ore Records. 
+			 <unittitle>Ore Records
 				<unitdate type="inclusive"
 				normal="1913/1928">1913-1928</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">10</container> 
-			 <unittitle>Ore Records. 
+			 <unittitle>Ore Records
 				<unitdate type="inclusive"
 				normal="1928/1943">1928-1943</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">11</container> 
-			 <unittitle>Assay Records. 
+			 <unittitle>Assay Records
 				<unitdate type="inclusive"
 				normal="1913/1917">1913-1917</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">12</container> 
-			 <unittitle>Assay Records. 
+			 <unittitle>Assay Records
 				<unitdate type="inclusive"
 				normal="1917/1918">1917-1918</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">13</container> 
-			 <unittitle>Assay Records. 
+			 <unittitle>Assay Records
 				<unitdate type="inclusive"
 				normal="1918">1918</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">14</container> 
-			 <unittitle>Assay Records. 
+			 <unittitle>Assay Records 
 				<unitdate type="inclusive"
 				normal="1918/1920">1918-1920</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">15</container> 
-			 <unittitle>Assay Records. 
+			 <unittitle>Assay Records
 				<unitdate type="inclusive"
 				normal="1920/1921">1920-1921</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">16</container> 
-			 <unittitle>Assay Records. 
+			 <unittitle>Assay Records 
 				<unitdate type="inclusive"
 				normal="1921/1923">1921-1923</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">17</container> 
-			 <unittitle>Assay Records. 
+			 <unittitle>Assay Records
 				<unitdate type="inclusive"
 				normal="1924/1925">1924-1925</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">18</container> 
-			 <unittitle>Assay Records. 
+			 <unittitle>Assay Records
 				<unitdate type="inclusive"
 				normal="1926/1929">1926-1929</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">19</container> 
-			 <unittitle>Assay Records. 
+			 <unittitle>Assay Records
 				<unitdate type="inclusive"
 				normal="1930/1932">1930-1932</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">20</container> 
-			 <unittitle>Assay Records. 
+			 <unittitle>Assay Records
 				<unitdate type="inclusive"
 				normal="1933/1934">1933-1934</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">21</container> 
-			 <unittitle>Assay Records. 
+			 <unittitle>Assay Records
 				<unitdate type="inclusive"
 				normal="1935/1938">1935-1938</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">22</container> 
-			 <unittitle>Assay Records. 
+			 <unittitle>Assay Records
 				<unitdate type="inclusive"
 				normal="1938/1943">1938-1943</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">23</container> 
-			 <unittitle>Assay Records. 
+			 <unittitle>Assay Records
 				<unitdate type="inclusive"
 				normal="1943/1949">1943-1949</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
 		  <did> <container type="volume">24</container> 
-			 <unittitle>Assay Records. 
+			 <unittitle>Assay Records
 				<unitdate type="inclusive"
 				normal="1950/1958">1950-1958</unitdate></unittitle> 
 		  </did> 

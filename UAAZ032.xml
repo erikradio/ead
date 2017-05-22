@@ -1,9 +1,11 @@
 <?xml version="1.0"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21"> 
 <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
  audience="internal" id="a0"> 
-	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::University of Arizona Land-grant centennial records)//en""UAAZ032.xml"</eadid> 
+	<eadid>UAAZ032</eadid> 
   <filedesc> 
 	 <titlestmt> 
 	 	<titleproper> University of Arizona land-grant centennial records
@@ -20,15 +22,19 @@
 		  <addressline>Fax: 520-621-9733</addressline> 
 		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
 		</address> 
-		<date normal= "2011" era= "ce" calendar = "gregorian">; 2011</date> 
+		<date normal= "2011" era= "ce" calendar = "gregorian">2011</date> 
 		<p>Arizona Board of Regents. All Rights Reserved.</p> 
 	 </publicationstmt> 
   </filedesc> 
   <profiledesc> 
   	<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. 
-  		<date era="ce" calendar="gregorian">;Febuary 7, 2011</date></creation> 
-	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  		<date era="ce" calendar="gregorian">;February 7, 2011</date></creation> 
+  	<langusage>Finding aid is in<language encodinganalog="546" langcode="eng"> English.</language></langusage> 
   </profiledesc> 
+	<revisiondesc><change>
+		<date normal="20170316">2017-03-16</date>
+		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
+	</change></revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
@@ -56,24 +62,17 @@
 <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
   <did id="a1"> 
 	 <head>Collection Summary</head> 
-  	<unittitle encodinganalog="245" label="Collection Name:">University of Arizona Land-Grant centennial records
-  		<unitdate type="inclusive" label="Dates:" normal="1960/1962">1960-1962</unitdate></unittitle>	 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	 repositorycode="AzU" countrycode="us">AZ 032</unitid> 
-	 <origination label="Creator:"> 
+  	<unittitle encodinganalog="245" label="Collection Name">University of Arizona Land-Grant centennial records
+  		<unitdate type="inclusive" label="Dates" normal="1960/1962">1960-1962</unitdate></unittitle>	 
+	 <unitid label="Collection Number" encodinganalog="099"
+	 	repositorycode="US-azu" countrycode="US">AZ 032</unitid> 
+	 <origination label="Creator"> 
 		<corpname>University of Arizona</corpname> </origination> 
-  	<abstract label="Abstract:">Correspondence, administrative papers, photographs, newspaper clippings, publications, records of events, informational and promotional materials for the University of Arizona’s participation in the centennial convocation of the American Association of Land-Grant Colleges and State Universities</abstract> 
-  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>4.2 linear feet</extent></physdesc>	 
-	 <repository label="Repository:"> 
+  	<abstract label="Abstract">Correspondence, administrative papers, photographs, newspaper clippings, publications, records of events, informational and promotional materials for the University of Arizona’s participation in the centennial convocation of the American Association of Land-Grant Colleges and State Universities</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description"><extent>4.2 linear feet</extent></physdesc>	 
+	 <repository label="Repository"> 
 	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
-		<address> 
-		  <addressline>University of Arizona</addressline> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
-		</address></repository> 
+		</repository> 
   </did> 
   <accessrestrict> 
 	 <head>Restrictions</head> 
@@ -441,7 +440,7 @@
   		<c02 level="file"> 
   			<did> <container type="box">3</container> 
   				<container type="folder">9</container> 
-  				<unittitle>Laboratory of Tree Ring Research (Tribute to Dr. Andrew.E. Douglass).</unittitle> 
+  				<unittitle>Laboratory of Tree Ring Research (Tribute to Dr. Andrew E. Douglass).</unittitle> 
   			</did></c02> 			
   	</c01>
   	<c01 level="series" id="ser4"> 

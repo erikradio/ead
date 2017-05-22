@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21"> 
 <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
  audience="internal" id="a0"> 
-	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
-		Collections//text(US::AzU::The Douglas family of Arizona)//en""UAAZ009.xml"</eadid> 
+	<eadid>UAAZ009</eadid> 
   <filedesc> 
 	 <titlestmt> 
 	 	<titleproper encodinganalog="title"> The Douglas family of Arizona
@@ -21,7 +21,7 @@
 		  <addressline>Fax: 520-621-9733</addressline> 
 		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
 		</address> 
-		<date normal= "2014" era= "ce" calendar = "gregorian">; 2014</date> 
+		<date normal= "2014" era= "ce" calendar = "gregorian">2014</date> 
 		<p>Arizona Board of Regents. All Rights Reserved.</p> 
 	 </publicationstmt> 
   </filedesc> 
@@ -31,32 +31,29 @@
 	 <langusage>Finding aid is in<language> English.</language></langusage>
   	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
   </profiledesc> 
+	<revisiondesc><change>
+		<date normal="20170302">2017-03-02</date>
+		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
+	</change></revisiondesc>
 </eadheader> 
 <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
   <did id="a1"> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:"> The Douglas Family of Arizona
-		<unitdate type="inclusive" label="Dates:" normal="1960/1961">1960-1961</unitdate></unittitle>	 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	 repositorycode="AzU" countrycode="us">AZ 009</unitid> 
-	 <origination label="Creator:"> 
+	 <unittitle encodinganalog="245" label="Collection Name"> The Douglas Family of Arizona
+		<unitdate type="inclusive" label="Dates" normal="1960/1961">1960-1961</unitdate></unittitle>	 
+	 <unitid label="Collection Number" encodinganalog="099"
+	 repositorycode="US-azu" countrycode="US">AZ 009</unitid> 
+	 <origination label="Creator"> 
 	 	<persname source="lcnaf" encodinganalog="100">Martin, Douglas D. (Douglas DeVeny), 1885-1963</persname></origination> 
-  	<abstract label="Abstract:">Original typescript of address given by Lewis W. Douglas Oct.
+  	<abstract label="Abstract">Original typescript of address given by Lewis W. Douglas Oct.
   		19, 1961 before the Arizona Committee of the Newcomen Society in North
   		America.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>0.1 linear feet</extent></physdesc>	 
-	 <repository label="Repository:"> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent>0.1 linear feet</extent></physdesc>	 
+	 <repository label="Repository"> 
 	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
-		<address> 
-		  <addressline>University of Arizona</addressline> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
-		</address></repository>
+		</repository>
   	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng"
-  		scriptcode="Latin">English</language> </langmaterial>
+  		>English</language> </langmaterial>
   </did> 
   <accessrestrict> 
 	 <head>Restrictions</head> 
@@ -74,13 +71,14 @@
   </userestrict> 
   <prefercite> 
 	 <head>Credit Line</head> 
-  	<p>The Douglas Family of Arizona(AZ 009). Special
+  	<p>The Douglas Family of Arizona (AZ 009). Special
   		Collections, University of Arizona Libraries.</p> 
   </prefercite> 
-	<relatedmaterial encodinganalog="5441">
-		<head>Related Materials</head>
-		<p>Other materials pertaining to Lewis W. Douglas can be found in the <extref href="http://www.azarchivesonline.org/xtf/view?docId=ead/uoa/UAAZ290.xml" role="text/html" actuate="onrequest" show="new">Lewis W. Douglas Papers</extref></p>
+	<relatedmaterial encodinganalog="544">
+		<p>Other materials pertaining to Lewis W. Douglas can be found in the</p>
+		<extref xpointer="http://www.azarchivesonline.org/xtf/view?docId=ead/uoa/UAAZ290.xml">Lewis W. Douglas Papers</extref>
 	</relatedmaterial>
+	
 	
   <bioghist id="a2" encodinganalog="545"> 
 	 <head>Biographical Note</head>
@@ -123,17 +121,18 @@
   				<item>
   					<persname encodinganalog="600" role="subject" source="lcnaf">Douglas, James S. (James Stuart), 1868-1949.</persname></item>
   				<item>
-  				<famname encodinganalog="00" source="lcsh" role="creator">Douglas family </famname>
+  				<famname encodinganalog="700" source="lcsh" role="creator">Douglas family </famname>
   			</item>
   			<item>
   				<corpname encodinganalog="610" role="subject" source="lcnaf">Newcomen Society in North America.</corpname>
   			</item>
   			<item>
-  				<subject encodinganalog="650">Mines and mineral resources -- Arizona -- History.</subject>
+  				<subject encodinganalog="650" source= "lcsh">Deportation -- Arizona -- Bisbee.</subject>
   			</item>
   			<item>
-  				<subject encodinganalog="650">Deportation -- Arizona -- Bisbee.</subject>
+  				<subject encodinganalog="650" source= "lcsh">Mines and mineral resources -- Arizona -- History.</subject>
   			</item>
+  			
   		</list>
   	</controlaccess>
   <dsc type="combined" id="a23"> 
@@ -182,7 +181,7 @@
   		<c02 level="file"> 
   			<did> <container type="box">1</container> 
   				<container type="folder">6</container> 
-  				<unittitle>Micellanoues Papers and Notes</unittitle>
+  				<unittitle>Miscellaneous Papers and Notes</unittitle>
   				<unitdate>1961</unitdate>
   			</did> 
   		</c02>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Stoddard, Isaac Taft Papers?>
-<ead relatedencoding="MARC21">
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21">
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Isaac Taft Stoddard Papers)//en"
-	 "UAAZ148.xml"</eadid> 
+  <eadid>UAAZ148</eadid> 
   <filedesc> 
 	 <titlestmt> 
-		<titleproper encodinganalog="245$a">Isaac Taft Stoddard papers, 
+		<titleproper encodinganalog="245$a">Isaac Taft Stoddard papers
 		  <date>1890-1943</date></titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by Phyllis Ball.
 		  </author> 
@@ -30,14 +30,20 @@
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Linda A. Whitaker 
-		<date>July 1, 2002</date></creation> 
-	 <langusage>Inventory is in<language langcode="en"
+		<date>2002-07-01</date></creation> 
+	 <langusage>Inventory is in<language langcode="eng"
 		encodinganalog="546">English.</language></langusage> 
   </profiledesc> 
+    <revisiondesc>
+        <change>
+            <date normal="20170320">2017-03-20</date>
+            <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+        </change>
+    </revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
-	 <titleproper encodinganalog="245$a">Isaac Taft Stoddard papers, 
+	 <titleproper encodinganalog="245$a">Isaac Taft Stoddard papers
 		<date>1890-1943</date></titleproper> 
 	 <num>Collection Number: AZ 148</num> 
 	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
@@ -61,26 +67,26 @@
   </titlepage> 
 </frontmatter> 
 <archdesc level="collection"> 
-  <did id="a1"> 
+  <did> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Isaac
-		Taft Stoddard papers, 
+	 <unittitle encodinganalog="245" label="Collection Name">Isaac
+		Taft Stoddard papers
 		<unitdate type="inclusive"
 		 normal="1890/1943">1890-1943</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us">AZ 148</unitid> 
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	  repositorycode="US-azu" countrycode="US">AZ 148</unitid> 
+	 <origination label="Creator"> 
 		<persname encodinganalog="100">Stoddard, Isaac
 		  Taft</persname></origination> 
-	 <abstract label="Abstract:">Correspondence, legal papers, financial
+	 <abstract label="Abstract">Correspondence, legal papers, financial
 		records, maps, and geologists' reports related to the Stoddard Copper Company
 		and Copper Mountains Mines Company in Yavapai County, Arizona; records of the
 		Stoddard Incorporating Company and its dealings with mining firms; and a
 		scrapbook of photographs of mine construction and operations. Includes
 		materials on Arizona economy and politics.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
 		encodinganalog="300">3 linear feet</extent></physdesc> 
-	 <repository label="Repository:"> 
+	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
 		<address> 
@@ -110,12 +116,12 @@
 	 <head>Credit Line</head> 
 	 <p>Isaac Taft Stoddard papers (AZ 148). Special Collections, University of Arizona Libraries.</p> 
   </prefercite> 
-  <bioghist id="a2" encodinganalog="545"> 
+  <bioghist encodinganalog="545"> 
 	 <head>Biographical Note</head> 
 	 <p>Arizona businessman and politician; Secretary of Arizona Territory, 1901
 		to 1904. </p> 
   </bioghist> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
 	 <p>Correspondence, legal papers, financial records, maps, and geologists'
 		reports related to the Stoddard Copper Company and Copper Mountains Mines
@@ -130,7 +136,7 @@
 		Incorporting Company. Lesser, routine and fragmentary accounts were not
 		retained. </p> 
   </scopecontent> 
-  <controlaccess id="a12"> 
+  <controlaccess> 
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
@@ -158,35 +164,35 @@
 		  <corpname encodinganalog="110">Great Western Film
 			 Corporation</corpname></item> 
 		<item> 
-		  <subject>Mines and mineral resources -- Arizona -- Yavapai County --
+		    <subject encodinganalog="650">Mines and mineral resources -- Arizona -- Yavapai County --
 			 History -- Sources</subject></item> 
 		<item> 
-		  <subject> Copper mines and mining -- Arizona -- History --
+		    <subject encodinganalog="650">Copper mines and mining -- Arizona -- History --
 			 Sources</subject></item> 
 		<item> 
-		  <subject> Mineral industries -- Arizona -- Finance --
+		    <subject encodinganalog="650">Mineral industries -- Arizona -- Finance --
 			 Sources</subject></item> 
 		<item> 
-		  <subject> Mining corporations -- Arizona -- History --
+		    <subject encodinganalog="650">Mining corporations -- Arizona -- History --
 			 Sources</subject></item> 
 		<item> 
-		  <geogname>Stoddard (Ariz.) -- History -- Sources </geogname></item> 
+		    <geogname encodinganalog="651">Stoddard (Ariz.) -- History -- Sources </geogname></item> 
 		<item> 
-		  <geogname>Arizona -- Politics and government --
+		    <geogname encodinganalog="651">Arizona -- Politics and government --
 			 Sources</geogname></item> 
 		<item> 
-		  <genreform>Account books</genreform></item> 
+		  <genreform encodinganalog="655">Account books</genreform></item> 
 		<item> 
-		  <genreform>Photoprints</genreform></item> 
+		    <genreform encodinganalog="655">Photoprints</genreform></item> 
 		<item> 
-		  <genreform>Photographs</genreform></item> 
+		    <genreform encodinganalog="655">Photographs</genreform></item> 
 		<item> 
-		  <genreform>Diaries</genreform></item> 
+		    <genreform encodinganalog="655">Diaries</genreform></item> 
 		<item> 
-		  <genreform>Correspondence</genreform></item> 
+		    <genreform encodinganalog="655">Correspondence</genreform></item> 
 	 </list> 
   </controlaccess> 
-  <dsc type="combined" id="a23"> 
+  <dsc type="combined"> 
 	 <head>Container List</head> 
 	 <c01 level="file"> 
 		<did> <container type="volume">1</container> 
@@ -198,7 +204,7 @@
 		  type="folder">1</container> 
 		  <unittitle> Stoddard, Isaac Taft: Miscellaneous Personal Papers (family
 			 records, correspondence and papers relating to his position as Territorial
-			 Secretary). 
+			 Secretary) 
 			 <unitdate type="inclusive" normal="1894/1913"> 1894-1913
 				</unitdate></unittitle> 
 		</did> 
@@ -206,7 +212,7 @@
 	 <c01 level="file"> 
 		<did> <container type="box">2</container> <container
 		  type="folder">2</container> 
-		  <unittitle>Stoddard, Isaac Taft: Newspaper Clippings. 
+		  <unittitle>Stoddard, Isaac Taft: Newspaper Clippings 
 			 <unitdate type="inclusive"
 			  normal="1911/1913">1911-1913</unitdate></unittitle> 
 		</did> 
@@ -214,17 +220,17 @@
 	 <c01 level="file"> 
 		<did> <container type="box">2</container> <container
 		  type="folder">3</container> 
-		  <unittitle>Marshall S. Taft. 
+		  <unittitle>Marshall S. Taft
 			 <unitdate type="inclusive"
-			  normal="1890/1943">undated.</unitdate></unittitle> 
+			  normal="1890/1943">undated</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">2</container> <container
 		  type="folder">4</container> 
-		  <unittitle>Stoddard Copper Company: Legal Papers. 
+		  <unittitle>Stoddard Copper Company: Legal Papers
 			 <unitdate type="inclusive"
-			  normal="1898/1906">1898-1906.</unitdate></unittitle> 
+			  normal="1898/1906">1898-1906</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
@@ -232,7 +238,7 @@
 		  type="folder">5</container> 
 		  <unittitle>Stoddard Copper Company: Misc. Papers, Photos, Etc. 
 			 <unitdate type="inclusive"
-			  normal="1901/1907">1901-1907.</unitdate></unittitle> 
+			  normal="1901/1907">1901-1907</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
@@ -240,14 +246,14 @@
 		  type="folder">6</container> 
 		  <unittitle>Stoddard Copper Company (and others): Notices of Mining
 			 Locations, Deeds, Etc. 
-			 <unitdate type="inclusive" normal="NaN">No
+			 <unitdate type="inclusive">No
 				Date</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">2</container> <container
 		  type="folder">7</container> 
-		  <unittitle>Geologists' Reports. 
+		  <unittitle>Geologists' Reports
 			 <unitdate type="inclusive"
 			 normal="1890/1943">undated.</unitdate></unittitle> 
 		</did> 
@@ -256,7 +262,7 @@
 		<did> <container type="box">2</container> <container
 		  type="folder">8</container> 
 		  <unittitle>Receipts for Mail Service: Stoddard, Arizona to Humboldt,
-			 Arizona; Stoddard, Arizona to Mayer, Arizona. 
+			 Arizona; Stoddard, Arizona to Mayer, Arizona
 			 <unitdate type="inclusive"
 			 normal="1912/1918">1912-1918</unitdate></unittitle> 
 		</did> 
@@ -266,7 +272,7 @@
 		  type="folder">9</container> 
 		  <unittitle>Correspondence Regarding Labor and Strikes: James Douglas to
 			 I.T. Stoddard, Celora M. Stoddard to Barr Agency, Celora M. Stoddard to Burns
-			 Detective Agency. 
+			 Detective Agency
 			 <unitdate type="inclusive" normal="1916">1903,
 				1916</unitdate></unittitle> 
 		</did> 
@@ -274,7 +280,7 @@
 	 <c01 level="file"> 
 		<did> <container type="box">2</container> <container
 		  type="folder">10</container> 
-		  <unittitle>Arizona Binghampton Copper Company Papers. 
+		  <unittitle>Arizona Binghampton Copper Company Papers
 			 <unitdate type="inclusive"
 			 normal="1915/1919">1915-1919</unitdate></unittitle> 
 		</did> 
@@ -282,16 +288,15 @@
 	 <c01 level="file"> 
 		<did> <container type="box">3</container> <container
 		  type="folder">1</container> 
-		  <unittitle>Copper Mountain Mines Company: Stockholders. 
-			 <unitdate type="inclusive"
-			 normal="NaN">Undated</unitdate></unittitle> 
+		  <unittitle>Copper Mountain Mines Company: Stockholders
+			 <unitdate>Undated</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">3</container> <container
 		  type="folder">2</container> 
 		  <unittitle>Copper Mountain Mines Company: Legal Papers (articles of
-			 incorporation, bylaws). 
+			 incorporation, bylaws)
 			 <unitdate type="inclusive"
 			 normal="1917/1929">1917-1929</unitdate></unittitle> 
 		</did> 
@@ -299,7 +304,7 @@
 	 <c01 level="file"> 
 		<did> <container type="box">3</container> <container
 		  type="folder">3</container> 
-		  <unittitle>Copper Mountain Mines Company: Correspondence. 
+		  <unittitle>Copper Mountain Mines Company: Correspondence 
 			 <unitdate type="inclusive"
 			 normal="1920/1923">1920-1923</unitdate></unittitle> 
 		</did> 
@@ -307,8 +312,8 @@
 	 <c01 level="file"> 
 		<did> <container type="box">3</container> <container
 		  type="folder">4</container> 
-		  <unittitle>Copper Mountain Mines Company: Financial Papers. 
-			 <unitdate type="inclusive" normal="">1917-1919, 1922-1923,
+		  <unittitle>Copper Mountain Mines Company: Financial Papers 
+			 <unitdate type="inclusive" normal="1917/1929">1917-1919, 1922-1923,
 				1929</unitdate></unittitle> 
 		</did> 
 	 </c01> 
@@ -316,7 +321,7 @@
 		<did> <container type="box">3</container> <container
 		  type="folder">5</container> 
 		  <unittitle>Copper Mountain Mines Company: Correspondence &amp;
-			 Financial Papers. 
+			 Financial Papers
 			 <unitdate type="inclusive"
 			 normal="1931/1942">1931-1942</unitdate></unittitle> 
 		</did> 
@@ -335,7 +340,7 @@
 		<did> <container type="volume">4</container> 
 		  <unittitle>Scrapbook of Photographs: Mine Construction and Operation at
 			 Stoddard, Arizona (includes pictures of I.T. Stoddard, Celora M. Stoddard and
-			 other mine workers). 
+			 other mine workers)
 			 <unitdate type="inclusive" normal="1916">1916</unitdate></unittitle> 
 		</did> 
 	 </c01> 
@@ -343,14 +348,14 @@
 		<did> <container type="volume">5</container> 
 		  <unittitle>Mineral Patents and Maps: Seven Mineral Patents and 21 Maps
 			 of Stoddard Mine Property, Agua Fria Mining District, Yavapai County, Arizona. 
-			 <unitdate type="inclusive" normal="NaN"> No
+			 <unitdate> No
 				Date</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">6</container> <container
 		  type="folder">1</container> 
-		  <unittitle>Stoddard Incorporating Company: Miscellaneous Papers. 
+		  <unittitle>Stoddard Incorporating Company: Miscellaneous Papers
 			 <unitdate type="inclusive"
 			  normal="1904/1943">1904-1943</unitdate></unittitle> 
 		</did> 
@@ -369,8 +374,8 @@
 		<did> <container type="box">6</container> <container
 		  type="folder">2</container> 
 		  <unittitle>Stoddard Incorporating Company: Arizona Corporation
-			 Commission: Audit no.1. 
-			 <unitdate type="inclusive" normal="">July 1, 1933-March 31,
+			 Commission: Audit no.1
+			 <unitdate type="inclusive" normal="19330701/19380331">July 1, 1933-March 31,
 				1938</unitdate></unittitle> 
 		</did> 
 	 </c01> 
@@ -378,16 +383,15 @@
 		<did> <container type="box">6</container> <container
 		  type="folder">3</container> 
 		  <unittitle>Stoddard Incorporating Company: Assorted Stock Certificates
-			 and Book of Cancelled Stock Certificates. 
-			 <unitdate type="inclusive"
-			  normal="NaN">Undated</unitdate></unittitle> 
+			 and Book of Cancelled Stock Certificates
+			 <unitdate>Undated</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">7</container> <container
 		  type="folder">1</container> 
 		  <unittitle>Celora Martin Stoddard, Personal Papers and Correspondence
-			 (photographs and biographical material). 
+			 (photographs and biographical material)
 			 <unitdate type="inclusive"
 			  normal="1903/1919">1903-1919</unitdate></unittitle> 
 		</did> 
@@ -402,32 +406,29 @@
 	 <c01 level="file"> 
 		<did> <container type="box">7</container> <container
 		  type="folder">2</container> 
-		  <unittitle>Celora Martin Stoddard: Stories and Sketches. 
-			 <unitdate type="inclusive"
-			  normal="NaN">Undated</unitdate></unittitle> 
+		  <unittitle>Celora Martin Stoddard: Stories and Sketches
+			 <unitdate>Undated</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">7</container> <container
 		  type="folder">3</container> 
-		  <unittitle>Celora Martin Stoddard: Serial Story: "Jane-the Gum Model." 
-			 <unitdate type="inclusive"
-			  normal="NaN">Undated</unitdate></unittitle> 
+		  <unittitle>Celora Martin Stoddard: Serial Story: "Jane-the Gum Model" 
+			 <unitdate>Undated</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">7</container> <container
 		  type="folder">4</container> 
-		  <unittitle>Celora Martin Stoddard: Novel: "There's a Stain." 
-			 <unitdate type="inclusive"
-			  normal="NaN">Undated</unitdate></unittitle> 
+		  <unittitle>Celora Martin Stoddard: Novel: "There's a Stain" 
+			 <unitdate>Undated</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">7</container> <container
 		  type="folder">5-6</container> 
 		  <unittitle>Celora Martin Stoddard: Great Western Film
-			 Corporation-Correspondence and Legal Papers. 
+			 Corporation-Correspondence and Legal Papers
 			 <unitdate type="inclusive" normal="1917/1919">
 				1917-1919</unitdate></unittitle> 
 		</did> 
@@ -437,7 +438,7 @@
 		  type="folder">7</container> 
 		  <unittitle>Celora Martin Stoddard: Inventions of C.M. Stoddard: Postage
 			 Stamp Stamping Machine; Improvement in Logometers; Route Indicators for
-			 Automobiles. 
+			 Automobiles
 			 <unitdate type="inclusive" normal="1916"> 1901, 1914,
 				1916</unitdate></unittitle> 
 		</did> 
@@ -445,7 +446,7 @@
 	 <c01 level="file"> 
 		<did> <container type="box">8</container> <container
 		  type="folder">1-3</container> 
-		  <unittitle>Stoddard Incorporating Company: Big Jim Mine-Correspondence.
+		  <unittitle>Stoddard Incorporating Company: Big Jim Mine-Correspondence
 			 
 			 <unitdate type="inclusive"
 			  normal="1936/1938">1936-1938</unitdate></unittitle> 
@@ -455,7 +456,7 @@
 		<did> <container type="box">8</container> <container
 		  type="folder">4-6</container> 
 		  <unittitle>Stoddard Incorporating Company: Deriick Mining
-			 Company-Correspondence. 
+			 Company-Correspondence
 			 <unitdate type="inclusive"
 			  normal="1936/1942">1936-1942</unitdate></unittitle> 
 		</did> 
@@ -464,7 +465,7 @@
 		<did> <container type="box">9</container> <container
 		  type="folder">1</container> 
 		  <unittitle>Stoddard Incorporating Company: Columbia Metal Mines
-			 Company-Articles of Incorporation, 
+			 Company-Articles of Incorporation
 			 <unitdate type="inclusive"
 			  normal="1936/1943">1936-1943</unitdate></unittitle> 
 		</did> 
@@ -473,7 +474,7 @@
 		<did> <container type="box">9</container> <container
 		  type="folder">2-5</container> 
 		  <unittitle>Stoddard Incorporating Company: Columbia Metal Mines
-			 Company-Correspondence. 
+			 Company-Correspondence
 			 <unitdate type="inclusive"
 			  normal="1936/1943">1936-1943</unitdate></unittitle> 
 		</did> 
@@ -482,24 +483,22 @@
 		<did> <container type="box">9</container> <container
 		  type="folder">6</container> 
 		  <unittitle>Stoddard Incorporating Company: Columbia Metal Mines
-			 Company-Stock Journal and Ledger. 
-			 <unitdate type="inclusive"
-			  normal="NaN">Undated</unitdate></unittitle> 
+			 Company-Stock Journal and Ledger
+			 <unitdate>Undated</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">9</container> <container
 		  type="folder">7</container> 
 		  <unittitle>Stoddard Incorporating Company: Columbia Metal Mines
-			 Company-Stockholders; Miscellaneous Papers. 
-			 <unitdate type="inclusive"
-			  normal="NaN">Undated</unitdate></unittitle> 
+			 Company-Stockholders; Miscellaneous Papers
+			 <unitdate>Undated</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">10</container> <container
 		  type="folder">1-4</container> 
-		  <unittitle>Stoddard Incorporating Company: Correspondence. 
+		  <unittitle>Stoddard Incorporating Company: Correspondence
 			 <unitdate type="inclusive"
 			  normal="1938/1942">1938-1942</unitdate></unittitle> 
 		</did> 
@@ -507,50 +506,44 @@
 	 <c01 level="file"> 
 		<did> <container type="box">10</container> <container
 		  type="folder">5</container> 
-		  <unittitle>Stoddard Incorporating Company: Bills and Receipts. 
-			 <unitdate type="inclusive"
-			  normal="NaN">Undated</unitdate></unittitle> 
+		  <unittitle>Stoddard Incorporating Company: Bills and Receipts 
+			 <unitdate>Undated</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">10</container> <container
 		  type="folder">6</container> 
-		  <unittitle>Stoddard Incorporating Company: Old Dominion Papers. 
-			 <unitdate type="inclusive"
-			  normal="NaN">Undated</unitdate></unittitle> 
+		  <unittitle>Stoddard Incorporating Company: Old Dominion Papers 
+			 <unitdate>Undated</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">10</container> <container
 		  type="folder">7</container> 
-		  <unittitle>Stoddard Incorporating Company: Legal Papers. 
-			 <unitdate type="inclusive"
-			  normal="NaN">Undated</unitdate></unittitle> 
+		  <unittitle>Stoddard Incorporating Company: Legal Papers
+			 <unitdate>Undated</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">10</container> <container
 		  type="folder">8</container> 
-		  <unittitle>Stoddard Incorporating Company: Pay Rolls. 
-			 <unitdate type="inclusive"
-			  normal="NaN">Undated</unitdate></unittitle> 
+		  <unittitle>Stoddard Incorporating Company: Pay Rolls
+			 <unitdate>Undated</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">10</container> <container
 		  type="folder">9</container> 
 		  <unittitle>Stoddard Incorporating Company: Workmen's Compensation
-			 Papers. 
-			 <unitdate type="inclusive"
-			 normal="NaN">Undated</unitdate></unittitle> 
+			 Papers
+			 <unitdate>Undated</unitdate></unittitle> 
 		</did> 
 	 </c01> 
 	 <c01 level="file"> 
 		<did> <container type="box">10</container> <container
 		  type="folder">10</container> 
-		  <unittitle>Stoddard Incorporating Company: Miscellaneous Reports. 
-			 <unitdate type="inclusive"
-			 normal="NaN">Undated</unitdate></unittitle> 
+		  <unittitle>Stoddard Incorporating Company: Miscellaneous Reports 
+			 <unitdate>Undated</unitdate></unittitle> 
 		</did> 
 	 </c01> 
   </dsc> 

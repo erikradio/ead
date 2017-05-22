@@ -1,39 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Birney, Hoffman Letters?>
-<ead relatedencoding="MARC21"> 
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+ xmlns="urn:isbn:1-931666-22-9" relatedencoding="MARC21"> 
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Letters of Hoffman Birney)//en"
-	 "UAAZ004.xml"</eadid> 
+	<eadid>UAAZ004</eadid> 
   <filedesc> 
 	 <titlestmt> 
 		<titleproper encodinganalog="245$a">Hoffman Birney letters, 
 		  <date>1937-1954.</date></titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by staff.</author> 
 	 </titlestmt> 
-	 <publicationstmt> 
-		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
-		  Collections</publisher> 
-		<address> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>> 
-		</address> 
-		<date>&#x00A9; 2006</date> 
-		<p>Arizona Board of Regents. All Rights Reserved.</p> 
-	 </publicationstmt> 
+  	<publicationstmt> 
+  		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+  		<address> 
+  			<addressline>PO Box 210055</addressline> 
+  			<addressline>Tucson, AZ 85721-0055</addressline> 
+  			<addressline>Phone: 520-621-6423</addressline> 
+  			<addressline>Fax: 520-621-9733</addressline> 
+  			<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+  		</address> 
+  		<date normal= "2006" era= "ce" calendar = "gregorian">2006</date> 
+  		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+  	</publicationstmt> 
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Benjamin Richard
 		Grignon. 
 		<date>September 5, 2006</date></creation> 
-	 <langusage>Inventory is in<language langcode="en" encodinganalog="546">
+	 <langusage>Inventory is in<language langcode="eng" encodinganalog="546">
 		English.</language></langusage> 
   </profiledesc> 
+	<revisiondesc><change>
+		<date normal="20170302">2017-03-02</date>
+		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
+	</change></revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
@@ -58,30 +60,23 @@
 <archdesc level="collection"> 
   <did id="a1"> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Hoffman
+	 <unittitle encodinganalog="245" label="Collection Name">Hoffman
 		Birney letters, 
 		<unitdate type="inclusive"
 		 normal="1937/1954">1937-1954.</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us">AZ 004</unitid> 
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	  repositorycode="US-azu" countrycode="US">AZ 004</unitid> 
+	 <origination label="Creator"> 
 		<persname encodinganalog="100">Birney, Hoffman, 1891-1958.</persname>
 		</origination> 
-	 <abstract label="Abstract:">A collection of typescript letters to Dr.
+	 <abstract label="Abstract">A collection of typescript letters to Dr.
 		Melick on Mormonism as well as photographs of Birney and his son.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
 		encodinganalog="300">9 items (24 leaves).</extent></physdesc> 
-	 <repository label="Repository:"> 
+	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
-		<address> 
-		  <addressline>University of Arizona</addressline> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
-		</address></repository> 
+		</repository> 
   </did> 
   <accessrestrict encodinganalog="506"> 
 	 <head>Restrictions</head> 
@@ -99,7 +94,7 @@
   </userestrict> 
   <prefercite encodinganalog="524"> 
 	 <head>Credit Line</head> 
-	 <p>Hoffman Birney (AZ 004). Special Collections, Uniiversity of Arizona Libraries.</p> 
+	 <p>Hoffman Birney (AZ 004). Special Collections, University of Arizona Libraries.</p> 
   </prefercite> 
   <bioghist id="a2" encodinganalog="545"> 
 	 <head>Biographical Note</head> 
@@ -122,11 +117,11 @@
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
-		  <persname encodinganalog="100">Melick, Dermont W.</persname> </item> 
+			<persname encodinganalog="600" source= "lcnaf">Melick, Dermont W.</persname> </item> 
 		<item> 
-		  <subject>Mormons--History.</subject> </item> 
+			<subject encodinganalog="650" source= "lcsh">Mormons--History.</subject> </item> 
 		<item> 
-		  <subject>Mormon Church--History.</subject> </item> 
+			<subject encodinganalog="650" source= "lcsh">Mormon Church--History.</subject> </item> 
 	 </list> 
   </controlaccess> 
 </archdesc> </ead>

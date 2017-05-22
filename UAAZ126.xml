@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Arizona Mohair Growers Association Papers?>
-<ead relatedencoding="MARC21">
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21">
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Arizona Mohair Growers Association
-	 Papers)//en" "UAAZ126.xml"</eadid> 
+  <eadid>UAAZ126</eadid> 
   <filedesc> 
 	 <titlestmt> 
 		<titleproper encodinganalog="245$a">Arizona Mohair Growers Association
-		  Papers, 
+		  Papers 
 		  <date>1934-1951</date></titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by Staff.</author> 
 	 </titlestmt> 
@@ -30,15 +30,21 @@
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Linda A. Whitaker. 
-		<date>June 26, 2002</date></creation> 
-	 <langusage>Inventory is in<language langcode="en"
+		<date normal="20020626">2002-06-26</date></creation> 
+	 <langusage>Inventory is in<language langcode="eng"
 		encodinganalog="546">English.</language></langusage> 
   </profiledesc> 
+    <revisiondesc>
+        <change>
+            <date normal="20170309">2017-03-09</date>
+            <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+        </change>
+    </revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
 	 <titleproper encodinganalog="245$a">Arizona Mohair Growers Association
-		Papers, 
+		Papers
 		<date>1934-1951</date></titleproper> 
 	 <num>Collection Number: AZ 126</num> 
 	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
@@ -61,16 +67,16 @@
 	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage>
 </frontmatter>
-<archdesc level="collection"> 
-  <did id="a1"> 
+    <archdesc level="collection" type="inventory" encodinganalog="351$c">
+  <did> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Arizona Mohair
-		Growers Association, 
+	 <unittitle encodinganalog="245" label="Collection Name">Arizona Mohair
+		Growers Association 
 		<unitdate type="inclusive"
 		 normal="1934/1951">1934-1951</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us">AZ 126</unitid> 
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	  repositorycode="US-azu" countrycode="US">AZ 126</unitid> 
+	 <origination label="Creator"> 
 		<corpname encodinganalog="110">Arizona Mohair Growers
 		  Association</corpname></origination> 
 	 <abstract>Correspondence, financial records, minutes of meetings, reports,
@@ -80,9 +86,9 @@
 		and Federal agencies in the use of land, grazing districts, stock driveways,
 		marketing of mohair, sale of goat meat, and the eradication of predatory
 		animals.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
-		encodinganalog="300">.8 linear feet</extent></physdesc> 
-	 <repository label="Respository:"> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
+		encodinganalog="300">0.8 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
 		<address> 
@@ -112,7 +118,7 @@
 	 <head>Credit Line</head> 
 	 <p> Arizona Mohair Growers Association Papers (AZ 126). Special Collections, University of Arizona Libraries.</p> 
   </prefercite> 
-  <bioghist id="a2" encodinganalog="545"> 
+  <bioghist encodinganalog="545"> 
 	 <head>Historical Note</head> 
 	 <p>The Arizona Mohair Growers Association, based in Prescott; formed to
 		promote the mohair industry and study rangeland use and grazing.</p> 
@@ -125,7 +131,7 @@
 		<item>Series II: Business Correspondence, 1934-1949</item> 
 	 </list> 
   </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
 	 <p>Correspondence, financial records, minutes of meetings, reports,
 		statistics, photographs, articles and newspaper clippings relating to the
@@ -136,7 +142,7 @@
 		animals. Photographs, used for publicity, show angora goat herds, probably in
 		the Prescott, Ariz. area.</p> 
   </scopecontent> 
-  <controlaccess id="a12"> 
+  <controlaccess> 
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
@@ -145,42 +151,42 @@
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Goats -- Arizona </subject></item> 
+		    <subject encodinganalog="650" source= "lcsh">Goats -- Arizona </subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Mohair industry -- Arizona </subject></item> 
+		    <subject encodinganalog="650" source= "lcsh">Mohair industry -- Arizona </subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Grazing -- Arizona </subject></item> 
+		    <subject encodinganalog="650" source= "lcsh">Grazing -- Arizona </subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Rangelands -- Arizona </subject></item> 
+		    <subject encodinganalog="650" source= "lcsh">Rangelands -- Arizona </subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Correspondence</genreform></item> 
+		    <genreform encodinganalog="655" source="lcsh">Correspondence</genreform></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Photoprints</genreform></item> 
+		    <genreform encodinganalog="655">Photoprints</genreform></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Photographs</genreform></item> 
+		    <genreform encodinganalog="655" source="lcsh">Photographs</genreform></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Bills (financial)</genreform></item> 
+		    <genreform encodinganalog="655">Bills (financial)</genreform></item> 
 	 </list> 
   </controlaccess> 
-  <dsc type="combined" id="a23"> 
+  <dsc type="combined"> 
 	 <head>Container List</head> 
 	 <c01 level="series"> 
 		<did> 
-		  <unittitle>Series I: Business Records, 
+		  <unittitle>Series I: Business Records 
 			 <unitdate type="inclusive"
 			  normal="1934/1951">1934-1951</unitdate></unittitle> 
 		</did> 
@@ -188,7 +194,7 @@
 		  <did><container type="box">1</container><container
 			 type="folder">1</container> 
 			 <unittitle>Constitution, By-laws, Membership Lists, Various
-				Historical Items. 
+				Historical Items 
 				<unitdate type="inclusive"
 				 normal="1934/1951">1934-1951</unitdate></unittitle> 
 		  </did> 
@@ -196,7 +202,7 @@
 		<c02> 
 		  <did><container type="box">1</container><container
 			 type="folder">2</container> 
-			 <unittitle>Minutes of Meetings. 
+			 <unittitle>Minutes of Meetings 
 				<unitdate type="inclusive"
 				 normal="1936/1948">1936-1948</unitdate></unittitle> 
 		  </did> 
@@ -204,7 +210,7 @@
 		<c02> 
 		  <did><container type="box">1</container><container
 			 type="folder">3</container> 
-			 <unittitle>Official Notices. 
+			 <unittitle>Official Notices 
 				<unitdate type="inclusive"
 				 normal="1936/1947">1936-1947</unitdate></unittitle> 
 		  </did> 
@@ -212,7 +218,7 @@
 		<c02> 
 		  <did><container type="box">1</container><container
 			 type="folder">4</container> 
-			 <unittitle>Ballots and Correspondence Regarding Dispersal of Funds. 
+			 <unittitle>Ballots and Correspondence Regarding Dispersal of Funds 
 				<unitdate type="inclusive" normal="1951">1947,
 				  1951</unitdate></unittitle> 
 		  </did> 
@@ -221,7 +227,7 @@
 		  <did><container type="box">1</container><container
 			 type="folder">5</container> 
 			 <unittitle>Arizona State Land Code (proposed changes,
-				correpsondence). 
+				correspondence)
 				<unitdate type="inclusive"
 				 normal="1939/1942">1939-1942</unitdate></unittitle> 
 		  </did> 
@@ -229,7 +235,7 @@
 		<c02> 
 		  <did><container type="box">1</container><container
 			 type="folder">6</container> 
-			 <unittitle>Publicity (articles, clippings). 
+			 <unittitle>Publicity (articles, clippings)
 				<unitdate type="inclusive"
 				 normal="1936/1951">1936-1951</unitdate></unittitle> 
 		  </did> 
@@ -237,7 +243,7 @@
 		<c02> 
 		  <did><container type="box">1</container><container
 			 type="folder">7</container> 
-			 <unittitle>Photographs. 
+			 <unittitle>Photographs
 				<unitdate type="inclusive"
 				 normal="1936/1951">1936-1951</unitdate></unittitle> 
 		  </did> 
@@ -245,7 +251,7 @@
 		<c02> 
 		  <did><container type="box">1</container><container
 			 type="folder">8</container> 
-			 <unittitle>Bank of Arizona-Statements, Checks. 
+			 <unittitle>Bank of Arizona-Statements, Checks 
 				<unitdate type="inclusive"
 				 normal="1937/1943">1937-1943</unitdate></unittitle> 
 		  </did> 
@@ -253,7 +259,7 @@
 		<c02> 
 		  <did><container type="box">1</container><container
 			 type="folder">9</container> 
-			 <unittitle>Treasurer's Records, Ledger. 
+			 <unittitle>Treasurer's Records, Ledger 
 				<unitdate type="inclusive"
 				normal="1936/1946">1936-1946</unitdate></unittitle> 
 		  </did> 
@@ -261,7 +267,7 @@
 		<c02> 
 		  <did><container type="box">1</container><container
 			 type="folder">10</container> 
-			 <unittitle>Bills. 
+			 <unittitle>Bills 
 				<unitdate type="inclusive"
 				normal="1936/1943">1936-1943</unitdate></unittitle> 
 		  </did> 
@@ -269,14 +275,14 @@
 	 </c01> 
 	 <c01 level="series"> 
 		<did> 
-		  <unittitle>Series II: Business Correspondence, 
+		  <unittitle>Series II: Business Correspondence 
 			 <unitdate type="inclusive"
 			 normal="1934/1949">1934-1949</unitdate></unittitle> 
 		</did> 
 		<c02 level="file"> 
 		  <did><container type="box">2</container><container
 			 type="folder">1</container> 
-			 <unittitle>Correspondence-General. 
+			 <unittitle>Correspondence-General 
 				<unitdate type="inclusive"
 				normal="1936/1949">1936-1949</unitdate></unittitle> 
 		  </did> 
@@ -284,7 +290,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">2</container><container
 			 type="folder">2</container> 
-			 <unittitle>Correspondence-Goat Range Survey. 
+			 <unittitle>Correspondence-Goat Range Survey 
 				<unitdate type="inclusive"
 				normal="1936/1941">1936-1941</unitdate></unittitle> 
 		  </did> 
@@ -292,7 +298,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">2</container><container
 			 type="folder">3</container> 
-			 <unittitle>Correspondence-Grazing Districts. 
+			 <unittitle>Correspondence-Grazing Districts 
 				<unitdate type="inclusive"
 				normal="1936/1942">1936-1942</unitdate></unittitle> 
 		  </did> 
@@ -300,7 +306,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">2</container><container
 			 type="folder">4</container> 
-			 <unittitle>Correspondence-Stock Driveway. 
+			 <unittitle>Correspondence-Stock Driveway 
 				<unitdate type="inclusive"
 				normal="1939/1940">1939-1940</unitdate></unittitle> 
 		  </did> 
@@ -308,7 +314,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">2</container><container
 			 type="folder">5</container> 
-			 <unittitle>Correspondence-Biological Survey. 
+			 <unittitle>Correspondence-Biological Survey
 				<unitdate type="inclusive"
 				normal="1938/1948">1938-1948</unitdate></unittitle> 
 		  </did> 
@@ -316,7 +322,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">2</container><container
 			 type="folder">6</container> 
-			 <unittitle>Correspondence-San Carlos Strip. 
+			 <unittitle>Correspondence-San Carlos Strip 
 				<unitdate type="inclusive"
 				normal="1939/1941">1939-1941</unitdate></unittitle> 
 		  </did> 
@@ -325,7 +331,7 @@
 		  <did><container type="box">2</container><container
 			 type="folder">7</container> 
 			 <unittitle>Correspondence-Marketing Goats (includes material on 1934
-				drought). 
+				drought) 
 				<unitdate type="inclusive"
 				normal="1934/1942">1934-1942</unitdate></unittitle> 
 		  </did> 
@@ -333,7 +339,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">2</container><container
 			 type="folder">8</container> 
-			 <unittitle>Correspondence-Marketing Mohair. 
+			 <unittitle>Correspondence-Marketing Mohair 
 				<unitdate type="inclusive"
 				normal="1934/1945">1934-1945</unitdate></unittitle> 
 		  </did> 
@@ -343,7 +349,7 @@
 			 type="folder">9</container> 
 			 <unittitle>Correspondence-Miscellaneous Marketing Records (spring
 				clip, shipment records, meat market clippings, legal papers, statistical
-				charts, survey of mohair markets). 
+				charts, survey of mohair markets) 
 				<unitdate type="inclusive"
 				normal="1937/1939">1937-1939</unitdate></unittitle> 
 		  </did> 

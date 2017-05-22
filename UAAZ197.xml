@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Palmer, Edward Manuscripts?>
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21"> 
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Edward Palmer
-	 Manuscripts)//en""UAAZ197.xml"</eadid> 
+  <eadid>YAAZ197</eadid> 
   <filedesc> 
 	 <titlestmt> 
-		<titleproper encodinganalog="245$a">Edward Palmer manuscripts, 
+		<titleproper encodinganalog="245$a">Edward Palmer manuscripts
 		  <date>1861-1889</date></titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by Staff</author> 
 	 </titlestmt> 
@@ -29,14 +29,20 @@
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp 
-		<date>July 23, 2002</date></creation> 
-	 <langusage>Inventory is in<language langcode="en"
+		<date normal="20020723">2002-07-23</date></creation> 
+	 <langusage>Inventory is in<language langcode="eng"
 		encodinganalog="546">English.</language></langusage> 
   </profiledesc> 
+    <revisiondesc>
+        <change>
+            <date normal="20170323">2017-03-23</date>
+            <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+        </change>
+    </revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
-	 <titleproper encodinganalog="245$a">Edward Palmer manuscripts, 
+	 <titleproper encodinganalog="245$a">Edward Palmer manuscripts 
 		<date>1861-1889</date></titleproper> 
 	 <num>Collection Number: AZ 197</num> 
 	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
@@ -59,19 +65,19 @@
 	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage> 
 </frontmatter> 
-<archdesc level="collection"> 
-  <did id="a1"> 
+    <archdesc level="collection" type="inventory" encodinganalog="351$c">
+  <did> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Edward Palmer
-		manuscripts, 
+	 <unittitle encodinganalog="245" label="Collection Name">Edward Palmer
+		manuscripts 
 		<unitdate type="inclusive"
 		 normal="1861/1889">1861-1889</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us"> AZ 197</unitid> 
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	  repositorycode="US-azu" countrycode="US"> AZ 197</unitid> 
+	 <origination label="Creator"> 
 		<persname encodinganalog="100">Palmer, Edward,
 		  1831-1911</persname></origination> 
-	 <abstract label="Abstract:">This collection includes original manuscripts
+	 <abstract label="Abstract">This collection includes original manuscripts
 		concerning Native Americans, Arizona military posts, and journeys in the
 		Southwest. Holograph manuscripts in various hands include observations of
 		Apaches while stationed at Camp Grant, 1866-1867; life and events at Camp
@@ -79,9 +85,9 @@
 		Indians, 1885; Yuma Indians, 1867, 1885-1889; a journey from Fort Mohave to
 		Williams Fork copper mines, 1870; a journey from Prescott to La Paz, 1869;
 		Montezuma Well, ca 1866; and Civil War notes, 1861-1866.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
-		encodinganalog="300">.4 linear feet</extent></physdesc> 
-	 <repository label="Repository:"> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
+		encodinganalog="300">0.4 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
 		<address> 
@@ -111,7 +117,7 @@
 	 <head>Credit Line</head> 
   	<p>Edward Palmer manuscripts (AZ 197). Special Collections, University of Arizona Libraries.</p> 
   </prefercite> 
-  <bioghist id="a2" encodinganalog="545"> 
+  <bioghist encodinganalog="545"> 
 	 <head>Biographical Note</head> 
 	 <p>Edward Palmer was an Acting Assistant Surgeon in the U. S. Army, and was
 		later employed by the U. S. Dept. of Agriculture from 1865-1889. He was an
@@ -126,7 +132,7 @@
 		<item>Series III: Miscellaneous Material, 1861-1889</item> 
 	 </list> 
   </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
 	 <p>This collection includes original manuscripts concerning Native
 		Americans, Arizona military posts, and journeys in the Southwest. Holograph
@@ -137,44 +143,42 @@
 		1870; a journey from Prescott to La Paz, 1869; Montezuma Well, ca 1866; and
 		Civil War notes, 1861-1866.</p> 
   </scopecontent> 
-  <controlaccess id="a12"> 
+  <controlaccess> 
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
-		  <subject>Apache Indians -- History -- 19th century</subject></item> 
+		    <subject encodinganalog="650">Apache Indians -- History -- 19th century</subject></item> 
 		<item> 
-		  <subject>Pima Indians -- History -- 19th century</subject></item> 
+		    <subject encodinganalog="650">Pima Indians -- History -- 19th century</subject></item> 
 		<item> 
-		  <subject>Military bases -- Arizona -- History</subject></item> 
+		    <subject encodinganalog="650">Military bases -- Arizona -- History</subject></item> 
 		<item> 
-		  <subject>Fort Verde (Ariz.) -- History</subject></item> 
+		    <geogname encodinganalog="651">Fort Verde (Ariz.) -- History</geogname></item> 
 		<item> 
-		  <geogname>Fort Verde (Ariz.) -- History</geogname></item> 
+		    <geogname encodinganalog="651">Fort Grant (Ariz.) -- History</geogname></item> 
 		<item> 
-		  <geogname>Fort Grant (Ariz.) -- History</geogname></item> 
-		<item> 
-		  <geogname>Montezuma Well (Yavapai County, Ariz.) --
+		    <geogname encodinganalog="651">Montezuma Well (Yavapai County, Ariz.) --
 			 History</geogname></item> 
 		<item> 
-		  <geogname>Arizona -- History -- To 1912 -- Sources</geogname></item> 
+		    <geogname encodinganalog="651">Arizona -- History -- To 1912 -- Sources</geogname></item> 
 		<item> 
-		  <geogname>Arizona -- Description and travel</geogname></item> 
+		    <geogname encodinganalog="651">Arizona -- Description and travel</geogname></item> 
 		<item> 
-		  <genreform>Holographic Manuscripts</genreform></item> 
+		    <genreform encodinganalog="655">Holographic Manuscripts</genreform></item> 
 	 </list> 
   </controlaccess> 
-  <dsc type="combined" id="a23"> 
+  <dsc type="combined"> 
 	 <head>Container List</head> 
-	 <c01 level="series" id="ser1"> 
+	 <c01 level="series" id="s1"> 
 		<did> 
-		  <unittitle>Series I: Apache and Camp Grant Material, 
+		  <unittitle>Series I: Apache and Camp Grant Material 
 			 <unitdate type="inclusive" normal="1866/1867">1866-1867
 				</unitdate></unittitle> 
 		</did> 
 		<c02 level="file"> 
 		  <did> <container type="box">1</container> <container
 			 type="folder">1</container> 
-			 <unittitle>Camp Grant Material. 
+			 <unittitle>Camp Grant Material
 				<unitdate type="inclusive" normal="1866/1867">1866-1867
 				  </unitdate></unittitle> 
 		  </did> 
@@ -190,7 +194,7 @@
 		<c02 level="file"> 
 		  <did> <container type="box">1</container> <container
 			 type="folder">1</container> 
-			 <unittitle>Apache Material. 
+			 <unittitle>Apache Material
 				<unitdate type="inclusive"
 				 normal="1866/1867">1866-1867</unitdate></unittitle> 
 		  </did> 
@@ -202,14 +206,14 @@
 	 </c01> 
 	 <c01 level="series"> 
 		<did> 
-		  <unittitle>Series II: Life at Camp Lincoln (Camp Verde), 
+		  <unittitle>Series II: Life at Camp Lincoln (Camp Verde)
 			 <unitdate type="inclusive"
 			 normal="1865/1866">1865-1866</unitdate></unittitle> 
 		</did> 
 		<c02 level="file"> 
 		  <did> <container type="box">1</container> <container
 			 type="folder">2</container> 
-			 <unittitle>Arizona Notes. 
+			 <unittitle>Arizona Notes 
 				<unitdate type="inclusive"
 				normal="1865/1866">1865-1866</unitdate></unittitle> 
 		  </did> 
@@ -221,7 +225,7 @@
 		<c02 level="file"> 
 		  <did> <container type="box">1</container> <container
 			 type="folder">2</container> 
-			 <unittitle>Camp Lincoln and Camp Verde. 
+			 <unittitle>Camp Lincoln and Camp Verde
 				<unitdate type="inclusive"
 				normal="1865/1866">1865-1866</unitdate></unittitle> 
 		  </did> 
@@ -235,14 +239,14 @@
 	 </c01> 
 	 <c01 level="series"> 
 		<did> 
-		  <unittitle>Series III: Miscellaneous Material, 
+		  <unittitle>Series III: Miscellaneous Material 
 			 <unitdate type="inclusive"
 			 normal="1861/1889">1861-1889</unitdate></unittitle> 
 		</did> 
 		<c02 level="file"> 
 		  <did> <container type="box">1</container> <container
 			 type="folder">3</container> 
-			 <unittitle>Pima Indian Material. 
+			 <unittitle>Pima Indian Material
 				<unitdate type="inclusive"
 				normal="1885">1885</unitdate></unittitle> 
 		  </did> 
@@ -255,9 +259,9 @@
 		<c02 level="file"> 
 		  <did> <container type="box">1</container> <container
 			 type="folder">3</container> 
-			 <unittitle>Montezuma Well. 
+			 <unittitle>Montezuma Well
 				<unitdate type="inclusive"
-				normal="NaN">1866?</unitdate></unittitle> 
+				normal="1866">1866?</unitdate></unittitle> 
 		  </did> 
 		  <scopecontent> 
 			 <p>Description of Montezuma Well on Beaver Creek with a pencil
@@ -267,7 +271,7 @@
 		<c02 level="file"> 
 		  <did> <container type="box">1</container> <container
 			 type="folder">3</container> 
-			 <unittitle>Arizona War News. 
+			 <unittitle>Arizona War News
 				<unitdate type="inclusive"
 				normal="1861/1866">1861-1866</unitdate></unittitle> 
 		  </did> 
@@ -278,7 +282,7 @@
 		<c02> 
 		  <did> <container type="box">1</container> <container
 			 type="folder">3</container> 
-			 <unittitle>Trip from Fort Mohave to Williams Fork Copper Mines. 
+			 <unittitle>Trip from Fort Mohave to Williams Fork Copper Mines 
 				<unitdate type="inclusive"
 				normal="1870">1870</unitdate></unittitle> 
 		  </did> 
@@ -286,8 +290,8 @@
 		<c02 level="file"> 
 		  <did> <container type="box">1</container> <container
 			 type="folder">3</container> 
-			 <unittitle>Yuma Indian Material. 
-				<unitdate type="inclusive" normal="NaN/1889">1867,
+			 <unittitle>Yuma Indian Material
+				<unitdate type="inclusive" normal="1867/1889">1867,
 				  1885-1889</unitdate></unittitle> 
 		  </did> 
 		  <scopecontent> 
@@ -298,7 +302,7 @@
 		<c02 level="file"> 
 		  <did> <container type="box">1</container> <container
 			 type="folder">3</container> 
-			 <unittitle>Trip from Prescott to La Paz. 
+			 <unittitle>Trip from Prescott to La Paz 
 				<unitdate type="inclusive"
 				normal="1869">1869</unitdate></unittitle> 
 		  </did> 

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Cameron, Ralph Henry papers?>
-<ead relatedencoding="MARC21">
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21">
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Ralph Henry Cameron papers)//en"
-	 "UAAZ127.xml"</eadid> 
+  <eadid>UAAZ127</eadid> 
   <filedesc> 
 	 <titlestmt> 
-		<titleproper encodinganalog="245$a">Ralph Henry Cameron papers, 
+		<titleproper encodinganalog="245$a">Ralph Henry Cameron papers 
 		  <date>1899-1915</date></titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by Staff. </author> 
 	 </titlestmt> 
@@ -29,14 +29,20 @@
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Linda A. Whitaker 
-		<date>June 27, 2002</date></creation> 
-	 <langusage>Inventory is in<language langcode="en"
+		<date normal="20020627">2002-06-27</date></creation> 
+	 <langusage>Inventory is in<language langcode="eng"
 		encodinganalog="546">English.</language></langusage> 
-  </profiledesc> 
+  </profiledesc>
+    <revisiondesc>
+        <change>
+            <date normal="20170314">2017-03-14</date>
+            <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+        </change>
+    </revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
-	 <titleproper encodinganalog="245$a">Ralph Henry Cameron papers, 
+	 <titleproper encodinganalog="245$a">Ralph Henry Cameron papers
 		<date>1899-1915</date></titleproper> 
 	 <num>Collection Number: AZ 127</num> 
 	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
@@ -59,16 +65,16 @@
 	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage>
 </frontmatter>
-<archdesc level="collection"> 
-  <did id="a1"> 
+<archdesc level="collection" type="inventory" encodinganalog="351$c">
+  <did> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Ralph Henry
-		Cameron papers, 
+	 <unittitle encodinganalog="245" label="Collection Name">Ralph Henry
+		Cameron papers
 		<unitdate type="inclusive"
 		 normal="1899/1915">1899-1915</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us"> AZ 127</unitid> 
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	  repositorycode="US-azu" countrycode="US">AZ 127</unitid> 
+	 <origination label="Creator"> 
 		<persname encodinganalog="100">Cameron, Ralph H.
 		  </persname></origination> 
 	 <abstract>Correspondence and other papers relating chiefly to Cameron's
@@ -76,9 +82,9 @@
 		projects. Grand Canyon material include letters and legal papers relating to
 		Bright Angel Trail, mining claims, a proposed power project, 1907-1912, and
 		four guest registers of Cameron's Hotel and Camps, 1903-1907. </abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
 		encodinganalog="300">2.3 linear feet</extent></physdesc> 
-	 <repository label="Respository:"> 
+	 <repository label="Respository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
 		<address> 
@@ -109,7 +115,7 @@
 	 <p>Ralph Henry Cameron papers (AZ 127). Special
 		Collections, University of Arizona.</p> 
   </prefercite> 
-  <bioghist id="a2" encodinganalog="545"> 
+  <bioghist encodinganalog="545"> 
 	 <head>Biographical Note</head> 
 	 <p>Delegate to the U.S. Congress from Arizona, 1909-1912; U.S. Senator,
 		1921-1927; and businessman, operated Cameron's Hotel and Camps and developed
@@ -127,7 +133,7 @@
 		<item>Series IV: Grand Canyon Materials, 1899-1912</item> 
 	 </list> 
   </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
 	 <p>Correspondence and other papers relating chiefly to Cameron's term as
 		U.S. Delegate, Arizona statehood, political appointments, bills, and projects.
@@ -145,117 +151,117 @@
 		forests including Garces, Coconino, Prescott, and Chiricahua National Forests.
 		</p> 
   </scopecontent> 
-  <controlaccess id="a12"> 
+  <controlaccess> 
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
-		  <persname encodinganalog="100">Cameron, Ralph Henry, 1863-1953 --
+		  <persname encodinganalog="100" source="lcnf">Cameron, Ralph Henry, 1863-1953 --
 			 Archives </persname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <persname encodinganalog="100"> Sloan, Richard E., 1857- --
+			<persname encodinganalog="100" source="lcnf">Sloan, Richard E., 1857- --
 			 Correspondence </persname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <persname encodinganalog="100"> Hubbell, John Lorenzo -- Correspondence
+			<persname encodinganalog="100" source="lcnf">Hubbell, John Lorenzo -- Correspondence
 			 </persname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <persname encodinganalog="100">Ferrall, Louisa -- Correspondence
+			<persname encodinganalog="100" source="local">Ferrall, Louisa -- Correspondence
 			 </persname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <persname encodinganalog="100"> Spaulding, Clarence -- Correspondence
+		  <persname encodinganalog="100" source="local"> Spaulding, Clarence -- Correspondence
 			 </persname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <persname encodinganalog="100"> Cotton, C. N. (Clinton Neal), 1859-1936
+		  <persname encodinganalog="100" source="lcnaf"> Cotton, C. N. (Clinton Neal), 1859-1936
 			 -- Correspondence </persname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <persname encodinganalog="100">Kolb, E. L. (Ellsworth Leonardson),
+		  <persname encodinganalog="100" source="lcnaf">Kolb, E. L. (Ellsworth Leonardson),
 			 1876- -- Correspondence </persname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Mines and mineral resources -- Arizona -- Coconino County
+			<subject encodinganalog="650" source="lcsh">Mines and mineral resources -- Arizona -- Coconino County
 			 </subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject> Tourist camps, hostels, etc. -- Arizona -- Grand Canyon
+			<subject encodinganalog="650" source="lcsh">Tourist camps, hostels, etc. -- Arizona -- Grand Canyon
 			 </subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Hotels -- Arizona -- Grand Canyon </subject></item> 
+		  <subject encodinganalog="650" source="lcsh">Hotels -- Arizona -- Grand Canyon </subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Statehood (American politics) </subject></item> 
+			<subject encodinganalog="650" source="lcsh">Statehood (American politics) </subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <geogname>Arizona </geogname></item> 
+			<geogname encodinganalog="651" source="lcsh">Arizona </geogname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <geogname> Arizona -- Politics and government -- To 1950
+			<geogname encodinganalog="651" source="lcsh">Arizona -- Politics and government -- To 1950
 			 </geogname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <geogname>Arizona -- History -- Sources </geogname></item> 
+			<geogname encodinganalog="651" source="lcsh">Arizona -- History -- Sources </geogname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <geogname> Grand Canyon (Ariz.) -- History -- Sources
+			<geogname encodinganalog="651" source="lcsh">Grand Canyon (Ariz.) -- History -- Sources
 			 </geogname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <geogname>Gila River Region (N.M. and Ariz.) -- History -- 20th century
+			<geogname encodinganalog="651" source="lcsh">Gila River Region (N.M. and Ariz.) -- History -- 20th century
 			 -- Sources </geogname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <geogname>Tucson (Ariz.) -- Buildings </geogname></item> 
+			<geogname encodinganalog="651" source="lcsh">Tucson (Ariz.) -- Buildings </geogname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Correspondence</genreform></item> 
+		  <genreform encodinganalog="655">Correspondence</genreform></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Photoprints</genreform></item> 
+			<genreform encodinganalog="655">Photoprints</genreform></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Photographs</genreform></item> 
+			<genreform encodinganalog="655">Photographs</genreform></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Guest Registers</genreform></item> 
+			<genreform encodinganalog="655">Guest Registers</genreform></item> 
 	 </list> 
   </controlaccess> 
-  <dsc type="combined" id="a23"> 
+  <dsc type="combined"> 
 	 <head>Container List</head> 
-	 <c01 level="series" id="ser1"> 
+	 <c01 level="series" id="s1"> 
 		<did> 
-		  <unittitle>Series I: Statehood Correspondence, 
+		  <unittitle>Series I: Statehood Correspondence 
 			 <unitdate type="inclusive"
 			 normal="1909/1911">1909-1911</unitdate></unittitle> 
 		</did> 
 		<c02 level="file"> 
 		  <did><container type="box">1</container><container
 			 type="folder">1-7</container> 
-			 <unittitle>Correspondence. 
+			 <unittitle>Correspondence
 				<unitdate type="inclusive"
 				normal="1909/1911">1909-1911</unitdate></unittitle> 
 		  </did> 
@@ -272,14 +278,14 @@
 	 </c01> 
 	 <c01 level="series"> 
 		<did> 
-		  <unittitle>Series II: Political Apointments, Bills and Projects, 
+		  <unittitle>Series II: Political Appointments, Bills and Projects 
 			 <unitdate type="inclusive"
 			 normal="1909/1912">1909-1912</unitdate></unittitle> 
 		</did> 
 		<c02 level="file"> 
 		  <did><container type="box">2</container><container
 			 type="folder">1</container> 
-			 <unittitle>Political Appointments: Assistant U.S. District Attorney. 
+			 <unittitle>Political Appointments: Assistant U.S. District Attorney 
 				<unitdate type="inclusive"
 				normal="1909">1909</unitdate></unittitle> 
 		  </did> 
@@ -287,7 +293,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">2</container><container
 			 type="folder">2</container> 
-			 <unittitle>Political Appointments: Governor. 
+			 <unittitle>Political Appointments: Governor 
 				<unitdate type="inclusive"
 				normal="1909">1909</unitdate></unittitle> 
 		  </did> 
@@ -296,7 +302,7 @@
 		  <did><container type="box">2</container><container
 			 type="folder">3</container> 
 			 <unittitle>Political Appointments: Justice of the Supreme Court, A.T.
-				(Edward M. Doe). 
+				(Edward M. Doe)
 				<unitdate type="inclusive"
 				normal="1909">1909</unitdate></unittitle> 
 		  </did> 
@@ -305,7 +311,7 @@
 		  <did><container type="box">2</container><container
 			 type="folder">4</container> 
 			 <unittitle>Political Appointments: Justice of the Supreme Court, A.T.
-				(E.W. Lewis). 
+				(E.W. Lewis) 
 				<unitdate type="inclusive"
 				normal="1909">1909</unitdate></unittitle> 
 		  </did> 
@@ -321,7 +327,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">2</container><container
 			 type="folder">6</container> 
-			 <unittitle>Political Appointments: U.S. Marshal. 
+			 <unittitle>Political Appointments: U.S. Marshal 
 				<unitdate type="inclusive"
 				normal="1908/1909">1908-1909</unitdate></unittitle> 
 		  </did> 
@@ -329,8 +335,8 @@
 		<c02 level="file"> 
 		  <did><container type="box">2</container><container
 			 type="folder">7</container> 
-			 <unittitle>Political Appointments: U.S. Disrict Attoney (J.E.
-				Morrison). 
+			 <unittitle>Political Appointments: U.S. District Attorney (J.E.
+				Morrison) 
 				<unitdate type="inclusive"
 				normal="1909/1910">1909-1910</unitdate></unittitle> 
 		  </did> 
@@ -338,7 +344,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">2</container><container
 			 type="folder">8-9</container> 
-			 <unittitle>Press Relations: Correspondence. 
+			 <unittitle>Press Relations: Correspondence 
 				<unitdate type="inclusive"
 				normal="1909/1911">1909-1911</unitdate></unittitle> 
 		  </did> 
@@ -347,7 +353,7 @@
 		  <did><container type="box">3</container><container
 			 type="folder">1</container> 
 			 <unittitle>Political Bills and Projects: Colorado Indian Reservation
-				Mining Claims. 
+				Mining Claims
 				<unitdate type="inclusive"
 				normal="1910/1912">1910-1912</unitdate></unittitle> 
 		  </did> 
@@ -356,7 +362,7 @@
 		  <did><container type="box">3</container><container
 			 type="folder">2</container> 
 			 <unittitle>Political Bills and Projects: Conservation of Timber Lands
-				(Proclamations from the President of the United States). 
+				(Proclamations from the President of the United States)
 				<unitdate type="inclusive"
 				normal="1910">1910</unitdate></unittitle> 
 		  </did> 
@@ -374,7 +380,7 @@
 		  <did><container type="box">3</container><container
 			 type="folder">4</container> 
 			 <unittitle>Political Bills and Projects: General Frank H. Hitchcock's
-				Trip. 
+				Trip 
 				<unitdate type="inclusive"
 				 normal="1909">1909</unitdate></unittitle> 
 		  </did> 
@@ -382,7 +388,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">3</container><container
 			 type="folder">5</container> 
-			 <unittitle>Political Bills and Projects: Gila River Project. 
+			 <unittitle>Political Bills and Projects: Gila River Project 
 				<unitdate type="inclusive"
 				 normal="1910/1912">1910-1912</unitdate></unittitle> 
 		  </did> 
@@ -391,7 +397,7 @@
 		  <did><container type="box">3</container><container
 			 type="folder">6</container> 
 			 <unittitle>Political Bills and Projects: Grand Canyon Scenic Railroad
-				Bill. 
+				Bill
 				<unitdate type="inclusive"
 				 normal="1909/1911">1909-1911</unitdate></unittitle> 
 		  </did> 
@@ -399,7 +405,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">3</container><container
 			 type="folder">7</container> 
-			 <unittitle>Political Bills and Projects: Hamilton-Owen Bill. 
+			 <unittitle>Political Bills and Projects: Hamilton-Owen Bill 
 				<unitdate type="inclusive"
 				 normal="1910">1910</unitdate></unittitle> 
 		  </did> 
@@ -407,7 +413,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">3</container><container
 			 type="folder">8</container> 
-			 <unittitle>Political Bills and Projects: Territorial Tax Bill. 
+			 <unittitle>Political Bills and Projects: Territorial Tax Bill 
 				<unitdate type="inclusive"
 				 normal="1910/1911">1910-1911</unitdate></unittitle> 
 		  </did> 
@@ -438,7 +444,7 @@
 	 </c01> 
 	 <c01 level="series"> 
 		<did> 
-		  <unittitle>Series III: General Correspondence and Personal Materials, 
+		  <unittitle>Series III: General Correspondence and Personal Materials 
 			 <unitdate type="inclusive"
 			  normal="1901/1915">1901-1915</unitdate></unittitle> 
 		</did> 
@@ -446,7 +452,7 @@
 		  <did><container type="box">3</container><container
 			 type="folder">10</container> 
 			 <unittitle>Miscellaneous Personal Material (photographs, clippings,
-				political memorabilia, account book). 
+				political memorabilia, account book) 
 				<unitdate type="inclusive"
 				 normal="1901/1915">1901-1915</unitdate></unittitle> 
 		  </did> 
@@ -454,15 +460,14 @@
 		<c02 level="file"> 
 		  <did><container type="box">4</container><container
 			 type="folder">1-4</container> 
-			 <unittitle>General Correspondence. 
-				<unitdate type="inclusive" normal="">1904-1911,
-				  1915</unitdate></unittitle> 
+			 <unittitle>General Correspondence
+				<unitdate type="inclusive" normal="1904/1915">1904-1911, 1915</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 	 </c01> 
 	 <c01 level="series"> 
 		<did> 
-		  <unittitle>Series IV: Grand Canyon Materials, 
+		  <unittitle>Series IV: Grand Canyon Materials 
 			 <unitdate type="inclusive"
 			  normal="1899/1912">1899-1912</unitdate></unittitle> 
 		</did> 
@@ -478,7 +483,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">4</container><container
 			 type="folder">8</container> 
-			 <unittitle>Grand Canyon Power Project Correspondence. 
+			 <unittitle>Grand Canyon Power Project Correspondence
 				<unitdate type="inclusive"
 				 normal="1907/1912">1907-1912</unitdate></unittitle> 
 		  </did> 
@@ -486,25 +491,24 @@
 		<c02 level="file"> 
 		  <did><container type="box">4</container><container
 			 type="folder">9</container> 
-			 <unittitle>Grand Canyon Miscellaneous Papers. 
+			 <unittitle>Grand Canyon Miscellaneous Papers 
 				<unitdate type="inclusive"
 				 normal="1899/1912">1899-1912</unitdate></unittitle> 
 		  </did> 
 		</c02> 
-		<c02 level="file"> 
-		  <did><container type="box">5</container><container
-			 type="folder">1-2</container> 
-			 <unittitle>Grand Canyon Legal Papers. 
-				<unitdate type="inclusive" normal="">1899-1903, 1906-1907,
-				  1909-1912</unitdate></unittitle> 
-		  </did> 
+	     <c02 level="file"> 
+	         <did><container type="box">5</container><container
+	             type="folder">1-2</container> 
+	             <unittitle>Grand Canyon Legal Papers 
+	             	<unitdate type="inclusive" normal="1899/1912">1899-1903, 1906-1907, 1909-1912</unitdate></unittitle> 
+	         </did> 
 		  <scopecontent> 
 			 <p>Includes: Registers for Cameron's Hotel and Camps, 1903-1906.</p> 
 		  </scopecontent> 
 		</c02> 
 		<c02 level="file"> 
 		  <did><container type="box">6</container> 
-			 <unittitle>Registers for Cameron's Hotel and Camps. 
+			 <unittitle>Registers for Cameron's Hotel and Camps
 				<unitdate type="inclusive"
 				 normal="1906/1907">1906-1907</unitdate></unittitle> 
 		  </did> 

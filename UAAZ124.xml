@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Land management survey, Navajo Indian Reservation Reports?>
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21"> 
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u"> PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Land management survey, Navajo
-	 Indian Reservation Reports)//en" "UAAZ124.xml"</eadid> 
+  <eadid>UAAZ124</eadid> 
   <filedesc> 
 	 <titlestmt> 
 		<titleproper encodinganalog="245$a">Land management survey,
-		  Navajo Indian Reservation reports, 
+		  Navajo Indian Reservation reports 
 		  <date>1930-1938</date></titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by Lynn R.
 		  Bailey</author> 
@@ -33,14 +33,20 @@
 	 <creation encodinganalog="500">Inventory encoded by Jennifer Walele/
 	C.Wommack 
 		<date>2003 / 2005</date></creation> 
-	 <langusage>Inventory is in<language langcode="en"
+	 <langusage>Inventory is in<language langcode="eng"
 		encodinganalog="546">English.</language></langusage> 
-  </profiledesc> 
+  </profiledesc>
+    <revisiondesc>
+        <change>
+            <date normal="20170308">2017-03-08</date>
+            <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+        </change>
+    </revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
 	 <titleproper encodinganalog="245$a">Land management survey,
-		Navajo Indian Reservation reports, 
+		Navajo Indian Reservation reports
 		<date>1930-1938</date></titleproper> 
 	 <num>Collection Number: AZ 124</num> 
 	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
@@ -63,27 +69,27 @@
 	 <p>&#x00A9; 2006. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage> 
 </frontmatter> 
-<archdesc level="collection"> 
-  <did id="a1"> 
+    <archdesc level="collection" type="inventory" encodinganalog="351$c">
+  <did> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Land
-		management survey, Navajo Indian Reservation reports, 
+	 <unittitle encodinganalog="245" label="Collection Name">Land
+		management survey, Navajo Indian Reservation reports
 		<unitdate type="inclusive"
 		 normal="1930/1938">1930-1938</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us">AZ 124</unitid> 
-	 <origination label="Creator:"> 
-		<corpname encodinganalog="110">United States. Soil Conservation Service,
+	 <unitid label="Collection Number" encodinganalog="099"
+	  repositorycode="US-azu" countrycode="US">AZ 124</unitid> 
+	 <origination label="Creator"> 
+		<corpname encodinganalog="110">United States. Soil Conservation Service
 		  </corpname> 
 		<persname encodinganalog="100">McColm, George L.</persname></origination>
 	 
-	 <abstract label="Abstract:">This collection consists of manuscripts and
+	 <abstract label="Abstract">This collection consists of manuscripts and
 		preliminary reports relating to soil conservation, range conditions, crop
 		production, timber and water resources on the Navajo Reservation during the
 		1930's.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
 		encodinganalog="300">2.0 linear feet</extent></physdesc> 
-	 <repository label="Repository:"> 
+	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
 		<address> 
 		  <addressline>University of Arizona</addressline> 
@@ -112,25 +118,21 @@
 	 <head>Credit Line</head> 
 	 <p>Land management survey, Navajo Indian Reservation reports (AZ 124). Special Collections, University of Arizona Libraries.</p> 
   </prefercite> 
-  <bioghist id="a2" encodinganalog="545"> 
-	 <head>Historical Note</head> 
-	 <p><?xm-replace_text {Text of Biographical Sketch}?></p> 
-  </bioghist> 
   <arrangement> 
 	 <head>Organization</head> 
 	 <p>This collection is organized into 2 Series. Series 1 includes 18
 		subseries of reports and maps based on geographical units within the
 		reservation. Series 2 consists of miscellaneous reports and maps.</p> 
 	 <list> 
-		<item>Series 1: Navajo Reservation Units 1-18, 
+		<item>Series 1: Navajo Reservation Units 1-18 
 		  <unitdate type="inclusive"
-		  normal="NaN/1938">ca.1930-1938</unitdate></item> 
-		<item>Series 2: Miscellaneous reports and maps, 
+		  normal="1930/1938">ca.1930-1938</unitdate></item> 
+		<item>Series 2: Miscellaneous reports and maps
 		  <unitdate type="inclusive"
 		  normal="1935/1941">1935-1941</unitdate></item> 
 	 </list> 
   </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
 	 <p>This collection consists of 54 bound folders containing manuscripts and
 		preliminary reports relating to the agronomy, soil and water conservation
@@ -139,38 +141,38 @@
 		arranged according to units based on geographical divisions within the
 		reservation.</p> 
   </scopecontent> 
-  <controlaccess id="a12"> 
+  <controlaccess> 
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
-		  <subject>United States. Soil Conservation Service</subject></item> 
+			<corpname encodinganalog="610">United States. Soil Conservation Service</corpname></item> 
 		<item> 
-		  <subject>Soil Conservation--Arizona</subject></item> 
+			<subject encodinganalog="650">Soil Conservation--Arizona</subject></item> 
 		<item> 
-		  <subject>Soil Surveys--Navajo Indian Reservation</subject></item> 
+			<subject encodinganalog="650">Soil Surveys--Navajo Indian Reservation</subject></item> 
 		<item> 
-		  <subject>Rangelands--Navajo Indian Reservation</subject></item> 
+			<subject encodinganalog="650">Rangelands--Navajo Indian Reservation</subject></item> 
 		<item> 
-		  <subject>Range Management--Navajo Indian Reservation</subject></item> 
+			<subject encodinganalog="650">Range Management--Navajo Indian Reservation</subject></item> 
 		<item> 
-		  <geogname>Navajo Indian Reservation</geogname></item> 
+		  <geogname encodinganalog="651">Navajo Indian Reservation</geogname></item> 
 		<item> 
-		  <genreform>Publications</genreform></item> 
+		  <genreform encodinganalog="655">Publications</genreform></item> 
 	 </list> 
   </controlaccess> 
-  <dsc type="combined" id="a23"> 
+  <dsc type="combined"> 
 	 <head>Container List</head>
-	 <c01 level="series" id="ser1"> 
+	 <c01 level="series" id="s1"> 
 		<did> 
-		  <unittitle>Series 1: Navajo Reservation geographical Units 1-18, 
+		  <unittitle>Series 1: Navajo Reservation geographical Units 1-18 
 			 <unitdate type="inclusive"
-			  normal="NaN/1938">ca.1930-1938</unitdate></unittitle> 
+			  normal="1930/1938">ca.1930-1938</unitdate></unittitle> 
 		</did> 
 		<c02 level="subseries"> 
 		  <did> 
 			 <unittitle>Subseries 1, Unit One 
 				<unitdate type="inclusive"
-				 normal="NaN/1938">ca.1930-1938</unitdate></unittitle> 
+				 normal="1930/1938">ca.1930-1938</unitdate></unittitle> 
 		  </did> 
 		  <scopecontent> 
 			 <p>Located in the northwestern area of the Navajo Indian Reservation,
@@ -180,7 +182,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">1</container> <container
 				type="volume">1</container> 
-				<unittitle>Engineering Report, 
+				<unittitle>Engineering Report
 				  <unitdate type="inclusive" normal="1925/1935">ca.
 					 1930</unitdate></unittitle> 
 			 </did> 
@@ -194,7 +196,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">1</container> <container
 				type="volume">2</container> 
-				<unittitle>Agronomy Branch Report, 
+				<unittitle>Agronomy Branch Report 
 				  <unitdate type="inclusive"
 				  normal="1937">1937</unitdate></unittitle> 
 			 </did> 
@@ -207,7 +209,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">1</container> <container
 				type="volume">3</container> 
-				<unittitle>Range Management Branch Report, 
+				<unittitle>Range Management Branch Report 
 				  <unitdate type="inclusive" normal="1937">May,
 					 1937</unitdate></unittitle> 
 			 </did> 
@@ -220,7 +222,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">1</container> <container
 				type="volume">4</container> 
-				<unittitle>Land Planning Report, 
+				<unittitle>Land Planning Report
 				  <unitdate type="inclusive" normal="1938">January,
 					 1938</unitdate></unittitle> 
 			 </did> 
@@ -235,7 +237,7 @@
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 2, Unit Two, 
+			 <unittitle>Subseries 2, Unit Two 
 				<unitdate type="inclusive"
 				normal="1938">1938</unitdate></unittitle> 
 		  </did> 
@@ -247,7 +249,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">1</container> <container
 				type="volume">5</container> 
-				<unittitle>Engineering Report, 
+				<unittitle>Engineering Report
 				  <unitdate type="inclusive" normal="1938">January,
 					 1938</unitdate></unittitle> 
 			 </did> 
@@ -260,8 +262,8 @@
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 3, Unit Three, 
-				<unitdate type="inclusive" normal="NaN/1938">ca.
+			 <unittitle>Subseries 3, Unit Three 
+				<unitdate type="inclusive" normal="1937/1938">ca.
 				  1937-1938</unitdate></unittitle> 
 		  </did> 
 		  <scopecontent> 
@@ -273,7 +275,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">1</container> <container
 				type="volume">6</container> 
-				<unittitle>Agronomy Branch Report, 
+				<unittitle>Agronomy Branch Report 
 				  <unitdate type="inclusive" normal="1930/1938">no
 					 date</unitdate></unittitle> 
 			 </did> 
@@ -287,7 +289,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">1</container> <container
 				type="volume">7</container> 
-				<unittitle>Range Management Branch Report, 
+				<unittitle>Range Management Branch Report 
 				  <unitdate type="inclusive" normal="1937">March 15,
 					 1937</unitdate></unittitle> 
 			 </did> 
@@ -302,7 +304,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">1</container> <container
 				type="volume">8</container> 
-				<unittitle>Land Planning Report, 
+				<unittitle>Land Planning Report 
 				  <unitdate type="inclusive" normal="1938">January,
 					 1938</unitdate></unittitle> 
 			 </did> 
@@ -316,8 +318,8 @@
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 4, Unit Four, 
-				<unitdate type="inclusive" normal="NaN/1937">ca.
+			 <unittitle>Subseries 4, Unit Four 
+				<unitdate type="inclusive" normal="1936/1937">ca.
 				  1936-1937</unitdate></unittitle> 
 		  </did> 
 		  <scopecontent> 
@@ -329,7 +331,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">2</container> <container
 				type="volume">9</container> 
-				<unittitle>Agronomy Branch Report, 
+				<unittitle>Agronomy Branch Report 
 				  <unitdate type="inclusive" normal="1930/1938">no
 					 date</unitdate></unittitle> 
 			 </did> 
@@ -342,7 +344,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">2</container> <container
 				type="volume">10</container> 
-				<unittitle>Range Management Branch Report, 
+				<unittitle>Range Management Branch Report 
 				  <unitdate type="inclusive" normal="1936">December,
 					 1936</unitdate></unittitle> 
 			 </did> 
@@ -357,7 +359,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">2</container> <container
 				type="volume">11</container> 
-				<unittitle>Stock Water in Land Management District Four, 
+				<unittitle>Stock Water in Land Management District Four 
 				  <unitdate type="inclusive" normal="1930/1938">no
 					 date</unitdate></unittitle> 
 			 </did> 
@@ -369,7 +371,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">2</container> <container
 				type="volume">12</container> 
-				<unittitle>Sub-Watershed Plan, 
+				<unittitle>Sub-Watershed Plan 
 				  <unitdate type="inclusive" normal="1930/1938">no
 					 date</unitdate></unittitle> 
 			 </did> 
@@ -383,7 +385,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">2</container> <container
 				type="volume">13</container> 
-				<unittitle>Supplement of Sub-Watershed Plan, 
+				<unittitle>Supplement of Sub-Watershed Plan 
 				  <unitdate type="inclusive" normal="1930/1938">no
 					 date</unitdate></unittitle> 
 			 </did> 
@@ -394,7 +396,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">2</container> <container
 				type="volume">14</container> 
-				<unittitle>Work Report, Soil and Erosion Survey, 
+				<unittitle>Work Report, Soil and Erosion Survey 
 				  <unitdate type="inclusive" normal="1930/1938">no
 					 date</unitdate></unittitle> 
 			 </did> 
@@ -406,7 +408,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">2</container> <container
 				type="volume">15</container> 
-				<unittitle>Work Report, Conservation Survey, 
+				<unittitle>Work Report, Conservation Survey 
 				  <unitdate type="inclusive" normal="1938">1936,
 					 1938</unitdate></unittitle> 
 			 </did> 
@@ -418,7 +420,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">2</container> <container
 				type="volume">16</container> 
-				<unittitle>Construction Program, 
+				<unittitle>Construction Program 
 				  <unitdate type="inclusive"
 					normal="1937">1937</unitdate></unittitle> 
 			 </did> 
@@ -430,7 +432,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">2</container> <container
 				type="volume">17</container> 
-				<unittitle>Tabulation of Population, District Four, 
+				<unittitle>Tabulation of Population, District Four 
 				  <unitdate type="inclusive" normal="1930/1938">no
 					 date</unitdate></unittitle> 
 			 </did> 
@@ -442,7 +444,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">2</container> <container
 				type="volume">18</container> 
-				<unittitle>Tabulation of Prairie Dog Infestation, 
+				<unittitle>Tabulation of Prairie Dog Infestation 
 				  <unitdate type="inclusive" normal="1930/1938">no
 					 date</unitdate></unittitle> 
 			 </did>
@@ -450,7 +452,7 @@
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 5, Unit Five, 
+			 <unittitle>Subseries 5, Unit Five 
 				<unitdate type="inclusive" normal="1932/1942">ca.
 				  1937</unitdate></unittitle> 
 		  </did> 
@@ -464,7 +466,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">19</container> 
-				<unittitle>Engineering Report, 
+				<unittitle>Engineering Report 
 				  <unitdate type="inclusive" normal="1937">April,
 					 1937</unitdate></unittitle> 
 			 </did> 
@@ -477,9 +479,9 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">20</container> 
-				<unittitle>Agronomy Branch Report, 
+				<unittitle>Agronomy Branch Report 
 				  <unitdate type="inclusive"
-					normal="">February-March,1937</unitdate></unittitle> 
+					normal="1937-02/1937-03">February-March, 1937</unitdate></unittitle> 
 			 </did> 
 			 <scopecontent> 
 				<p>Prepared by E.A. Nicholson. General description of land; summary
@@ -490,7 +492,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">21</container> 
-				<unittitle>Planting Possibilities Report, 
+				<unittitle>Planting Possibilities Report 
 				  <unitdate type="inclusive" normal="1937">April,
 					 1937</unitdate></unittitle> 
 			 </did> 
@@ -502,7 +504,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">22</container> 
-				<unittitle>Plan of Conservation Operations, 
+				<unittitle>Plan of Conservation Operations 
 				  <unitdate type="inclusive" normal="1930/1938">no
 					 date</unitdate></unittitle> 
 			 </did> 
@@ -514,8 +516,8 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">23</container> 
-				<unittitle>Report of Extensive Biology Survey, 
-				  <unitdate type="inclusive" normal="">February-March,
+				<unittitle>Report of Extensive Biology Survey 
+				  <unitdate type="inclusive" normal="1937-02/1937-03">February-March,
 					 1937</unitdate></unittitle> 
 			 </did> 
 			 <scopecontent> 
@@ -529,7 +531,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">24</container> 
-				<unittitle>Forestry Report, 
+				<unittitle>Forestry Report 
 				  <unitdate type="inclusive" normal="1937">April,
 					 1937</unitdate></unittitle> 
 			 </did> 
@@ -542,7 +544,7 @@
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 6, Unit Six, 
+			 <unittitle>Subseries 6, Unit Six 
 				<unitdate type="inclusive"
 				 normal="1937">1937</unitdate></unittitle> 
 		  </did> 
@@ -553,7 +555,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">25</container> 
-				<unittitle>Planting Possibilities Report, 
+				<unittitle>Planting Possibilities Report 
 				  <unitdate type="inclusive" normal="1937">July,
 					 1937</unitdate></unittitle> 
 			 </did> 
@@ -566,7 +568,7 @@
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 7, Unit Seven, 
+			 <unittitle>Subseries 7, Unit Seven 
 				<unitdate type="inclusive"
 				 normal="1937">1937</unitdate></unittitle> 
 		  </did> 
@@ -577,7 +579,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">26</container> 
-				<unittitle>Engineering Report, 
+				<unittitle>Engineering Report 
 				  <unitdate type="inclusive" normal="1937">September,
 					 1937</unitdate></unittitle> 
 			 </did> 
@@ -591,7 +593,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">27</container> 
-				<unittitle>Agronomy Branch Report, 
+				<unittitle>Agronomy Branch Report 
 				  <unitdate type="inclusive" normal="1937">July,
 					 1937</unitdate></unittitle> 
 			 </did> 
@@ -605,7 +607,7 @@
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 8, Unit Eight, 
+			 <unittitle>Subseries 8, Unit Eight 
 				<unitdate type="inclusive" normal="1931/1941">ca.
 				  1936</unitdate></unittitle> 
 		  </did> 
@@ -616,7 +618,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">28</container> 
-				<unittitle>Engineering Report, 
+				<unittitle>Engineering Report 
 				  <unitdate type="inclusive" normal="1936">September,
 					 1936</unitdate></unittitle> 
 			 </did> 
@@ -629,7 +631,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">29</container> 
-				<unittitle>Range Management Report, Monument Valley, 
+				<unittitle>Range Management Report, Monument Valley 
 				  <unitdate type="inclusive" normal="1936">August,
 					 1936</unitdate></unittitle> 
 			 </did> 
@@ -642,7 +644,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">30</container> 
-				<unittitle>Range Management Plan, Kayenta Demonstration Area, 
+				<unittitle>Range Management Plan, Kayenta Demonstration Area 
 				  <unitdate type="inclusive" normal="1936">November,
 					 1936</unitdate></unittitle> 
 			 </did> 
@@ -655,7 +657,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">31</container> 
-				<unittitle>Report of Sociological Survey, Monument Valley area, 
+				<unittitle>Report of Sociological Survey, Monument Valley area 
 				  <unitdate type="inclusive" normal="1930/1938">no
 					 date</unitdate></unittitle> 
 			 </did> 
@@ -668,7 +670,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">32</container> 
-				<unittitle>Forestry Report, Mounument Valley, 
+				<unittitle>Forestry Report, Monument Valley 
 				  <unitdate type="inclusive"
 					normal="1936">1936</unitdate></unittitle> 
 			 </did> 
@@ -682,7 +684,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">33</container> 
-				<unittitle>Report on Planting Possibilities, 
+				<unittitle>Report on Planting Possibilities 
 				  <unitdate type="inclusive"
 					normal="1936">1936</unitdate></unittitle> 
 			 </did> 
@@ -694,7 +696,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">3</container> <container
 				type="volume">34</container> 
-				<unittitle>Extensive Faunal Survey, 
+				<unittitle>Extensive Faunal Survey 
 				  <unitdate type="inclusive" normal="1930/1938">no
 					 date</unitdate></unittitle> 
 			 </did> 
@@ -708,12 +710,12 @@
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 9, Unit Nine, (Missing)</unittitle> 
+			 <unittitle>Subseries 9, Unit Nine (Missing)</unittitle> 
 		  </did> 
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 10, Unit Ten, 
+			 <unittitle>Subseries 10, Unit Ten 
 				<unitdate type="inclusive"
 				 normal="1936/1937">1936-1937</unitdate></unittitle> 
 		  </did> 
@@ -726,7 +728,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">4</container> <container
 				type="volume">35</container> 
-				<unittitle>Agronomy Report, 
+				<unittitle>Agronomy Report 
 				  <unitdate type="inclusive"
 					normal="1936">1936</unitdate></unittitle> 
 			 </did> 
@@ -739,7 +741,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">4</container> <container
 				type="volume">36</container> 
-				<unittitle>Study Group Report, Engineering Division, 
+				<unittitle>Study Group Report, Engineering Division 
 				  <unitdate type="inclusive" normal="1937">January,
 					 1937</unitdate></unittitle> 
 			 </did> 
@@ -752,7 +754,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">4</container> <container
 				type="volume">37</container> 
-				<unittitle>Suggested Construction Program for Land Management, 
+				<unittitle>Suggested Construction Program for Land Management 
 				  <unitdate type="inclusive" normal="1937">April,
 					 1937</unitdate></unittitle> 
 			 </did> 
@@ -765,7 +767,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">4</container> <container
 				type="volume">38</container> 
-				<unittitle>Approved Construction Work, 
+				<unittitle>Approved Construction Work 
 				  <unitdate type="inclusive" normal="1937">May,
 					 1937</unitdate></unittitle> 
 			 </did> 
@@ -777,14 +779,14 @@
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 11, Unit Eleven, 
+			 <unittitle>Subseries 11, Unit Eleven 
 				<unitdate type="inclusive" normal="1936">August,
 				  1936</unitdate></unittitle> 
 		  </did> 
 		  <c03 level="file"> 
 			 <did> <container type="box">4</container> <container
 				type="volume">38a</container> 
-				<unittitle>Forestry Report, 
+				<unittitle>Forestry Report 
 				  <unitdate type="inclusive" normal="1936">August 6th,
 					 1936</unitdate></unittitle> 
 			 </did> 
@@ -795,17 +797,17 @@
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 12, Unit Twelve, (Missing)</unittitle> 
+			 <unittitle>Subseries 12, Unit Twelve (Missing)</unittitle> 
 		  </did> 
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 13, Unit Thirteen, (Missing)</unittitle> 
+			 <unittitle>Subseries 13, Unit Thirteen (Missing)</unittitle> 
 		  </did> 
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 14, Unit Fourteen, 
+			 <unittitle>Subseries 14, Unit Fourteen 
 				<unitdate type="inclusive"
 				 normal="1936">1936</unitdate></unittitle> 
 		  </did> 
@@ -817,7 +819,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">4</container> <container
 				type="volume">39</container> 
-				<unittitle>Biological Report, 
+				<unittitle>Biological Report 
 				  <unitdate type="inclusive" normal="1936">June,
 					 1936</unitdate></unittitle> 
 			 </did> 
@@ -830,17 +832,17 @@
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 15, Unit Fifteen, (Missing)</unittitle> 
+			 <unittitle>Subseries 15, Unit Fifteen (Missing)</unittitle> 
 		  </did> 
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 16, Unit Sixteen, (Missing)</unittitle> 
+			 <unittitle>Subseries 16, Unit Sixteen (Missing)</unittitle> 
 		  </did> 
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 17, Unit Seventeen, 
+			 <unittitle>Subseries 17, Unit Seventeen 
 				<unitdate type="inclusive" normal="1932/1942">ca.
 				  1937</unitdate></unittitle> 
 		  </did> 
@@ -852,7 +854,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">4</container> <container
 				type="volume">40</container> 
-				<unittitle>Engineering Report, 
+				<unittitle>Engineering Report 
 				  <unitdate type="inclusive" normal="1930/1938">no
 					 date</unitdate></unittitle> 
 			 </did> 
@@ -865,7 +867,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">4</container> <container
 				type="volume">41</container> 
-				<unittitle>Range Management Report, 
+				<unittitle>Range Management Report 
 				  <unitdate type="inclusive" normal="1937">November,
 					 1937</unitdate></unittitle> 
 			 </did> 
@@ -877,7 +879,7 @@
 		</c02>
 		<c02 level="subseries"> 
 		  <did> 
-			 <unittitle>Subseries 18, Unit Eighteen, 
+			 <unittitle>Subseries 18, Unit Eighteen 
 				<unitdate type="inclusive"
 				 normal="1936/1938">1936-1938</unitdate></unittitle> 
 		  </did> 
@@ -890,7 +892,7 @@
 			 <did> <container type="box">4</container> <container
 				type="volume">42</container> 
 				<unittitle>Engineering Report, 
-				  <unitdate type="inclusive" normal="">September-November,
+				  <unitdate type="inclusive" normal="1936-09/1936-11">September-November,
 					 1936</unitdate></unittitle> 
 			 </did> 
 			 <scopecontent> 
@@ -903,7 +905,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">4</container> <container
 				type="volume">43</container> 
-				<unittitle>Range Management Reports, 
+				<unittitle>Range Management Reports 
 				  <unitdate type="inclusive" normal="1938">March,
 					 1938</unitdate></unittitle> 
 			 </did> 
@@ -917,7 +919,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">4</container> <container
 				type="volume">44</container> 
-				<unittitle>Forestry Report, 
+				<unittitle>Forestry Report 
 				  <unitdate type="inclusive" normal="1936">December,
 					 1936</unitdate></unittitle> 
 			 </did> 
@@ -928,7 +930,7 @@
 		  <c03 level="file"> 
 			 <did> <container type="box">4</container> <container
 				type="volume">45</container> 
-				<unittitle>Sub-Watershed Plan, 
+				<unittitle>Sub-Watershed Plan 
 				  <unitdate type="inclusive" normal="1938">May,
 					 1938</unitdate></unittitle> 
 			 </did> 
@@ -941,15 +943,15 @@
 	 </c01> 
 	 <c01 level="series" id="ser2"> 
 		<did> 
-		  <unittitle>Series 2: Miscellaneous Reports and Maps, 
-			 <unitdate type="inclusive" normal="NaN/1941">ca.
+		  <unittitle>Series 2: Miscellaneous Reports and Maps 
+			 <unitdate type="inclusive" normal="1935/1941">ca.
 				1935-1941</unitdate></unittitle> 
 		</did>
 		<c02 level="file"> 
 		  <did> <container type="box">4</container> <container
 			 type="volume">46</container> 
 			 <unittitle>A Report on the Rio Grande Watershed with special
-				reference to soil conservation problems, 
+				reference to soil conservation problems 
 				<unitdate type="inclusive" normal="1936">November,
 				  1936</unitdate></unittitle> 
 		  </did> 
@@ -960,7 +962,7 @@
 		<c02 level="file"> 
 		  <did> <container type="box">4</container> <container
 			 type="volume">47</container> 
-			 <unittitle>Sub-Watershed Plan for Hopi Land Management District, 
+			 <unittitle>Sub-Watershed Plan for Hopi Land Management District 
 				<unitdate type="inclusive"
 				 normal="1936">1936</unitdate></unittitle> 
 		  </did> 
@@ -972,7 +974,7 @@
 		<c02 level="file"> 
 		  <did> <container type="box">4</container> <container
 			 type="volume">48</container> 
-			 <unittitle>Conservation Survey of Wepo Valley, 
+			 <unittitle>Conservation Survey of Wepo Valley 
 				<unitdate type="inclusive"
 				 normal="1936/1938">1936-1938</unitdate></unittitle> 
 		  </did> 
@@ -984,7 +986,7 @@
 		<c02 level="file"> 
 		  <did> <container type="box">4</container> <container
 			 type="volume">49</container> 
-			 <unittitle>Range Management Plan, Steamboat Demonstration Area, 
+			 <unittitle>Range Management Plan, Steamboat Demonstration Area 
 				<unitdate type="inclusive"
 				 normal="1936">1936</unitdate></unittitle> 
 		  </did> 
@@ -995,7 +997,7 @@
 		<c02 level="file"> 
 		  <did> <container type="box">4</container> <container
 			 type="volume">50</container> 
-			 <unittitle>Map, Land Management Unit Four, 
+			 <unittitle>Map, Land Management Unit Four 
 				<unitdate type="inclusive" normal="1930/1938">no
 				  date</unitdate></unittitle> 
 		  </did> 
@@ -1006,7 +1008,7 @@
 		<c02 level="file"> 
 		  <did> <container type="box">4</container> <container
 			 type="volume">51</container> 
-			 <unittitle>Fort Defiance- Bonita Creek Flood Control Plan, 
+			 <unittitle>Fort Defiance- Bonita Creek Flood Control Plan 
 				<unitdate type="inclusive" normal="1941">November,
 				  1941</unitdate></unittitle> 
 		  </did> 
@@ -1017,8 +1019,7 @@
 		<c02 level="file"> 
 		  <did> <container type="box">4</container> <container
 			 type="volume">52</container> 
-			 <unittitle>Range Management Plan, Mexican Springs Demonstration Area,
-				
+			 <unittitle>Range Management Plan, Mexican Springs Demonstration Area		
 				<unitdate type="inclusive" normal="1938">April,
 				  1938</unitdate></unittitle> 
 		  </did> 
@@ -1029,7 +1030,7 @@
 		<c02 level="file"> 
 		  <did> <container type="box">4</container> <container
 			 type="volume">53</container> 
-			 <unittitle>Range Management Plan, Marino Lake Demonstration Area, 
+			 <unittitle>Range Management Plan, Marino Lake Demonstration Area 
 				<unitdate type="inclusive" normal="1938">May,
 				  1938</unitdate></unittitle> 
 		  </did> 
@@ -1040,7 +1041,7 @@
 		<c02 level="file"> 
 		  <did> <container type="box">4</container> <container
 			 type="volume">54</container> 
-			 <unittitle>Range Management Plan, Ganado Demonstration Area, 
+			 <unittitle>Range Management Plan, Ganado Demonstration Area 
 				<unitdate type="inclusive" normal="1935">August,
 				  1935</unitdate></unittitle> 
 		  </did> 

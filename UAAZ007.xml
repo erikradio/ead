@@ -1,39 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Gates, Gertrude Edna Lewis Papers?>
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21"> 
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Gertrude Edna Lewis Gates Papers)//en"
-	 "UAAZ007.xml"</eadid> 
+	<eadid>UAAZ007</eadid> 
   <filedesc> 
 	 <titlestmt> 
 		<titleproper encodinganalog="245$a">Gertrude Edna Lewis Gates papers, 
 		  <date>1903-1935.</date></titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by staff.</author> 
 	 </titlestmt> 
-	 <publicationstmt> 
-		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
-		  Collections</publisher> 
-		<address> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
-		</address> 
-		<date>&#x00A9; 2006</date> 
-		<p>Arizona Board of Regents. All Rights Reserved.</p> 
-	 </publicationstmt> 
+  	<publicationstmt> 
+  		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+  		<address> 
+  			<addressline>PO Box 210055</addressline> 
+  			<addressline>Tucson, AZ 85721-0055</addressline> 
+  			<addressline>Phone: 520-621-6423</addressline> 
+  			<addressline>Fax: 520-621-9733</addressline> 
+  			<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+  		</address> 
+  		<date normal= "2006" era= "ce" calendar = "gregorian">2006</date> 
+  		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+  	</publicationstmt> 
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Benjamin Richard
 		Grignon. 
 		<date>September 2006</date></creation> 
-	 <langusage>Inventory is in<language langcode="en" encodinganalog="546">
+	 <langusage>Inventory is in<language langcode="eng" encodinganalog="546">
 		English.</language></langusage> 
   </profiledesc> 
+	<revisiondesc><change>
+		<date normal="20170302">2017-03-02</date>
+		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
+	</change></revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
@@ -58,31 +60,24 @@
 <archdesc level="collection"> 
   <did id="a1"> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Gertrude
+	 <unittitle encodinganalog="245" label="Collection Name">Gertrude
 		Edna Lewis Gates papers, 
 		<unitdate type="inclusive"
 		 normal="1903/1935">1903-1935.</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us">AZ 007</unitid> 
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	  repositorycode="US-azu" countrycode="US">AZ 007</unitid> 
+	 <origination label="Creator"> 
 		<persname encodinganalog="100">Gates, Gertrude Edna Lewis.</persname>
 		</origination> 
-	 <abstract label="Abstract:">Correspondence, notebooks, cattle records, and
+	 <abstract label="Abstract">Correspondence, notebooks, cattle records, and
 		financial papers pertaining to the operation and maintenance of the D.A. Ranch
 		and of rental property in Flagstaff.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
 		encodinganalog="300">1.25 linear feet.</extent></physdesc> 
-	 <repository label="Repository:"> 
+	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
-		<address> 
-		  <addressline>University of Arizona</addressline> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
-		</address></repository> 
+		</repository> 
   </did> 
   <accessrestrict encodinganalog="506"> 
 	 <head>Restrictions</head> 
@@ -138,20 +133,20 @@
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
-		  <subject>DA Ranch (Cornville, Ariz.)</subject> </item> 
+			<subject encodinganalog="650" source= "lcsh">DA Ranch (Cornville, Ariz.)</subject> </item> 
 		<item> 
-		  <subject> Cattle trade -- Arizona -- History -- Sources.</subject>
+			<subject encodinganalog="650" source= "lcsh"> Cattle trade -- Arizona -- History -- Sources</subject>
 		  </item> 
 		<item> 
-		  <subject>Ranch life -- Arizona.</subject> </item> 
+			<subject encodinganalog="650" source= "lcsh">Ranch life -- Arizona</subject> </item> 
 		<item> 
-		  <subject> Indians of North America -- Missions -- Arizona.</subject>
+			<subject encodinganalog="650" source= "lcsh"> Indians of North America -- Missions -- Arizona</subject>
 		  </item> 
 		<item> 
-		  <subject> Ranches -- Arizona -- Records and correspondence.</subject>
+			<subject encodinganalog="650" source= "lcsh"> Ranches -- Arizona -- Records and correspondence</subject>
 		  </item> 
 		<item> 
-		  <subject>Women ranchers -- Arizona.</subject> </item> 
+			<subject encodinganalog="650" source= "lcsh">Women ranchers -- Arizona</subject> </item> 
 	 </list> 
   </controlaccess> 
   <dsc type="combined" id="a23"> 
@@ -191,7 +186,7 @@
 		<c02 level="file"> 
 		  <did> <container type="box">3</container> <container
 			 type="folder">4</container> 
-			 <unittitle>Correspondance, Banks. 
+			 <unittitle>Correspondence, Banks. 
 				<unitdate type="inclusive"
 				normal="1906/1928">1906-1928.</unitdate></unittitle> 
 		  </did> 

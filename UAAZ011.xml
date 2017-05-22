@@ -1,38 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Behan Family Papers?>
-<ead relatedencoding="MARC21">
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21">
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Behan Family Papers)//en"
-	 "UAAZ011.xml"</eadid> 
+  <eadid>UAAZ011</eadid> 
   <filedesc> 
 	 <titlestmt> 
 		<titleproper encodinganalog="245$a">Behan Family papers, 
 		  <date>1883-1944 (bulk 1907-1944)</date></titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by Staff</author> 
 	 </titlestmt> 
-	 <publicationstmt> 
-		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
-		  Collections</publisher> 
-		<address> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
-		</address> 
-		<date>&#x00A9; 2001</date> 
-		<p>Arizona Board of Regents. All Rights Reserved.</p> 
-	 </publicationstmt> 
+  	<publicationstmt> 
+  		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+  		<address> 
+  			<addressline>PO Box 210055</addressline> 
+  			<addressline>Tucson, AZ 85721-0055</addressline> 
+  			<addressline>Phone: 520-621-6423</addressline> 
+  			<addressline>Fax: 520-621-9733</addressline> 
+  			<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+  		</address> 
+  		<date normal= "2001" era= "ce" calendar = "gregorian">2001</date> 
+  		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+  	</publicationstmt> 
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Jan Marie Payne 
 		<date>June 20, 2002</date></creation> 
-	 <langusage>Inventory is in<language langcode="en"
+	 <langusage>Inventory is in<language langcode="eng"
 		encodinganalog="546">English.</language></langusage> 
   </profiledesc> 
+	<revisiondesc><change>
+		<date normal="20170308">2017-03-08</date>
+		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
+	</change></revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
@@ -59,32 +62,25 @@
 	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage>
 </frontmatter>
-<archdesc level="collection"> 
-  <did id="a1"> 
+	<archdesc level="collection" type="inventory" relatedencoding="351$c"> 
+  <did> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Behan Family papers, 
-		<unitdate type="inclusive" normal="AzU">1883-1944 (bulk
-		  1907-1944)</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us"> AZ 011</unitid> 
-	 <origination label="Creator:"> 
+	 <unittitle encodinganalog="245" label="Collection Name">Behan Family papers 
+	 	<unitdate type="inclusive" label="Dates" normal="1883/1944">1883-1944</unitdate><unitdate type="bulk" label="Dates" normal="1907/1944">(bulk
+	 		1907-1944)</unitdate></unittitle> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	  repositorycode="US-azu" countrycode="US">AZ 011</unitid> 
+	 <origination label="Creator"> 
 		<persname encodinganalog="100">Behan family</persname></origination> 
-	 <abstract label="Abstract:">Personal and official correspondence, financial
+	 <abstract label="Abstract">Personal and official correspondence, financial
 		records, notes, a photograph album, and photographs relating chiefly to
 		personal and family life.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
 		encodinganalog="300">.8 linear feet</extent></physdesc> 
-	 <repository label="Respository:"> 
+	 <repository label="Respository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
-		<address> 
-		  <addressline>University of Arizona</addressline> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
-		</address></repository> 
+		</repository> 
   </did> 
   <accessrestrict encodinganalog="506"> 
 	 <head>Restrictions</head> 
@@ -141,49 +137,49 @@
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
-		  <persname encodinganalog="100">Behan, John Harris,
+			<persname encodinganalog="600" source= "lcnaf">Behan, John Harris,
 			 1845-1912</persname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <persname encodinganalog="100">Behan, Albert P., 1873-
+			<persname encodinganalog="600" source= "lcnaf">Behan, Albert P., 1873-
 			 </persname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <persname encodinganalog="100">Behan family --
+			<persname encodinganalog="600" source= "lcnaf">Behan family --
 			 Photographs</persname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Smuggling -- United States -- History --
+			<subject encodinganalog="650" source="lcsh">Smuggling -- United States -- History --
 			 Sources</subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Customs administration -- United States -- History --
+			<subject encodinganalog="650" source="lcsh">Customs administration -- United States -- History --
 			 Sources</subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>Chinese -- Arizona</subject></item> 
+			<subject encodinganalog="650" source="lcsh">Chinese -- Arizona</subject></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <geogname>United States -- Emigration and immigration -- History --
+			<geogname encodinganalog="651" source="lcsh">United States -- Emigration and immigration -- History --
 			 Sources </geogname></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Albums</genreform></item> 
+			<genreform encodinganalog="655" source="aat">Albums</genreform></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Correspondence</genreform></item> 
+			<genreform encodinganalog="655" source="aat">Correspondence</genreform></item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <genreform>Journals</genreform></item> 
+			<genreform encodinganalog="655" source="aat">Journals</genreform></item> 
 	 </list> 
   </controlaccess> 
   <dsc type="combined" id="a23"> 
@@ -197,7 +193,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">1</container><container
 			 type="folder">1</container> 
-			 <unittitle>John H. Behan: letters and miscelaneous material. 
+			 <unittitle>John H. Behan: letters and miscellaneous material. 
 				<unitdate type="inclusive"
 				 normal="1883/1910">1883-1910</unitdate></unittitle> 
 		  </did> 
@@ -243,7 +239,7 @@
 		  <scopecontent> 
 			 <p>Contains several small account books and journals from Albert P.
 				Behan's work with the U.S. Customs Service along the Mexican border, plus a
-				Treasury Department manual for the Gudiance of the Outdoor Force of the Customs
+				Treasury Department manual for the Guidance of the Outdoor Force of the Customs
 				Service. Also contains several letters on Treasury Department letterhead. </p> 
 		  </scopecontent> 
 		</c02> 
@@ -277,7 +273,7 @@
 	 <c01 level="series"> 
 		<did> 
 		  <unittitle>Series II: Photographs, 
-			 <unitdate type="inclusive" normal="NaN/1940">ca.
+			 <unitdate type="inclusive" normal="1890/1940">ca.
 				1890-1940</unitdate></unittitle> 
 		</did> 
 		<c02> 

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Oury Family Papers?>
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21"> 
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Oury Family Papers) //en"
-	 "UAAZ016.xml"</eadid> 
+	<eadid>UAAZ016</eadid> 
   <filedesc> 
 	 <titlestmt> 
 		<titleproper encodinganalog="245$a">Oury Family papers, 
@@ -14,26 +14,29 @@
 		<author encodinganalog="245$c">Inventory prepared by John M. Murphy.
 		  </author> 
 	 </titlestmt> 
-	 <publicationstmt> 
-		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
-		  Collections</publisher> 
-		<address> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
-		</address> 
-		<date>&#x00A9; 2005</date> 
-		<p>Arizona Board of Regents. All Rights Reserved.</p> 
-	 </publicationstmt> 
+  	<publicationstmt> 
+  		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+  		<address> 
+  			<addressline>PO Box 210055</addressline> 
+  			<addressline>Tucson, AZ 85721-0055</addressline> 
+  			<addressline>Phone: 520-621-6423</addressline> 
+  			<addressline>Fax: 520-621-9733</addressline> 
+  			<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+  		</address> 
+  		<date normal= "2005" era= "ce" calendar = "gregorian">2005</date> 
+  		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+  	</publicationstmt> 
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Steven Lyle Phalen. 
 		<date>September 2005</date></creation> 
-	 <langusage>Inventory is in<language langcode="en" encodinganalog="546">
+	 <langusage>Inventory is in<language langcode="eng" encodinganalog="546">
 		English.</language></langusage> 
   </profiledesc> 
+	<revisiondesc><change>
+		<date normal="20170308">2017-03-08</date>
+		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
+	</change></revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
@@ -60,34 +63,27 @@
 	 <p>&#x00A9; 2005. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage> 
 </frontmatter> 
-<archdesc level="collection"> 
+	<archdesc level="collection" type="inventory" relatedencoding="351$c"> 
   <did id="a1"> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Oury
+	 <unittitle encodinganalog="245" label="Collection Name">Oury
 		Family papers, 
 		<unitdate type="inclusive" normal="1799/1933">1799 -
 		  1933</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us">AZ 016</unitid> 
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	 	repositorycode="US-azu" countrycode="US">AZ 016</unitid> 
+	 <origination label="Creator"> 
 		<persname encodinganalog="100">Smith, Cornelius Cole</persname>
 		</origination> 
-	 <abstract label="Abstract:">Correspondence, diary, photographs, deeds,
+	 <abstract label="Abstract">Correspondence, diary, photographs, deeds,
 		articles and speeches chiefly relating to Arizona territorial military
 		experiences of Oury family members.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
 		encodinganalog="300">1 Linear Foot</extent></physdesc> 
-	 <repository label="Repository:"> 
+	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
-		<address> 
-		  <addressline>University of Arizona</addressline> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
-		</address></repository> 
+		</repository> 
   </did> 
   <accessrestrict encodinganalog="506"> 
 	 <head>Restrictions</head> 
@@ -132,9 +128,9 @@
 		  <unitdate type="inclusive" normal="1860/1864">1860 -
 			 1864</unitdate></item> 
 		<item>Series III: Gilbert Cole Smith, 
-		  <unitdate type="inclusive" normal="AzU">1862 - 1895,</unitdate></item> 
+		  <unitdate>1862 - 1895,</unitdate></item> 
 		<item>Series IV: Cornelius Cole Smith, Jr., 
-		  <unitdate type="inclusive" normal="AzU"> 1913 - </unitdate></item> 
+		  <unitdate> 1913 - </unitdate></item> 
 		<item>Series VI: Photographs, 
 		  <unitdate type="inclusive" normal="1875/1927"> 1875 -
 			 1927</unitdate></item> 
@@ -164,56 +160,49 @@
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
-		  <persname encodinganalog="100">Oury family -- Archives,</persname>
+		  <persname encodinganalog="600">Oury family -- Archives,</persname>
 		  </item> 
 		<item> 
-		  <persname encodinganalog="100">Oury, Mr. (Granville Henderson),
+		  <persname encodinganalog="600">Oury, Mr. (Granville Henderson),
 			 1825-1891.</persname> </item> 
 		<item> 
-		  <persname encodinganalog="100">Smith, Gilbert Cole, d. 1899.</persname>
+		  <persname encodinganalog="600">Smith, Gilbert Cole, d. 1899.</persname>
 		  </item> 
 		<item> 
-		  <persname encodinganalog="100">Mowry, Sylvester, 1833-1871.</persname>
+		  <persname encodinganalog="600">Mowry, Sylvester, 1833-1871.</persname>
 		  </item> 
 	 </list> 
 	 <list> 
 		<item> 
-		  <subject>United States. Army -- Military life.</subject> </item> 
+			<subject encodinganalog="650" source="lcsh">United States. Army -- Military life.</subject> </item> 
 		<item> 
-		  <subject>United States. Army. California Volunteers.</subject> </item> 
+			<subject encodinganalog="650" source="lcsh">United States. Army. California Volunteers.</subject> </item> 
 		<item> 
-		  <subject>Confederate States of America. Army.</subject> </item> 
+			<subject encodinganalog="650" source="lcsh">Confederate States of America. Army.</subject> </item> 
 		<item> 
-		  <subject>Apache Indians -- Wars -- History -- Sources.</subject>
+			<subject encodinganalog="650" source="lcsh">Apache Indians -- Wars -- History -- Sources.</subject>
 		  </item> 
 		<item> 
-		  <subject>Military bases -- Arizona -- History -- Sources.</subject>
+			<subject encodinganalog="650" source="lcsh">Military bases -- Arizona -- History -- Sources.</subject>
 		  </item> 
 		<item> 
-		  <subject>Pioneers -- Arizona.</subject> </item> 
+			<subject encodinganalog="650" source="lcsh">Pioneers -- Arizona.</subject> </item> 
 		<item> 
-		  <subject>Camp Grant Massacre.</subject> </item> 
-		<item> 
-		  <subject>1800-1824.</subject> </item> 
-		<item> 
-		  <subject>1825-1849.</subject> </item> 
-		<item> 
-		  <subject>1850-1874.</subject> </item> 
-		<item> 
-		  <subject>1875-1899.</subject> </item> 
+			<subject encodinganalog="650" source="lcsh">Camp Grant Massacre.</subject> </item> 
+		
 	 </list> 
 	 <list> 
 		<item> 
-		  <geogname>United States -- History -- Civil War, 1861-1865.</geogname>
+			<geogname encodinganalog="651" source="lcsh">United States -- History -- Civil War, 1861-1865.</geogname>
 		  </item> 
 		<item> 
-		  <geogname>Arizona -- History -- Civil War, 1861-1865.</geogname>
+			<geogname encodinganalog="651" source="lcsh">Arizona -- History -- Civil War, 1861-1865.</geogname>
 		  </item> 
 		<item> 
-		  <geogname>Fort Lowell (Ariz.) -- History -- Sources.</geogname> </item>
+			<geogname encodinganalog="651" source="lcsh">Fort Lowell (Ariz.) -- History -- Sources.</geogname> </item>
 		
 		<item> 
-		  <geogname>Zuni (N.M.) -- History -- Sources.</geogname> </item> 
+			<geogname encodinganalog="651" source="lcsh">Zuni (N.M.) -- History -- Sources.</geogname> </item> 
 	 </list> 
   </controlaccess> 
   <dsc type="combined" id="a23"> 
@@ -361,7 +350,7 @@
 			 <did> <container type="box">1</container> <container
 				type="folder">6</container> 
 				<unittitle>Pay Voucher,(photocopy), 
-				  <unitdate type="inclusive" normal="AzU">May 28, 1837 - January 4,
+				  <unitdate>May 28, 1837 - January 4,
 					 1838</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
@@ -406,7 +395,7 @@
 			 <did> <container type="box">1</container> <container
 				type="folder">8</container> 
 				<unittitle>Outgoing, 
-				  <unitdate type="inclusive" normal="NaN">No
+				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
@@ -414,7 +403,7 @@
 			 <did> <container type="box">1</container> <container
 				type="folder">8</container> 
 				<unittitle>Outgoing, 
-				  <unitdate type="inclusive" normal="NaN">No
+				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
@@ -552,7 +541,7 @@
 			 <did><container type="box">1</container><container
 				type="folder">11</container> 
 				<unittitle>Outgoing, 
-				  <unitdate type="inclusive" normal="NaN">No
+				  <unitdate>No
 					 date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
@@ -640,7 +629,7 @@
 			 <did> <container type="box">1</container> <container
 				type="folder">14</container> 
 				<unittitle>"Letter Book, Tucson Depot"-- United States Army, 
-				  <unitdate type="inclusive" normal="AzU">July 1868 - February
+				  <unitdate>July 1868 - February
 					 1870</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
@@ -649,7 +638,7 @@
 				type="folder">15-16</container> 
 				<unittitle>"Personal Report" or Diary-- United States Army, with
 				  accompanying Typescript, 
-				  <unitdate type="inclusive" normal="AzU">January 1857 - June 1867,
+				  <unitdate>January 1857 - June 1867,
 					 1903,</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
@@ -689,7 +678,7 @@
 	 <c01 level="series" id="ser4"> 
 		<did> 
 		  <unittitle>Series 4: Cornelius Cole Smith, Jr. 
-			 <unitdate type="inclusive" normal="AzU">1913 -
+			 <unitdate>1913 -
 				</unitdate></unittitle> 
 		</did> 
 		<c02 level="subseries"> 
@@ -797,7 +786,7 @@
 		  <did> <container type="box">1</container> <container
 			 type="folder">22</container> 
 			 <unittitle>Gregg, J.C. (Lieutenant), 
-				<unitdate type="inclusive" normal="NaN">No
+				<unitdate>No
 				  Date</unitdate></unittitle> 
 		  </did> 
 		</c02> 

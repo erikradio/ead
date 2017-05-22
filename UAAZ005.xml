@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Finley, Leighton Papers?>
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21"> 
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU ::Leighton Finley Papers)//en"
-	 "UAAZ005.xml"</eadid> 
+	<eadid>UAAZ005</eadid> 
   <filedesc> 
 	 <titlestmt> 
 		<titleproper encodinganalog="245$a">Leighton Finley papers, 
@@ -14,26 +13,29 @@
 	 	<titleproper type="filing" altrender="nodisplay">Leighton, (Finley)</titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by staff.</author> 
 	 </titlestmt> 
-	 <publicationstmt> 
-		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
-		  Collections</publisher> 
-		<address> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
-		</address> 
-		<date>&#x00A9; 2001</date> 
-		<p>Arizona Board of Regents. All Rights Reserved.</p> 
-	 </publicationstmt> 
+  	<publicationstmt> 
+  		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+  		<address> 
+  			<addressline>PO Box 210055</addressline> 
+  			<addressline>Tucson, AZ 85721-0055</addressline> 
+  			<addressline>Phone: 520-621-6423</addressline> 
+  			<addressline>Fax: 520-621-9733</addressline> 
+  			<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+  		</address> 
+  		<date normal= "2001" era= "ce" calendar = "gregorian">2001</date> 
+  		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+  	</publicationstmt> 
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Shan Sutton. 
 		<date>January 3, 2001</date></creation> 
-	 <langusage>Inventory is in<language langcode="en"
+	 <langusage>Inventory is in<language langcode="eng"
 		encodinganalog="546">English.</language></langusage> 
   </profiledesc> 
+	<revisiondesc><change>
+		<date normal="20170302">2017-03-02</date>
+		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
+	</change></revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
@@ -64,30 +66,23 @@
 <archdesc level="collection"> 
   <did id="a1"> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Leighton
+	 <unittitle encodinganalog="245" label="Collection Name">Leighton
 		Finley papers, 
 		<unitdate type="inclusive"
 		 normal="1879/1892">1879-1892</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us">AZ 005</unitid> 
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	  repositorycode="US-azu" countrycode="US">AZ 005</unitid> 
+	 <origination label="Creator"> 
 		<persname encodinganalog="100">Finley, Leighton,
 		  1856-1894</persname></origination> 
-	 <abstract label="Abstract:">Diary, notebooks, biographical material, and
+	 <abstract label="Abstract">Diary, notebooks, biographical material, and
 		photographs relating to Finley's Army service.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
 		encodinganalog="300">.2 linear feet</extent></physdesc> 
-	 <repository label="Repository:"> 
+	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
-		<address> 
-		  <addressline>University of Arizona</addressline> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
-		</address></repository> 
+		</repository> 
   </did> 
   <accessrestrict encodinganalog="506"> 
 	 <head>Restrictions</head> 
@@ -131,51 +126,48 @@
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
-		  <persname encodinganalog="100">Finley, Leighton,
+			<persname encodinganalog="600" source= "lcnaf">Finley, Leighton,
 			 1856-1894</persname></item> 
-	 </list> 
-	 <list> 
+
 		<item> 
-		  <corpname encodinganalog="110">United States -- Army -- Cavalry,
+		  <corpname encodinganalog="610">United States -- Army -- Cavalry,
 			 10th</corpname></item> 
-	 </list> 
-	 <list> 
+	
 		<item> 
-		  <corpname encodinganalog="110">United States -- Army -- Military life
+		  <corpname encodinganalog="610">United States -- Army -- Military life
 			 -- History -- Sources</corpname></item> 
-	 </list> 
-	 <list> 
+
 		<item> 
-		  <subject>Apache Indians -- Wars</subject></item> 
-	 </list> 
-	 <list> 
+			<subject encodinganalog="650" source= "lcsh">Apache Indians -- Wars</subject></item> 
+	 
 		<item> 
-		  <subject>Apache Indians -- Photographs</subject></item> 
-	 </list> 
-	 <list> 
+			<subject encodinganalog="650" source= "lcsh">Apache Indians -- Photographs</subject></item> 
+	 	<item> 
+	 		<subject encodinganalog="650" source= "lcsh">Fort Grant (Ariz.) -- Photographs</subject></item> 
+	 	
+	 
+  	<item> 
+  		<subject encodinganalog="650" source= "lcsh">Fort Leavenworth (Kan.) -- Photographs</subject></item> 
+  		
 		<item> 
-		  <subject>Military bases -- West (U.S.)</subject></item> 
-	 </list> 
-	 <list> 
+			<subject encodinganalog="650" source= "lcsh">Military bases -- West (U.S.)</subject></item> 
+	 	<item> 
+	 		<subject encodinganalog="650" source= "lcsh">Fort Apache Indian Reservation (Ariz.) --
+	 			Photographs</subject></item> 
 		<item> 
-		  <geogname>Fort Leavenworth (Kan.) -- Photographs</geogname></item> 
-	 </list> 
-	 <list> 
+			<geogname encodinganalog="651" source= "lcsh">Fort Leavenworth (Kan.)</geogname></item> 
+	
 		<item> 
-		  <geogname>Fort Apache Indian Reservation (Ariz.) --
-			 Photographs</geogname></item> 
-	 </list> 
-	 <list> 
+			<geogname encodinganalog="651" source= "lcsh">Fort Apache Indian Reservation (Ariz.)</geogname></item> 
+	 
 		<item> 
-		  <geogname>Fort Grant (Ariz.) -- Photographs</geogname></item> 
-	 </list> 
-	 <list> 
+			<geogname encodinganalog="651" source= "lcsh">Fort Grant (Ariz.)</geogname></item> 
+	
 		<item> 
-		  <genreform>Diaries</genreform></item> 
-	 </list> 
-	 <list> 
+			<genreform encodinganalog="655" source= "aat">Diaries</genreform></item> 
+	
 		<item> 
-		  <genreform>Photographs</genreform></item> 
+			<genreform encodinganalog="655" source= "aat">Photographs</genreform></item> 
 	 </list> 
   </controlaccess> 
   <dsc type="combined" id="a23"> 

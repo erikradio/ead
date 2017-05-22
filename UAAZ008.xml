@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Buffalo Bill Letters?>
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21"> 
 <eadheader langencoding="ISO639-2" findaidstatus="edited-full-draft"
  audience="internal" id="a0"> 
-  <eadid>PUBLIC "-//University of Arizona Library Special
-	 Collections//text(US::AzU::Buffalo Bill Letters) //en" "UAAZ008.xml"</eadid>
+	<eadid>UAAZ008</eadid>
   
   <filedesc> 
 	 <titlestmt> 
@@ -13,24 +13,28 @@
 		  <date>1912-1914.</date></titleproper> 
 		<author>Inventory prepared by staff.</author> 
 	 </titlestmt> 
-	 <publicationstmt> 
-		<publisher>University of Arizona Libraries, Special Collections</publisher> 
-		<address> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
-		</address> 
-		<date>&#x00A9; 2006</date> 
-		<p>Arizona Board of Regents. All Rights Reserved.</p> 
-	 </publicationstmt> 
+  	<publicationstmt> 
+  		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+  		<address> 
+  			<addressline>PO Box 210055</addressline> 
+  			<addressline>Tucson, AZ 85721-0055</addressline> 
+  			<addressline>Phone: 520-621-6423</addressline> 
+  			<addressline>Fax: 520-621-9733</addressline> 
+  			<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+  		</address> 
+  		<date normal= "2006" era= "ce" calendar = "gregorian">2006</date> 
+  		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+  	</publicationstmt>
   </filedesc> 
   <profiledesc> 
 	 <creation>Inventory encoded by Benjamin Richard Grignon. 
 		<date>September 2006</date></creation> 
 	 <langusage>Inventory is in<language> English.</language></langusage> 
   </profiledesc> 
+	<revisiondesc><change>
+		<date normal="20170302">2017-03-02</date>
+		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
+	</change></revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
@@ -54,28 +58,21 @@
 <archdesc level="collection"> 
   <did id="a1"> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Buffalo
+	 <unittitle encodinganalog="245" label="Collection Name">Buffalo
 		Bill letters, 
 		<unitdate type="inclusive"
-		 label="Dates:">1912-1914.</unitdate></unittitle> 
-	 <unitid label="Collection Number" encodinganalog="099" repositorycode="AzU"
-	  countrycode="us">AZ 008</unitid> 
-	 <origination label="Creator:"> 
+		 label="Dates">1912-1914.</unitdate></unittitle> 
+	 <unitid label="Collection Number" encodinganalog="099" repositorycode="US-azu"
+	  countrycode="US">AZ 008</unitid> 
+	 <origination label="Creator"> 
 		<persname>Buffalo Bill, 1846-1917.</persname></origination> 
-	 <abstract label="Abstract:">Three letters written to Merril
+	 <abstract label="Abstract">Three letters written to Merril
 		Freeman.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>3
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent>3
 		items (3 leaves).</extent></physdesc> 
-	 <repository label="Repository:"> 
+	 <repository label="Repository"> 
 		<corpname>University of Arizona Libraries, Special Collections</corpname> 
-		<address> 
-		  <addressline>University of Arizona</addressline> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
-		</address></repository> 
+		</repository> 
   </did> 
   <accessrestrict> 
 	 <head>Restrictions</head> 
@@ -115,10 +112,10 @@
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
-		  <persname>Buffalo Bill, 1846-1917 -- Correspondence.</persname> </item>
+			<persname encodinganalog="600" source= "lcnaf">Buffalo Bill, 1846-1917 -- Correspondence.</persname> </item>
 		
 		<item> 
-		  <persname>Freeman, M. P. (Merrill P.), b. 1844.
+			<persname encodinganalog="600" source= "lcnaf">Freeman, M. P. (Merrill P.), b. 1844.
 			 1900-1924.</persname></item> 
 	 </list> 
   </controlaccess>

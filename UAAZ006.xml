@@ -1,39 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Faires, Clifford Clinton Papers?>
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21"> 
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Clifford Clinton Faires Papers) //en"
-	 "UAAZ006.xml"</eadid> 
+	<eadid>UAAZ006</eadid> 
   <filedesc> 
 	 <titlestmt> 
 		<titleproper encodinganalog="245$a">Papers of Clifford Clinton Faires, 
 		  <date>1924-1947.</date></titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by staff.</author> 
 	 </titlestmt> 
-	 <publicationstmt> 
-		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
-		  Collections</publisher> 
-		<address> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
-		</address> 
-		<date>&#x00A9; 2006</date> 
-		<p>Arizona Board of Regents. All Rights Reserved.</p> 
-	 </publicationstmt> 
+  	<publicationstmt> 
+  		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+  		<address> 
+  			<addressline>PO Box 210055</addressline> 
+  			<addressline>Tucson, AZ 85721-0055</addressline> 
+  			<addressline>Phone: 520-621-6423</addressline> 
+  			<addressline>Fax: 520-621-9733</addressline> 
+  			<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+  		</address> 
+  		<date normal= "2006" era= "ce" calendar = "gregorian">2006</date> 
+  		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+  	</publicationstmt> 
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Benjamin Richard
 		Grignon. 
 		<date>September 2006</date></creation> 
-	 <langusage>Inventory is in<language langcode="en" encodinganalog="546">
+	 <langusage>Inventory is in<language langcode="eng" encodinganalog="546">
 		English.</language></langusage> 
   </profiledesc> 
+	<revisiondesc><change>
+		<date normal="20170302">2017-03-02</date>
+		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
+	</change></revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
@@ -52,37 +54,30 @@
 		  <item>Benjamin Richard Grignon</item> 
 		</defitem> 
 	 </list> 
-	 <p>&#x00A9; 2006. Arizona Board of Regents. All rights reserved.</p> 
+	 <p>; 2006. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage> 
 </frontmatter> 
 <archdesc level="collection"> 
   <did id="a1"> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Clifford
+	 <unittitle encodinganalog="245" label="Collection Name">Clifford
 		Clinton Faires papers, 
 		<unitdate type="inclusive"
 		 normal="1924/1947">1924-1947.</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us">AZ 006</unitid> 
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	  repositorycode="US-azu" countrycode="US">AZ 006</unitid> 
+	 <origination label="Creator"> 
 		<persname encodinganalog="100">Faires, Clifford Clinton, 1877-</persname>
 		</origination> 
-	 <abstract label="Abstract:"> Correspondence, minutes of meetings, and other
+	 <abstract label="Abstract"> Correspondence, minutes of meetings, and other
 		materials related to Faires activities with the Arizona Game Protective
 		Association and the Arizona Wildlife Federation.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
 		encodinganalog="300">1.25 linear feet.</extent></physdesc> 
-	 <repository label="Repository:"> 
+	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
-		<address> 
-		  <addressline>University of Arizona</addressline> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
-		</address></repository> 
+		</repository> 
   </did> 
   <accessrestrict encodinganalog="506"> 
 	 <head>Restrictions</head> 
@@ -138,25 +133,27 @@
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
-		  <subject>Arizona Game Protective Association -- Records and
-			 correspondence.</subject> </item> 
+			<subject encodinganalog="650" source= "lcsh">Arizona Game Protective Association -- Records and
+			 correspondence</subject> </item> 
 		<item> 
-		  <subject> Arizona Wildlife Federation.</subject> </item> 
+			<subject encodinganalog="650" source= "lcsh"> Arizona Wildlife Federation</subject> </item> 
 		<item> 
-		  <subject>Patriotism -- Arizona -- Globe.</subject> </item> 
+			<subject encodinganalog="650" source= "lcsh">Patriotism -- Arizona -- Globe</subject> </item> 
 		<item> 
-		  <subject>Wildlife conservation -- Arizona -- History --
-			 Sources.</subject> </item> 
+			<subject encodinganalog="650" source= "lcsh">Wildlife conservation -- Arizona -- History --
+			 Sources</subject> </item> 
 		<item> 
-		  <subject>Game protection -- Arizona -- History -- Sources.</subject>
+			<subject encodinganalog="650" source= "lcsh">Game protection -- Arizona -- History -- Sources</subject>
 		  </item> 
 		<item> 
-		  <subject> Naturalization -- United States -- History --
-			 Sources.</subject> </item> 
+			<subject encodinganalog="650" source= "lcsh"> Naturalization -- United States -- History --
+			 Sources</subject> </item> 
 		<item> 
-		  <subject> Judges -- Arizona -- Archives.</subject> </item> 
+			<subject encodinganalog="650" source= "lcsh"> Judges -- Arizona -- Archives</subject> </item> 
 		<item> 
-		  <geogname>Globe (Ariz.) -- History -- Sources.</geogname> </item> 
+			<subject encodinganalog="655" source= "lcsh">Globe (Ariz.) -- History -- Sources</subject> </item>
+	 	
+	 	<item><geogname encodinganalog="651" source= "lcsh">Globe (Ariz.)</geogname> </item> 
 	 </list> 
   </controlaccess> 
   <dsc type="combined" id="a23"> 
