@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?filetitle Finley, Leighton Papers?>
-<ead xmlns="urn:isbn:1-931666-22-9"
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21"> 
-<eadheader audience="internal" findaidstatus="edited-full-draft"
- langencoding="iso639-2b"> 
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
 	<eadid>UAAZ005</eadid> 
   <filedesc> 
 	 <titlestmt> 
 		<titleproper encodinganalog="245$a">Leighton Finley papers, 
 		  <date>1879-1892</date></titleproper> 
-	 	<titleproper type="filing" altrender="nodisplay">Leighton, (Finley)</titleproper> 
+	 	<titleproper altrender="nodisplay" type="filing">Leighton, (Finley)</titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by staff.</author> 
 	 </titlestmt> 
   	<publicationstmt> 
@@ -22,21 +18,20 @@
   			<addressline>Fax: 520-621-9733</addressline> 
   			<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
   		</address> 
-  		<date normal= "2001" era= "ce" calendar = "gregorian">2001</date> 
+  		<date calendar="gregorian" era="ce" normal="2001">2001</date> 
   		<p>Arizona Board of Regents. All Rights Reserved.</p> 
   	</publicationstmt> 
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Shan Sutton. 
 		<date>January 3, 2001</date></creation> 
-	 <langusage>Inventory is in<language langcode="eng"
-		encodinganalog="546">English.</language></langusage> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
   </profiledesc> 
 	<revisiondesc><change>
 		<date normal="20170302">2017-03-02</date>
 		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
 	</change></revisiondesc>
-</eadheader> 
+<revisiondesc><change><date normal="2017-06-01">2017-06-01</date><item>This finding aid was updated to be more closely aligned with LC specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
 <frontmatter> 
   <titlepage> 
 	 <titleproper encodinganalog="245$a">Leighton Finley papers, 
@@ -60,25 +55,22 @@
 		  <item>Shan Sutton</item> 
 		</defitem> 
 	 </list> 
-	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage> 
 </frontmatter> 
-<archdesc level="collection"> 
-  <did id="a1"> 
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did> 
 	 <head>Collection Summary</head> 
 	 <unittitle encodinganalog="245" label="Collection Name">Leighton
 		Finley papers, 
-		<unitdate type="inclusive"
-		 normal="1879/1892">1879-1892</unitdate></unittitle> 
-	 <unitid label="Collection Number" encodinganalog="099"
-	  repositorycode="US-azu" countrycode="US">AZ 005</unitid> 
+		<unitdate normal="1879/1892" type="inclusive">1879-1892</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 005</unitid> 
 	 <origination label="Creator"> 
 		<persname encodinganalog="100">Finley, Leighton,
 		  1856-1894</persname></origination> 
 	 <abstract label="Abstract">Diary, notebooks, biographical material, and
 		photographs relating to Finley's Army service.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
-		encodinganalog="300">.2 linear feet</extent></physdesc> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">.2 linear feet</extent></physdesc> 
 	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
@@ -102,7 +94,7 @@
 	 <head>Credit Line</head> 
 	 <p>Leighton Finley papers (AZ 005). Special Collections, University of Arizona Libraries.</p> 
   </prefercite> 
-  <bioghist id="a2" encodinganalog="545"> 
+  <bioghist encodinganalog="545"> 
 	 <head>Biographical Note</head> 
 	 <p>Finley was a U.S. Army officer, Lieutenant, 10th cavalry, in Texas,
 		1880-1881, Fort Leavenworth, Kansas, 1881-1884, and Arizona, 1885-1892.</p> 
@@ -115,88 +107,41 @@
 		<item>II. Photographs</item> 
 	 </list> 
   </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
 	 <p>Diary, notebooks, biographical material, and photographs relating to
 		Finley's Army service. Includes studio photographs of Apache Indians, military
 		personnel and living quarters at Fort Leavenworth, Kansas; Fort Grant, Arizona;
 		and Fort Apache, Arizona.</p> 
   </scopecontent> 
-  <controlaccess id="a12"> 
-	 <head>Access Terms</head> 
-	 <list> 
-		<item> 
-			<persname encodinganalog="600" source= "lcnaf">Finley, Leighton,
-			 1856-1894</persname></item> 
-
-		<item> 
-		  <corpname encodinganalog="610">United States -- Army -- Cavalry,
-			 10th</corpname></item> 
-	
-		<item> 
-		  <corpname encodinganalog="610">United States -- Army -- Military life
-			 -- History -- Sources</corpname></item> 
-
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">Apache Indians -- Wars</subject></item> 
-	 
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">Apache Indians -- Photographs</subject></item> 
-	 	<item> 
-	 		<subject encodinganalog="650" source= "lcsh">Fort Grant (Ariz.) -- Photographs</subject></item> 
-	 	
-	 
-  	<item> 
-  		<subject encodinganalog="650" source= "lcsh">Fort Leavenworth (Kan.) -- Photographs</subject></item> 
-  		
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">Military bases -- West (U.S.)</subject></item> 
-	 	<item> 
-	 		<subject encodinganalog="650" source= "lcsh">Fort Apache Indian Reservation (Ariz.) --
-	 			Photographs</subject></item> 
-		<item> 
-			<geogname encodinganalog="651" source= "lcsh">Fort Leavenworth (Kan.)</geogname></item> 
-	
-		<item> 
-			<geogname encodinganalog="651" source= "lcsh">Fort Apache Indian Reservation (Ariz.)</geogname></item> 
-	 
-		<item> 
-			<geogname encodinganalog="651" source= "lcsh">Fort Grant (Ariz.)</geogname></item> 
-	
-		<item> 
-			<genreform encodinganalog="655" source= "aat">Diaries</genreform></item> 
-	
-		<item> 
-			<genreform encodinganalog="655" source= "aat">Photographs</genreform></item> 
-	 </list> 
-  </controlaccess> 
-  <dsc type="combined" id="a23"> 
+  <controlaccess> 
+	 <persname>Finley, Leighton,
+			 1856-1894</persname><corpname>United States -- Army -- Cavalry,
+			 10th</corpname><corpname>United States -- Army -- Military life
+			 -- History -- Sources</corpname><subject>Apache Indians -- Wars</subject><subject>Apache Indians -- Photographs</subject><subject>Fort Grant (Ariz.) -- Photographs</subject><subject>Fort Leavenworth (Kan.) -- Photographs</subject><subject>Military bases -- West (U.S.)</subject><subject>Fort Apache Indian Reservation (Ariz.) --
+	 			Photographs</subject><geogname>Fort Leavenworth (Kan.)</geogname><geogname>Fort Apache Indian Reservation (Ariz.)</geogname><geogname>Fort Grant (Ariz.)</geogname><genreform>Diaries</genreform><genreform>Photographs</genreform></controlaccess> 
+  <dsc type="combined"> 
 	 <head>Container List</head> 
-	 <c01 level="series" id="ser1"> 
+	 <c01 level="series"> 
 		<did> 
 		  <unittitle>Series I: Personal Materials</unittitle> 
 		</did> 
 		<c02> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">1</container> 
+		  <did> <container id="321bbc2a-165b-4462-b57f-1d858ee99c69" type="box">1</container> <container parent="321bbc2a-165b-4462-b57f-1d858ee99c69" type="folder">1</container> 
 			 <unittitle>Official record of Leighton Finley, handwritten, 2
 				pages.</unittitle> 
 		  </did> 
 		</c02> 
 		<c02> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="f931d8e5-6349-4d98-bda6-a1a5f72df9d1" type="box">1</container> <container parent="f931d8e5-6349-4d98-bda6-a1a5f72df9d1" type="folder">2</container> 
 			 <unittitle>Two notebooks, photocopies. 
-				<unitdate type="inclusive"
-				 normal="1879/1883">1879-1883</unitdate></unittitle> 
+				<unitdate normal="1879/1883" type="inclusive">1879-1883</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="7dfe245b-c0bd-4e1b-82f2-d06a5adce75c" type="box">1</container> <container parent="7dfe245b-c0bd-4e1b-82f2-d06a5adce75c" type="folder">3</container> 
 			 <unittitle>Two notebooks, originals. 
-				<unitdate type="inclusive"
-				 normal="1879/1883">1879-1883</unitdate></unittitle> 
+				<unitdate normal="1879/1883" type="inclusive">1879-1883</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 	 </c01> 
@@ -205,8 +150,7 @@
 		  <unittitle>Series II: Photographs</unittitle> 
 		</did> 
 		<c02> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="892ab323-bb6b-41fa-9d08-7f32941a68d7" type="box">1</container> <container parent="892ab323-bb6b-41fa-9d08-7f32941a68d7" type="folder">4</container> 
 			 <unittitle>Military personnel.</unittitle> 
 		  </did> 
 		  <scopecontent> 
@@ -216,11 +160,9 @@
 		  </scopecontent> 
 		</c02> 
 		<c02> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="b5b8a197-ea6a-4c28-b25d-036056ad7504" type="box">1</container> <container parent="b5b8a197-ea6a-4c28-b25d-036056ad7504" type="folder">5</container> 
 			 <unittitle>Fort Apache. 
-				<unitdate type="inclusive"
-				normal="1887/1890">1887-1890</unitdate></unittitle> 
+				<unitdate normal="1887/1890" type="inclusive">1887-1890</unitdate></unittitle> 
 		  </did> 
 		  <scopecontent> 
 			 <p>Five photographs of interiors of homes; one photograph of exterior
@@ -229,8 +171,7 @@
 		  </scopecontent> 
 		</c02> 
 		<c02> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">6</container> 
+		  <did> <container id="eef871aa-67b2-4a78-a033-b6b1e408c22f" type="box">1</container> <container parent="eef871aa-67b2-4a78-a033-b6b1e408c22f" type="folder">6</container> 
 			 <unittitle>Fort Grant. </unittitle> 
 		  </did> 
 		  <scopecontent> 
@@ -242,8 +183,7 @@
 		  </scopecontent> 
 		</c02> 
 		<c02> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">7</container> 
+		  <did> <container id="d80b4d75-45fa-47ec-aead-6ed8c1a7c833" type="box">1</container> <container parent="d80b4d75-45fa-47ec-aead-6ed8c1a7c833" type="folder">7</container> 
 			 <unittitle>Apache Indians, San Carlos Reservation.</unittitle> 
 		  </did> 
 		  <scopecontent> 
@@ -251,8 +191,7 @@
 		  </scopecontent> 
 		</c02> 
 		<c02> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">8</container> 
+		  <did> <container id="d1a5d886-551f-479b-a21b-daf601e75782" type="box">1</container> <container parent="d1a5d886-551f-479b-a21b-daf601e75782" type="folder">8</container> 
 			 <unittitle>Apache Indians.</unittitle> 
 		  </did> 
 		  <scopecontent> 
@@ -261,8 +200,7 @@
 		  </scopecontent> 
 		</c02> 
 		<c02> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">9</container> 
+		  <did> <container id="15595341-587b-4618-bb64-1136ea5258d0" type="box">1</container> <container parent="15595341-587b-4618-bb64-1136ea5258d0" type="folder">9</container> 
 			 <unittitle>Various Indians. </unittitle> 
 		  </did> 
 		  <scopecontent> 
@@ -272,8 +210,7 @@
 		  </scopecontent> 
 		</c02> 
 		<c02> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">10</container> 
+		  <did> <container id="f23e1568-feca-455d-9d67-691f8f14b3c9" type="box">1</container> <container parent="f23e1568-feca-455d-9d67-691f8f14b3c9" type="folder">10</container> 
 			 <unittitle>Miscellaneous.</unittitle> 
 		  </did> 
 		  <scopecontent> 

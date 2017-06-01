@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?filtitle Clum, John P. Papers?>
-<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
- xmlns="urn:isbn:1-931666-22-9" relatedencoding="MARC21"> 
-<eadheader audience="internal" findaidstatus="edited-full-draft"
- langencoding="iso639-2b"> 
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
 	<eadid>UAAZ003</eadid> 
   <filedesc> 
 	 <titlestmt> 
@@ -23,21 +19,20 @@
   			<addressline>Fax: 520-621-9733</addressline> 
   			<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
   		</address> 
-  		<date normal= "2001" era= "ce" calendar = "gregorian">2001</date> 
+  		<date calendar="gregorian" era="ce" normal="2001">2001</date> 
   		<p>Arizona Board of Regents. All Rights Reserved.</p> 
   	</publicationstmt> 
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Shan Sutton. 
 		<date>June 18, 2001</date></creation> 
-	 <langusage>Inventory is in<language langcode="eng"
-		encodinganalog="546">English.</language></langusage> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
   </profiledesc> 
 	<revisiondesc><change>
 		<date normal="20170302">2017-03-02</date>
 		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
 	</change></revisiondesc>
-</eadheader> 
+<revisiondesc><change><date normal="2017-06-01">2017-06-01</date><item>This finding aid was updated to be more closely aligned with LC specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
 <frontmatter> 
   <titlepage> 
 	 <titleproper encodinganalog="245$a">John P. Clum papers, 
@@ -60,18 +55,17 @@
 		  <item>Shan Sutton</item> 
 		</defitem> 
 	 </list> 
-	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage> 
 </frontmatter> 
-<archdesc level="collection"> 
-  <did id="a1"> 
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did> 
 	 <head>Collection Summary</head> 
 	 <unittitle encodinganalog="245" label="Collection Name">John P.
 		Clum papers, 
-		<unitdate type="inclusive" normal="1860/1970">1860-1970 (bulk,
+		<unitdate normal="1860/1970" type="inclusive">1860-1970 (bulk,
 		  1874-1932)</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="US-azu" countrycode="US">AZ 003</unitid> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number:" repositorycode="US-azu">AZ 003</unitid> 
 	 <origination label="Creator:"> 
 		<persname encodinganalog="100">Clum, John P.,
 		  1851-1932</persname></origination> 
@@ -82,8 +76,7 @@
 		Woodworth Clum. Much of the material consists of writings by the Clums and
 		others about the Apache Indians, Geronimo's capture, and events in Tombstone,
 		Arizona.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
-		encodinganalog="300">3 linear feet</extent></physdesc> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent encodinganalog="300">3 linear feet</extent></physdesc> 
 	 <repository label="Repository:"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
@@ -107,7 +100,7 @@
 	 <head>Credit Line</head> 
 	 <p>John P. Clum papers (AZ 003). Special Collections, University of Arizona Libraries.</p> 
   </prefercite> 
-  <bioghist id="a2" encodinganalog="545"> 
+  <bioghist encodinganalog="545"> 
 	 <head>Biographical Note</head> 
 	 <p>John P. Clum was an Indian agent at the San Carlos Indian Reservation in
 		southeast Arizona from 1874 to 1877. He later served as founder and editor of
@@ -135,7 +128,7 @@
 		<item>X. Photographs</item> 
 	 </list> 
   </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
 	 <p>Collection consists of the papers of John P. Clum and family.
 		Correspondence, diaries, scrapbooks, photographs, typescripts, newspaper and
@@ -155,589 +148,484 @@
 		photographs chronicle Clum's time in Alaska. Miscellaneous items include an
 		1860 history book, and an account of Clum family history. </p> 
   </scopecontent> 
-  <relatedmaterial encodinganalog="544$1"> 
+  <relatedmaterial encodinganalog="544"> 
 	 <head>Related Material</head> 
 	 <p>Additional materials concerning John Clum are located in the John P.
 		Clum Collection (MS 284).</p> 
   </relatedmaterial> 
-  <controlaccess id="a12"> 
-	 <head>Access Terms</head> 
-	 <list> 
-		<item> 
-			<persname encodinganalog="600" source= "lcnaf">Clum, John P., 1851-1932 --
-			 Archives</persname></item> 
-		<item> 
-			<persname encodinganalog="600" source= "lcnaf">Clum, Woodworth</persname></item> 
-		<item> 
-			<persname encodinganalog="600" source= "lcnaf">Geronimo, 1829-1909</persname></item> 
-		<item> 
-			<famname encodinganalog="600" source= "lcnaf">Clum family -- Genealogy</famname></item>
-		
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">Frontier and pioneer life -- Arizona -- Cochise
-			 County</subject></item> 
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">Apache Indians -- Government relations --
-			 History</subject></item> 
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">Apache Indians -- Photographs</subject></item> 
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">San Carlos Indian Reservation (Ariz.) --History</subject></item> 
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">Tombstone (Ariz.) -- History</subject></item> 
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">Alaska -- Description and travel -- History -- 19th
-		  	century</subject></item> 
-	 	<item> 
-	 		<geogname encodinganalog="651" source= "lcsh">San Carlos Indian Reservation (Ariz.)</geogname></item>
-	 	<item> 
-	 		<geogname encodinganalog="651" source= "lcsh">Tombstone (Ariz.)</geogname></item>
-	 	<item> 
-	 		<geogname encodinganalog="651" source= "lcsh">Alaska</geogname></item>
-		<item> 
-			<genreform encodinganalog="655" source= "aat">Correspondence</genreform></item> 
-		<item> 
-			<genreform encodinganalog="655" source= "aat">Diaries</genreform></item> 
-		<item> 
-			<genreform encodinganalog="655" source= "aat">Photographs</genreform></item> 
-		<item> 
-			<genreform encodinganalog="655" source= "aat">Tintypes</genreform></item> 
-	 </list> 
-  </controlaccess> 
-  <dsc type="combined" id="a23"> 
+  <controlaccess> 
+	 <persname>Clum, John P., 1851-1932 --
+			 Archives</persname><persname>Clum, Woodworth</persname><persname>Geronimo, 1829-1909</persname><famname>Clum family -- Genealogy</famname><subject>Frontier and pioneer life -- Arizona -- Cochise
+			 County</subject><subject>Apache Indians -- Government relations --
+			 History</subject><subject>Apache Indians -- Photographs</subject><subject>San Carlos Indian Reservation (Ariz.) --History</subject><subject>Tombstone (Ariz.) -- History</subject><subject>Alaska -- Description and travel -- History -- 19th
+		  	century</subject><geogname>San Carlos Indian Reservation (Ariz.)</geogname><geogname>Tombstone (Ariz.)</geogname><geogname>Alaska</geogname><genreform>Correspondence</genreform><genreform>Diaries</genreform><genreform>Photographs</genreform><genreform>Tintypes</genreform></controlaccess> 
+  <dsc type="combined"> 
 	 <head>Container List</head> 
-	 <c01 level="series" id="ser1"> 
+	 <c01 level="series"> 
 		<did> 
 		  <unittitle>Series I: Correspondence</unittitle> 
 		</did> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">1</container> 
+		  <did> <container id="551afe6e-fb14-4c10-aa6d-e07bec1937d6" type="box">1</container> <container parent="551afe6e-fb14-4c10-aa6d-e07bec1937d6" type="folder">1</container> 
 			 <unittitle>Edw. P. Smith, Office of Indian Affairs, to John Clum. 
-				<unitdate type="inclusive" normal="1874">February 27,
+				<unitdate normal="1874" type="inclusive">February 27,
 				  1874</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">1</container> 
+		  <did> <container id="c6f75b27-7ba8-4e54-8fef-14c5024bb9b5" type="box">1</container> <container parent="c6f75b27-7ba8-4e54-8fef-14c5024bb9b5" type="folder">1</container> 
 			 <unittitle>Wedding invitation for wedding of Mary D. Ware to John P.
 				Clum. Sent to S.B. Chapin from Mrs. T.C. Ware. 
-				<unitdate type="inclusive"
-				 normal="1876">1876</unitdate></unittitle> 
+				<unitdate normal="1876" type="inclusive">1876</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">1</container> 
+		  <did> <container id="61b9f3f2-98fc-4dde-8a25-18b04e02bea6" type="box">1</container> <container parent="61b9f3f2-98fc-4dde-8a25-18b04e02bea6" type="folder">1</container> 
 			 <unittitle>J.Q. Smith, Office of Indian Affairs, to John Clum. 
-				<unitdate type="inclusive" normal="1876">March 20,
+				<unitdate normal="1876" type="inclusive">March 20,
 				  1876</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">1</container> 
+		  <did> <container id="ae99b5c7-7e08-45bb-a2ba-65dc4fb30df7" type="box">1</container> <container parent="ae99b5c7-7e08-45bb-a2ba-65dc4fb30df7" type="folder">1</container> 
 			 <unittitle>Mary Clum to John Clum's mother. 
-				<unitdate type="inclusive" normal="1876">November 25,
+				<unitdate normal="1876" type="inclusive">November 25,
 				  1876</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">1</container> 
+		  <did> <container id="a1c9c9a2-2290-4e43-9175-306afaf7af6d" type="box">1</container> <container parent="a1c9c9a2-2290-4e43-9175-306afaf7af6d" type="folder">1</container> 
 			 <unittitle>(No first name) Smith, War Dept., telegram to John Clum. 
-				<unitdate type="inclusive" normal="1877">March 20,
+				<unitdate normal="1877" type="inclusive">March 20,
 				  1877</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">1</container> 
+		  <did> <container id="5bb66c9d-d50d-4bd1-b029-058bccf70aab" type="box">1</container> <container parent="5bb66c9d-d50d-4bd1-b029-058bccf70aab" type="folder">1</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1877">April 13,
+				<unitdate normal="1877" type="inclusive">April 13,
 				  1877</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">1</container> 
+		  <did> <container id="aa94bd2e-a2ad-4ec2-af46-b17da1a8b16d" type="box">1</container> <container parent="aa94bd2e-a2ad-4ec2-af46-b17da1a8b16d" type="folder">1</container> 
 			 <unittitle>John Clum to Mary Clum. 
-				<unitdate type="inclusive" normal="1877">April 16,
+				<unitdate normal="1877" type="inclusive">April 16,
 				  1877</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">1</container> 
+		  <did> <container id="51a26190-78ac-453f-b75e-73d87eba1d7d" type="box">1</container> <container parent="51a26190-78ac-453f-b75e-73d87eba1d7d" type="folder">1</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1877">April 20,
+				<unitdate normal="1877" type="inclusive">April 20,
 				  1877</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">1</container> 
+		  <did> <container id="183b7eea-9bde-44db-a54d-042d87398a1b" type="box">1</container> <container parent="183b7eea-9bde-44db-a54d-042d87398a1b" type="folder">1</container> 
 			 <unittitle>John Clum to Major J.F. Wade, 9th Calvary. 
-				<unitdate type="inclusive" normal="1877">April 22,
+				<unitdate normal="1877" type="inclusive">April 22,
 				  1877</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">1</container> 
+		  <did> <container id="f4d2078c-c08f-405a-b8f0-c15d89c7f0cd" type="box">1</container> <container parent="f4d2078c-c08f-405a-b8f0-c15d89c7f0cd" type="folder">1</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1877">April 25,
+				<unitdate normal="1877" type="inclusive">April 25,
 				  1877</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">1</container> 
+		  <did> <container id="d8c2e366-c42b-4948-b31a-a13da818561d" type="box">1</container> <container parent="d8c2e366-c42b-4948-b31a-a13da818561d" type="folder">1</container> 
 			 <unittitle>John Clum to Mary Clum. 
-				<unitdate type="inclusive" normal="1877">April 25,
+				<unitdate normal="1877" type="inclusive">April 25,
 				  1877</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="111f3347-ba58-4819-9600-74171f93e24c" type="box">1</container> <container parent="111f3347-ba58-4819-9600-74171f93e24c" type="folder">2</container> 
 			 <unittitle>John Clum to Mary Clum. 
-				<unitdate type="inclusive" normal="1877">April 27,
+				<unitdate normal="1877" type="inclusive">April 27,
 				  1877</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="82f0e866-19ea-42d7-8cf7-852bf2e28d00" type="box">1</container> <container parent="82f0e866-19ea-42d7-8cf7-852bf2e28d00" type="folder">2</container> 
 			 <unittitle>John Clum to Mary Clum. 
-				<unitdate type="inclusive" normal="1877">May 22,
+				<unitdate normal="1877" type="inclusive">May 22,
 				  1877</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="c90633ac-e847-4ff9-8722-ecdf161d7548" type="box">1</container> <container parent="c90633ac-e847-4ff9-8722-ecdf161d7548" type="folder">2</container> 
 			 <unittitle>Mary Clum to (her cousin) G.N. Strong. 
-				<unitdate type="inclusive" normal="1878">February 13,
+				<unitdate normal="1878" type="inclusive">February 13,
 				  1878</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="7c1926ae-592a-4a5d-aa54-b380967ca9a4" type="box">1</container> <container parent="7c1926ae-592a-4a5d-aa54-b380967ca9a4" type="folder">2</container> 
 			 <unittitle>John Clum to (his grandmother) Jane Clum. 
-				<unitdate type="inclusive" normal="1878">October 22,
+				<unitdate normal="1878" type="inclusive">October 22,
 				  1878</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="20f46557-44f4-45cc-92dc-d08b95fbb535" type="box">1</container> <container parent="20f46557-44f4-45cc-92dc-d08b95fbb535" type="folder">2</container> 
 			 <unittitle>John Clum to Mary Clum (letter is incomplete). 
-				<unitdate type="inclusive" normal="1879">May 19,
+				<unitdate normal="1879" type="inclusive">May 19,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="8a0c87fc-7c2c-4dbf-8aa1-a936928e5b0c" type="box">1</container> <container parent="8a0c87fc-7c2c-4dbf-8aa1-a936928e5b0c" type="folder">2</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">May 20,
+				<unitdate normal="1879" type="inclusive">May 20,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="cdd425ce-852c-4b13-9a24-d9b976ae3c04" type="box">1</container> <container parent="cdd425ce-852c-4b13-9a24-d9b976ae3c04" type="folder">2</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">May 23,
+				<unitdate normal="1879" type="inclusive">May 23,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="616f551c-3d4d-4c9a-b93f-0e636dfad4f2" type="box">1</container> <container parent="616f551c-3d4d-4c9a-b93f-0e636dfad4f2" type="folder">2</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">May 27,
+				<unitdate normal="1879" type="inclusive">May 27,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="3005e8dd-dab0-479d-bd2d-63561c755788" type="box">1</container> <container parent="3005e8dd-dab0-479d-bd2d-63561c755788" type="folder">2</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">May 31,
+				<unitdate normal="1879" type="inclusive">May 31,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="3f213ae9-1fce-45ad-bdb6-39853436513b" type="box">1</container> <container parent="3f213ae9-1fce-45ad-bdb6-39853436513b" type="folder">2</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">June 5,
+				<unitdate normal="1879" type="inclusive">June 5,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="fae5da28-1883-4d79-ad6b-f6e616583d44" type="box">1</container> <container parent="fae5da28-1883-4d79-ad6b-f6e616583d44" type="folder">2</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">June 8,
+				<unitdate normal="1879" type="inclusive">June 8,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="6f07eed0-b7a4-43f6-b82c-d333ab2bd7ec" type="box">1</container> <container parent="6f07eed0-b7a4-43f6-b82c-d333ab2bd7ec" type="folder">2</container> 
 			 <unittitle>John Clum to Mary Clum (letter is incomplete). 
-				<unitdate type="inclusive" normal="1879">June 8,
+				<unitdate normal="1879" type="inclusive">June 8,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="d1ebbbb2-25df-467b-bdd0-5a3264255513" type="box">1</container> <container parent="d1ebbbb2-25df-467b-bdd0-5a3264255513" type="folder">3</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">June 9,
+				<unitdate normal="1879" type="inclusive">June 9,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="9fb1655d-a179-4f7b-ba17-34d3d91770a1" type="box">1</container> <container parent="9fb1655d-a179-4f7b-ba17-34d3d91770a1" type="folder">3</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">June 18,
+				<unitdate normal="1879" type="inclusive">June 18,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="d2cba4ab-bcf4-42df-b479-7bc215023fe8" type="box">1</container> <container parent="d2cba4ab-bcf4-42df-b479-7bc215023fe8" type="folder">3</container> 
 			 <unittitle>John Clum to Mary Clum. 
-				<unitdate type="inclusive" normal="1879">June 18,
+				<unitdate normal="1879" type="inclusive">June 18,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="c9656937-6067-4d78-bbe1-ed14cc81d6e0" type="box">1</container> <container parent="c9656937-6067-4d78-bbe1-ed14cc81d6e0" type="folder">3</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">June 22,
+				<unitdate normal="1879" type="inclusive">June 22,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="ab2802f6-b2d9-4917-830d-57c0e414c819" type="box">1</container> <container parent="ab2802f6-b2d9-4917-830d-57c0e414c819" type="folder">3</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">June 24,
+				<unitdate normal="1879" type="inclusive">June 24,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="872b072e-c2a2-4602-a033-35901acec5b0" type="box">1</container> <container parent="872b072e-c2a2-4602-a033-35901acec5b0" type="folder">3</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">June 26,
+				<unitdate normal="1879" type="inclusive">June 26,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="5cb44001-5bc6-4494-822f-d4a35581205e" type="box">1</container> <container parent="5cb44001-5bc6-4494-822f-d4a35581205e" type="folder">3</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">June 27,
+				<unitdate normal="1879" type="inclusive">June 27,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="b7be1df0-68a1-4242-974c-0124593ee5d5" type="box">1</container> <container parent="b7be1df0-68a1-4242-974c-0124593ee5d5" type="folder">3</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">June 30,
+				<unitdate normal="1879" type="inclusive">June 30,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="8c715e43-ea91-4671-a12c-9982e6437984" type="box">1</container> <container parent="8c715e43-ea91-4671-a12c-9982e6437984" type="folder">3</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">July 1,
+				<unitdate normal="1879" type="inclusive">July 1,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="dff75d7a-3741-4caf-bb51-c532023420cb" type="box">1</container> <container parent="dff75d7a-3741-4caf-bb51-c532023420cb" type="folder">3</container> 
 			 <unittitle>Mary Clum to John Clum. 
 				<unitdate>No Date (circa. July,
 				  1879)</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="cde346be-fe9a-4792-8df5-52440eecdd16" type="box">1</container> <container parent="cde346be-fe9a-4792-8df5-52440eecdd16" type="folder">3</container> 
 			 <unittitle>John Clum to Mary Clum (letter is incomplete). 
 				<unitdate>No Date (circa. July,
 				  1879)</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="009bf989-8b93-4b7e-ac4d-7d61a05e3749" type="box">1</container> <container parent="009bf989-8b93-4b7e-ac4d-7d61a05e3749" type="folder">3</container> 
 			 <unittitle>John Clum to Mary Clum (letter is incomplete). 
 				<unitdate>No Date (circa. July,
 				  1879)</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="62679610-ae80-4bf2-ba8b-5d6a41ed58bc" type="box">1</container> <container parent="62679610-ae80-4bf2-ba8b-5d6a41ed58bc" type="folder">3</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">July 2,
+				<unitdate normal="1879" type="inclusive">July 2,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="c74888d3-e6c6-496b-9701-486d7ec3a348" type="box">1</container> <container parent="c74888d3-e6c6-496b-9701-486d7ec3a348" type="folder">4</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">July 4,
+				<unitdate normal="1879" type="inclusive">July 4,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="cef61e21-f41c-4d2e-a89b-c0322471bfd0" type="box">1</container> <container parent="cef61e21-f41c-4d2e-a89b-c0322471bfd0" type="folder">4</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">July 5,
+				<unitdate normal="1879" type="inclusive">July 5,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="4d4f1c9a-df40-4a3a-b26c-889c1033aed6" type="box">1</container> <container parent="4d4f1c9a-df40-4a3a-b26c-889c1033aed6" type="folder">4</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">July 6,
+				<unitdate normal="1879" type="inclusive">July 6,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="669e4861-02d9-4668-ad1b-63262f7cb80f" type="box">1</container> <container parent="669e4861-02d9-4668-ad1b-63262f7cb80f" type="folder">4</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">July 7,
+				<unitdate normal="1879" type="inclusive">July 7,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="97b94f74-60b2-4a8f-974b-c82988f3d9ee" type="box">1</container> <container parent="97b94f74-60b2-4a8f-974b-c82988f3d9ee" type="folder">4</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">July 12,
+				<unitdate normal="1879" type="inclusive">July 12,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="0c8280fe-49da-401e-afa8-f34650e0025e" type="box">1</container> <container parent="0c8280fe-49da-401e-afa8-f34650e0025e" type="folder">4</container> 
 			 <unittitle>Mary Clum to John Clum (enclosed with the letter are
 				letters to Mary from John's mother and sister). 
-				<unitdate type="inclusive" normal="1879">July 13,
+				<unitdate normal="1879" type="inclusive">July 13,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="c818e989-755a-4f12-a28f-ed2d0f437507" type="box">1</container> <container parent="c818e989-755a-4f12-a28f-ed2d0f437507" type="folder">4</container> 
 			 <unittitle>Mary Clum to John Clum (letter is incomplete). 
-				<unitdate type="inclusive" normal="1879">July 14,
+				<unitdate normal="1879" type="inclusive">July 14,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="15dd6241-f92a-41eb-b683-d383ebc51a26" type="box">1</container> <container parent="15dd6241-f92a-41eb-b683-d383ebc51a26" type="folder">4</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">July 16,
+				<unitdate normal="1879" type="inclusive">July 16,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="42d191e2-3c28-46d5-936e-5ffdcc0a4dc6" type="box">1</container> <container parent="42d191e2-3c28-46d5-936e-5ffdcc0a4dc6" type="folder">4</container> 
 			 <unittitle>John Clum to Mary Clum. 
-				<unitdate type="inclusive" normal="1879">July 16,
+				<unitdate normal="1879" type="inclusive">July 16,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="34287eed-5982-48fd-8d1b-9c3471645ecd" type="box">1</container> <container parent="34287eed-5982-48fd-8d1b-9c3471645ecd" type="folder">4</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">July 17,
+				<unitdate normal="1879" type="inclusive">July 17,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="21a79066-c527-4cee-b950-ae4f0f0366b6" type="box">1</container> <container parent="21a79066-c527-4cee-b950-ae4f0f0366b6" type="folder">4</container> 
 			 <unittitle>John Clum to Mary Clum. 
-				<unitdate type="inclusive" normal="1879">July 17,
+				<unitdate normal="1879" type="inclusive">July 17,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="7625a23d-f3d6-4f78-b34b-73a5ab74020f" type="box">1</container> <container parent="7625a23d-f3d6-4f78-b34b-73a5ab74020f" type="folder">4</container> 
 			 <unittitle>John Clum to Mary Clum. 
-				<unitdate type="inclusive" normal="1879">July 20,
+				<unitdate normal="1879" type="inclusive">July 20,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="7d27a1e9-0791-434c-a683-b22b61346668" type="box">1</container> <container parent="7d27a1e9-0791-434c-a683-b22b61346668" type="folder">4</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">July 14,
+				<unitdate normal="1879" type="inclusive">July 14,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="fdd68829-d018-44b8-84ad-96ec4cdee9b5" type="box">1</container> <container parent="fdd68829-d018-44b8-84ad-96ec4cdee9b5" type="folder">5</container> 
 			 <unittitle>Mary Clum to John Clum (letter is incomplete). 
 				<unitdate>No Date (circa. August,
 				  1879)</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="1c7b57d4-23b3-4d3a-86db-da56b24a03ac" type="box">1</container> <container parent="1c7b57d4-23b3-4d3a-86db-da56b24a03ac" type="folder">5</container> 
 			 <unittitle>Mary Clum to John Clum (letter is incomplete). 
 				<unitdate>No Date (circa. August,
 				  1879)</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="26225373-5224-4f18-b924-730d81874767" type="box">1</container> <container parent="26225373-5224-4f18-b924-730d81874767" type="folder">5</container> 
 			 <unittitle>John Clum to Mary Clum. 
-				<unitdate type="inclusive" normal="1879">August 30,
+				<unitdate normal="1879" type="inclusive">August 30,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="5ff0bd7b-3b58-42c7-8d5b-a807f5b6639e" type="box">1</container> <container parent="5ff0bd7b-3b58-42c7-8d5b-a807f5b6639e" type="folder">5</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">September 14,
+				<unitdate normal="1879" type="inclusive">September 14,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="7fe3e1ff-1a69-4927-a2d6-1d85bbb04743" type="box">1</container> <container parent="7fe3e1ff-1a69-4927-a2d6-1d85bbb04743" type="folder">5</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">September 15,
+				<unitdate normal="1879" type="inclusive">September 15,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="ff698cf0-c799-44c9-9515-9a061612d93b" type="box">1</container> <container parent="ff698cf0-c799-44c9-9515-9a061612d93b" type="folder">5</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">September 16,
+				<unitdate normal="1879" type="inclusive">September 16,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="42cd9950-3016-4ff3-8d59-709c65018281" type="box">1</container> <container parent="42cd9950-3016-4ff3-8d59-709c65018281" type="folder">5</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1879">September 19,
+				<unitdate normal="1879" type="inclusive">September 19,
 				  1879</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="fd470e5a-6e7e-43f2-87c6-440d7062c5f0" type="box">1</container> <container parent="fd470e5a-6e7e-43f2-87c6-440d7062c5f0" type="folder">5</container> 
 			 <unittitle>Mary Clum to John Clum (letter is incomplete). 
 				<unitdate>No Date (circa. May,
 				  1880)</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="3a9101d5-1f16-4f4f-a655-165a70e628f0" type="box">1</container> <container parent="3a9101d5-1f16-4f4f-a655-165a70e628f0" type="folder">5</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1880">May 22,
+				<unitdate normal="1880" type="inclusive">May 22,
 				  1880</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="2ccba128-65ac-4d13-af64-1cd4ebfffd70" type="box">1</container> <container parent="2ccba128-65ac-4d13-af64-1cd4ebfffd70" type="folder">5</container> 
 			 <unittitle>Mary Clum to John Clum. 
-				<unitdate type="inclusive" normal="1880">May 27,
+				<unitdate normal="1880" type="inclusive">May 27,
 				  1880</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="1411bfb0-dce8-4e1e-b1f0-64fc1993dfa8" type="box">1</container> <container parent="1411bfb0-dce8-4e1e-b1f0-64fc1993dfa8" type="folder">5</container> 
 			 <unittitle>Mary Clum to John Clum (letter is incomplete). 
-				<unitdate type="inclusive" normal="1880">June 4,
+				<unitdate normal="1880" type="inclusive">June 4,
 				  1880</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="76d2241d-4846-46e3-b76f-f0a4995c961a" type="box">1</container> <container parent="76d2241d-4846-46e3-b76f-f0a4995c961a" type="folder">5</container> 
 			 <unittitle>Mary Clum to John Clum's mother. 
-				<unitdate type="inclusive" normal="1880">December 5,
+				<unitdate normal="1880" type="inclusive">December 5,
 				  1880</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="5f1d00a7-abd8-49b4-962f-e001af350d3b" type="box">1</container> <container parent="5f1d00a7-abd8-49b4-962f-e001af350d3b" type="folder">5</container> 
 			 <unittitle>John Clum to his mother. 
-				<unitdate type="inclusive" normal="1880">December 20,
+				<unitdate normal="1880" type="inclusive">December 20,
 				  1880</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="877d93c0-9961-4865-9b30-110d83360e3b" type="box">1</container> <container parent="877d93c0-9961-4865-9b30-110d83360e3b" type="folder">5</container> 
 			 <unittitle>John Clum to Woodworth Clum. 
-				<unitdate type="inclusive" normal="1897">June 12,
+				<unitdate normal="1897" type="inclusive">June 12,
 				  1897</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="12ff7b6d-f95e-424d-979c-84d8c6e7e335" type="box">1</container> <container parent="12ff7b6d-f95e-424d-979c-84d8c6e7e335" type="folder">5</container> 
 			 <unittitle>Woodworth Clum to John Clum (letter is incomplete). 
-				<unitdate type="inclusive" normal="1927">May 26,
+				<unitdate normal="1927" type="inclusive">May 26,
 				  1927</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="7cdab784-b3c7-4f88-b93c-778daae93257" type="box">1</container> <container parent="7cdab784-b3c7-4f88-b93c-778daae93257" type="folder">5</container> 
 			 <unittitle>John Clum to Col. W.N. Monroe. 
-				<unitdate type="inclusive" normal="1930">May 18,
+				<unitdate normal="1930" type="inclusive">May 18,
 				  1930</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="0ed8117b-ed52-48bf-899a-8722e42a33d5" type="box">1</container> <container parent="0ed8117b-ed52-48bf-899a-8722e42a33d5" type="folder">5</container> 
 			 <unittitle>John Clum to Walter H. Cole, editor of the 
 				<title>Tombstone Epitaph</title>. 
-				<unitdate type="inclusive" normal="1930">May 1,
+				<unitdate normal="1930" type="inclusive">May 1,
 				  1930</unitdate></unittitle> 
 		  </did> 
 		</c02> 
@@ -747,8 +635,7 @@
 		  <unittitle>Series II: Dairies</unittitle> 
 		</did> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">6</container> 
+		  <did> <container id="e27ee0c0-9247-4962-8135-ae480bd50da0" type="box">1</container> <container parent="e27ee0c0-9247-4962-8135-ae480bd50da0" type="folder">6</container> 
 			 <unittitle>John Clum diary. Written in Arizona and on a trip to
 				Washington, D.C. 
 				<unitdate>March 1, 1875-December 23,
@@ -756,8 +643,7 @@
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">7</container> 
+		  <did> <container id="08b4728b-6f91-4e7b-8ae7-9cd6821189f7" type="box">1</container> <container parent="08b4728b-6f91-4e7b-8ae7-9cd6821189f7" type="folder">7</container> 
 			 <unittitle>John Clum diary. Written in Alaska. 
 				<unitdate>March 5, 1898-September 7,
 				  1898</unitdate></unittitle> 
@@ -769,8 +655,7 @@
 		  <unittitle>Series III: Manuscripts</unittitle> 
 		</did> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">8</container> 
+		  <did> <container id="586583a1-a432-4206-a0ef-5f90783f3acc" type="box">1</container> <container parent="586583a1-a432-4206-a0ef-5f90783f3acc" type="folder">8</container> 
 			 <unittitle>Autobiography by John Clum, chapters 15-22. Some portions
 				used by Woodworth Clum in his biography of John Clum, entitled 
 				<title>Apache Agent</title>. 
@@ -779,27 +664,23 @@
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">9</container> 
+		  <did> <container id="46492524-0685-4b42-966b-c3e00c6aa868" type="box">1</container> <container parent="46492524-0685-4b42-966b-c3e00c6aa868" type="folder">9</container> 
 			 <unittitle>"Lo, the Poor Indian Agent" by John Clum. 
 				<unitdate>No
 				  Date</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">10</container> 
+		  <did> <container id="aa0f7f8f-f069-4f65-bf18-5b193e4ffdf6" type="box">1</container> <container parent="aa0f7f8f-f069-4f65-bf18-5b193e4ffdf6" type="folder">10</container> 
 			 <unittitle>"On the Trail" by John Clum. 
-				<unitdate type="inclusive" normal="1875">October,
+				<unitdate normal="1875" type="inclusive">October,
 				  1875</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">1</container> <container
-			 type="folder">11</container> 
+		  <did> <container id="3204b965-a5f3-4fc4-aa02-009d0a1fe260" type="box">1</container> <container parent="3204b965-a5f3-4fc4-aa02-009d0a1fe260" type="folder">11</container> 
 			 <unittitle>Fragments of autobiographical manuscripts by John Clum. 
-				<unitdate type="inclusive"
-				normal="1898/1909">1898-1909</unitdate></unittitle> 
+				<unitdate normal="1898/1909" type="inclusive">1898-1909</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 	 </c01> 
@@ -808,92 +689,79 @@
 		  <unittitle>Series IV: Publications</unittitle> 
 		</did> 
 		<c02 level="file"> 
-		  <did> <container type="box">2</container> <container
-			 type="folder">1</container> 
+		  <did> <container id="00b096c8-d120-4159-ad03-41f4bbaa0437" type="box">2</container> <container parent="00b096c8-d120-4159-ad03-41f4bbaa0437" type="folder">1</container> 
 			 <unittitle> 
 				<title>The Third Book of History</title> by Peter Parley (Boston:
 				Swan, Brewer and Tileston, 1860). Signed: John P. Clum, Santa Fe, N.M. 
-				<unitdate type="inclusive"
-				normal="1860">1860</unitdate></unittitle> 
+				<unitdate normal="1860" type="inclusive">1860</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">2</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="e1047733-101e-4630-bf87-515f5595538e" type="box">2</container> <container parent="e1047733-101e-4630-bf87-515f5595538e" type="folder">2</container> 
 			 <unittitle> 
 				<title>Sunset Magazine</title>. Includes an article by John Clum
 				entitled "Fighting Geronimo: A Story of the Apache Indian Campaign of 1876." 
-				<unitdate type="inclusive" normal="1906">May,
+				<unitdate normal="1906" type="inclusive">May,
 				  1906</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">2</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="eb7f65e6-f3ee-4a20-aa2d-12d4050dcc5c" type="box">2</container> <container parent="eb7f65e6-f3ee-4a20-aa2d-12d4050dcc5c" type="folder">3</container> 
 			 <unittitle>"Geronimo" by John Clum. Extract from the 
 				<title>New Mexico Historical Review</title>. 
-				<unitdate type="inclusive" normal="1928">January,
+				<unitdate normal="1928" type="inclusive">January,
 				  1928</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">2</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="8cf8440f-885c-4139-b3ff-528570ee77c1" type="box">2</container> <container parent="8cf8440f-885c-4139-b3ff-528570ee77c1" type="folder">4</container> 
 			 <unittitle>"Victorio, Head Chief of the Warm Springs Apaches in 1877,
 				at Ojo Caliente, New Mexico" by John Clum. Reprint from the 
 				<title>New Mexico Historical Review</title>. 
-				<unitdate type="inclusive"
-				normal="1929">1929</unitdate></unittitle> 
+				<unitdate normal="1929" type="inclusive">1929</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">2</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="9fcd0f39-553c-4900-bdac-b80b189ba7ff" type="box">2</container> <container parent="9fcd0f39-553c-4900-bdac-b80b189ba7ff" type="folder">5</container> 
 			 <unittitle>"The San Carlos Apache Police, Parts I and II" by John
 				Clum. Reprints from the 
 				<title>New Mexico Historical Review</title>. 
-				<unitdate type="inclusive"
-				normal="1929/1930">1929-1930</unitdate></unittitle> 
+				<unitdate normal="1929/1930" type="inclusive">1929-1930</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">2</container> <container
-			 type="folder">6</container> 
+		  <did> <container id="806cdc14-cdd6-401f-ade6-1b70572035c4" type="box">2</container> <container parent="806cdc14-cdd6-401f-ade6-1b70572035c4" type="folder">6</container> 
 			 <unittitle>"It All Happened in Tombstone" by John Clum. One extracted
 				version and one page proof version from the 
 				<title>Arizona Historical Review</title>. 
-				<unitdate type="inclusive" normal="1929">October,
+				<unitdate normal="1929" type="inclusive">October,
 				  1929</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">2</container> <container
-			 type="folder">7</container> 
+		  <did> <container id="43b2ad4b-8f38-4a25-914b-77399f7e1ae8" type="box">2</container> <container parent="43b2ad4b-8f38-4a25-914b-77399f7e1ae8" type="folder">7</container> 
 			 <unittitle> 
 				<title>The Truth about the Apaches Told in the Annual Reports by
 				  John P. Clum, United States Indian Agent for the Apache Indians at San Carlos,
 				  Arizona. Submitted to the Commissioner of Indian Affairs for 1874, 1875, 1876,
 				  1877</title> by John Clum (Los Angeles: Adcraft, 1931). One full version and
 				one partial version. 
-				<unitdate type="inclusive"
-				normal="1931">1931</unitdate></unittitle> 
+				<unitdate normal="1931" type="inclusive">1931</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">2</container> <container
-			 type="folder">8</container> 
+		  <did> <container id="f11895a2-a0cf-4f26-babc-5ddb43202eea" type="box">2</container> <container parent="f11895a2-a0cf-4f26-babc-5ddb43202eea" type="folder">8</container> 
 			 <unittitle>"Nellie Cashman" by John Clum. Extract from the 
 				<title>Arizona Historical Review</title>. 
-				<unitdate type="inclusive" normal="1931">January,
+				<unitdate normal="1931" type="inclusive">January,
 				  1931</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">2</container> <container
-			 type="folder">9</container> 
+		  <did> <container id="f9d6bf7f-5c2e-4a3e-a9bc-d0d0d8aa08bc" type="box">2</container> <container parent="f9d6bf7f-5c2e-4a3e-a9bc-d0d0d8aa08bc" type="folder">9</container> 
 			 <unittitle>"John P. Clum" by Leslie E. Gregory. Extract from the 
 				<title>Arizona Historical Review</title>. 
-				<unitdate type="inclusive" normal="1932">July,
+				<unitdate normal="1932" type="inclusive">July,
 				  1932</unitdate></unittitle> 
 		  </did> 
 		</c02> 
@@ -903,43 +771,35 @@
 		  <unittitle>Series V: Clippings</unittitle> 
 		</did> 
 		<c02 level="file"> 
-		  <did> <container type="box">2</container> <container
-			 type="folder">10</container> 
+		  <did> <container id="c34cc940-f3ac-4146-9169-faca4c0e7765" type="box">2</container> <container parent="c34cc940-f3ac-4146-9169-faca4c0e7765" type="folder">10</container> 
 			 <unittitle>Handwritten transcripts of clippings from the 
 				<title>Arizona Citizen</title>. Most concern John Clum and Apaches.
 				
-				<unitdate type="inclusive"
-				normal="1875/1877">1875-1877</unitdate></unittitle> 
+				<unitdate normal="1875/1877" type="inclusive">1875-1877</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">2</container> <container
-			 type="folder">11</container> 
+		  <did> <container id="3f457a68-5ecc-4805-b6bb-1ea22bd55c5c" type="box">2</container> <container parent="3f457a68-5ecc-4805-b6bb-1ea22bd55c5c" type="folder">11</container> 
 			 <unittitle>Clippings, primarily from the 
 				<title>Tombstone Epitaph</title>. Most concern John Clum and
 				family. Includes clippings on Mary Clum's death (1880) and an assassination
 				attempt on John Clum (1881). Note: Oversize materials from this file are
 				located in Box #6. 
-				<unitdate type="inclusive"
-				 normal="1880/1881">1880-1881</unitdate></unittitle> 
+				<unitdate normal="1880/1881" type="inclusive">1880-1881</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">2</container> <container
-			 type="folder">12</container> 
+		  <did> <container id="876093fa-7c45-4187-9c96-fe19cd9a0cd4" type="box">2</container> <container parent="876093fa-7c45-4187-9c96-fe19cd9a0cd4" type="folder">12</container> 
 			 <unittitle>Clippings from various newspapers and publications. Most
 				concern John Clum and family. 
-				<unitdate type="inclusive"
-				 normal="1880/1975">1880-1975</unitdate></unittitle> 
+				<unitdate normal="1880/1975" type="inclusive">1880-1975</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">2</container> <container
-			 type="folder">13</container> 
+		  <did> <container id="7fe1c5a4-ca0c-4d75-88c6-e6040c3b5c4c" type="box">2</container> <container parent="7fe1c5a4-ca0c-4d75-88c6-e6040c3b5c4c" type="folder">13</container> 
 			 <unittitle>Clippings concerning the death of John Clum. Includes a
 				typescript of remarks made by Raymond C. Brooks at Clum's funeral. 
-				<unitdate type="inclusive"
-				normal="1932">1932</unitdate></unittitle> 
+				<unitdate normal="1932" type="inclusive">1932</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 	 </c01> 
@@ -948,18 +808,15 @@
 		  <unittitle>Series VI: Scrapbooks</unittitle> 
 		</did> 
 		<c02 level="file"> 
-		  <did> <container type="box">3A-3B</container> 
+		  <did> <container id="22f8ac7b-b3f2-4e09-b037-d7473824b17f" type="box">3A-3B</container> 
 			 <unittitle>Scrapbook. Most of the materials concern John Clum. 
-				<unitdate type="inclusive"
-				normal="1868/1930">1868-1930</unitdate></unittitle> 
+				<unitdate normal="1868/1930" type="inclusive">1868-1930</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">4</container> <container
-			 type="folder">1</container> 
+		  <did> <container id="1fab623e-6b2d-4fa6-b8a9-9eb0a4527c1a" type="box">4</container> <container parent="1fab623e-6b2d-4fa6-b8a9-9eb0a4527c1a" type="folder">1</container> 
 			 <unittitle>Scrapbook. Most of the materials concern John Clum. 
-				<unitdate type="inclusive"
-				normal="1890/1913">1890-1913</unitdate></unittitle> 
+				<unitdate normal="1890/1913" type="inclusive">1890-1913</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 	 </c01> 
@@ -968,20 +825,18 @@
 		  <unittitle>Series VII: Legal Documents</unittitle> 
 		</did> 
 		<c02 level="file"> 
-		  <did> <container type="box">4</container> <container
-			 type="folder">2</container> 
+		  <did> <container id="c8d0023e-3859-46e4-8d5e-df8a5fea3bcb" type="box">4</container> <container parent="c8d0023e-3859-46e4-8d5e-df8a5fea3bcb" type="folder">2</container> 
 			 <unittitle>Lease of Gilded Age Mining Claim, Tombstone, by John Clum
 				from the Gilded Age Mining Co. 
-				<unitdate type="inclusive" normal="1880">June 24,
+				<unitdate normal="1880" type="inclusive">June 24,
 				  1880</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">4</container> <container
-			 type="folder">3</container> 
+		  <did> <container id="a18894db-22a7-46d9-b491-9efc12dcaef3" type="box">4</container> <container parent="a18894db-22a7-46d9-b491-9efc12dcaef3" type="folder">3</container> 
 			 <unittitle>Quit-claim deed for property in Tombstone from James
 				Clark, John Rouse, and John Anderson to John Clum. 
-				<unitdate type="inclusive" normal="1882">April 22,
+				<unitdate normal="1882" type="inclusive">April 22,
 				  1882</unitdate></unittitle> 
 		  </did> 
 		</c02> 
@@ -991,18 +846,15 @@
 		  <unittitle>Series VIII: Miscellaneous Materials</unittitle> 
 		</did> 
 		<c02 level="file"> 
-		  <did> <container type="box">4</container> <container
-			 type="folder">4</container> 
+		  <did> <container id="963be381-a8f9-436a-ae14-26eb9582c2ef" type="box">4</container> <container parent="963be381-a8f9-436a-ae14-26eb9582c2ef" type="folder">4</container> 
 			 <unittitle>Booklet entitled: 
 				<title>Claverack</title> (John Clum was born in Claverack, New
 				York). 
-				<unitdate type="inclusive"
-				normal="1892">1892</unitdate></unittitle> 
+				<unitdate normal="1892" type="inclusive">1892</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">4</container> <container
-			 type="folder">5</container> 
+		  <did> <container id="050a12ab-1c6f-4d96-91e0-d1fa8b60b3af" type="box">4</container> <container parent="050a12ab-1c6f-4d96-91e0-d1fa8b60b3af" type="folder">5</container> 
 			 <unittitle>Photocopies of three letters from Harold D. Clum to
 				Cornelius W. Clum regarding Clum family history. Includes a Clum coat-of-arms.
 				(Relation of these individuals to John Clum is unknown.). 
@@ -1011,30 +863,27 @@
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">4</container> <container
-			 type="folder">6</container> 
+		  <did> <container id="ccf0f48d-8d82-44dd-a965-dbf4396240fa" type="box">4</container> <container parent="ccf0f48d-8d82-44dd-a965-dbf4396240fa" type="folder">6</container> 
 			 <unittitle>Synopsis of the motion picture "Walk the Proud Land,"
 				based on John Clum's career as Apache Indian Agent. 
-				<unitdate type="inclusive" normal="1956">May 22,
+				<unitdate normal="1956" type="inclusive">May 22,
 				  1956</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">4</container> <container
-			 type="folder">7</container> 
+		  <did> <container id="c1357af8-65c3-4534-a20f-e9ad16557c1b" type="box">4</container> <container parent="c1357af8-65c3-4534-a20f-e9ad16557c1b" type="folder">7</container> 
 			 <unittitle>Program from Tau Beta Pi Arizona Alpha Initiation Banquet.
 				
-				<unitdate type="inclusive" normal="1958">December 4,
+				<unitdate normal="1958" type="inclusive">December 4,
 				  1958</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">4</container> <container
-			 type="folder">8</container> 
+		  <did> <container id="fb0b1b3d-98dd-4137-b465-bd73e3d90230" type="box">4</container> <container parent="fb0b1b3d-98dd-4137-b465-bd73e3d90230" type="folder">8</container> 
 			 <unittitle>Excerpt of letter from Marjorie Clum Parker, John Clum's
 				granddaughter, to Phyllis Ball, University of Arizona Special Collections
 				Librarian. 
-				<unitdate type="inclusive" normal="1960">May 17,
+				<unitdate normal="1960" type="inclusive">May 17,
 				  1960</unitdate></unittitle> 
 		  </did> 
 		</c02> 
@@ -1044,47 +893,38 @@
 		  <unittitle>Series IX: Materials concerning Woodworth Clum</unittitle> 
 		</did> 
 		<c02 level="file"> 
-		  <did> <container type="box">4</container> <container
-			 type="folder">9</container> 
+		  <did> <container id="441a2a5b-4db2-4a1b-86c3-e4484aa9d44a" type="box">4</container> <container parent="441a2a5b-4db2-4a1b-86c3-e4484aa9d44a" type="folder">9</container> 
 			 <unittitle>Autobiographical essays. 
 				<unitdate>No
 				  Date</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">4</container> <container
-			 type="folder">10</container> 
+		  <did> <container id="338302d5-465a-4623-b9e6-62a8ce702904" type="box">4</container> <container parent="338302d5-465a-4623-b9e6-62a8ce702904" type="folder">10</container> 
 			 <unittitle> 
 				<title>An Epilogue to Apache Agent</title> by Woodworth Clum.
 				Privately published. Inscribed to Dan Carter Beard. One typescript version and
 				one published version. 
-				<unitdate type="inclusive"
-				normal="1936">1936</unitdate></unittitle> 
+				<unitdate normal="1936" type="inclusive">1936</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">4</container> <container
-			 type="folder">11</container> 
+		  <did> <container id="6fb8d888-defe-422e-85f9-fd0addbb8bbe" type="box">4</container> <container parent="6fb8d888-defe-422e-85f9-fd0addbb8bbe" type="folder">11</container> 
 			 <unittitle>Scrapbook. Most of the materials concern Woodworth Clum. 
-				<unitdate type="inclusive"
-				normal="1904/1911">1904-1911</unitdate></unittitle> 
+				<unitdate normal="1904/1911" type="inclusive">1904-1911</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">4</container> <container
-			 type="folder">12</container> 
+		  <did> <container id="51641c13-1e71-4024-ab6e-6a74eda0850e" type="box">4</container> <container parent="51641c13-1e71-4024-ab6e-6a74eda0850e" type="folder">12</container> 
 			 <unittitle> 
 				<title>Clum Travel Talks</title> brochure. 
-				<unitdate type="inclusive"
-				normal="1905">1905</unitdate></unittitle> 
+				<unitdate normal="1905" type="inclusive">1905</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
-		  <did> <container type="box">4</container> <container
-			 type="folder">13</container> 
+		  <did> <container id="b09d8093-5cae-41fe-9ad9-b69c1223d0e5" type="box">4</container> <container parent="b09d8093-5cae-41fe-9ad9-b69c1223d0e5" type="folder">13</container> 
 			 <unittitle>Roster of the "Ends of the Earth" club. 
-				<unitdate type="inclusive"
-				normal="1907">1907</unitdate></unittitle> 
+				<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
 		  </did> 
 		</c02> 
 	 </c01> 
@@ -1097,98 +937,80 @@
 			 <unittitle>Subseries 1: John Clum and Family</unittitle> 
 		  </did> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="37e57f93-7e95-4a7f-b3b9-02f7474c3124" type="box">5</container> <container parent="37e57f93-7e95-4a7f-b3b9-02f7474c3124" type="folder">1</container> 
 				<unittitle>John Clum, age 19, freshman at Rutgers University. 
-				  <unitdate type="inclusive"
-				  normal="1870">1870</unitdate></unittitle> 
+				  <unitdate normal="1870" type="inclusive">1870</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="672740d0-1dd5-4dd9-87ba-e0f9b39ff4e1" type="box">5</container> <container parent="672740d0-1dd5-4dd9-87ba-e0f9b39ff4e1" type="folder">1</container> 
 				<unittitle>John Clum, Mary Clum, and Woodworth Clum, in front of
 				  their house in Tombstone, AZ. 
-				  <unitdate type="inclusive"
-				  normal="1880">1880</unitdate></unittitle> 
+				  <unitdate normal="1880" type="inclusive">1880</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="9bd26079-2386-48ae-8f64-1f17c2a2d01b" type="box">5</container> <container parent="9bd26079-2386-48ae-8f64-1f17c2a2d01b" type="folder">1</container> 
 				<unittitle>John Clum with Ed Engelstadt and Wyatt Earp, Nome, AK. 
-				  <unitdate type="inclusive"
-				  normal="1898">1898</unitdate></unittitle> 
+				  <unitdate normal="1898" type="inclusive">1898</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="cee00cd0-339c-4b95-80b1-91f76b3dbf9e" type="box">5</container> <container parent="cee00cd0-339c-4b95-80b1-91f76b3dbf9e" type="folder">1</container> 
 				<unittitle>John Clum in post office, Nome AK. 
-				  <unitdate type="inclusive" normal="1898">Circa.
+				  <unitdate normal="1898" type="inclusive">Circa.
 					 1898</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="2410554a-3a3f-419e-ab06-a09122f1b1c5" type="box">5</container> <container parent="2410554a-3a3f-419e-ab06-a09122f1b1c5" type="folder">1</container> 
 				<unittitle>John Clum. 
-				  <unitdate type="inclusive"
-				  normal="1916">1916</unitdate></unittitle> 
+				  <unitdate normal="1916" type="inclusive">1916</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="e0790af9-4886-4310-87b1-81a0853b8338" type="box">5</container> <container parent="e0790af9-4886-4310-87b1-81a0853b8338" type="folder">1</container> 
 				<unittitle>John Clum, Tucson. 
-				  <unitdate type="inclusive"
-				  normal="1930">1930</unitdate></unittitle> 
+				  <unitdate normal="1930" type="inclusive">1930</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="0be8d568-6214-4b33-af7c-38126624b6d0" type="box">5</container> <container parent="0be8d568-6214-4b33-af7c-38126624b6d0" type="folder">1</container> 
 				<unittitle>John Clum and Walter Cole (Editor of the 
 				  <title>Tombstone Epitaph</title> newspaper), Tombstone, AZ. 
-				  <unitdate type="inclusive"
-				  normal="1931">1931</unitdate></unittitle> 
+				  <unitdate normal="1931" type="inclusive">1931</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="e6f43cf7-81b1-4c25-ab92-f0add0b0d488" type="box">5</container> <container parent="e6f43cf7-81b1-4c25-ab92-f0add0b0d488" type="folder">1</container> 
 				<unittitle>John and Mary Clum. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="07942b27-2b4c-4f18-b9c9-e7ba8de87fb1" type="box">5</container> <container parent="07942b27-2b4c-4f18-b9c9-e7ba8de87fb1" type="folder">1</container> 
 				<unittitle>John and Mary Clum. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="067dfb94-a707-4034-a20b-7ab01851d9e4" type="box">5</container> <container parent="067dfb94-a707-4034-a20b-7ab01851d9e4" type="folder">1</container> 
 				<unittitle>John Clum with unidentified woman. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="e57243b0-fb35-4b3c-bb33-7fe399f09cc9" type="box">5</container> <container parent="e57243b0-fb35-4b3c-bb33-7fe399f09cc9" type="folder">1</container> 
 				<unittitle>John Clum with unidentified group of people. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="1664dd0e-3420-4a8e-9c64-da127ebbc730" type="box">5</container> <container parent="1664dd0e-3420-4a8e-9c64-da127ebbc730" type="folder">1</container> 
 				<unittitle>John Clum, Degleet Noor Date Garden, Imperial County,
 				  CA. 
 				  <unitdate>No
@@ -1196,8 +1018,7 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="f1d3700b-5c40-4d41-9385-b4a5f9a126df" type="box">5</container> <container parent="f1d3700b-5c40-4d41-9385-b4a5f9a126df" type="folder">1</container> 
 				<unittitle>John Clum, Degleet Noor Date Garden, Imperial County,
 				  CA. 
 				  <unitdate>No
@@ -1205,8 +1026,7 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="ebdb6a02-be96-434c-9ffa-b1fcbb6a78da" type="box">5</container> <container parent="ebdb6a02-be96-434c-9ffa-b1fcbb6a78da" type="folder">1</container> 
 				<unittitle>Florence Baker Clum, Degleet Noor Date Garden, Imperial
 				  County, CA. 
 				  <unitdate>No
@@ -1214,8 +1034,7 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="8f9f8b40-e026-4216-9b94-52194e36eae2" type="box">5</container> <container parent="8f9f8b40-e026-4216-9b94-52194e36eae2" type="folder">1</container> 
 				<unittitle>Florence Baker Clum, Degleet Noor Date Garden, Imperial
 				  County, CA. 
 				  <unitdate>No
@@ -1223,8 +1042,7 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="180e7212-c75a-4aeb-89dd-7a5f563d5fe0" type="box">5</container> <container parent="180e7212-c75a-4aeb-89dd-7a5f563d5fe0" type="folder">1</container> 
 				<unittitle>Landscape, Degleet Noor Date Garden, Imperial County,
 				  CA. 
 				  <unitdate>No
@@ -1232,8 +1050,7 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="39222cb1-d52b-41dc-8427-d2f673ab105c" type="box">5</container> <container parent="39222cb1-d52b-41dc-8427-d2f673ab105c" type="folder">1</container> 
 				<unittitle>Landscape, Degleet Noor Date Garden, Imperial County,
 				  CA. 
 				  <unitdate>No
@@ -1241,56 +1058,49 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="c72e31b9-f973-4162-80ba-a9a131673e3f" type="box">5</container> <container parent="c72e31b9-f973-4162-80ba-a9a131673e3f" type="folder">1</container> 
 				<unittitle>Mary Clum. 
-				  <unitdate type="inclusive" normal="1872">June 23,
+				  <unitdate normal="1872" type="inclusive">June 23,
 					 1872</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">1</container> 
+			 <did> <container id="45ddcb8b-49ba-49ee-a6e6-056435236601" type="box">5</container> <container parent="45ddcb8b-49ba-49ee-a6e6-056435236601" type="folder">1</container> 
 				<unittitle>Mary Clum (tintype and print). 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">2</container> 
+			 <did> <container id="bc5f3e2d-3800-433c-a1d3-527531fedc38" type="box">5</container> <container parent="bc5f3e2d-3800-433c-a1d3-527531fedc38" type="folder">2</container> 
 				<unittitle>Angelina Dennison Ware (mother of Mary Clum). 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">2</container> 
+			 <did> <container id="fee2dfc6-2160-4075-a639-eafadde4e7e2" type="box">5</container> <container parent="fee2dfc6-2160-4075-a639-eafadde4e7e2" type="folder">2</container> 
 				<unittitle>Angelina Dennison Ware (mother of Mary Clum). 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">2</container> 
+			 <did> <container id="e63dd6ab-82fd-40d8-a695-1c9ec4996caa" type="box">5</container> <container parent="e63dd6ab-82fd-40d8-a695-1c9ec4996caa" type="folder">2</container> 
 				<unittitle>Angelina Dennison Ware (mother of Mary Clum). 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">2</container> 
+			 <did> <container id="2124540c-35d8-4118-a195-fa7c426f6e1c" type="box">5</container> <container parent="2124540c-35d8-4118-a195-fa7c426f6e1c" type="folder">2</container> 
 				<unittitle>Thomas C. Ware (father of Mary Clum). 
-				  <unitdate type="inclusive" normal="1861">September,
+				  <unitdate normal="1861" type="inclusive">September,
 					 1861</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">2</container> 
+			 <did> <container id="5d904dc0-cd6e-42bf-9d37-886b91808854" type="box">5</container> <container parent="5d904dc0-cd6e-42bf-9d37-886b91808854" type="folder">2</container> 
 				<unittitle>Thomas C. Ware, Cynthiana, KY (grandfather of Mary
 				  Clum). 
 				  <unitdate>No
@@ -1298,16 +1108,13 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">2</container> 
+			 <did> <container id="ff1dd05c-588f-46ba-9792-fe8c4d76d816" type="box">5</container> <container parent="ff1dd05c-588f-46ba-9792-fe8c4d76d816" type="folder">2</container> 
 				<unittitle>Woodworth Clum, football team photo. 
-				  <unitdate type="inclusive"
-				  normal="1895">1895</unitdate></unittitle> 
+				  <unitdate normal="1895" type="inclusive">1895</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">2</container> 
+			 <did> <container id="ed28e1a7-b59b-47b4-92ce-9af3a1d31bb8" type="box">5</container> <container parent="ed28e1a7-b59b-47b4-92ce-9af3a1d31bb8" type="folder">2</container> 
 				<unittitle>Woodworth Clum (two photos glued to paper with other
 				  unidentified photos). 
 				  <unitdate>No
@@ -1315,43 +1122,38 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">2</container> 
+			 <did> <container id="a0a067ff-18ab-415f-8bfb-05be02051bd4" type="box">5</container> <container parent="a0a067ff-18ab-415f-8bfb-05be02051bd4" type="folder">2</container> 
 				<unittitle>Woodworth Clum. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">2</container> 
+			 <did> <container id="57a83b51-9e56-429b-a9e3-796130e84100" type="box">5</container> <container parent="57a83b51-9e56-429b-a9e3-796130e84100" type="folder">2</container> 
 				<unittitle>Woodworth Clum, Washington, DC. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">2</container> 
+			 <did> <container id="9a9a1ffa-13fe-45d8-a007-197455c96c3a" type="box">5</container> <container parent="9a9a1ffa-13fe-45d8-a007-197455c96c3a" type="folder">2</container> 
 				<unittitle>William Henry Clum (father of John Clum), Elizabeth Van
 				  Deusen Clum (mother of John Clum), Jane Clum (sister of John Clum), and
 				  Woodworth Clum, Washington, DC. 
-				  <unitdate type="inclusive" normal="1888">Circa.
+				  <unitdate normal="1888" type="inclusive">Circa.
 					 1888</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">2</container> 
+			 <did> <container id="7439536a-13bd-43d3-9b9b-135d61149aff" type="box">5</container> <container parent="7439536a-13bd-43d3-9b9b-135d61149aff" type="folder">2</container> 
 				<unittitle>Photograph of a Tucson Daily Citizen newspaper clipping
 				  re: assassination attempt on John Clum. 
-				  <unitdate type="inclusive" normal="1881">December 16,
+				  <unitdate normal="1881" type="inclusive">December 16,
 					 1881</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">2</container> 
+			 <did> <container id="49c8880e-de62-42d2-9554-266689f6e6f5" type="box">5</container> <container parent="49c8880e-de62-42d2-9554-266689f6e6f5" type="folder">2</container> 
 				<unittitle>Unidentified boy (tintype). 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
@@ -1363,75 +1165,62 @@
 			 <unittitle>Subseries 2: John Clum and Indians</unittitle> 
 		  </did> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">3</container> 
+			 <did> <container id="1d725d0c-3a04-41fb-87e4-e6f7c85f3c76" type="box">5</container> <container parent="1d725d0c-3a04-41fb-87e4-e6f7c85f3c76" type="folder">3</container> 
 				<unittitle>John Clum with a group of unidentified Apaches from San
 				  Carlos Indian Agency, and a Yaqui boy named Juan De Quilla, Tucson. 
-				  <unitdate type="inclusive" normal="1874">October,
+				  <unitdate normal="1874" type="inclusive">October,
 					 1874</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">3</container> 
+			 <did> <container id="b5c6f49e-b5d4-4350-81d6-80210d6f829b" type="box">5</container> <container parent="b5c6f49e-b5d4-4350-81d6-80210d6f829b" type="folder">3</container> 
 				<unittitle>John Clum with Apaches, San Carlos Indian Agency.
 				  (standing left: Ochecama; standing right: Cha-thle-pah; sitting left:
 				  Chim-au-hua-va Sal; sitting right: Mojave Charlie; boy in photo is
 				  unidentified). 
-				  <unitdate type="inclusive"
-				  normal="1876">1876</unitdate></unittitle> 
+				  <unitdate normal="1876" type="inclusive">1876</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">3</container> 
+			 <did> <container id="ebc2726d-0b4a-45df-b173-d1621d91ab4d" type="box">5</container> <container parent="ebc2726d-0b4a-45df-b173-d1621d91ab4d" type="folder">3</container> 
 				<unittitle>John Clum with Apaches, Arizona. (left: Chatto/Diablo;
 				  right: Eskiminzin). 
-				  <unitdate type="inclusive"
-				  normal="1876">1876</unitdate></unittitle> 
+				  <unitdate normal="1876" type="inclusive">1876</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">3</container> 
+			 <did> <container id="52425b80-b9c0-4e54-b490-f7eedb2fc653" type="box">5</container> <container parent="52425b80-b9c0-4e54-b490-f7eedb2fc653" type="folder">3</container> 
 				<unittitle>John Clum with Apache Indian Police, including
 				  Tau-el-cly-ee and Marijildo Grijalba, Tucson. 
-				  <unitdate type="inclusive" normal="1876">May,
+				  <unitdate normal="1876" type="inclusive">May,
 					 1876</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">3</container> 
+			 <did> <container id="7e5c9afc-0479-42b2-886a-0de62e92dea7" type="box">5</container> <container parent="7e5c9afc-0479-42b2-886a-0de62e92dea7" type="folder">3</container> 
 				<unittitle>John Clum with group of unidentified Apaches,
 				  Washington, DC. 
-				  <unitdate type="inclusive" normal="1876">September,
+				  <unitdate normal="1876" type="inclusive">September,
 					 1876</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">3</container> 
+			 <did> <container id="250deb28-8b0f-4ee8-9688-ed8dac72b74e" type="box">5</container> <container parent="250deb28-8b0f-4ee8-9688-ed8dac72b74e" type="folder">3</container> 
 				<unittitle>John Clum with group of unidentified Apaches, San
 				  Carlos, AZ. 
-				  <unitdate type="inclusive"
-				  normal="1931">1931</unitdate></unittitle> 
+				  <unitdate normal="1931" type="inclusive">1931</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">3</container> 
+			 <did> <container id="f5bbc65a-68ec-4c7e-9a5f-9825dc521e7c" type="box">5</container> <container parent="f5bbc65a-68ec-4c7e-9a5f-9825dc521e7c" type="folder">3</container> 
 				<unittitle>John Clum with an unidentified Apache, San Carlos, AZ. 
-				  <unitdate type="inclusive"
-				  normal="1931">1931</unitdate></unittitle> 
+				  <unitdate normal="1931" type="inclusive">1931</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">3</container> 
+			 <did> <container id="6e17f57d-6695-4d25-8f21-2cce5decfeba" type="box">5</container> <container parent="6e17f57d-6695-4d25-8f21-2cce5decfeba" type="folder">3</container> 
 				<unittitle>John Clum on visit to San Carlos, AZ. 
-				  <unitdate type="inclusive"
-				  normal="1931">1931</unitdate></unittitle> 
+				  <unitdate normal="1931" type="inclusive">1931</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		</c02> 
@@ -1440,49 +1229,42 @@
 			 <unittitle>Subseries 3: Friends of John Clum</unittitle> 
 		  </did> 
 		  <c03> 
-			 <did> <container type="box">5</container> <container
-				type="folder">4</container> 
+			 <did> <container id="aff74f33-ab15-4f61-bea8-753c8baf3466" type="box">5</container> <container parent="aff74f33-ab15-4f61-bea8-753c8baf3466" type="folder">4</container> 
 				<unittitle>Virgil Earp, Tombstone, AZ. 
-				  <unitdate type="inclusive"
-				  normal="1881">1881</unitdate></unittitle> 
+				  <unitdate normal="1881" type="inclusive">1881</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03> 
-			 <did> <container type="box">5</container> <container
-				type="folder">4</container> 
+			 <did> <container id="fda77066-0fde-4060-8bef-c633f6617909" type="box">5</container> <container parent="fda77066-0fde-4060-8bef-c633f6617909" type="folder">4</container> 
 				<unittitle>Nellie Cashman in front of her store in Dawson, AK.
 				  Photograph by John Clum. 
-				  <unitdate type="inclusive" normal="1898">June 23,
+				  <unitdate normal="1898" type="inclusive">June 23,
 					 1898</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03> 
-			 <did> <container type="box">5</container> <container
-				type="folder">4</container> 
+			 <did> <container id="a61990c8-de77-4790-bfdc-7ff2f01a0ccf" type="box">5</container> <container parent="a61990c8-de77-4790-bfdc-7ff2f01a0ccf" type="folder">4</container> 
 				<unittitle>Captain Clay Beauford. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03> 
-			 <did> <container type="box">5</container> <container
-				type="folder">4</container> 
+			 <did> <container id="e42082e1-7320-4f85-ad75-0f436f2dd8d0" type="box">5</container> <container parent="e42082e1-7320-4f85-ad75-0f436f2dd8d0" type="folder">4</container> 
 				<unittitle>Dick Gird with unidentified group of people. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03> 
-			 <did> <container type="box">5</container> <container
-				type="folder">4</container> 
+			 <did> <container id="39a0ad1c-2ee3-4250-b2ac-9ad7f3d15ead" type="box">5</container> <container parent="39a0ad1c-2ee3-4250-b2ac-9ad7f3d15ead" type="folder">4</container> 
 				<unittitle>Ed Schieffelin. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03> 
-			 <did> <container type="box">5</container> <container
-				type="folder">4</container> 
+			 <did> <container id="58d77881-a06c-41e4-87ad-a60a6034777e" type="box">5</container> <container parent="58d77881-a06c-41e4-87ad-a60a6034777e" type="folder">4</container> 
 				<unittitle>Dick Gird, Al Schieffelin, and Ed Schieffelin. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
@@ -1494,59 +1276,46 @@
 			 <unittitle>Subseries 4: Geronimo</unittitle> 
 		  </did> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">5</container> 
+			 <did> <container id="2a289c03-0de0-4f33-8305-fb770ca18265" type="box">5</container> <container parent="2a289c03-0de0-4f33-8305-fb770ca18265" type="folder">5</container> 
 				<unittitle>Geronimo with Capt. Roberts, Nana, Lieutenant Maus,
 				  Captain Bourke, General Crook, and unidentified soldiers and Apaches. 
-				  <unitdate type="inclusive"
-				  normal="1886">1886</unitdate></unittitle> 
+				  <unitdate normal="1886" type="inclusive">1886</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">5</container> 
+			 <did> <container id="f8262bbc-0cb6-4a49-aa73-fd03307b9b23" type="box">5</container> <container parent="f8262bbc-0cb6-4a49-aa73-fd03307b9b23" type="folder">5</container> 
 				<unittitle>Geronimo with Naiche at Fort Bowie, AZ. 
-				  <unitdate type="inclusive"
-				  normal="1886">1886</unitdate></unittitle> 
+				  <unitdate normal="1886" type="inclusive">1886</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">5</container> 
+			 <did> <container id="54a35e9a-fda6-4f8d-b49e-028136f3c2f5" type="box">5</container> <container parent="54a35e9a-fda6-4f8d-b49e-028136f3c2f5" type="folder">5</container> 
 				<unittitle>Geronimo with Naiche at Fort Bowie, AZ. 
-				  <unitdate type="inclusive"
-				  normal="1886">1886</unitdate></unittitle> 
+				  <unitdate normal="1886" type="inclusive">1886</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">5</container> 
+			 <did> <container id="15916c15-2459-4cd8-ba2b-7a9bd124b863" type="box">5</container> <container parent="15916c15-2459-4cd8-ba2b-7a9bd124b863" type="folder">5</container> 
 				<unittitle>Geronimo with Chihuahua, Naiche, Loco, and Nana, Mount
 				  Vernon Barracks, AL. 
-				  <unitdate type="inclusive"
-				  normal="1893">1893</unitdate></unittitle> 
+				  <unitdate normal="1893" type="inclusive">1893</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">5</container> 
+			 <did> <container id="4e2db6d9-0b30-46d9-accb-6abdcfbcfefd" type="box">5</container> <container parent="4e2db6d9-0b30-46d9-accb-6abdcfbcfefd" type="folder">5</container> 
 				<unittitle>Photo of a painting of Geronimo created at Fort Sill,
 				  OK. 
-				  <unitdate type="inclusive"
-				  normal="1898">1898</unitdate></unittitle> 
+				  <unitdate normal="1898" type="inclusive">1898</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">5</container> 
+			 <did> <container id="968cc4a4-f4c4-4739-a2e5-e2f0d1fa797c" type="box">5</container> <container parent="968cc4a4-f4c4-4739-a2e5-e2f0d1fa797c" type="folder">5</container> 
 				<unittitle>Geronimo in overcoat. 
-				  <unitdate type="inclusive"
-				  normal="1904">1904</unitdate></unittitle> 
+				  <unitdate normal="1904" type="inclusive">1904</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">5</container> 
+			 <did> <container id="e60b93d5-9c91-42b4-ac82-8ce811d0e26e" type="box">5</container> <container parent="e60b93d5-9c91-42b4-ac82-8ce811d0e26e" type="folder">5</container> 
 				<unittitle>Geronimo with Naiche and group of Apaches in front of
 				  train. 
 				  <unitdate>No
@@ -1554,37 +1323,32 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">5</container> 
+			 <did> <container id="16ad2607-b050-4710-b862-103f58b49eaf" type="box">5</container> <container parent="16ad2607-b050-4710-b862-103f58b49eaf" type="folder">5</container> 
 				<unittitle>Geronimo with rifle. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">5</container> 
+			 <did> <container id="4e754a6d-71ea-489c-994f-ed433415685a" type="box">5</container> <container parent="4e754a6d-71ea-489c-994f-ed433415685a" type="folder">5</container> 
 				<unittitle>Geronimo with rifle. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">5</container> 
+			 <did> <container id="9569bc75-993f-460d-9213-d20443f8f3a1" type="box">5</container> <container parent="9569bc75-993f-460d-9213-d20443f8f3a1" type="folder">5</container> 
 				<unittitle>Geronimo in horned headpiece. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">6</container> 
+			 <did> <container id="8625ad53-d35b-48d1-b98b-87495b72bb4b" type="box">5</container> <container parent="8625ad53-d35b-48d1-b98b-87495b72bb4b" type="folder">6</container> 
 				<unittitle>Book: 
 				  <title>Geronimo: The Apache Chief</title>, photos by C.S. Fly,
 				  published by Mrs. M.E. Fly, Tombstone, AZ. 
-				  <unitdate type="inclusive"
-				  normal="1886">1886</unitdate></unittitle> 
+				  <unitdate normal="1886" type="inclusive">1886</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		</c02> 
@@ -1593,116 +1357,93 @@
 			 <unittitle>Subseries 5: Apache Indians</unittitle> 
 		  </did> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">7</container> 
+			 <did> <container id="b0f585ce-2631-4f4d-9f22-fb12e04d8515" type="box">5</container> <container parent="b0f585ce-2631-4f4d-9f22-fb12e04d8515" type="folder">7</container> 
 				<unittitle>Diablo, a Coyotero Apache, Washington, DC. Photo taken
 				  on trip with John Clum. 
-				  <unitdate type="inclusive"
-				  normal="1876">1876</unitdate></unittitle> 
+				  <unitdate normal="1876" type="inclusive">1876</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">7</container> 
+			 <did> <container id="cc152444-aa93-4b3e-a58e-ede464492ff0" type="box">5</container> <container parent="cc152444-aa93-4b3e-a58e-ede464492ff0" type="folder">7</container> 
 				<unittitle>Sneezer, Washington, DC. Photo taken on trip with John
 				  Clum. 
-				  <unitdate type="inclusive" normal="1876">October,
+				  <unitdate normal="1876" type="inclusive">October,
 					 1876</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">7</container> 
+			 <did> <container id="11fd7402-f7e2-484a-b6d0-c6562b13780c" type="box">5</container> <container parent="11fd7402-f7e2-484a-b6d0-c6562b13780c" type="folder">7</container> 
 				<unittitle>Eskiminzin. 
-				  <unitdate type="inclusive"
-				  normal="1876">1876</unitdate></unittitle> 
+				  <unitdate normal="1876" type="inclusive">1876</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">7</container> 
+			 <did> <container id="0aeb1ca0-98a2-4219-816f-8d31f31720e9" type="box">5</container> <container parent="0aeb1ca0-98a2-4219-816f-8d31f31720e9" type="folder">7</container> 
 				<unittitle>Casadora and wife, Washington, DC. 
-				  <unitdate type="inclusive"
-				  normal="1876">1876</unitdate></unittitle> 
+				  <unitdate normal="1876" type="inclusive">1876</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">7</container> 
+			 <did> <container id="b4df4b27-4e92-4b46-ab41-58143a279bc2" type="box">5</container> <container parent="b4df4b27-4e92-4b46-ab41-58143a279bc2" type="folder">7</container> 
 				<unittitle>Tah-Zay, son of Cochise, Chiricahua Apache, Washington,
 				  DC. Photo taken on trip with John Clum. Tah-Zay died of pneumonia in
 				  Washington, DC and is buried in Congressional Cemetery. 
-				  <unitdate type="inclusive"
-				  normal="1876">1876</unitdate></unittitle> 
+				  <unitdate normal="1876" type="inclusive">1876</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">7</container> 
+			 <did> <container id="232c554f-de65-4148-9cbe-932f6e2f66fc" type="box">5</container> <container parent="232c554f-de65-4148-9cbe-932f6e2f66fc" type="folder">7</container> 
 				<unittitle>Victorio, Warm Springs Apache, Ojo Caliente, NM. 
-				  <unitdate type="inclusive"
-				  normal="1877">1877</unitdate></unittitle> 
+				  <unitdate normal="1877" type="inclusive">1877</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">7</container> 
+			 <did> <container id="18bd265e-979d-489b-8a31-6d49fb19611e" type="box">5</container> <container parent="18bd265e-979d-489b-8a31-6d49fb19611e" type="folder">7</container> 
 				<unittitle>Eskiminzin and children. 
-				  <unitdate type="inclusive"
-				  normal="1880">1880</unitdate></unittitle> 
+				  <unitdate normal="1880" type="inclusive">1880</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">7</container> 
+			 <did> <container id="fe011175-4132-47d8-9839-ff3d2a6d1d77" type="box">5</container> <container parent="fe011175-4132-47d8-9839-ff3d2a6d1d77" type="folder">7</container> 
 				<unittitle>Granddaughter of Eskiminzin with baby, San Carlos, AZ. 
-				  <unitdate type="inclusive"
-				  normal="1930">1930</unitdate></unittitle> 
+				  <unitdate normal="1930" type="inclusive">1930</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">7</container> 
+			 <did> <container id="031fe7e3-9faf-4f61-b1da-ee86dfed342e" type="box">5</container> <container parent="031fe7e3-9faf-4f61-b1da-ee86dfed342e" type="folder">7</container> 
 				<unittitle>Sneezer and Goodah Goodah, San Carlos, AZ. 
-				  <unitdate type="inclusive"
-				  normal="1931">1931</unitdate></unittitle> 
+				  <unitdate normal="1931" type="inclusive">1931</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">7</container> 
+			 <did> <container id="deb1f843-f23b-441d-8ec8-26365a2b5730" type="box">5</container> <container parent="deb1f843-f23b-441d-8ec8-26365a2b5730" type="folder">7</container> 
 				<unittitle>Sneezer. 
-				  <unitdate type="inclusive"
-				  normal="1931">1931</unitdate></unittitle> 
+				  <unitdate normal="1931" type="inclusive">1931</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">8</container> 
+			 <did> <container id="44d57a0e-2cb7-4471-8cb3-98188003da36" type="box">5</container> <container parent="44d57a0e-2cb7-4471-8cb3-98188003da36" type="folder">8</container> 
 				<unittitle>Naiche on a horse. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">8</container> 
+			 <did> <container id="ba698c0f-5274-4981-bddb-7f6f2701ad4b" type="box">5</container> <container parent="ba698c0f-5274-4981-bddb-7f6f2701ad4b" type="folder">8</container> 
 				<unittitle>Naiche and wife. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">8</container> 
+			 <did> <container id="1395d8ff-74bd-4400-9bed-63aca9cb90ab" type="box">5</container> <container parent="1395d8ff-74bd-4400-9bed-63aca9cb90ab" type="folder">8</container> 
 				<unittitle>Tau-el-cly-ee, sergeant in Clum's Apache police force. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">8</container> 
+			 <did> <container id="64146450-aa59-485e-8405-e51ffcf84903" type="box">5</container> <container parent="64146450-aa59-485e-8405-e51ffcf84903" type="folder">8</container> 
 				<unittitle>Detachment of Indian scouts, Ft. Huachuca, AZ. Includes
 				  Juan Antonio, Silas Tenejeheh, Abjo Quintiro, William Major, Sinew Riley, Joe
 				  Adley, Jim Lane, Jess Billy, Kessay, Andrew Paxson, Benson Sisto, Deklay, Capt.
@@ -1712,8 +1453,7 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">8</container> 
+			 <did> <container id="0708d44c-6c1e-425c-b25b-4231b76f54a1" type="box">5</container> <container parent="0708d44c-6c1e-425c-b25b-4231b76f54a1" type="folder">8</container> 
 				<unittitle>Deklay, Capt. Charles Bones, Sgt. Chow Big, Eskiplygojo,
 				  Cpl. Thomas Sye. 
 				  <unitdate>No
@@ -1721,16 +1461,14 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">8</container> 
+			 <did> <container id="60af537e-a88b-49cd-89b9-495091122132" type="box">5</container> <container parent="60af537e-a88b-49cd-89b9-495091122132" type="folder">8</container> 
 				<unittitle>Unidentified Apache women. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">8</container> 
+			 <did> <container id="71d4aad5-d141-4a27-9ba2-e12b789a45b0" type="box">5</container> <container parent="71d4aad5-d141-4a27-9ba2-e12b789a45b0" type="folder">8</container> 
 				<unittitle>Unidentified Apache women. (Three photos glued to sheet
 				  of scrapbook paper). 
 				  <unitdate>No
@@ -1738,16 +1476,14 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">8</container> 
+			 <did> <container id="0487e955-849c-499a-91ba-d1c6b21c9be8" type="box">5</container> <container parent="0487e955-849c-499a-91ba-d1c6b21c9be8" type="folder">8</container> 
 				<unittitle>Unidentified Apaches. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">8</container> 
+			 <did> <container id="b631d285-c5bc-457a-887a-99aa88f2ee48" type="box">5</container> <container parent="b631d285-c5bc-457a-887a-99aa88f2ee48" type="folder">8</container> 
 				<unittitle>Apache homes. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
@@ -1759,64 +1495,56 @@
 			 <unittitle>Subseries 6: Tombstone, AZ</unittitle> 
 		  </did> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">9</container> 
+			 <did> <container id="83940a7d-16c6-4059-8e84-7c84b9d82ddf" type="box">5</container> <container parent="83940a7d-16c6-4059-8e84-7c84b9d82ddf" type="folder">9</container> 
 				<unittitle>View of town. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">9</container> 
+			 <did> <container id="1e79f619-d983-4934-b3d4-c56991c2336e" type="box">5</container> <container parent="1e79f619-d983-4934-b3d4-c56991c2336e" type="folder">9</container> 
 				<unittitle>View of town. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">9</container> 
+			 <did> <container id="54bc1f31-ac0b-430f-bc8a-b8f91b3ebc6f" type="box">5</container> <container parent="54bc1f31-ac0b-430f-bc8a-b8f91b3ebc6f" type="folder">9</container> 
 				<unittitle>View of town. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">9</container> 
+			 <did> <container id="e49a004b-1b8e-462c-aa71-5585a8bcbb19" type="box">5</container> <container parent="e49a004b-1b8e-462c-aa71-5585a8bcbb19" type="folder">9</container> 
 				<unittitle>Unidentified building. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">9</container> 
+			 <did> <container id="72d10577-57a1-4456-b79e-ed2d59f68e11" type="box">5</container> <container parent="72d10577-57a1-4456-b79e-ed2d59f68e11" type="folder">9</container> 
 				<unittitle>Unidentified building. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">9</container> 
+			 <did> <container id="98c9fe1e-4255-4885-8485-059e9ba43bb1" type="box">5</container> <container parent="98c9fe1e-4255-4885-8485-059e9ba43bb1" type="folder">9</container> 
 				<unittitle>Boot Hill Cemetery. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">9</container> 
+			 <did> <container id="cebdd111-14ad-4365-ad80-182889a7a959" type="box">5</container> <container parent="cebdd111-14ad-4365-ad80-182889a7a959" type="folder">9</container> 
 				<unittitle>Mining building. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">9</container> 
+			 <did> <container id="2618b392-5e44-4b29-9baa-5f3a7a4899b8" type="box">5</container> <container parent="2618b392-5e44-4b29-9baa-5f3a7a4899b8" type="folder">9</container> 
 				<unittitle>Tombstone Consolidated Mines building postcard. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
@@ -1828,60 +1556,49 @@
 			 <unittitle>Subseries 7: Alaska</unittitle> 
 		  </did> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="8b266c97-9e68-4596-8778-9ce462306704" type="box">5</container> <container parent="8b266c97-9e68-4596-8778-9ce462306704" type="folder">10</container> 
 				<unittitle>Packers ascending the summit of Chilcoot Pass, AK. 
-				  <unitdate type="inclusive"
-					normal="1898">1898</unitdate></unittitle> 
+				  <unitdate normal="1898" type="inclusive">1898</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="2a414fa8-ffe4-4b8e-8c64-2fd75bfb8c9e" type="box">5</container> <container parent="2a414fa8-ffe4-4b8e-8c64-2fd75bfb8c9e" type="folder">10</container> 
 				<unittitle>Packers ascending the summit of Chilcoot Pass, AK.
 				  Photograph by E.A. Hegg. 
-				  <unitdate type="inclusive"
-					normal="1898">1898</unitdate></unittitle> 
+				  <unitdate normal="1898" type="inclusive">1898</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="888b262f-86db-4bd7-b549-3931923258a3" type="box">5</container> <container parent="888b262f-86db-4bd7-b549-3931923258a3" type="folder">10</container> 
 				<unittitle>Packers ascending the summit of Chilcoot Pass, AK.
 				  Photograph by E.A. Hegg. 
-				  <unitdate type="inclusive"
-					normal="1898">1898</unitdate></unittitle> 
+				  <unitdate normal="1898" type="inclusive">1898</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="6de92ed9-191a-41ce-9c68-3ad19a32e209" type="box">5</container> <container parent="6de92ed9-191a-41ce-9c68-3ad19a32e209" type="folder">10</container> 
 				<unittitle>Packers at the summit of Chilcoot Pass, AK. Photograph
 				  by E.A. Hegg. 
-				  <unitdate type="inclusive"
-					normal="1898">1898</unitdate></unittitle> 
+				  <unitdate normal="1898" type="inclusive">1898</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="2f489091-5e59-4fb6-a5d0-f916993f8b90" type="box">5</container> <container parent="2f489091-5e59-4fb6-a5d0-f916993f8b90" type="folder">10</container> 
 				<unittitle>Jeff "Soapy" Smith, Skaguay, AK. 
-				  <unitdate type="inclusive" normal="1898">Circa.
+				  <unitdate normal="1898" type="inclusive">Circa.
 					 1898</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="082b565a-ffed-47d2-8bfc-1b3d9db8d4f3" type="box">5</container> <container parent="082b565a-ffed-47d2-8bfc-1b3d9db8d4f3" type="folder">10</container> 
 				<unittitle>Red Line Transportation Company's horse and cart team's
 				  last trip, Bennet, British Columbia. Photograph by M.C. Barley. 
-				  <unitdate type="inclusive" normal="1899">July 6,
+				  <unitdate normal="1899" type="inclusive">July 6,
 					 1899</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="76137a9d-36af-408a-8b91-1ac9828dd787" type="box">5</container> <container parent="76137a9d-36af-408a-8b91-1ac9828dd787" type="folder">10</container> 
 				<unittitle>Aerial view of Dawson, Alaska from across the Yukon
 				  River. Photograph by E.A. Hegg. 
 				  <unitdate>No
@@ -1889,24 +1606,21 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="e50ec5e0-556a-4d80-8887-a08d076a7050" type="box">5</container> <container parent="e50ec5e0-556a-4d80-8887-a08d076a7050" type="folder">10</container> 
 				<unittitle>White Horse, AK. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="357f13ae-ed69-4be1-89ee-e1655d6e3255" type="box">5</container> <container parent="357f13ae-ed69-4be1-89ee-e1655d6e3255" type="folder">10</container> 
 				<unittitle>Lewis Lake, AK. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="97672265-648e-480e-b773-7564fa894129" type="box">5</container> <container parent="97672265-648e-480e-b773-7564fa894129" type="folder">10</container> 
 				<unittitle>View east of Rocky Point, AK. Photograph by H.C. Barley.
 				  
 				  <unitdate>No
@@ -1914,16 +1628,14 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="7f3ab352-e9d9-4a1b-adbe-ce82148f2c81" type="box">5</container> <container parent="7f3ab352-e9d9-4a1b-adbe-ce82148f2c81" type="folder">10</container> 
 				<unittitle>Yukon Dock, AK. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="4cf2fb43-9e1d-4752-a458-b82908f7deb6" type="box">5</container> <container parent="4cf2fb43-9e1d-4752-a458-b82908f7deb6" type="folder">10</container> 
 				<unittitle>Broadway, Skagway, AK. Photograph taken in daylight at
 				  midnight. 
 				  <unitdate>No
@@ -1931,40 +1643,35 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="3f61122d-f9f5-4903-8ff7-2c0bffa88e8f" type="box">5</container> <container parent="3f61122d-f9f5-4903-8ff7-2c0bffa88e8f" type="folder">10</container> 
 				<unittitle>White Pass and Yukon Railroad shops at Skagaway, AK. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="bf32fd93-ce20-469d-ae57-0238c0e1f8e8" type="box">5</container> <container parent="bf32fd93-ce20-469d-ae57-0238c0e1f8e8" type="folder">10</container> 
 				<unittitle>Shops and coal bunkers, Skagaway, AK (?). 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="b20f2b8d-b45a-454c-bf1e-89110c976fca" type="box">5</container> <container parent="b20f2b8d-b45a-454c-bf1e-89110c976fca" type="folder">10</container> 
 				<unittitle>Aerial view, Skagaway, AK(?). 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="664c5186-5e7f-4930-ba6c-e5d13902f57c" type="box">5</container> <container parent="664c5186-5e7f-4930-ba6c-e5d13902f57c" type="folder">10</container> 
 				<unittitle>Aerial view, Skagaway, AK(?). 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="c35f6ab4-fda9-4fe8-8c79-0a057a658088" type="box">5</container> <container parent="c35f6ab4-fda9-4fe8-8c79-0a057a658088" type="folder">10</container> 
 				<unittitle>Group of unidentified people and train, Skagaway, AK(?).
 				  
 				  <unitdate>No
@@ -1972,160 +1679,140 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="fdd572f1-b144-40eb-9d54-1aa3f9cf713f" type="box">5</container> <container parent="fdd572f1-b144-40eb-9d54-1aa3f9cf713f" type="folder">10</container> 
 				<unittitle>Ships and dock, Skagaway, AK(?) 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">10</container> 
+			 <did> <container id="13f8f772-e7f8-44ca-b398-83ee997a06ed" type="box">5</container> <container parent="13f8f772-e7f8-44ca-b398-83ee997a06ed" type="folder">10</container> 
 				<unittitle>Ships and dock, Skagaway, AK(?) 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="32ec77d1-fbf3-4855-96af-48173765475c" type="box">5</container> <container parent="32ec77d1-fbf3-4855-96af-48173765475c" type="folder">11</container> 
 				<unittitle>Unidentified ship. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="ca9565ab-6048-4511-bef7-e1522e0bc592" type="box">5</container> <container parent="ca9565ab-6048-4511-bef7-e1522e0bc592" type="folder">11</container> 
 				<unittitle>Unidentified ship. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="166f8461-a8a2-4680-aadb-5a820e12459a" type="box">5</container> <container parent="166f8461-a8a2-4680-aadb-5a820e12459a" type="folder">11</container> 
 				<unittitle>Unidentified ships. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="fea5cd6d-7ff5-473e-b04d-6d55165419cf" type="box">5</container> <container parent="fea5cd6d-7ff5-473e-b04d-6d55165419cf" type="folder">11</container> 
 				<unittitle>Unidentified ship. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="0b3faf00-db1b-4f4f-9912-82a899f435c2" type="box">5</container> <container parent="0b3faf00-db1b-4f4f-9912-82a899f435c2" type="folder">11</container> 
 				<unittitle>Unidentified ship. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="296f6244-3708-49a0-bf01-04e33558eaf6" type="box">5</container> <container parent="296f6244-3708-49a0-bf01-04e33558eaf6" type="folder">11</container> 
 				<unittitle>Unidentified ship. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="f9c50bb9-4c81-46f6-92d4-1cd5aebd614b" type="box">5</container> <container parent="f9c50bb9-4c81-46f6-92d4-1cd5aebd614b" type="folder">11</container> 
 				<unittitle>Unidentified ship. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="636127ee-ccc2-429c-9bec-13a864a84f51" type="box">5</container> <container parent="636127ee-ccc2-429c-9bec-13a864a84f51" type="folder">11</container> 
 				<unittitle>Unidentified ship. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="b1809c0e-5986-4e3e-8a7d-5949cc793b69" type="box">5</container> <container parent="b1809c0e-5986-4e3e-8a7d-5949cc793b69" type="folder">11</container> 
 				<unittitle>Unidentified men in front of unidentified ship. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="241934d4-26b8-4eea-abfa-2a59620f8352" type="box">5</container> <container parent="241934d4-26b8-4eea-abfa-2a59620f8352" type="folder">11</container> 
 				<unittitle>White Pass and Yukon Railroad train. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="f29906ab-8249-4fd2-aae0-03aad81e6998" type="box">5</container> <container parent="f29906ab-8249-4fd2-aae0-03aad81e6998" type="folder">11</container> 
 				<unittitle>White Pass and Yukon Railroad train. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="e15e42c5-80cf-4444-bc5b-c3d03fd41c71" type="box">5</container> <container parent="e15e42c5-80cf-4444-bc5b-c3d03fd41c71" type="folder">11</container> 
 				<unittitle>White Pass and Yukon Railroad train track. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="9d5bab15-dab5-4b94-b463-4f4d5544ba5b" type="box">5</container> <container parent="9d5bab15-dab5-4b94-b463-4f4d5544ba5b" type="folder">11</container> 
 				<unittitle>Unidentified train. Photograph by H.C. Barley. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="b881aa33-ed9d-426d-b40c-7505a3cbdd60" type="box">5</container> <container parent="b881aa33-ed9d-426d-b40c-7505a3cbdd60" type="folder">11</container> 
 				<unittitle>Unidentified train. Photograph by H.C. Barley. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="9ad41c55-f51a-49d8-974e-abe7af61a329" type="box">5</container> <container parent="9ad41c55-f51a-49d8-974e-abe7af61a329" type="folder">11</container> 
 				<unittitle>Post office, unidentified location. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="f46fd88e-b0f7-4fb5-883a-43561a1e9c85" type="box">5</container> <container parent="f46fd88e-b0f7-4fb5-883a-43561a1e9c85" type="folder">11</container> 
 				<unittitle>Unidentified men and lumber. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="85c2ec49-5d67-4a66-9e70-fa9390664980" type="box">5</container> <container parent="85c2ec49-5d67-4a66-9e70-fa9390664980" type="folder">11</container> 
 				<unittitle>Unidentified landscape. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="1c70d731-e4f2-48ce-8f47-2471260cd48c" type="box">5</container> <container parent="1c70d731-e4f2-48ce-8f47-2471260cd48c" type="folder">11</container> 
 				<unittitle>Unidentified man with horse and dog. Photograph by H.C.
 				  Barley. 
 				  <unitdate>No
@@ -2133,8 +1820,7 @@
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">11</container> 
+			 <did> <container id="339b69e9-f996-4f82-b2fc-aa1323b55655" type="box">5</container> <container parent="339b69e9-f996-4f82-b2fc-aa1323b55655" type="folder">11</container> 
 				<unittitle>Unidentified men with mining equipment. 
 				  <unitdate>No
 					 Date</unitdate></unittitle> 
@@ -2146,17 +1832,14 @@
 			 <unittitle>Subseries 8: San Bernadino, CA</unittitle> 
 		  </did> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">12</container> 
+			 <did> <container id="930dfd73-16e4-412b-80eb-c01c4708baff" type="box">5</container> <container parent="930dfd73-16e4-412b-80eb-c01c4708baff" type="folder">12</container> 
 				<unittitle>San Bernadino County Citrus Fair in New York City. John
 				  P. Clum, Manager. 
-				  <unitdate type="inclusive"
-					normal="1890">1890</unitdate></unittitle> 
+				  <unitdate normal="1890" type="inclusive">1890</unitdate></unittitle> 
 			 </did> 
 		  </c03> 
 		  <c03 level="file"> 
-			 <did> <container type="box">5</container> <container
-				type="folder">12</container> 
+			 <did> <container id="1fea4708-1606-4c33-a792-1fb4994c14e0" type="box">5</container> <container parent="1fea4708-1606-4c33-a792-1fb4994c14e0" type="folder">12</container> 
 				<unittitle>Office of Clum and O'Connor Real Estate, San Bernadino,
 				  CA. 
 				  <unitdate>No

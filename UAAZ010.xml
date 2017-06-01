@@ -1,16 +1,13 @@
-<?xml version="1.0"?>
-<ead xmlns="urn:isbn:1-931666-22-9"
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21"> 
-<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
- audience="internal" id="a0"> 
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
 	<eadid>UAAZ010</eadid> 
   <filedesc> 
 	 <titlestmt> 
 	 	<titleproper encodinganalog="title">Journal of John Gregory Bourke,
-	 		<date normal="1881" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1881</date>
+	 		<date calendar="gregorian" certainty="approximate" era="ce" normal="1881" type="inclusive">1881</date>
 	 		</titleproper>
-	 	<titleproper type="filing" altrender="nodisplay">Bourke, (John G.) Journal of,
+	 	<titleproper altrender="nodisplay" type="filing">Bourke, (John G.) Journal of,
 	 		</titleproper>
 	 	<author>Processed by Staff.</author> 
 	 </titlestmt> 
@@ -24,31 +21,30 @@
 		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
 		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
 		</address> 
-		<date normal= "2015" era= "ce" calendar = "gregorian">2015</date> 
+		<date calendar="gregorian" era="ce" normal="2015">2015</date> 
 		<p>Arizona Board of Regents. All Rights Reserved.</p> 
 	 </publicationstmt> 
   </filedesc> 
   <profiledesc> 
   	<creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
-  		<date era="ce" encodinganalog="date" normal="20151104">November 04, 2015</date></creation>
-	 <langusage>Finding aid is in<language> English.</language></langusage>
+  		<date encodinganalog="date" era="ce" normal="20151104">November 04, 2015</date></creation>
+	 <langusage>Finding aid is in<language langcode="eng"> English.</language></langusage>
   	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
   </profiledesc>
 	<revisiondesc><change>
 		<date normal="20170302">2017-03-02</date>
 		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
 	</change></revisiondesc>
-</eadheader>
-	<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
-  <did id="a1"> 
+<revisiondesc><change><date normal="2017-06-01">2017-06-01</date><item>This finding aid was updated to be more closely aligned with LC specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader>
+	<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
 	 <head>Collection Summary</head> 
   	<unittitle encodinganalog="245" label="Collection Name">Journal of John Gregory Bourke,
-  		<unitdate type="inclusive" label="Dates" normal="1881">1881</unitdate>
+  		<unitdate label="Dates" normal="1881" type="inclusive">1881</unitdate>
   	</unittitle> 
-	 <unitid label="Collection Number" encodinganalog="099"
-	 	repositorycode="US-azu" countrycode="US">AZ 010</unitid>
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 010</unitid>
 	 <origination label="Creator"> 
-	 	<persname source="lcnaf" encodinganalog="100">Bourke, John Gregory, 1846-1896</persname> </origination>
+	 	<persname encodinganalog="100" source="lcnaf">Bourke, John Gregory, 1846-1896</persname> </origination>
   	<abstract label="Abstract">John Gregory Bourke, 1846-1896, was a U.S. Army soldier, author, and ethnologist. 
   								The collection contains a holograph journal, with sketches; kept by Bourke while a lieutenant in the U.S. Army, 3rd cavalry. 
   								Bourke describes visits to the Bannock Indians, Zuni villages, Navajo, Sioux, and various western military forts from May to June 1881. 
@@ -82,46 +78,22 @@
   	<head>Processing History</head>
   	<p>Processed by Staff.</p>
   </processinfo>
-  <bioghist id="a2" encodinganalog="545"> 
+  <bioghist encodinganalog="545"> 
 	 <head>Biographical Note</head> 
   	<p>John Gregory Bourke, 1846-1896, was a U.S. Army soldier, author, and ethnologist. </p> 
   </bioghist> 
-  <arrangement id="a4" encodinganalog="351$a"> 
+  <arrangement encodinganalog="351$a"> 
 	 <head>Arrangement</head> 
   	<p>This collection contains one item arranged chronologically.</p>
   </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
   		<p>Holograph journal, with sketches; kept by Bourke while a lieutenant in the U.S. Army, 3rd cavalry. 
   		Bourke describes visits to the Bannock Indians, Zuni villages, Navajo, Sioux, and various western military 
   		forts from May to June 1881. Includes descriptive index prepared by James Officer.</p>
   </scopecontent>
-		<relatedmaterial id="a6" encodinganalog="5441"><p>Portions of the author's later adaptation appeared in the New Mexico Historical Review, v. 8-13, 1933-1938, 
+		<relatedmaterial encodinganalog="544"><p>Portions of the author's later adaptation appeared in the New Mexico Historical Review, v. 8-13, 1933-1938, 
 			under the title <title render="doublequote">Bourke on the Southwest.</title></p></relatedmaterial> 	
   	<controlaccess>
-  		<head>Access Terms</head>
-  		<list type="simple"> 
-  			<item>
-  				<persname encodinganalog="600" source= "lcnaf">Bourke, John Gregory, 1846-1896 -- Diaries.</persname>
-  			</item>
-  			<item>
-  				<subject encodinganalog="650" source= "lcsh">Bannock Indians -- Social life and customs.</subject>
-  			</item>
-  			<item>
-  				<subject encodinganalog="650" source= "lcsh">Dakota Indians -- Social life and customs.</subject>
-  			</item>
-  			<item>
-  				<subject encodinganalog="650" source= "lcsh">Indians of North America -- Arizona.</subject>
-  			</item>
-  			<item>
-  				<subject encodinganalog="650" source= "lcsh">Indians of North America -- New Mexico.</subject>
-  			</item>
-  			<item>
-  				<subject encodinganalog="650" source= "lcsh">Navajo Indians -- Social life and customs.</subject>
-  			</item>
-  			<item>
-  				<subject encodinganalog="650" source= "lcsh">Zuni Indians -- Social life and customs.</subject>
-  			</item>
-  		</list>
-  	</controlaccess>
+  		<persname>Bourke, John Gregory, 1846-1896 -- Diaries.</persname><subject>Bannock Indians -- Social life and customs.</subject><subject>Dakota Indians -- Social life and customs.</subject><subject>Indians of North America -- Arizona.</subject><subject>Indians of North America -- New Mexico.</subject><subject>Navajo Indians -- Social life and customs.</subject><subject>Zuni Indians -- Social life and customs.</subject></controlaccess>
 </archdesc></ead>

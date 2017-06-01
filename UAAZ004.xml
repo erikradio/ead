@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?filetitle Birney, Hoffman Letters?>
-<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
- xmlns="urn:isbn:1-931666-22-9" relatedencoding="MARC21"> 
-<eadheader audience="internal" findaidstatus="edited-full-draft"
- langencoding="iso639-2b"> 
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
 	<eadid>UAAZ004</eadid> 
   <filedesc> 
 	 <titlestmt> 
@@ -21,7 +17,7 @@
   			<addressline>Fax: 520-621-9733</addressline> 
   			<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
   		</address> 
-  		<date normal= "2006" era= "ce" calendar = "gregorian">2006</date> 
+  		<date calendar="gregorian" era="ce" normal="2006">2006</date> 
   		<p>Arizona Board of Regents. All Rights Reserved.</p> 
   	</publicationstmt> 
   </filedesc> 
@@ -29,14 +25,14 @@
 	 <creation encodinganalog="500">Inventory encoded by Benjamin Richard
 		Grignon. 
 		<date>September 5, 2006</date></creation> 
-	 <langusage>Inventory is in<language langcode="eng" encodinganalog="546">
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">
 		English.</language></langusage> 
   </profiledesc> 
 	<revisiondesc><change>
 		<date normal="20170302">2017-03-02</date>
 		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
 	</change></revisiondesc>
-</eadheader> 
+<revisiondesc><change><date normal="2017-06-01">2017-06-01</date><item>This finding aid was updated to be more closely aligned with LC specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
 <frontmatter> 
   <titlepage> 
 	 <titleproper encodinganalog="245$a">Hoffman Birney letters, 
@@ -54,25 +50,22 @@
 		  <item>Benjamin Richard Grignon</item> 
 		</defitem> 
 	 </list> 
-	 <p>&#x00A9; 2006. Arizona Board of Regents. All rights reserved.</p> 
+	 <p>© 2006. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage> 
 </frontmatter> 
-<archdesc level="collection"> 
-  <did id="a1"> 
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did> 
 	 <head>Collection Summary</head> 
 	 <unittitle encodinganalog="245" label="Collection Name">Hoffman
 		Birney letters, 
-		<unitdate type="inclusive"
-		 normal="1937/1954">1937-1954.</unitdate></unittitle> 
-	 <unitid label="Collection Number" encodinganalog="099"
-	  repositorycode="US-azu" countrycode="US">AZ 004</unitid> 
+		<unitdate normal="1937/1954" type="inclusive">1937-1954.</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 004</unitid> 
 	 <origination label="Creator"> 
 		<persname encodinganalog="100">Birney, Hoffman, 1891-1958.</persname>
 		</origination> 
 	 <abstract label="Abstract">A collection of typescript letters to Dr.
 		Melick on Mormonism as well as photographs of Birney and his son.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
-		encodinganalog="300">9 items (24 leaves).</extent></physdesc> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">9 items (24 leaves).</extent></physdesc> 
 	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
@@ -96,7 +89,7 @@
 	 <head>Credit Line</head> 
 	 <p>Hoffman Birney (AZ 004). Special Collections, University of Arizona Libraries.</p> 
   </prefercite> 
-  <bioghist id="a2" encodinganalog="545"> 
+  <bioghist encodinganalog="545"> 
 	 <head>Biographical Note</head> 
 	 <p>American author.</p> 
   </bioghist> 
@@ -104,7 +97,7 @@
 	 <head>Organization</head> 
 	 <p>This collection is arranged chronologically.</p> 
   </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
 	 <p>Typescript letters, bound, with holograph notes by Dr. D. W. Melick.
 		Nine letters to Dr. Melick, chiefly concerning research on Mormonism and the
@@ -113,15 +106,6 @@
 		photographs, one of Birney and one of his son; a list of Birney's books; and
 		two other letters to Dr. Melick, one from Mrs. Birney.</p> 
   </scopecontent> 
-  <controlaccess id="a12"> 
-	 <head>Access Terms</head> 
-	 <list> 
-		<item> 
-			<persname encodinganalog="600" source= "lcnaf">Melick, Dermont W.</persname> </item> 
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">Mormons--History.</subject> </item> 
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">Mormon Church--History.</subject> </item> 
-	 </list> 
-  </controlaccess> 
+  <controlaccess> 
+	 <persname>Melick, Dermont W.</persname><subject>Mormons--History.</subject><subject>Mormon Church--History.</subject></controlaccess> 
 </archdesc> </ead>

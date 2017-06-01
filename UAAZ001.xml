@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?filetitle Bowman, Alexander Grayson Diary?>
-<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
- xmlns="urn:isbn:1-931666-22-9" relatedencoding="MARC21"> 
-<eadheader audience="internal" findaidstatus="edited-full-draft"
- langencoding="iso639-2b"> 
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
   <eadid>UAAZ001</eadid> 
   <filedesc> 
 	 <titlestmt> 
@@ -22,21 +18,21 @@
   			<addressline>Fax: 520-621-9733</addressline> 
   			<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
   		</address> 
-  		<date normal= "2005" era= "ce" calendar = "gregorian">2005</date> 
+  		<date calendar="gregorian" era="ce" normal="2005">2005</date> 
   		<p>Arizona Board of Regents. All Rights Reserved.</p> 
   	</publicationstmt> 
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Amy Verheide. 
 		<date>October 2005</date></creation> 
-	 <langusage>Inventory is in<language langcode="eng" encodinganalog="546">
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">
 		English.</language></langusage>
   </profiledesc>
 	<revisiondesc><change>
 		<date normal="20170302">2017-03-02</date>
 		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
 	</change></revisiondesc>
-</eadheader> 
+<revisiondesc><change><date normal="2017-06-01">2017-06-01</date><item>This finding aid was updated to be more closely aligned with LC specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
 <frontmatter> 
   <titlepage> 
 	 <titleproper encodinganalog="245$a">Alexander Grayson Bowman diary, 
@@ -59,18 +55,16 @@
 		  <item>Amy Verheide</item> 
 		</defitem> 
 	 </list> 
-	 <p>&#x00A9; 2005. Arizona Board of Regents. All rights reserved.</p> 
+	 <p>© 2005. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage> 
 </frontmatter> 
-<archdesc level="collection"> 
-  <did id="a1"> 
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did> 
 	 <head>Collection Summary</head> 
 	 <unittitle encodinganalog="245" label="Collection Name">Alexander
 		Grayson Bowman diary, 
-		<unitdate type="inclusive"
-		 normal="1861/1865">1861-1865.</unitdate></unittitle> 
-	 <unitid label="Collection Number" encodinganalog="099"
-	  repositorycode="US-azu" countrycode="US">AZ 001</unitid> 
+		<unitdate normal="1861/1865" type="inclusive">1861-1865.</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 001</unitid> 
 	 <origination label="Creator"> 
 		<persname encodinganalog="100">Bowman, Alexander Grayson,
 		  1842-1915.</persname> </origination> 
@@ -81,8 +75,7 @@
 		Texas, Dec. 12, 1864; and includes his subsequent journey back to California,
 		to Feb. 12, 1865. Brief and factual diary entries provide a glimpse of military
 		travel and camp conditions.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
-		encodinganalog="300">.1 linear foot</extent></physdesc> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">.1 linear foot</extent></physdesc> 
 	 <repository label="Repository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
@@ -106,7 +99,7 @@
 	 <head>Credit Line</head> 
 	 <p>Alexander Grayson Bowman diary (AZ 001). Special Collection, University of Arizona Libraries.</p> 
   </prefercite> 
-  <bioghist id="a2" encodinganalog="545"> 
+  <bioghist encodinganalog="545"> 
 	 <head>Biographical Note</head> 
 	 <p>Alexander Grayson Bowman, born in New York in 1838, came West as a young
 		man. He lived in several different states, including Colorado, until he moved
@@ -126,7 +119,7 @@
 		brothers settled in Farmington, New Mexico, where they established The Bowman
 		Brothers drugstore in 1878, the community's first pharmacy.</p> 
   </bioghist> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
 	 <p>Hand-written diary and certificates of promotion and discharge, with
 		accompanying transcript and biographical material, consists of daily record of
@@ -134,23 +127,9 @@
 		mustering out at Franklin, near El Paso, Texas, Dec. 12, 1864; and includes his
 		subsequent journey back to California, to Feb. 12, 1865.</p> 
   </scopecontent> 
-  <controlaccess id="a12"> 
-	 <head>Access Terms</head> 
-	 <list> 
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">United States. Army. California Volunteers.</subject></item>
-		
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">United States. Army -- Military life.</subject></item> 
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">Arizona -- History -- Civil War, 1861-1865 --
-				Sources.</subject></item> 
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">Southwest, New -- History -- Civil War, 1861-1865 --
-				Sources.</subject></item> 
-		<item> 
-			<subject encodinganalog="650" source= "lcsh">United States -- History -- Civil War, 1861-1865 -- Personal
-				narratives.</subject></item> 
-	 </list> 
-  </controlaccess> 
+  <controlaccess> 
+	 <subject>United States. Army. California Volunteers.</subject><subject>United States. Army -- Military life.</subject><subject>Arizona -- History -- Civil War, 1861-1865 --
+				Sources.</subject><subject>Southwest, New -- History -- Civil War, 1861-1865 --
+				Sources.</subject><subject>United States -- History -- Civil War, 1861-1865 -- Personal
+				narratives.</subject></controlaccess> 
 </archdesc></ead>
