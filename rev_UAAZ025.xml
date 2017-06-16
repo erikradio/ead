@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	relatedencoding="MARC21"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+		<eadid>UAAZ025</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>The University of Arizona and World War II, <date calendar="gregorian"
+						era="ce" normal="1942/1951" type="inclusive">1942-1951</date></titleproper>
+				<titleproper altrender="nodisplay" type="filing">The University of Arizona and World
+					War II</titleproper>
+				<author>Processed by Staff.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>University of Arizona Libraries, Special Collections</publisher>
+				<address>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+				</address>
+				<date calendar="gregorian" era="ce" normal="2013">2013</date>
+				<p>Arizona Board of Regents. All Rights Reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. <date era="ce" normal="20130416">April 16,
+				2013</date></creation>
+			<langusage>Finding aid is in<language encodinganalog="546" langcode="eng"
+					>English.</language></langusage>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date normal="20170314">2017-03-14</date>
+				<item>This finding aid was manually revised and updated to EAD 2.0 specifications by
+					Molly Stothert-Maurer</item>
+			</change>
+		</revisiondesc>
+		<revisiondesc>
+			<change>
+				<date normal="2017-06-16">2017-06-16</date>
+				<item>This finding aid was updated in alignment with LC EAD 2.0 specifications using
+					a python script created by Erik Radio.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<titleproper>The University of Arizona and World War II,<date calendar="gregorian"
+					era="ce" normal="1942/1951" type="inclusive">1942-1951</date>,</titleproper>
+			<num>Collection Number: AZ 025</num>
+			<publisher>University of Arizona Libraries, Special Collections</publisher>
+			<list>
+				<defitem>
+					<label>Processed by:</label>
+					<item>Staff.</item>
+				</defitem>
+				<defitem>
+					<label>Date completed:</label>
+					<item>
+						<date>September 21, 1994</date></item>
+				</defitem>
+				<defitem>
+					<label>Encoded by:</label>
+					<item>Deborah Weller</item>
+				</defitem>
+			</list>
+			<p>© 20013. Arizona Board of Regents. All rights reserved.</p>
+		</titlepage>
+	</frontmatter>
+	<archdesc encodinganalog="351$c" level="collection">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle encodinganalog="245" label="Collection Name">The University of Arizona and
+				World War II, <unitdate label="Dates" type="inclusive"
+				>1942-1951</unitdate></unittitle>
+			<unitid countrycode="US" encodinganalog="099" label="Collection Number"
+				repositorycode="US-azu">AZ 025</unitid>
+			<origination label="Creator">
+				<persname encodinganalog="100">Cosulich, Bernice,1896-1956.</persname></origination>
+			<abstract label="Abstract">Reports,faculty and staff questionnaires, and other material
+				gathered by the University for use in the creation of this manuscript which
+				documented the UA's involvement in World War II.</abstract>
+			<physdesc encodinganalog="300$a" label="Physical Description"><extent>O.4 linear
+					feet</extent></physdesc>
+			<repository label="Repository">
+				<corpname>University of Arizona Libraries, Special Collections</corpname>
+			</repository>
+		</did>
+		<accessrestrict>
+			<head>Restrictions</head>
+			<p>There are no restrictions on this collection</p>
+		</accessrestrict>
+		<userestrict>
+			<head>Copyright</head>
+			<p>It is the responsibility of the user to obtain permission to publish from the owner
+				of the copyright (the institution, the creator of the record, the author or his/her
+				transferees, heirs, legates, or literary executors). The user agrees to indemnify
+				and hold harmless the Arizona Board of Regents for the University of Arizona, its
+				officers, employees, and agents from and against all claims made by any person
+				asserting that he or she is an owner of copyright.</p>
+		</userestrict>
+		<prefercite>
+			<head>Credit Line</head>
+			<p>The University of Arizona and World War II,(AZ 025). Special Collections, University
+				of Arizona Libraries.</p>
+		</prefercite>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Bernice Cosulich was born in Iowa in 1896. She married Gilbert Cosulich in 1916 and
+				they had one daughter, Donna. Together they lived on the southern border of the
+				United States and in Mexico City. Ms. Cosulich moved to Tucson and reported for the
+				Arizona Daily Star from 1922-1948 as the “state’s best known newspaperwoman.” Her
+				best work was on the Colorado River Controversy. She simultaneously worked as a
+				correspondent for the New York Times, Life, Time and Fortune. She covered the
+				Arizona state legislature from 1941-1946. Cosulich retired in 1948 due to health
+				reasons, but continued to research and published a book in 1953 called <title
+					render="italic">Tucson</title>.</p>
+		</bioghist>
+		<arrangement encodinganalog="351$a">
+			<head>Arrangement</head>
+			<p>This publication is arranged by the type of material</p>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Original typescript, with reports, faculty and staff questionnaires, and other
+				material gathered by the University during 1942-1945 and used in preparation of this
+				manuscript. Includes a lists of students and faculty who served in the war along
+				with their rank, branch of service, school, and year of graduation; list of those
+				who died in the war; and a separate list of women who served.</p>
+		</scopecontent>
+		<controlaccess>
+			<persname> Cosulich, Bernice,1896-1956</persname>
+			<subject>World War, 1939-1945--Arizona</subject>
+			<corpname>University of Arizona--History</corpname>
+		</controlaccess>
+		<dsc type="combined">
+			<head>Container List</head>
+			<c01 level="file">
+				<did>
+					<container id="f16911fe-4a1b-4f32-ab79-51b37afae11c" type="box"
+						>1</container>
+					<container parent="f16911fe-4a1b-4f32-ab79-51b37afae11c" type="folder"
+						>1</container>
+					<unittitle>The University of Arizona and World Ward II, manuscript</unittitle>
+					<unitdate>1951</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container id="bfd5dee1-269f-4ea3-b1c5-e6a6c1398d9c" type="box">1</container>
+					<container parent="bfd5dee1-269f-4ea3-b1c5-e6a6c1398d9c" type="folder"
+						>2</container>
+					<unittitle>Miscellaneous material</unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container id="dbf398ee-8220-42f1-a9d8-71d2599314a6" type="box">1</container>
+					<container parent="dbf398ee-8220-42f1-a9d8-71d2599314a6" type="folder"
+						>3</container>
+					<unittitle>Reports (general)</unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container id="2f439dbf-0253-4318-87ae-3a21fe193d81" type="box">1</container>
+					<container parent="2f439dbf-0253-4318-87ae-3a21fe193d81" type="folder"
+						>4</container>
+					<unittitle>Reports of deans, departments, etc.</unittitle>
+					<unitdate>1942</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container id="5f7679ea-7ec7-46bd-9e52-a12362c543f2" type="box">1</container>
+					<container parent="5f7679ea-7ec7-46bd-9e52-a12362c543f2" type="folder"
+						>5</container>
+					<unittitle>Department heads questionnaire</unittitle>
+					<unitdate>1944</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container id="ee34c9f1-2305-435f-aeb3-adb40aa8e635" type="box">1</container>
+					<container parent="ee34c9f1-2305-435f-aeb3-adb40aa8e635" type="folder"
+						>6</container>
+					<unittitle>Department heads questionnaire </unittitle>
+					<unitdate>1945</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container id="37f18cd3-004f-40bf-9e16-1c5e6e9a75d7" type="box">1</container>
+					<container parent="37f18cd3-004f-40bf-9e16-1c5e6e9a75d7" type="folder"
+						>7</container>
+					<unittitle>Faculty questionnaire</unittitle>
+					<unitdate>1944</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container id="0feb7ca6-e327-4980-b9f3-5ce9bca7b4cc" type="box">1</container>
+					<container parent="0feb7ca6-e327-4980-b9f3-5ce9bca7b4cc" type="folder"
+						>8</container>
+					<unittitle>Faculty and staff questionnaire</unittitle>
+					<unitdate>1944</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container id="d4c119ed-93b3-47fc-8193-6c2efd5d8c3d" type="box">1</container>
+					<container parent="d4c119ed-93b3-47fc-8193-6c2efd5d8c3d" type="folder"
+						>9</container>
+					<unittitle>Senior questionnaire</unittitle>
+					<unitdate>1945</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container id="8aba43d2-d754-450a-a3d6-1490c45045a4" type="box">1</container>
+					<container parent="8aba43d2-d754-450a-a3d6-1490c45045a4" type="folder"
+						>10</container>
+					<unittitle>Students and faculty in the Armed Forces</unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid>UAAZ018</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>Papers of William E. Thomas
+	 		<date calendar="gregorian" era="ce" normal="1885/1922">1885-1922</date></titleproper>
+	 	<titleproper altrender="nodisplay" type="filing">Papers of William E. Thomas</titleproper>
+	 	<author>Processed by Staff.</author> 
+	 </titlestmt> 
+  	<publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date calendar="gregorian" era="ce" normal="2013">2013</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. 
+  		<date encodinganalog="date" era="ce" normal="20130416">April 10, 2013</date></creation> 
+	 <langusage>Finding aid is in<language langcode="eng"> English.</language></langusage> 
+  </profiledesc> 
+	<revisiondesc><change>
+		<date normal="20170308">2017-03-08</date>
+		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
+	</change></revisiondesc>
+<revisiondesc><change><date normal="2017-06-16">2017-06-16</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Papers of William E. Thomas,<date calendar="gregorian" era="ce">1885-1922</date></titleproper>
+	 <num>Collection Number: AZ 018</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff.</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1994</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Deborah Weller</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 20013. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+	<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name"> Papers of William E. Thomas
+		<unitdate label="Dates" normal="1885/1922" type="inclusive">1885-1922</unitdate></unittitle>	 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 018</unitid>
+  	<origination label="Creator">
+  		<persname encodinganalog="100" rules="lcnaf">Thomas, William E. </persname> </origination> 
+  	<abstract label="Abstract">Correspondence, reports, bills, legal documents, and financial records pertaining to William E. Thomas' business and political activities in  Arizona. </abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent>0.4 Linear ft</extent></physdesc>	 
+	 <repository label="Repository"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		</repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>There are no restrictions on this collection</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Thomas, William E.,(AZ 018). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Businessman, city and county official, of Phoenix, Ariz.  Served as Postmaster of Phoenix, 1894-1898, and of Liberty, Ariz., 1901, 1905.</p> 
+  </bioghist> 
+  <arrangement encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into 5 series </p>	 
+	 <list> 
+		<item>Series I:  Correspondence
+			<unitdate>1896-1922</unitdate></item> 
+	 </list> 
+  	<list> 
+  		<item>Series II: Financial records 
+  				<unitdate>1895-1920</unitdate></item> 
+  	</list> 
+  	<list> 
+  		<item>Series III: Mining papers
+  			<unitdate>1894-1920</unitdate></item> 
+  	</list> 
+  	<list> 
+  		<item>Series IV: Legal records
+  			<unitdate>1889-1912.</unitdate></item> 
+  	</list> 
+  	<list> 
+  		<item>Series V: Post Office papers
+  			<unitdate>1894-1905.</unitdate></item> 
+  	</list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Correspondence, reports, bills, legal documents, and financial records pertaining to Thomas' activities in real estate, mining, business, politics, and his public service as postmaster, clerk of Maricopa County Board of Supervisors and clerk of Maricopa County Superior Court. Includes mining records for various locations chiefly the Blue Bird Mine and Prince of Arizona Mining Company.</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <subject>Mines and mineral resources--Arizona--Maricopa County.</subject><subject>Mines and mineral resources--Arizona--Yavapai County.</subject><subject>Real property--Arizona--Phoenix.</subject><subject>Postal service--Arizona--History--Sources.</subject><subject>.</subject><corpname>Prince of Arizona Mining Company.</corpname><corpname>Blue Bird Mine (Ariz.)</corpname><corpname>Arizona. Superior Court (Maricopa County)&gt;</corpname></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+			<unittitle> Series I: Correspondence<unitdate type="inclusive">1896-1922</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="ff7d6d70-d0d8-44c1-a0d2-8f3b5a26a0db" type="box">1</container> 
+			 <container parent="ff7d6d70-d0d8-44c1-a0d2-8f3b5a26a0db" type="folder">1</container> 
+		  	<unitdate>1896-1914</unitdate>
+		  </did>  
+			</c02>
+			<c02 level="file"> 
+				<did> <container id="8d1392ec-4455-40a3-9841-10c67ec76667" type="box">1</container> 
+					<container parent="8d1392ec-4455-40a3-9841-10c67ec76667" type="folder">2</container> 
+					<unitdate>1915</unitdate>
+				</did> 
+			</c02> 
+			<c02 level="file"> 
+				<did> <container id="ca5ac53c-bc70-4aff-9e8b-33ecf041ce58" type="box">1</container> 
+					<container parent="ca5ac53c-bc70-4aff-9e8b-33ecf041ce58" type="folder">3</container> 
+					<unitdate>1916-1922</unitdate>
+				</did> 
+			</c02> 			
+	 </c01> 
+  	<c01 level="series"> 
+  		<did> 
+  			<unittitle>Series II: Financial records<unitdate type="inclusive">1885-1920</unitdate></unittitle> 
+  		</did> 
+  		<c02 level="file"> 
+  			<did> <container id="f53486d8-5810-4692-ab1c-4d86f41151f1" type="box">1</container> 
+  				<container parent="f53486d8-5810-4692-ab1c-4d86f41151f1" type="folder">4</container> 
+  				<unittitle>Bills</unittitle>
+  				<unitdate>1885-1920</unitdate>
+  			</did>  
+  		</c02> 			
+  		<c02 level="file"> 
+  			<did> <container id="60b1114b-2eab-40de-9520-b94addec5f4e" type="box">1</container> 
+  				<container parent="60b1114b-2eab-40de-9520-b94addec5f4e" type="folder">5</container> 
+  				<unittitle>Blue Bird Mine (formerly Donald Mine)</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>  
+  		</c02> 			
+  		<c02 level="file"> 
+  			<did> <container id="b58f930f-dbdb-4750-9815-2d12e235d92d" type="box">1</container> 
+  				<container parent="b58f930f-dbdb-4750-9815-2d12e235d92d" type="folder">6</container> 
+  				<unittitle>Clerk, Superior Court, Maricopa County</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>  
+  		</c02> 			
+  		<c02 level="file"> 
+  			<did> <container id="c7a54955-dffa-45b1-b844-96b8314fb8e9" type="box">1</container> 
+  				<container parent="c7a54955-dffa-45b1-b844-96b8314fb8e9" type="folder">7</container> 
+  				<unittitle>La Coronado Development Company</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>  
+  		</c02> 			
+  		<c02 level="file"> 
+  			<did> <container id="162adf76-4d56-4c72-ac56-170ad24daa57" type="box">1</container> 
+  				<container parent="162adf76-4d56-4c72-ac56-170ad24daa57" type="folder">8</container> 
+  				<unittitle>General Merchandise Store, Liberty, Arizona</unittitle>
+  				<unitdate>1903-1904</unitdate>
+  			</did>  
+  		</c02> 			
+  		<c02 level="file"> 
+  			<did> <container id="d2f9fccb-ff3f-4c7c-8fc1-dd0da695c3bb" type="box">1</container> 
+  				<container parent="d2f9fccb-ff3f-4c7c-8fc1-dd0da695c3bb" type="folder">9</container> 
+  				<unittitle>Land and Real estate papers(miscellaneous)</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did> 
+  			</c02>
+  			<c02 level="file"> 
+  				<did> <container id="9f29a951-84dc-4302-a655-df25aaf2de0d" type="box">1</container> 
+  					<container parent="9f29a951-84dc-4302-a655-df25aaf2de0d" type="folder">10</container> 
+  					<unittitle>Legal papers: Agreements, mortgages</unittitle>
+  					<unitdate>undated</unitdate>
+  				</did> 
+  			</c02>
+  		</c01>
+  				<c01 level="series"> 
+  					<did> 
+  						<unittitle>Series III: Mining Papers<unitdate type="inclusive">1896-1922</unitdate></unittitle> 
+  					</did> 
+  					<c02 level="file"> 
+  						<did> <container id="782fdd71-d96a-4a29-8104-e5b573ebd195" type="box">1</container> 
+  							<container parent="782fdd71-d96a-4a29-8104-e5b573ebd195" type="folder">11</container> 
+  							<unitdate>1896-1914</unitdate>
+  						</did>  
+  					</c02>
+  					<c02 level="file"> 
+  						<did> <container id="1e866fa9-83db-4b74-bcf2-d35afc44e49b" type="box">1</container> 
+  							<container parent="1e866fa9-83db-4b74-bcf2-d35afc44e49b" type="folder">12</container>
+  							<unittitle>Miscellaneous Financial papers</unittitle>
+  							<unitdate>undated</unitdate>
+  						</did>  
+  					</c02>
+  					<c02 level="file"> 
+  						<did> <container id="42e7f3a5-9084-4c0c-92a3-7389825e4c9c" type="box">1</container> 
+  							<container parent="42e7f3a5-9084-4c0c-92a3-7389825e4c9c" type="folder">13</container>
+  							<unittitle>Personal</unittitle>
+  							<unitdate>undated</unitdate>
+  						</did>  
+  					</c02>
+  					<c02 level="file"> 
+  						<did> <container id="f9a191e8-7231-466f-a161-44419d1943c8" type="box">1</container> 
+  							<container parent="f9a191e8-7231-466f-a161-44419d1943c8" type="folder">13a</container>
+  							<unittitle>Photographs</unittitle>
+  							<unitdate>undated</unitdate>
+  						</did>  
+  					</c02>
+  					</c01>  
+  					<c01 level="series"> 
+  						<did> 
+  							<unittitle>Series IV: Legal Records<unitdate type="inclusive">1889-1912</unitdate></unittitle> 
+  						</did> 
+  						<c02 level="file"> 
+  							<did> <container id="2f820498-beff-4f35-94f3-3231766c7a3c" type="box">1</container> 
+  								<container parent="2f820498-beff-4f35-94f3-3231766c7a3c" type="folder">14</container> 
+  								<unittitle>Prince of Arizona Mining company</unittitle>
+  								<unitdate>1896-1914</unitdate>
+  							</did>  
+  						</c02>
+  						<c02 level="file"> 
+  							<did> <container id="1d0df6fe-6348-4a42-bdfe-92622ca4127b" type="box">1</container> 
+  								<container parent="1d0df6fe-6348-4a42-bdfe-92622ca4127b" type="folder">15</container> 
+  								<unittitle>Stock certificates</unittitle>
+  								<unitdate>1881-1907</unitdate>
+  							</did>  
+  						</c02>
+  						<c02 level="file"> 
+  							<did> <container id="c50495b3-13ce-4327-91f2-09b0d49f0770" type="box">1</container> 
+  								<container parent="c50495b3-13ce-4327-91f2-09b0d49f0770" type="folder">16</container> 
+  								<unittitle>Stock certificates</unittitle>
+  								<unitdate>1881-1907</unitdate>
+  							</did>  
+  						</c02>
+  						<c02 level="file"> 
+  							<did> <container id="30c9b0ea-3b9d-4583-ba58-1af10625e928" type="box">1</container> 
+  								<container parent="30c9b0ea-3b9d-4583-ba58-1af10625e928" type="folder">16</container> 
+  								<unittitle>Taxes (state and county)</unittitle>
+  								<unitdate>1904-1917</unitdate>
+  							</did>  
+  						</c02>
+  						</c01>
+  	<c01 level="series"> 
+  		<did> 
+  			<unittitle>Series V: U.S. Post Office Papers<unitdate type="inclusive">1889-1912</unitdate></unittitle> 
+  		</did> 
+  		<c02 level="file"> 
+  			<did> <container id="cb23157f-778e-4b5e-8d31-5985d203162f" type="box">1</container> 
+  				<container parent="cb23157f-778e-4b5e-8d31-5985d203162f" type="folder">17</container> 
+  				<unittitle>Phoenix</unittitle>
+  				<unitdate>1894-1898</unitdate>
+  			</did>  
+  		</c02>
+  		<c02>
+  			<did><container id="ad087911-8c79-4553-8e35-535837f5476e" type="box">1</container> 
+  			<container parent="ad087911-8c79-4553-8e35-535837f5476e" type="folder">17</container> 
+  			<unittitle>Liberty</unittitle>
+  			<unitdate>1901-1905</unitdate>
+  		</did>  
+  		</c02>
+  		</c01>
+  </dsc> 
+</archdesc></ead>

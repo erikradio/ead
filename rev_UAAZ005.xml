@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid>UAAZ005</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Leighton Finley papers, 
+		  <date>1879-1892</date></titleproper> 
+	 	<titleproper altrender="nodisplay" type="filing">Leighton, (Finley)</titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by staff.</author> 
+	 </titlestmt> 
+  	<publicationstmt> 
+  		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+  		<address> 
+  			<addressline>PO Box 210055</addressline> 
+  			<addressline>Tucson, AZ 85721-0055</addressline> 
+  			<addressline>Phone: 520-621-6423</addressline> 
+  			<addressline>Fax: 520-621-9733</addressline> 
+  			<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+  		</address> 
+  		<date calendar="gregorian" era="ce" normal="2001">2001</date> 
+  		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+  	</publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Shan Sutton. 
+		<date>January 3, 2001</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+	<revisiondesc><change>
+		<date normal="20170302">2017-03-02</date>
+		<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Molly Stothert-Maurer</item>
+	</change></revisiondesc>
+<revisiondesc><change><date normal="2017-06-01">2017-06-01</date><item>This finding aid was updated to be more closely aligned with LC specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Leighton Finley papers, 
+		<date>1879-1892</date></titleproper> 
+	 <titleproper encodinganalog="245$a">Finley (Leighton) Papers</titleproper> 
+	 <num>Collection Number: AZ 005</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>staff</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>unknown</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Shan Sutton</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Leighton
+		Finley papers, 
+		<unitdate normal="1879/1892" type="inclusive">1879-1892</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 005</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Finley, Leighton,
+		  1856-1894</persname></origination> 
+	 <abstract label="Abstract">Diary, notebooks, biographical material, and
+		photographs relating to Finley's Army service.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">.2 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		</repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Leighton Finley papers (AZ 005). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Finley was a U.S. Army officer, Lieutenant, 10th cavalry, in Texas,
+		1880-1881, Fort Leavenworth, Kansas, 1881-1884, and Arizona, 1885-1892.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into two series:</p> 
+	 <list> 
+		<item>I. Personal materials</item> 
+		<item>II. Photographs</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Diary, notebooks, biographical material, and photographs relating to
+		Finley's Army service. Includes studio photographs of Apache Indians, military
+		personnel and living quarters at Fort Leavenworth, Kansas; Fort Grant, Arizona;
+		and Fort Apache, Arizona.</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <persname>Finley, Leighton,
+			 1856-1894</persname><corpname>United States -- Army -- Cavalry,
+			 10th</corpname><corpname>United States -- Army -- Military life
+			 -- History -- Sources</corpname><subject>Apache Indians -- Wars</subject><subject>Apache Indians -- Photographs</subject><subject>Fort Grant (Ariz.) -- Photographs</subject><subject>Fort Leavenworth (Kan.) -- Photographs</subject><subject>Military bases -- West (U.S.)</subject><subject>Fort Apache Indian Reservation (Ariz.) --
+	 			Photographs</subject><geogname>Fort Leavenworth (Kan.)</geogname><geogname>Fort Apache Indian Reservation (Ariz.)</geogname><geogname>Fort Grant (Ariz.)</geogname><genreform>Diaries</genreform><genreform>Photographs</genreform></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Personal Materials</unittitle> 
+		</did> 
+		<c02> 
+		  <did> <container id="321bbc2a-165b-4462-b57f-1d858ee99c69" type="box">1</container> <container parent="321bbc2a-165b-4462-b57f-1d858ee99c69" type="folder">1</container> 
+			 <unittitle>Official record of Leighton Finley, handwritten, 2
+				pages.</unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container id="f931d8e5-6349-4d98-bda6-a1a5f72df9d1" type="box">1</container> <container parent="f931d8e5-6349-4d98-bda6-a1a5f72df9d1" type="folder">2</container> 
+			 <unittitle>Two notebooks, photocopies. 
+				<unitdate normal="1879/1883" type="inclusive">1879-1883</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container id="7dfe245b-c0bd-4e1b-82f2-d06a5adce75c" type="box">1</container> <container parent="7dfe245b-c0bd-4e1b-82f2-d06a5adce75c" type="folder">3</container> 
+			 <unittitle>Two notebooks, originals. 
+				<unitdate normal="1879/1883" type="inclusive">1879-1883</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Photographs</unittitle> 
+		</did> 
+		<c02> 
+		  <did> <container id="892ab323-bb6b-41fa-9d08-7f32941a68d7" type="box">1</container> <container parent="892ab323-bb6b-41fa-9d08-7f32941a68d7" type="folder">4</container> 
+			 <unittitle>Military personnel.</unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Nine photographs, chiefly officers at Fort Leavenworth, Fort
+				Grant, San Carlos, and other places. Several photos with photographer's
+				stamp.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02> 
+		  <did> <container id="b5b8a197-ea6a-4c28-b25d-036056ad7504" type="box">1</container> <container parent="b5b8a197-ea6a-4c28-b25d-036056ad7504" type="folder">5</container> 
+			 <unittitle>Fort Apache. 
+				<unitdate normal="1887/1890" type="inclusive">1887-1890</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Five photographs of interiors of homes; one photograph of exterior
+				of home, Finley and others on porch; one photograph of officers and families on
+				horseback; one group portrait 10th Cavalry Troop A.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02> 
+		  <did> <container id="eef871aa-67b2-4a78-a033-b6b1e408c22f" type="box">1</container> <container parent="eef871aa-67b2-4a78-a033-b6b1e408c22f" type="folder">6</container> 
+			 <unittitle>Fort Grant. </unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>One photograph of officers and family on steps; one photograph of
+				interior of Finley quarters; one photograph of exterior officer's quarters with
+				families in yard; one photograph of exterior parade grounds, troops, tennis
+				courts, officer's quarters, and lake. Two photographs include Bakers and
+				Johnston stamp.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02> 
+		  <did> <container id="d80b4d75-45fa-47ec-aead-6ed8c1a7c833" type="box">1</container> <container parent="d80b4d75-45fa-47ec-aead-6ed8c1a7c833" type="folder">7</container> 
+			 <unittitle>Apache Indians, San Carlos Reservation.</unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Seven photographs, include D.A. Markey stamp.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02> 
+		  <did> <container id="d1a5d886-551f-479b-a21b-daf601e75782" type="box">1</container> <container parent="d1a5d886-551f-479b-a21b-daf601e75782" type="folder">8</container> 
+			 <unittitle>Apache Indians.</unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Five drawings. One postcard depicting scenes of Chiricahua
+				prisoners en route from Arizona to Fort Augustine, Florida, 1886. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02> 
+		  <did> <container id="15595341-587b-4618-bb64-1136ea5258d0" type="box">1</container> <container parent="15595341-587b-4618-bb64-1136ea5258d0" type="folder">9</container> 
+			 <unittitle>Various Indians. </unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Five photographs. Black Hawk, Apache; Powder Face (?) Arapaho;
+				White Horse, Kiowa; Far-low, Kiowa boy; Now-a-way, Comanche. W.S. Soule, Fort
+				Sill, I.T. stamp.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02> 
+		  <did> <container id="f23e1568-feca-455d-9d67-691f8f14b3c9" type="box">1</container> <container parent="f23e1568-feca-455d-9d67-691f8f14b3c9" type="folder">10</container> 
+			 <unittitle>Miscellaneous.</unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Two photographs. Carriage at base of cliff dwelling ruins,
+				possibly in northern Arizona. Portrait of Cooley's three daughters by Native
+				American mother, Arizona.</p> 
+		  </scopecontent> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

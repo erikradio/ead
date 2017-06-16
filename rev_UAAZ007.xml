@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	relatedencoding="MARC21"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+	<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+		<eadid>UAAZ007</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="245$a">Gertrude Edna Lewis Gates papers,
+						<date>1903-1935.</date></titleproper>
+				<author encodinganalog="245$c">Inventory prepared by staff.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>University of Arizona Libraries, Special Collections</publisher>
+				<address>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+				</address>
+				<date calendar="gregorian" era="ce" normal="2006">2006</date>
+				<p>Arizona Board of Regents. All Rights Reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation encodinganalog="500">Inventory encoded by Benjamin Richard Grignon.
+					<date>September 2006</date></creation>
+			<langusage>Inventory is in<language encodinganalog="546" langcode="eng">
+					English.</language></langusage>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date normal="20170302">2017-03-02</date>
+				<item>This finding aid was manually revised and updated to EAD 2.0 specifications by
+					Molly Stothert-Maurer</item>
+			</change>
+		</revisiondesc>
+		<revisiondesc>
+			<change>
+				<date normal="2017-06-01">2017-06-01</date>
+				<item>This finding aid was updated to be more closely aligned with LC specifications
+					using a python script created by Erik Radio.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<titleproper encodinganalog="245$a">Gertrude Edna Lewis Gates papers,
+					<date>1903-1935.</date></titleproper>
+			<num>Collection Number: AZ 007</num>
+			<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+				Collections</publisher>
+			<list>
+				<defitem>
+					<label>Processed by:</label>
+					<item>staff</item>
+				</defitem>
+				<defitem>
+					<label>Encoded by:</label>
+					<item>Benjamin Richard Grignon</item>
+				</defitem>
+			</list>
+			<p>© 2006. Arizona Board of Regents. All rights reserved.</p>
+		</titlepage>
+	</frontmatter>
+	<archdesc encodinganalog="351$c" level="collection">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle encodinganalog="245" label="Collection Name">Gertrude Edna Lewis Gates
+				papers, <unitdate normal="1903/1935" type="inclusive"
+				>1903-1935.</unitdate></unittitle>
+			<unitid countrycode="US" encodinganalog="099" label="Collection Number"
+				repositorycode="US-azu">AZ 007</unitid>
+			<origination label="Creator">
+				<persname encodinganalog="100">Gates, Gertrude Edna Lewis.</persname>
+			</origination>
+			<abstract label="Abstract">Correspondence, notebooks, cattle records, and financial
+				papers pertaining to the operation and maintenance of the D.A. Ranch and of rental
+				property in Flagstaff.</abstract>
+			<physdesc encodinganalog="300$a" label="Physical Description"><extent
+					encodinganalog="300">1.25 linear feet.</extent></physdesc>
+			<repository label="Repository">
+				<corpname encodinganalog="110">University of Arizona Libraries, Special
+					Collections</corpname>
+			</repository>
+		</did>
+		<accessrestrict encodinganalog="506">
+			<head>Restrictions</head>
+			<p>none.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Copyright</head>
+			<p>It is the responsibility of the user to obtain permission to publish from the owner
+				of the copyright (the institution, the creator of the record, the author or his/her
+				transferees, heirs, legates, or literary executors). The user agrees to indemnify
+				and hold harmless the Arizona Board of Regents for the University of Arizona, its
+				officers, employees, and agents from and against all claims made by any person
+				asserting that he or she is an owner of copyright.</p>
+		</userestrict>
+		<prefercite encodinganalog="524">
+			<head>Credit Line</head>
+			<p>Gertrude Edna Lewis Gates papers (AZ 007). Special Collections, University of Arizona
+				Libraries.</p>
+		</prefercite>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p> Arizona rancher; operated the DA Ranch, 1910-1922, in Cornville, AZ, Yavapai
+				County.</p>
+		</bioghist>
+		<arrangement>
+			<head>Organization</head>
+			<p>This collection is organized into 3 series.</p>
+			<list>
+				<item>Series 1: Correspondence, <unitdate normal="1902/1934" type="inclusive"
+						>1902-1934.</unitdate></item>
+			</list>
+			<list>
+				<item>Series 2: Financial Records, <unitdate normal="1908/1935" type="inclusive"
+						>1908-1935.</unitdate></item>
+			</list>
+			<list>
+				<item>Series 3: Cattle and ranching records, <unitdate normal="1907/1935"
+						type="inclusive">1907-1935.</unitdate></item>
+			</list>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p> Correspondence, notebooks, cattle records, and financial papers pertaining to the
+				operation and maintenance of the D.A. Ranch and of rental property in Flagstaff.
+				Includes detailed descriptions of the ranch and inventories of equipment. Also
+				included are personal letters, many relating to Gates' interest in missionary work
+				among Indians.</p>
+		</scopecontent>
+		<controlaccess>
+			<subject>DA Ranch (Cornville, Ariz.)</subject>
+			<subject> Cattle trade -- Arizona -- History -- Sources</subject>
+			<subject>Ranch life -- Arizona</subject>
+			<subject> Indians of North America -- Missions -- Arizona</subject>
+			<subject> Ranches -- Arizona -- Records and correspondence</subject>
+			<subject>Women ranchers -- Arizona</subject>
+		</controlaccess>
+		<dsc type="combined">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unittitle> Series 1: Correspondence, <unitdate normal="1902/1934"
+							type="inclusive">1902-1934.</unitdate></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container id="052c102c-8d14-4c43-93cb-8867c88f1819" type="box"
+							>1</container>
+						<container parent="052c102c-8d14-4c43-93cb-8867c88f1819" type="folder"
+							>1-7</container>
+						<unittitle>Correspondence (DA Ranch). <unitdate normal="1911/1934"
+								type="inclusive">1911-1934.</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0d41d5e9-57e7-438e-9994-0127974911d9" type="box"
+							>1</container>
+						<container parent="0d41d5e9-57e7-438e-9994-0127974911d9" type="folder"
+							>8</container>
+						<unittitle>Correspondence, Possible sale to United Society of Christian
+							Endeavor. <unitdate normal="1919/1925" type="inclusive"
+								>1919-1925.</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="25085bc4-0c59-40df-9667-3d4ffd4e7b15" type="box"
+							>3</container>
+						<container parent="25085bc4-0c59-40df-9667-3d4ffd4e7b15" type="folder"
+							>1-3</container>
+						<unittitle>Correspondence, Personal: family, friends, missionary interests,
+							Indian wards, misc. <unitdate normal="1902/1933" type="inclusive"
+								>1902-1933.</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="afea5df7-ccf5-432b-9946-0c17030ce500" type="box"
+							>3</container>
+						<container parent="afea5df7-ccf5-432b-9946-0c17030ce500" type="folder"
+							>4</container>
+						<unittitle>Correspondence, Banks. <unitdate normal="1906/1928"
+								type="inclusive">1906-1928.</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Series 2: Financial Records, <unitdate normal="1908/1935"
+							type="inclusive">1908-1935.</unitdate></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container id="0c90e869-822a-4fbc-b5a7-9b373863e68d" type="box"
+							>2</container>
+						<container parent="0c90e869-822a-4fbc-b5a7-9b373863e68d" type="folder"
+							>4</container>
+						<unittitle>Check Stubs, Miscellaneous Financial Notes. <unitdate
+								normal="1917/1929" type="inclusive"
+							>1917-1929.</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f5ce56b1-3dd4-45ef-8b3f-a2643a16557e" type="box"
+							>2</container>
+						<container parent="f5ce56b1-3dd4-45ef-8b3f-a2643a16557e" type="folder"
+							>5</container>
+						<unittitle>Bills and Receipts. <unitdate normal="1908/1935" type="inclusive"
+								>1908-1935.</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2a7b9944-ae50-4f6a-b678-36d95767f0f6" type="box"
+							>2</container>
+						<container parent="2a7b9944-ae50-4f6a-b678-36d95767f0f6" type="folder"
+							>6</container>
+						<unittitle>Taxes and Assessments. <unitdate normal="1929/1934"
+								type="inclusive">1929-1934.</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b228f36f-d28e-48e9-b57b-1719a8a47cab" type="box"
+							>2</container>
+						<container parent="b228f36f-d28e-48e9-b57b-1719a8a47cab" type="folder"
+							>7</container>
+						<unittitle>Cattle Records: Sales, brands, stud book. <unitdate
+								normal="1903/1935" type="inclusive">no date.</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="79a3aa58-1ef8-43c6-84f5-a12d8910150a" type="box"
+							>2</container>
+						<container parent="79a3aa58-1ef8-43c6-84f5-a12d8910150a" type="folder"
+							>8</container>
+						<unittitle>Other Business Interests. <unitdate normal="1902/1919"
+								type="inclusive">1902-1919.</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series 3: Cattle and ranching records, <unitdate normal="1907/1935"
+							type="inclusive">1907-1935.</unitdate></unittitle>
+				</did>
+				<c02>
+					<did>
+						<container id="59c2e4ee-129b-4a85-9c1f-85ec50bebc8a" type="box"
+							>1</container>
+						<container parent="59c2e4ee-129b-4a85-9c1f-85ec50bebc8a" type="folder"
+							>9</container>
+						<unittitle>Grazing Permits. <unitdate normal="1925/1935" type="inclusive"
+								>1925-1935.</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="98e8f206-78d7-451b-921b-c3a54aea67a6" type="box"
+							>2</container>
+						<container parent="98e8f206-78d7-451b-921b-c3a54aea67a6" type="folder"
+							>1</container>
+						<unittitle>DA Ranch, Advertisement. <unitdate normal="1903/1935"
+								type="inclusive">no date.</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="47715d19-f007-4ed6-9783-8075ed4de139" type="box"
+							>2</container>
+						<container parent="47715d19-f007-4ed6-9783-8075ed4de139" type="folder"
+							>2</container>
+						<unittitle>DA Ranch, Description. <unitdate normal="1903/1935"
+								type="inclusive">no date.</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="1a7da85e-c4be-4372-8d30-d53484197d78" type="box"
+							>2</container>
+						<container parent="1a7da85e-c4be-4372-8d30-d53484197d78" type="folder"
+							>3</container>
+						<unittitle>Legal Papers, Leases. <unitdate normal="1903/1935"
+								type="inclusive">no date.</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="a2024d62-1937-45e6-91c8-1d291a74b533" type="box"
+							>2</container>
+						<container parent="a2024d62-1937-45e6-91c8-1d291a74b533" type="folder"
+							>9</container>
+						<unittitle>Clippings. <unitdate normal="1903/1935" type="inclusive">no
+								date.</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="763e071f-241e-46b1-93d1-5b2530fa68bf" type="box"
+							>3</container>
+						<container parent="763e071f-241e-46b1-93d1-5b2530fa68bf" type="folder"
+							>5-6</container>
+						<unittitle>Notes and Memos, relating to ranch operations. <unitdate
+								normal="1907/1940" type="inclusive"
+							>1907-1940.</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="caf1ef2b-aa3b-4405-b445-5154bc0c4132" type="box"
+							>3</container>
+						<container parent="caf1ef2b-aa3b-4405-b445-5154bc0c4132" type="folder"
+							>7</container>
+						<unittitle>Advertising and Business Cards. <unitdate normal="1903/1935"
+								type="inclusive">no date.</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>
