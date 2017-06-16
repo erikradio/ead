@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+		<eadid encodinganalog="852">UAAZ204</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="title">Diary of Sister Monica, <date
+						calendar="gregorian" certainty="approximate" era="ce" normal="1870"
+						type="inclusive">1870</date>
+				</titleproper>
+				<titleproper altrender="nodisplay" type="filing"> Diary of Sister Monica, </titleproper>
+				<author>Processed by Staff.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>University of Arizona Libraries, Special Collections</publisher>
+				<address>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+					<addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+				</address>
+				<date calendar="gregorian" era="ce" normal="2016">2016</date>
+				<p>Arizona Board of Regents. All Rights Reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Inventory encoded in Oxygen XML editor by Steven Burg. <date
+					 era="ce" normal="20160108">January 08, 2016</date>
+			</creation>
+			<langusage>Finding aid encoded in<language langcode="eng">
+				English.</language></langusage>
+			<descrules>Finding aid based on DACS (Describing Archives: A Content
+				Standard).</descrules>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date normal="2017-06-16">2017-06-16</date>
+				<item>This finding aid was updated in alignment with LC EAD 2.0 specifications using
+					a python script created by Erik Radio.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<archdesc encodinganalog="351$c" level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle encodinganalog="245" label="Collection Name"> Diary of Sister Monica,
+					<unitdate label="Dates" normal="1870">1870</unitdate>
+			</unittitle>
+			<unitid countrycode="US" encodinganalog="099" label="Collection Number"
+				repositorycode="US-azu">AZ 204</unitid>
+			<origination label="Creator">
+				<persname encodinganalog="100" source="lcnaf">Corrigan, Monica.</persname>
+			</origination>
+			<abstract label="Abstract">Sister Monica was a member of party of Sisters of Saint
+				Joseph of Carondelet and traveled to Tucson to establish St. Joseph's Convent. Later
+				she established St. Mary's Hospital in Tucson, Ariz. This collection is made up of a
+				diary of railway and stage journey from St. Louis, Mo. to Tucson, Ariz., April 21,
+				1870-May 26, 1870, with Sisters of Saint Joseph of Carondelet. Later it was
+				published in part as <title render="italic">The Trek of the Seven Sisters</title>,
+				Tucson, 1948.</abstract>
+			<physdesc encodinganalog="300$a" label="Physical Description"><extent>1 item (11
+					leaves)</extent></physdesc>
+			<repository label="Repository">
+				<corpname>University of Arizona Libraries, Special Collections</corpname>
+				<address>
+					<addressline>University of Arizona</addressline>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+					<addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+				</address>
+			</repository>
+			<langmaterial>Materials are in <language encodinganalog="546" langcode="eng"
+					>English.</language></langmaterial>
+		</did>
+		<accessrestrict>
+			<head>Restrictions</head>
+			<p>There are no restrictions on this collection.</p>
+		</accessrestrict>
+		<userestrict>
+			<head>Copyright</head>
+			<p>It is the responsibility of the user to obtain permission to publish from the owner
+				of the copyright (the institution, the creator of the record, the author or his/her
+				transferees, heirs, legates, or literary executors). The user agrees to indemnify
+				and hold harmless the Arizona Board of Regents for the University of Arizona, its
+				officers, employees, and agents from and against all claims made by any person
+				asserting that he or she is an owner of copyright. </p>
+		</userestrict>
+		<prefercite>
+			<head>Credit Line</head>
+			<p>Diary of Sister Monica (AZ 204). Special Collections, University of Arizona
+				Libraries.</p>
+		</prefercite>
+		<processinfo>
+			<head>Processing History</head>
+			<p>Processed by Staff.</p>
+		</processinfo>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Member of party of Sisters of Saint Joseph of Carondelet; traveled to Tucson to
+				establish St. Joseph's Convent and later established St. Mary's Hospital in Tucson,
+				Ariz.</p>
+		</bioghist>
+		<arrangement encodinganalog="351$a">
+			<head>Arrangement</head>
+			<p>This collection is organized chronologically.</p>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Diary of railway and stage journey from St. Louis, Mo. to Tucson, Ariz., April 21,
+				1870-May 26, 1870, with Sisters of Saint Joseph of Carondelet.</p>
+		</scopecontent>
+		<relatedmaterial encodinganalog="544">
+			<p>Published in part as <title render="italic">The Trek of the Seven Sisters</title>,
+				Tucson, 1948.</p>
+			<p>Typescript copy; original at St. Mary's Hospital.</p>
+		</relatedmaterial>
+		<controlaccess>
+			<persname>Corrigan, Monica, Sister -- Diaries.</persname>
+			<corpname>Sisters of St. Joseph of Carondelet.</corpname>
+			<corpname>St. Mary's Hospital (Tucson, Ariz.) -- History.</corpname>
+			<subject>Frontier and pioneer life -- Arizona.</subject>
+			<geogname>Arizona -- Description and travel.</geogname>
+		</controlaccess>
+	</archdesc>
+</ead>

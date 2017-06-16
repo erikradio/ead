@@ -1,0 +1,1905 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+  <eadid>UAAZ183</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Twin Buttes Mining and Smelting
+		  Company records
+		  <date>1903-1969 (bulk 1903-1927)</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Phyllis
+		  Ball</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp 
+		<date normal="20020717">2002-07-17</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+    <revisiondesc>
+        <change>
+            <date normal="20170322">2017-03-22</date>
+            <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+        </change>
+    </revisiondesc>
+<revisiondesc><change><date normal="2017-06-16">2017-06-16</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Twin Buttes Mining and Smelting Company
+		records
+		<date>1903-1969 (bulk 1903-1927)</date></titleproper> 
+	 <num>Collection Number: AZ 183</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Phyllis Ball</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1962</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jennie Stapp</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+    <archdesc encodinganalog="351$c" level="collection" type="inventory">
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Twin Buttes Mining
+		and Smelting Company records
+		<unitdate normal="1903/1969" type="inclusive">1903-1969 (bulk
+		  1903-1927)</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu"> AZ 183</unitid> 
+	 <origination label="Creator"> 
+		<corpname encodinganalog="110">Twin Buttes Mining and Smelting Company
+		  (Ariz.) </corpname></origination> 
+	 <abstract label="Abstract">The collection includes correspondence, minutes
+		of meetings, tax forms, ledgers, day books, bills, financial records, labor
+		reports, time cards, payroll records, and maps from the daily operations of the
+		mines, railroad and store. Also present are news clippings about Twin Buttes,
+		Arizona and photographs of the 1926, 1928, and 1938 school classes.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">36 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		 <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Twin Buttes Mining and Smelting Company records (AZ 183). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Historical Note</head> 
+	 <p>Mining operation in the Twin Buttes area, Pima County, Arizona,
+		subsequently leased or owned by Bush-Baxter, Glance Mining Company, Midland
+		Copper Company, San Xavier Extension Copper Company. In addition to its mines
+		the company operated a boarding house, store, and railroad.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into nine series:</p> 
+	 <list> 
+		<item>Series I: Administrative Papers and Correspondence,
+		  1903-1969</item> 
+		<item>Series II: Financial Records (part 1), 1904-1927</item> 
+		<item>Series III: Store Records, 1905-1912</item> 
+		<item>Series IV: Financial Records (part 2), 1903-1929</item> 
+		<item>Series V: Mine Records, 1906-1926</item> 
+		<item>Series VI: Time Cards and Books, 1906-1910</item> 
+		<item>Series VII: Identification Cards and Pay Account Records,
+		  1907-1913</item> 
+		<item>Series VIII: Railroad Records, 1904-1964</item> 
+		<item>Series IX: Miscellaneous Material, 1906-1926</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The collection includes correspondence, minutes of meetings, tax forms,
+		ledgers, day books, bills, financial records, labor reports, time cards,
+		payroll records, and maps from the daily operations of the mines, railroad and
+		store. Also present are news clippings about Twin Buttes, Arizona and
+		photographs of the 1926, 1928, and 1938 school classes.</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <corpname>Twin Buttes Mining and Smelting Company
+			 (Ariz.) -- Archives</corpname><corpname>Twin Buttes Railroad Company (Ariz.) --
+			 Records and correspondence</corpname><corpname>Bush-Baxter (Firm) -- Records and
+			 correspondence</corpname><corpname>Glance Mining Company -- Records and
+			 correspondence</corpname><corpname>Midland Copper Company -- Records and
+			 correspondence</corpname><corpname>San Xavier Extension Copper
+			 Company</corpname><subject>Copper mines and mining -- Arizona -- History --
+			 Sources</subject><subject>Mineral industries -- Arizona -- Finance --
+			 Sources</subject><subject>Railroad companies -- Arizona -- History --
+			 Sources</subject><subject>Copper miners -- History -- Sources</subject><subject>Mines and mineral resources -- Arizona -- Pima County --
+			 History -- Sources</subject><subject>Mining corporations -- Arizona -- Records and
+			 correspondence</subject><geogname>Twin Buttes (Ariz.)</geogname><genreform>Correspondence</genreform><genreform>Ledgers</genreform><genreform>Payroll</genreform><genreform>Time Cards</genreform></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Administrative Papers and Correspondence 
+			 <unitdate normal="1903/1927" type="inclusive">1903-1927</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="0ea7bb08-1033-48e1-8b62-4da73b437215" type="box">1</container> <container parent="0ea7bb08-1033-48e1-8b62-4da73b437215" type="folder">1</container> 
+			 <unittitle>Administrative Papers: Articles of Organization;
+				Prospectus</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="54e042ce-d947-4448-aefa-97221d6dea3e" type="box">1</container> <container parent="54e042ce-d947-4448-aefa-97221d6dea3e" type="folder">2</container> 
+			 <unittitle>Administrative Papers: Board of Directors meeting minutes
+				(see also box 6a)
+				<unitdate normal="1904/1905" type="inclusive">1904-1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2496fd48-0ec7-46c6-9936-043ab82371f5" type="box">1</container> <container parent="2496fd48-0ec7-46c6-9936-043ab82371f5" type="folder">3</container> 
+			 <unittitle>Administrative Papers: Federal Trade Commission reports
+				<unitdate normal="1918" type="inclusive">1918</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="926fd17e-5fbf-412f-8c51-e970817f1501" type="box">1</container> <container parent="926fd17e-5fbf-412f-8c51-e970817f1501" type="folder">4</container> 
+			 <unittitle>Administrative Papers: Forms used by the firm (blank)
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="76cb512f-fbef-4998-b6ed-81f09ea4647a" type="box">1</container> <container parent="76cb512f-fbef-4998-b6ed-81f09ea4647a" type="folder">5</container> 
+			 <unittitle>Administrative Papers: Insurance </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f5dc383f-7a09-4956-82bd-d81919a7cc0e" type="box">1</container> <container parent="f5dc383f-7a09-4956-82bd-d81919a7cc0e" type="folder">6</container> 
+			 <unittitle>Administrative Papers: Legal agreements and proposals 
+				<unitdate normal="1903/1917" type="inclusive">1903, 1905-1906, 1908, 1913,
+				  1916-1917</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4c71cf26-7ff2-4ff9-b7c2-269c8a955805" type="box">1</container> <container parent="4c71cf26-7ff2-4ff9-b7c2-269c8a955805" type="folder">7</container> 
+			 <unittitle>Administrative Papers: "Life and Times at Twin
+				Buttes"</unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes photographs, notes, meal tickets, newspaper clippings,
+				dance tickets and various miscellaneous items. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5144d7f6-17b6-49c4-ade3-3acafc59c8eb" type="box">1</container> <container parent="5144d7f6-17b6-49c4-ade3-3acafc59c8eb" type="folder">8</container> 
+			 <unittitle>Administrative Papers: Mining deeds; notices of
+				location</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="698d2864-cfc5-4bfd-8525-ba8cb20cb92d" type="box">1</container> <container parent="698d2864-cfc5-4bfd-8525-ba8cb20cb92d" type="folder">9</container> 
+			 <unittitle>Administrative Papers: Financial and administrative
+				reports
+				<unitdate normal="1906/1923" type="inclusive">1906-1923</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="bbf7034b-8097-4cd6-9acf-d12cbbb86d55" type="box">1</container> <container parent="bbf7034b-8097-4cd6-9acf-d12cbbb86d55" type="folder">10</container> 
+			 <unittitle>Administrative Papers: School District papers
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4c2b64f0-4203-4ebb-ac95-177490e69d6e" type="box">1</container> <container parent="4c2b64f0-4203-4ebb-ac95-177490e69d6e" type="folder">11</container> 
+			 <unittitle>Administrative Papers: Stockholders meetings, proxies,
+				etc. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cfb94752-2ce3-4357-acb3-502ffa9944d5" type="box">1</container> <container parent="cfb94752-2ce3-4357-acb3-502ffa9944d5" type="folder">12</container> 
+			 <unittitle>Administrative Papers: Timber reports </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="99e73ac4-33d3-4077-8b21-1a6d98020d11" type="box">1</container> <container parent="99e73ac4-33d3-4077-8b21-1a6d98020d11" type="folder">13</container> 
+			 <unittitle>Administrative Papers: Wage scales </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1065588a-37ca-48b9-96e3-c5fa83e0bb1a" type="box">1</container> <container parent="1065588a-37ca-48b9-96e3-c5fa83e0bb1a" type="folder">14</container> 
+			 <unittitle>Administrative Papers: Water analysis</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7f3d927f-9dfa-4c77-b95c-4ff7022f667c" type="box">2</container> 
+			 <unittitle>Correspondence. 
+				<unitdate normal="1904/1908" type="inclusive">1904, 1906, January 1907-May
+				  1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="27f3a6bd-9dae-477f-9e9f-5d015ca0556b" type="box">3</container> 
+			 <unittitle>Correspondence
+				<unitdate normal="1909" type="inclusive">June 1908, September
+				  1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7eb88970-abb5-4c61-b652-1ecc9a987630" type="box">4</container> 
+			 <unittitle>Correspondence 
+				<unitdate normal="1909/1912" type="inclusive">October 1909-August
+				  1912</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="07c9ecb5-b6cc-41e6-bf3b-a829000b785b" type="box">5</container> 
+			 <unittitle>Correspondence 
+				<unitdate normal="1912/1913" type="inclusive">September 1912-April
+				  1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e8f9f28d-44f9-43d2-b246-4803cc4a6728" type="box">6</container> 
+			 <unittitle>Correspondence
+				<unitdate normal="1913/1927" type="inclusive">May-July 1913,
+				  1914-1927</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6115f4b4-e1bd-4202-a618-27bb2b391c13" type="box">6a</container> <container parent="6115f4b4-e1bd-4202-a618-27bb2b391c13" type="folder">1-2</container> 
+			 <unittitle>Minutes
+				<unitdate normal="1928/1969" type="inclusive">1928-1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="112002b3-f42b-4847-8d06-caf034df4be9" type="box">6a</container> <container parent="112002b3-f42b-4847-8d06-caf034df4be9" type="folder">3</container> 
+			 <unittitle>Correspondence: Taxes 
+				<unitdate normal="1922/1924" type="inclusive">1922-1924</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b2d18652-95a4-49bd-8b1c-aa2eb19da7d3" type="box">6a</container> <container parent="b2d18652-95a4-49bd-8b1c-aa2eb19da7d3" type="folder">4-5</container> 
+			 <unittitle>Correspondence
+				<unitdate normal="1923/1929" type="inclusive">1923-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Financial Records (part 1) 
+			 <unitdate normal="1904/1927" type="inclusive">1904-1927</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Taxes, Forms and Miscellaneous Financial Papers 
+				<unitdate normal="1904/1927" type="inclusive">1904-1927</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="6ad54916-b82d-404d-ac9e-7cac74541d40" type="box">7</container> <container parent="6ad54916-b82d-404d-ac9e-7cac74541d40" type="folder">1</container> 
+				<unittitle>Taxes: Federal, Glance Mining Company 
+				  <unitdate normal="1922/1924" type="inclusive">1922-1924</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="69ffc9e9-55e0-4f8a-a52c-1836b8ea73e7" type="box">7</container> <container parent="69ffc9e9-55e0-4f8a-a52c-1836b8ea73e7" type="folder">2</container> 
+				<unittitle>Taxes: Federal, Midland Copper Company 
+				  <unitdate normal="1918/1925" type="inclusive">1918-1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="df66b34a-0494-4bb0-a2f6-6e848d4ddb15" type="box">7</container> <container parent="df66b34a-0494-4bb0-a2f6-6e848d4ddb15" type="folder">3</container> 
+				<unittitle>Taxes: Federal, San Xavier Extension Copper Company 
+				  <unitdate normal="1918/1927" type="inclusive">1918-1927</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="69d44d87-f461-48c8-b5ed-8bb5dbbf42b1" type="box">7</container> <container parent="69d44d87-f461-48c8-b5ed-8bb5dbbf42b1" type="folder">4</container> 
+				<unittitle>Taxes: State, Glance Mining Company
+				  <unitdate normal="1917/1920" type="inclusive">1917-1918,
+					 1920</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d561cdd0-92e2-45ba-8ace-96e3f247f0fe" type="box">7</container> <container parent="d561cdd0-92e2-45ba-8ace-96e3f247f0fe" type="folder">5</container> 
+				<unittitle>Taxes: State, Midland Copper Company
+				  <unitdate normal="1920/1923" type="inclusive">1920-1923</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="0f8c7a8f-90f5-43ad-821c-e0a7ca64762f" type="box">7</container> <container parent="0f8c7a8f-90f5-43ad-821c-e0a7ca64762f" type="folder">6</container> 
+				<unittitle>Taxes: State, San Xavier Extension Copper Company 
+				  <unitdate normal="1919/1923" type="inclusive">1919-1923</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ee32b030-94ca-4007-8abf-7296ea4fe744" type="box">7</container> <container parent="ee32b030-94ca-4007-8abf-7296ea4fe744" type="folder">7</container> 
+				<unittitle>Taxes: State, Twin Buttes Mining and Smelting Company 
+				  <unitdate normal="1907/1911" type="inclusive">1907-1911</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b43bc163-ed19-4057-934e-4173acd26242" type="box">7</container> <container parent="b43bc163-ed19-4057-934e-4173acd26242" type="folder">8-14</container> 
+				<unittitle>Financial Papers: Miscellaneous, fragments and work
+				  sheets
+				  <unitdate normal="1904/1926" type="inclusive">1904-1926</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="01674d6b-c17a-4263-b481-f243ddf29db3" type="box">7</container> <container parent="01674d6b-c17a-4263-b481-f243ddf29db3" type="folder">15</container> 
+				<unittitle>Unidentified record book
+				  <unitdate normal="1906-01/1906-07" type="inclusive">January-July
+					 1906</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Ledgers and Cash Accounts 
+				<unitdate normal="1906/1918" type="inclusive">1906-1918</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="5a5fd62d-995d-4572-a40e-3a154562ae4f" type="box">8</container> 
+				<unittitle>Ledgers
+				  <unitdate normal="1906/1907" type="inclusive">1906-1907</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes ledgers from:</p> 
+				<list> 
+				  <item>July-September 1906</item> 
+				  <item>October 1906</item> 
+				  <item>October 1906-April 1907 (Butcher Shop)</item> 
+				</list> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f2955f0f-2c3e-42eb-9ad0-f619fc2fa842" type="box">9</container> 
+				<unittitle>Ledgers
+				  <unitdate normal="1906/1918" type="inclusive">1906-1918</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes ledgers from:</p> 
+				<list> 
+				  <item>1906-1910</item> 
+				  <item>May-June 1912</item> 
+				  <item>July 1912-April 1913</item> 
+				  <item>1916-1918 (San Xavier Extension Copper Company)</item> 
+				</list> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2446c262-602f-4351-97f9-7fe1f111f646" type="volume">10</container> 
+				<unittitle>Cash Account
+				  <unitdate normal="1906-08/1907-02" type="inclusive">August 1906-February
+					 1907</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>An additional Cash Account Record for 1913 is in box 67. </p> 
+			 </scopecontent> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Store Records
+			 <unitdate normal="1905/1912" type="inclusive">1905-1912</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Store Day Books and Journal
+				<unitdate normal="1905/1911" type="inclusive">1905-1911</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="2fb11e70-af69-4b93-982c-408e417ff301" type="volume">10</container> 
+				<unittitle>Store Day Book
+				  <unitdate normal="19100820/19101222" type="inclusive">August 20-December 22,
+					 1910</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b83760dc-45b8-4cb1-95dc-77c02df13e61" type="volume">11</container> 
+				<unittitle>Journal
+				  <unitdate normal="1907-04/1907-12" type="inclusive">April-December
+					 1907</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="449f9f32-ae2d-4884-bdee-8b73bea4cf6c" type="volume">11</container> 
+				<unittitle>Store Day Book
+				  <unitdate normal="19101126/19110214" type="inclusive">November 26, 1910-February
+					 14, 1911</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="90418f1d-3a6f-41b2-b8fa-5e353199c1aa" type="box">12</container> 
+				<unittitle>Store Day Books
+				  <unitdate normal="1905/1907" type="inclusive">1905-1907</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Thirteen books with the following date ranges:</p> 
+				<list> 
+				  <item>May 12, 1905-February 1906</item> 
+				  <item>February-March 1906</item> 
+				  <item>March 10-30, 1906</item> 
+				  <item>March 28-April 16, 1906</item> 
+				  <item>April 17-May 5, 1906</item> 
+				  <item>May-June 1906</item> 
+				  <item>June 26 -August 7, 1906</item> 
+				  <item>August 7-31, 1906</item> 
+				  <item>September 1-30, 1906</item> 
+				  <item>October 1-30, 1906</item> 
+				  <item>October 30-December 2, 1906 (Boletos and railroad fares)
+					 </item> 
+				  <item>September 3-December 8, 1906 (Boletos)</item> 
+				  <item>November 17, 1906-March 13, 1907</item> 
+				</list> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="fab064cd-34ed-45da-9d8d-b55695109729" type="box">13</container> 
+				<unittitle>Store Day Books
+				  <unitdate normal="1907/1910" type="inclusive">1907-1910</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Seven books with the following date ranges:</p> 
+				<list> 
+				  <item>April 5-June 22, 1907 (includes individual accounts)</item>
+				  
+				  <item>June 24-September 30, 1907</item> 
+				  <item>May 25-October 9, 1907 (Butcher Shop)</item> 
+				  <item>October 1907-April 1908 (includes individual
+					 accounts)</item> 
+				  <item>May 1-August 31, 1908</item> 
+				  <item>August-November 1909 (includes individual accounts)</item> 
+				  <item>December 1909-May 1910 (includes individual
+					 accounts)</item> 
+				</list> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="740c03c8-0262-440c-8afc-30c414b5e28d" type="box">14</container> 
+				<unittitle>Store Day Books
+				  <unitdate normal="1910/1911" type="inclusive">1910-1911</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Six books with the following date ranges:</p> 
+				<list> 
+				  <item>June 6-September 27, 1910</item> 
+				  <item>October 20, 1910-January 16, 1911</item> 
+				  <item>June 1911</item> 
+				  <item>February 14-June 4, 1911 ("Book #1")</item> 
+				  <item>January 17-May 22, 1911 ("Book #2")</item> 
+				  <item>March 8-July 8, 1911 ("Book #3")</item> 
+				</list> 
+			 </scopecontent> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Miscellaneous Store Papers 
+				<unitdate normal="1906/1912" type="inclusive">1906-1912</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="2a7964ee-091e-4008-acef-f0a4c91312a5" type="box">15</container> <container parent="2a7964ee-091e-4008-acef-f0a4c91312a5" type="folder">1</container> 
+				<unittitle>Coupon Books</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d5ff5a70-d5bd-45bd-a453-6a062ed8b901" type="box">15</container> <container parent="d5ff5a70-d5bd-45bd-a453-6a062ed8b901" type="folder">2</container> 
+				<unittitle>Inventories
+				  <unitdate normal="1907" type="inclusive">August 31, 1906, June
+					 30, 1907, October 25, 1907</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>October inventory includes also materials in the assay office,
+				  mines, and buildings in Twin Buttes.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="97648480-8428-4705-9b0e-4a581521ed27" type="box">15</container> <container parent="97648480-8428-4705-9b0e-4a581521ed27" type="folder">3</container> 
+				<unittitle>Invoice records 
+				  <unitdate normal="1907/1911" type="inclusive">1907,
+					 1910-1911</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ef6c762c-16fc-4d59-9d2f-9e3772ffb7cf" type="box">15</container> <container parent="ef6c762c-16fc-4d59-9d2f-9e3772ffb7cf" type="folder">4</container> 
+				<unittitle>Order sheet
+				  <unitdate normal="1907-02/1907-04" type="inclusive">February-April,
+					 1907</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4930f43e-4ffd-4243-bcbe-67ae73b06b0e" type="box">15</container> <container parent="4930f43e-4ffd-4243-bcbe-67ae73b06b0e" type="folder">5</container> 
+				<unittitle>Sales slips</unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IV: Financial Records (part 2) 
+			 <unitdate normal="1903/1929" type="inclusive">1903-1929</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="938b990e-a68f-4278-b98e-ec8b4603ce50" type="box">16</container> 
+			 <unittitle>Bills: Twin Buttes Mining and Smelting Company 
+				<unitdate normal="1903/1906" type="inclusive">1903-1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a737d75c-5703-46da-b651-57cc0a6ebd0c" type="box">17</container> 
+			 <unittitle>Bills: Twin Buttes Mining and Smelting Company 
+				<unitdate normal="1907/1909" type="inclusive">1907-July
+				  1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f1c79ca4-7657-4ca4-bab0-89e3268e7301" type="box">18</container> 
+			 <unittitle>Bills: Twin Buttes Mining and Smelting Company
+				<unitdate normal="1909-08/1910-05" type="inclusive">August 1909-May
+				  1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fd7f13d7-b888-4b06-bb13-8e4594c591dc" type="box">19</container> 
+			 <unittitle>Bills: Twin Buttes Mining and Smelting Company
+				<unitdate normal="1910-06/1911-12" type="inclusive">June 1910-December
+				  1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="231abc8e-0ae8-4cfc-b693-207a123399a3" type="box">20</container> 
+			 <unittitle>Bills: Twin Buttes Mining and Smelting Company
+				Bush-Baxter and Glance Mining Company. 
+				<unitdate normal="1912-01/1917-05" type="inclusive">January 1912-May
+				  1917</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8ac0cf67-123f-40e4-8399-2d0a9cd03ebf" type="box">21</container> 
+			 <unittitle>Bills: Glance Mining Company, Midland Copper Company and
+				San Xavier Extension Copper Company 
+				<unitdate normal="1917-06/1923-06" type="inclusive">June 1917-June
+				  1923</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6d5e14dd-db56-4d6f-86fc-786b818228ea" type="box">22</container> 
+			 <unittitle>Bills: Midland Copper Company 
+				<unitdate normal="1923-07/1925-08" type="inclusive">July 1923-August
+				  1925</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b870310c-0f54-42b9-b811-be3540b2f197" type="box">23</container> 
+			 <unittitle>Bills: Midland Copper Company 
+				<unitdate normal="1925-09/1927-12" type="inclusive">September 1925-December
+				  1927</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d2b629da-738d-4dfc-b3de-bf44fd2dc392" type="box">24</container> 
+			 <unittitle>Albert Steinfeld and Company Bills: Twin Buttes Mining and
+				Smelting Company, Twin Buttes Railroad 
+				<unitdate normal="1904/1906" type="inclusive">1904-1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="03ff33b2-5541-499f-8ba1-1b3062621cf1" type="box">25</container> 
+			 <unittitle>Albert Steinfeld and Company Bills: Twin Buttes Mining and
+				Smelting Company, Twin Buttes Railroad
+				<unitdate normal="1906/1907" type="inclusive">1906-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="80773ad2-99c6-4851-80ba-971ef541f040" type="box">26</container> 
+			 <unittitle>Albert Steinfeld and Company Bills: Twin Buttes Mining and
+				Smelting Company, Twin Buttes Railroad 
+				<unitdate normal="1908/1909" type="inclusive">1908-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="26c7f82a-746e-4bf5-be6b-833f21cda321" type="box">27</container> 
+			 <unittitle>Albert Steinfeld and Company Bills: Twin Buttes Mining and
+				Smelting Company, Bush-Baxter and Glance Mining Company 
+				<unitdate normal="1910/1917" type="inclusive">1910-1917</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f2883986-be06-44d3-bfc6-73178d20615d" type="box">28</container> 
+			 <unittitle>Albert Steinfeld and Company Bills: Glance Mining Company,
+				San Xavier Extension Copper Company and Midland Copper Company 
+				<unitdate normal="1918/1926" type="inclusive">1918-1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Miscellaneous Business Records
+				<unitdate normal="1907/1917" type="inclusive">1907-1917</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="6a6fdb4b-09b3-477e-a745-acb969f6524a" type="box">29</container> <container parent="6a6fdb4b-09b3-477e-a745-acb969f6524a" type="folder">1</container> 
+				<unittitle>Checks</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e41a9467-b69e-4d5b-b636-64f17f19e990" type="box">29</container> <container parent="e41a9467-b69e-4d5b-b636-64f17f19e990" type="folder">2-3</container> 
+				<unittitle>Orders for merchandise 
+				  <unitdate normal="1907/1911" type="inclusive">1907-1908,
+					 1910-1911</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4a35d3b8-ddbd-41ee-a5ac-54c030973d9c" type="box">29</container> <container parent="4a35d3b8-ddbd-41ee-a5ac-54c030973d9c" type="folder">4</container> 
+				<unittitle>Pay check register 
+				  <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="bba9f8da-9016-443c-bb61-d08360475d90" type="box">29</container> <container parent="bba9f8da-9016-443c-bb61-d08360475d90" type="folder">5</container> 
+				<unittitle>Receipts </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="583967fb-5535-4896-bc99-c84720e0e373" type="box">29</container> <container parent="583967fb-5535-4896-bc99-c84720e0e373" type="folder">6</container> 
+				<unittitle>Time checks and stubs </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="bf1b4335-2369-41eb-b0ba-6b24d5e5be61" type="box">29</container> <container parent="bf1b4335-2369-41eb-b0ba-6b24d5e5be61" type="folder">7</container> 
+				<unittitle>Vouchers </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="26a5ad56-98fd-4a2a-a249-867979094906" type="box">30</container> 
+				<unittitle>Check stubs: Twin Buttes Mining and Smelting Company (12
+				  books)
+				  <unitdate normal="1908/1913" type="inclusive">1908-1913</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c7096cea-67f7-493e-89d4-be9de9ada23f" type="box">30</container> 
+				<unittitle>Check stubs: Bush-Baxter (10 books) 
+				  <unitdate normal="1916" type="inclusive">1912, 1914,
+					 1916</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9b219c33-6335-4922-b2c4-3a1a7272cb18" type="box">30</container> 
+				<unittitle>Check stubs: Glance Mining Company (2 books) 
+				  <unitdate normal="1916/1917" type="inclusive">August 1916, April-May
+					 1917</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="045886e8-6eeb-47df-aaf5-4ac7449be197" type="box">30</container> 
+				<unittitle>Check stubs: Midland Copper Company (1 book) 
+				  <unitdate normal="19170519/19190319" type="inclusive">May 19, 1917-March 19,
+					 1919</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="01c94678-ae37-4ce7-9c4a-8ab81d8fb998" type="box">31</container> 
+				<unittitle>Check stubs: Midland Copper Company (17 books)
+				  <unitdate normal="1919-07/1925-11" type="inclusive">July 1919-November
+					 1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="3307c0df-6796-490c-a928-770723dad03e" type="box">31</container> 
+				<unittitle>Check stubs: San Xavier Extension Copper Company (1
+				  book)
+				  <unitdate normal="1920-01/1921-04" type="inclusive">January 1920-April
+					 1921</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ec96d4fc-50c8-43f2-92c9-1a3bc5e07d85" type="box">32</container> <container parent="ec96d4fc-50c8-43f2-92c9-1a3bc5e07d85" type="folder">1</container> 
+				<unittitle>Deposit slips: Twin Buttes Mining and Smelting Company 
+				  <unitdate normal="1906/1911" type="inclusive">1906-1911</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="fb4068b5-ed88-4cc2-be72-438716860653" type="box">32</container> <container parent="fb4068b5-ed88-4cc2-be72-438716860653" type="folder">1</container> 
+				<unittitle>Deposit slips: Twin Buttes Railroad 
+				  <unitdate normal="1907/1920" type="inclusive">1907-1920</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a1a51519-021e-433f-9396-719cc1f24789" type="box">32</container> <container parent="a1a51519-021e-433f-9396-719cc1f24789" type="folder">1</container> 
+				<unittitle>Deposit slips: San Xavier Extension Copper Company 
+				  <unitdate normal="1916/1918" type="inclusive">1916-1918</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="65cbb284-30a1-4f5e-b8e6-411ae2fbc6e3" type="box">32</container> <container parent="65cbb284-30a1-4f5e-b8e6-411ae2fbc6e3" type="folder">2</container> 
+				<unittitle>Deposit slips: Bush-Baxter
+				  <unitdate normal="1915-05/1915-08" type="inclusive">May-August
+					 1915</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="fc0d9e3a-1f3f-46fc-b2fd-64085d5e2b06" type="box">32</container> <container parent="fc0d9e3a-1f3f-46fc-b2fd-64085d5e2b06" type="folder">2</container> 
+				<unittitle>Deposit slips: Glance Mining Company 
+				  <unitdate normal="1918/1920" type="inclusive">1918-1920</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1353fb67-5f60-4291-ab85-d7f1564f29c5" type="box">32</container> <container parent="1353fb67-5f60-4291-ab85-d7f1564f29c5" type="folder">2</container> 
+				<unittitle>Deposit slips: Midland Copper Company
+				  <unitdate normal="1918/1927" type="inclusive">1918-1927</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e8ed6615-e5c4-4262-9042-5a58b651097e" type="box">32</container> <container parent="e8ed6615-e5c4-4262-9042-5a58b651097e" type="folder">3</container> 
+				<unittitle>Bank Statements: Twin Buttes Railroad 
+				  <unitdate normal="1908" type="inclusive">1908</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b6d22e77-79db-495d-a014-07e5b2c22ba2" type="box">32</container> <container parent="b6d22e77-79db-495d-a014-07e5b2c22ba2" type="folder">3</container> 
+				<unittitle>Bank Statements: Twin Buttes Mining and Smelting
+				  Company
+				  <unitdate normal="1912/1913" type="inclusive">1912-1913</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="055ca751-9f00-4932-be79-3c49ba8589c0" type="box">32</container> <container parent="055ca751-9f00-4932-be79-3c49ba8589c0" type="folder">4</container> 
+				<unittitle>Bank statements: Bush-Baxter
+				  <unitdate normal="1914/1917" type="inclusive">1914-1917</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="169b3277-a2d4-4f92-a07a-37076be4aee8" type="box">32</container> <container parent="169b3277-a2d4-4f92-a07a-37076be4aee8" type="folder">5</container> 
+				<unittitle>Bank statements: Glance Mining Company 
+				  <unitdate normal="1916/1921" type="inclusive">1916-1921</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c44ff9ac-6445-4bbf-90fb-28b22982c27b" type="box">32</container> <container parent="c44ff9ac-6445-4bbf-90fb-28b22982c27b" type="folder">6</container> 
+				<unittitle>Bank statements: San Xavier Extension Copper Company
+				  <unitdate normal="1917/1923" type="inclusive">1917, 1920,
+					 1922-1923</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="68ebc784-5f41-471c-9a2b-6982ed29811f" type="box">32</container> <container parent="68ebc784-5f41-471c-9a2b-6982ed29811f" type="folder">7</container> 
+				<unittitle>Bank statements: Midland Copper Company 
+				  <unitdate normal="1917/1928" type="inclusive">1917-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c53c33b4-4461-4b75-b048-925172c19a46" type="box">32</container> <container parent="c53c33b4-4461-4b75-b048-925172c19a46" type="folder">8</container> 
+				<unittitle>Check stubs: Midland Copper Company (6 books) 
+				  <unitdate normal="1925/1928" type="inclusive">1925-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="50701274-1c2f-4d00-9b07-d4adccef43bc" type="box">33</container> <container parent="50701274-1c2f-4d00-9b07-d4adccef43bc" type="folder">1-2</container> 
+				<unittitle>Voucher Records: Twin Buttes Railroad
+				  <unitdate normal="1904-12/1906-08" type="inclusive">December 1904-July 1906,
+					 January-August 1906</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="6dc191f7-43e1-4c6a-bf87-2e08d2af233d" type="box">33</container> <container parent="6dc191f7-43e1-4c6a-bf87-2e08d2af233d" type="folder">3-4</container> 
+				<unittitle>Voucher Records: Twin Buttes Mining and Smelting
+				  Company 
+				  <unitdate normal="1904-10/1906-11" type="inclusive">October 1904, December 1904,
+					 February-April 1905, January-July 1906, April -November
+					 1907</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c672a1bd-8170-4381-a4db-d8f89a0df00b" type="box">33</container> <container parent="c672a1bd-8170-4381-a4db-d8f89a0df00b" type="folder">5</container> 
+				<unittitle>Voucher Records: Twin Buttes Mining and Smelting Company
+				  and Twin Buttes Railroad 
+				  <unitdate normal="1905-12/1906-08" type="inclusive">December 1905-August
+					 1906</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="37362ec6-ffaa-4ffe-aa9a-599ab5b223c1" type="box">33</container> <container parent="37362ec6-ffaa-4ffe-aa9a-599ab5b223c1" type="folder">6</container> 
+				<unittitle>Voucher Records: San Xavier Extension Copper Company 
+				  <unitdate normal="1916/1918" type="inclusive">1916-1918</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Payrolls, 
+				<unitdate normal="1904/1929" type="inclusive">1904-1929</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="6aee9ba6-34e8-4b9c-8c5a-95bc0d47da4d" type="box">34</container> <container parent="6aee9ba6-34e8-4b9c-8c5a-95bc0d47da4d" type="folder">1</container> 
+				<unittitle>Payrolls: Twin Buttes Mining and Smelting Company 
+				  <unitdate normal="1904-02/1904-12" type="inclusive">February-March 1904,
+					 May-July 1904, October 1904, December 1904</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f7d8ab8a-5049-4f9c-8179-83afdd414b84" type="box">34</container> <container parent="f7d8ab8a-5049-4f9c-8179-83afdd414b84" type="folder">2</container> 
+				<unittitle>Payrolls: Twin Buttes Mining and Smelting Company 
+				  <unitdate normal="1905-01/1905-07" type="inclusive">January-July
+					 1905</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="40e28743-b9de-4abb-bec0-ed71e139edd3" type="box">34</container> <container parent="40e28743-b9de-4abb-bec0-ed71e139edd3" type="folder">2</container> 
+				<unittitle>Payrolls: Twin Buttes Railroad
+				  <unitdate normal="1905-01/1905-11" type="inclusive">January-February 1905,
+					 April-July 1905, September-November 1905</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ba396440-73c8-40c9-83f5-7ca8cdc14701" type="box">34</container> <container parent="ba396440-73c8-40c9-83f5-7ca8cdc14701" type="folder">3</container> 
+				<unittitle>Payrolls: Twin Buttes Mining and Smelting Company 
+				  <unitdate normal="1906-01/1906-02" type="inclusive">January-February
+					 1906</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a5f39dd3-6903-4f77-8644-17264925eb8d" type="box">34</container> <container parent="a5f39dd3-6903-4f77-8644-17264925eb8d" type="folder">3</container> 
+				<unittitle>Payrolls: Twin Buttes Railroad
+				  <unitdate normal="1906-01/1906-05" type="inclusive">January-February 1906, May
+					 1906</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="96caea9e-f429-4882-b8a6-5d1653bcb21b" type="box">34</container> <container parent="96caea9e-f429-4882-b8a6-5d1653bcb21b" type="folder">4</container> 
+				<unittitle>Payrolls: Twin Buttes Railroad 
+				  <unitdate normal="1907-12/1908-12" type="inclusive">December 1907,
+					 January-December 1908</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9a5ba53a-05ef-429d-8852-5a799b3c0f48" type="box">34</container> <container parent="9a5ba53a-05ef-429d-8852-5a799b3c0f48" type="folder">5</container> 
+				<unittitle>Payrolls: Twin Buttes Mining and Smelting Company
+				  <unitdate normal="1909-05/1909-12" type="inclusive">May-December
+					 1909</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="926c69a7-529d-4fed-ac9f-4ee183fa64a7" type="box">34</container> <container parent="926c69a7-529d-4fed-ac9f-4ee183fa64a7" type="folder">5</container> 
+				<unittitle>Payrolls: Twin Buttes Railroad
+				  <unitdate normal="1909-01/1909-10" type="inclusive">January-October
+					 1909</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="747be7ff-490b-4c7e-821b-fc6d4d1b1335" type="box">34</container> <container parent="747be7ff-490b-4c7e-821b-fc6d4d1b1335" type="folder">6</container> 
+				<unittitle>Payrolls: Twin Buttes Mining and Smelting Company
+				  <unitdate normal="1910-01/1910-12" type="inclusive">January-December
+					 1910</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="29ec21ed-75a4-461b-b7fa-baee300b3a2d" type="box">34</container> <container parent="29ec21ed-75a4-461b-b7fa-baee300b3a2d" type="folder">6</container> 
+				<unittitle>Payrolls: Twin Buttes Railroad
+				  <unitdate normal="1910-01/1910-12" type="inclusive">January-December
+					 1910</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="21104266-a75d-4e64-bfdf-6b4752129e91" type="box">34</container> <container parent="21104266-a75d-4e64-bfdf-6b4752129e91" type="folder">7</container> 
+				<unittitle>Payrolls: Twin Buttes Mining and Smelting Company
+				  <unitdate normal="1911-01/1911-03" type="inclusive">January-March
+					 1911</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ef1f4343-9022-4ddc-acd3-3cdf4ebee64c" type="box">34</container> <container parent="ef1f4343-9022-4ddc-acd3-3cdf4ebee64c" type="folder">7</container> 
+				<unittitle>Payrolls: Twin Buttes Railroad
+				  <unitdate normal="1911-01/1911-03" type="inclusive">January-March
+					 1911</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d0cac552-743a-4e50-b64b-92a11d9d2d79" type="box">34</container> <container parent="d0cac552-743a-4e50-b64b-92a11d9d2d79" type="folder">7</container> 
+				<unittitle>Payrolls: Twin Buttes Mining and Smelting Company 
+				  <unitdate normal="1913-01/1913-06" type="inclusive">February-April 1913, June
+					 1913</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2a7502d1-9ca3-4af8-89ff-f0063ac98a93" type="box">35</container> <container parent="2a7502d1-9ca3-4af8-89ff-f0063ac98a93" type="folder">1</container> 
+				<unittitle>Payrolls: Glance Mining Company, Bush-Baxter, Railroad 
+				  <unitdate normal="1915-12/1916-12" type="inclusive">December 1915,
+					 January-February 1916, May-December 1916</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4369bad4-317f-4677-b8ee-bec9933f6acc" type="box">35</container> <container parent="4369bad4-317f-4677-b8ee-bec9933f6acc" type="folder">2</container> 
+				<unittitle>Payrolls: Glance Mining Company, Bush-Baxter, Railroad
+				  (some parts incomplete)
+				  <unitdate normal="1917-01/1917-12" type="inclusive">January-December
+					 1917</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="0631178a-8181-4691-ae02-2d13c56784ff" type="box">35</container> <container parent="0631178a-8181-4691-ae02-2d13c56784ff" type="folder">3</container> 
+				<unittitle>Payrolls: Glance Mining Company, Bush-Baxter, Railroad
+				  (some parts incomplete)
+				  <unitdate normal="1918-01/1918-12" type="inclusive">January-December
+					 1918</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c35b1e1e-9439-4276-8f19-50c77205d0ca" type="box">35</container> <container parent="c35b1e1e-9439-4276-8f19-50c77205d0ca" type="folder">4</container> 
+				<unittitle>Payrolls: Glance Mining Company, Bush-Baxter, Railroad
+				  <unitdate normal="1923/1925" type="inclusive">November 1923, 1925
+					 (fragment)</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ba54d7c8-7ace-4e67-abc9-02f1322aa8b5" type="box">35</container> <container parent="ba54d7c8-7ace-4e67-abc9-02f1322aa8b5" type="folder">5</container> 
+				<unittitle>Payrolls: Midland Copper Company
+				  <unitdate normal="1919/1920" type="inclusive">March 1919, June-October
+					 1919, December 1919, June 1920, October-November 1920</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="22fc9b8c-c297-4edc-a37d-446b92c50646" type="box">35</container> <container parent="22fc9b8c-c297-4edc-a37d-446b92c50646" type="folder">6</container> 
+				<unittitle>Payrolls: San Xavier Extension Copper Company 
+				  <unitdate normal="1916/1929" type="inclusive">October-December 1916, 1917,
+					 January 1918, November-December 1918, January 1919, January-October 1920,
+					 December 1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series V: Mine Records 
+			 <unitdate normal="1906/1926" type="inclusive">1906-1926</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="62317a79-8ad4-47cd-8d95-3fed6544bf72" type="box">36</container> <container parent="62317a79-8ad4-47cd-8d95-3fed6544bf72" type="folder">1-6</container> 
+			 <unittitle>Mine Records: Assay reports 
+				<unitdate normal="1907/1926" type="inclusive">1907, 1913-1920, 1922, 1924,
+				  1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="09f3b9c4-6066-4951-8550-72e86fdc4571" type="box">36</container> <container parent="09f3b9c4-6066-4951-8550-72e86fdc4571" type="folder">7</container> 
+			 <unittitle>Mine Records: Lumber yard issue slips 
+				<unitdate normal="1906/1907" type="inclusive">1906-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c684ddee-f735-496e-8ae5-c406e15a7234" type="box">36</container> <container parent="c684ddee-f735-496e-8ae5-c406e15a7234" type="folder">8</container> 
+			 <unittitle>Mine Records: Ore shipping reports 
+				<unitdate normal="1912/1913" type="inclusive">1912-1913?</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5a51558e-bc71-4024-981f-e24eb32d3f6e" type="box">36</container> <container parent="5a51558e-bc71-4024-981f-e24eb32d3f6e" type="folder">9</container> 
+			 <unittitle>Mine Records: Survey field notes </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0de091af-2201-4bc8-85f5-b66d5d9ce571" type="box">37</container> 
+			 <unittitle>Mine Records: Work reports 
+				<unitdate normal="1906/1926" type="inclusive">1906-1910, 1915,
+				  1925-1926</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Reports consist of notes of individual miners; some of these are
+				on printed forms other are on scraps of paper. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9befd138-e00d-4a94-98cc-8897e9e0391e" type="box">38</container> <container parent="9befd138-e00d-4a94-98cc-8897e9e0391e" type="folder">1</container> 
+			 <unittitle>Mine Records: Inventories of mine equipment (see also box
+				15)
+				<unitdate normal="1916/1926" type="inclusive">1916-1918, 1920,
+				  1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4a04500a-9a04-4f9b-9726-2c0f4479a362" type="box">38</container> <container parent="4a04500a-9a04-4f9b-9726-2c0f4479a362" type="folder">2-3</container> 
+			 <unittitle>Mine Records: Daily Mine Tally Report
+				<unitdate normal="1916/1919" type="inclusive">September-October 1916,
+				  September-October 1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="93b4ebdc-eb83-4a71-ba19-c94c89addfb6" type="box">38</container> <container parent="93b4ebdc-eb83-4a71-ba19-c94c89addfb6" type="folder">4</container> 
+			 <unittitle>Mine Records: Warehouse requisitions 
+				<unitdate normal="1916/1925" type="inclusive">1916-1925</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b14dcab6-ef30-40ce-8324-bf38fa64ae1a" type="box">38</container> <container parent="b14dcab6-ef30-40ce-8324-bf38fa64ae1a" type="folder">5</container> 
+			 <unittitle>Mine Records: Daily powder reports </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0e6d6d60-ecf1-4500-bad3-2e4f78706c73" type="box">38</container> <container parent="0e6d6d60-ecf1-4500-bad3-2e4f78706c73" type="folder">6</container> 
+			 <unittitle>Mine Records: Memos regarding powder, caps, and fuses
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="75b97436-fe13-4741-9675-ec08ed534869" type="box">38</container> <container parent="75b97436-fe13-4741-9675-ec08ed534869" type="folder">7</container> 
+			 <unittitle>Mine Records: Stock record cards </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0f39a0e8-0747-4b6c-9b43-4bdf5060c6fe" type="box">38</container> <container parent="0f39a0e8-0747-4b6c-9b43-4bdf5060c6fe" type="folder">8</container> 
+			 <unittitle>Mine Records: Time cards, (Twin Buttes Mining and Smelting
+				Company?) 
+				<unitdate normal="1913" type="inclusive">April
+				  1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a4674d00-411c-4ad7-83bc-2f0fbd0bb2a8" type="box">38</container> <container parent="a4674d00-411c-4ad7-83bc-2f0fbd0bb2a8" type="folder">9</container> 
+			 <unittitle>Mine Records: Time cards, (Midland Copper Company) 
+				<unitdate normal="1924/1926" type="inclusive">1924-1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="053e376d-b007-46a5-b876-a89523faf274" type="box">38</container> <container parent="053e376d-b007-46a5-b876-a89523faf274" type="folder">10</container> 
+			 <unittitle>Mine Records: Pay rate job sheet </unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VI: Time Cards and Books
+			 <unitdate normal="1906/1910" type="inclusive">1906-1910</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="53b98732-71bc-4da9-abe7-a61f133f7b57" type="box">39</container> <container parent="53b98732-71bc-4da9-abe7-a61f133f7b57" type="folder">1</container> 
+			 <unittitle>Time cards: Assay office
+				<unitdate normal="1907/1909" type="inclusive">1907-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="eddf9bc8-ab06-407a-8ea1-d370120e25cb" type="box">39</container> <container parent="eddf9bc8-ab06-407a-8ea1-d370120e25cb" type="folder">2</container> 
+			 <unittitle>Time cards: Boarding house 
+				<unitdate normal="1907/1908" type="inclusive">1907-1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6f3a4042-aaa0-47f5-9ae1-e7de6dbb2bcb" type="box">39</container> <container parent="6f3a4042-aaa0-47f5-9ae1-e7de6dbb2bcb" type="folder">3</container> 
+			 <unittitle>Time cards: Bridge gang 
+				<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="051395c4-955c-4cd4-8af4-57e170a3fd25" type="box">39</container> <container parent="051395c4-955c-4cd4-8af4-57e170a3fd25" type="folder">4</container> 
+			 <unittitle>Time cards: Bunk house 
+				<unitdate normal="1909/1910" type="inclusive">1909-1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0af32797-2b29-45fb-8b14-f80582a14109" type="box">39</container> <container parent="0af32797-2b29-45fb-8b14-f80582a14109" type="folder">4</container> 
+			 <unittitle>Time cards: Butcher shop 
+				<unitdate normal="1906/1907" type="inclusive">1906-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cc95cfbe-819d-436d-a15a-77f7a7b27cf8" type="box">39</container> <container parent="cc95cfbe-819d-436d-a15a-77f7a7b27cf8" type="folder">5-7</container> 
+			 <unittitle>Time cards: Camp
+				<unitdate normal="1906-12/1909-11" type="inclusive">December 1906-November
+				  1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="79072816-0f9e-4a9d-9478-2f7e0375050f" type="box">40</container> <container parent="79072816-0f9e-4a9d-9478-2f7e0375050f" type="folder">1</container> 
+			 <unittitle>Time cards: Center Group 
+				<unitdate normal="1908/1910" type="inclusive">1908-1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a357d5c6-f664-44bb-b8ad-04c2b4dab76e" type="box">40</container> <container parent="a357d5c6-f664-44bb-b8ad-04c2b4dab76e" type="folder">2</container> 
+			 <unittitle>Time cards: Copper Hill Mine 
+				<unitdate normal="1906/1908" type="inclusive">1906-1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c89806ea-66cf-4aeb-baa4-15042de87f99" type="box">40</container> <container parent="c89806ea-66cf-4aeb-baa4-15042de87f99" type="folder">3</container> 
+			 <unittitle>Time cards: Copper King Mine 
+				<unitdate normal="1906/1907" type="inclusive">1906-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="64e9fcbd-c2c8-48e8-8b4c-e0ca167392a7" type="box">40</container> <container parent="64e9fcbd-c2c8-48e8-8b4c-e0ca167392a7" type="folder">3</container> 
+			 <unittitle>Time cards: Copper Prince Mine 
+				<unitdate normal="1906/1908" type="inclusive">1906-1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="212b3f4b-733e-47f6-acf9-b268263573a0" type="box">40</container> <container parent="212b3f4b-733e-47f6-acf9-b268263573a0" type="folder">3</container> 
+			 <unittitle>Time cards: Copper Glance Mine
+				<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="872c6d8a-bbd0-47aa-849e-205fb2cbdc5f" type="box">40</container> <container parent="872c6d8a-bbd0-47aa-849e-205fb2cbdc5f" type="folder">4</container> 
+			 <unittitle>Time cards: Corral 
+				<unitdate normal="1907/1909" type="inclusive">1907-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="520f80ac-5e47-4893-b43c-add142c6032f" type="box">40</container> <container parent="520f80ac-5e47-4893-b43c-add142c6032f" type="folder">5</container> 
+			 <unittitle>Time cards: Kitchen 
+				<unitdate normal="1906/1907" type="inclusive">1906-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8bb906c8-ae52-4c56-ba5b-cb0940f1273a" type="box">40</container> <container parent="8bb906c8-ae52-4c56-ba5b-cb0940f1273a" type="folder">6</container> 
+			 <unittitle>Time cards: Patenting Claims 
+				<unitdate normal="1908/1909" type="inclusive">1908-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6fe45fa6-bcd1-42e3-a928-2bbd45f69ec9" type="box">40</container> <container parent="6fe45fa6-bcd1-42e3-a928-2bbd45f69ec9" type="folder">7</container> 
+			 <unittitle>Time cards: Senator Stewart Mine
+				<unitdate normal="1906/1908" type="inclusive">1906-1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ba8cab93-79da-4ab7-8a96-374c444fd35d" type="box">40</container> <container parent="ba8cab93-79da-4ab7-8a96-374c444fd35d" type="folder">7</container> 
+			 <unittitle>Time cards: Twin Buttes Group
+				<unitdate normal="1908" type="inclusive">1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e68b451a-b7cc-4230-9730-dc9f8808b844" type="box">40</container> <container parent="e68b451a-b7cc-4230-9730-dc9f8808b844" type="folder">7</container> 
+			 <unittitle>Time cards: Various Groups 
+				<unitdate normal="1908" type="inclusive">1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9e6ee1cf-14d1-4a23-8894-a3e88aef5a69" type="box">40</container> <container parent="9e6ee1cf-14d1-4a23-8894-a3e88aef5a69" type="folder">8</container> 
+			 <unittitle>Time cards: Store 
+				<unitdate normal="1906/1910" type="inclusive">1906-1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6f4f8004-1b5f-4430-86a1-3cf216d3e6df" type="box">40</container> <container parent="6f4f8004-1b5f-4430-86a1-3cf216d3e6df" type="folder">9</container> 
+			 <unittitle>Time cards: Teaming 
+				<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7292b728-e3f4-48ab-92fc-e53a99cacff8" type="box">40</container> <container parent="7292b728-e3f4-48ab-92fc-e53a99cacff8" type="folder">10</container> 
+			 <unittitle>Time cards: Water System 
+				<unitdate normal="1908" type="inclusive">1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ca4213b9-bd5c-44b3-939e-440828d91c47" type="box">41</container> 
+			 <unittitle>Time cards: Morgan Mine 
+				<unitdate normal="1907" type="inclusive">1906, January
+				  1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d0609c4a-73f3-4f87-8185-fc6bc593d3d1" type="box">42</container> 
+			 <unittitle>Time cards: Morgan Mine 
+				<unitdate normal="1907-02/1907-05" type="inclusive">February-May
+				  1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ab13c980-923d-4550-a8f1-e4021c21f9fe" type="box">43</container> 
+			 <unittitle>Time cards: Morgan Mine 
+				<unitdate normal="1907-05/1907-12" type="inclusive">May-December
+				  1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="14164371-abc5-4782-8df9-482ec1a1d3a5" type="box">44</container> 
+			 <unittitle>Time cards: Morgan Mine 
+				<unitdate normal="1908-01/1909-08" type="inclusive">January-August
+				  1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2d4828a4-13d9-4f4b-bd74-0fa694d643cc" type="box">45</container> 
+			 <unittitle>Time cards: Morgan Mine 
+				<unitdate normal="1908-09/1908-12" type="inclusive">September-December
+				  1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8fd901c5-e05d-4e2d-a9bf-f8fb7d84da1d" type="box">46</container> 
+			 <unittitle>Time cards: Morgan Mine
+				<unitdate normal="1909-01/1909-05" type="inclusive">January-May
+				  1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c9939dbd-3ce3-4540-a3b8-48a58d330690" type="box">47</container> 
+			 <unittitle>Time cards: Morgan Mine 
+				<unitdate normal="1909-06/1909-12" type="inclusive">June-December
+				  1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="10ada10a-7686-4211-8234-9a758cb8654b" type="box">48</container> 
+			 <unittitle>Time cards: Morgan Mine 
+				<unitdate normal="1910" type="inclusive">1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5af82165-c80a-4d67-b97e-64d8daa5bbe8" type="box">48</container> 
+			 <unittitle>Time cards: Office
+				<unitdate normal="1906/1910" type="inclusive">1906-1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9c50973c-ade3-44df-a026-88cd4a66e995" type="box">49</container> 
+			 <unittitle>Time cards: Railroad construction
+				<unitdate normal="1906/1907" type="inclusive">1906-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7feb41c1-2154-43c9-8b11-96f7493b97ea" type="box">49</container> 
+			 <unittitle>Time cards: Railroad operating
+				<unitdate normal="1907/1910" type="inclusive">1907-1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e9b3ca9f-7ae0-455a-8d35-fa4446d6e2d8" type="box">50</container> 
+			 <unittitle>Time cards: Railroad miscellaneous 
+				<unitdate normal="1906/1907" type="inclusive">1906-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4854e14d-8ee2-4619-bb80-0f2fa8927e38" type="box">50</container> 
+			 <unittitle>Time cards: Railroad roundhouse
+				<unitdate normal="1906/1907" type="inclusive">1906-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e1be101c-f687-4909-a903-c5062340badf" type="box">50</container> 
+			 <unittitle>Time cards: Railroad train crew 
+				<unitdate normal="1906/1907" type="inclusive">1906-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1e6813a5-d285-4cbe-9fe0-79d5167e9875" type="box">51</container> 
+			 <unittitle>Time cards: Railroad section 1 
+				<unitdate normal="1907-04/1910-03" type="inclusive">April 1907-March
+				  1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9d384b2b-d082-4678-93fa-de457230c7c2" type="box">52</container> 
+			 <unittitle>Time cards: Railroad section 2
+				<unitdate normal="1906/1910" type="inclusive">1906-1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d22c2f17-c76e-4f9e-979d-c459960f1477" type="box">53</container> 
+			 <unittitle>Time cards: Railroad section 3 
+				<unitdate normal="1906/1907" type="inclusive">1906-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d749fcff-a38d-45f3-bb5c-dc20e5ca8903" type="box">53</container> 
+			 <unittitle>Time cards: Railroad section 4 
+				<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="da48ae6a-2cd1-4904-9de8-503d1425038d" type="box">53</container> 
+			 <unittitle>Time cards: Railroad section 5
+				<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e949428d-fe28-42ff-b668-3319c5f257b2" type="box">54</container> <container parent="e949428d-fe28-42ff-b668-3319c5f257b2" type="folder">1</container> 
+			 <unittitle>Time Books: Annual assessment work (2 books) 
+				<unitdate normal="1908-10/1908-11" type="inclusive">October-November
+				  1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="df3927ab-8cc3-459a-96e4-c4ea3836c948" type="box">54</container> <container parent="df3927ab-8cc3-459a-96e4-c4ea3836c948" type="folder">2</container> 
+			 <unittitle>Time Books: Boarding House (2 books)
+				<unitdate normal="1907-11/1908-09" type="inclusive">November 1907-February 1908,
+				  August-September 1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="caf90851-db29-4841-8c4f-f004cf8e0590" type="box">54</container> <container parent="caf90851-db29-4841-8c4f-f004cf8e0590" type="folder">3</container> 
+			 <unittitle>Time Books: Corral 
+				<unitdate normal="1908-02/1908-06" type="inclusive">February-June
+				  1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="56f35801-1123-4a49-8f19-bf7e45ad56c4" type="box">54</container> <container parent="56f35801-1123-4a49-8f19-bf7e45ad56c4" type="folder">3</container> 
+			 <unittitle>Time Books: Mine
+				<unitdate normal="1905-02/1906-08" type="inclusive">February 1905-August
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4c31c554-7c0a-4dc5-8975-f2861b7611fd" type="box">54</container> <container parent="4c31c554-7c0a-4dc5-8975-f2861b7611fd" type="folder">3</container> 
+			 <unittitle>Time Books: Mine
+				<unitdate normal="1906-09/1906-12" type="inclusive">September-December
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fb75fd66-276c-4906-8c97-31fdf241a439" type="box">54</container> <container parent="fb75fd66-276c-4906-8c97-31fdf241a439" type="folder">4</container> 
+			 <unittitle>Time Books: Morgan Mine (13 books) 
+				<unitdate normal="1908-01/1908-12" type="inclusive">January-December
+				  1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c38a962a-919e-4c03-8745-fb5a905290ed" type="box">54</container> <container parent="c38a962a-919e-4c03-8745-fb5a905290ed" type="folder">5</container> 
+			 <unittitle>Time Books: Morgan Mine (20 books) 
+				<unitdate normal="1909-01/1909-12" type="inclusive">January-December
+				  1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4954e6d8-ba40-4fac-b988-c7f738dc7f93" type="box">54</container> <container parent="4954e6d8-ba40-4fac-b988-c7f738dc7f93" type="folder">6</container> 
+			 <unittitle>Time Books: Morgan Mine (4 books)
+				<unitdate normal="1910-01/1910-03" type="inclusive">January-March
+				  1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0c61d5e9-6dd3-4636-98a8-eca567442b61" type="box">54</container> <container parent="0c61d5e9-6dd3-4636-98a8-eca567442b61" type="folder">7</container> 
+			 <unittitle>Time Books: Teams (2 books)
+				<unitdate normal="1907" type="inclusive">June 1906, May
+				  1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="dfe22d8f-6ce2-4fd4-a8b2-28491a775f0b" type="box">54</container> <container parent="dfe22d8f-6ce2-4fd4-a8b2-28491a775f0b" type="folder">8</container> 
+			 <unittitle>Time Books: Railroad 
+				<unitdate normal="1906-01/1906-07" type="inclusive">January-July
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e8bd6533-165e-4831-98e1-51963b8b1290" type="box">54</container> <container parent="e8bd6533-165e-4831-98e1-51963b8b1290" type="folder">9</container> 
+			 <unittitle>Time Books: Railroad section 1 (4 books) 
+				<unitdate normal="1906-06/1910-10" type="inclusive">June-July 1906, November
+				  1907-July 1908, January-June 1909, September-October
+				  1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="687a58cb-85f9-42e8-8a34-d5999dca32e6" type="box">54</container> <container parent="687a58cb-85f9-42e8-8a34-d5999dca32e6" type="folder">10</container> 
+			 <unittitle>Time Books: Railroad section 2 (10 books)
+				<unitdate normal="1908-08/1909-10" type="inclusive">August-September 1908,
+				  December 1908, January-March 1909, May-July 1909, October
+				  1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a8b7a5e7-bc5d-4d66-9bc6-c7953ad8072b" type="box">54</container> <container parent="a8b7a5e7-bc5d-4d66-9bc6-c7953ad8072b" type="folder">11</container> 
+			 <unittitle>Time Books: Railroad section 3 (2 books)
+				<unitdate normal="1907-04/1908-11" type="inclusive">April 1907, September-November
+				  1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="500ead7b-785f-47f9-b554-5ddc5ae1d7b3" type="box">54</container> <container parent="500ead7b-785f-47f9-b554-5ddc5ae1d7b3" type="folder">12</container> 
+			 <unittitle>Time Books: Railroad miscellaneous (15 books) 
+				<unitdate normal="1906" type="inclusive">1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="39a6546e-b032-4b76-bc6c-d37a2c608871" type="box">54</container> <container parent="39a6546e-b032-4b76-bc6c-d37a2c608871" type="folder">13</container> 
+			 <unittitle>Time Books: Arizona Smelting and Refining Company 
+				<unitdate normal="1915" type="inclusive">August
+				  1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VII: Identification Cards and Pay Account Records 
+			 <unitdate normal="1907/1913" type="inclusive">1907-1913</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="be2d0b40-bca3-494f-805e-2d561233ab23" type="box">55</container> <container parent="be2d0b40-bca3-494f-805e-2d561233ab23" type="folder">1</container> 
+			 <unittitle>Identification Cards: Boarding house 
+				<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="336896a9-a03d-4666-bef8-3c0b39f4872b" type="box">55</container> <container parent="336896a9-a03d-4666-bef8-3c0b39f4872b" type="folder">2</container> 
+			 <unittitle>Identification Cards: Camp 
+				<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="33a9e990-2159-437c-8cf7-cd5de1e594b3" type="box">55</container> <container parent="33a9e990-2159-437c-8cf7-cd5de1e594b3" type="folder">3</container> 
+			 <unittitle>Identification Cards: Copper Glance Mine 
+				<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f7c775e8-d84f-4e54-84db-1d56d216befc" type="box">55</container> <container parent="f7c775e8-d84f-4e54-84db-1d56d216befc" type="folder">4</container> 
+			 <unittitle>Identification Cards: Copper Hill Mine 
+				<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="85cbe21a-9b1f-4f9f-9f1d-4a224780044d" type="box">55</container> <container parent="85cbe21a-9b1f-4f9f-9f1d-4a224780044d" type="folder">5-7</container> 
+			 <unittitle>Identification Cards: Morgan Mine
+				<unitdate normal="1910" type="inclusive">1907,
+				  1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5d8e3d60-4e96-4b33-9572-180b0c5a9763" type="box">55</container> <container parent="5d8e3d60-4e96-4b33-9572-180b0c5a9763" type="folder">8-10</container> 
+			 <unittitle>Identification Cards: Railroad sections 1, 2 and 4
+				<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="27bc3beb-414d-45dd-898b-4ceb48443511" type="box">56</container> 
+			 <unittitle>Pay Account Records
+				<unitdate normal="1912/1913" type="inclusive">1912-1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VIII: Railroad Records 
+			 <unitdate normal="1904/1964" type="inclusive">1904-1964</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="9f6fe1f0-4096-49e0-a60c-6431255778a6" type="box">57</container> <container parent="9f6fe1f0-4096-49e0-a60c-6431255778a6" type="folder">1</container> 
+			 <unittitle>Railroad Papers: Administrative Reports, Meetings, etc. 
+				<unitdate normal="1904/1911" type="inclusive">1904-1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9e904276-94e9-4979-bd48-fc751126d2f5" type="box">57</container> <container parent="9e904276-94e9-4979-bd48-fc751126d2f5" type="folder">2</container> 
+			 <unittitle>Railroad Papers: Bridge construction</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f03cee36-10da-4cc1-8afa-d373ad31ad05" type="box">57</container> <container parent="f03cee36-10da-4cc1-8afa-d373ad31ad05" type="folder">3</container> 
+			 <unittitle>Railroad Papers: Miscellaneous financial papers
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f725f3e1-1f58-4040-a102-ecddc3ffeefe" type="box">57</container> <container parent="f725f3e1-1f58-4040-a102-ecddc3ffeefe" type="folder">4</container> 
+			 <unittitle>Railroad Papers: General Monthly Summary
+				<unitdate normal="1906-03/1908-05" type="inclusive">March, May 1906,
+				  April-December 1907, January-May 1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8a76f695-d22a-41f1-a710-3d9cab5b8ca4" type="box">57</container> <container parent="8a76f695-d22a-41f1-a710-3d9cab5b8ca4" type="folder">5</container> 
+			 <unittitle>Railroad Papers: Operating Department orders 
+				<unitdate normal="1905/1907" type="inclusive">1905-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7eac77ac-859c-4ad8-94c6-8667ba318b05" type="box">57</container> <container parent="7eac77ac-859c-4ad8-94c6-8667ba318b05" type="folder">6</container> 
+			 <unittitle>Railroad Papers: Passes
+				<unitdate normal="1909/1910" type="inclusive">1909-1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8b679e28-74e7-4f22-a621-33220a7b1372" type="box">57</container> <container parent="8b679e28-74e7-4f22-a621-33220a7b1372" type="folder">7</container> 
+			 <unittitle>Railroad Papers: Per diem reports
+				<unitdate normal="1906/1913" type="inclusive">1906-1910,
+				  1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c20c1c7b-513b-4640-83fc-2182f6c7234b" type="box">57</container> <container parent="c20c1c7b-513b-4640-83fc-2182f6c7234b" type="folder">8</container> 
+			 <unittitle>Railroad Papers: Right of Way papers
+				<unitdate normal="1916" type="inclusive">1910,
+				  1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9dfc9797-c7a8-406a-9ba3-9ba784f5d726" type="box">57</container> <container parent="9dfc9797-c7a8-406a-9ba3-9ba784f5d726" type="folder">9</container> 
+			 <unittitle>Railroad Papers: Tax Returns
+				<unitdate normal="1908/1926" type="inclusive">1908-1909,
+				  1923-1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0557f648-b845-4592-8e9f-3046388a2410" type="box">57</container> <container parent="0557f648-b845-4592-8e9f-3046388a2410" type="folder">10</container> 
+			 <unittitle>Railroad Papers: Trial balance
+				<unitdate normal="1907/1910" type="inclusive">1907-1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4487f1c9-7033-4f86-82b7-ae5ca72ebcc1" type="box">57</container> 
+			 <unittitle>Murphy, James J. "Twin Buttes Railroad" 
+				<title render="italic">Arizonian</title>, v. 5, nos. 1-2. 
+				<unitdate normal="1964" type="inclusive">1964</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ba3946cc-efa6-4b6c-9725-cfdfb1da27bc" type="box">58</container> <container parent="ba3946cc-efa6-4b6c-9725-cfdfb1da27bc" type="folder">1</container> 
+			 <unittitle>Railroad Papers: Audits
+				<unitdate normal="1909/1910" type="inclusive">1909-1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a25207ec-970d-4fe4-bed5-88cbe58b6b27" type="box">58</container> <container parent="a25207ec-970d-4fe4-bed5-88cbe58b6b27" type="folder">2</container> 
+			 <unittitle>Railroad Papers: Claims
+				<unitdate normal="1907/1909" type="inclusive">1907-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d3e8d048-81f0-4933-a642-51161aed347b" type="box">58</container> <container parent="d3e8d048-81f0-4933-a642-51161aed347b" type="folder">3</container> 
+			 <unittitle>Railroad Papers: Locomotive repair reports
+				<unitdate normal="1906/1926" type="inclusive">1906,
+				  1925-1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="635572fb-d516-403a-8620-ee2400838aa6" type="box">58</container> <container parent="635572fb-d516-403a-8620-ee2400838aa6" type="folder">4</container> 
+			 <unittitle>Railroad Papers: Miscellaneous receipts </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e3730a46-9bf9-4e55-a3ee-9bb78aebf682" type="box">58</container> <container parent="e3730a46-9bf9-4e55-a3ee-9bb78aebf682" type="folder">5</container> 
+			 <unittitle>Railroad Papers: Requisitions and stubs 
+				<unitdate normal="1906" type="inclusive">1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7f2e35ae-f37b-410c-acb7-c846f2183aee" type="box">58</container> <container parent="7f2e35ae-f37b-410c-acb7-c846f2183aee" type="folder">6</container> 
+			 <unittitle>Railroad Papers: Signs, tags, forms, regulations
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="05e5c4d6-eb54-4f95-ad8f-acf9b912f0bb" type="box">58</container> <container parent="05e5c4d6-eb54-4f95-ad8f-acf9b912f0bb" type="folder">7</container> 
+			 <unittitle>Railroad Papers: Reports to Interstate Commerce
+				Commission
+				<unitdate normal="1908/1911" type="inclusive">1908-1909,
+				  1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="575f3977-ac73-4606-97e3-989fe163a3b8" type="box">58</container> <container parent="575f3977-ac73-4606-97e3-989fe163a3b8" type="folder">8</container> 
+			 <unittitle>Railroad Papers: Tariff tables</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="aef1b061-8bfb-4892-8868-87212e81bf19" type="box">58</container> <container parent="aef1b061-8bfb-4892-8868-87212e81bf19" type="folder">9</container> 
+			 <unittitle>Railroad Papers: Time checks and stubs 
+				<unitdate normal="1905/1907" type="inclusive">1905-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d9219526-b75c-46bd-8082-c6266bd31da6" type="box">58</container> <container parent="d9219526-b75c-46bd-8082-c6266bd31da6" type="folder">10</container> 
+			 <unittitle>Railroad Papers: Vouchers</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f75c5d03-369e-4e1f-b832-77e6b61fa663" type="box">59</container> 
+			 <unittitle>Railroad Papers: Baggage checks</unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>On original wire, hung in the Twin Buttes Depot</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1f42e307-8dea-4ddf-9f45-c1f24735af91" type="box">59</container> <container parent="1f42e307-8dea-4ddf-9f45-c1f24735af91" type="folder">1</container> 
+			 <unittitle>Railroad Papers: Grade survey, Tucson to Twin Buttes
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="62d21f6e-3d0e-4132-8826-09f394c8748a" type="box">59</container> <container parent="62d21f6e-3d0e-4132-8826-09f394c8748a" type="folder">2</container> 
+			 <unittitle>Railroad Papers: Distribution of track labor 
+				<unitdate normal="1907/1911" type="inclusive">1907-1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fe112e6e-802f-4f04-945e-e399e2ec8fd9" type="box">59</container> <container parent="fe112e6e-802f-4f04-945e-e399e2ec8fd9" type="folder">3</container> 
+			 <unittitle>Railroad Papers: Report of Train Operation
+				<unitdate normal="1913-01/1913-05" type="inclusive">January-February, 1913, May
+				  1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0a97301d-87b6-4df8-8ed4-377b15b3590a" type="box">59</container> <container parent="0a97301d-87b6-4df8-8ed4-377b15b3590a" type="folder">4</container> 
+			 <unittitle>Railroad Papers: Miscellaneous shipping reports 
+				<unitdate normal="1906/1926" type="inclusive">1906-1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6da1e86b-8c36-4498-b823-8524787cf160" type="box">59</container> <container parent="6da1e86b-8c36-4498-b823-8524787cf160" type="folder">5</container> 
+			 <unittitle>Railroad Papers: U.S. Mail Records
+				<unitdate normal="1908/1910" type="inclusive">1908-1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="92876fb2-5fe1-472f-baa2-5eb3a3b23c44" type="box">59</container> <container parent="92876fb2-5fe1-472f-baa2-5eb3a3b23c44" type="folder">6</container> 
+			 <unittitle>Railroad Papers: Work Train Service for the Southern
+				Pacific Company
+				<unitdate normal="1909-07/1910-03" type="inclusive">July 1909-March
+				  1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0bf617df-ce24-423f-9e39-1a1945b560fd" type="box">60</container> <container parent="0bf617df-ce24-423f-9e39-1a1945b560fd" type="folder">1-2</container> 
+			 <unittitle>Railroad Papers: Southern Pacific Company tariff rates,
+				rules and regulations, etc. 
+				<unitdate normal="1908/1912" type="inclusive">1908-1912</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="45cd5f04-61f2-4940-96d8-aa58b5c4fbc4" type="box">60</container> <container parent="45cd5f04-61f2-4940-96d8-aa58b5c4fbc4" type="folder">3</container> 
+			 <unittitle>Railroad Papers: Bills of lading, shipping orders
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="bca0dadb-60fb-46b5-834e-a6695d980b4f" type="box">60</container> <container parent="bca0dadb-60fb-46b5-834e-a6695d980b4f" type="folder">4-6</container> 
+			 <unittitle>Railroad Papers: Freight bills
+				<unitdate normal="1906/1908" type="inclusive">1906-1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fefea0ea-d42b-4633-a4b0-617b8f7ed56e" type="box">61</container> 
+			 <unittitle>Railroad Papers: Freight bills
+				<unitdate normal="1909" type="inclusive">1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a180d5e5-c048-4227-9401-81f630be1879" type="box">61</container> 
+			 <unittitle>Freight Conductor's Train Book (3 books)
+				<unitdate normal="1907-04/1910-05" type="inclusive">April-August 1907, January-May
+				  1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c83b6e3f-1212-4b02-bde8-28b5b8998335" type="volume">62</container> 
+			 <unittitle>Railroad Papers: Record of Freight Bills 
+				<unitdate normal="1907-04/1907-06" type="inclusive">April-June
+				  1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="65283a4e-e7e4-43b7-9327-ef229abb4fe0" type="box">62</container> <container parent="65283a4e-e7e4-43b7-9327-ef229abb4fe0" type="folder">1</container> 
+			 <unittitle>Railroad Papers: Conductor's daily report 
+				<unitdate normal="1906/1911" type="inclusive">1906-1907,
+				  1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="af8bb9b6-2b88-4453-b6f4-3d1653adba4c" type="box">62</container> <container parent="af8bb9b6-2b88-4453-b6f4-3d1653adba4c" type="folder">2-3</container> 
+			 <unittitle>Railroad Papers: Section Foreman's daily report, Sections
+				1-4
+				<unitdate normal="1906/1907" type="inclusive">1906-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c96f90fa-5530-43e9-ab18-7fc3037d18db" type="box">64</container> <container parent="c96f90fa-5530-43e9-ab18-7fc3037d18db" type="folder">1</container> 
+			 <unittitle>Railroad Papers: Waybills</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="49d3a511-9184-425d-8eca-2bdb94d2f09f" type="box">64</container> <container parent="49d3a511-9184-425d-8eca-2bdb94d2f09f" type="folder">2</container> 
+			 <unittitle>Railroad Papers: Abstract of Interline Waybills (Southern
+				Pacific to Twin Buttes Railroad)
+				<unitdate normal="1910/1911" type="inclusive">1910-1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3243e507-68e0-4e28-952e-4ad386d49290" type="box">64</container> <container parent="3243e507-68e0-4e28-952e-4ad386d49290" type="folder">3</container> 
+			 <unittitle>Railroad Papers: Abstract of Interline Waybills (Twin
+				Buttes Railroad to Southern Pacific)
+				<unitdate normal="1910/1911" type="inclusive">1910-1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7267dbbc-3269-453d-8855-b22e5258456e" type="box">64</container> <container parent="7267dbbc-3269-453d-8855-b22e5258456e" type="folder">4</container> 
+			 <unittitle>Railroad Papers: Souther Pacific Company Interline Waybill
+				correction notice and accounts
+				<unitdate normal="1910-09/1911-12" type="inclusive">September-December 1910,
+				  January-September 1911, December 1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0c498ffa-c2f8-4bc2-86e8-1c0592ff5084" type="box">64</container> <container parent="0c498ffa-c2f8-4bc2-86e8-1c0592ff5084" type="folder">5</container> 
+			 <unittitle>Railroad Papers: Agent's daily ticket report (Tucson and
+				Twin Buttes stations)
+				<unitdate normal="1906" type="inclusive">1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e1c8ea32-9fd8-4606-909c-a1ebbaf28f12" type="box">64</container> <container parent="e1c8ea32-9fd8-4606-909c-a1ebbaf28f12" type="folder">6-10</container> 
+			 <unittitle>Railroad Papers: Agent's daily ticket report, daily
+				balance sheet, daily abstract (Tucson and Twin Buttes stations)
+				<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="061898b8-99de-440d-8ead-1a248dfc1d3a" type="box">65</container> <container parent="061898b8-99de-440d-8ead-1a248dfc1d3a" type="folder">1-6</container> 
+			 <unittitle>Railroad Papers: Agent's daily ticket report, daily
+				balance sheet, daily abstract (Tucson and Twin Buttes stations) 
+				<unitdate normal="1908" type="inclusive">1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5bf69ac5-c8c7-44f5-ab19-2390cee1d38b" type="box">65</container> <container parent="5bf69ac5-c8c7-44f5-ab19-2390cee1d38b" type="folder">7-8</container> 
+			 <unittitle>Railroad Papers: Agent's daily ticket report, daily
+				balance sheet, daily abstract (Tucson station)
+				<unitdate normal="1909" type="inclusive">1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IX: Miscellaneous Material
+			 <unitdate normal="1906/1926" type="inclusive">1906-1926</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="bb03cba7-00c7-4ae6-a1db-f5b3d685195d" type="box">66</container> 
+			 <unittitle>Catalogs of Mine and Railroad Equipment</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1c998da7-4d62-4f56-a6e3-7d506e0e5c03" type="box">67</container> <container parent="1c998da7-4d62-4f56-a6e3-7d506e0e5c03" type="folder">1</container> 
+			 <unittitle>Cash Book Records
+				<unitdate normal="1913-02/1913-06" type="inclusive">February-June
+				  1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="19d4e82b-8694-4042-ab08-eee2324decf9" type="box">67</container> <container parent="19d4e82b-8694-4042-ab08-eee2324decf9" type="folder">2</container> 
+			 <unittitle>Daily Supply Distribution Sheet 
+				<unitdate normal="1907-07/1907-09" type="inclusive">July-September
+				  1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="72613cf2-7b67-4dd0-985c-fbcf8e5e820a" type="box">67</container> <container parent="72613cf2-7b67-4dd0-985c-fbcf8e5e820a" type="folder">3</container> 
+			 <unittitle>Explosives (Glance Mine, Queen Mine) 
+				<unitdate normal="1918" type="inclusive">1918</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="399bccad-c7d7-4964-86b0-1dc5ce571664" type="box">67</container> <container parent="399bccad-c7d7-4964-86b0-1dc5ce571664" type="folder">4</container> 
+			 <unittitle>Monthly Supply Distribution Sheet
+				<unitdate normal="1918-02/1918-12" type="inclusive">February 1918, April-December
+				  1918</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f0555a2c-8c6e-4698-9379-85004d9053e0" type="box">67</container> <container parent="f0555a2c-8c6e-4698-9379-85004d9053e0" type="folder">5</container> 
+			 <unittitle>Ore Shipments
+				<unitdate normal="1912/1926" type="inclusive">1912-1913, 1917-1918,
+				  1925-1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4296165c-e30d-4442-bfb6-cf2bc5fb3623" type="box">67</container> <container parent="4296165c-e30d-4442-bfb6-cf2bc5fb3623" type="folder">6</container> 
+			 <unittitle>Revenue Derived from Copper
+				<unitdate normal="1918-08/1919-01" type="inclusive">August-December 1918, January
+				  1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9889c3f9-ac6c-4214-8740-c38a4b62112d" type="box">67</container> <container parent="9889c3f9-ac6c-4214-8740-c38a4b62112d" type="folder">7</container> 
+			 <unittitle>Section Foreman's Inventory of Materials and Tools on Hand
+				accompanied by Storekeeper's Inventory Work Sheets
+				<unitdate normal="1907-06/1909-03" type="inclusive">June-November 1907, July 1908,
+				  March 1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9d71113a-cd09-4c7d-9511-09146cb23cde" type="box">67</container> <container parent="9d71113a-cd09-4c7d-9511-09146cb23cde" type="folder">8</container> 
+			 <unittitle>Daily Segregation of Labor (Minnie Mine, Glance Mine) 
+				<unitdate>No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1f80b704-1536-463b-af0c-0da1bdbdce86" type="box">67</container> <container parent="1f80b704-1536-463b-af0c-0da1bdbdce86" type="folder">9</container> 
+			 <unittitle>Summary of Labor Segregation 
+				<unitdate normal="1917-04/1926-08" type="inclusive">April-May 1917, December 1923,
+				  1924, October 1925, January-June 1926, August 1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e8a53549-6595-4d65-b816-fda4fb7bdd1b" type="box">67</container> <container parent="e8a53549-6595-4d65-b816-fda4fb7bdd1b" type="folder">10</container> 
+			 <unittitle>Signs, poster, certificate, etc. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="900895ab-12cd-4342-8509-c2b93e70c612" type="box">67</container> <container parent="900895ab-12cd-4342-8509-c2b93e70c612" type="folder">11</container> 
+			 <unittitle>Maps </unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes: </p> 
+			 <list> 
+				<item>Relocation of railroad</item> 
+				<item>Right of Way for highway through mining claims, 1920</item> 
+				<item>Location of water pumping station of Tucson in relation to
+				  the Twin Buttes Railroad, 1908</item> 
+				<item>Amended ground plan drawing, Morgan Mine, no date</item> 
+				<item>Glance Mine and Queen Mine, no date</item> 
+			 </list> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9d5f933c-a13c-42fa-9441-25178d358582" type="box">67</container> <container parent="9d5f933c-a13c-42fa-9441-25178d358582" type="folder">11</container> 
+			 <unittitle>Drawing of the school house at Twin Buttes
+				<unitdate>No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4ce9236d-98b5-4ee9-a841-34dda9b5b700" type="volume">68</container> 
+			 <unittitle>Ledger
+				<unitdate normal="1906-08/1907-03" type="inclusive">August 1906-March
+				  1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0bd1ff61-1f05-4edc-a699-8a337f52e1e9" type="volume">69</container> 
+			 <unittitle>Ledger
+				<unitdate normal="1907/1908" type="inclusive">1907-1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e9a6bb70-705f-4294-8e9a-6396e45d0d26" type="volume">69</container> 
+			 <unittitle>Journal
+				<unitdate normal="1906-08/1907-03" type="inclusive">August 1906-March
+				  1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

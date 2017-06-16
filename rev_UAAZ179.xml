@@ -1,0 +1,767 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+  <eadid>UAAZ179</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">John Lawler papers 
+		  <date>1889-1937 (bulk 1889-1915)</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Phyllis
+		  Ball</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address> 
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp 
+		<date normal="20020716">2002-07-16</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+    <revisiondesc>
+        <change>
+            <date normal="20170321">2017-03-21</date>
+            <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+        </change>
+    </revisiondesc>
+<revisiondesc><change><date normal="2017-06-16">2017-06-16</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">John Lawler papers
+		<date>1889-1937 (bulk 1889-1915)</date></titleproper> 
+	 <num>Collection Number: AZ 179</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Phyllis Ball</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1968</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jennie Stapp</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+    <archdesc encodinganalog="351$c" level="collection" type="inventory">
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="COLLECTION NAME">John
+		Lawler papers, 
+		<unitdate normal="1889/1937" type="inclusive">1889-1937 (bulk 1889-1915)
+		  </unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="COLLECTION NUMBER" repositorycode="US-azu"> AZ 179</unitid> 
+	 <origination label="CREATOR"> 
+		<persname encodinganalog="100">Lawler, John,
+		  1857-1916</persname></origination> 
+	 <physdesc encodinganalog="300$a" label="PHYSICAL DESCRIPTION"><extent encodinganalog="300">10 linear feet</extent></physdesc> 
+	 <repository label="REPOSITORY"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>John Lawler papers (AZ 179). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>John Lawler was a Prescott, Arizona businessman and cattle rancher with
+		extensive mining interests chiefly in the Eureka Mining District, Yavapai
+		County, Arizona, the most important of which was the Hillside Mine.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into eight series:</p> 
+	 <list> 
+		<item>Series I: Correspondence and Personal Material, 1892-1931</item> 
+		<item>Series II: Mining Business Records, 1889-1937</item> 
+		<item>Series III: Banking Records</item> 
+		<item>Series IV: Wiser vs. Lawler, District Court of Yavapai County,
+		  Arizona, Supreme Court of the Territory of Arizona and the U. S. Supreme Court,
+		  1897-1902</item> 
+		<item>Series V: Pick and Drill Mining Company</item> 
+		<item>Series VI: Livestock and Property Records, 1890-1915</item> 
+		<item>Series VII: Vouchers and Bills, 1891-1916</item> 
+		<item>Series VIII: Mining Maps</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The collection includes correspondence, legal papers, assay reports,
+		financial records, and maps relating to mining, livestock, and ranching
+		operations, business property in Prescott, including construction of the
+		"Lawler Block", San Diego, and Kansas City, Missouri. Some business records
+		relate to Lawler's partnership with Edmund Wells. Also included are political
+		correspondence with Col. John F. Wilson, U. S. Delegate from Arizona, 1902, and
+		records of membership in various fraternal organizations.</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <persname>Wilson, John F., 1846-1911 --
+			 Correspondence</persname><persname>Wells, Edmund William,
+			 1846-1938</persname><corpname>Lawler and Wells (Firm) -- Records and
+			 correspondence</corpname><corpname>Seven Stars Gold Mining Company --
+			 Records and correspondence</corpname><corpname>Pick and Drill Mining Company -- Records
+			 and correspondence</corpname><corpname>Arizona Livestock
+			 Board</corpname><corpname>Freemasons. Grand Lodge of
+			 Arizona</corpname><subject>Hillside Mine (Ariz.) </subject><subject>Mines and mineral resources -- Arizona -- Yavapai
+			 County</subject><subject>Gold mines and mining -- Arizona -- Yavapai County -- History
+			 -- Sources</subject><subject>Banks and banking -- Arizona -- Prescott -- History --
+			 Sources</subject><subject>Banks and banking -- California -- San Diego -- History --
+			 Sources</subject><subject>Real property -- Arizona -- Prescott -- History --
+			 Sources</subject><subject>Real property -- California -- San Diego -- History --
+			 Sources</subject><subject>Cattle trade -- Arizona -- History -- Sources</subject><geogname>Prescott (Ariz.) -- Buildings -- History --
+			 Sources</geogname><genreform>Correspondence</genreform><genreform>Ledger</genreform><genreform>&gt;Maps</genreform></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Correspondence and Personal Material 
+			 <unitdate normal="1892/1931" type="inclusive">1892-1931</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="16a4c07a-f6e3-48fb-97bf-bae3e8b79a9c" type="box">1</container> <container parent="16a4c07a-f6e3-48fb-97bf-bae3e8b79a9c" type="folder">1</container> 
+			 <unittitle>General
+				<unitdate normal="1892/1931" type="inclusive">1892-1916,
+				  1931</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes a letter from Mark Smith, September 14, 1910</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f5553027-ac16-4730-be6d-705606208c46" type="box">1</container> <container parent="f5553027-ac16-4730-be6d-705606208c46" type="folder">2</container> 
+			 <unittitle>Fraternal Lodge: Ancient Arabic Order of the Nobles of the
+				Mystic Shrine, Al Malaikah Temple, Oasis of Los Angeles. 
+				<unitdate normal="1902" type="inclusive">1894,
+				  1902</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e82be786-93e4-4d6d-894b-bb6550a89e8e" type="box">1</container> <container parent="e82be786-93e4-4d6d-894b-bb6550a89e8e" type="folder">2</container> 
+			 <unittitle>Fraternal Lodge: Benevolent and Protective Order of Elks,
+				Prescott Lodge, No. 330. 
+				<unitdate normal="1899/1916" type="inclusive">1899-1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a29061b9-dcce-4798-a1b4-e7d75c8e2532" type="box">1</container> <container parent="a29061b9-dcce-4798-a1b4-e7d75c8e2532" type="folder">2</container> 
+			 <unittitle>Fraternal Lodge: Free and Accepted Masons, Aztlan Lodge,
+				No. 1
+				<unitdate normal="1890/1914" type="inclusive">1890-1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a4010bd1-87e9-4f50-955d-ac9c0ce56d5d" type="box">1</container> <container parent="a4010bd1-87e9-4f50-955d-ac9c0ce56d5d" type="folder">2</container> 
+			 <unittitle>Fraternal Lodge: Royal Arch Masons, Prescott Chapter, No.
+				2
+				<unitdate normal="1890/1914" type="inclusive">1890-1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8b60dce1-2c14-44d6-a09d-c41ad4f64743" type="box">1</container> <container parent="8b60dce1-2c14-44d6-a09d-c41ad4f64743" type="folder">2</container> 
+			 <unittitle>Fraternal Lodge: Knights Templar, Ivanhoe Commandery, No.
+				2
+				<unitdate normal="1891/1914" type="inclusive">1891-1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="007b207a-5ee1-42a7-a0f4-59c4f38db8d6" type="box">1</container> <container parent="007b207a-5ee1-42a7-a0f4-59c4f38db8d6" type="folder">3</container> 
+			 <unittitle>Political letters of Col. J. F. Wilson, delegate to
+				Congress
+				<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b4ae0d59-0828-490e-a1b3-c2a11ddc0102" type="box">1</container> 
+			 <unittitle>Letter-books 
+				<unitdate normal="1893/1908" type="inclusive">1893-1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Mining Business Records 
+			 <unitdate normal="1889/1937" type="inclusive">1889-1937</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="94bc1140-a6f5-4f1d-8c95-2d171c2f840a" type="box">2</container> <container parent="94bc1140-a6f5-4f1d-8c95-2d171c2f840a" type="folder">1</container> 
+			 <unittitle>John Lawler Mines: Bills
+				<unitdate normal="1889/1892" type="inclusive">1889-1892</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6d684f1a-e723-45ca-a372-55ceee0a79fd" type="box">2</container> <container parent="6d684f1a-e723-45ca-a372-55ceee0a79fd" type="folder">2</container> 
+			 <unittitle>Seven Stars Gold Mining Company: Bills 
+				<unitdate normal="1893" type="inclusive">1893</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8c163e9d-4af2-4c97-a02f-2d289e6d2572" type="box">2</container> <container parent="8c163e9d-4af2-4c97-a02f-2d289e6d2572" type="folder">3-8</container> 
+			 <unittitle>Lawler and Wells: Vouchers
+				<unitdate normal="1894/1906" type="inclusive">1894-March
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="06451f20-aff8-4824-a51d-0a105fc2b0cb" type="box">3</container> <container parent="06451f20-aff8-4824-a51d-0a105fc2b0cb" type="folder">1-5</container> 
+			 <unittitle>Lawler and Wells: Vouchers
+				<unitdate normal="1906/1910" type="inclusive">April
+				  1906-1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="03886eb1-32bd-4a5e-b56b-8ca3dc056e8f" type="box">4</container> <container parent="03886eb1-32bd-4a5e-b56b-8ca3dc056e8f" type="folder">1</container> 
+			 <unittitle>John Lawler Mines: Vouchers and bills
+				<unitdate normal="1901/1916" type="inclusive">1901-1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f40cd8b2-40f5-4334-8638-1980b63d46a1" type="box">4</container> <container parent="f40cd8b2-40f5-4334-8638-1980b63d46a1" type="folder">2</container> 
+			 <unittitle>Hillside Mine: Legal papers, reports, etc. 
+				<unitdate normal="1889/1922" type="inclusive">1889-1922</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7c4f444a-a94b-4957-ba5d-485080c0a567" type="box">4</container> <container parent="7c4f444a-a94b-4957-ba5d-485080c0a567" type="folder">3</container> 
+			 <unittitle>Mines: Miscellaneous papers</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="55246923-fccc-42e5-a54c-ff5753867f81" type="box">4</container> <container parent="55246923-fccc-42e5-a54c-ff5753867f81" type="folder">4</container> 
+			 <unittitle>Mines: Assay reports and shipping returns</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="82800ecf-6f91-4c07-ad5d-41f46faecd0d" type="box">4</container> <container parent="82800ecf-6f91-4c07-ad5d-41f46faecd0d" type="folder">5</container> 
+			 <unittitle>Mines: Time Book
+				<unitdate normal="1896-01/1913-10" type="inclusive">January 1896-October
+				  1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="76a2b0f0-f0ea-495f-bdfe-4b3385683227" type="box">4</container> <container parent="76a2b0f0-f0ea-495f-bdfe-4b3385683227" type="folder">6</container> 
+			 <unittitle>Copper Queen and Mountain Spring Mines: Legal papers, etc.
+				<unitdate normal="1898/1912" type="inclusive">1898-1912</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="720789db-721a-4124-8b9d-f9091c0f2ef9" type="box">4</container> <container parent="720789db-721a-4124-8b9d-f9091c0f2ef9" type="folder">7</container> 
+			 <unittitle>Copper King and Old Dick Mines: Legal papers, etc. 
+				<unitdate normal="1891/1937" type="inclusive">1891-1908,
+				  1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2b83118d-0dfc-4f0d-a464-fb79d0631366" type="box">4</container> <container parent="2b83118d-0dfc-4f0d-a464-fb79d0631366" type="folder">8</container> 
+			 <unittitle>Various Mines: Notice of Mining Locations</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7a53a7a8-28b6-41e2-80d5-aa27ac0a6f24" type="box">4</container> <container parent="7a53a7a8-28b6-41e2-80d5-aa27ac0a6f24" type="folder">9</container> 
+			 <unittitle>Various Mines: Legal papers, etc. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="711288ae-2a2a-4b13-9d99-dc37d19497e6" type="volume">5</container> 
+			 <unittitle>Seven Stars Mining Company: Shipments 
+				<unitdate normal="1892" type="inclusive">1892</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a8af368f-57f1-4617-887e-79be97ea5470" type="volume">6</container> 
+			 <unittitle>Daybook
+				<unitdate normal="1892-10/1893-08" type="inclusive">October 1892-August
+				  1893</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4561f8ea-b610-4922-8fef-22136fae1f49" type="volume">7</container> 
+			 <unittitle>Daybook
+				<unitdate normal="1893-01/1893-06" type="inclusive">January-June
+				  1893</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="55e8ca36-0e3b-4ab6-baae-dc2fb0696bae" type="volume">8</container> 
+			 <unittitle>Ledger
+				<unitdate normal="1892-05/1892-08" type="inclusive">May-August
+				  1892</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a07c9363-bfe5-4aab-803b-356c72d99702" type="volume">9</container> 
+			 <unittitle>Ledger
+				<unitdate normal="1892/1893" type="inclusive">October
+				  1892-1893</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1ea41d39-b271-454a-be4c-1484c43222ea" type="volume">10</container> 
+			 <unittitle>Journal
+				<unitdate normal="1903-09/1915-06" type="inclusive">September 1903-June
+				  1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e76eb014-b5c7-4653-8e93-452f94d3bf3b" type="box">11</container> 
+			 <unittitle>Mines: Record and Order Book 
+				<unitdate normal="1891" type="inclusive">1891</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b9e0c88a-0bf1-42b2-93de-c905dd241368" type="box">11</container> 
+			 <unittitle>Mines: Daybook. 
+				<unitdate normal="1892-05/1892-10" type="inclusive">May-October
+				  1892</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="87328f7a-2922-4055-95ae-a1dd1d7febc6" type="box">11</container> 
+			 <unittitle>Mines: Inventories (store, warehouse, etc.) 
+				<unitdate normal="1895" type="inclusive">1895</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1322cc81-97dd-402b-a265-d7f996364ab6" type="box">11</container> 
+			 <unittitle>Mines: Seven Stars Mining Company Expense Book 
+				<unitdate normal="1895/1896" type="inclusive">1895-1896</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="22af2cce-e551-40cf-b11b-c03ed4d3131d" type="box">11</container> 
+			 <unittitle>Mines: Record Book (grain and hay received at Hillside
+				Station)
+				<unitdate normal="1896" type="inclusive">1896</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a876faf4-1641-4b0d-bf25-e810b51444a4" type="box">11</container> 
+			 <unittitle>Mines: Interest Ledger of John Lawler 
+				<unitdate normal="1891/1899" type="inclusive">1891-1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d6b4fada-06b8-48d2-9824-976b33d5ac27" type="box">11</container> 
+			 <unittitle>Mines: Notes Receivable and Rent records of occupants of
+				the Lawler Block
+				<unitdate normal="1891/1932" type="inclusive">1891-1902 and
+				  1901-1932</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8268556e-3452-48f5-a106-fc04734909cd" type="box">11</container> 
+			 <unittitle>Mines: Daybook (Lawler and Wells)
+				<unitdate normal="1903-07/1906-09" type="inclusive">July 1903-September
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="db2fb5dd-eb49-48d6-b522-3bdfa46caae8" type="box">11</container> 
+			 <unittitle>Mines: Miscellaneous financial records 
+				<unitdate normal="1892/1909" type="inclusive">1892-1893, 1906,
+				  1908-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Banking Records</unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="b595310b-af23-468f-942f-51f1f3a5781c" type="box">12</container> <container parent="b595310b-af23-468f-942f-51f1f3a5781c" type="folder">1</container> 
+			 <unittitle>Bank of Arizona in Prescott: Miscellaneous items
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="71d2711e-db49-49d6-bbdc-fc1b98efe87f" type="box">12</container> <container parent="71d2711e-db49-49d6-bbdc-fc1b98efe87f" type="folder">2-4</container> 
+			 <unittitle>Bank of Arizona in Prescott: Checks 
+				<unitdate normal="1890/1916" type="inclusive">1890-1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6160eb1f-db7c-4ddb-afde-720b2bb07886" type="box">12</container> <container parent="6160eb1f-db7c-4ddb-afde-720b2bb07886" type="folder">5</container> 
+			 <unittitle>Yavapai County Savings Bank in Prescott </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="72108124-4bcc-437a-8e2b-3473c3b26251" type="box">12</container> <container parent="72108124-4bcc-437a-8e2b-3473c3b26251" type="folder">6</container> 
+			 <unittitle>Prescott National Bank</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f9213385-7435-49a2-8e5e-f6872259860c" type="box">12</container> <container parent="f9213385-7435-49a2-8e5e-f6872259860c" type="folder">7</container> 
+			 <unittitle>Cimarron Bank in Cimarron, Kansas and other Kansas banks
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="730c1231-d9b5-408f-96b7-22cfdc32406c" type="box">12</container> <container parent="730c1231-d9b5-408f-96b7-22cfdc32406c" type="folder">8</container> 
+			 <unittitle>National Bank of San Diego, San Diego, California
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c06d2dd9-cb4c-42b5-a921-b387fb331272" type="box">12</container> <container parent="c06d2dd9-cb4c-42b5-a921-b387fb331272" type="folder">9</container> 
+			 <unittitle>Miscellaneous banking material</unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IV: Wiser vs. Lawler, District Court of Yavapai
+			 County, Arizona, Supreme Court of the Territory of Arizona and the U. S.
+			 Supreme Court
+			 <unitdate normal="1897/1902" type="inclusive">1897-1902</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="6d9cfab2-cf2a-4978-bba8-4ade23f307c9" type="box">13</container> <container parent="6d9cfab2-cf2a-4978-bba8-4ade23f307c9" type="folder">1</container> 
+			 <unittitle>Wiser vs. Lawler: In the District Court of Yavapai County,
+				Arizona
+				<unitdate normal="1897/1898" type="inclusive">1897-1898</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes Reporter's Transcript, Abstract of Testimony and Findings
+				of Facts</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="87b31284-5038-436a-bd09-fc88383bb496" type="box">13</container> <container parent="87b31284-5038-436a-bd09-fc88383bb496" type="folder">1</container> 
+			 <unittitle>Wiser vs. Lawler: In the Supreme Court of the Territory of
+				Arizona
+				<unitdate normal="1899" type="inclusive">1899</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes a Statement, Brief and Argument for Appellees (2 copies)
+				</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a83bde24-d5ac-4590-a5f2-84e590955c76" type="box">13</container> <container parent="a83bde24-d5ac-4590-a5f2-84e590955c76" type="folder">1</container> 
+			 <unittitle>Wiser vs. Lawler: In the Supreme Court of the United
+				States
+				<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes Statements and Brief for Respondents</p> 
+		  </scopecontent> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series V: Pick and Drill Mining Company</unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="8dd0ef4c-77e2-4f27-9475-624920e6b351" type="box">13</container> <container parent="8dd0ef4c-77e2-4f27-9475-624920e6b351" type="folder">2</container> 
+			 <unittitle>Pick and Drill Mining Company: Bills 
+				<unitdate normal="1911" type="inclusive">1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0a6c9183-b8ee-4d04-aad6-980b9111f347" type="box">13</container> <container parent="0a6c9183-b8ee-4d04-aad6-980b9111f347" type="folder">3</container> 
+			 <unittitle>Pick and Drill Mining Company: Miscellaneous financial
+				papers</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="724656e4-4c68-40a9-a5f7-a26eb87b745b" type="box">13</container> <container parent="724656e4-4c68-40a9-a5f7-a26eb87b745b" type="folder">4</container> 
+			 <unittitle>Pick and Drill Mining Company: Checks</unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VI: Livestock and Property Records
+			 <unitdate normal="1890/1915" type="inclusive">1890-1915</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="0213690c-cef2-44c3-871e-88b8a65d5af0" type="box">14</container> <container parent="0213690c-cef2-44c3-871e-88b8a65d5af0" type="folder">1</container> 
+			 <unittitle>Livestock: Legal papers</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="31bb37cf-86ee-46dc-a347-0a89b3f89ec5" type="box">14</container> <container parent="31bb37cf-86ee-46dc-a347-0a89b3f89ec5" type="folder">2</container> 
+			 <unittitle>Livestock: Ledger, Journal, Cattle Shipments
+				<unitdate normal="1896" type="inclusive">1896</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="30a6af26-85da-4585-b14d-b8d4258826a6" type="box">14</container> <container parent="30a6af26-85da-4585-b14d-b8d4258826a6" type="folder">3</container> 
+			 <unittitle>Livestock: Miscellaneous Papers, including cattle brands,
+				etc. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5ed8d140-56bc-4ee1-9de6-52fecc0d4c9f" type="box">14</container> <container parent="5ed8d140-56bc-4ee1-9de6-52fecc0d4c9f" type="folder">4</container> 
+			 <unittitle>Arizona Livestock Sanitary Board Papers 
+				<unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ad31e3fa-8a69-4900-b43d-cc61bd23cf4f" type="box">14</container> <container parent="ad31e3fa-8a69-4900-b43d-cc61bd23cf4f" type="folder">5</container> 
+			 <unittitle>"Capital Block"</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8b9ce96d-a930-47e9-8a93-90e88a142873" type="box">14</container> <container parent="8b9ce96d-a930-47e9-8a93-90e88a142873" type="folder">6</container> 
+			 <unittitle>City Lots (various)</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fa06272d-26de-49f7-ace5-40bbed596806" type="box">14</container> <container parent="fa06272d-26de-49f7-ace5-40bbed596806" type="folder">7</container> 
+			 <unittitle>Lawler Block: Legal papers, etc. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c477c29f-c6d6-4afa-bcab-4546f7130d93" type="box">14</container> <container parent="c477c29f-c6d6-4afa-bcab-4546f7130d93" type="folder">8</container> 
+			 <unittitle>Lawler Block: Construction, bids, etc. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f23b1fad-ef0f-429a-9f65-4739b8d88240" type="box">14</container> <container parent="f23b1fad-ef0f-429a-9f65-4739b8d88240" type="folder">9</container> 
+			 <unittitle>City Taxes, Prescott
+				<unitdate normal="1900/1914" type="inclusive">1900-1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7fd6f9a3-ae0c-411f-8e4b-609147c1b566" type="box">14</container> <container parent="7fd6f9a3-ae0c-411f-8e4b-609147c1b566" type="folder">10</container> 
+			 <unittitle>Taxes: Territorial, State, County
+				<unitdate normal="1893/1913" type="inclusive">1893-1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="16f9e0ec-26f2-4418-a501-878a7776f6df" type="box">15</container> <container parent="16f9e0ec-26f2-4418-a501-878a7776f6df" type="folder">1-6</container> 
+			 <unittitle>Lawler and Union Blocks: Vouchers 
+				<unitdate normal="1900/1904" type="inclusive">1900-1904</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="894aab5f-a23c-44db-88d8-63c98bac066a" type="box">16</container> <container parent="894aab5f-a23c-44db-88d8-63c98bac066a" type="folder">1-5</container> 
+			 <unittitle>Lawler Block: Vouchers 
+				<unitdate normal="1905/1915" type="inclusive">1905-1909,
+				  1913-1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1c69801a-64e5-400e-93ab-730993cac507" type="box">16</container> <container parent="1c69801a-64e5-400e-93ab-730993cac507" type="folder">6</container> 
+			 <unittitle>Lawler Block: Water Bills 
+				<unitdate normal="1900/1914" type="inclusive">1900-1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="bb7f60b1-bad5-4d5b-98e1-cf7aab0bdc14" type="box">16</container> <container parent="bb7f60b1-bad5-4d5b-98e1-cf7aab0bdc14" type="folder">7</container> 
+			 <unittitle>Lawler Block: Electric Bills 
+				<unitdate normal="1900/1914" type="inclusive">1900-1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5a36c437-15e8-4cab-aedd-0247cd8fd94c" type="box">17</container> <container parent="5a36c437-15e8-4cab-aedd-0247cd8fd94c" type="folder">1</container> 
+			 <unittitle>G Ranch: Legal papers</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8bd0c65b-de59-4e57-81a7-f0d53b80cc00" type="box">17</container> <container parent="8bd0c65b-de59-4e57-81a7-f0d53b80cc00" type="folder">2-5</container> 
+			 <unittitle>G Ranch: Vouchers, statements, etc. 
+				<unitdate normal="1900/1915" type="inclusive">1900-1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="04a570ab-45bf-40b8-9528-f83784a957ba" type="box">17</container> <container parent="04a570ab-45bf-40b8-9528-f83784a957ba" type="folder">6</container> 
+			 <unittitle>Ranch and Horses: Vouchers, etc. 
+				<unitdate normal="1904/1907" type="inclusive">1904-1907</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Brands identified in the repository finding aid.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="eb2bee30-99f4-4977-a8b4-bac95c895fc4" type="box">17</container> <container parent="eb2bee30-99f4-4977-a8b4-bac95c895fc4" type="folder">7</container> 
+			 <unittitle>Hickey Ranch: Vouchers, etc. 
+				<unitdate normal="1904/1907" type="inclusive">1904-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ba88ebc0-4994-4b8b-8c89-c149da9b6464" type="box">17</container> <container parent="ba88ebc0-4994-4b8b-8c89-c149da9b6464" type="folder">8</container> 
+			 <unittitle>Thompson Valley Property: Legal papers, vouchers, etc. 
+				<unitdate normal="1884/1915" type="inclusive">1884-1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5f7e476f-03b1-4a95-841b-768fb81eba61" type="box">17</container> <container parent="5f7e476f-03b1-4a95-841b-768fb81eba61" type="folder">9</container> 
+			 <unittitle>County Property: Miscellaneous material</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="23a2367f-fde5-4779-b166-c89076830788" type="box">18</container> <container parent="23a2367f-fde5-4779-b166-c89076830788" type="folder">1</container> 
+			 <unittitle>San Diego Property: Correspondence
+				<unitdate normal="1893/1908" type="inclusive">1893-1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1310c082-1c73-42f8-9264-45212fbca526" type="box">18</container> <container parent="1310c082-1c73-42f8-9264-45212fbca526" type="folder">2</container> 
+			 <unittitle>San Diego Property: Legal papers </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b22dbd74-3a1d-41ec-a11c-4a4ec6b0f686" type="box">18</container> <container parent="b22dbd74-3a1d-41ec-a11c-4a4ec6b0f686" type="folder">3</container> 
+			 <unittitle>San Diego Property: Bills and receipts
+				<unitdate normal="1890/1905" type="inclusive">1890-1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c0f484bb-99c8-41b1-befe-3003de02e511" type="box">18</container> <container parent="c0f484bb-99c8-41b1-befe-3003de02e511" type="folder">4</container> 
+			 <unittitle>San Diego Property: Statements, inventory, etc.
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ecc8a4b0-3cc7-487f-8a5f-edab9be4a267" type="box">18</container> <container parent="ecc8a4b0-3cc7-487f-8a5f-edab9be4a267" type="folder">5</container> 
+			 <unittitle>San Diego Property: Taxes 
+				<unitdate normal="1893/1909" type="inclusive">1893-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="08713c9f-732e-463f-8e5f-be193076c20c" type="box">18</container> <container parent="08713c9f-732e-463f-8e5f-be193076c20c" type="folder">6</container> 
+			 <unittitle>Property: Kansas City, Kansas and Kansas City Missouri
+				</unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VII: Vouchers and Bills 
+			 <unitdate normal="1891/1916" type="inclusive">1891-1916</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="0a3c61dd-508c-4894-b237-2d2191fc25e1" type="box">19</container> <container parent="0a3c61dd-508c-4894-b237-2d2191fc25e1" type="folder">1-5</container> 
+			 <unittitle>Personal: Vouchers and bills
+				<unitdate normal="1891/1916" type="inclusive">1891-1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cdff848c-b692-451f-8862-d76fdaf828f4" type="box">19</container> <container parent="cdff848c-b692-451f-8862-d76fdaf828f4" type="folder">6</container> 
+			 <unittitle>Estate of W. and M. Lynch: Vouchers 
+				<unitdate normal="1900/1909" type="inclusive">1900-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VIII: Mining Maps</unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="f7d9900e-e910-45be-8b84-092cf6bc96fc" type="box">20</container> 
+			 <unittitle>The Hillside Mines, Yavapai County, Arizona. Surveyed and
+				drawn by Alex O. Brodie
+				<unitdate normal="1892" type="inclusive">August 1,
+				  1892</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="425bf3f7-d3ca-443d-937a-75a4f8d66639" type="box">20</container> 
+			 <unittitle>Map showing John Lawler's Interests in Eureka Mining
+				District, Yavapai County, Arizona. Compiled from official surveys by H. R.
+				Wood</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="aa3631a9-8b54-4127-880e-c1b4d904a1ba" type="box">20</container> 
+			 <unittitle>Hillside Mine Assay Section by H. R. Wood. Accompanied by
+				a book of computations
+				<unitdate normal="1903" type="inclusive">December
+				  1903</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="dafd986b-ddba-4dce-9407-189039887a10" type="box">20</container> 
+			 <unittitle>Key, showing location of mining properties in the Eureka
+				Mining District, western Yavapai County, Arizona. Possibly by H. R. Wood
+				<unitdate normal="1929" type="inclusive">September
+				  1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cfb50926-febe-406f-9ad5-b649af7250eb" type="box">20</container> 
+			 <unittitle>Map of Comstock and Dexter and adjoining claims, Eureka
+				Mining District, Yavapai County, Arizona</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9450afaf-22d5-481d-96ca-14aaeff786de" type="box">20</container> 
+			 <unittitle>Claim map of Old Dick, Eureka Mining District, Yavapai
+				County, Arizona, by A. M. Gillespi. Data by H. R. Wood. (2 original drawings, 1
+				blueprint, 2 copies)</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="72eb816e-ee7c-4013-86dc-2d29e9e654b8" type="box">20</container> 
+			 <unittitle>Plates of Old Dick, Copper King and Copper Queen 
+				<unitdate normal="1901" type="inclusive">1891, 1891 and
+				  1901</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4c587d89-15d8-4070-9fa7-c69bf63d8fa2" type="box">20</container> 
+			 <unittitle>Old Dick Assay Map by H. R. Wood
+				<unitdate normal="1929" type="inclusive">December
+				  1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f09a65e2-3759-4a3e-8c62-20764850b3cb" type="box">20</container> 
+			 <unittitle>Hillside Mine: three sectional drawings</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4c882f31-48e1-498c-bbbf-2f0697b4776f" type="box">20</container> 
+			 <unittitle>Township map of mine locations (original and blueprint)
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="032621d8-4693-4b3c-83f0-51b6ac4b7550" type="box">20</container> 
+			 <unittitle>Log of airport well</unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

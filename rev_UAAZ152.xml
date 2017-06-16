@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+  <eadid>UAAZ152</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">William Field Staunton papers 
+		  <date>1852-1947</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Phyllis Ball.
+		  </author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
+		</address> 
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Linda A. Whitaker 
+		<date normal="20020627">June 27, 2002</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+    <revisiondesc>
+        <change>
+            <date normal="20170321">2017-03-21</date>
+            <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+        </change>
+    </revisiondesc>
+<revisiondesc><change><date normal="2017-06-16">2017-06-16</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">William Field Staunton papers
+		<date>1852-1947</date></titleproper> 
+	 <num>Collection Number: AZ 152</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Phyllis Ball</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1968</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Linda A. Whitaker</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+    <archdesc encodinganalog="351$c" level="collection" type="inventory">
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">William
+		Field Staunton papers
+		<unitdate normal="1937/1952" type="inclusive">1937-1952</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu"> AZ 152</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Staunton, William
+		  Field</persname></origination> 
+	 <abstract label="Abstract">Correspondence, diaries, financial records,
+		photographs, newspaper clippings, maps, and other papers, relating to mining
+		and Staunton's personal activities in Arizona and California. Personal papers
+		consist of diaries, notebooks, photographs and his memoirs. Mining records
+		which include correspondence, reports, newspaper clippings, photographs,
+		blueprints, maps, and articles by Staunton form the bulk of the
+		collection.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">3 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>William Field Staunton papers (AZ 152). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Mining Engineer in Arizona and California. Staunton was mill and mine
+		superintendent at the Tombstone Mill &amp; Mining Co., Charleston, Ariz. from
+		1885 to 1894, superintendent of the Congress (Ariz.) Gold Co. 1894 to 1910. He
+		was also general manager of the Tombstone Consolidated Mines Co. 1901 to 1910;
+		vice-president and general manager of the Imperial Copper Co., Silverbell,
+		Ariz., and of the Arizona Southern Railroad Co. from 1903 to 1910; and held
+		those positions in the Southern Arizona Smelting Co., Sasco, Ariz. during 1904
+		to 1910. </p> 
+	 <p>In 1910, in Los Angeles, he established a consulting practice to develop
+		oil and copper properties in Arizona and California. In 1911 he became
+		vice-president, treasurer, and later president of Calumet Oil Co., Los Angeles,
+		and president of the Verde Central Mines, Inc., Jerome, Ariz. </p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into three series:</p> 
+	 <list> 
+		<item>Series I: Personal and Family Papers, 1852-1947 </item> 
+		<item>Series II: Mining Papers, 1879-1938 </item> 
+		<item>Series III: Mining Photographs, Blueprints, and Maps,
+		  1910-1938</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Correspondence, diaries, financial records, photographs, newspaper
+		clippings, maps, and other papers, relating to mining and Staunton's personal
+		activities in Arizona and California. Personal papers consist of diaries,
+		notebooks, photographs and his memoirs. Mining records which include
+		correspondence, reports, newspaper clippings, photographs, blueprints, maps,
+		and articles by Staunton form the bulk of the collection. Correspondents
+		include Frank M. Murphy, V.L. Mason, Henry M. Robinson, and James S. Douglas.
+		</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <persname>Staunton, William Field, -- 1860-1947 --
+			 Archives </persname><persname>Douglas, James Stuart, -- 1868-1949 --
+			 Correspondence </persname><persname>Robinson, Henry Mauris, -- 1868-1937 --
+			 Correspondence </persname><persname>Murphy, Frank Morrell, -- 1855-1917 --
+			 Correspondence </persname><corpname>Tombstone Mill and Mining Company --
+			 Records and correspondence </corpname><corpname>Tombstone Consolidated Mines Company --
+			 Records and correspondence</corpname><corpname>Congress Gold Company -- Records and
+			 correspondence</corpname><corpname>Congress Consolidated Mines Company --
+			 Records and correspondence </corpname><corpname> Western Land and Cattle Company --
+			 Records and correspondence </corpname><subject>Mines and mineral resources -- Arizona -- Cochise County --
+			 History -- Sources </subject><subject>Mines and mineral resources -- Arizona -- Pima County --
+			 History -- Sources </subject><subject>Mines and mineral resources -- Arizona -- Yavapai County --
+			 History -- Sources</subject><subject>Mines and mineral resources -- Arizona -- Yavapai County --
+			 History -- Sources</subject><subject>Mines and mineral resources -- Arizona -- Yavapai County --
+			 History -- Sources</subject><subject>Copper mines and mining -- Arizona -- History -- Sources
+			 </subject><subject>Gold mines and mining -- Arizona -- History -- Sources
+			 </subject><subject>Silver mines and mining -- Arizona -- History --
+			 Sources</subject><subject>Railroads -- Arizona -- History -- Sources</subject><subject>Railroad passes -- Specimens </subject><subject>Ostrich farming -- Arizona -- History -- Sources
+			 </subject><genreform>Photoprints</genreform><genreform>Photographs</genreform><genreform>Maps</genreform><genreform>Blueprints</genreform><genreform>Correspondence</genreform><genreform>Diaries</genreform></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Personal and Family Papers 
+			 <unitdate normal="1852/1947" type="inclusive">1852-1947</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="b04bd1e2-96f1-4fe2-a7e5-453ea219028c" type="box">1</container> 
+			 <unittitle>Diaries, Diary of European Trip, Diary Index, Memoirs 
+				<unitdate normal="1852/1947" type="inclusive">1852-1947</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b57b8b36-0d61-42a3-a2fe-8d02b0ad3452" type="box">2</container> <container parent="b57b8b36-0d61-42a3-a2fe-8d02b0ad3452" type="folder">1</container> 
+			 <unittitle>Personal and Biographical Material (commencement programs,
+				awards, memberships, marriage record) 
+				<unitdate normal="1852/1947" type="inclusive">1852-1947</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2c9d9f30-30e0-403c-ab43-a265338372de" type="box">2</container> <container parent="2c9d9f30-30e0-403c-ab43-a265338372de" type="folder">2</container> 
+			 <unittitle>Family Papers (mostly relating to father)
+				<unitdate normal="1904/1929" type="inclusive">1904-1929</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes: 
+				<list> 
+				  <item>"W.F. Staunton: His Scrap Book" </item> 
+				  <item>"Sundry Writings by W.F. Staunton" </item> 
+				  <item>Railroad Passes</item> 
+				  <item>Automobile Notebook</item> 
+				  <item>Radio Notebook</item> 
+				  <item>"Petit Dictionnaire Française"</item> 
+				  <item>Calumet Oil Company</item> 
+				  <item>Zenda Gold Mining Company</item> 
+				  <item>Notes on Old Income Tax Returns, 1913-1929 </item> 
+				  <item>Notes on Smelting, Ore Contracts, Pumping Machinery, Sundry
+					 Prices, 1904 </item> 
+				  <item>"Sundry Old Notes from 1904"</item> 
+				  <item>French Grammar</item> 
+				  <item>"Current" (various notes, personal, financial, reading
+					 lists, magazine subscriptions). </item> 
+				  <item>Miscellaneous Notes, 1910-1912 (mostly financial and
+					 concerning the Pan-american Ostrick Company and Calumet Oil Company). </item> 
+				  <item>Geological Notes</item> 
+				  <item>Envelope of Miscellaneous Notes, Addresses, Cards. </item> 
+				</list></p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f5b63c6b-1184-4aee-94cb-6bc3e36be038" type="box">3</container> <container parent="f5b63c6b-1184-4aee-94cb-6bc3e36be038" type="folder">1-5</container> 
+			 <unittitle>Correspondence: Frank M. Murphy
+				<unitdate normal="1897/1910" type="inclusive">1897-1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b6914d87-2734-4bc3-a911-fe60428b8b5e" type="box">3</container> <container parent="b6914d87-2734-4bc3-a911-fe60428b8b5e" type="folder">6-8</container> 
+			 <unittitle>Correspondence: V.L. Mason 
+				<unitdate normal="1903/1911" type="inclusive">1903-1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b55f72e4-4510-4703-8454-5002ea37c6a1" type="box">4</container> <container parent="b55f72e4-4510-4703-8454-5002ea37c6a1" type="folder">1-2</container> 
+			 <unittitle>Correspondence: Henry M. Robinson
+				<unitdate normal="1903/1937" type="inclusive">1903-1921,
+				  1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="25e5066c-a19a-4650-8af3-7c686e2a11d2" type="box">4</container> <container parent="25e5066c-a19a-4650-8af3-7c686e2a11d2" type="folder">4-5</container> 
+			 <unittitle>Correspondence: Miscellaneous 
+				<unitdate normal="1882/1938" type="inclusive">1882-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="115efd48-a27a-4f45-bd61-fcc4ccc08a79" type="box">4</container> <container parent="115efd48-a27a-4f45-bd61-fcc4ccc08a79" type="folder">6</container> 
+			 <unittitle>Correspondence: Miscellaneous "R." (Note: This folder is
+				apparently a fragment of a longer alphabetical file covering the 1920s and
+				1930s. It has been retained intact to indicate the probable scope of missing
+				correspondence for this period.) 
+				<unitdate normal="1921/1938" type="inclusive">1921-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Mining Papers 
+			 <unitdate normal="1879/1938" type="inclusive">1879-1938</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="1a7000a6-45d6-40c8-8399-45c8313fe84b" type="box">5</container> <container parent="1a7000a6-45d6-40c8-8399-45c8313fe84b" type="folder">1</container> 
+			 <unittitle>Tombstone Mill and Mining Company (miscellaneous papers) 
+				<unitdate normal="1879/1901" type="inclusive">1879-1901</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5b7febea-cb0d-43ec-b3b4-1395e74af07a" type="box">5</container> <container parent="5b7febea-cb0d-43ec-b3b4-1395e74af07a" type="folder">2</container> 
+			 <unittitle>Tombstone Mill and Mining Company (reports) 
+				<unitdate normal="1881/1895" type="inclusive">1881-1895</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3870d86b-241f-46cf-bb9e-1c6306f41ecc" type="box">5</container> <container parent="3870d86b-241f-46cf-bb9e-1c6306f41ecc" type="folder">3</container> 
+			 <unittitle>Tombstone Consolidated Mines Company (miscellaneous
+				papers)
+				<unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1fbf38be-b095-4a79-ab09-3b2aa4dbf27a" type="box">5</container> <container parent="1fbf38be-b095-4a79-ab09-3b2aa4dbf27a" type="folder">4</container> 
+			 <unittitle>Congress Gold Company &amp; Congress Consolidated Mines
+				Company (miscellaneous papers) </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d92e0bd3-c7a6-425f-a81b-522f8a5117f9" type="box">5</container> <container parent="d92e0bd3-c7a6-425f-a81b-522f8a5117f9" type="folder">5</container> 
+			 <unittitle>Tombstone Pumps and Water Situation </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5233a7eb-e3ab-43af-a6b1-0518a27e5cf7" type="box">5</container> <container parent="5233a7eb-e3ab-43af-a6b1-0518a27e5cf7" type="folder">6</container> 
+			 <unittitle>Clippings and Articles: Tombstone </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="287bda1e-3e67-4df8-85ba-8af9b7b3d668" type="box">5</container> <container parent="287bda1e-3e67-4df8-85ba-8af9b7b3d668" type="folder">7</container> 
+			 <unittitle>Clippings &amp; Articles: Jerome </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7e8c6493-70a7-4473-8688-864acf6215cb" type="box">5</container> <container parent="7e8c6493-70a7-4473-8688-864acf6215cb" type="folder">8</container> 
+			 <unittitle>Clippings &amp; Articles: Copper Tariff </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7f4be4f3-659c-45c7-a3f1-77c824d65197" type="box">5</container> <container parent="7f4be4f3-659c-45c7-a3f1-77c824d65197" type="folder">9</container> 
+			 <unittitle>Clippings &amp; Articles: Colorado River </unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Mining Photographs, Blueprints, and Maps 
+			 <unitdate normal="1910/1938" type="inclusive">1910-1938
+				</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="082d4e85-7397-450f-98a5-0ff691c7019b" type="box">6</container> <container parent="082d4e85-7397-450f-98a5-0ff691c7019b" type="folder">1</container> 
+			 <unittitle>Photographs: Congress
+				<unitdate normal="1910/1938" type="inclusive">1910-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="93e8f5d3-c90b-4b0c-a3e5-f16bbc6e067f" type="box">6</container> <container parent="93e8f5d3-c90b-4b0c-a3e5-f16bbc6e067f" type="folder">2</container> 
+			 <unittitle>Photographs: Jerome
+				<unitdate normal="1910/1938" type="inclusive">1910-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="440eaed2-2d34-4ed6-a308-77d1d3985878" type="box">6</container> <container parent="440eaed2-2d34-4ed6-a308-77d1d3985878" type="folder">3</container> 
+			 <unittitle>Photographs: Silverbell and Sasco 
+				<unitdate normal="1910/1938" type="inclusive">1910-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="90741766-ce5a-4017-ade8-2b5b0063aa44" type="box">6</container> <container parent="90741766-ce5a-4017-ade8-2b5b0063aa44" type="folder">4</container> 
+			 <unittitle>Photographs: Tombstone 
+				<unitdate normal="1910/1938" type="inclusive">1910-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="512065d6-d802-4a67-9e11-e18a69e398bb" type="box">6</container> <container parent="512065d6-d802-4a67-9e11-e18a69e398bb" type="folder">5</container> 
+			 <unittitle>Photographs: California (Balboa, Los Angeles) Puget Sound,
+				Arizona
+				<unitdate normal="1910/1938" type="inclusive">1910-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cda90301-94aa-42d5-a9c6-ea4e606a2c61" type="box">6</container> <container parent="cda90301-94aa-42d5-a9c6-ea4e606a2c61" type="folder">6</container> 
+			 <unittitle>Western Land &amp; Cattle Company-Correspondence
+				(successor to Pan-American Ostrich Company) 
+				<unitdate normal="1914/1925" type="inclusive">1914-1925</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="77d7d60a-931a-4ebe-bfdd-79b3d3b1ce7b" type="box">6</container> <container parent="77d7d60a-931a-4ebe-bfdd-79b3d3b1ce7b" type="folder">7</container> 
+			 <unittitle>Western Land &amp; Cattle Company (financial papers) 
+				<unitdate normal="1914/1928" type="inclusive">1914-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="18058fc4-23b1-4486-80a2-6cc131bbe419" type="box">7</container> 
+			 <unittitle>Photographs and Maps. 
+				<unitdate normal="1910/1938" type="inclusive">1910-1938</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes: 
+				<list> 
+				  <item>Photograph: Congress Gold Mining Company's Works</item> 
+				  <item>Photograph: Staunton's House in Tombstone</item> 
+				  <item>Photograph: Staunton's House in Congress (?)</item> 
+				  <item>Photograph: Staunton (?)</item> 
+				  <item>Mining Maps and Blueprints: Congress Mine</item> 
+				  <item>Mining Maps and Blueprints: Tombstone</item> 
+				  <item>Mining Maps and Blueprints: Silverbell</item> 
+				  <item>Mining Maps and Blueprints: Unidentified</item> 
+				</list></p> 
+		  </scopecontent> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

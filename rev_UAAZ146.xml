@@ -1,0 +1,1382 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+  <eadid>UAAZ146</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Arizona Copper Company records
+		  <date>1882-1922</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Phyllis
+		  Ball</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp 
+		<date>2002-07-16</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+	<revisiondesc>
+		<change>
+			<date normal="20170320">2017-03-20</date>
+			<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+		</change>
+	</revisiondesc>
+<revisiondesc><change><date normal="2017-06-16">2017-06-16</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Arizona Copper Company records 
+		<date>1882-1922</date></titleproper> 
+	 <num>Collection Number: AZ 146</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Phyllis Ball</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1968</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jennie Stapp</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+	<archdesc encodinganalog="351$c" level="collection" type="inventory">
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Arizona Copper
+		Company records 
+		<unitdate normal="1882/1922" type="inclusive">1882-1922</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu"> AZ 146</unitid> 
+	 <origination label="Creator"> 
+		<corpname encodinganalog="110">Arizona Copper
+		  Company</corpname></origination> 
+	 <abstract label="Abstract">Business records of the company pertaining to
+		administration of its copper mines which included the Longfellow Mine, Coronado
+		Mine, Metcalf Mine, Clay Mine, and Humboldt Mine. Records include financial
+		journals, ledgers, cost statements; payroll records, including accident reports
+		and industrial compensation; production and sales records and inventories. Also
+		included are records of the Arizona and New Mexico Railway Company; Clifton
+		Hospital; and Metcalf Hospital; which were owned by the company.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">30 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Arizona Copper Company records (AZ 146). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Historical Note</head> 
+	 <p>The Arizona Copper Company was a mining company of Edinburgh, Scotland,
+		operating in the Clifton- Morenci area of Arizona from 1882-1921. The company
+		was sold to Phelps Dodge Corporation in 1921.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into five series:</p> 
+	 <list> 
+		<item>Series I: Financial Records and Related Material, 1882-1922</item> 
+		<item>Series II: Arizona and New Mexico Railway Company Records,
+		  1890-1919</item> 
+		<item>Series III: Records of Injured Persons, 1912-1921 </item> 
+		<item>Series IV: Production and Sales Records, 1893-1921</item> 
+		<item>Series V: Miscellaneous Financial Records (Microfiche),
+		  1909-1921</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Business records of the company pertaining to administration of its
+		copper mines which included the Longfellow Mine, Coronado Mine, Metcalf Mine,
+		Clay Mine, and Humboldt Mine. Records include financial journals, ledgers, cost
+		statements; payroll records, including accident reports and industrial
+		compensation; production and sales records and inventories. Also included are
+		records of the Arizona and New Mexico Railway Company; Clifton Hospital; and
+		Metcalf Hospital; which were owned by the company.</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <corpname>Clifton Hospital
+			 (Ariz.)</corpname><corpname>Metcalf Hospital (Ariz.)
+			 </corpname><corpname>Arizona Copper Company --
+			 Archives</corpname><corpname>Arizona and New Mexico Railway
+			 Company</corpname><subject>Copper mines and mining -- Arizona -- History --
+			 Sources</subject><subject>Mineral industries -- Arizona -- Finance --
+			 Sources</subject><subject>Railroad companies -- Arizona -- History -- Sources
+			 </subject><subject>Hospitals -- Arizona -- History -- Sources</subject><subject>Copper miners -- History -- Sources</subject><geogname>Humboldt Mine (Ariz.)</geogname><geogname>Clay Mine (Ariz.)</geogname><geogname>Longfellow Mine (Ariz.) </geogname><geogname>Coronado Mine (Ariz.) </geogname><geogname>Coronado Mine (Ariz.) </geogname><genreform>Ledgers</genreform><genreform>Inventories</genreform><genreform>Payrolls</genreform></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Financial Records and Related Material 
+			 <unitdate normal="1882/1922" type="inclusive">1882-1922</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="e2e59624-2b58-4c63-8d6c-0dfb2a4a6b4c" type="volume">1</container> 
+			 <unittitle>Journal A
+				<unitdate normal="1882-10/1886-12" type="inclusive">October 1882-December
+				  1886</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4883bde7-abac-4ad4-94af-3400df82cbd9" type="volume">2</container> 
+			 <unittitle>Journal B
+				<unitdate normal="1887-01/1891-01" type="inclusive">January 1887-April
+				  1891</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a50ccdb5-cda3-49d3-8c3e-e4058100e34a" type="volume">3</container> 
+			 <unittitle>Journal C
+				<unitdate normal="1891-04/1894-10" type="inclusive">April 1891-October
+				  1894</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6694cbc3-54fc-48a3-9758-da1fdd30aee0" type="volume">4</container> 
+			 <unittitle>Journal D
+				<unitdate normal="1894-10/1897-05" type="inclusive">October 1894-May
+				  1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="62de0def-a8a9-4a6f-8dd0-176769e0e1ba" type="volume">5</container> 
+			 <unittitle>Journal E
+				<unitdate normal="1897-06/1899-10" type="inclusive">June 1897-October
+				  1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="adfb2450-c20b-44e2-8887-263abdac7aa2" type="volume">6</container> 
+			 <unittitle>Journal F
+				<unitdate normal="1899-10/1901-08" type="inclusive">October 1899-August
+				  1901</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2d650b36-a9b5-429e-a7ae-73a1a491fdfa" type="volume">7</container> 
+			 <unittitle>Journal G
+				<unitdate normal="1901-09/1903-05" type="inclusive">September 1901-May
+				  1903</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f39f3b3c-f034-44e0-9514-1a051a0775bb" type="volume">8</container> 
+			 <unittitle>Journal H
+				<unitdate normal="1903-06/1905-01" type="inclusive">June 1903-January
+				  1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5cb8effe-9b5d-498f-8f2e-7090eb931b9d" type="volume">9</container> 
+			 <unittitle>Journal I
+				<unitdate normal="1905-02/1906-06" type="inclusive">February 1905-June
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="056ae92b-7423-4e86-969e-a15874d1a734" type="volume">10</container> 
+			 <unittitle>Journal J 
+				<unitdate normal="1906-07/1907-12" type="inclusive">July 1906-December
+				  1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="09cb1832-30d3-438d-9714-c1982be67327" type="volume">11</container> 
+			 <unittitle>Journal K
+				<unitdate normal="1908-01/1909-07" type="inclusive">January 1908-July
+				  1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8885a032-5aab-423b-b337-8afa5a2765fd" type="volume">12</container> 
+			 <unittitle>Journal L
+				<unitdate normal="1909-08/1912-09" type="inclusive">August 1909-September
+				  1912</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="428d74a2-93a8-45c2-a34d-f265c29bf23d" type="volume">13</container> 
+			 <unittitle>Journal M
+				<unitdate normal="1912-10/1916-05" type="inclusive">October 1912-May
+				  1916</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Journal N is missing. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ac350849-f4f1-4bcd-8b31-f5f3c8f3cff2" type="volume">14</container> 
+			 <unittitle>Journal O
+				<unitdate normal="1920-01/1922-01" type="inclusive">January 1920-January
+				  1922</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4c279ef1-a832-408a-973a-596fe49e55f4" type="volume">15</container> 
+			 <unittitle>Ledger A
+				<unitdate normal="1882-09/1883-03" type="inclusive">September 1882-March
+				  1883</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c81e20fe-fc67-4521-b47c-6eb9810237da" type="volume">16</container> 
+			 <unittitle>Ledger B
+				<unitdate normal="1883-04/1884-09" type="inclusive">April 1883-September
+				  1884</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a4889699-8025-4af1-849f-c4656e842965" type="volume">17</container> 
+			 <unittitle>Ledger C
+				<unitdate normal="1884-10/1893-09" type="inclusive">October 1884-September
+				  1893</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8473bdbc-b3fc-4a22-bbed-dccceea6742c" type="volume">18</container> 
+			 <unittitle>Ledger D
+				<unitdate normal="1893-10/1899-09" type="inclusive">October 1893-September
+				  1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fe664f32-4133-47fa-a2a7-3b3282687d99" type="volume">19</container> 
+			 <unittitle>Ledger E
+				<unitdate normal="1899-10/1902-12" type="inclusive">October 1899-December
+				  1902</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="44e26a5d-7ad6-460a-8841-d1b9d6e2f0c1" type="volume">20</container> 
+			 <unittitle>Ledger F
+				<unitdate normal="1903-01/1905-03" type="inclusive">January 1903-March
+				  1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c92cba7e-a980-42cc-8a49-a58aaf6cd31a" type="volume">21</container> 
+			 <unittitle>Ledger G
+				<unitdate normal="1905-04/1907-03" type="inclusive">April 1905-March
+				  1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5d5e5f92-fbaf-4d42-8006-2880a58db8b2" type="volume">22</container> 
+			 <unittitle>Ledger H
+				<unitdate normal="1907-04/1909-09" type="inclusive">April 1907-September
+				  1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="de66891d-0077-4651-a5e1-14a68888f6f9" type="volume">23</container> 
+			 <unittitle>Ledger I
+				<unitdate normal="1909-10/1914-03" type="inclusive">October 1909-March
+				  1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="62419b1c-ca96-42ac-8450-2246afae711c" type="volume">24</container> 
+			 <unittitle>Ledger J 
+				<unitdate normal="1914-04/1919-03" type="inclusive">April 1914-March
+				  1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7ab0fbe8-6bc5-427c-8df5-7296a3fbc661" type="volume">25</container> 
+			 <unittitle>Ledger K
+				<unitdate normal="1919-04/1921-12" type="inclusive">April 1919-December
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3ac0f8e0-ed87-4003-9386-1a213c4e7b6b" type="volume">26</container> 
+			 <unittitle>Ledger "1" (Kansas City)
+				<unitdate normal="1882-09/1889-09" type="inclusive">September 1882-September
+				  1889</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="775c65ce-3eef-4e34-9f94-917f3256ec7e" type="volume">27</container> 
+			 <unittitle>Ledger "2" (Kansas City) 
+				<unitdate normal="1883-04/1884-10" type="inclusive">April 1883-October
+				  1884</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="05bd1539-776f-4f53-bda0-33a65d781486" type="volume">28</container> 
+			 <unittitle>Cash Book and Journal: L. Underwood, General Manager,
+				Kansas City
+				<unitdate normal="1882-09/1885-08" type="inclusive">September 1882-August
+				  1885</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8bb6302a-276a-46c3-a36e-39ef928406b7" type="volume">29</container> 
+			 <unittitle>Cash Book and Journal: Kansas City
+				<unitdate normal="1883-04/1885-02" type="inclusive">April 1883-February
+				  1885</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="dbc5ea46-e1f9-4800-8acf-5e31f8f616a0" type="volume">30</container> 
+			 <unittitle>Ledger: Private Accounts
+				<unitdate normal="1902-10/1908-01" type="inclusive">October 1902-January
+				  1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5faf4fbd-d957-4491-983a-57b1c01364d2" type="volume">31</container> 
+			 <unittitle>Ledger
+				<unitdate normal="1907/1909" type="inclusive">1907-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="43c2401b-7a0c-4a63-94a4-81640ef5f2e8" type="volume">32</container> 
+			 <unittitle>Ledger
+				<unitdate normal="1908" type="inclusive">1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7e47d32e-048f-4b16-93ac-155e68606983" type="volume">33</container> 
+			 <unittitle>Cash Book A
+				<unitdate normal="1883-04/1886-11" type="inclusive">April 1883-November
+				  1886</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7bd6ebf8-831e-4dc4-9c0c-36735ce97b14" type="volume">34</container> 
+			 <unittitle>Cash Book B
+				<unitdate normal="1886-12/1893-09" type="inclusive">December 1886-September
+				  1893</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="91556115-e741-4b3b-9939-994aa7625fca" type="volume">35</container> 
+			 <unittitle>Cash Book C
+				<unitdate normal="1893-10/1897-03" type="inclusive">October 1893-March
+				  1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="92231e50-6890-4382-b2b4-33707102387d" type="volume">36</container> 
+			 <unittitle>Cash Book D
+				<unitdate normal="1897-04/1899-09" type="inclusive">April 1897-September
+				  1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a6e976c3-d14f-4891-845e-870c4c44f241" type="volume">37</container> 
+			 <unittitle>Cash Book E
+				<unitdate normal="1899-10/1901-09" type="inclusive">October 1899-September
+				  1901</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e27960bd-a538-4e16-a310-a507e20c3c33" type="volume">38</container> 
+			 <unittitle>Cash Book F
+				<unitdate normal="1901-10/1902-09" type="inclusive">October 1901-September
+				  1902</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="eadecefa-62eb-4f13-a1d6-f1f18efddae1" type="volume">39</container> 
+			 <unittitle>Cash Book G
+				<unitdate normal="1902-10/1903-11" type="inclusive">October 1902-November
+				  1903</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c95a1e3d-4f6c-4dff-8573-8ca6b838e282" type="volume">40</container> 
+			 <unittitle>Cash Book H
+				<unitdate normal="1903-12/1904-11" type="inclusive">December 1903-November
+				  1904</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9321252a-0812-4d22-8513-ab5a38903b72" type="volume">41</container> 
+			 <unittitle>Cash Book I
+				<unitdate normal="1904-12/1905-11" type="inclusive">December 1904-November
+				  1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e65ea400-9e68-4af7-92aa-9f39929c1c4f" type="volume">42</container> 
+			 <unittitle>Cash Book J
+				<unitdate normal="1905-12/1906-09" type="inclusive">December 1905-September
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="99e5366c-f5a8-45d0-881f-c1d7a1027bc7" type="volume">43</container> 
+			 <unittitle>Cash Book K
+				<unitdate normal="1906-10/1907-07" type="inclusive">October 1906-July
+				  1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ae6d04d3-e857-4203-a61a-10ba5e895c7c" type="volume">44</container> 
+			 <unittitle>Cash Book L
+				<unitdate normal="1907-08/1909-01" type="inclusive">August 1907-January
+				  1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e6b19c52-0b06-42ec-a41b-20f222342498" type="volume">45</container> 
+			 <unittitle>Cash Book M
+				<unitdate normal="1909-02/1911-01" type="inclusive">February 1909-January
+				  1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3d60ee7b-09a6-4884-aa09-91ff4c8a53c9" type="volume">46</container> 
+			 <unittitle>Cash Book N
+				<unitdate normal="1911-02/1912-08" type="inclusive">February 1911-August
+				  1912</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="36ce2554-3ab6-4afb-a0fb-1f92f5208acc" type="volume">47</container> 
+			 <unittitle>Cash Book O
+				<unitdate normal="1912-09/1913-10" type="inclusive">September 1912-October
+				  1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="12b3f909-bddd-46e7-a717-8d6c902f3dee" type="volume">48</container> 
+			 <unittitle>Cash Book P
+				<unitdate normal="1913-11/1914-12" type="inclusive">November 1913-December
+				  1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="76813eea-6031-4b1c-81ac-6b4258faf535" type="volume">49</container> 
+			 <unittitle>Cash Book Q
+				<unitdate normal="1915-01/1916-04" type="inclusive">January 1915-April
+				  1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9ac960ae-164a-4e1f-8b79-65b86b9ddf09" type="volume">50</container> 
+			 <unittitle>Cash Book R
+				<unitdate normal="1916-05/1917-06" type="inclusive">May 1916-June
+				  1917</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0b6d9b3e-0b4a-4f0a-aec1-143b3d2c4dc8" type="volume">51</container> 
+			 <unittitle>Cash Book S
+				<unitdate normal="1917-07/1918-08" type="inclusive">July 1917-August
+				  1918</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8ffbe131-1a52-40e2-bf04-79997dd72eec" type="volume">52</container> 
+			 <unittitle>Cash Book T
+				<unitdate normal="1918-09/1919-10" type="inclusive">September 1918-October
+				  1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="500c936c-e557-4a77-9512-5378e8a4b5f0" type="volume">53</container> 
+			 <unittitle>Cash Book U
+				<unitdate normal="1919-11/1921-01" type="inclusive">November 1919-January
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e47afa2c-3db5-4c47-bca6-6fe4e74d7f50" type="volume">54</container> 
+			 <unittitle>Cash Book V
+				<unitdate normal="1921-02/1921-12" type="inclusive">February 1921-December
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cb2375f7-bdbd-4a5d-94a7-132c50b03b69" type="volume">55</container> 
+			 <unittitle>Memo Cash Boo
+				<unitdate normal="1890-01/1893-09" type="inclusive">January 1890-September
+				  1893</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6b12a347-8fb6-40b2-90d3-e65676a50445" type="volume">56</container> 
+			 <unittitle>Memo Cash Book
+				<unitdate normal="1893-10/1896-07" type="inclusive">October 1893-July
+				  1896</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9fe37d53-63e8-445a-a327-4a74623a38bf" type="volume">57</container> 
+			 <unittitle>Memo Cash Book
+				<unitdate normal="1896-08/1898-06" type="inclusive">August 1896-June
+				  1898</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cee41581-2bcf-40dc-b614-221c4eea1493" type="volume">58</container> 
+			 <unittitle>Memo Cash Book
+				<unitdate normal="1898-07/1898-09" type="inclusive">July-September
+				  1898</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="95f20b31-5adf-465e-b269-7e48d339240d" type="volume">59</container> 
+			 <unittitle>Cash Ledger 
+				<unitdate normal="1900-08/1902-03" type="inclusive">August 1900-March
+				  1902</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="20602d6f-8cc9-4286-932a-d7e7d5f9b5bf" type="volume">60</container> 
+			 <unittitle>Cash Ledger A
+				<unitdate normal="1902-04/1903-12" type="inclusive">April 1902-December
+				  1903</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="14335390-fc72-4621-a24c-bc16c4c558e7" type="volume">61</container> 
+			 <unittitle>Cash Ledger B
+				<unitdate normal="1904-01/1905-10" type="inclusive">January 1904-October
+				  1905</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Cash Ledger C is missing. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a78b7e15-e969-4319-9f8b-78223b723bba" type="volume">62</container> 
+			 <unittitle>Cash Ledger D
+				<unitdate normal="1907-01/1908-01" type="inclusive">January 1907-January
+				  1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="abdb9595-28cc-4fe0-b35f-7effcd305809" type="volume">63</container> 
+			 <unittitle>Cash Ledger E
+				<unitdate normal="1908-02/1909-08" type="inclusive">February 1908-August 1909
+				  </unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ae1d63c3-5a36-4c6e-8af0-25a02f94a5c3" type="volume">64</container> 
+			 <unittitle>Cash Ledger F
+				<unitdate normal="1909-09/1911-06" type="inclusive">September 1909-June
+				  1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f1544bd9-e3a8-491c-bbc3-efd225c9e9cc" type="volume">65</container> 
+			 <unittitle>Cash Ledger G
+				<unitdate normal="1911-07/1913-03" type="inclusive">July 1911-March
+				  1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="afcceece-80e2-44a5-ba83-74ad9fc9f11c" type="volume">66</container> 
+			 <unittitle>Cash Ledger H
+				<unitdate normal="1913-04/1915-06" type="inclusive">April 1913-June
+				  1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="37e58edd-9739-4e92-9d9a-dd158078f36f" type="volume">67</container> 
+			 <unittitle>Cash Ledger I
+				<unitdate normal="1915-07/1918-08" type="inclusive">July 1915-August
+				  1918</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2dae3df4-4428-4700-8bab-9ec60f7bc8ba" type="volume">68</container> 
+			 <unittitle>Cost Statement
+				<unitdate normal="1884-10/1892-03" type="inclusive">October 1884-March
+				  1892</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d341e3e4-da60-4d7e-9440-b04ef5d17df2" type="volume">69</container> 
+			 <unittitle>Cost Statement
+				<unitdate normal="1892-04/1899-03" type="inclusive">April 1892-March
+				  1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d2179095-e134-4e17-bffc-967d436848a2" type="volume">70</container> 
+			 <unittitle>Cost Statement
+				<unitdate normal="1899-04/1905-09" type="inclusive">April 1899-September
+				  1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c82bb9b4-7558-4b2b-9518-b91e623cfcf5" type="box">71</container> 
+			 <unittitle>Mining Cost Sheet
+				<unitdate normal="1914/1919" type="inclusive">1914-1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="bd936995-bdd2-4741-a994-db1c6e20bf07" type="box">72</container> <container parent="bd936995-bdd2-4741-a994-db1c6e20bf07" type="folder">1-3</container> 
+			 <unittitle>Mining Department: Cost Statements
+				<unitdate normal="1918/1922" type="inclusive">1918-1922</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d5b0e818-91b7-46fb-9555-ccc78888be5d" type="box">72</container> <container parent="d5b0e818-91b7-46fb-9555-ccc78888be5d" type="folder">4</container> 
+			 <unittitle>Mining Department: Report of Mining Operations 
+				<unitdate normal="1914-10/1917-09" type="inclusive">October 1914-September
+				  1917</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f1b1266e-bbd5-499f-9391-fb25dd63b3bf" type="box">72</container> <container parent="f1b1266e-bbd5-499f-9391-fb25dd63b3bf" type="folder">5</container> 
+			 <unittitle>Mining Department: Segregation of Air Compression
+				<unitdate normal="1918-01/1920-09" type="inclusive">January 1918-September
+				  1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ef9079a0-ebd6-4c10-bf5a-032048f2fb57" type="box">72</container> <container parent="ef9079a0-ebd6-4c10-bf5a-032048f2fb57" type="folder">6</container> 
+			 <unittitle>Mining Department: Statement of Ore Shipments and
+				Production
+				<unitdate normal="1913-10/1921-06" type="inclusive">October 1913-June
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="32fb227a-1155-4d10-ae81-3717833727ab" type="box">72</container> <container parent="32fb227a-1155-4d10-ae81-3717833727ab" type="folder">7</container> 
+			 <unittitle>Monthly Concentrator Costs
+				<unitdate normal="1909-10/1917-06" type="inclusive">October 1909-June
+				  1917</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="97cfa866-f9b2-4cd7-8ad4-288219606dc3" type="box">73</container> <container parent="97cfa866-f9b2-4cd7-8ad4-288219606dc3" type="folder">1-2</container> 
+			 <unittitle>Leasing Department: Statement of Settlements
+				<unitdate normal="1908-04/1921-04" type="inclusive">April 1908-April
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="aadbcf63-05dc-42fa-8176-344ac7325af0" type="box">73</container> <container parent="aadbcf63-05dc-42fa-8176-344ac7325af0" type="folder">3</container> 
+			 <unittitle>Leasing Department: Leasers' Supply Statements and/or
+				Accounts
+				<unitdate normal="1917-04/1920-10" type="inclusive">April 1917-October
+				  1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a07dda2f-e520-4137-9281-71b9e7f2a3f6" type="box">73</container> <container parent="a07dda2f-e520-4137-9281-71b9e7f2a3f6" type="folder">4</container> 
+			 <unittitle>Leasing Department: Segregation of Accounts
+				<unitdate normal="1917-05/1921-04" type="inclusive">May 1917-April
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a972b6d1-cdab-4235-a3d0-7d2a1dd7c833" type="box">73</container> <container parent="a972b6d1-cdab-4235-a3d0-7d2a1dd7c833" type="folder">5</container> 
+			 <unittitle>Leasing Department: Miscellaneous Reports </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fe296328-6745-4213-8b7f-74c29983f2d0" type="box">73</container> <container parent="fe296328-6745-4213-8b7f-74c29983f2d0" type="folder">6-7</container> 
+			 <unittitle>Power Department: Monthly Electrical Log
+				<unitdate normal="1914-08/1920-09" type="inclusive">August 1914-September
+				  1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="302f91ee-ee2a-46ee-b59d-a40a1dcb8529" type="box">74</container> 
+			 <unittitle>Miscellaneous Records: Castings, general supplies, power
+				<unitdate normal="1913-07/1916-03" type="inclusive">July 1913-March
+				  1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="30354d62-3c99-4d97-8a09-e2f4c4a7a1ae" type="box">74</container> 
+			 <unittitle>Miscellaneous Records: Lumber and logs
+				<unitdate normal="1915-02/1916-07" type="inclusive">February 1915-July
+				  1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ce312fff-6da8-4203-96b6-c65034ea34d9" type="box">74</container> 
+			 <unittitle>Miscellaneous Records: Lumber and logs
+				<unitdate normal="1917-07/1920-05" type="inclusive">July 1916-May
+				  1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="657238f5-478b-40a4-93dc-f0176f9c7b38" type="box">74</container> 
+			 <unittitle>Miscellaneous Records: General expenses
+				<unitdate normal="1917-10/1919-11" type="inclusive">October 1917-November
+				  1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c87a45fb-93d5-4baf-861b-b946e0025572" type="box">74</container> 
+			 <unittitle>Miscellaneous Records: Depreciation records
+				<unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2960a718-55f9-4ce8-b518-f9f960d47e23" type="box">74</container> 
+			 <unittitle>Miscellaneous Records: General accounts receivable,
+				balances
+				<unitdate normal="1916" type="inclusive">1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fcf69b78-69b1-4f95-9e8a-4b3f8486f656" type="box">74</container> 
+			 <unittitle>Miscellaneous Records: Cancelled voucher checks
+				<unitdate normal="1918/1920" type="inclusive">1918-1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8381e4aa-a3b5-4f88-b3d5-d795670b9375" type="box">74</container> 
+			 <unittitle>Miscellaneous Records: Report of the Coronado Railroad,
+				Arizona Copper Company, Ltd. to the Corporation Commission of the State of
+				Arizona for the year ending
+				<unitdate normal="1913" type="inclusive">June 30,
+				  1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a4901446-cf41-474f-865a-42c95c894bc7" type="box">74</container> 
+			 <unittitle>Miscellaneous Items
+				<unitdate normal="1889/1912" type="inclusive">1889-1912</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes:</p> 
+			 <list> 
+				<item>five letters (1889, 1894, 1912)</item> 
+				<item>mining telegraph message code (1908)</item> 
+				<item>work sheets for supplies including coke, coal, and fuel oil
+				  (1912)</item> 
+			 </list> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f8f47082-ce20-48c8-b4e4-453b4e878dda" type="box">75</container> <container parent="f8f47082-ce20-48c8-b4e4-453b4e878dda" type="folder">1-6</container> 
+			 <unittitle>Longfellow Mining Department: Cost Statement
+				<unitdate normal="1914-11/1921-12" type="inclusive">November 1914-December
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f14d5364-a3a3-43dd-bcf0-6521cb867295" type="box">76</container> <container parent="f14d5364-a3a3-43dd-bcf0-6521cb867295" type="folder">1-6</container> 
+			 <unittitle>Longfellow Mining Department: Direct Mining Costs
+				<unitdate normal="1907-12/1922-02" type="inclusive">December 1907-February
+				  1922</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="efd36549-1308-47eb-8934-e5e3014e8c93" type="box">77</container> <container parent="efd36549-1308-47eb-8934-e5e3014e8c93" type="folder">1-3</container> 
+			 <unittitle>Longfellow Mining Department: Air drill, machine and
+				standard shifts
+				<unitdate normal="1912-06/1919-07" type="inclusive">June 1912-July
+				  1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fa57c99b-4a3f-439a-a11a-8c785581dc24" type="box">77</container> <container parent="fa57c99b-4a3f-439a-a11a-8c785581dc24" type="folder">4-5</container> 
+			 <unittitle>Longfellow Mining Department: Air charges
+				<unitdate normal="1914-03/1921-12" type="inclusive">March 1914-December
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e0f88a20-d35b-47d5-8af2-79aa90e92d6a" type="box">77</container> <container parent="e0f88a20-d35b-47d5-8af2-79aa90e92d6a" type="folder">6</container> 
+			 <unittitle>Longfellow Mining Department: Air drill expenses
+				<unitdate normal="1914-07/1920-09" type="inclusive">July 1914-September
+				  1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f6bde425-d154-41ff-bb07-51faa7e4afa0" type="box">78</container> <container parent="f6bde425-d154-41ff-bb07-51faa7e4afa0" type="folder">1-2</container> 
+			 <unittitle>Longfellow Mining Department: Air drill repair costs
+				<unitdate normal="1917-10/1922-12" type="inclusive">October 1917-September 1919,
+				  December 1922</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="441eedfc-34bf-4f02-bd5f-edf44931fe76" type="box">78</container> <container parent="441eedfc-34bf-4f02-bd5f-edf44931fe76" type="folder">3-4</container> 
+			 <unittitle>Longfellow Mining Department: Power statement
+				<unitdate normal="1914-04/1921-09" type="inclusive">April 1914-September
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f2d17bfd-cbe1-49de-9aa3-7e7bcdfba030" type="box">78</container> <container parent="f2d17bfd-cbe1-49de-9aa3-7e7bcdfba030" type="folder">5</container> 
+			 <unittitle>Longfellow Mining Department: Connections and development
+				
+				<unitdate normal="1913-09/1916-09" type="inclusive">September 1913-September
+				  1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="29cfd6b3-8f1d-42cc-b620-e4d21a005aa2" type="box">78</container> <container parent="29cfd6b3-8f1d-42cc-b620-e4d21a005aa2" type="folder">6-7</container> 
+			 <unittitle>Longfellow Mining Department: Electric haulage costs
+				<unitdate normal="1913-10/1921-04" type="inclusive">October 1913-April
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="87dc60b5-fced-408f-a619-dded5dc74686" type="box">79</container> <container parent="87dc60b5-fced-408f-a619-dded5dc74686" type="folder">1-2</container> 
+			 <unittitle>Longfellow Mining Department: Footage costs
+				<unitdate normal="1917-01/1921-12" type="inclusive">January 1917-December
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b5384e82-9140-4b6d-b4fc-7c5c05f089d4" type="box">79</container> <container parent="b5384e82-9140-4b6d-b4fc-7c5c05f089d4" type="folder">3-6</container> 
+			 <unittitle>Longfellow Mining Department: Footage reports
+				<unitdate normal="1913-05/1922-02" type="inclusive">May 1913-February
+				  1922</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e80245c0-294a-4429-a144-f33ec49f03f9" type="box">80</container> <container parent="e80245c0-294a-4429-a144-f33ec49f03f9" type="folder">1-9</container> 
+			 <unittitle>Longfellow Mining Department: Segregation of accounts
+				<unitdate normal="1914-10/1921-12" type="inclusive">October 1914-December
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="29b86baf-6206-4610-9d59-2221824b024b" type="box">81</container> <container parent="29b86baf-6206-4610-9d59-2221824b024b" type="folder">1-6</container> 
+			 <unittitle>Longfellow Mining Department: Monthly abstracts of labor
+				and materials
+				<unitdate normal="1909-11/1914-09" type="inclusive">November 1909-September
+				  1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b1213dd4-bb35-4117-9785-9def5895e427" type="box">82</container> <container parent="b1213dd4-bb35-4117-9785-9def5895e427" type="folder">1-4</container> 
+			 <unittitle>Longfellow Mining Department: Monthly abstracts of labor
+				and materials
+				<unitdate normal="1914-10/1918-09" type="inclusive">October 1914-September
+				  1918</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="17d39687-1629-498d-a7ec-942170aef1c9" type="box">83</container> <container parent="17d39687-1629-498d-a7ec-942170aef1c9" type="folder">1-5</container> 
+			 <unittitle>Longfellow Mining Department: Monthly abstracts of labor
+				and materials
+				<unitdate normal="1918-10/1921-12" type="inclusive">October 1918-December
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3445aa63-e70b-4da3-aa94-c5693ca200ef" type="box">84</container> <container parent="3445aa63-e70b-4da3-aa94-c5693ca200ef" type="folder">1</container> 
+			 <unittitle>Longfellow Mining Department: Segregation of tonnages
+				<unitdate normal="1913-10/1915-09" type="inclusive">October 1913-September
+				  1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="bf992b7f-df3a-4dce-84ef-0ba44b905d56" type="box">84</container> <container parent="bf992b7f-df3a-4dce-84ef-0ba44b905d56" type="folder">2-5</container> 
+			 <unittitle>Longfellow Mining Department: Monthly report
+				<unitdate normal="1913-07/1921-12" type="inclusive">July 1913-December
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2d5449ee-cfc5-43c2-99af-bcb046a9e2a7" type="box">84</container> <container parent="2d5449ee-cfc5-43c2-99af-bcb046a9e2a7" type="folder">6-9</container> 
+			 <unittitle>Longfellow Mining Department: Production records
+				<unitdate normal="1907/1919" type="inclusive">1907-1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="de722acd-b6ae-44d3-907a-8cdd21907d8e" type="box">85</container> <container parent="de722acd-b6ae-44d3-907a-8cdd21907d8e" type="folder">1</container> 
+			 <unittitle>Coronado Mining Department: Air charges
+				<unitdate normal="1917-12/1921-12" type="inclusive">December 1917-December
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cb83d958-0f70-4762-9b32-461d3c1b488f" type="box">85</container> <container parent="cb83d958-0f70-4762-9b32-461d3c1b488f" type="folder">2</container> 
+			 <unittitle>Coronado Mining Department: Air drill expenses 
+				<unitdate normal="1917-02/1920-09" type="inclusive">February 1917-September
+				  1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="eb779640-5cba-4762-ac27-d50b4c2c0ea3" type="box">85</container> <container parent="eb779640-5cba-4762-ac27-d50b4c2c0ea3" type="folder">3-4</container> 
+			 <unittitle>Coronado Mining Department: Cost statements
+				<unitdate normal="1918-01/1920-09" type="inclusive">January 1918-September
+				  1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5c2d8607-ef8a-4882-b3a1-d5afc9b4efb6" type="box">85</container> <container parent="5c2d8607-ef8a-4882-b3a1-d5afc9b4efb6" type="folder">5</container> 
+			 <unittitle>Coronado Mining Department: Direct mining costs
+				<unitdate normal="1917-01/1922-06" type="inclusive">January 1917-June
+				  1922</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ed538d96-2ee2-43aa-8efb-40e846a44aa1" type="box">85</container> <container parent="ed538d96-2ee2-43aa-8efb-40e846a44aa1" type="folder">6</container> 
+			 <unittitle>Coronado Mining Department: Electric haulage costs
+				<unitdate normal="1920-03/1921-04" type="inclusive">March 1920-April
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="55532940-903d-413b-b59d-c16e1049a602" type="box">85</container> <container parent="55532940-903d-413b-b59d-c16e1049a602" type="folder">7</container> 
+			 <unittitle>Coronado Mining Department: Power statements
+				<unitdate normal="1917-01/1921-09" type="inclusive">January 1917-September
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fc6f698f-9cac-4f10-b976-203665c6ea11" type="box">86</container> <container parent="fc6f698f-9cac-4f10-b976-203665c6ea11" type="folder">1-3</container> 
+			 <unittitle>Coronado Mining Department: Segregation of accounts
+				<unitdate normal="1917-02/1921-12" type="inclusive">February 1917-December
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="89a6afde-3ccd-42ad-ae45-d0cd22263b74" type="box">86</container> <container parent="89a6afde-3ccd-42ad-ae45-d0cd22263b74" type="folder">4-6</container> 
+			 <unittitle>Coronado Mining Department: Monthly abstracts
+				<unitdate normal="1917-05/1921-03" type="inclusive">May 1917-March
+				  1921</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Note: abstracts for 1911-1913 and April-October 1921 are combined
+				with the Metcalf Monthly Abstracts. See box 88.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b9821d78-49c3-45b9-8829-0e8550dcc521" type="box">86</container> <container parent="b9821d78-49c3-45b9-8829-0e8550dcc521" type="folder">7</container> 
+			 <unittitle>Coronado Mining Department: Footage costs 
+				<unitdate normal="1917-04/1921-12" type="inclusive">April 1917-December
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5d1378f2-d74a-4624-ad80-cf363254dd2e" type="box">86</container> <container parent="5d1378f2-d74a-4624-ad80-cf363254dd2e" type="folder">8</container> 
+			 <unittitle>Coronado Mining Department: Miscellaneous reports
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="effb8c00-472e-45c7-a500-822f26c48202" type="box">87</container> <container parent="effb8c00-472e-45c7-a500-822f26c48202" type="folder">1</container> 
+			 <unittitle>Metcalf Mining Department: Air charges and air drill
+				expenses 
+				<unitdate normal="1917-12/1919-04" type="inclusive">December 1917-April 1919 and
+				  April 1917-September 1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="003842f4-215e-440c-ab46-d831b3fc2b0a" type="box">87</container> <container parent="003842f4-215e-440c-ab46-d831b3fc2b0a" type="folder">2</container> 
+			 <unittitle>Metcalf Mining Department: Cost statements 
+				<unitdate normal="1917-11/1919-09" type="inclusive">November 1917-September
+				  1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5ea1c77d-8d74-41f6-99be-27b9ccaabd8e" type="box">87</container> <container parent="5ea1c77d-8d74-41f6-99be-27b9ccaabd8e" type="folder">3</container> 
+			 <unittitle>Metcalf Mining Department: Direct mining costs 
+				<unitdate normal="1917-06/1919-04" type="inclusive">June 1917-April
+				  1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9e7c8ace-0f51-4cd1-89c6-6771e86717ab" type="box">87</container> <container parent="9e7c8ace-0f51-4cd1-89c6-6771e86717ab" type="folder">4</container> 
+			 <unittitle>Metcalf Mining Department: Footage costs 
+				<unitdate normal="1818-05/1919-04" type="inclusive">May 1918-April
+				  1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4a9baa23-759f-4d31-a0ab-39076bc5f239" type="box">87</container> <container parent="4a9baa23-759f-4d31-a0ab-39076bc5f239" type="folder">5</container> 
+			 <unittitle>Metcalf Mining Department: Segregation of accounts
+				<unitdate normal="1917-06/1921-04" type="inclusive">June 1917-April
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="70b8b1ee-f048-4005-b81b-32a480077aaf" type="box">87</container> <container parent="70b8b1ee-f048-4005-b81b-32a480077aaf" type="folder">6</container> 
+			 <unittitle>Metcalf Mining Department: Standard air shifts and
+				miscellaneous shift reports 
+				<unitdate normal="1917-12/1919-04" type="inclusive">December 1917-April
+				  1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b7105316-f47b-4e71-9ca2-583f70c81276" type="box">88</container> <container parent="b7105316-f47b-4e71-9ca2-583f70c81276" type="folder">1-5</container> 
+			 <unittitle>Metcalf Mining Department: Monthly abstracts 
+				<unitdate normal="1911-01/1921-12" type="inclusive">January 1911-December
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d176f0cd-1b90-4fe0-8d4d-ffab352d5066" type="volume">89</container> 
+			 <unittitle>Wage Account Check Register
+				<unitdate normal="1903-11/1904-04" type="inclusive">November 1903-April
+				  1904</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="de68a9e8-1986-4cc5-ab54-5aa9ed37c35b" type="volume">90</container> 
+			 <unittitle>Wage Account Check Register 
+				<unitdate normal="1904-04/1905-02" type="inclusive">April 1904-February
+				  1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="87248aad-e6ac-4e20-8595-b8c12790f514" type="volume">91</container> 
+			 <unittitle>Wage Account Check Register 
+				<unitdate normal="1905-02/1905-10" type="inclusive">February 1905-October
+				  1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="22ab3618-bad0-4c2b-95c7-b8a937c46970" type="volume">92</container> 
+			 <unittitle>Wage Account Check Register
+				<unitdate normal="1905-10/1906-04" type="inclusive">October 1905-April
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="eadfd7d6-0d32-4f1d-81d5-42d78a3d0eff" type="volume">93</container> 
+			 <unittitle>Register of unclaimed wages 
+				<unitdate normal="1915-03/1920-09" type="inclusive">March 1915-September
+				  1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4b6b1afb-51e8-4c18-b9be-964a481364bc" type="volume">94</container> 
+			 <unittitle>Mine location notes. 
+				<unitdate normal="1885/1890" type="inclusive">1885-1890</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="80d74c4e-81a8-44fd-93d9-925b27c7544b" type="volume">95</container> 
+			 <unittitle>Contract mining journal 
+				<unitdate normal="1903-11/1908-02" type="inclusive">November 1903-February
+				  1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b546c50e-d293-4c3d-95b0-35e87ca31b35" type="volume">96</container> 
+			 <unittitle>Cables received and dispatched
+				<unitdate normal="1907-03/1910-08" type="inclusive">March 1907-August
+				  1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e4b44772-f741-4935-b35f-6e8d7cbf24a8" type="volume">97</container> 
+			 <unittitle>Scrap iron
+				<unitdate normal="1899-02/1914-08" type="inclusive">February 1899-August
+				  1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="72b05aaf-8980-4fb4-b097-36f1645297e6" type="volume">98</container> 
+			 <unittitle>Furnace report (smelter)
+				<unitdate normal="1906-01/1914-08" type="inclusive">January 1906-August
+				  1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d758906f-9787-475e-b58e-af7ccc969607" type="box">99</container> 
+			 <unittitle>Clifton Warehouse: Supply inventory 
+				<unitdate normal="1916/1918" type="inclusive">1916-1918</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="32f4139f-21c9-4aa3-8c9a-981a6201c4d7" type="volume">100</container> 
+			 <unittitle>Financial Inventories
+				<unitdate normal="1918/1921" type="inclusive">1918-1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Arizona and New Mexico Railway Company Records
+			 <unitdate normal="1890/1919" type="inclusive">1890-1919</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="4b1304ad-2e5b-4cba-87b8-7e2e9d54c8bb" type="volume">101</container> 
+			 <unittitle>Arizona and New Mexico Railway Company: Memo Cash Book 
+				<unitdate normal="1890/1895" type="inclusive">1890-1895</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="dd898b43-a1c8-4603-b727-8a49caa539b2" type="volume">102</container> 
+			 <unittitle>Arizona and New Mexico Railway Company: Fuel oil records 
+				<unitdate normal="1916/1919" type="inclusive">1916-1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0c2f208c-b85f-4b05-b238-e06fc25afd84" type="volume">103</container> 
+			 <unittitle>Railway Time Book
+				<unitdate normal="1900-03/1900-10" type="inclusive">March -October
+				  1900</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c97c373e-4b85-407a-a172-239b19151816" type="volume">104</container> 
+			 <unittitle>Railway Time Book
+				<unitdate normal="1903-02/1903-10" type="inclusive">February-October
+				  1903</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Records of Injured Persons
+			 <unitdate normal="1912/1921" type="inclusive">1912-1921</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="1610b394-6a50-47ce-b714-bf59f1e09cef" type="box">105</container> 
+			 <unittitle>Compensation Payments to Injured Persons, no. 1-669
+				<unitdate normal="1912/1914" type="inclusive">1912-1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2aa5f7f5-dc2a-4500-9797-33641f0b3641" type="box">106</container> 
+			 <unittitle>Compensation Payments to Injured Persons, no. 670-1499
+				<unitdate normal="1914/1917" type="inclusive">1914-1917</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c85da81b-eda4-408f-b64a-ac007aba379c" type="box">107</container> 
+			 <unittitle>Compensation Payments to Injured Persons, no. 1500-2000
+				<unitdate normal="1917/1919" type="inclusive">1917-1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="63d452c5-0623-4d04-b1fc-106d4490dd39" type="box">107</container> 
+			 <unittitle>Metcalf Hospital Record
+				<unitdate normal="1916/1919" type="inclusive">1916-1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="583ca79a-60e9-4938-adc0-87b08c9f8c7b" type="box">108</container> 
+			 <unittitle>Clifton Hospital Record
+				<unitdate normal="1916/1921" type="inclusive">1916-1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9ef2d602-2a28-4d68-b169-c6f4e595e24a" type="volume">109</container> 
+			 <unittitle>Hospital Accounts Receivable
+				<unitdate normal="1916/1918" type="inclusive">1916-1918</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="638917fd-bddd-4421-b2ff-393c42ef33a9" type="box">110</container> <container parent="638917fd-bddd-4421-b2ff-393c42ef33a9" type="folder">1-4</container> 
+			 <unittitle>Mine Inspector: Report on Accidents
+				<unitdate normal="1913-04/1921-09" type="inclusive">April 1913-September
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c253722c-0d24-41a1-a5ba-fb1c9a8201d5" type="box">110</container> <container parent="c253722c-0d24-41a1-a5ba-fb1c9a8201d5" type="folder">5</container> 
+			 <unittitle>Mining Department: Report of Personal Injury
+				<unitdate normal="1919/1921" type="inclusive">1919-1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2da5000f-7dae-4582-9054-9dae8e43c4e6" type="volume">111</container> 
+			 <unittitle>Summary of Injuries to Persons
+				<unitdate normal="1912-10/1915-09" type="inclusive">October 1912-September
+				  1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IV: Production and Sales Records
+			 <unitdate normal="1893/1921" type="inclusive">1893-1921</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="1865bdaa-3dec-4086-b542-0203fb8ef8b9" type="volume">112</container> 
+			 <unittitle>Ore, Coke and Copper Record
+				<unitdate normal="1893-10/1905-12" type="inclusive">October 1893-December
+				  1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="35f3b87c-be7e-4659-b3f3-dddc8fa5fafd" type="volume">113</container> 
+			 <unittitle>Ore, Coke and Copper Record
+				<unitdate normal="1906-02/1915-09" type="inclusive">February 1906-September
+				  1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8e42c626-1db9-45fa-8e83-09155e8b6f56" type="volume">114</container> 
+			 <unittitle>Copper Costs
+				<unitdate normal="1905-10/1909-12" type="inclusive">October 1905-December
+				  1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="457b3177-3e35-4f8c-812d-32c2b2b93953" type="volume">115</container> 
+			 <unittitle>Copper Sales and Proceeds
+				<unitdate normal="1913-10/1921-10" type="inclusive">October 1913-October
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="247424d7-464b-41b1-906a-f1672ac53980" type="volume">116</container> 
+			 <unittitle>Copper Sales
+				<unitdate normal="1916-05/1917-12" type="inclusive">May 1916-December
+				  1917</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5740f29b-caa8-4d32-8bc7-f4d34120c987" type="volume">117</container> 
+			 <unittitle>Copper Record: Production and Shipment
+				<unitdate normal="1916-01/1921-12" type="inclusive">January 1916-December
+				  1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series V: Miscellaneous Financial Records (Microfiche) 
+			 <unitdate normal="1909/1921" type="inclusive">1909-1921</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="17778f76-3478-4707-b22f-c0b6eb74884c" type="box">118</container> 
+			 <unittitle>Cost Sheets
+				<unitdate normal="1909-12/1914-09" type="inclusive">December 1909-September
+				  1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="80a0b00b-87ee-47e4-bc38-b67160e463a6" type="box">118</container> 
+			 <unittitle>Mining Cost Sheets (General Office)
+				<unitdate normal="1917" type="inclusive">January 1917-March
+				  1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="80d9dfda-87cc-4797-9cc1-591bff0309c2" type="box">118</container> 
+			 <unittitle>Production Costs (Coronado)
+				<unitdate normal="1905" type="inclusive">April
+				  1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="58e98500-8b6e-4d5a-93b7-5e043c018771" type="box">118</container> 
+			 <unittitle>Abstract Journal
+				<unitdate normal="1911-07/1920-01" type="inclusive">July 1911-January
+				  1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7a60a324-6f28-47fa-bb14-247f16adc738" type="box">118</container> 
+			 <unittitle>Rent Records
+				<unitdate normal="1912/1920" type="inclusive">1912-1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ad66ee25-00fb-47a2-a928-a9329c9b0c6d" type="box">118</container> 
+			 <unittitle>Rent Records: Clifton 
+				<unitdate normal="1918/1920" type="inclusive">1918-1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="02f439ab-a826-4a10-bef6-536574fc074c" type="box">118</container> 
+			 <unittitle>Rent Records: Longfellow 
+				<unitdate normal="1918/1920" type="inclusive">1918-1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f6af7329-15ed-42b6-84d2-c4fac87ccfe5" type="box">118</container> 
+			 <unittitle>Rent Records: Metcalf/Coronado
+				<unitdate normal="1912/1920" type="inclusive">1912-1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="34c8f6b9-06d3-44e8-a671-fd8eaad834d0" type="box">118</container> 
+			 <unittitle>Ground Rent: Metcalf/Coronado
+				<unitdate normal="1912/1920" type="inclusive">1912-1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="58525fe0-4b42-4011-a92b-e832e6b37d75" type="box">118</container> 
+			 <unittitle>Payroll Records: Longfellow
+				<unitdate normal="1914/1921" type="inclusive">1914-1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="682dc950-e81d-4d6c-ae23-05dbd8e6bb1e" type="box">118</container> 
+			 <unittitle>Payroll Records: Coronado
+				<unitdate normal="1914/1921" type="inclusive">1914-1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d6e1e343-f4af-4c42-a6ff-990bc1d702a0" type="box">118</container> 
+			 <unittitle>Payroll Records: Metcalf
+				<unitdate normal="1914/1921" type="inclusive">1914-1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="753409da-d152-4289-8744-a96760c17ddd" type="box">118</container> 
+			 <unittitle>Payroll Records: Clifton
+				<unitdate normal="1914/1921" type="inclusive">1914-1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="af41a0d2-03cf-43d2-bbfc-2552073f1cae" type="box">118</container> 
+			 <unittitle>Payroll Records: Smelter
+				<unitdate normal="1914/1921" type="inclusive">1914-1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1e2c1c31-d286-49fb-9b2a-4ea8098b9094" type="box">118</container> 
+			 <unittitle>Voucher Records
+				<unitdate normal="1910/1920" type="inclusive">1910-1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="58c6412d-d7e6-4ab6-a60e-993d587cf123" type="box">118</container> 
+			 <unittitle>Light Ledgers for Longfellow, Metcalf and Coronado
+				<unitdate normal="1916/1920" type="inclusive">1916-1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01>
+  </dsc> 
+</archdesc></ead>

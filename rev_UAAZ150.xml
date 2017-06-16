@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+  <eadid>UAAZ150</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Thomas N. Stevens papers
+		  <date>1914-1964</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Staff. </author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
+		</address> 
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Linda A. Whitaker 
+		<date normal="2002-07-01">July 1, 2002</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc>
+    <revisiondesc>
+        <change>
+            <date normal="20170321">2017-03-21</date>
+            <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+        </change>
+    </revisiondesc>
+<revisiondesc><change><date normal="2017-06-16">2017-06-16</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Thomas N. Stevens papers
+		<date>1914-1964</date></titleproper> 
+	 <num>Collection Number: AZ 150</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1968</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Linda A. Whitaker</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage>
+</frontmatter>
+    <archdesc encodinganalog="351$c" level="collection" type="inventory">
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Thomas N. Stevens
+		papers
+		<unitdate normal="1914/1964" type="inclusive">1914-1964</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu"> AZ 150</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Stevens, Thomas
+		  N.</persname></origination> 
+	 <abstract>Correspondence, field surveys, legal and financial records
+		pertaining to work with U.S. General Land Office, various mining companies, and
+		individuals concerning land surveys to be used chiefly in patenting mining
+		claims. Companies included are Amado Mines, Baca Float Ranch, Phelps Dodge
+		Corporation, Morning Glory Mining Company, and Rancho del Lago. Also includes
+		material concerning Tucson properties and landscaping.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">1.2 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona </addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Thomas N. Stevens papers (AZ 150). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Stevens was a mineral surveyor in Tucson, Arizona. </p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into two series: </p> 
+	 <list> 
+		<item>Series I: Correspondence, 1914-1964 </item> 
+		<item>Series II: Other Materials, 1920-1939 </item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Correspondence, field surveys, legal and financial records pertaining to
+		work with U.S. General Land Office, various mining companies, and individuals
+		concerning land surveys to be used chiefly in patenting mining claims.
+		Companies included are Amado Mines, Baca Float Ranch, Phelps Dodge Corporation,
+		Morning Glory Mining Company, and Rancho del Lago. Also includes material
+		concerning Tucson properties and landscaping.</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <corpname>United States. -- Surveyor General
+			 </corpname><corpname>Amado Mines </corpname><corpname>Baca Float Ranch </corpname><corpname>Phelps Dodge Corporation
+			 </corpname><corpname>Morning Glory Mining Company
+			 </corpname><corpname>United States -- General Land Office
+			 </corpname><corpname> Rancho del Lago </corpname><subject>Mines and mineral resources -- Arizona </subject><subject>Real property -- Arizona -- Tucson </subject><genreform>Correspondence</genreform><genreform>Surveys</genreform><genreform>Photographs</genreform></controlaccess> 
+  <relatedmaterial encodinganalog="544"> 
+	 <head>Related Material</head> 
+	 <p>Maps received with the collection were cataloged separately. </p> 
+  </relatedmaterial> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Correspondence 
+			 <unitdate normal="1914/1964" type="inclusive">1914-1964</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did><container id="72f5f917-e9f0-4604-93f1-5a3df56c0dd0" type="box">1</container><container parent="72f5f917-e9f0-4604-93f1-5a3df56c0dd0" type="folder">1-4</container> 
+			 <unittitle>Correspondence: General
+				<unitdate normal="1917/1951" type="inclusive">1917-1940,
+				  1951</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="ad30890c-b9ac-4110-8d3d-3eea46858a7d" type="box">1</container><container parent="ad30890c-b9ac-4110-8d3d-3eea46858a7d" type="folder">5</container> 
+			 <unittitle>Correspondence: Miscellaneous Professional (engineering
+				societies, politics, personnel applications) 
+				<unitdate normal="1923/1939" type="inclusive">1923-1939</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="d4a473ce-0f27-44c9-b1ce-90e7fd0660a0" type="box">1</container><container parent="d4a473ce-0f27-44c9-b1ce-90e7fd0660a0" type="folder">6</container> 
+			 <unittitle>Correspondence: Amado Mines, Inc. 
+				<unitdate normal="1929/1938" type="inclusive">1929-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="ed4691bf-0b39-48ae-aee9-3516f6b8e8b3" type="box">1</container><container parent="ed4691bf-0b39-48ae-aee9-3516f6b8e8b3" type="folder">7</container> 
+			 <unittitle>Correspondence: Baca Float Ranch, Inc. 
+				<unitdate normal="1924/1939" type="inclusive">1924-1939
+				  </unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="0f2ccc44-aae6-4b59-9849-5b056c54b435" type="box">1</container><container parent="0f2ccc44-aae6-4b59-9849-5b056c54b435" type="folder">8</container> 
+			 <unittitle>Correspondence: Phelps Dodge Corporation 
+				<unitdate normal="1924/1939" type="inclusive">1924-1939</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="592692aa-5795-4e1d-988e-7b79cdbae9db" type="box">2</container><container parent="592692aa-5795-4e1d-988e-7b79cdbae9db" type="folder">1-4</container> 
+			 <unittitle>Correspondence: U.S. Surveyor General &amp; General Land
+				Office
+				<unitdate normal="1914/1940" type="inclusive">1914-1940</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="b1e0b1d3-5fdb-4291-b545-47721f7e81fd" type="box">2</container><container parent="b1e0b1d3-5fdb-4291-b545-47721f7e81fd" type="folder">5</container> 
+			 <unittitle>Correspondence: Equipment and Supplies 
+				<unitdate normal="1925/1939" type="inclusive">1925-1939</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="1ede3ab5-adc3-4e46-af89-ac6926ad1f8c" type="box">2</container><container parent="1ede3ab5-adc3-4e46-af89-ac6926ad1f8c" type="folder">6</container> 
+			 <unittitle>Correspondence: Investments (Colonial bond &amp; Share
+				Corp., National Bond &amp; Mortgage Co. of Illinois, U.S. Mortgage Bond Company
+				of Detroit, Greenback Mining Company, Intermountain Building &amp; Loan Assoc.,
+				Rio Grand Oil Company)
+				<unitdate normal="1925/1929" type="inclusive">1925-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="4ee6d834-74ef-4557-b7ee-51cdbe01ad66" type="box">2</container><container parent="4ee6d834-74ef-4557-b7ee-51cdbe01ad66" type="folder">7</container> 
+			 <unittitle>Correspondence: Family, Miscellaneous Personal,
+				Automobile
+				<unitdate normal="1918/1964" type="inclusive">1918-1964</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Other Materials
+			 <unitdate normal="1920/1939" type="inclusive">1920-1939</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did><container id="00250b67-24a1-48fb-9e7d-ea19f408ad87" type="box">3</container><container parent="00250b67-24a1-48fb-9e7d-ea19f408ad87" type="folder">1</container> 
+			 <unittitle>Morning Glory Mining Company (correspondence, maps, blue
+				prints, photographs, ore settlements, assay reports)
+				<unitdate normal="1920/1932" type="inclusive">1920-1932</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="318ed842-3252-47a2-8a73-1722597ef1b4" type="box">3</container><container parent="318ed842-3252-47a2-8a73-1722597ef1b4" type="folder">2</container> 
+			 <unittitle>Rancho del Lago (correspondence, survey notes,
+				blueprints)
+				<unitdate normal="1931/1937" type="inclusive">1931-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="b6ad9a76-ec58-41e7-93a5-e9ea6dd2f8c6" type="box">3</container><container parent="b6ad9a76-ec58-41e7-93a5-e9ea6dd2f8c6" type="folder">3</container> 
+			 <unittitle>Property in Tucson (correspondence, legal papers,
+				blueprints of houses in the Catalina foothills, Fairmont, Buell's, Palo Verde,
+				Rincon Heights, and Williams Additions)
+				<unitdate normal="1924/1939" type="inclusive">1924-1939</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="0c723379-8f71-4bef-bbc7-bcd84a2e6fb1" type="box">3</container><container parent="0c723379-8f71-4bef-bbc7-bcd84a2e6fb1" type="folder">4</container> 
+			 <unittitle>Landscaping (general correspondence, material relating to
+				landscaping course) 
+				<unitdate normal="1928/1933" type="inclusive">1928-1933</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="735ead41-e07e-4b51-9057-33762392f180" type="box">3</container><container parent="735ead41-e07e-4b51-9057-33762392f180" type="folder">5</container> 
+			 <unittitle>Arizona State Board of Registration
+				<unitdate normal="1924/1939" type="inclusive">1924-1939</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="48944590-0a00-435b-b43f-b577aa41f178" type="box">3</container><container parent="48944590-0a00-435b-b43f-b577aa41f178" type="folder">6</container> 
+			 <unittitle>Arizona State Water Commissioner
+				<unitdate normal="1921/1936" type="inclusive">1921-1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="4bd352ef-f147-48b8-8d18-e964b476333c" type="box">3</container><container parent="4bd352ef-f147-48b8-8d18-e964b476333c" type="folder">7</container> 
+			 <unittitle>Financial Records (bank records, taxes, insurance and
+				bills for a 1955 map of Tucson prepared by T.N. Stevens and Associates)
+				<unitdate normal="1924/1955" type="inclusive">1924-1938,
+				  1954-1955</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="693e3239-aacc-41ed-aecf-91991b9868bc" type="box">3</container><container parent="693e3239-aacc-41ed-aecf-91991b9868bc" type="folder">8</container> 
+			 <unittitle>Miscellaneous Legal Papers 
+				<unitdate>No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="02185854-0bf0-4afe-b406-9d77abd607b2" type="box">3</container><container parent="02185854-0bf0-4afe-b406-9d77abd607b2" type="folder">9</container> 
+			 <unittitle>Estate of Sarah (Stevens) Hiskey (sister of T.N. Stevens)
+				
+				<unitdate normal="1940/1945" type="inclusive">1940-1945</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="42dbb48b-3d42-4879-a9ba-662059cddf82" type="box">3</container><container parent="42dbb48b-3d42-4879-a9ba-662059cddf82" type="folder">10</container> 
+			 <unittitle>Field Surveys (drawings)
+				<unitdate>No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+    <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+        <eadid>UAAZ112</eadid> 
+        <filedesc> 
+            <titlestmt> 
+                <titleproper encodinganalog="title">Construction Records of the United States Army
+                    <date calendar="gregorian" certainty="approximate" era="ce" normal="1931/1932" type="inclusive">1931-1932</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing"> Construction Records of the United States Army
+                </titleproper>
+                <author>Processed by Staff.</author> 
+            </titlestmt> 
+            <publicationstmt> 
+                <publisher>University of Arizona Libraries, Special Collections</publisher> 
+                <address> 
+                    <addressline>PO Box 210055</addressline> 
+                    <addressline>Tucson, AZ 85721-0055</addressline> 
+                    <addressline>Phone: 520-621-6423</addressline> 
+                    <addressline>Fax: 520-621-9733</addressline> 
+                    <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+                    <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+                </address> 
+                <date calendar="gregorian" era="ce" normal="2015">2015</date> 
+                <p>Arizona Board of Regents. All Rights Reserved.</p> 
+            </publicationstmt> 
+        </filedesc> 
+        <profiledesc> 
+            <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+                <date encodinganalog="date" era="ce" normal="20151201">2015-12-01</date>
+            </creation>
+            <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+            <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date normal="20170307">2017-03-07</date>
+                <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+            </change>
+        </revisiondesc>
+    <revisiondesc><change><date normal="2017-06-16">2017-06-16</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader>
+    <archdesc encodinganalog="351$c" level="collection" type="inventory">
+        <did> 
+            <head>Collection Summary</head> 
+            <unittitle encodinganalog="245" label="Collection Name"> Construction Records of the United States Army
+                <unitdate label="Dates" normal="1931/1932" type="inclusive">1931-1932</unitdate>
+            </unittitle>	 
+            <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 112</unitid>
+            <origination label="Creator"> 
+                <corpname encodinganalog="110" source="lcnaf">United States. Army.</corpname> </origination>
+            <abstract label="Abstract">Bids, contracts, specifications, blueprints, correspondence, financial 
+                records and forms relating to construction, 1931-1932. Construction of 
+                an Airways Operation Building and an Air Corps Hangar at the present 
+                Davis-Monthan Air Force Base in Tucson, Ariz.</abstract> 
+            <physdesc encodinganalog="300$a" label="Physical Description"><extent>0.4 linear feet</extent></physdesc>	 
+            <repository label="Repository"> 
+                <corpname>University of Arizona Libraries, Special Collections</corpname> 
+                <address> 
+                    <addressline>University of Arizona</addressline> 
+                    <addressline>PO Box 210055</addressline> 
+                    <addressline>Tucson, AZ 85721-0055</addressline> 
+                    <addressline>Phone: 520-621-6423</addressline> 
+                    <addressline>Fax: 520-621-9733</addressline> 
+                    <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+                    <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+                </address>
+            </repository>
+            <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+        </did> 
+        <accessrestrict> 
+            <head>Restrictions</head> 
+            <p>There are no restrictions on this collection.</p> 
+        </accessrestrict> 
+        <userestrict> 
+            <head>Copyright</head> 
+            <p>It is the responsibility of the user to obtain permission to publish
+                from the owner of the copyright (the institution, the creator of the record,
+                the author or his/her transferees, heirs, legates, or literary executors). The
+                user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+                University of Arizona, its officers, employees, and agents from and against all
+                claims made by any person asserting that he or she is an owner of
+                copyright.
+            </p> 
+        </userestrict> 
+        <prefercite> 
+            <head>Credit Line</head> 
+            <p>Construction Records of the United States Army (AZ 112). Special Collections, University of Arizona Libraries.</p>
+        </prefercite>
+        <acqinfo>
+            <head>Acquisition Information</head>
+            <p>Acquired as gift, 1958.</p>
+        </acqinfo>
+        <processinfo>
+            <head>Processing History</head>
+            <p>Processed by Staff.</p>
+        </processinfo>
+        <bioghist encodinganalog="545"> 
+            <head>Biographical Note</head> 
+            <p>Construction of an Airways Operation Building and an Air 
+                Corps Hangar at the present Davis-Monthan Air Force Base in Tucson, Ariz.</p> 
+        </bioghist> 
+        <arrangement encodinganalog="351$a"> 
+            <head>Arrangement</head> 
+            <p>This collection is organized into 3 series.</p>	 
+            <list>
+                <item>Series I:Blueprints and specifications
+                    <unitdate>1931-1932</unitdate></item>
+                <item>Series II:Correspondence
+                    <unitdate>1931-1932</unitdate></item>
+                <item>Series III:Financial records
+                    <unitdate>1931-1932</unitdate></item>
+            </list>
+        </arrangement> 
+        <scopecontent encodinganalog="520"> 
+            <head>Scope and Content Note</head> 
+            <p>Bids, contracts, specifications, blueprints, 
+                correspondence, financial records and forms relating to 
+                construction, 1931-1932.</p> 
+        </scopecontent>
+        <controlaccess>
+            <subject>Airports -- Arizona -- Tucson</subject><geogname>Davis-Monthan Air Force Base (Ariz.)</geogname></controlaccess>
+    </archdesc>
+</ead>

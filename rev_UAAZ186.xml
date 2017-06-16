@@ -1,0 +1,699 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+  <eadid>UAAZ186</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Lot Smith papers 
+		  <date>1854-1890</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Will
+		  Bagley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address> 
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Shan Sutton. 
+		<date normal="20010131">2001-01-31</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+    <revisiondesc>
+        <change>
+            <date normal="20170323">2017-03-23</date>
+            <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+        </change>
+    </revisiondesc>
+<revisiondesc><change><date normal="2017-06-16">2017-06-16</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Lot Smith papers 
+		<date>1854-1890</date></titleproper> 
+	 <num>Collection Number: AZ 186</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Will Bagley</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>March, 1998</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Shan Sutton</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage>
+</frontmatter>
+    <archdesc encodinganalog="351$c" level="collection" type="inventory">
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Lot Smith papers 
+		<unitdate normal="1854/1890" type="inclusive">1854-1890</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 186</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Smith, Lot
+		  1830-1892</persname></origination> 
+	 <abstract>Collection consists of correspondence, legal papers, biographical
+		and family materials relating to Lot Smith. Smith was a Mormon soldier and
+		colonist, and leader of the mission to settle the Little Colorado River area in
+		northern Arizona beginning in 1876. </abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">0.2 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Library Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona </addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>Originals are restricted. Users are required to use photocopies of the
+		collection.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Lot Smith papers (AZ 186). Special Collections, University of Arizona Libraries.</p>
+	 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Smith was a Mormon soldier and colonist, and leader of the mission to
+		settle the Little Colorado River area in northern Arizona beginning in 1876.
+		</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into three series:</p> 
+	 <list> 
+		<item>I. Correspondence, 
+		  <unitdate normal="1857/1890" type="inclusive">1857-1890</unitdate></item> 
+		<item>II. Legal documents, 
+		  <unitdate normal="1855/1888" type="inclusive">1855-1888</unitdate></item> 
+		<item>III. Miscellaneous, 
+		  <unitdate normal="1878/1962" type="inclusive">1878-1962</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Collection consists of correspondence, legal papers, biographical and
+		family materials. Correspondence consists chiefly of letters to Lot Smith,
+		while president of the Little Colorado Stake, from Brigham Young, Wilford
+		Woodruff, and other officials of the Mormon Church regarding colonization in
+		Arizona at Sunset Crossing on the Little Colorado River. Also included are
+		correspondence and commissions relating to Smith's earlier military service;
+		tithing receipts; minutes of a 1889 Mormon High Council meeting concerning
+		Smith; certificates of election to Utah Territorial legislative assemblies; and
+		a 1962 address list of Smith's descendants.</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <persname>Young, Brigham, 1801-1877 --
+			 Correspondence</persname><persname>Woodruff, Wilford, 1807-1898 --
+			 Correspondence</persname><corpname>Church of Jesus Christ of Latter Day
+			 Saints -- Zion Stake -- Little Colorado</corpname><subject>Mormons -- Arizona -- History -- Sources</subject><subject>Mormon church -- Arizona -- History --
+			 Sources</subject><subject>Church buildings -- Arizona -- History</subject><geogname>Joseph City Region (Ariz.) -- History --
+			 Sources</geogname><genreform>Correspondence</genreform><genreform>&gt;Minutes</genreform></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Correspondence 
+			 <unitdate normal="1857/1890" type="inclusive">1857-1890</unitdate></unittitle> 
+		</did> 
+		<c02> 
+		  <did><container id="f6dd0d1a-cafc-4009-81e1-b7dbfa301ca3" type="box">1</container><container parent="f6dd0d1a-cafc-4009-81e1-b7dbfa301ca3" type="folder">1</container> 
+			 <unittitle>Wells to Lot Smith
+				<unitdate normal="1857" type="inclusive">October 17,
+				  1857</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="bc4d9451-bf5a-4775-9df3-b5d4faa5f744" type="box">1</container><container parent="bc4d9451-bf5a-4775-9df3-b5d4faa5f744" type="folder">1</container> 
+			 <unittitle>Clark to Lot Smith
+				<unitdate normal="1861" type="inclusive">September 29,
+				  1861</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="67f79680-7cc0-4e15-b26c-3bf58cc9e4db" type="box">1</container><container parent="67f79680-7cc0-4e15-b26c-3bf58cc9e4db" type="folder">1</container> 
+			 <unittitle>Young, Kimball, and Wells to Lot Smith 
+				<unitdate normal="1862" type="inclusive">April 30,
+				  1862</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="0735bb48-3343-4e1f-a1d3-f11f9954b713" type="box">1</container><container parent="0735bb48-3343-4e1f-a1d3-f11f9954b713" type="folder">1</container> 
+			 <unittitle>Assistant Adjutant General H.B. Clawson to Lot Smith
+				<unitdate normal="1862" type="inclusive">July 15,
+				  1862</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="ad9f55e4-0cf0-4658-9959-3542d1b4d4a2" type="box">1</container><container parent="ad9f55e4-0cf0-4658-9959-3542d1b4d4a2" type="folder">1</container> 
+			 <unittitle>Assistant Adjutant General H.B. Clawson to Lot Smith 
+				<unitdate normal="1863" type="inclusive">May 21,
+				  1863</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="c91d0d43-4308-442d-82be-76a5eafd0d7f" type="box">1</container><container parent="c91d0d43-4308-442d-82be-76a5eafd0d7f" type="folder">1</container> 
+			 <unittitle>Colonel R.T. Burton to Lot Smith
+				<unitdate normal="1864" type="inclusive">April 28,
+				  1864</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="245d2c6b-3fe4-44e5-8c2a-56be5a1abc52" type="box">1</container><container parent="245d2c6b-3fe4-44e5-8c2a-56be5a1abc52" type="folder">1</container> 
+			 <unittitle>Winder to Lot Smith
+				<unitdate normal="1864" type="inclusive">May 11,
+				  1864</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="037f7725-861f-47dd-81fc-b5a5fc645e71" type="box">1</container><container parent="037f7725-861f-47dd-81fc-b5a5fc645e71" type="folder">1</container> 
+			 <unittitle>Leiutenant General Daniel H. Wells to Lot Smith
+				<unitdate normal="1866" type="inclusive">May 23,
+				  1866</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="2b49091d-f07f-4b38-b0ae-49d968c74063" type="box">1</container><container parent="2b49091d-f07f-4b38-b0ae-49d968c74063" type="folder">1</container> 
+			 <unittitle>Colonel R.T. Burton to Lot Smith 
+				<unitdate normal="1866" type="inclusive">June 12,
+				  1866</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="b6fbe70f-d41c-4129-9b70-152545a133d6" type="box">1</container><container parent="b6fbe70f-d41c-4129-9b70-152545a133d6" type="folder">2</container> 
+			 <unittitle>Brigham Young to Lot Smith
+				<unitdate normal="1869" type="inclusive">May 20,
+				  1869</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="b1d98ced-0296-4cdb-83f1-6d5dbb1e99bb" type="box">1</container><container parent="b1d98ced-0296-4cdb-83f1-6d5dbb1e99bb" type="folder">2</container> 
+			 <unittitle>Brigham Young to Lot Smith
+				<unitdate normal="1876" type="inclusive">March 4,
+				  1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="182e3201-4d3f-4d38-bb12-bebd647ebe44" type="box">1</container><container parent="182e3201-4d3f-4d38-bb12-bebd647ebe44" type="folder">2</container> 
+			 <unittitle>Brigham Young to Lot Smith
+				<unitdate normal="1876" type="inclusive">April 26,
+				  1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="3c8aaec0-8162-4f5e-aa21-5ad1f98d1d25" type="box">1</container><container parent="3c8aaec0-8162-4f5e-aa21-5ad1f98d1d25" type="folder">2</container> 
+			 <unittitle>Brigham Young to Lot Smith 
+				<unitdate normal="1876" type="inclusive">May 14,
+				  1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="42be35d5-c591-4a3b-97d0-8647fd8092f9" type="box">1</container><container parent="42be35d5-c591-4a3b-97d0-8647fd8092f9" type="folder">2</container> 
+			 <unittitle>Lot Smith to Brigham Young
+				<unitdate normal="1876" type="inclusive">July 7,
+				  1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="ef6b20f8-1df0-4233-8c72-912aa3166125" type="box">1</container><container parent="ef6b20f8-1df0-4233-8c72-912aa3166125" type="folder">2</container> 
+			 <unittitle>Brigham Young to Lot Smith
+				<unitdate normal="1876" type="inclusive">July 14,
+				  1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="36a81a56-2e70-43d9-9384-03cbbbff34c0" type="box">1</container><container parent="36a81a56-2e70-43d9-9384-03cbbbff34c0" type="folder">2</container> 
+			 <unittitle>Brigham Young to Lot Smith, Lake, Ballinger, Allen, and
+				the brethren encamped on the Little Colorado
+				<unitdate normal="1876" type="inclusive">July 15,
+				  1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="b9c3a674-0242-4235-90db-4b74451213b4" type="box">1</container><container parent="b9c3a674-0242-4235-90db-4b74451213b4" type="folder">2</container> 
+			 <unittitle>Brigham Young to Lot Smith
+				<unitdate normal="1876" type="inclusive">July 29,
+				  1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="53572141-7bd8-48e3-b4c0-212e13d6b909" type="box">1</container><container parent="53572141-7bd8-48e3-b4c0-212e13d6b909" type="folder">2</container> 
+			 <unittitle>Brigham Young to Lot Smith and other presidents of
+				companies, Little Colorado River
+				<unitdate normal="1876" type="inclusive">August 7,
+				  1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="58aa4211-358c-42ed-8137-de82903b7707" type="box">1</container><container parent="58aa4211-358c-42ed-8137-de82903b7707" type="folder">2</container> 
+			 <unittitle>Brigham Young to Lot Smith and other presidents of
+				companies, Little Colorado River
+				<unitdate normal="1876" type="inclusive">September,
+				  1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="bbde45ed-3e47-4bb5-ad91-59a7c0074d65" type="box">1</container><container parent="bbde45ed-3e47-4bb5-ad91-59a7c0074d65" type="folder">2</container> 
+			 <unittitle>Brigham Young to Lot Smith
+				<unitdate normal="1876" type="inclusive">November 25,
+				  1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="bdb2c35e-abad-43c5-bef4-3e69c55787ec" type="box">1</container><container parent="bdb2c35e-abad-43c5-bef4-3e69c55787ec" type="folder">2</container> 
+			 <unittitle>Brigham Young, J.W. Young, Erastus Snow, and Brigham Young
+				Jr. to Lot Smith, Ballanger, Lake, and Allen. St George, Utah 
+				<unitdate normal="1877" type="inclusive">January 10,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="c01b67d3-d226-4b1d-9789-e2a7b6dd9de7" type="box">1</container><container parent="c01b67d3-d226-4b1d-9789-e2a7b6dd9de7" type="folder">2</container> 
+			 <unittitle>Brigham Young to Lot Smith. Sunset Crossing
+				<unitdate normal="1877" type="inclusive">June 28,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="d232b8fb-6e74-4ab1-a709-7929795b5c2f" type="box">1</container><container parent="d232b8fb-6e74-4ab1-a709-7929795b5c2f" type="folder">2</container> 
+			 <unittitle>Brigham Young to Elder George Lake
+				<unitdate normal="1877" type="inclusive">July 13,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="1291b224-414d-496f-b594-efce8bb19264" type="box">1</container><container parent="1291b224-414d-496f-b594-efce8bb19264" type="folder">2</container> 
+			 <unittitle>John Taylor to Lot Smith
+				<unitdate normal="1877" type="inclusive">October 23,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="f30a0d93-1368-4d94-803b-5f388f23e01c" type="box">1</container><container parent="f30a0d93-1368-4d94-803b-5f388f23e01c" type="folder">2</container> 
+			 <unittitle>John Taylor to Lot Smith
+				<unitdate normal="1878" type="inclusive">April 14,
+				  1878</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="56774cbd-66f6-45ae-a812-f750a4ad6be5" type="box">1</container><container parent="56774cbd-66f6-45ae-a812-f750a4ad6be5" type="folder">2</container> 
+			 <unittitle>John Taylor to Lot Smith
+				<unitdate normal="1878" type="inclusive">August 20,
+				  1878</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="55ce1aab-9fcd-47a6-a590-95c5c253bd5a" type="box">1</container><container parent="55ce1aab-9fcd-47a6-a590-95c5c253bd5a" type="folder">2</container> 
+			 <unittitle>John Taylor to presidents of the various branches of Zion
+				<unitdate normal="1878" type="inclusive">August 22,
+				  1878</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="d1ecbabb-01d5-452b-8141-7c7880c82ef3" type="box">1</container><container parent="d1ecbabb-01d5-452b-8141-7c7880c82ef3" type="folder">2</container> 
+			 <unittitle>John Taylor to Lot Smith
+				<unitdate normal="1878" type="inclusive">November 27,
+				  1878</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="5de758bc-b193-4c74-9d73-5042979ef179" type="box">1</container><container parent="5de758bc-b193-4c74-9d73-5042979ef179" type="folder">2</container> 
+			 <unittitle>McKenzie to Lot Smith. Tithing orders
+				<unitdate normal="1878" type="inclusive">December 4,
+				  1878</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="559e5630-1b76-4d43-a6bb-2405a5675e2f" type="box">1</container><container parent="559e5630-1b76-4d43-a6bb-2405a5675e2f" type="folder">2</container> 
+			 <unittitle>Brigham Young to Lot Smith
+				<unitdate normal="1879" type="inclusive">February 29,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="bc9e5ce4-1ac5-4739-b748-f749325e293f" type="box">1</container><container parent="bc9e5ce4-1ac5-4739-b748-f749325e293f" type="folder">2</container> 
+			 <unittitle>John Taylor to Lot Smith 
+				<unitdate normal="1879" type="inclusive">August 14,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="12a4c680-7531-4b6b-a257-ae19f7ebf56e" type="box">1</container><container parent="12a4c680-7531-4b6b-a257-ae19f7ebf56e" type="folder">2</container> 
+			 <unittitle>Lot Smith to John Taylor 
+				<unitdate normal="1880" type="inclusive">March 31,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="9a93a7dc-6b79-42aa-b2d3-8698566a3689" type="box">1</container><container parent="9a93a7dc-6b79-42aa-b2d3-8698566a3689" type="folder">2</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="1880" type="inclusive">April 3,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="96c59755-90ed-4de6-834e-f878b4289315" type="box">1</container><container parent="96c59755-90ed-4de6-834e-f878b4289315" type="folder">2</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="1880" type="inclusive">April 12,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="36df8283-8820-4929-825d-704dfc792050" type="box">1</container><container parent="36df8283-8820-4929-825d-704dfc792050" type="folder">2</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="1880" type="inclusive">April 21,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="acd618f0-ec81-4e82-bbab-a6d8b652383b" type="box">1</container><container parent="acd618f0-ec81-4e82-bbab-a6d8b652383b" type="folder">2</container> 
+			 <unittitle>Woodruff to Lot Smith 
+				<unitdate normal="1880" type="inclusive">May 12,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="6537e7a0-2432-4153-801e-3a21b3d0a03f" type="box">1</container><container parent="6537e7a0-2432-4153-801e-3a21b3d0a03f" type="folder">2</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="18800619" type="inclusive">June 19
+				  ,1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="cd508c84-f528-4328-bf4f-205875e5666e" type="box">1</container><container parent="cd508c84-f528-4328-bf4f-205875e5666e" type="folder">2</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="1880" type="inclusive">September 15,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="1872b8fb-d0de-4686-9ee8-683f32cba895" type="box">1</container><container parent="1872b8fb-d0de-4686-9ee8-683f32cba895" type="folder">2</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="1880" type="inclusive">December 14,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="258b67ba-e194-4812-9273-e75dd8230214" type="box">1</container><container parent="258b67ba-e194-4812-9273-e75dd8230214" type="folder">3</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="1881" type="inclusive">January 27,
+				  1881</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="1a234391-22b8-4a9a-a570-9953f9270518" type="box">1</container><container parent="1a234391-22b8-4a9a-a570-9953f9270518" type="folder">3</container> 
+			 <unittitle>Woodruff to all the saints 
+				<unitdate normal="1881" type="inclusive">January 27,
+				  1881</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="f3b71761-4dcd-4b94-a36e-b7da388137cc" type="box">1</container><container parent="f3b71761-4dcd-4b94-a36e-b7da388137cc" type="folder">3</container> 
+			 <unittitle>Lot Smith to John Taylor (incomplete) 
+				<unitdate normal="1881" type="inclusive">February,
+				  1881</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="9457a70e-45af-442d-b5b7-c461927bc8b2" type="box">1</container><container parent="9457a70e-45af-442d-b5b7-c461927bc8b2" type="folder">3</container> 
+			 <unittitle>John W. Young to Lot Smith
+				<unitdate normal="1881" type="inclusive">April 26,
+				  1881</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="4dfd0e30-ee69-4772-a760-569aa8cc8eff" type="box">1</container><container parent="4dfd0e30-ee69-4772-a760-569aa8cc8eff" type="folder">3</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="1882" type="inclusive">January 16,
+				  1882</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="92290241-d9e4-4c1c-ab32-01cee18334b3" type="box">1</container><container parent="92290241-d9e4-4c1c-ab32-01cee18334b3" type="folder">3</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="1882" type="inclusive">January 31,
+				  1882</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="bfcecd7c-4356-4d8d-a4a0-8f5ccf8b744c" type="box">1</container><container parent="bfcecd7c-4356-4d8d-a4a0-8f5ccf8b744c" type="folder">3</container> 
+			 <unittitle>John W. Young to Smith
+				<unitdate normal="1882" type="inclusive">August 3,
+				  1882</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="daecb0a8-703d-4b07-a8bd-6963679503bf" type="box">1</container><container parent="daecb0a8-703d-4b07-a8bd-6963679503bf" type="folder">3</container> 
+			 <unittitle>Brigham Young Jr. to Lot Smith
+				<unitdate normal="1882" type="inclusive">October 17,
+				  1882</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="9d8b8e64-883e-42a7-b73a-fd4c3b19b9e1" type="box">1</container><container parent="9d8b8e64-883e-42a7-b73a-fd4c3b19b9e1" type="folder">3</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="1882" type="inclusive">October 23,
+				  1882</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="ddf98fba-6a9e-4885-adf4-bb2126ffe6b7" type="box">1</container><container parent="ddf98fba-6a9e-4885-adf4-bb2126ffe6b7" type="folder">3</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="1882" type="inclusive">November 10,
+				  1882</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="5165914b-1083-40f4-9fcb-88a87cebfee1" type="box">1</container><container parent="5165914b-1083-40f4-9fcb-88a87cebfee1" type="folder">3</container> 
+			 <unittitle>Woodruff to Lot Smith 
+				<unitdate normal="1882" type="inclusive">November 28,
+				  1882</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="bdd3b53d-04c0-4dbe-9496-e81fb6faa661" type="box">1</container><container parent="bdd3b53d-04c0-4dbe-9496-e81fb6faa661" type="folder">3</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="1882" type="inclusive">December 7,
+				  1882</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="445938c4-8cee-468c-a568-72bf39572060" type="box">1</container><container parent="445938c4-8cee-468c-a568-72bf39572060" type="folder">3</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="1883" type="inclusive">March 23,
+				  1883</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="7e08ab20-613f-434f-921f-e8a80cc2c487" type="box">1</container><container parent="7e08ab20-613f-434f-921f-e8a80cc2c487" type="folder">3</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="1883" type="inclusive">April 17,
+				  1883</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="fab9adc8-47ae-42be-aedd-2b415c5d93e8" type="box">1</container><container parent="fab9adc8-47ae-42be-aedd-2b415c5d93e8" type="folder">3</container> 
+			 <unittitle>Woodruff to Lot Smith 
+				<unitdate normal="1883" type="inclusive">November 8,
+				  1883</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="b9bef7e1-4ba3-4391-9111-52307f222bed" type="box">1</container><container parent="b9bef7e1-4ba3-4391-9111-52307f222bed" type="folder">3</container> 
+			 <unittitle>Woodruff to Lot Smith 
+				<unitdate normal="1884" type="inclusive">February 26,
+				  1884</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="93e52b61-00fc-46fd-91b3-a34048935014" type="box">1</container><container parent="93e52b61-00fc-46fd-91b3-a34048935014" type="folder">3</container> 
+			 <unittitle>Woodruff to Taylor
+				<unitdate normal="1884" type="inclusive">April 10,
+				  1884</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="0bfe6137-e2af-481d-a292-9e0e3b21a463" type="box">1</container><container parent="0bfe6137-e2af-481d-a292-9e0e3b21a463" type="folder">3</container> 
+			 <unittitle>Woodruff to Lot Smith
+				<unitdate normal="1884" type="inclusive">April 15,
+				  1884</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="2bbae7e2-8802-467a-a3e1-bb36cf329e0e" type="box">1</container><container parent="2bbae7e2-8802-467a-a3e1-bb36cf329e0e" type="folder">3</container> 
+			 <unittitle>Woodruff to Taylor
+				<unitdate normal="1884" type="inclusive">April 18,
+				  1884</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="ab43e3c1-a9af-46b4-9f4f-5a80d0c74f07" type="box">1</container><container parent="ab43e3c1-a9af-46b4-9f4f-5a80d0c74f07" type="folder">3</container> 
+			 <unittitle>T.W. Brookbank to Lot Smith 
+				<unitdate normal="1886" type="inclusive">October 3,
+				  1886</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="b824bf97-5d45-4050-a04f-7ab8946dba5d" type="box">1</container><container parent="b824bf97-5d45-4050-a04f-7ab8946dba5d" type="folder">3</container> 
+			 <unittitle>Daniel Taylor to Lot Smith
+				<unitdate normal="1888" type="inclusive">July 7,
+				  1888</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="d702d801-6233-4579-add6-8a0a3529d3fa" type="box">1</container><container parent="d702d801-6233-4579-add6-8a0a3529d3fa" type="folder">3</container> 
+			 <unittitle>Lot Smith to Woodruff
+				<unitdate normal="1890" type="inclusive">March 11,
+				  1890</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="cf5ac569-3e3d-4d9a-b25f-bca356eb76b8" type="box">1</container><container parent="cf5ac569-3e3d-4d9a-b25f-bca356eb76b8" type="folder">3</container> 
+			 <unittitle>Brigham Young to Lot Smith
+				<unitdate>No Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="507bb40f-7d4d-4371-8b36-2a12b54e60a5" type="box">1</container><container parent="507bb40f-7d4d-4371-8b36-2a12b54e60a5" type="folder">3</container> 
+			 <unittitle>Latter fragment (sender and recipient unknown)
+				<unitdate>No Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Legal Documents
+			 <unitdate normal="1855/1888" type="inclusive">1855-1888</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did><container id="cd06a2d3-2db7-43c1-9dc8-266e4482d07b" type="box">1</container><container parent="cd06a2d3-2db7-43c1-9dc8-266e4482d07b" type="folder">4</container> 
+			 <unittitle>Lot Smith, Captain's commission, Utah Territorial Militia 
+				<unitdate normal="1855" type="inclusive">1855</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="befcdc7a-263f-4d4b-8868-d159c5b66639" type="box">1</container><container parent="befcdc7a-263f-4d4b-8868-d159c5b66639" type="folder">4</container> 
+			 <unittitle>Lot Smith, certificate of membership in Deseret
+				Agricultural and Manufacturing Society
+				<unitdate normal="1859" type="inclusive">January,
+				  1859</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="006e405f-b1af-4be7-bbda-3b9b355f89f3" type="box">1</container><container parent="006e405f-b1af-4be7-bbda-3b9b355f89f3" type="folder">4</container> 
+			 <unittitle>Lot Smith, certificate of election as Utah legislative
+				representative
+				<unitdate normal="1860" type="inclusive">October 10,
+				  1860</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="aca04387-55a3-4e41-83a4-64340cabc503" type="box">1</container><container parent="aca04387-55a3-4e41-83a4-64340cabc503" type="folder">4</container> 
+			 <unittitle>Power of attorney, William Loveland to J. Charles
+				Remington
+				<unitdate normal="1862" type="inclusive">April 24,
+				  1862</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="6c9351ac-abc9-4aab-84e8-ad33d7cf9ab3" type="box">1</container><container parent="6c9351ac-abc9-4aab-84e8-ad33d7cf9ab3" type="folder">4</container> 
+			 <unittitle>Lot Smith, Brigadier General's commission, Utah
+				Territorial Militia
+				<unitdate normal="1868" type="inclusive">February 26,
+				  1868</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="b4702497-1bc3-4226-b32f-6606c70d3225" type="box">1</container><container parent="b4702497-1bc3-4226-b32f-6606c70d3225" type="folder">4</container> 
+			 <unittitle>Lot Smith, certificate of election as member of council of
+				Utah legislature
+				<unitdate normal="1871" type="inclusive">December 20,
+				  1871</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="4cfec65e-f9c5-451f-9301-6b828fa1616b" type="box">1</container><container parent="4cfec65e-f9c5-451f-9301-6b828fa1616b" type="folder">4</container> 
+			 <unittitle>Lot Smith, receipt for purchase of a horse 
+				<unitdate normal="1883" type="inclusive">January 15,
+				  1883</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="557add63-62e5-4f05-89ba-65fb4bae7640" type="box">1</container><container parent="557add63-62e5-4f05-89ba-65fb4bae7640" type="folder">4</container> 
+			 <unittitle>Lot Smith and Martin Sanders, receipt for purchase of
+				livestock 
+				<unitdate normal="1886" type="inclusive">June 28,
+				  1886</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="8c36fe6a-96b5-4b06-a834-eedc99b1d7f4" type="box">1</container><container parent="8c36fe6a-96b5-4b06-a834-eedc99b1d7f4" type="folder">4</container> 
+			 <unittitle>Lot Smith, claim of a survivor of the Mexican War for
+				pension
+				<unitdate normal="1888" type="inclusive">1888</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Miscellaneous
+			 <unitdate normal="1878/1962" type="inclusive">1878-1962</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did><container id="8f76791b-9f21-43a3-a5f2-7922fe08fdeb" type="box">1</container><container parent="8f76791b-9f21-43a3-a5f2-7922fe08fdeb" type="folder">5</container> 
+			 <unittitle>Minutes of Mormon high council meeting. A.S. Farnsworth
+				and Lot Smith livestock case 
+				<unitdate normal="1889" type="inclusive">May 31,
+				  1889</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="3ac73451-39b0-4442-837a-ae09f34bb8c6" type="box">1</container><container parent="3ac73451-39b0-4442-837a-ae09f34bb8c6" type="folder">6</container> 
+			 <unittitle>Tithing receipts 
+				<unitdate normal="1878/1883" type="inclusive">1878-1883</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="01b17189-1fdc-4fac-b32e-fa7a861a21a8" type="box">1</container><container parent="01b17189-1fdc-4fac-b32e-fa7a861a21a8" type="folder">7</container> 
+			 <unittitle>Clippings, blessings, biographical materials 
+				<unitdate normal="1878/1962" type="inclusive">1878-1962</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

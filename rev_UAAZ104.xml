@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+    <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+        <eadid>rev_UAAZ104</eadid> 
+        <filedesc> 
+            <titlestmt> 
+                <titleproper encodinganalog="title">Letter Book of Louis C. Hughes
+                    <date calendar="gregorian" certainty="approximate" era="ce" normal="1893/1896" type="inclusive">1893-1896</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing"> Hughes, (Louis C.) Letter Book of
+                </titleproper>
+                <author>Processed by Staff.</author> 
+            </titlestmt> 
+            <publicationstmt> 
+                <publisher>University of Arizona Libraries, Special Collections</publisher> 
+                <address> 
+                    <addressline>PO Box 210055</addressline> 
+                    <addressline>Tucson, AZ 85721-0055</addressline> 
+                    <addressline>Phone: 520-621-6423</addressline> 
+                    <addressline>Fax: 520-621-9733</addressline> 
+                    <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+                    <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+                </address> 
+                <date calendar="gregorian" era="ce" normal="2015">2015</date> 
+                <p>Arizona Board of Regents. All Rights Reserved.</p> 
+            </publicationstmt> 
+        </filedesc> 
+        <profiledesc> 
+            <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+                <date encodinganalog="date" era="ce" normal="20151125">2015-11-25</date>
+            </creation>
+            <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+            <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date normal="20170306">2017-03-06</date>
+                <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+            </change>
+        </revisiondesc>
+    <revisiondesc><change><date normal="2017-06-16">2017-06-16</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc><revisiondesc><change><date normal="2017-06-16">2017-06-16</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader>
+    <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+        <did> 
+            <head>Collection Summary</head> 
+            <unittitle encodinganalog="245" label="Collection Name"> Letter Book of Louis C. Hughes
+                <unitdate label="Dates:" normal="1893/1896" type="inclusive">1893-1896</unitdate>
+            </unittitle>	 
+            <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 104</unitid>
+            <origination label="Creator"> 
+                <persname encodinganalog="100" source="lcnaf">Hughes, Louis C., 1844-1915.</persname> </origination>
+            <abstract label="Abstract">Louis C. Hughes, 1844-1915, was an Arizona pioneer, lawyer, newspaper publisher, and politician.
+                Hughes established the Arizona Daily Star in 1877 and published it until his death. This collection 
+                contains a letter copybook of Hughes' correspondence while serving as Governor of Arizona Territory. 
+                Letters include references to appointments, recommendations, the territorial prison, and the Board of Regents.
+                Letters are carbon copies and many are difficult to read.</abstract> 
+            <physdesc encodinganalog="300$a" label="Physical Description"><extent>0.2 linear feet</extent></physdesc>	 
+            <repository label="Repository"> 
+                <corpname>University of Arizona Libraries, Special Collections</corpname> 
+                <address> 
+                    <addressline>University of Arizona</addressline> 
+                    <addressline>PO Box 210055</addressline> 
+                    <addressline>Tucson, AZ 85721-0055</addressline> 
+                    <addressline>Phone: 520-621-6423</addressline> 
+                    <addressline>Fax: 520-621-9733</addressline> 
+                    <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+                    <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+                </address>
+            </repository>
+            <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+        </did> 
+        <accessrestrict> 
+            <head>Restrictions</head> 
+            <p>There are no restrictions on this collection.</p> 
+        </accessrestrict> 
+        <userestrict> 
+            <head>Copyright</head> 
+            <p>It is the responsibility of the user to obtain permission to publish
+                from the owner of the copyright (the institution, the creator of the record,
+                the author or his/her transferees, heirs, legates, or literary executors). The
+                user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+                University of Arizona, its officers, employees, and agents from and against all
+                claims made by any person asserting that he or she is an owner of
+                copyright.
+            </p> 
+        </userestrict> 
+        <prefercite> 
+            <head>Credit Line</head> 
+            <p>Letter Book of Louis C. Hughes (AZ 104). Special Collections, University of Arizona Libraries.</p>
+        </prefercite>
+        <acqinfo>
+            <head>Acquisition Information</head>
+            <p>Acquired as gift of the Hughes family.</p>
+        </acqinfo>
+        <processinfo>
+            <head>Processing History</head>
+            <p>Processed by Staff.</p>
+        </processinfo>
+        <bioghist encodinganalog="545"> 
+            <head>Biographical Note</head> 
+            <p>Arizona pioneer; lawyer, newspaper publisher, and 
+                politician. Hughes established the Arizona Daily Star in 
+                1877 and published it until his death. He served as 
+                district attorney, probate judge, attorney general of 
+                Arizona, U.S. Court Commissioner, member and secretary to 
+                the Board of World's Fair Commissioners for Arizona, 
+                Governor of Arizona, 1893-1896, and chancellor of the 
+                Board of Regents, 1897-1898.</p> 
+        </bioghist> 
+        <arrangement encodinganalog="351$a"> 
+            <head>Arrangement</head> 
+            <p>This collection is organized chronologically.</p>
+        </arrangement> 
+        <scopecontent encodinganalog="520"> 
+            <head>Scope and Content Note</head> 
+            <p>Letter copybook of Hughes correspondence while serving as 
+                Governor of Arizona Territory. Letters include references
+                to appointments, recommendations, the territorial prison, 
+                and the Board of Regents. Letters are carbon copies and many 
+                are difficult to read.</p> 
+        </scopecontent> 
+        <relatedmaterial encodinganalog="544"><p>AZ 103 features a collection of scrapbooks of newspaper clippings relating to Hughes' political career.</p></relatedmaterial>
+        <controlaccess>
+            <persname>Hughes, Louis C., 1844-1915</persname><subject>Governors -- Arizona</subject><geogname>Arizona -- History -- To 1912 -- Sources</geogname><geogname>Arizona -- Politics and government -- To 1950 -- Sources</geogname></controlaccess>
+    </archdesc>
+</ead>

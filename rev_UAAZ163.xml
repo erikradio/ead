@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+  <eadid>UAAZ163</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Detroit Copper Mining Company
+		  records, 
+		  <date>1882-1919</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Staff.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Linda A. Whitaker 
+		<date normal="20020626">2002-06-26</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+    <revisiondesc>
+        <change>
+            <date normal="20170321">2017-03-21</date>
+            <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+        </change>
+    </revisiondesc>
+<revisiondesc><change><date normal="2017-06-16">2017-06-16</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Detroit Copper Mining Company records 
+		<date>1882-1919</date></titleproper> 
+	 <num>Collection Number: AZ 163</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1968</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Linda A. Whitaker</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage>
+</frontmatter>
+<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Detroit Copper
+		Mining Company records
+		<unitdate normal="1882/1919" type="inclusive">1882-1919</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number:" repositorycode="US-azu">AZ 163</unitid> 
+	 <origination label="Creator:"> 
+		<corpname encodinganalog="110">Detroit Copper Mining Company</corpname>
+		</origination> 
+	 <abstract>Financial journals, payrolls, time books, and ore and freight
+		records related to mining company operations. Includes financial records of
+		Hotel Morenci (1904-1913) and Frisco Ranch (1909-1913).</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent encodinganalog="300">6 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Detroit Copper Mining Company records (AZ 163). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Historical Note</head> 
+	 <p>Copper mining company operations near Clifton and Morenci, Arizona,
+		started in 1875 by William Church. Phelps Dodge purchased an interest in the
+		company in 1881 and bought Church out in 1897. After a 1917 reorganization, the
+		operation was known as Phelps Dodge Corporation, Morenci Branch. </p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into three series: </p> 
+	 <list> 
+		<item>Series I: Financial Records, 1883-1914 </item> 
+		<item>Series II : Hotel Morenci Financial and Payroll Records, 1904-1919
+		  </item> 
+		<item>Series III: Payroll and Time Books, 1882-1911</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Financial journals, payrolls, time books, and ore and freight records
+		related to mining company operations. Includes financial records of Hotel
+		Morenci (1904-1913) and Frisco Ranch (1909-1913). </p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <corpname>Detroit Copper Mining Company --
+			 Archives </corpname><corpname> Hotel Morenci -- Records and
+			 correspondence </corpname><corpname> Frisco Ranch -- Records and
+			 correspondence </corpname><subject>Copper mines and mining -- Arizona -- History -- Sources
+			 </subject><subject>Mines and mineral resources -- Arizona -- Greenlee County --
+			 History -- Sources </subject><subject>Mineral industries -- Arizona -- Finance -- Sources
+			 </subject><subject>Copper miners -- History -- Sources </subject><subject>Hotels -- Arizona -- Morenci -- History -- Sources
+			 </subject><genreform>Payrolls</genreform><genreform>Account books</genreform><genreform>Journals</genreform></controlaccess> 
+  <relatedmaterial encodinganalog="544"> 
+	 <head>Related Material</head> 
+	 <p>Additional payroll records and time books are on microfilm no. 2957.
+		</p> 
+  </relatedmaterial> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Financial Records 
+			 <unitdate normal="1883/1914" type="inclusive">1883-1914
+				</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did><container id="d24e1344-6cea-4f2a-a461-c94d45742259" type="volume">1</container> 
+			 <unittitle>Journal 
+				<unitdate normal="1883-09/1885-08" type="inclusive">September 1883-August
+				  1885</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="4ed7ad96-c637-4e20-8a96-89b670e04f1f" type="volume">2</container> 
+			 <unittitle>Journal. 
+				<unitdate normal="1885-09/1892-12" type="inclusive">September 1885-December
+				  1892</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="a9adca92-60c2-4ed6-83e1-fe136f1df9f1" type="volume">3</container> 
+			 <unittitle>Journal 
+				<unitdate normal="1893-01/1898-12" type="inclusive">January 1893-December
+				  1898</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="ef20f1fe-31e0-4401-baac-16fbca2c9058" type="volume">4</container> 
+			 <unittitle>Journal
+				<unitdate normal="1911-01/1913-03" type="inclusive">January 1911-March
+				  1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="d7738590-ff09-4ac3-a191-ce5c56dda13f" type="volume">5</container> 
+			 <unittitle>Engine Record (West Yankie Concentrator) 
+				<unitdate normal="1911-07/1913-02" type="inclusive">July 1911-February
+				  1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="6f8f16fc-d6b7-4ae5-8cb9-46222038d018" type="volume">6</container> 
+			 <unittitle>Freight Record. 
+				<unitdate normal="1910-10/1914-09" type="inclusive">October 1910-September
+				  1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Hotel Morenci Payroll and Financial Records 
+			 <unitdate normal="1904/1919" type="inclusive">1904-1919</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did><container id="47cbb32b-61a0-4339-a450-07cdb3e2eaf0" type="volume">7</container> 
+			 <unittitle>Hotel Morenci Ledger
+				<unitdate normal="1904/1905" type="inclusive">1904-1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="af6546bc-98b5-433a-b4fc-2fdf220ddaeb" type="volume">8</container> 
+			 <unittitle>Hotel Morenci Cash Book 
+				<unitdate normal="1908-01/1910-11" type="inclusive">January 1908-November
+				  1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="301c9901-c11b-4b98-be05-100ec9562491" type="volume">9</container> 
+			 <unittitle>Hotel Morenci Financial Records (various) 
+				<unitdate normal="1909/1913" type="inclusive">1909-1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="cb1015fb-7b31-412a-9a48-c7c81b4bf57f" type="box">10</container> 
+			 <unittitle>Miscellaneous Records 
+				<unitdate normal="1900/1919" type="inclusive">1900-1919</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes: 
+				<list> 
+				  <item>Four Morenci Time Books, October 1902-January 1919 </item> 
+				  <item>Price Note books, Charge Book, 1914-1915</item> 
+				  <item>Statement of Operations at Reduction Works, 1900</item> 
+				  <item>Stable and Forage Records (time books), 1906-1912</item> 
+				  <item>Draft Register</item> 
+				  <item>Frisco Ranch</item> 
+				</list></p> 
+		  </scopecontent> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Series III: Payroll and Time Books 
+			 <unitdate normal="1882/1911" type="inclusive">1882-1911</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did><container id="8ad74542-00d8-40b9-9316-0291823d5a81" type="box">11</container> 
+			 <unittitle>Payroll. 
+				<unitdate normal="1882/1889" type="inclusive">1882-1889</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="a52885bb-8f94-4170-b7b0-d5387df7a53c" type="box">12</container> 
+			 <unittitle>Payroll. 
+				<unitdate normal="1890/1894" type="inclusive">1890-1894</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="f4d8d1e1-0d2e-4738-a898-e63f3b3f348d" type="box">13</container> 
+			 <unittitle>Payroll. 
+				<unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="9402b6e9-bcf8-4d76-b647-acfa19778124" type="volume">14</container> 
+			 <unittitle>Time Book and Payroll
+				<unitdate normal="1897-06/1898-07" type="inclusive">June 1897-July
+				  1898</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="fd918a0a-2a53-42e9-8163-99b97bc64705" type="volume">15</container> 
+			 <unittitle>Time Book and Payroll
+				<unitdate normal="1898-08/1899-05" type="inclusive">August 1898-May
+				  1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="14bdefc0-5774-4f62-bb2c-024313b5326e" type="volume">16</container> 
+			 <unittitle>Time Book and Payroll
+				<unitdate normal="1899-05/1899-12" type="inclusive">May-December
+				  1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="18d7cbeb-6e35-465b-8389-0af1eca800fb" type="volume">17</container> 
+			 <unittitle>Time Book and Payroll
+				<unitdate normal="1900-01/1900-02" type="inclusive">January-February
+				  1900</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container id="22b54be0-c0fe-43c5-9fad-9391849c7059" type="volume">18</container> 
+			 <unittitle>Ore Record
+				<unitdate normal="1904/1911" type="inclusive">1904-1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

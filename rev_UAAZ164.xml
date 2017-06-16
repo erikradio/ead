@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+    <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+        <eadid>UAAZ164</eadid> 
+        <filedesc> 
+            <titlestmt> 
+                <titleproper encodinganalog="title">Manuscripts of Joseph Wood Krutch
+                    <date calendar="gregorian" certainty="approximate" era="ce" normal="1952/1970" type="inclusive">1952-1970</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing"> Manuscripts of Joseph Wood Krutch
+                </titleproper>
+                <author>Processed by Staff.</author> 
+            </titlestmt> 
+            <publicationstmt> 
+                <publisher>University of Arizona Libraries, Special Collections</publisher> 
+                <address> 
+                    <addressline>PO Box 210055</addressline> 
+                    <addressline>Tucson, AZ 85721-0055</addressline> 
+                    <addressline>Phone: 520-621-6423</addressline> 
+                    <addressline>Fax: 520-621-9733</addressline> 
+                    <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+                    <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+                </address> 
+                <date calendar="gregorian" era="ce" normal="2015">2015</date> 
+                <p>Arizona Board of Regents. All Rights Reserved.</p> 
+            </publicationstmt> 
+        </filedesc> 
+        <profiledesc> 
+            <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+                <date encodinganalog="date" era="ce" normal="20151218">2015-12-18</date>
+            </creation>
+            <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+            <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+        </profiledesc> 
+        <revisiondesc>
+            <change>
+                <date normal="20170321">2017-03-21</date>
+                <item>This finding aid was manually revised and updated to EAD 2.0 specifications by ESara Filion</item>
+            </change>
+        </revisiondesc>
+    <revisiondesc><change><date normal="2017-06-16">2017-06-16</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+    <archdesc encodinganalog="351$c" level="collection" type="inventory">
+        <did> 
+            <head>Collection Summary</head> 
+            <unittitle encodinganalog="245" label="Collection Name"> Manuscripts of Joseph Wood Krutch
+                <unitdate label="Dates" normal="1952/1970" type="inclusive">1952-1970</unitdate>
+            </unittitle>	 
+            <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 164</unitid>
+            <origination label="Creator"> 
+                <persname encodinganalog="100" source="lcnaf">Krutch, Joseph Wood, 1893-1970.</persname> </origination>
+            <abstract label="Abstract">Joseph Wood Krutch, 1893-1970, was an author, educator, and naturalist. Author of social criticism, 
+                critical biographies, and later naturalist essays; retired to Tucson in 1952 and completed several works. 
+                This collection includes typescripts, some with holograph corrections, of published manuscripts for <title render="italic">The Desert Year</title>, 1952, 
+                <title render="italic">Voice of the Desert: A Naturalist's Interpretation</title>, 1955, <title render="italic">The Great Chain of Life</title>, 1957, <title render="italic">Grand Canyon: Today and All Its Yesterdays</title>, 1958, 
+                <title render="italic">The Forgotten Peninsula: A Naturalist in Baja California</title>, 1961, <title render="italic">Herbal</title>, 1965, and the introduction for <title render="italic">The Best Nature Writing of Joseph 
+                    Wood Krutch</title>, 1970. Typescripts of unpublished travel diaries, 1965-1967, concern trips to France, Greece, and Baja California. 
+                Also present are printers copies for <title render="italic">Great Chain of Life</title>, <title render="italic">Forgotten Peninsula</title>, and <title render="italic">Grand Canyon</title>; 
+                and notes and miscellaneous material related to <title render="italic">Herbal</title>.</abstract> 
+            <physdesc encodinganalog="300$a" label="Physical Description"><extent>1.7 linear feet</extent></physdesc>	 
+            <repository label="Repository"> 
+                <corpname>University of Arizona Libraries, Special Collections</corpname> 
+                <address> 
+                    <addressline>University of Arizona</addressline> 
+                    <addressline>PO Box 210055</addressline> 
+                    <addressline>Tucson, AZ 85721-0055</addressline> 
+                    <addressline>Phone: 520-621-6423</addressline> 
+                    <addressline>Fax: 520-621-9733</addressline> 
+                    <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+                    <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+                </address>
+            </repository>
+            <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+        </did> 
+        <accessrestrict> 
+            <head>Restrictions</head> 
+            <p>There are no restrictions on this collection.</p> 
+        </accessrestrict> 
+        <userestrict> 
+            <head>Copyright</head> 
+            <p>It is the responsibility of the user to obtain permission to publish
+                from the owner of the copyright (the institution, the creator of the record,
+                the author or his/her transferees, heirs, legates, or literary executors). The
+                user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+                University of Arizona, its officers, employees, and agents from and against all
+                claims made by any person asserting that he or she is an owner of
+                copyright.
+            </p> 
+        </userestrict> 
+        <prefercite> 
+            <head>Credit Line</head> 
+            <p>Manuscripts of Joseph Wood Krutch (AZ 164). Special Collections, University of Arizona Libraries.</p>
+        </prefercite>
+        <acqinfo>
+            <head>Acquisition Information</head>
+            <p>Acquired as gifts, 1953-1967.</p>
+        </acqinfo>
+        <processinfo>
+            <head>Processing History</head>
+            <p>Processed by Staff.</p>
+        </processinfo>
+        <bioghist encodinganalog="545"> 
+            <head>Biographical Note</head> 
+            <p>Author, educator, and naturalist. Author of social 
+                criticism, critical biographies, and later naturalist 
+                essays; retired to Tucson in 1952 and completed several works.</p> 
+        </bioghist> 
+        <arrangement encodinganalog="351$a"> 
+            <head>Arrangement</head> 
+            <p>This collection is organized by title.</p>
+        </arrangement> 
+        <scopecontent encodinganalog="520"> 
+            <head>Scope and Content Note</head> 
+            <p>Typescripts, some with holograph corrections, of published
+                manuscripts for <title render="italic">The Desert Year</title>, 1952, <title render="italic">Voice of the Desert
+                    : A Naturalist's Interpretation</title>, 1955, <title render="italic">The Great Chain of 
+                        Life</title>, 1957, <title render="italic">Grand Canyon: Today and All Its Yesterdays</title>, 
+                1958, <title render="italic">The Forgotten Peninsula: A Naturalist in Baja 
+                    California</title>, 1961, <title render="italic">Herbal</title>, 1965, and the introduction for 
+                <title render="italic">The Best Nature Writing of Joseph Wood Krutch</title>, 1970.  
+                Typescripts of unpublished travel diaries, 1965-1967, 
+                concern trips to France, Greece, and Baja California.  
+                Also present are printers copies for <title render="italic">Great Chain of Life</title>, 
+                <title render="italic">Forgotten Peninsula</title>, and <title render="italic">Grand Canyon</title>; and notes and 
+                miscellaneous material related to Herbal.</p> 
+        </scopecontent> 
+        <controlaccess>
+            <persname>Krutch, Joseph Wood, 1893-1970 -- Archives</persname><subject>Animal behavior</subject><subject>Botany, Medical</subject><subject>Desert animals -- Arizona</subject><subject>Desert biology</subject><subject>Desert plants -- Arizona</subject><subject>Evolution (Biology)</subject><subject>Manuscripts, American</subject><subject>Natural history -- Mexico -- Baja California (Peninsula)</subject><subject>Natural history -- Southwest, New</subject><subject>Plants -- Folklore</subject><geogname>Baja California (Mexico : Peninsula) -- Description and travel -- Diaries</geogname><geogname>France -- Description and travel -- Diaries</geogname><geogname>Grand Canyon (Ariz.) -- History</geogname><geogname>Greece -- Description and travel -- Diaries</geogname></controlaccess>
+    </archdesc>
+</ead>
