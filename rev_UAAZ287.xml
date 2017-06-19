@@ -1,0 +1,575 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">UAAZ287</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Carlos Montezuma papers, 
+		  <date>1890-1922</date></titleproper>
+		<author encodinganalog="245$c">Inventory prepared by Phyllis Ball
+		  </author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp 
+		<date>July 30, 2002</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-16">2017-06-16</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Carlos Montezuma papers, 
+		<date>1890-1922</date></titleproper> 
+	 <num>Collection Number: AZ 287</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Phyllis Ball</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1972</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jennie Stapp</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Carlos Montezuma
+		papers, 
+		<unitdate normal="1890/1922" type="inclusive">1890-1922</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu"> AZ 287</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Montezuma, Carlos,
+		  1866-1923</persname></origination> 
+	 <abstract label="Abstract">This collection includes correspondence;
+		manuscripts of lectures, articles, and reminiscences relating to his career and
+		relationships with the federal government, reservations, and the Carlisle
+		Indian School; and miscellaneous medical materials. Correspondents include
+		officials of the Society of American Indians, American Indian Association,
+		Progressive Indian Association, Richard H. Pratt, founder of Carlisle Indian
+		School, as well as various relatives, friends, Native Americans, patients, and
+		government officials.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">1.25 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Carlos Montezuma papers(AZ 287). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Carlos Montezuma, whose Indian name was Wassaja, was a Yavapai Indian
+		from central Arizona. He was captured by Pima Indians and sold to a
+		photographer. He was educated in Arizona and New York City. He graduated from
+		the University of Illinois in 1884 and attended Chicago Medical College. Carlos
+		Montezuma served as a reservation physician working for the Indian Services
+		(BIA). While working on reservations he encouraged Native American children to
+		go to school. He eventually became a Yavapai advocate for Native Americans and
+		helped organize the Society of American Indians, a national lobbying group; and
+		published 
+	 <title render="italic">Wassaja</title>, a monthly indictment of the Bureau
+	 of Indian Affairs.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into three series:</p> 
+	 <list> 
+		<item>Series I: Correspondence, 1899-1922</item> 
+		<item>Series II: Lectures, Speeches and Articles, ca. 1907-1919</item> 
+		<item>Series III: Miscellaneous Materials, ca. 1890-1913</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This collection includes correspondence; manuscripts of lectures,
+		articles, and reminiscences relating to his career and relationships with the
+		federal government, reservations, and the Carlisle Indian School; and
+		miscellaneous medical materials. Correspondents include officials of the
+		Society of American Indians, American Indian Association, Progressive Indian
+		Association, Richard H. Pratt, founder of Carlisle Indian School, as well as
+		various relatives, friends, Native Americans, patients, and government
+		officials.</p> 
+  </scopecontent> 
+	<relatedmaterial encodinganalog="5441_"><p>Related materials pertaining to Carlos Montezuma may be found in the following collections and repositories: Carlos Montezuma Papers, the Newberry Library, Chicago; Carlos Montezuma Collection, MSS-60. Arizona State University Libraries: Arizona Collection; and Carlos Montezuma papers on microfilm: inventory of collection at SW Studies Center, Fort Lewis College. University of Arizona Main Libraries also has a copy of The papers of Carlos Montezuma, M.D. [microform] : including the papers of Maria Keller Montezuma Moore and the papers of Joseph W. Latimer,(Micro- film 6709).</p></relatedmaterial>
+  <controlaccess> 
+	 <persname>Montezuma, Carlos, 1866-1923 --
+			 Archives</persname><persname>Pratt, Richard Henry,
+			 1840-1924</persname><corpname> Society of American Indians --
+			 Correspondence </corpname><corpname>American Indian Association --
+			 Correspondence</corpname><corpname>United States. Bureau of Indian
+			 Affairs</corpname><corpname>United States Indian School (Carlisle,
+			 Pa.) </corpname><corpname>Progressive Indian Association --
+			 Correspondence</corpname><subject>Indians of North America -- Government relations -- 1869-1934
+			 -- Sources</subject><subject>Yavapai Indians -- Sources</subject><subject> Indians, Treatment of -- United States </subject><genreform>Correspondence</genreform><genreform>Manuscripts</genreform><genreform>Speeches</genreform></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Correspondence, 
+			 <unitdate normal="1899/1922" type="inclusive">1899-1922
+				</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="e0184e49-aa3c-42f8-a5e6-c0fcd410bcc6" type="box">1</container> <container parent="e0184e49-aa3c-42f8-a5e6-c0fcd410bcc6" type="folder">1-4</container> 
+			 <unittitle>Correspondence: General Richard H. Pratt. 
+				<unitdate normal="1907/1922" type="inclusive">1907-1922</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0010c4cf-4af9-48fd-ba13-4ab5fa76ef4c" type="box">1</container> <container parent="0010c4cf-4af9-48fd-ba13-4ab5fa76ef4c" type="folder">5</container> 
+			 <unittitle>Correspondence: General Richard H. Pratt (speeches and
+				articles). </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a9685c8a-28a2-4164-b52e-ea93901db677" type="box">1</container> <container parent="a9685c8a-28a2-4164-b52e-ea93901db677" type="folder">6</container> 
+			 <unittitle>Correspondence: Montezuma to General Richard H. Pratt
+				(drafts of letters). </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4ee35b89-bd61-46d5-a0ce-9cff7c316d10" type="box">1</container> <container parent="4ee35b89-bd61-46d5-a0ce-9cff7c316d10" type="folder">7</container> 
+			 <unittitle>Correspondence: Montezuma to various (drafts of letters).
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="16c77ef5-d002-4ec6-b77a-317352604d98" type="box">1</container> <container parent="16c77ef5-d002-4ec6-b77a-317352604d98" type="folder">8-10</container> 
+			 <unittitle>Correspondence: General. 
+				<unitdate normal="1899/1916" type="inclusive">1899-1916</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes a letter from Alonso Stagg, University of Chicago,
+				December 18, 1909.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f033afc3-05dd-44eb-8479-77fc99883cb8" type="box">2</container> <container parent="f033afc3-05dd-44eb-8479-77fc99883cb8" type="folder">1</container> 
+			 <unittitle>Correspondence: F. A. McKenzie &amp; Arthur C. Parker,
+				Society of American Indians. 
+				<unitdate normal="1904/1912" type="inclusive">1904-1912</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="44d074fe-916f-4884-bf33-2d72b86f02b5" type="box">2</container> <container parent="44d074fe-916f-4884-bf33-2d72b86f02b5" type="folder">2</container> 
+			 <unittitle>Correspondence: Charles E. Dagenett, American Indian
+				Association. 
+				<unitdate normal="1911" type="inclusive">1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="64bf1f5f-b0f8-4008-b385-9a66ecf430cb" type="box">2</container> <container parent="64bf1f5f-b0f8-4008-b385-9a66ecf430cb" type="folder">3</container> 
+			 <unittitle>Correspondence: August A. Breuninger, Progressive Indian
+				Association. 
+				<unitdate normal="1909/1913" type="inclusive">1909-1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2bed530d-4bdd-4e06-9953-8f6175dc1227" type="box">2</container> <container parent="2bed530d-4bdd-4e06-9953-8f6175dc1227" type="folder">4</container> 
+			 <unittitle>Correspondence: Cousins Richard Dickens, Charles Dickens,
+				Mike Burns. 
+				<unitdate normal="1904/1912" type="inclusive">1904-1912</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Lectures, Speeches and Articles, 
+			 <unitdate normal="NaN/1919" type="inclusive"> ca.
+				1907-1919</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Manuscripts: Lectures and Speeches </unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="2c4ab9e0-14b0-4639-8af5-e1cfe0dfcf7f" type="box">2</container> <container parent="2c4ab9e0-14b0-4639-8af5-e1cfe0dfcf7f" type="folder">5</container> 
+				<unittitle>"The Primitive Indian." 
+				  <unitdate normal="1912" type="inclusive">May,
+					 1912</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="89da2811-11e2-47cb-a6b2-b698e09a2df6" type="box">2</container> <container parent="89da2811-11e2-47cb-a6b2-b698e09a2df6" type="folder">5</container> 
+				<unittitle>Speech about Arizona. </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="40f6a789-11ba-4b96-a6f4-0630795f5880" type="box">2</container> <container parent="40f6a789-11ba-4b96-a6f4-0630795f5880" type="folder">5</container> 
+				<unittitle>"Idealists on Indian Affairs." </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b3245eaf-c92a-4efc-8479-92b459550ec3" type="box">2</container> <container parent="b3245eaf-c92a-4efc-8479-92b459550ec3" type="folder">5</container> 
+				<unittitle>"Let My People Go." 
+				  <unitdate normal="1915" type="inclusive">1915</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="05302fcf-9f95-4d9e-b16a-118f7eb03e46" type="box">2</container> <container parent="05302fcf-9f95-4d9e-b16a-118f7eb03e46" type="folder">5</container> 
+				<unittitle>"Let There Be Light."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="cace8273-8355-47e0-b7e5-1dc32273a57f" type="box">2</container> <container parent="cace8273-8355-47e0-b7e5-1dc32273a57f" type="folder">5</container> 
+				<unittitle>"Mis-applied Philanthropy."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="83e0ba23-4576-4a22-a450-7b05e2280dd9" type="box">2</container> <container parent="83e0ba23-4576-4a22-a450-7b05e2280dd9" type="folder">5</container> 
+				<unittitle>"The Reservation System."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="230d42c7-b41b-4bc8-9062-2afe69ecb1ce" type="box">2</container> <container parent="230d42c7-b41b-4bc8-9062-2afe69ecb1ce" type="folder">5</container> 
+				<unittitle>"Speech-For University."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c371374c-1260-467a-a1ac-b3204b833f40" type="box">2</container> <container parent="c371374c-1260-467a-a1ac-b3204b833f40" type="folder">5</container> 
+				<unittitle>"Visit at Adamsville."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="75590608-82e6-4bce-a0a6-448baf203b05" type="box">2</container> <container parent="75590608-82e6-4bce-a0a6-448baf203b05" type="folder">5</container> 
+				<unittitle>"Missionaries Among the Indians." (Chicago). 
+				  <unitdate normal="1913" type="inclusive">May
+					 1913</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1abd5529-be74-4c8a-b1c4-09494bba97f3" type="box">2</container> <container parent="1abd5529-be74-4c8a-b1c4-09494bba97f3" type="folder">5</container> 
+				<unittitle>"Columbus Conference Paper."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c7546953-a7b9-40c9-96df-a4dd24c58c80" type="box">2</container> <container parent="c7546953-a7b9-40c9-96df-a4dd24c58c80" type="folder">5</container> 
+				<unittitle>"The Indian Problem."</unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Manuscripts: Carlisle Indian School and General Richard H.
+				Pratt </unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="6648456f-6ffc-4092-b208-9929b4f7ea75" type="box">2</container> <container parent="6648456f-6ffc-4092-b208-9929b4f7ea75" type="folder">6</container> 
+				<unittitle>"Reasons for Opposing Administration." </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="857e82c5-c984-46d6-ad16-c4304232b0f5" type="box">2</container> <container parent="857e82c5-c984-46d6-ad16-c4304232b0f5" type="folder">6</container> 
+				<unittitle>"Standing up for General Pratt's Dismissal,
+				  etc."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2be32a0c-a6c5-41fa-a5ce-764b5a0a2241" type="box">2</container> <container parent="2be32a0c-a6c5-41fa-a5ce-764b5a0a2241" type="folder">6</container> 
+				<unittitle>"Kill the Indian and Save the Man."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5929ae14-9d56-4e82-992e-c4424c123631" type="box">2</container> <container parent="5929ae14-9d56-4e82-992e-c4424c123631" type="folder">6</container> 
+				<unittitle>Criticism of Indian 
+				  <title render="italic">Arrow</title>." (School Weekly).
+				  </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="bef671af-7c11-411c-b3a6-1e8423b7170a" type="box">2</container> <container parent="bef671af-7c11-411c-b3a6-1e8423b7170a" type="folder">6</container> 
+				<unittitle>"Criticism on Sub Committee on Indian Affairs' Report to
+				  Stop Appropriation for Carlisle School."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9ae05fee-ad16-4ff1-82f7-18ad0349f98d" type="box">2</container> <container parent="9ae05fee-ad16-4ff1-82f7-18ad0349f98d" type="folder">6</container> 
+				<unittitle>"Averse to Converting Carlisle School into Indian
+				  Military School."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4b432d0d-bab4-47c1-b3a9-1a0077f7fd5a" type="box">2</container> <container parent="4b432d0d-bab4-47c1-b3a9-1a0077f7fd5a" type="folder">6</container> 
+				<unittitle>"Article on Carlisle School, Opposing its
+				  Removal."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5fdc0f83-cd31-41a1-b220-0d853cc82114" type="box">2</container> <container parent="5fdc0f83-cd31-41a1-b220-0d853cc82114" type="folder">6</container> 
+				<unittitle>"Mal-administration of the Carlisle School." 
+				  <title render="italic">Inter Ocean</title>. 
+				  <unitdate normal="NaN" type="inclusive">April 20,
+					 ??</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="41d8cc29-27ac-4be5-a154-d906eac244ce" type="box">2</container> <container parent="41d8cc29-27ac-4be5-a154-d906eac244ce" type="folder">6</container> 
+				<unittitle>"Carlisle's Indian Football Eleven." Philadelphia Public
+				  Ledger, p. 8. 
+				  <unitdate normal="1907" type="inclusive">December 6,
+					 1907</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Manuscripts: Articles </unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="e5e7540f-cf30-4685-9d03-5f2df32807a3" type="box">2</container> <container parent="e5e7540f-cf30-4685-9d03-5f2df32807a3" type="folder">7</container> 
+				<unittitle>"Abolish the Indian Bureau."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d9defcb1-c3c5-4f0e-9ffc-7a997b3cdf42" type="box">2</container> <container parent="d9defcb1-c3c5-4f0e-9ffc-7a997b3cdf42" type="folder">7</container> 
+				<unittitle>"Blockades to Indian Civilization."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a0bddd72-7f29-4cce-bdf3-c5f95ba5c889" type="box">2</container> <container parent="a0bddd72-7f29-4cce-bdf3-c5f95ba5c889" type="folder">7</container> 
+				<unittitle>"The Development of the American Indian."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="eed51399-ffa3-4680-bbb9-2ba78b87873f" type="box">2</container> <container parent="eed51399-ffa3-4680-bbb9-2ba78b87873f" type="folder">7</container> 
+				<unittitle>"Electing a President."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a4f4f892-a741-415a-8689-a1e6df8ce7da" type="box">2</container> <container parent="a4f4f892-a741-415a-8689-a1e6df8ce7da" type="folder">7</container> 
+				<unittitle>"Everybody Comes Into the World Blank."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="764a2009-744b-4393-88e6-3d97f040e79d" type="box">2</container> <container parent="764a2009-744b-4393-88e6-3d97f040e79d" type="folder">7</container> 
+				<unittitle>"Flash Lights on the Indian Question."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2aca193d-07b9-4a14-a438-f3325749b43c" type="box">2</container> <container parent="2aca193d-07b9-4a14-a438-f3325749b43c" type="folder">7</container> 
+				<unittitle>"Get Right With the Indians - Bureau
+				  System."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5669b809-f238-4e66-b5f9-ea2b74be24d1" type="box">2</container> <container parent="5669b809-f238-4e66-b5f9-ea2b74be24d1" type="folder">7</container> 
+				<unittitle>"Get the Indians Out."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="6f266170-0910-478d-a5f3-b04c0bd57525" type="box">2</container> <container parent="6f266170-0910-478d-a5f3-b04c0bd57525" type="folder">7</container> 
+				<unittitle>"Indian Faddists."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b80de007-76f8-4f20-a796-e1777a05e2a8" type="box">2</container> <container parent="b80de007-76f8-4f20-a796-e1777a05e2a8" type="folder">8</container> 
+				<unittitle>"Indian Ideals." (Questioned if by Carlos Montezuma).
+				  </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2a7c682f-ee32-41ad-a28a-f111c4ea60c6" type="box">2</container> <container parent="2a7c682f-ee32-41ad-a28a-f111c4ea60c6" type="folder">8</container> 
+				<unittitle>"The Indian of Tomorrow."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="faf11918-a675-40b3-b15c-f30892578a73" type="box">2</container> <container parent="faf11918-a675-40b3-b15c-f30892578a73" type="folder">8</container> 
+				<unittitle>"Missionary - not all."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5d4f3d36-c52d-42c6-b34a-92dcd65f932a" type="box">2</container> <container parent="5d4f3d36-c52d-42c6-b34a-92dcd65f932a" type="folder">8</container> 
+				<unittitle>"Indian Schools." </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b9ee61df-8356-4602-a12d-6becc5010319" type="box">2</container> <container parent="b9ee61df-8356-4602-a12d-6becc5010319" type="folder">8</container> 
+				<unittitle>"Indian Superstition."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ec92ddc0-1979-4258-87b8-e64af1fad8e4" type="box">2</container> <container parent="ec92ddc0-1979-4258-87b8-e64af1fad8e4" type="folder">8</container> 
+				<unittitle>"Indian System Error." (2 versions). </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e1e6ffc8-bc7c-433b-9997-500522cad912" type="box">2</container> <container parent="e1e6ffc8-bc7c-433b-9997-500522cad912" type="folder">9</container> 
+				<unittitle>"Indians and Indians." Published in 
+				  <title render="italic">Wassaja</title>, vol. 1, no. 6. 
+				  <unitdate normal="1916" type="inclusive">September
+					 1916</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d2f648a1-dc69-4672-b1e7-26a865fab1d4" type="box">2</container> <container parent="d2f648a1-dc69-4672-b1e7-26a865fab1d4" type="folder">9</container> 
+				<unittitle>"The Indian's Art of Healing by Songs and
+				  Herbs."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="556b3b01-f894-4444-a4a1-8d156add2f73" type="box">2</container> <container parent="556b3b01-f894-4444-a4a1-8d156add2f73" type="folder">9</container> 
+				<unittitle>"Man's Inhumanity to Man."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ff292099-9025-498e-9cab-892280fa83f0" type="box">2</container> <container parent="ff292099-9025-498e-9cab-892280fa83f0" type="folder">9</container> 
+				<unittitle>"Mistaken Policy."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e26731fa-45a0-4a2b-afca-485980a424ee" type="box">2</container> <container parent="e26731fa-45a0-4a2b-afca-485980a424ee" type="folder">9</container> 
+				<unittitle>"National Character." 
+				  <title render="italic">Tribune</title>. 
+				  <unitdate normal="1909" type="inclusive">May 1,
+					 1909</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="970a98c3-c0db-402a-a414-44c81a968b0c" type="box">2</container> <container parent="970a98c3-c0db-402a-a414-44c81a968b0c" type="folder">9</container> 
+				<unittitle>"Plea for Arizona Indians."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e93fe355-39ed-4992-b7d4-4f5e12b02f08" type="box">2</container> <container parent="e93fe355-39ed-4992-b7d4-4f5e12b02f08" type="folder">9</container> 
+				<unittitle>"Plea for the Indian - Starting with Self."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="644bb7ed-3583-494b-ab35-a4495c9aaf93" type="box">2</container> <container parent="644bb7ed-3583-494b-ab35-a4495c9aaf93" type="folder">9</container> 
+				<unittitle>"Plea on Behalf of the Pimas to Commissioner
+				  Sells."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9ade0ce0-215d-41f2-8ebf-186314d7ec06" type="box">2</container> <container parent="9ade0ce0-215d-41f2-8ebf-186314d7ec06" type="folder">9</container> 
+				<unittitle>"Plea - with History of Self."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="52a9e740-83e0-4dbe-ae09-6c1b7c9b6842" type="box">2</container> <container parent="52a9e740-83e0-4dbe-ae09-6c1b7c9b6842" type="folder">9</container> 
+				<unittitle>"Review of Dr. Lydston's Book."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="345133a3-6dbe-4ce6-8c64-540e7f67a945" type="box">2</container> <container parent="345133a3-6dbe-4ce6-8c64-540e7f67a945" type="folder">10</container> 
+				<unittitle>"Reminiscences of Self and Indian
+				  Character."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d637872d-abae-458f-a863-f18f14e30ecb" type="box">2</container> <container parent="d637872d-abae-458f-a863-f18f14e30ecb" type="folder">10</container> 
+				<unittitle>"Reservation Politics."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="bc2df021-f659-4d7c-b3e9-1e05d3bbe6e1" type="box">2</container> <container parent="bc2df021-f659-4d7c-b3e9-1e05d3bbe6e1" type="folder">10</container> 
+				<unittitle>"Spiritualism of the Indians."</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="aacd8f59-6bee-469e-a2e2-1bce4e76de60" type="box">2</container> <container parent="aacd8f59-6bee-469e-a2e2-1bce4e76de60" type="folder">10</container> 
+				<unittitle>"Synopsis of Self." 
+				  <title render="italic">Review of Reviews</title>. </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1dfd1101-c3f4-49dd-b02e-b016657d289d" type="box">2</container> <container parent="1dfd1101-c3f4-49dd-b02e-b016657d289d" type="folder">10</container> 
+				<unittitle>Fragments, unidentified. </unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Miscellaneous Materials, 
+			 <unitdate normal="NaN/1913" type="inclusive">ca.
+				1890-1913</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="bf4d673f-1dca-4540-8d47-c6c13a5b649c" type="box">2</container> <container parent="bf4d673f-1dca-4540-8d47-c6c13a5b649c" type="folder">11</container> 
+			 <unittitle>Reminiscences. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="05b354b5-a2e4-4703-8f63-ae1e966225f9" type="box">3</container> <container parent="05b354b5-a2e4-4703-8f63-ae1e966225f9" type="folder">1</container> 
+			 <unittitle>Miscellaneous personal material. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="86e5b1e0-4425-497d-b6b9-48a90e61b547" type="box">3</container> <container parent="86e5b1e0-4425-497d-b6b9-48a90e61b547" type="folder">2</container> 
+			 <unittitle>Miscellaneous Indian material. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5d3ad1fe-c945-4924-a2c3-1bce95f73e1d" type="box">3</container> <container parent="5d3ad1fe-c945-4924-a2c3-1bce95f73e1d" type="folder">3</container> 
+			 <unittitle>Miscellaneous notes for and to the Secretary of the
+				Interior. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="66839a9e-1a93-44a5-a780-59a60494f3a9" type="box">3</container> <container parent="66839a9e-1a93-44a5-a780-59a60494f3a9" type="folder">4</container> 
+			 <unittitle>Fragments, mostly personal notes on self and Indians.
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a324844d-ac1b-427d-a8af-b7f5b376434e" type="box">3</container> <container parent="a324844d-ac1b-427d-a8af-b7f5b376434e" type="folder">5</container> 
+			 <unittitle>Miscellaneous medical material, including correspondence.
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="125122d8-dab5-4e07-be65-862c204fe0ce" type="box">3</container> <container parent="125122d8-dab5-4e07-be65-862c204fe0ce" type="folder">6</container> 
+			 <unittitle>Medical reprints, speeches, etc. </unittitle> 
+		  </did> 
+		</c02> 
+	 </c01>
+  </dsc> 
+</archdesc></ead>

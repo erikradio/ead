@@ -1,0 +1,3668 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+		<eadid encodinganalog="852">UAAZ407</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Papers of Frederick Samuel Dellenbaugh, <date calendar="gregorian"
+						era="ce" normal="1867/1937" type="inclusive">1867-1937</date></titleproper>
+				<titleproper altrender="nodisplay" type="filing">Dellenbaugh,(Frederick
+					S),Papers</titleproper>
+				<author>Processed by Staff.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>University of Arizona Libraries, Special Collections</publisher>
+				<address>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+				</address>
+				<date calendar="gregorian" era="ce" normal="2014">2014</date>
+				<p>Arizona Board of Regents. All Rights Reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. <date
+					encodinganalog="date" era="ce" normal="20140130">January 30,
+				2014</date></creation>
+			<langusage>Finding aid is in<language langcode="eng"> English.</language></langusage>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date normal="2017-06-19">2017-06-19</date>
+				<item>This finding aid was updated in alignment with LC EAD 2.0 specifications using
+					a python script created by Erik Radio.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<titleproper>Papers of Frederick Samuel Dellenbaugh,</titleproper>
+			<num>Collection Number: AZ 407</num>
+			<publisher>University of Arizona Libraries, Special Collections</publisher>
+			<list>
+				<defitem>
+					<label>Processed by:</label>
+					<item>Staff</item>
+				</defitem>
+				<defitem>
+					<label>Date completed:</label>
+					<item>
+						<date>[1994]</date></item>
+				</defitem>
+				<defitem>
+					<label>Encoded by:</label>
+					<item>Deborah Weller</item>
+				</defitem>
+			</list>
+			<p>© 20014. Arizona Board of Regents. All rights reserved.</p>
+		</titlepage>
+	</frontmatter>
+	<archdesc encodinganalog="351$c" level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle encodinganalog="245" label="Collection Name">Papers of Frederick Samuel
+				Dellenbaugh,</unittitle>
+			<unitdate label="Dates" normal="1867/1937" type="inclusive">1867-1937</unitdate>
+			<unitid countrycode="US" encodinganalog="099" label="Collection Number"
+				repositorycode="US-azu">AZ 407</unitid>
+			<origination label="Creator">
+				<persname encodinganalog="100" source="lcnaf">Dellenbaugh, Frederick
+					Samuel,1853-1935</persname></origination>
+			<abstract label="Abstract">Frederich Samuel Dellenbaugh papers document Dellenbaugh's
+				expedition experiences and studies of the Colorado River and the
+				Southwest</abstract>
+			<physdesc encodinganalog="300$a" label="Physical Description"><extent>15
+				ft</extent></physdesc>
+			<repository label="Repository">
+				<corpname>University of Arizona Libraries, Special Collections</corpname>
+				<address>
+					<addressline>University of Arizona</addressline>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+				</address></repository>
+			<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+					>English</language></langmaterial>
+		</did>
+		<accessrestrict>
+			<head>Restrictions</head>
+			<p>There are no restrictions on this collection.</p>
+		</accessrestrict>
+		<userestrict>
+			<head>Copyright</head>
+			<p>It is the responsibility of the user to obtain permission to publish from the owner
+				of the copyright (the institution, the creator of the record, the author or his/her
+				transferees, heirs, legates, or literary executors). The user agrees to indemnify
+				and hold harmless the Arizona Board of Regents for the University of Arizona, its
+				officers, employees, and agents from and against all claims made by any person
+				asserting that he or she is an owner of copyright.</p>
+		</userestrict>
+		<prefercite>
+			<head>Credit Line</head>
+			<p>. Papers of Frederick Samuel Dellenbaugh(AZ 407). Special Collections, University of
+				Arizona Libraries.</p>
+		</prefercite>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Frederick Dellenbaugh was born in McConnelsvile, Ohio in 1853. He was an artist,
+				explorer, historian, and writer. Most notably he was a member of John Wesley
+				Powell's Second Colorado River Expedition, 1871-1873, as artist and assistant
+				topographer, and later became historian of the expedition and of the Colorado River.
+				In 1899 he joined the Harriman Alaska Expedition as an artist. Dellenbaugh was one
+				of the founder of the Explorers Club, New York. He wrote a number of books,
+				articles, and short stories about the Powell Expedition, Native Americans, and the
+				West.</p>
+		</bioghist>
+		<arrangement encodinganalog="351$a">
+			<head>Arrangement</head>
+			<p>This collection is organized into 5 series</p>
+			<list>
+				<item>Series I: General Correspondence, <unitdate>1867-1935</unitdate></item>
+				<item>Series II: United States Colorado River Expedition,
+						<unitdate>1869-1934</unitdate></item>
+				<item>Series III: Exploreres and Explorations, <unitdate>1872-1933</unitdate></item>
+				<item>Series IV: Writing, <unitdate>1871-1934</unitdate></item>
+				<item>Series V: Art,Architecture, Photography <unitdate>1871-1934</unitdate></item>
+				<item>Series VI: Personal and Family Materials <unitdate>1889-1937</unitdate></item>
+			</list>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Correspondence, diaries, notes, manuscripts, clippings, publications, drawings, photo
+				albums, and photographs relating to Dellenbaugh's expedition experiences and studies
+				of the Colorado River and the Southwest. Expedition materials consist of
+				correspondence, photographs of individuals, and articles by Powell and others.
+				Books, articles, short stories, and poems by Dellenbaugh are present, as well as a
+				typescript of 1861 reminiscences by Edward E. Ayer. Also included are photographs of
+				Dellenbaugh's paintings, southwestern Native Americans, and travels; a few taken by
+				E.O. Beaman and John K. Hillers. Correspondents include expedition members,
+				publishers, geographic societies, U.S. government agencies, John Burroughs,
+				Frederick Webb Hodge, William Henry Jackson, Ellsworth and Emery Kolb, Daniel T.
+				MacDougal, Robert Stanton, Robert Taft, John K. Hillers, and William Wallace Bass.
+				Personal materials are diaries (1889-1935), estate papers, W. Norton Goddard family
+				photo albums; and notes, photographs, and maps for a history of Cragsmoor, New York,
+				founded by Dellenbaugh.</p>
+		</scopecontent>
+		<relatedmaterial encodinganalog="544">
+			<p>Related materials on Frederick Dellenbaugh are available at the Arizona Historical
+				Society.</p>
+		</relatedmaterial>
+		<controlaccess>
+			<persname>Dellenbaugh, Frederick Samuel, 1853-1935--Archives.</persname>
+			<persname>Powell, John Wesley, 1834-1902.</persname>
+			<persname>Burroughs, John, 1837-1921--Correspondence.</persname>
+			<persname>Ayer, Edward Everett, 1841-1927.</persname>
+			<persname>Hodge, Frederick Webb,1864-1956--Correspondence</persname>
+			<persname>Jackson, William Henry,1843-1942--Correspondence.</persname>
+			<persname>. Kolb, E. L.(Ellsworth Leonardson), 1876--Correspondence.</persname>
+			<persname>MacDougal, Daniel Trembly,1865-1958--Correspondence.</persname>
+			<persname>Taft, Robert,1894-1955--Correspondence.</persname>
+			<persname>Stanton, Robert Brewster, 1846-1922--Correspondence.</persname>
+			<persname>Bass, William Wallace, 1848-1933--Correspondence.</persname>
+			<persname>Hillers, John K.,1843-1925.</persname>
+			<persname>Beaman, E. O.</persname>
+			<persname>Goddard family -- Photographs.</persname>
+			<corpname>Explorers Club.</corpname>
+			<corpname>Harriman Alaska Expedition,(1899)</corpname>
+			<subject>Explorers -- Southwest, New.</subject>
+			<subject>Indians of North America -- Southwest, New -- Photographs.</subject>
+			<geogname>Colorado River (Colo.-Mexico)--Powell Expeditions</geogname>
+			<geogname>Colorado River (Colo.-Mexico)--Description and travel.</geogname>
+			<geogname>Grand Canyon (Ariz.)--Discovery and exploration.</geogname>
+			<geogname>Cragsmoor (N.Y.)--History.</geogname>
+		</controlaccess>
+		<dsc type="combined">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>Series I: General Correspondence,</unittitle>
+					<unitdate type="inclusive">1867-1935</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container id="9478642b-50d1-4dc5-a88a-78dc9ea87a23" type="box"
+							>1</container>
+						<container parent="9478642b-50d1-4dc5-a88a-78dc9ea87a23" type="folder"
+							>1</container>
+						<unittitle>A</unittitle>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="391c6e3b-c063-4439-b98b-2a0c6e00c171" type="box"
+							>1</container>
+						<container parent="391c6e3b-c063-4439-b98b-2a0c6e00c171" type="folder"
+							>2</container>
+						<unittitle>Abbot, Stephen: Correspondence, photo, drawing; Enclosure
+							Meagher, J.J.</unittitle>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6e66c30d-97fc-43ce-ab92-50e744c8bdd0" type="box"
+							>1</container>
+						<container parent="6e66c30d-97fc-43ce-ab92-50e744c8bdd0" type="folder"
+							>3</container>
+						<unittitle>American Geographical Society: Bowman, Isaiah</unittitle>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0fa95d65-5670-4f42-9cd7-92f1b9f52d21" type="box"
+							>1</container>
+						<container parent="0fa95d65-5670-4f42-9cd7-92f1b9f52d21" type="folder"
+							>4</container>
+						<unittitle>American Historical Society</unittitle>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="032972b7-49bc-4a1e-ab80-f4e4806de154" type="box"
+							>1</container>
+						<container parent="032972b7-49bc-4a1e-ab80-f4e4806de154" type="folder"
+							>5</container>
+						<unittitle>American Museum of Natural History/National History: Fisher, G.
+							Clyde</unittitle>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b3aa8ef1-c9da-4824-b5fc-93b06c6bea19" type="box"
+							>1</container>
+						<container parent="b3aa8ef1-c9da-4824-b5fc-93b06c6bea19" type="folder"
+							>6</container>
+						<unittitle>American Scenic and Historical Preservation Society: Kunz, George
+							F., Hall, E.H.</unittitle>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="89f8eaa6-dbab-46b2-878d-43bb023e46b9" type="box"
+							>1</container>
+						<container parent="89f8eaa6-dbab-46b2-878d-43bb023e46b9" type="folder"
+							>7</container>
+						<unittitle>Ayer, Edward H.: manuscripts, photo</unittitle>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="25c8be08-4580-4b60-87df-5e6b60e31878" type="box"
+							>1</container>
+						<container parent="25c8be08-4580-4b60-87df-5e6b60e31878" type="folder"
+							>8</container>
+						<unittitle>B</unittitle>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8870c329-8ccf-4119-97c0-3c8afd4c582e" type="box"
+							>1</container>
+						<container parent="8870c329-8ccf-4119-97c0-3c8afd4c582e" type="folder"
+							>9</container>
+						<unittitle>Bandelier, Rann6 R.</unittitle>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d54eacfa-1e4a-466d-80be-09ba9b4f445b" type="box"
+							>1</container>
+						<container parent="d54eacfa-1e4a-466d-80be-09ba9b4f445b" type="folder"
+							>10</container>
+						<unittitle>Barret, George: Correspondence related to painting by, with
+							National Gallery of Ireland, Metropolitan Museum of Art, Art Digest, notes, photos</unittitle>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="07257871-3452-4c14-bbe7-83ca0183bae4" type="box"
+							>1</container>
+						<container parent="07257871-3452-4c14-bbe7-83ca0183bae4" type="folder"
+							>11</container>
+						<unittitle>Bass, William Wallace: correspondence, 2 copies of his Adventures in the Canyons of the Colorado
+							Annotated by FSD</unittitle>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="45dd5df0-a500-47ad-9356-fc03b3214140" type="box"
+							>1</container>
+						<container parent="45dd5df0-a500-47ad-9356-fc03b3214140" type="folder"
+							>12</container>
+						<unittitle>Berthoud, E.L.</unittitle>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3504938b-9270-45d3-bdf6-cfb9ccffdca5" type="box"
+							>1</container>
+						<container parent="3504938b-9270-45d3-bdf6-cfb9ccffdca5" type="folder"
+							>13</container>
+						<unittitle>Bray Pictures Corporation: Bray, J.R., correspondence relative to
+							Colorado River film</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="20e4e105-3a6c-45ed-9758-2b9de8a5170b" type="box"
+							>1</container>
+						<container parent="20e4e105-3a6c-45ed-9758-2b9de8a5170b" type="folder"
+							>14</container>
+						<unittitle>Burroughs, John: Correspondence (John Burroughs; Barrus, Clara;
+							Burroughs, Julian), writings, clippings, photos</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="06784897-4122-41e8-becb-19c12ca91979" type="box"
+							>1</container>
+						<container parent="06784897-4122-41e8-becb-19c12ca91979" type="folder"
+							>15</container>
+						<unittitle>The John Burroughs Association: Correspondence (Barrus, Clara;
+							Fisher, G. Clyde; Garland, Hamlin; Beebe, William M.), organizational
+							information, program</unittitle>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c402f7d2-f49d-4fa2-9850-c55da1682cd0" type="box"
+							>1</container>
+						<container parent="c402f7d2-f49d-4fa2-9850-c55da1682cd0" type="folder"
+							>16</container>
+						<unittitle>C</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7f05b288-127f-48cd-8dbc-d5dfb6756c11" type="box"
+							>1</container>
+						<container parent="7f05b288-127f-48cd-8dbc-d5dfb6756c11" type="folder"
+							>17</container>
+						<unittitle>D</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ea3ec7d3-a1d1-4938-81ad-b1d060320b80" type="box"
+							>1</container>
+						<container parent="ea3ec7d3-a1d1-4938-81ad-b1d060320b80" type="folder"
+							>18</container>
+						<unittitle>Dictionary of Architecture, Sturgis,
+							R.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="08cc1460-f99b-4b06-a72d-79ad24b45a24" type="box"
+							>1</container>
+						<container parent="08cc1460-f99b-4b06-a72d-79ad24b45a24" type="folder"
+							>19</container>
+						<unittitle>E</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d1276c09-9e32-435e-b60f-ac570ad168e6" type="box"
+							>1</container>
+						<container parent="d1276c09-9e32-435e-b60f-ac570ad168e6" type="folder"
+							>20</container>
+						<unittitle>F</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4e91b7ee-a6ed-4571-8d2e-8dc484e1a9db" type="box"
+							>1</container>
+						<container parent="4e91b7ee-a6ed-4571-8d2e-8dc484e1a9db" type="folder"
+							>21</container>
+						<unittitle>Frazier, Russell E.: Correspondence, photos</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="09156ba7-7571-48c1-9806-3e75d6813d5d" type="box"
+							>1</container>
+						<container parent="09156ba7-7571-48c1-9806-3e75d6813d5d" type="folder"
+							>22</container>
+						<unittitle>Freeman, Lewis R.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b2e8b36c-824a-484f-8e7a-0763bd48cd75" type="box"
+							>2</container>
+						<container parent="b2e8b36c-824a-484f-8e7a-0763bd48cd75" type="folder"
+							>1</container>
+						<unittitle>G</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6aef6cd8-8a5a-4fba-a234-9d81d5cd3d0a" type="box"
+							>2</container>
+						<container parent="6aef6cd8-8a5a-4fba-a234-9d81d5cd3d0a" type="folder"
+							>2</container>
+						<unittitle>Ghent, W.J.: Correspondence;Historians
+								Find Life Story of Forgotten Pioneer; enclosure: Eberstadt,
+							Edward</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1f7dc06e-31c2-4f10-8839-e9921dc05abc" type="box"
+							>2</container>
+						<container parent="1f7dc06e-31c2-4f10-8839-e9921dc05abc" type="folder"
+							>3</container>
+						<unittitle>Gilbert, G.K.: Correspondence, photo</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="460a7179-25e3-4e28-b041-7d805734b79a" type="box"
+							>2</container>
+						<container parent="460a7179-25e3-4e28-b041-7d805734b79a" type="folder"
+							>4</container>
+						<unittitle>H</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="17d4a19f-960c-491f-bbba-96abd69d8561" type="box"
+							>2</container>
+						<container parent="17d4a19f-960c-491f-bbba-96abd69d8561" type="folder"
+							>5</container>
+						<unittitle>Halladay, Wilford H.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="53da3657-9ff4-49af-bfca-1337600abd37" type="box"
+							>2</container>
+						<container parent="53da3657-9ff4-49af-bfca-1337600abd37" type="folder"
+							>6</container>
+						<unittitle>Heye, George G./Heye Foundation/Museum of the American
+							Indian</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="adf7debe-d948-48ef-8642-caee780faa9f" type="box"
+							>2</container>
+						<container parent="adf7debe-d948-48ef-8642-caee780faa9f" type="folder"
+							>7</container>
+						<unittitle>Hodge, Frederick Webb</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9c5a3a84-8db3-4098-9a36-0e49265d31c6" type="box"
+							>2</container>
+						<container parent="9c5a3a84-8db3-4098-9a36-0e49265d31c6" type="folder"
+							>8</container>
+						<unittitle>I</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="020c0100-1c3d-45b7-ba75-f0cf371795f5" type="box"
+							>2</container>
+						<container parent="020c0100-1c3d-45b7-ba75-f0cf371795f5" type="folder"
+							>9</container>
+						<unittitle>J</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="96f4b90c-5e71-443b-aec6-2629188932be" type="box"
+							>2</container>
+						<container parent="96f4b90c-5e71-443b-aec6-2629188932be" type="folder"
+							>10</container>
+						<unittitle>Jackson, William Henry</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2c39ff7d-a22e-427c-9fb4-eda843271b8a" type="box"
+							>2</container>
+						<container parent="2c39ff7d-a22e-427c-9fb4-eda843271b8a" type="folder"
+							>11</container>
+						<unittitle>K</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d306ccad-07e4-42b1-ac6b-be85372a85a6" type="box"
+							>2</container>
+						<container parent="d306ccad-07e4-42b1-ac6b-be85372a85a6" type="folder"
+							>12</container>
+						<unittitle>Kelly, Charles</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f2f0d74a-5798-4d2a-ad38-2ad69f8e8b9c" type="box"
+							>2</container>
+						<container parent="f2f0d74a-5798-4d2a-ad38-2ad69f8e8b9c" type="folder"
+							>13</container>
+						<unittitle>Kelly, Dr. Howard A.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="72c69212-645c-46a9-8a8c-908816a084b2" type="box"
+							>2</container>
+						<container parent="72c69212-645c-46a9-8a8c-908816a084b2" type="folder"
+							>14</container>
+						<unittitle>Kolb, Ellsworth L. and Emercy C.: Correspondence, articles,
+							clippings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9d64f1ed-69d4-45ae-8804-e92ba5378286" type="box"
+							>2</container>
+						<container parent="9d64f1ed-69d4-45ae-8804-e92ba5378286" type="folder"
+							>15</container>
+						<unittitle>L</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e7e96332-8eff-400b-94a1-59794cb8a252" type="box"
+							>2</container>
+						<container parent="e7e96332-8eff-400b-94a1-59794cb8a252" type="folder"
+							>16</container>
+						<unittitle>M</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9fdc9e3b-8e8b-4a53-a632-42ebd2f64143" type="box"
+							>2</container>
+						<container parent="9fdc9e3b-8e8b-4a53-a632-42ebd2f64143" type="folder"
+							>17</container>
+						<unittitle>MacDougal, D.F.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="274f11e2-2f33-4a1f-9096-48e92c97be5b" type="box"
+							>2</container>
+						<container parent="274f11e2-2f33-4a1f-9096-48e92c97be5b" type="folder"
+							>18</container>
+						<unittitle>MacMillan Company, Publishers: Correspondence, agreements; see
+							also Dictionary of
+							Architecture</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="827514e7-6ea5-4d65-9129-423bc18f319a" type="box"
+							>2</container>
+						<container parent="827514e7-6ea5-4d65-9129-423bc18f319a" type="folder"
+							>19</container>
+						<unittitle>Meeker, Ezra: Correspondence, clippings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a487b750-de50-4a29-b09f-3df73ce81af7" type="box"
+							>2</container>
+						<container parent="a487b750-de50-4a29-b09f-3df73ce81af7" type="folder"
+							>20</container>
+						<unittitle>Middleton, Dr. George W.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="37bde2ec-ea0c-40ed-9bc9-e3086322784d" type="box"
+							>2</container>
+						<container parent="37bde2ec-ea0c-40ed-9bc9-e3086322784d" type="folder"
+							>21</container>
+						<unittitle>Minnehaha Opera Production: Engels, P.J.; Jarman, R.; Jackson,
+							P.; Rehsen, F.; Grinnell, G.B.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0221816c-f406-4767-871d-6beac841e9d8" type="box"
+							>2</container>
+						<container parent="0221816c-f406-4767-871d-6beac841e9d8" type="folder"
+							>22</container>
+						<unittitle>Moss, Lee J.: Enclosures, Moss, John T.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="cef5f5f0-e9c2-4b78-a661-51d6f4367e57" type="box"
+							>2</container>
+						<container parent="cef5f5f0-e9c2-4b78-a661-51d6f4367e57" type="folder"
+							>23</container>
+						<unittitle>N</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b8e92e8e-479f-496a-b914-15b055e0e554" type="box"
+							>2</container>
+						<container parent="b8e92e8e-479f-496a-b914-15b055e0e554" type="folder"
+							>24</container>
+						<unittitle>National Geographic Society: Grosvenor, Gilbert</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3af9dc58-256f-41ac-a882-bee0db7c2d89" type="box"
+							>2</container>
+						<container parent="3af9dc58-256f-41ac-a882-bee0db7c2d89" type="folder"
+							>25</container>
+						<unittitle>New York City: Police Department; Public Library; University;
+							Zoological Society. See also American Museum of Natural History/Natural
+							History</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8bc062b8-242e-4ae5-a3f5-b63b1cb832f1" type="box"
+							>2</container>
+						<container parent="8bc062b8-242e-4ae5-a3f5-b63b1cb832f1" type="folder"
+							>26</container>
+						<unittitle>North, Arthur W. and Mary R.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5df78e52-5241-46f1-8777-66db17d2a9b7" type="box"
+							>2</container>
+						<container parent="5df78e52-5241-46f1-8777-66db17d2a9b7" type="folder"
+							>27</container>
+						<unittitle>O</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c0423bf2-c013-481e-8f7f-9ca18491dc23" type="box"
+							>3</container>
+						<container parent="c0423bf2-c013-481e-8f7f-9ca18491dc23" type="folder"
+							>1</container>
+						<unittitle>P</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="345a12b0-277d-4a77-b305-f76c30534cd4" type="box"
+							>3</container>
+						<container parent="345a12b0-277d-4a77-b305-f76c30534cd4" type="folder"
+							>2</container>
+						<unittitle>Putnam's G.P., Sons, Publishers: Correspondence (Putnam George
+							H.), contracts, royalty accounts, flyers, notices</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1c1391ec-988a-484a-916d-a3248ee2e2b9" type="box"
+							>3</container>
+						<container parent="1c1391ec-988a-484a-916d-a3248ee2e2b9" type="folder"
+							>3</container>
+						<unittitle>Q</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4962f4f9-b0f9-40f6-b34b-48d3e3464db8" type="box"
+							>3</container>
+						<container parent="4962f4f9-b0f9-40f6-b34b-48d3e3464db8" type="folder"
+							>4</container>
+						<unittitle>R</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0d37b4fd-39a7-4a18-93d0-9c3e5cf916e8" type="box"
+							>3</container>
+						<container parent="0d37b4fd-39a7-4a18-93d0-9c3e5cf916e8" type="folder"
+							>5</container>
+						<unittitle>Rust, David D.: Correspondence, photos, Boating on the Colorado</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a8d34305-bf7e-43b0-93bd-86ca01dde0de" type="box"
+							>3</container>
+						<container parent="a8d34305-bf7e-43b0-93bd-86ca01dde0de" type="folder"
+							>6</container>
+						<unittitle>S</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5799c228-cf8a-4c60-8c15-06eeb1180118" type="box"
+							>3</container>
+						<container parent="5799c228-cf8a-4c60-8c15-06eeb1180118" type="folder"
+							>7</container>
+						<unittitle>Smithsonian Institution: Holmes, W.H.; Fewkes, J.W.; Walcott,
+							Charles D.; Graf, J.E.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="450d4b06-a27d-4125-8652-179baa5d43a8" type="box"
+							>3</container>
+						<container parent="450d4b06-a27d-4125-8652-179baa5d43a8" type="folder"
+							>8</container>
+						<unittitle>Spencer, D.S.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="cab5a6fa-7071-414e-80e3-72935f8f45d8" type="box"
+							>3</container>
+						<container parent="cab5a6fa-7071-414e-80e3-72935f8f45d8" type="folder"
+							>9</container>
+						<unittitle>Stanton, Robert Brewster: Correspondence</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b61d6509-0cce-4d13-966b-34537dc2d09c" type="box"
+							>3</container>
+						<container parent="b61d6509-0cce-4d13-966b-34537dc2d09c" type="folder"
+							>10</container>
+						<unittitle>Stanton, Robert Brewster: Correspondence with Jean Oliver Stanton
+							(wife), Anna M. Stanton Burchard (daughter) and Louis F. Burchard
+							(son-in-law)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d81008f4-033d-42e5-9f18-84bc03369894" type="box"
+							>3</container>
+						<container parent="d81008f4-033d-42e5-9f18-84bc03369894" type="folder"
+							>11</container>
+						<unittitle>Stanton, Robert Brewster: Correspondence with Yale University
+							Press; Clark Arther H. Company, relative to the publication of Stanton
+							manuscript; field notes; dairy extracts; reviews of miscellaneous
+							items</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="08e5f94f-8f1e-40c0-890f-c9d2fde3005d" type="box"
+							>3</container>
+						<container parent="08e5f94f-8f1e-40c0-890f-c9d2fde3005d" type="folder"
+							>12</container>
+						<unittitle>Stefansson, Vihjalmur: See also  Box
+								6,correspondence and #9, #10, #11</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ca6b903a-d957-4b50-a80a-0fc7f6cef267" type="box"
+							>3</container>
+						<container parent="ca6b903a-d957-4b50-a80a-0fc7f6cef267" type="folder"
+							>13</container>
+						<unittitle>Stone, Julius F.: Correspondence, photo</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="95300545-df55-4209-bc36-63932a16efca" type="box"
+							>3</container>
+						<container parent="95300545-df55-4209-bc36-63932a16efca" type="folder"
+							>14</container>
+						<unittitle>T</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d19cae5a-eab3-4204-b983-54d1b6e2dc54" type="box"
+							>3</container>
+						<container parent="d19cae5a-eab3-4204-b983-54d1b6e2dc54" type="folder"
+							>15</container>
+						<unittitle>Taft, Robert: Correspondence, lecture/flyer, Old Photographs.
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c258cfe0-73a5-4235-9eec-c3ba1dc967bf" type="box"
+							>3</container>
+						<container parent="c258cfe0-73a5-4235-9eec-c3ba1dc967bf" type="folder"
+							>16</container>
+						<unittitle>U</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="35ab9774-e079-4348-ba0c-a0351d15dad2" type="box"
+							>3</container>
+						<container parent="35ab9774-e079-4348-ba0c-a0351d15dad2" type="folder"
+							>17</container>
+						<unittitle>United States: Correspondence, hearings, reports,
+							etc.:</unittitle>
+					</did>
+					<odd>
+						<list>
+							<item>Coast and Geodetic Survey</item>
+							<item>Commissioner of Indian Affairs</item>
+							<item>Defense Department</item>
+							<item>Forest Service</item>
+							<item>Geographic Board</item>
+							<item>Geological Survey: Birdseye, Claude H.; Gregory, Herbert E.;
+								Rizer, H.C.; Smith, George O.</item>
+						</list>
+					</odd>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5f9a9343-67ea-44cb-b09c-2fe806ec770a" type="box"
+							>4</container>
+						<container parent="5f9a9343-67ea-44cb-b09c-2fe806ec770a" type="folder"
+							>1</container>
+						<unittitle>United States:</unittitle>
+					</did>
+					<odd>
+						<list>
+							<item>Interior Department: Finney, E.C.</item>
+							<item>Justice Department/Solicitor General: Blackmar, Charles M.;
+								Collins, Randolph S.</item>
+							<item>Land Office</item>
+							<item>Library of Congress</item>
+							<item>National Park Service: Mather, Stephen T.; Tillotson, M.R,;
+								enclosure: McClintock, James H.,February 1, 1933</item>
+							<item>Plant Industry</item>
+							<item>Post Office Department</item>
+							<item>Reclamation: Davis, Arthur Powell;  see
+									also  Davis, Arthur Powell, BOX 1/17 </item>
+						</list>
+					</odd>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2dc1a654-9c6f-4310-a431-fdb3f7e75e20" type="box"
+							>4</container>
+						<container parent="2dc1a654-9c6f-4310-a431-fdb3f7e75e20" type="folder"
+							>2</container>
+						<unittitle>V</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="010c0214-03ba-4218-a754-abb908cd51dd" type="box"
+							>4</container>
+						<container parent="010c0214-03ba-4218-a754-abb908cd51dd" type="folder"
+							>3</container>
+						<unittitle>W</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f28610c2-c975-4f7e-97a8-d941578c9167" type="box"
+							>4</container>
+						<container parent="f28610c2-c975-4f7e-97a8-d941578c9167" type="folder"
+							>4</container>
+						<unittitle>White, James: copy of letter to brother H.W. White, 1867; copy of
+							notes on trip; Dawson, Thomas F.: The Grand
+								Canyon</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2aadebbf-98a4-44bd-b03a-fe88f07c7ea9" type="box"
+							>4</container>
+						<container parent="2aadebbf-98a4-44bd-b03a-fe88f07c7ea9" type="folder"
+							>5</container>
+						<unittitle>Whitemore, Frances D.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f6d7e75b-0586-476d-b409-285bad2d6960" type="box"
+							>4</container>
+						<container parent="f6d7e75b-0586-476d-b409-285bad2d6960" type="folder"
+							>6</container>
+						<unittitle>Y</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="12bcc40b-e568-4ca2-8f75-5ca554ec8b8e" type="box"
+							>4</container>
+						<container parent="12bcc40b-e568-4ca2-8f75-5ca554ec8b8e" type="folder"
+							>7</container>
+						<unittitle>Yale University Press: Correspondence, contracts, royalty
+							statements; Coleman, R.V.; Follett, Soule, L.P.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7012ab4a-efb9-4cb0-821a-7a5e227375b1" type="box"
+							>4</container>
+						<container parent="7012ab4a-efb9-4cb0-821a-7a5e227375b1" type="folder"
+							>8</container>
+						<unittitle>Unknown/Unidentified Correspondence</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series II: United States Colorado River Expedition, <unitdate
+							type="inclusive">1869-1934</unitdate></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container id="8f24628c-d3f3-4342-9211-98efd618b7dd" type="box"
+							>5</container>
+						<container parent="8f24628c-d3f3-4342-9211-98efd618b7dd" type="folder"
+							>1</container>
+						<unittitle>Adams, Nathan (Mormon helper):letter</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7f1004b2-41ef-4e49-9708-106510186906" type="box"
+							>5</container>
+						<container parent="7f1004b2-41ef-4e49-9708-106510186906" type="folder"
+							>2</container>
+						<unittitle>Bishop, Francis Marion (topographer): Correspondence,
+							obits</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9a0dd170-9574-4a6e-a147-0e2d76daea1f" type="box"
+							>5</container>
+						<container parent="9a0dd170-9574-4a6e-a147-0e2d76daea1f" type="folder"
+							>3</container>
+						<unittitle>Fennemore, James (photographer)/Fennemore, H.M. (son):
+							Correspondence, photo</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6d5cbeeb-2220-4055-82f4-62f927ef6fe4" type="box"
+							>5</container>
+						<container parent="6d5cbeeb-2220-4055-82f4-62f927ef6fe4" type="folder"
+							>4</container>
+						<unittitle>Hamblin, Ben/Helen//Rose H.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a0d361ff-6941-47f6-b057-542df5abb4c4" type="box"
+							>5</container>
+						<container parent="a0d361ff-6941-47f6-b057-542df5abb4c4" type="folder"
+							>5</container>
+						<unittitle>Hawkins, William R. (cook, 1896): Photo</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ed03d31f-4b90-4f21-8e50-7c2dec951df1" type="box"
+							>5</container>
+						<container parent="ed03d31f-4b90-4f21-8e50-7c2dec951df1" type="folder"
+							>6</container>
+						<unittitle>Hattan, Andrew J. (general assistant): Correspondence, photos,
+							obit</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6530fa19-0fb6-4d07-9415-ead94b63b924" type="box"
+							>5</container>
+						<container parent="6530fa19-0fb6-4d07-9415-ead94b63b924" type="folder"
+							>7</container>
+						<unittitle>Hillers, John (Jack) K. (photographer): Correspondence,
+							obit</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a9eb3b6c-1aca-4c03-a3c1-65909506f9dd" type="box"
+							>5</container>
+						<container parent="a9eb3b6c-1aca-4c03-a3c1-65909506f9dd" type="folder"
+							>8</container>
+						<unittitle>Jones, Stephen V. (assistant topographer): Correspondence, diary
+							extracts, clippings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="156932a3-25d0-4581-944c-0b8a54d3924d" type="box"
+							>5</container>
+						<container parent="156932a3-25d0-4581-944c-0b8a54d3924d" type="folder"
+							>9</container>
+						<unittitle>Powell, John Wesley (expedition leader): Correspondence; copy of
+							agreement with J.C. Summer, W.H. Dunn, O.G. Howland (1869); letter of
+							appointment as expedition head (1874-1874); photo of Emma Dean Powell
+							(wife); correspondence of Mary Dean Powell (daughter), Juliet Powell
+							Rice (sister), and Mary Breasted Powell Paden</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2891ad2f-41a3-4fef-a42c-56ac66425f74" type="box"
+							>5</container>
+						<container parent="2891ad2f-41a3-4fef-a42c-56ac66425f74" type="folder"
+							>10</container>
+						<unittitle>Powell, John Wesley (expedition leader): FSD notes (for Fsd
+							articles about Powell see box 9/5 and 7); clippings, photos,
+							obits</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="55829234-84a3-4f88-a0d5-445926acac48" type="box"
+							>5</container>
+						<container parent="55829234-84a3-4f88-a0d5-445926acac48" type="folder"
+							>11</container>
+						<unittitle>Powell, John Wesley (expedition leader): Articles by:</unittitle>
+					</did>
+					<odd>
+						<list>
+							<item>Outlines of the Philosophy of the North
+									American Indians,New York, 1877;Mythologic Philosophy, an address the American. New
+								York, 1877;Mythologic Philosophy, and
+								address before the American Association for the Advancement of
+								Science, Sarasota, New York, 1879</item>
+							<item>articles about: Science, November 14. 1902; Minutes of a meeting
+								held... ; proceeding the funeral of Major J.W. Powell...; John Wesley Powell, a memorial to an American
+									explore and scholar, edited by Gilbert, Grove, from
+								articles by Bessie Beach, G.K. Gilbert, Grove Karl, Marcus Baker,
+								Paul Carus, Chicago,1903 (a reprint of the G.K.Gilbert article ,
+								Chicago 1903 (a reprint of the John Wesley
+									Powell, from the above in "Science", December 27, 1907:
+								Forbes, S.A., History of the Former State
+									Natural History Societies of Illinois; "American Journal
+								of Science", July, 1918: Smith, George O.,A
+									Century of Government Geological Surveys</item>
+							<item>Powell,William Bramwell (brother): photo, memorial
+								addresses</item>
+						</list>
+					</odd>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2a7bc0a9-aa88-45d6-b809-bc44e3525bcc" type="box"
+							>5</container>
+						<container parent="2a7bc0a9-aa88-45d6-b809-bc44e3525bcc" type="folder"
+							>12</container>
+						<unittitle>Powell, John Wesley (expedition leader): Memorials to Grand
+							Canyon, Illinois Wesleyan, Arlington Nation Cemetery: FSD note,
+							sketches, clippings, photos, Lists of personnel, form letter from W.H.
+							Holmes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="bde392a6-b46f-44a4-b77d-6f421cbd6ee3" type="box"
+							>5</container>
+						<container parent="bde392a6-b46f-44a4-b77d-6f421cbd6ee3" type="folder"
+							>13</container>
+						<unittitle>Renshaw, Jon H. (general assistant): FSD letters to</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ad96f0bf-9be5-4185-a388-7ea1eb99da35" type="box"
+							>5</container>
+						<container parent="ad96f0bf-9be5-4185-a388-7ea1eb99da35" type="folder"
+							>14</container>
+						<unittitle>Riley, George (packer, prospector): photos</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4e1fa33e-01dd-4934-8ac9-eb6d66e20787" type="box"
+							>5</container>
+						<container parent="4e1fa33e-01dd-4934-8ac9-eb6d66e20787" type="folder"
+							>15</container>
+						<unittitle>Steward, J.F. (assistant geologist: correspondence,
+							correspondence, photo, diary extracts</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="14dcbd9a-2658-454c-94ae-c7dbb6a64e89" type="box"
+							>5</container>
+						<container parent="14dcbd9a-2658-454c-94ae-c7dbb6a64e89" type="folder"
+							>16</container>
+						<unittitle>Summer, John (Jack) Colton (prospector, 1869): correspondence,
+							photo, obit; FSD note on manuscript; correspondence: Rider, Edgar
+							A.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6a9c25f7-9391-4f4b-801f-843cd24c1f08" type="box"
+							>5</container>
+						<container parent="6a9c25f7-9391-4f4b-801f-843cd24c1f08" type="folder"
+							>17</container>
+						<unittitle>Thompson, Almon Harris (2nd in command, geographer):
+							correspondence, photo; Eileen Powell Thompson (wife; sister of JWP):
+							correspondence, photos</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3e5d725d-611b-46da-ad43-6bad38d997a3" type="box"
+							>5</container>
+						<container parent="3e5d725d-611b-46da-ad43-6bad38d997a3" type="folder"
+							>18</container>
+						<unittitle>Thompson, Almon Harris (2nd in command, geographer): diary
+							extracts, obits; letters of condolence to widow; financial statement of
+							expedition (1871-1873) with rosters of personnel and annotations by FSD
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="280d1d7f-5945-409b-ad55-dfa0805ed2e5" type="box"
+							>5</container>
+						<container parent="280d1d7f-5945-409b-ad55-dfa0805ed2e5" type="folder"
+							>19</container>
+						<unittitle>Young, Brigham L. (Mormon packer): correspondence </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series III: Explorers and Explorations</unittitle>
+					<unitdate>1906-1933</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries 1: The Explorers Club, New York City,</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="e7d10c19-9213-41eb-a01b-cddd7274a417" type="box"
+								>6</container>
+							<container parent="e7d10c19-9213-41eb-a01b-cddd7274a417" type="folder"
+								>1</container>
+							<unittitle>Correspondence,</unittitle>
+							<unitdate>1906-1924</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="2e306e49-de0a-4b99-b616-9045078290a6" type="box"
+								>6</container>
+							<container parent="2e306e49-de0a-4b99-b616-9045078290a6" type="folder"
+								>2</container>
+							<unittitle>Correspondence,</unittitle>
+							<unitdate normal="1925/1931">1925-1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="d03439ae-6959-4128-954c-2e8cc4b4f900" type="box"
+								>6</container>
+							<container parent="d03439ae-6959-4128-954c-2e8cc4b4f900" type="folder"
+								>3</container>
+							<unittitle>Correspondence,</unittitle>
+							<unitdate normal="1932">1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="6b5dfed3-aec5-47d9-ad48-c2fe0a83f0ae" type="box"
+								>6</container>
+							<container parent="6b5dfed3-aec5-47d9-ad48-c2fe0a83f0ae" type="folder"
+								>4</container>
+							<unittitle>Correspondence,</unittitle>
+							<unitdate normal="1933">1933-</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="4e4c7e43-ea2b-4a27-9a63-b3c687e520fd" type="box"
+								>6</container>
+							<container parent="4e4c7e43-ea2b-4a27-9a63-b3c687e520fd" type="folder"
+								>5</container>
+							<unittitle>Organizational information</unittitle>
+							<unitdate normal="1933">1933-</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f2498945-f22a-4584-a82b-c95d8a47a235" type="box"
+								>6</container>
+							<container parent="f2498945-f22a-4584-a82b-c95d8a47a235" type="folder"
+								>6</container>
+							<unittitle>Committees: Locations and moving library (Blossom)
+								inquiry</unittitle>
+							<unitdate normal="1933">1933-</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="8f6b2b7c-0499-4be7-a3fa-0a5de5ab3d57" type="box"
+								>6</container>
+							<container parent="8f6b2b7c-0499-4be7-a3fa-0a5de5ab3d57" type="folder"
+								>7</container>
+							<unittitle>Special events: annual dinners, lecture series, ladies night,
+								smokers</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="39f8324a-fe49-419a-98e2-feb01927fb3b" type="box"
+								>6</container>
+							<container parent="39f8324a-fe49-419a-98e2-feb01927fb3b" type="folder"
+								>8</container>
+							<unittitle>Miscellaneous items: flag, Perry medal, bookplate, bell of
+								the cutter Bear, clippings, etc.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries 2: Explorers and Exploration (Mostly
+							Arctic)</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="46432e4c-2903-481c-af8b-0bb5914585c1" type="box"
+								>6</container>
+							<container parent="46432e4c-2903-481c-af8b-0bb5914585c1" type="folder"
+								>9</container>
+							<unittitle>Newspaper and magazine clippings; part 1, pp.
+								1-69</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="0674d3e4-ace0-49c2-85ac-7c4bf4f29fc9" type="box"
+								>6</container>
+							<container parent="0674d3e4-ace0-49c2-85ac-7c4bf4f29fc9" type="folder"
+								>10</container>
+							<unittitle>Newspaper and magazine clippings; part 2, pp.
+								70-136</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="ae1bafcf-57f4-44a4-8334-d201e34c8408" type="box"
+								>6</container>
+							<container parent="ae1bafcf-57f4-44a4-8334-d201e34c8408" type="folder"
+								>11</container>
+							<unittitle>Other writings by or about explorers, exploration</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="771dc231-bf9a-41a3-9e67-2ac91eb527bc" type="box"
+								>6</container>
+							<container parent="771dc231-bf9a-41a3-9e67-2ac91eb527bc" type="folder"
+								>12</container>
+							<unittitle>Miscellaneous items: FSD notes, autographed pictures,
+								etc.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries 3: The Harriman Alaska Expedition</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="913754b7-1d74-4d24-802a-8857467e27f2" type="box"
+								>6</container>
+							<container parent="913754b7-1d74-4d24-802a-8857467e27f2" type="folder"
+								>13</container>
+							<unittitle>Rosters, articles (including FSD, From
+									the Palisades to the diomedesread before the Thursday
+								Evening Club, January 25, 1900, FSD letters to Harriet Otis
+								Dellenbaugh, Taylor (editor, Ellenville Journal), Clara Burus;
+								clippings</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series IV: Writings</unittitle>
+					<unitdate normal="1872/1933">1872-1933</unitdate>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries 1: Manuscripts,</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="c7ec3021-6a05-4cab-8ec5-6935282efdc1" type="box"
+								>7</container>
+							<container parent="c7ec3021-6a05-4cab-8ec5-6935282efdc1" type="folder"
+								>1</container>
+							<unittitle>Hopi Indians</unittitle>
+						</did>
+						<odd>
+							<list>
+								<item>A Ride to Oraibi</item>
+								<item>The Somaikoli Ceremony"</item>
+								<item>The Land of the Hopis</item>
+								<item>To the Hopi Towns - incomplete</item>
+								<item>various fragments and incomplete articles</item>
+							</list>
+						</odd>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f24eb1a4-2bf5-498a-8fcb-54f4eae230b8" type="box"
+								>7</container>
+							<container parent="f24eb1a4-2bf5-498a-8fcb-54f4eae230b8" type="folder"
+								>2</container>
+							<unittitle>A Long incomplete article,</unittitle>
+							<unitdate type="inclusive" normal="1885">circa 1885</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="5ac6f840-7367-4d67-9049-ad0a4963a7c3" type="box"
+								>7</container>
+							<container parent="5ac6f840-7367-4d67-9049-ad0a4963a7c3" type="folder"
+								>3</container>
+							<unittitle>Other Indians:</unittitle>
+						</did>
+						<odd>
+							<list>
+								<item>Among the Southern Pai Utes Fifty Years
+										Ago</item>
+								<item>Tally Hogan or the Singing
+										House</item>
+								<item>The Feast of Soyaita at
+										Sichumovi</item>
+								<item>Sunset Fables, how Echo was
+										born</item>
+								<item>The Judy Blanket</item>
+								<item>The Cave and Cliff Dwellings of the
+										South-West</item>
+								<item>The People of the Blue
+									water</item>
+								<item>The Aztec Calendar Stone</item>
+								<item>The New Metlakahtla
+									Settlement</item>
+								<item>The Hermit Tribe of
+									Arizona, incomplete</item>
+							</list>
+						</odd>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e971c1e0-725c-4ea7-b6ad-0f4cc8642ddb" type="box"
+								>7</container>
+							<container parent="e971c1e0-725c-4ea7-b6ad-0f4cc8642ddb" type="folder"
+								>4</container>
+							<unittitle>Powell Expedition/Colorado River:</unittitle>
+						</did>
+						<odd>
+							<list>
+								<item>Data on the killing of three of Major
+										Powell's men...</item>
+								<item>Colorado River Exploring
+										Expedition</item>
+								<item>"Escalante and the Ute Ford, is
+										Crossing the Fathers a misnomer?(incomplete)</item>
+							</list>
+						</odd>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="ca7a282c-33cc-493f-bd47-8f81d3869533" type="box"
+								>7</container>
+							<container parent="ca7a282c-33cc-493f-bd47-8f81d3869533" type="folder"
+								>5</container>
+							<unittitle>Rio Grande Valley:</unittitle>
+						</did>
+						<odd>
+							<list>
+								<item>The Location of the Rio Grande Pueblos,
+										1540 to 1630</item>
+								<item>The Conquest of the Rio Grande, some
+										relating thereto</item>
+								<item>The Location of Cibola and the Historic
+										Towns of the Rio Grande Valley..." (transcription of
+									a talk) various fragments</item>
+							</list>
+						</odd>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="fb951d53-25bd-4147-8b92-4f914d2d9740" type="box"
+								>7</container>
+							<container parent="fb951d53-25bd-4147-8b92-4f914d2d9740" type="folder"
+								>6</container>
+							<unittitle>West/autobiographic of western years:</unittitle>
+						</did>
+						<odd>
+							<list>
+								<item>Buried alive</item>
+								<item>Sandstone Paradise</item>
+								<item>The Story of a bite</item>
+								<item>Concerning the Word
+									'Estafa'</item>
+								<item>The Lost Mine of
+									Espinosa</item>
+							</list>
+						</odd>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="0af2efd1-249c-4c57-a63b-fb428630fbe5" type="box"
+								>7</container>
+							<container parent="0af2efd1-249c-4c57-a63b-fb428630fbe5" type="folder"
+								>7</container>
+							<unittitle>Fiction</unittitle>
+						</did>
+						<odd>
+							<list>
+								<item>The Pardon of Tenderfoot</item>
+								<item>Their Wedding Present</item>
+								<item>Patsy's Christmas</item>
+								<item>The Figure-head of the Red
+										Dragon</item>
+								<item>Daniel's remainder and the Magic
+										Watch(version)</item>
+								<item>Professor Lingalem's Language
+										Elixer(3 versions)</item>
+							</list>
+						</odd>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="7554c1f3-fa07-4cd8-a0e6-915c04582a72" type="box"
+								>7</container>
+							<container parent="7554c1f3-fa07-4cd8-a0e6-915c04582a72" type="folder"
+								>8</container>
+							<unittitle>Fiction</unittitle>
+						</did>
+						<odd>
+							<list>
+								<item>The Pocketbook</item>
+								<item>A Bear Story(incomplete)</item>
+								<item>A Crusoe of the Canyon
+										Country(chapter 1, incomplete)</item>
+								<item>untitled novel: 2 incomplete chapters; story fragments:</item>
+								<item>The Midnight Arrow</item>
+								<item>A Piece of Tarred Rope</item>
+								<item>others, untitled</item>
+								<item>sketch about a Gazeka, written
+									for a competition scenarios/plays: incomplete fragments</item>
+							</list>
+						</odd>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f3442871-5841-47ee-88cd-9739b6f4a4e6" type="box"
+								>8</container>
+							<container parent="f3442871-5841-47ee-88cd-9739b6f4a4e6" type="folder"
+								>1</container>
+							<unittitle>Poetry</unittitle>
+						</did>
+						<odd>
+							<list>
+								<item>Gate of the
+									Arctic,(1899)</item>
+								<item>My (or The)Trails of Yesteryear; or
+										Lost Trails(3 versions)</item>
+								<item>Little Coal Black
+									Coon,1901</item>
+								<item>To the Sockdologer, 1933</item>
+								<item>The Colorado's Lament,
+									1933</item>
+								<item>The Old Door stone</item>
+								<item>untitled</item>
+							</list>
+						</odd>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="5baa03eb-2ba5-4e7e-aa96-b9bef86cb6c3" type="box"
+								>8</container>
+							<container parent="5baa03eb-2ba5-4e7e-aa96-b9bef86cb6c3" type="folder"
+								>2</container>
+							<unittitle>Reviews, introductions, letters to the editor</unittitle>
+						</did>
+						<odd>
+							<list>
+								<item>V. Stefansson's The Friendly
+										Arctic, and R. Farrer's The Rainbow Bridge: reviews</item>
+								<item>R.B. Stanton's Colorado River
+										Controversies: review</item>
+								<item>Wheeler's Lewis and Clark:
+									Introduction on the United States: letter to the editor</item>
+								<item>Another Protest Against Name
+										Change:letter to the editor</item>
+								<item>Naming the Grand Canyon:Letter
+									to the edition</item>
+							</list>
+						</odd>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f9cc85dd-d463-4c9e-bc50-25f0a1cf1d12" type="box"
+								>8</container>
+							<container parent="f9cc85dd-d463-4c9e-bc50-25f0a1cf1d12" type="folder"
+								>3</container>
+							<unittitle>Canyon and
+								Desert:incomplete chapters from Project recollections of
+								life on the First Mesa in 1884</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e99d9b47-3912-4197-80d4-ed7753799148" type="box"
+								>8</container>
+							<container parent="e99d9b47-3912-4197-80d4-ed7753799148" type="folder"
+								>4</container>
+							<unittitle>Miscellaneous, articles and fragments:</unittitle>
+						</did>
+						<odd>
+							<list>
+								<item>Phenomenon of
+									Cloud-frost</item>
+								<item>Bee-hunting(incomplete)</item>
+								<item>Granddad's Château</item>
+								<item>Hudson and Fulton</item>
+								<item>Peter Skene Ogden, sketch of his life</item>
+								<item>article about Florence, Italy</item>
+								<item>Log House Building</item>
+								<item>incomplete article on building a log cabin</item>
+								<item>As It Was Thengroup of very
+									short pieces</item>
+							</list>
+						</odd>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries 2: Published Newspaper and Magazine Pieces,</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="1ca5e157-4e6c-4724-9f41-c533acc983bb" type="box"
+								>9</container>
+							<container parent="1ca5e157-4e6c-4724-9f41-c533acc983bb" type="folder"
+								>1</container>
+							<unittitle>Shorter pieces: comments, reviews, letters to the editor,
+								etc.: Part 1 (1877-1934), pp. 1-25</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="fbb1f60a-81d3-494b-b869-363c7316eea8" type="box"
+								>9</container>
+							<container parent="fbb1f60a-81d3-494b-b869-363c7316eea8" type="folder"
+								>2</container>
+							<unittitle>Shorter pieces: Part 2 (1877-1933), pp. 26-74</unittitle>
+							<unittitle>Longer pieces (dates, unless noted, are of
+								publications)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="c607548f-313c-4302-a469-303b1f8397b2" type="box"
+								>9</container>
+							<container parent="c607548f-313c-4302-a469-303b1f8397b2" type="folder"
+								>3</container>
+							<unittitle>Colorado Day,broadside poem (written 1872) with hand colored
+								woodcut after a painting by FSD; 2 copies, initialled, and 2 copies
+								of printed explanation</unittitle>
+							<unittitle>Concarnewau</unittitle>
+							<unitdate normal="1883">1883</unitdate>
+							<unittitle>An episode in Circle Valley</unittitle>
+							<unitdate normal="1894">(1894)</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="40f4875f-d323-4e7f-9549-6de4e4311d37" type="box"
+								>9</container>
+							<container parent="40f4875f-d323-4e7f-9549-6de4e4311d37" type="folder"
+								>4</container>
+							<unittitle>An Artist's Glimpse of Northern Arizona;</unittitle>
+							<unitdate normal="1889">1889</unitdate>
+							<unittitle>The First Americans;</unittitle>
+							<unitdate normal="1889">1889</unitdate>
+							<unittitle>A Singular Case(American newspaper publication,);</unittitle>
+							<unitdate normal="1893">1893</unitdate>
+							<unittitle>
+								Death Masks in Ancient American
+									Potter;reprint</unittitle>
+							<unitdate normal="1897">1897</unitdate>
+							<unittitle>The True Route of Coronado's
+									march,reprint (1899); 2 copies, one annotated by
+								FSD</unittitle><unitdate normal="1899">1899</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="312b8d49-88cb-4dca-8a6d-6eee3b4333a9" type="box"
+								>9</container>
+							<container parent="312b8d49-88cb-4dca-8a6d-6eee3b4333a9" type="folder"
+								>5</container>
+							<unittitle>The Quick Horse;</unittitle>
+							<unitdate normal="1898">1898</unitdate>
+							<unittitle>Fabric-marked Pottery;</unittitle>
+							<unitdate normal="1898">1898</unitdate>
+							<unittitle>Architectural Forms in Nature;</unittitle>
+							<unitdate normal="1898">1898</unitdate>
+							<unittitle>John Wesley Powell,a brief review of his career, reprint (the
+								epilogue from The Romance of the Colorado
+									River, New York, 1903</unittitle><unitdate normal="1903">1903</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="27759a93-f5c7-4f57-8794-69f3bd4eaad7" type="box"
+								>9</container>
+							<container parent="27759a93-f5c7-4f57-8794-69f3bd4eaad7" type="folder"
+								>6</container>
+							<unittitle>A New Valley of Wonders;</unittitle>
+							<unitdate normal="1904">1904</unitdate>
+							<unittitle>Notes on the Location of Tiguex,with map annotated by FDS
+								(published as an advertising flyer,);</unittitle>
+							<unitdate normal="1905">1905</unitdate>
+							<unittitle>The Library of the American Geographic Society;</unittitle>
+							<unitdate normal="1911">1911</unitdate>
+							<unittitle>Cross-cutting and Retrograding of Steam
+								Beds;reprint</unittitle>
+							<unitdate normal="1912"> 1912</unitdate>
+							<unittitle>Library of Congress: The Lowery
+									Collection;</unittitle>
+							<unitdate normal="1912">1912</unitdate>
+							<unittitle>The Evolution of the Mind in Its Bearing on Woman's
+								Suffragereview;</unittitle>
+							<unittitle>A Canyon Voyage</unittitle>
+							<unitdate normal="1912">1912</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="daf0cdd4-2095-4da2-a9a9-f6602c1924cb" type="box"
+								>9</container>
+							<container parent="daf0cdd4-2095-4da2-a9a9-f6602c1924cb" type="folder"
+								>7</container>
+							<unittitle>Archdeacon Stucks' Conquest of Mount McKinley;</unittitle>
+							<unitdate normal="1914">1914</unitdate>
+							<unittitle>The Somaikli Dance at Sichumovi;</unittitle>
+							<unitdate normal="1915">1915</unitdate>
+							<unittitle>Memorial to John Wesley Powell,reprint; 3 signed
+								copies;</unittitle>
+							<unitdate normal="1918">1918</unitdate>
+							<unittitle>Lumholtz, Carl:Through Central
+									Borneo, review;</unittitle>
+							<unitdate normal="1921">1921</unitdate>
+							<unittitle>Alter, Cecil: James Bridger:
+									Trapper, Frontiersman, Scout, and Guide,
+								review;</unittitle>
+							<unitdate normal="1926">1926</unitdate>
+							<unittitle>The Painted Desert;reprints</unittitle>
+							<unitdate normal="1932">1932</unitdate>
+							<unittitle>The Bell of the Cutter Bear, short broadside poem read before
+								the Explorers Club, reprint;</unittitle>
+							<unitdate normal="1933-05-20">May 20, 1933</unitdate>
+							<unittitle>Naming the Grand Canyon;</unittitle>
+							<unitdate normal="1933">1933</unitdate>
+							<unittitle>The Hardenberghs, reprint</unittitle>
+							<unitdate normal="1933">1933</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries 3: Books:</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="13aef07d-471b-4f97-9f0e-c76d54abed7d" type="box"
+								>10</container>
+							<container parent="13aef07d-471b-4f97-9f0e-c76d54abed7d" type="folder"
+								>1</container>
+							<unittitle>BREAKING THE WILDERNESS:
+								reviews and notices</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="8f51d54e-5b90-4451-bf91-9e41441a524a" type="box"
+								>10</container>
+							<container parent="8f51d54e-5b90-4451-bf91-9e41441a524a" type="folder"
+								>2</container>
+							<unittitle>A CANYON VOYAGE: notebooks and
+								notes, drafts for preface to Yale University Press edition with
+								galleys</unittitle>
+						</did>
+						<note>
+							<p/>
+						</note>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="8b7ae73d-51bb-404d-a0c0-122c2ac0652b" type="box"
+								>10</container>
+							<container parent="8b7ae73d-51bb-404d-a0c0-122c2ac0652b" type="folder"
+								>3</container>
+							<unittitle>A CANYON VOYAGE: reviews and
+								notices, both editions</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e30470f3-d83f-48f4-ae19-d1baa4ff4ef0" type="box"
+								>11</container>
+							<container parent="e30470f3-d83f-48f4-ae19-d1baa4ff4ef0" type="folder"
+								>1</container>
+							<unittitle>A CANYON VOYAGE:(copy 1), G.P.
+								Putnam's Sons, New York, 1908. Autographed with notes and
+								annotations; tipped letter fro Edwin W. Winter,</unittitle>
+							<unitdate normal="1927">1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="5713b648-8ab7-4386-8800-0cd77acd05f2" type="box"
+								>11</container>
+							<container parent="5713b648-8ab7-4386-8800-0cd77acd05f2" type="folder"
+								>2</container>
+							<note>
+								<p>Enclosures for a CANYON
+									VOYAGE(copy 1):</p>
+							</note>
+							<unittitle>Letter to Postmaster, Lodore, Colorado,</unittitle>
+							<unitdate normal="1924"> 1924;</unitdate>
+							<unittitle>letter from Helen Hamblin, </unittitle>
+							<unitdate normal="1922">1922;</unitdate>
+							<unittitle>letter from Nathan Adams,</unittitle>
+							<unitdate normal="1909">1909;</unitdate>
+							<unittitle>letter from Clyde Eddy,</unittitle>
+							<unitdate normal="1927">1927;</unitdate>
+							<unittitle>letters from U.S. Geological Survey,</unittitle>
+							<unitdate normal="1906">1906</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="0702bc3e-f374-444c-a0d2-7069ac5d809b" type="box"
+								>11</container>
+							<container parent="0702bc3e-f374-444c-a0d2-7069ac5d809b" type="folder"
+								>3</container>
+							<note>
+								<p>A CANYON VOYAGE(copy 2), G.P.
+									Putnam's Sons, New York,</p>
+							</note>
+							<unitdate>1908.</unitdate>
+							<unittitle>Special boxed edition; given to the Kolb brothers and carried
+								by them on their Canyon trip of 1911-1912, then given back to FSD
+								(see BOX 12/4)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f6d0b437-02d1-4fbb-b2fb-ec0bde33aeac" type="box"
+								>12</container>
+							<container parent="f6d0b437-02d1-4fbb-b2fb-ec0bde33aeac" type="folder"
+								>1</container>
+							<note>
+								<p>A CANYON VOYAGE(copy 3), Yale
+									University Press, New Haven,</p>
+							</note>
+							<unitdate>1926.</unitdate>
+							<unittitle>Notes and annotations</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="4fe25c52-a436-46ae-946c-1112c814943b" type="box"
+								>12</container>
+							<container parent="4fe25c52-a436-46ae-946c-1112c814943b" type="folder"
+								>2</container>
+							<note>
+								<p>Enclosures for A CANYON
+									VOYAGE(copy 3):</p>
+							</note>
+							<unittitle>Letter from G.D.B. Hasbrouck,</unittitle>
+							<unitdate normal="1934">1934;</unitdate>
+							<unittitle>review,</unittitle>
+							<unitdate normal="1927">1927;</unitdate>
+							<unittitle>photo, Emery Carl Lehnert</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="78fc698c-828d-4986-938d-bc49190891ae" type="box"
+								>12</container>
+							<container parent="78fc698c-828d-4986-938d-bc49190891ae" type="folder"
+								>3</container>
+							<note>
+								<p>A CANYON VOYAGE(copy 4): Yale
+									University Press, New Haven,</p>
+							</note>
+							<unitdate>1926</unitdate>
+							<unittitle>Notes and annotations</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e51cde21-c866-46a8-b611-1772be2b5ec0" type="box"
+								>12</container>
+							<container parent="e51cde21-c866-46a8-b611-1772be2b5ec0" type="folder"
+								>2</container>
+							<note>
+								<p>Enclosures for A CANYON
+									VOYAGE(copy 4):</p>
+							</note>
+							<unittitle>Letter from R.M. Broadhurst,</unittitle>
+							<unitdate normal="1926"> 1926</unitdate>
+							<unittitle>bill from Putnam's, </unittitle>
+							<unitdate normal="1922">1922 (probably should be 1911)</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b8752430-3533-4b72-9e08-d081f82d2cb9" type="box"
+								>13</container>
+							<container parent="b8752430-3533-4b72-9e08-d081f82d2cb9" type="folder"
+								>1</container>
+							<note>
+								<p>CUSTER:</p>
+							</note>
+							<unittitle>Articles,</unittitle>
+							<unittitle>clippings,</unittitle>
+							<unittitle>pictures,</unittitle>
+							<unittitle>correspondence, mostly with Elizabeth B. Custer</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="375fc50a-d0f5-4a54-bad5-278df691552f" type="box"
+								>13</container>
+							<container parent="375fc50a-d0f5-4a54-bad5-278df691552f" type="folder"
+								>2</container>
+							<note>
+								<p>CUSTER:</p>
+							</note>
+							<unittitle>Notes,</unittitle>
+							<unittitle>manuscripts,</unittitle>
+							<unittitle>fragments,</unittitle>
+							<unittitle>reviews</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="4c9a7430-068d-4408-b543-85eabbe24a4a" type="box"
+								>13</container>
+							<container parent="4c9a7430-068d-4408-b543-85eabbe24a4a" type="folder"
+								>3</container>
+							<note>
+								<p>ESCALANTE:</p>
+							</note>
+							<unittitle>notes,</unittitle>
+							<unittitle>drawings,</unittitle>
+							<unittitle>clippings,</unittitle>
+							<unittitle>outlines,</unittitle>
+							<unittitle>maps,</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="d17a30c3-8597-4293-bd7b-00c0a2c82f5f" type="box"
+								>14</container>
+							<container parent="d17a30c3-8597-4293-bd7b-00c0a2c82f5f" type="folder"
+								>1</container>
+							<note>
+								<p>FREMONT AND '49:</p>
+							</note>
+							<unittitle> Notes and notebooks</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="2a308af5-9f79-4046-9918-e82167a4a1e8" type="box"
+								>14</container>
+							<container parent="2a308af5-9f79-4046-9918-e82167a4a1e8" type="folder"
+								>2</container>
+							<note>
+								<p>FREMONT AND '49:</p>
+							</note>
+							<unittitle>Articles,</unittitle>
+							<unittitle>clippings,</unittitle>
+							<unittitle>photos</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="1917d2dc-3750-4034-8a10-e78f01580f2f" type="box"
+								>14</container>
+							<container parent="1917d2dc-3750-4034-8a10-e78f01580f2f" type="folder"
+								>3</container>
+							<note>
+								<p>FREMONT AND '49:</p>
+							</note>
+							<unittitle>notices,</unittitle>
+							<unittitle>reviews,</unittitle>
+							<unittitle>maps</unittitle>
+							<unittitle>correspondence, mostly with Elizabeth Benton
+								Fremont</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="233c1762-f5ce-49cb-8508-a7609b55d97b" type="box"
+								>14</container>
+							<container parent="233c1762-f5ce-49cb-8508-a7609b55d97b" type="folder"
+								>4</container>
+							<note>
+								<p>THE NORTH AMERICANS OF
+									YESTERDAY:</p>
+							</note>
+							<unittitle>flyers</unittitle>
+							<unittitle>review</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="a0156967-cc97-409c-8f34-d00f9f791de1" type="box"
+								>14</container>
+							<container parent="a0156967-cc97-409c-8f34-d00f9f791de1" type="folder"
+								>5</container>
+							<note>
+								<p>THE ROMANCE OF THE COLORADO
+									RIVER:</p>
+							</note>
+							<unittitle>Notes</unittitle>
+							<unittitle>map,</unittitle>
+							<unittitle>photos,</unittitle>
+							<unittitle>flyers;</unittitle>
+							<unittitle>another copy of contract between Powell and
+								summer/Dunn/Howland</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="3cf4b9de-ceac-476c-823b-a04586e2d43d" type="box"
+								>15</container>
+							<container parent="3cf4b9de-ceac-476c-823b-a04586e2d43d" type="folder"
+								>1</container>
+							
+								<unittitle>FREMONT AND "49 (copy 1), G.P.
+									Putnam's Sons, New York, 1914. Signed</unittitle>
+							
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="67c8ffb1-11e0-4893-a28b-a8bec11b5fb7" type="box"
+								>16</container>
+							<container parent="67c8ffb1-11e0-4893-a28b-a8bec11b5fb7" type="folder"
+								>1</container>
+							<unittitle>FREMONT AND "49 (copy 2), G.P. Putnam's Sons, New York, 1914.
+								Signed</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="fe490642-8825-45c0-b9f1-73e239899d72" type="box"
+								>17</container>
+							<container parent="fe490642-8825-45c0-b9f1-73e239899d72" type="folder"
+								>1</container>
+							<unittitle>THE ROMANCE OF THE COLORADO
+									RIVER, G.P. Putnam's Sons, New Your, 1906. Presented to
+								Frederick S. Dellenbaugh 3d,</unittitle>
+							<unitdate normal="1934-12-25"> December 25, 1934</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries 1: Notes on Other writing
+								Projects:</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="af592135-57ae-4f37-81db-fb01e7b65b12" type="box"
+								>18</container>
+							<container parent="af592135-57ae-4f37-81db-fb01e7b65b12" type="folder"
+								>1</container>
+							<unittitle>Coronado/Rio Grande Valley: notes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="9f597c3a-0afa-4c62-b56b-6b4cf76dea43" type="box"
+								>18</container>
+							<container parent="9f597c3a-0afa-4c62-b56b-6b4cf76dea43" type="folder"
+								>2</container>
+							<unittitle>Coronado/Rio Grande valley:maps, clippings,
+								drawings</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="ae9df41c-e711-44ce-b09b-4c8ef57a92df" type="box"
+								>18</container>
+							<container parent="ae9df41c-e711-44ce-b09b-4c8ef57a92df" type="folder"
+								>3</container>
+							<unittitle>Log cabins:articles, pictures, sketches, notes</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="232cbd4b-eb04-4608-87b2-f860e40ad5f9" type="box"
+								>18</container>
+							<container parent="232cbd4b-eb04-4608-87b2-f860e40ad5f9" type="folder"
+								>4</container>
+							<unittitle>Log cabins:pictures and photographs</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="4a3ce2e9-0bfd-44bf-95a5-81a3109904db" type="box"
+								>18</container>
+							<container parent="4a3ce2e9-0bfd-44bf-95a5-81a3109904db" type="folder"
+								>5</container>
+							<unittitle>Meteor Crater, Arizona:notes, jottings, diagrams, writings by
+								others</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="ce0242b0-540e-4aa3-a5b7-0e5d1ac4c337" type="box"
+								>18</container>
+							<container parent="ce0242b0-540e-4aa3-a5b7-0e5d1ac4c337" type="folder"
+								>6</container>
+							<unittitle>Miscellaneous notes and fragments related to various books
+								and articles</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series V: Art, Architecture, Photography</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container id="37d9c4d1-c0e4-45ab-a43d-ea864ebef515" type="box"
+							>19</container>
+						<container parent="37d9c4d1-c0e4-45ab-a43d-ea864ebef515" type="folder"
+							>1</container>
+						<unittitle>List of picture (on hand?, sold?)</unittitle>
+						<unitdate normal="1901-05">May 1901</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7a1a2f4a-5a71-4ae6-a865-4fb78f3bc472" type="box"
+							>19</container>
+						<container parent="7a1a2f4a-5a71-4ae6-a865-4fb78f3bc472" type="folder"
+							>2</container>
+						<unittitle>Photos of Arizona/West: painting and drawings,</unittitle>
+						<unitdate normal="1871">1871-</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1bb226be-c80e-4301-ab42-c8f7b13010a0" type="box"
+							>19</container>
+						<container parent="1bb226be-c80e-4301-ab42-c8f7b13010a0" type="folder"
+							>3</container>
+						<unittitle>Photos of European paintings and sketches,</unittitle>
+						<unitdate normal="1875/1884">1875,1882-1884</unitdate>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="92e2ad31-b10f-4ef0-87a6-23583e30c860" type="box"
+							>19</container>
+						<container parent="92e2ad31-b10f-4ef0-87a6-23583e30c860" type="folder"
+							>4</container>
+						<unittitle>Photo of painting of a woman, Ellenville,</unittitle>
+						<unitdate normal="1880/1889">188?</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4cec020d-50df-4b6b-adc4-61bfe269d512" type="box"
+							>19</container>
+						<container parent="4cec020d-50df-4b6b-adc4-61bfe269d512" type="folder"
+							>5</container>
+						<unittitle>Photos of Arizona Indians: paintings,</unittitle>
+						<unitdate normal="1884/1934">1884-1885, 1890,1933-1934</unitdate>
+						
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fa8c8ab1-c31a-4507-82a9-d6a3b705454c" type="box"
+							>19</container>
+						<container parent="fa8c8ab1-c31a-4507-82a9-d6a3b705454c" type="folder"
+							>6</container>
+						<unittitle>Photos of Ellenville Knife Works: paintings,</unittitle>
+						<unitdate normal="1886/1887">1886-1887;</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5d104201-44f0-425a-b5ba-e0989b320e8e" type="box"
+							>19</container>
+						<container parent="5d104201-44f0-425a-b5ba-e0989b320e8e" type="folder"
+							>7</container>
+						<unittitle>Photos of Ellenville Pottery Works: paintings, 1887</unittitle><unitdate normal="1887">1887</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="305de5b8-09c0-4fd4-a088-aaf46e854e4c" type="box"
+							>20</container>
+						<container parent="305de5b8-09c0-4fd4-a088-aaf46e854e4c" type="folder"
+							>1</container>
+						<unittitle>Library, Cragsmoor, New York:Correspondence (with committee and
+							others: Jessica Inness, Grace Curran, Gertrude Wlld, Mary Buxton,
+							Elizabeth Peters, Lawrence Keir, C. and R. Lamb) over planning and
+							construction;various notes, plans, specifications, sketches; dedication
+							by FS</unittitle>
+						<unitdate>1925:</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8dba1cb5-85cb-4967-9a88-e37ed4b108af" type="box"
+							>20</container>
+						<container parent="8dba1cb5-85cb-4967-9a88-e37ed4b108af" type="folder"
+							>2</container>
+						<unitdate normal="1896">1896:</unitdate>
+						<unittitle>Chapel of the Holy Names, Cragsmoor, New York: history of
+							FSD,commentary,photos; for the rose window see box 32/1</unittitle>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries 1: Photograhps,</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="c0abf86f-919f-421c-bc8f-e58e8a6681e0" type="box"
+								>20</container>
+							<container parent="c0abf86f-919f-421c-bc8f-e58e8a6681e0" type="folder"
+								>3</container>
+							<unittitle>Europe</unittitle>
+							<unitdate normal="1906">1906</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f7888476-f97e-4a21-865d-964896f2d7de" type="box"
+								>20</container>
+							<container parent="f7888476-f97e-4a21-865d-964896f2d7de" type="folder"
+								>4</container>
+							<unittitle>Canada (Banff, Lake Louise) and Alaska</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="1fa2f905-f87c-46e0-9774-0e12c6ad2487" type="box"
+								>20</container>
+							<container parent="1fa2f905-f87c-46e0-9774-0e12c6ad2487" type="folder"
+								>5</container>
+							<unittitle>Northern Arizona, Southern Utah (some of these photos may not
+								be by FSD),</unittitle>
+							<unitdate normal="1884/1910">1884,1903,1907,1910</unitdate>
+							
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="122d09b1-1ace-46aa-bd48-43e1e26d49de" type="box"
+								>20</container>
+							<container parent="122d09b1-1ace-46aa-bd48-43e1e26d49de" type="folder"
+								>6</container>
+							<unittitle>Western trip,</unittitle>
+							<unitdate normal="1921">1921</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f3949b0a-019d-4ae0-9ed8-e5f52613279f" type="box"
+								>20</container>
+							<container parent="f3949b0a-019d-4ae0-9ed8-e5f52613279f" type="folder"
+								>7</container>
+							<unittitle>Western Trip photos and album</unittitle>
+							<unitdate normal="1929">1929;</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="17bb20ac-b778-4e2d-a995-4c95d914ef7b" type="box"
+								>20</container>
+							<container parent="17bb20ac-b778-4e2d-a995-4c95d914ef7b" type="folder"
+								>8</container>
+							<unittitle>Miscellaneous</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="62459bbc-1fda-4d38-94b1-1c02631f289e" type="box"
+								>21</container>
+							<container parent="62459bbc-1fda-4d38-94b1-1c02631f289e" type="folder"
+								>1</container>
+							<unittitle>Prints of the negatives made by
+									F.S.D. on the First Mesa of the Hopi,</unittitle>
+							<unitdate normal="1884">1884</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="05e2c395-8558-46c3-87b7-33c8dc765c8e" type="box"
+								>21</container>
+							<container parent="05e2c395-8558-46c3-87b7-33c8dc765c8e" type="folder"
+								>2</container>
+							<unittitle>Proof of album of photos made, mostly in Hopiland;
+								pp.1-23,</unittitle>
+							<unitdate normal="1884/1885">1884-1885</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="58b8c083-8c11-4e5b-af4a-a6fb0b856ecf" type="box"
+								>21</container>
+							<container parent="58b8c083-8c11-4e5b-af4a-a6fb0b856ecf" type="folder"
+								>3</container>
+							<unittitle>Proof of album of photos made, mostly in Hopi land
+								pp.24-48,</unittitle>
+							<unitdate normal="1884/1885">1884-1885</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="1f36b300-7fe0-4199-8fba-dddf4e18a937" type="box"
+								>21</container>
+							<container parent="1f36b300-7fe0-4199-8fba-dddf4e18a937" type="folder"
+								>4</container>
+							<unittitle>Photo albumfamily (FSD, Jr., others),friends (John
+								Burroughs),interiors,scenes</unittitle>
+							<unitdate normal="1903">circa 1903</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="4bcb989d-2140-4509-bf96-8f814c1c3beb" type="box"
+								>22</container>
+							<container parent="4bcb989d-2140-4509-bf96-8f814c1c3beb" type="folder"
+								>1</container>
+							<unittitle>Drawings/sketches;Studio/photos</unittitle>
+							<unitdate normal="1871/1884">1871-1876, 1884, later dates;</unitdate>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series VI: Personal and Family Materials</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container id="25f6f410-4015-4543-a4c1-05dcb7ee0add" type="box"
+							>23</container>
+						<container parent="25f6f410-4015-4543-a4c1-05dcb7ee0add" type="folder"
+							>1</container>
+						<unittitle>Autobiographical/biographical notes and papers.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="cef439cc-5505-4287-b399-31c09b965c99" type="box"
+							>23</container>
+						<container parent="cef439cc-5505-4287-b399-31c09b965c99" type="file"
+							>2</container>
+						<unittitle>Photos of FSD: pp.1-18</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="eb77fc8e-da1b-4230-a1a9-352417b4bb86" type="box"
+							>23</container>
+						<container parent="eb77fc8e-da1b-4230-a1a9-352417b4bb86" type="file"
+							>3</container>
+						<unittitle>Photos of FSD: pp.19-39</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f90ebf84-24b4-408d-864a-6b26a3e3f0be" type="box"
+							>23</container>
+						<container parent="f90ebf84-24b4-408d-864a-6b26a3e3f0be" type="folder"
+							>4</container>
+						<unittitle>Correspondence with family members</unittitle>
+						<unitdate normal="1929/1930">1929--1930</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ba199876-b30e-41f9-b680-c1d73e57bbfd" type="box"
+							>23</container>
+						<container parent="ba199876-b30e-41f9-b680-c1d73e57bbfd" type="folder"
+							>5</container>
+						<unittitle>Correspondence with family members</unittitle>
+						<unitdate normal="1929/1930">1930--</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e21bdcec-6d0e-44b7-a617-82b851c0b47b" type="box"
+							>23</container>
+						<container parent="e21bdcec-6d0e-44b7-a617-82b851c0b47b" type="folder"
+							>6</container>
+						<unittitle>Clippings with references to and/or quotes by FSD</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a1b7118f-7fe9-4548-858f-b8c8282cd105" type="box"
+							>23</container>
+						<container parent="a1b7118f-7fe9-4548-858f-b8c8282cd105" type="folder"
+							>7</container>
+						<unittitle>Photos of Endridge</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="844c8d22-fc89-4f89-9006-d2f188079c3a" type="box"
+							>24</container>
+						<container parent="844c8d22-fc89-4f89-9006-d2f188079c3a" type="folder"
+							>1</container>
+						<unittitle>Portrait photo of FSD: This is the last portrait of FSD and was
+							the one sent to various friends after his death.</unittitle>
+					</did>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries 3: Diaries,</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="0e595b94-a11e-46bc-8ba8-e5fa13f3f14f" type="box"
+								>25</container>
+							<container parent="0e595b94-a11e-46bc-8ba8-e5fa13f3f14f" type="folder"
+								>1</container>
+							<unittitle>Diary of Walking trip from
+									Ellenville to Arkville etc. in 1889 in company with Arthur
+									Pomroy of N.Y.(original and photocopy)</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="027df225-ac8b-4d28-9c4d-c11a8b4d0095" type="box"
+								>25</container>
+							<container parent="027df225-ac8b-4d28-9c4d-c11a8b4d0095" type="folder"
+								>2</container>
+							<unittitle>Scattered pages of a diary (ies),</unittitle>
+							<unitdate normal="1895/1896">1895,1896</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="1ca25f03-d26b-4552-8991-f740242a39a3" type="box"
+								>25</container>
+							<container parent="1ca25f03-d26b-4552-8991-f740242a39a3" type="folder"
+								>3</container>
+							<unitdate>1900</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="68715371-9b21-45ba-a3c8-1d8c4bfe6a2b" type="box"
+								>25</container>
+							<container parent="68715371-9b21-45ba-a3c8-1d8c4bfe6a2b" type="folder"
+								>4</container>
+							<unitdate>1901</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="10d07ed9-b4a2-4bc1-b8c5-545e83c04b43" type="box"
+								>25</container>
+							<container parent="10d07ed9-b4a2-4bc1-b8c5-545e83c04b43" type="folder"
+								>5</container>
+							<unitdate>1903</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="ed8b854c-cc03-4170-9e58-2714710c2a2d" type="box"
+								>25</container>
+							<container parent="ed8b854c-cc03-4170-9e58-2714710c2a2d" type="folder"
+								>6</container>
+							<unitdate>1904</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e3dd7dca-6b67-4a0d-95fc-53259b5c90c8" type="box"
+								>25</container>
+							<container parent="e3dd7dca-6b67-4a0d-95fc-53259b5c90c8" type="folder"
+								>7</container>
+							<unitdate>1905</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="08bc6924-5a88-49aa-85cb-1453455fae27" type="box"
+								>25</container>
+							<container parent="08bc6924-5a88-49aa-85cb-1453455fae27" type="folder"
+								>8</container>
+							<unitdate>1906</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="d3d8b90f-63c7-418c-8845-09d88c617e90" type="box"
+								>25</container>
+							<container parent="d3d8b90f-63c7-418c-8845-09d88c617e90" type="folder"
+								>9</container>
+							<unitdate>1907</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="8e056518-1bcc-40d6-8e51-6bdb03c9d9ec" type="box"
+								>25</container>
+							<container parent="8e056518-1bcc-40d6-8e51-6bdb03c9d9ec" type="folder"
+								>10</container>
+							<unitdate>1908</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="3c2a77c0-1110-4ac9-861a-1c75ec617ebe" type="box"
+								>25</container>
+							<container parent="3c2a77c0-1110-4ac9-861a-1c75ec617ebe" type="folder"
+								>11</container>
+							<unittitle>Entries,</unittitle>
+							<unitdate normal="1902-02-11">February 11, 1902</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="9634a620-258c-45fa-9f7a-a619b2fb5a2e" type="box"
+								>25</container>
+							<container parent="9634a620-258c-45fa-9f7a-a619b2fb5a2e" type="folder"
+								>12</container>
+							<unittitle>Enclosures for 1903 diary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="c651f411-fb95-4c22-8809-168e975e4b3e" type="box"
+								>25</container>
+							<container parent="c651f411-fb95-4c22-8809-168e975e4b3e" type="folder"
+								>13</container>
+							<unittitle>Enclosures for 1904 diary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="425ae129-4dcc-42a9-bfe4-515d890a0918" type="box"
+								>25</container>
+							<container parent="425ae129-4dcc-42a9-bfe4-515d890a0918" type="folder"
+								>14</container>
+							<unittitle>Enclosures for 1906 diary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="8bbafcd3-ae77-41f5-a4d3-f99fcac1172e" type="box"
+								>25</container>
+							<container parent="8bbafcd3-ae77-41f5-a4d3-f99fcac1172e" type="folder"
+								>15</container>
+							<unittitle>Enclosures for 1907 diary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="813aec21-924e-474c-b46a-8ab9677b3261" type="box"
+								>25</container>
+							<container parent="813aec21-924e-474c-b46a-8ab9677b3261" type="folder"
+								>16</container>
+							<unittitle>Enclosures for 1908 diary</unittitle>
+							<unitdate normal="1908">1908</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="4eadeaf2-900c-4fb5-b67c-cb37ca9ee80c" type="box"
+								>26</container>
+							<container parent="4eadeaf2-900c-4fb5-b67c-cb37ca9ee80c" type="folder"
+								>1</container>
+							<unitdate normal="1909">1909</unitdate>
+							<unittitle>Enclosures for 1909 diary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="fccc0eed-1a54-4525-ab22-c0d4787b92e8" type="box"
+								>26</container>
+							<container parent="fccc0eed-1a54-4525-ab22-c0d4787b92e8" type="folder"
+								>2</container>
+							<unitdate normal="1910">1910</unitdate>
+							<unittitle>Enclosures for 1910 diary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b7f71274-7be9-4c9f-a49f-1055b582ad99" type="box"
+								>26</container>
+							<container parent="b7f71274-7be9-4c9f-a49f-1055b582ad99" type="folder"
+								>3</container>
+							<unitdate normal="1911">1911</unitdate>
+							<unittitle>Enclosures for 1911 diary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b64d646e-6317-44af-aee5-ebab7d07a097" type="box"
+								>26</container>
+							<container parent="b64d646e-6317-44af-aee5-ebab7d07a097" type="folder"
+								>4</container>
+							<unitdate normal="1913">1913</unitdate>
+							<unittitle>Enclosures for 1913 diary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="fe315541-b67f-4ee9-bc76-1aef685237bb" type="box"
+								>26</container>
+							<container parent="fe315541-b67f-4ee9-bc76-1aef685237bb" type="folder"
+								>5</container>
+							<unitdate normal="1914">1914</unitdate>
+							<unittitle>Enclosures for 1914 diary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e0143835-2a02-4b84-964f-0d7f9b02b83b" type="box"
+								>26</container>
+							<container parent="e0143835-2a02-4b84-964f-0d7f9b02b83b" type="folder"
+								>6</container>
+							<unitdate normal="1915">1915</unitdate>
+							<unittitle>Enclosures for 1915 diary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e69d276f-a177-472d-92d1-7b16ff1b5135" type="box"
+								>26</container>
+							<container parent="e69d276f-a177-472d-92d1-7b16ff1b5135" type="folder"
+								>7</container>
+							<unittitle>Enclosures for 1909 diary</unittitle>
+							<unitdate normal="1909">1909</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="20910873-0178-4901-961b-69c6ea3cdcaa" type="box"
+								>26</container>
+							<container parent="20910873-0178-4901-961b-69c6ea3cdcaa" type="folder"
+								>8</container>
+							<unittitle>Enclosures for 1910 diary</unittitle>
+							<unitdate normal="1910">1910</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="3ed9d7a7-9fe1-4347-96d8-0b952394c873" type="box"
+								>26</container>
+							<container parent="3ed9d7a7-9fe1-4347-96d8-0b952394c873" type="folder"
+								>9</container>
+							<unittitle>Enclosure for 1911 diary</unittitle>
+							<unitdate normal="1911">1911</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="574469ff-8f3b-4186-bce4-73a0cefb0ad7" type="box"
+								>26</container>
+							<container parent="574469ff-8f3b-4186-bce4-73a0cefb0ad7" type="folder"
+								>10</container>
+							<unittitle>Enclosure for 1913 diary</unittitle>
+							<unitdate normal="1913">1913</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="600fa783-7d8f-45d4-8fef-49760dcdfdd0" type="box"
+								>26</container>
+							<container parent="600fa783-7d8f-45d4-8fef-49760dcdfdd0" type="folder"
+								>11</container>
+							<unittitle>Enclosure for 1914 diary</unittitle>
+							<unitdate normal="1914">1914</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="fe913b31-6578-4d45-b72a-25a209f982b9" type="box"
+								>26</container>
+							<container parent="fe913b31-6578-4d45-b72a-25a209f982b9" type="folder"
+								>12</container>
+							<unittitle>Enclosure for 1915 diary</unittitle>
+							<unitdate normal="1915">1915</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="2009b609-e1a5-4228-8494-a62f761643e1" type="box"
+								>27</container>
+							<container parent="2009b609-e1a5-4228-8494-a62f761643e1" type="folder"
+								>1</container>
+							<unitdate normal="1916">1916</unitdate>
+							<unittitle>Enclosure for 1916 diary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="ca8b7ca9-ac78-4932-88d9-e221a3b20f8d" type="box"
+								>27</container>
+							<container parent="ca8b7ca9-ac78-4932-88d9-e221a3b20f8d" type="folder"
+								>2</container>
+							<unitdate normal="1917">1917</unitdate>
+							<unittitle>Enclosure for 1917 diary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f9546c81-0bbe-43b0-8855-fd3f1592e820" type="box"
+								>27</container>
+							<container parent="f9546c81-0bbe-43b0-8855-fd3f1592e820" type="folder"
+								>3</container>
+							<unitdate normal="1918">1918</unitdate>
+							<unittitle>Enclosure for 1918 diary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="9eaeb2da-2d67-46d6-b55a-fe3f3b3c5b69" type="box"
+								>27</container>
+							<container parent="9eaeb2da-2d67-46d6-b55a-fe3f3b3c5b69" type="folder"
+								>4</container>
+							<unitdate normal="1919">1919</unitdate>
+							<unittitle>Enclosure for 1919 diary</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="466ac022-cf29-4989-a34c-5c49bf057e0d" type="box"
+								>27</container>
+							<container parent="466ac022-cf29-4989-a34c-5c49bf057e0d" type="folder"
+								>5</container>
+							<unittitle>Enclosures for 1916 diary</unittitle>
+							<unitdate normal="1916">1916</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="97d73647-37e3-4ba8-b182-f7622f798a9b" type="box"
+								>27</container>
+							<container parent="97d73647-37e3-4ba8-b182-f7622f798a9b" type="folder"
+								>5</container>
+							<unittitle>Enclosures for 1917 diary</unittitle>
+							<unitdate normal="1917">1917</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="1265f843-c28d-4288-8abd-a9649cbde0d6" type="box"
+								>27</container>
+							<container parent="1265f843-c28d-4288-8abd-a9649cbde0d6" type="folder"
+								>6</container>
+							<unittitle>Enclosures for 1918 diary</unittitle>
+							<unitdate normal="1918">1918</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="aa2f51aa-b188-4cf1-b920-f854759ca428" type="box"
+								>27</container>
+							<container parent="aa2f51aa-b188-4cf1-b920-f854759ca428" type="folder"
+								>7</container>
+							<unittitle>Enclosures for 1919 diary</unittitle>
+							<unitdate normal="1919">1919</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="681add9d-d04d-44bc-8e54-db2dc4fc1c16" type="box"
+								>28</container>
+							<container parent="681add9d-d04d-44bc-8e54-db2dc4fc1c16" type="folder"
+								>1</container>
+							<unittitle>Enclosure for 1920 diary</unittitle>
+							<unitdate normal="1920">1920</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="0bcd686f-f1a2-49c6-8ad0-f217641f0acd" type="box"
+								>28</container>
+							<container parent="0bcd686f-f1a2-49c6-8ad0-f217641f0acd" type="folder"
+								>2</container>
+							<unittitle>Enclosure for 1921 diary</unittitle>
+							<unitdate normal="1921">1921</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="286e4711-5d0b-4ae8-8935-ce5970221b43" type="box"
+								>28</container>
+							<container parent="286e4711-5d0b-4ae8-8935-ce5970221b43" type="folder"
+								>3</container>
+							<unittitle>Enclosure for 1923 diary</unittitle>
+							<unitdate normal="1923">1923</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f81834c4-1135-45cb-839a-9870032e4f6c" type="box"
+								>28</container>
+							<container parent="f81834c4-1135-45cb-839a-9870032e4f6c" type="folder"
+								>4</container>
+							<unittitle>Enclosure for 1924 diary</unittitle>
+							<unitdate normal="1924">1924</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="77efae32-6337-4fb1-a5c9-059d5fba9158" type="box"
+								>28</container>
+							<container parent="77efae32-6337-4fb1-a5c9-059d5fba9158" type="folder"
+								>5</container>
+							<unittitle>Enclosure for 1925 diary</unittitle>
+							<unitdate normal="1925">1925</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b22f5b15-e989-410d-8bfa-de3a8512c4b8" type="box"
+								>28</container>
+							<container parent="b22f5b15-e989-410d-8bfa-de3a8512c4b8" type="folder"
+								>6</container>
+							<unittitle>Enclosure for 1926 diary</unittitle>
+							<unitdate normal="1926">1926</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="552e898c-b406-45f0-8d51-7b6837848201" type="box"
+								>28</container>
+							<container parent="552e898c-b406-45f0-8d51-7b6837848201" type="folder"
+								>7</container>
+							<unittitle>Enclosures for 1920 diary</unittitle>
+							<unitdate normal="1920">1920</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="3a5b34ac-d73c-4b58-86ed-b9db2052d6af" type="box"
+								>28</container>
+							<container parent="3a5b34ac-d73c-4b58-86ed-b9db2052d6af" type="folder"
+								>8</container>
+							<unittitle>Enclosures for 1921 diary</unittitle><unitdate normal="1921">1921</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="8660fd61-cb26-4c8d-a8a4-3eebaa2e5800" type="box"
+								>28</container>
+							<container parent="8660fd61-cb26-4c8d-a8a4-3eebaa2e5800" type="folder"
+								>9</container>
+							<unittitle>Enclosures for 1923 diary</unittitle><unitdate normal="1923">1923</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="c9592480-b250-449e-8a76-8700649cc903" type="box"
+								>28</container>
+							<container parent="c9592480-b250-449e-8a76-8700649cc903" type="folder"
+								>10</container>
+							<unittitle>Enclosures for 1924 diary</unittitle><unitdate normal="1924">1924</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="14990802-85f4-483a-8595-266aa3f65a6f" type="box"
+								>28</container>
+							<container parent="14990802-85f4-483a-8595-266aa3f65a6f" type="folder"
+								>11</container>
+							<unittitle>Enclosures for 1925 diary</unittitle><unitdate normal="1925">1925</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="c28d303a-ad2f-436b-a9a4-c25d054936c5" type="box"
+								>28</container>
+							<container parent="c28d303a-ad2f-436b-a9a4-c25d054936c5" type="folder"
+								>12</container>
+							<unittitle>Enclosures for 1926 diary</unittitle><unitdate normal="1926">1926</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="1fd89347-1d92-487c-a471-b1efd030b8d2" type="box"
+								>29</container>
+							<container parent="1fd89347-1d92-487c-a471-b1efd030b8d2" type="folder"
+								>1</container>
+							<unittitle>Enclosure for 1927 diary</unittitle>
+							<unitdate normal="1927">1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="6156ca11-e580-4a60-b8ba-2012d2b829d8" type="box"
+								>29</container>
+							<container parent="6156ca11-e580-4a60-b8ba-2012d2b829d8" type="folder"
+								>2</container>
+							<unittitle>Enclosure for 1928 diary</unittitle>
+							<unitdate normal="1928">1928</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e93a8f58-8cbc-4954-9841-59a31a6d26a0" type="box"
+								>29</container>
+							<container parent="e93a8f58-8cbc-4954-9841-59a31a6d26a0" type="folder"
+								>3</container>
+							<unittitle>Enclosure for 1929 diary</unittitle>
+							<unitdate normal="1929">1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="9125d0d7-1a2b-4643-8712-27daeb721cea" type="box"
+								>29</container>
+							<container parent="9125d0d7-1a2b-4643-8712-27daeb721cea" type="folder"
+								>4</container>
+							<unittitle>Enclosure for 1930 diary</unittitle>
+							<unitdate normal="1930">1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="a7569ff8-33b5-4f26-92be-bb4068170d07" type="box"
+								>29</container>
+							<container parent="a7569ff8-33b5-4f26-92be-bb4068170d07" type="folder"
+								>5</container>
+							<unittitle>Enclosure for 1931 diary</unittitle>
+							<unitdate normal="1931">1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b4efc57c-0733-417f-b1ee-84cd1aa16afe" type="box"
+								>29</container>
+							<container parent="b4efc57c-0733-417f-b1ee-84cd1aa16afe" type="folder"
+								>6</container>
+							<unittitle>Enclosure for 1932 diary</unittitle>
+							<unitdate normal="1932">1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b9879433-f862-4bb9-b1c1-483904ab0e0c" type="box"
+								>29</container>
+							<container parent="b9879433-f862-4bb9-b1c1-483904ab0e0c" type="folder"
+								>7</container>
+							<unittitle>Enclosures for 1927 diary</unittitle><unitdate normal="1927">1927</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="95cae1f8-e468-449c-a4ea-d86c767f5639" type="box"
+								>29</container>
+							<container parent="95cae1f8-e468-449c-a4ea-d86c767f5639" type="folder"
+								>8</container>
+							<unittitle>Enclosures for 1928 diary</unittitle><unitdate normal="1928">1928</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="0373b633-d876-4122-a824-effc087d378a" type="box"
+								>29</container>
+							<container parent="0373b633-d876-4122-a824-effc087d378a" type="folder"
+								>9</container>
+							<unittitle>Enclosures for 1929 diary</unittitle><unitdate normal="1929">1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="4614d46a-cbc5-48d2-ab31-6652b3f056b1" type="box"
+								>29</container>
+							<container parent="4614d46a-cbc5-48d2-ab31-6652b3f056b1" type="folder"
+								>10</container>
+							<unittitle>Enclosures for 1930 diary</unittitle><unitdate normal="1930">1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="94dffdcb-85a9-49dd-8f3b-4c53820a29cb" type="box"
+								>29</container>
+							<container parent="94dffdcb-85a9-49dd-8f3b-4c53820a29cb" type="folder"
+								>11</container>
+							<unittitle>Enclosures for 1931 diary</unittitle><unitdate normal="1931">1931</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="8f85e137-918a-40c9-bad7-b20a041470e1" type="box"
+								>29</container>
+							<container parent="8f85e137-918a-40c9-bad7-b20a041470e1" type="folder"
+								>12</container>
+							<unittitle>Enclosures for 1932 diary</unittitle><unitdate normal="1932">1932</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="2446528b-fb32-4f20-9765-15b700752225" type="box"
+								>30</container>
+							<container parent="2446528b-fb32-4f20-9765-15b700752225" type="folder"
+								>1</container>
+							<unittitle>Enclosure for 1933 diary</unittitle>
+							<unitdate normal="1933">1933</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="823a4a7f-3a20-4e8b-8c82-c8f121103ffc" type="box"
+								>30</container>
+							<container parent="823a4a7f-3a20-4e8b-8c82-c8f121103ffc" type="folder"
+								>2</container>
+							<unittitle>Enclosure for 1934 diary (short entrie)</unittitle>
+							<unitdate normal="1934">1934 </unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="8973366d-1f05-4c47-83e2-e939fe6d3191" type="box"
+								>30</container>
+							<container parent="8973366d-1f05-4c47-83e2-e939fe6d3191" type="folder"
+								>3</container>
+							<unittitle>Enclosure for 1934 diary</unittitle>
+							<unitdate normal="1934">1934</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="3e49039f-1a2c-4acc-ba8c-97f70e1b7915" type="box"
+								>30</container>
+							<container parent="3e49039f-1a2c-4acc-ba8c-97f70e1b7915" type="folder"
+								>4</container>
+							<unittitle>Enclosure for 1935 diary</unittitle>
+							<unitdate normal="1935">1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="a4192c49-84b1-4d34-819c-0bc493a0e786" type="box"
+								>30</container>
+							<container parent="a4192c49-84b1-4d34-819c-0bc493a0e786" type="folder"
+								>5</container>
+							<unittitle>Enclosures for 1933 diary</unittitle><unitdate normal="1933">1933</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="ec2e1e99-f6b7-471a-b207-86e4a4ce221b" type="box"
+								>30</container>
+							<container parent="ec2e1e99-f6b7-471a-b207-86e4a4ce221b" type="folder"
+								>6</container>
+							<unittitle>Enclosures for 1934 diary</unittitle><unitdate normal="1934">1934</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Suberseries 4: Financial Records</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="e9a4efff-6f93-47c5-85d9-a51c723f67a7" type="box"
+								>31</container>
+							<container parent="e9a4efff-6f93-47c5-85d9-a51c723f67a7" type="folder"
+								>1</container>
+							<unittitle>Taxes:Correspondence with various taxing agencies,
+								statements, receipts</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="ca618ca4-fd44-43d0-befa-120ed27cf555" type="box"
+								>31</container>
+							<container parent="ca618ca4-fd44-43d0-befa-120ed27cf555" type="folder"
+								>2</container>
+							<unittitle>Taxes, estate (beginning February, 1935): Correspondences
+								(FSD, Fr. with W.R. Garritt)</unittitle><unitdate normal="1935">1935</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="8ade07b6-d0fd-467e-8be6-47df77ae7469" type="box"
+								>31</container>
+							<container parent="8ade07b6-d0fd-467e-8be6-47df77ae7469" type="folder"
+								>3</container>
+							<unittitle>FSD estate, general, February-May, 1935:Letters of
+								condolence; correspondence between FSD, Jr. and others with a
+								personal , business, legal interest in the estate:</unittitle><unitdate normal="1935">1935</unitdate>
+						</did>
+						<odd>
+							<list>
+								<item>Edward Eberstadt,</item>
+								<item>Bert H. and Sidney Terwilliger,</item>
+								<item>Raines Galleries,</item>
+								<item>The Home Insurance Company,</item>
+								<item>One West Sixty-seventh Street (R.R. Daigle),</item>
+								<item>Rollins and Sons,</item>
+								<item>Henry W. Smith,</item>
+								<item>Wood and Lambert,</item>
+								<item>others</item>
+							</list>
+						</odd>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="9b2a5841-6884-4dac-aa7b-e409a53cb4a6" type="box"
+								>31</container>
+							<container parent="9b2a5841-6884-4dac-aa7b-e409a53cb4a6" type="folder"
+								>4</container>
+							<unittitle>FSD estate, general, June, 1935--:continuing correspondence
+								between FSD R. and:</unittitle><unitdate normal="1935">1935</unitdate>
+						</did>
+						<odd>
+							<list>
+								<item>Rains Galleries,</item>
+								<item>P. Edwin Clark,</item>
+								<item>Juan A. Almirall,</item>
+								<item>Henry W. Smith,</item>
+								<item>Edward Eberstadt,</item>
+								<item>Ellenville Electric Company,</item>
+								<item>One West Sixty-seventh Street (R.R. Daigle),</item>
+								<item>Annette M. Ham,</item>
+								<item>Kendall T. Methot,</item>
+								<item>Slawson and Hobbs,</item>
+								<item>Arizona Pioneers' Historical Society,</item>
+								<item>others; letter from FSD to FSD, Jr. about with list of
+									disposition; inventories</item>
+							</list>
+						</odd>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="ab396140-84d7-454b-ab44-c9eabfbba774" type="box"
+								>31</container>
+							<container parent="ab396140-84d7-454b-ab44-c9eabfbba774" type="folder"
+								>5</container>
+							<unittitle>1 West 67th Street: rental statements correspondence between
+								FSD and FSD, Jr. and;</unittitle>
+							<unitdate normal="1923/1934">1923-1934;</unitdate>
+						</did>
+						<odd>
+							<list>
+								<item>Walter B. Jones,</item>
+								<item>J.S. Kelly,</item>
+								<item>Middlebrook and Sincerbeaun, </item>
+								<item>Slawson and Hobbs,</item>
+								<item>Shattuck,</item>
+								<item>Bangs and Davis,</item>
+								<item>Mayer C. Goldman,</item>
+								<item>others;</item>
+							</list>
+						</odd>
+						<note>
+							<p>miscellaneous items related to the building:</p>
+						</note>
+						<odd>
+							<list>
+								<item>clippings,</item>
+								<item>list of stockholders,</item>
+								<item>by-laws,</item>
+								<item>etc.</item>
+							</list>
+						</odd>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="fd0cf880-0161-412c-928b-df5c6016343b" type="box"
+								>31</container>
+							<container parent="fd0cf880-0161-412c-928b-df5c6016343b" type="folder"
+								>6</container>
+							<unittitle>1 West 67th Street: rental statements correspondence between
+								FSD and FSD, Jr. and:</unittitle>
+							<unitdate normal="1935/1937">1935-1937</unitdate>
+						</did>
+						<odd>
+							<list>
+								<item>One West Sixty-seventh Street and R.R., Daigle,</item>
+								<item>Slawson and Hobbs,</item>
+								<item>Wm. A. White and Sons;</item>
+								<item>lease (1935-1936) between estate and Esther Hellberg</item>
+							</list>
+						</odd>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="0a2d9cd0-470a-4d28-bf48-df0470dd20ab" type="box"
+								>31</container>
+							<container parent="0a2d9cd0-470a-4d28-bf48-df0470dd20ab" type="folder"
+								>7</container>
+							<unittitle>1 West 67th Street, estate: original lease;correspondence
+								between FSD, Jr. and Northern Trust Company,Shattuck,Bangs and
+								Davis</unittitle>
+							<unitdate normal="1917">1917</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="1456866b-73de-44bc-ad0c-1d9c83b0f987" type="box"
+								>31</container>
+							<container parent="1456866b-73de-44bc-ad0c-1d9c83b0f987" type="folder"
+								>8</container>
+							<unittitle>Barnstormers: Correspondense of FSD,Jr. with Annette N.
+								Ham,</unittitle>
+							<unittitle>Paul Barnee</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="becd98d8-dcd2-4ba7-8258-0494c130bdea" type="box"
+								>31</container>
+							<container parent="becd98d8-dcd2-4ba7-8258-0494c130bdea" type="folder"
+								>9</container>
+							<unittitle>Burial lots:Forest Lawn, Buffalo;Fantinekill
+								Cemetery</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="68a5dc90-a59f-40bf-9752-6b247e29584d" type="box"
+								>32</container>
+							<container parent="68a5dc90-a59f-40bf-9752-6b247e29584d" type="folder"
+								>1</container>
+							<unittitle>Harriet Otis Dellengaugh:</unittitle>
+						</did>
+						<scopecontent>
+							<p>Obits; correspondence relating to her estate between FSD, Jr. and:
+								Shawnut Bank, Rank L. Holt; correspondence relating to the rose
+								window in Chapel of the Holy Hame: FSD, with the J. and R. Lamb
+								Studios: Charles R. Lamb, Karl Lamb; clippings, photos, etc. related
+								to rose window </p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="ed150217-62fb-44f4-b831-ae6ebc86f093" type="box"
+								>32</container>
+							<container parent="ed150217-62fb-44f4-b831-ae6ebc86f093" type="folder"
+								>2</container>
+							<unittitle>Harriet Otis Dellenbaugh: photos</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="57b98a8b-b412-4519-819d-b0f9d92f0b8f" type="box"
+								>32</container>
+							<container parent="57b98a8b-b412-4519-819d-b0f9d92f0b8f" type="folder"
+								>3</container>
+							<unittitle>Frederick S. Dellenbaugh, Jr., Anne Goddard Dellenbaugh and
+								children: clippings, photos.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e3abef8a-4b51-4c59-b746-0c5194e17813" type="box"
+								>32</container>
+							<container parent="e3abef8a-4b51-4c59-b746-0c5194e17813" type="folder"
+								>4</container>
+							<unittitle>Belle Dellenbaugh estate, general:</unittitle>
+							<unitdate>1917-1923:</unitdate>
+						</did>
+						<scopecontent>
+							<p>Correspondence of FSD and FSD, Jr. with: Frank L. Holt, The fifthe
+								Avenue Bank, Goodwin Procter, Field and Hoar, Slawson and Hobbs;
+								various estate accounts, etc.</p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="68fb56ad-2343-4d11-a3b4-b60f200c6748" type="box"
+								>32</container>
+							<container parent="68fb56ad-2343-4d11-a3b4-b60f200c6748" type="folder"
+								>5</container>
+							<unittitle>Belle Dellenbaugh estate, general,</unittitle>
+							<unitdate normal="1924">1924:</unitdate>
+						</did>
+						<scopecontent>
+							<p>Correspondence of FSD and FSD Jr. with: N.Y. State Tax Department,
+								Goodwin Procter, Field and Hoar, Slawson and Hobbs, Smyth, Haggerty,
+								King and Corcoran, The Fifth Avenue Bank, Platt, Field and Taylor,
+								Bulter and Baldwin; various estate accounts, etc.</p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="57bdd9c7-0d8d-40be-9977-a1440f98bd7d" type="box"
+								>32</container>
+							<container parent="57bdd9c7-0d8d-40be-9977-a1440f98bd7d" type="folder"
+								>6</container>
+							<unittitle>Belle Dellenbaugh estate, general,</unittitle>
+							<unitdate normal="1925">1925:</unitdate>
+						</did>
+						<scopecontent>
+							<p>Correspondence between FSD, Jr. and: Butler and Baldwin, Platt, Field
+								and Taylor, The Fifth Avenue Bank, FSD; various estate account,
+								etc.</p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="02a09dd7-f055-41ce-b11c-585de30fea64" type="box"
+								>32</container>
+							<container parent="02a09dd7-f055-41ce-b11c-585de30fea64" type="folder"
+								>7</container>
+							<unittitle>Belle Dellenbaugh estate, Orchard Cottage:</unittitle>
+						</did>
+						<scopecontent>
+							<p>Correspondence between FSD and FSD, Jr. with: Pfister Brothers, W.R.
+								Garritt, Lawerence S. Keir, The Terwilliger Agency, H.B. Rust,
+								Raymond G. Cox, others; assessments, leases, tax receipts, etc.</p>
+						</scopecontent>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="bc99b0ad-fe1b-4424-b7b8-5c5e3e0ee3f1" type="box"
+								>32</container>
+							<container parent="bc99b0ad-fe1b-4424-b7b8-5c5e3e0ee3f1" type="folder"
+								>8</container>
+							<unittitle>Belle Dellenbaugh estate, Orchard Cottage:
+								photos,</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Subseries 5: Photo Albums</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="a73746c8-c4b8-4cd8-b847-6bdb0f46bda6" type="box"
+								>33</container>
+							<container parent="a73746c8-c4b8-4cd8-b847-6bdb0f46bda6" type="folder"
+								>1</container>
+							<unittitle>FSD, Jr.: Western trip (some of these photos taken by
+								FSD),</unittitle>
+							<unitdate normal="1907">1907</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b2f2a348-7c98-44c5-bd55-ae7b3f433488" type="box"
+								>33</container>
+							<container parent="b2f2a348-7c98-44c5-bd55-ae7b3f433488" type="folder"
+								>2</container>
+							<unittitle>FSD, Jr.: Friends, scenes, one photo of FDS,</unittitle>
+							<unitdate normal="1913">1913</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="415c8968-741b-4dc6-8680-6777b3816c2a" type="box"
+								>33</container>
+							<container parent="415c8968-741b-4dc6-8680-6777b3816c2a" type="folder"
+								>3</container>
+							<unittitle>W. Norton Goddard (father of Ann Goddard Dellenbaugh):
+								family, home, friends,</unittitle>
+							<unitdate normal="1897/1899">1897-1899</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="9d9099ef-efa9-4242-84be-17f968ba5343" type="box"
+								>33</container>
+							<container parent="9d9099ef-efa9-4242-84be-17f968ba5343" type="folder"
+								>4</container>
+							<unittitle>Annie and her father on
+									Paris,</unittitle>
+							<unitdate normal="1897">1897</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="3cf7bb4b-f057-4c61-a837-8d125ac180f3" type="box"
+								>33</container>
+							<container parent="3cf7bb4b-f057-4c61-a837-8d125ac180f3" type="folder"
+								>5</container>
+							<unittitle>W. Norton Goddard: Triton Club,</unittitle>
+							<unitdate normal="1898/1899">1898-1899</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="8a269768-5561-40c9-8c92-9be20c65004c" type="box"
+								>33</container>
+							<container parent="8a269768-5561-40c9-8c92-9be20c65004c" type="folder"
+								>6</container>
+							<unittitle>Triton Club photos,</unittitle>
+							<unitdate normal="1898">1898</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="eef3427b-cd12-4209-b886-6f6a6b91bce9" type="box"
+								>33</container>
+							<container parent="eef3427b-cd12-4209-b886-6f6a6b91bce9" type="folder"
+								>7</container>
+							<unittitle>W. Norton Goddard, family, friends, scenes,</unittitle>
+							<unitdate normal="1899">1899</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="d9aa0dc9-8115-466d-9ae9-e8a0f3bb121b" type="box"
+								>33</container>
+							<container parent="d9aa0dc9-8115-466d-9ae9-e8a0f3bb121b" type="folder"
+								>8</container>
+							<unittitle>Goddard friends, photos,</unittitle>
+							<unitdate normal="1899">1899</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Subseries 6: Cragsmoor</unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="a267fbba-ae9e-4871-af7e-02b1079824c2" type="box"
+								>34</container>
+							<container parent="a267fbba-ae9e-4871-af7e-02b1079824c2" type="folder"
+								>1</container>
+							<unittitle>Correspondence, mostly related to the buying, selling and
+								exchange of land,FSD with George and Catherine Bleakley, Bert H. and
+								Alex Terwilliger, George G. Keeler, Mary D. Sherman, Raymond G. Cox,
+								P. Edwin Clark, Helen C. Brown, Bernard Suydam, Frank L. Holt, Julia
+								Northrup, Charles C. Curran, Juan A. Almirall, Charles Pfister,
+								Annette M. Ham, other</unittitle>
+							<unitdate normal="1929">1929</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="98e02dff-27b8-48e3-9b31-b1e754963f05" type="box"
+								>34</container>
+							<container parent="98e02dff-27b8-48e3-9b31-b1e754963f05" type="folder"
+								>2</container>
+							<unittitle>Correspondence, mostly related to the buying, selling and
+								exchange of land,DS with Julia G. Immess, Pfister Brothers, Bert H.
+								Terwilliger, Lawrence S. Keir, P. Edwin Clark, Paul Barnee,
+								Ellenville Construction Company, Juan A. Almirakkm Robert G Groves,
+								Helen C. Brown W.H. Garrit, others</unittitle>
+							<unitdate normal="1930">1930</unitdate>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="09122ab0-3fc9-427c-befe-1c738aafdc9f" type="box"
+								>34</container>
+							<container parent="09122ab0-3fc9-427c-befe-1c738aafdc9f" type="folder"
+								>3</container>
+							<unittitle>Land:Maps, description deeds, conveyances, etc.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="85dc228b-4456-4708-98e1-9d25fe11e8a7" type="box"
+								>34</container>
+							<container parent="85dc228b-4456-4708-98e1-9d25fe11e8a7" type="folder"
+								>4</container>
+							<unittitle>Miscellaneous items:notes and clippings; history by FSD; maps
+								of area; FSD: The Herdenberghs;
+								Blanche D. Curtis with drawings by Charles C. Currant:The Legend of Sam's Point</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="8020a905-aebe-44ae-8c83-bc1fcc47f2e1" type="box"
+								>34</container>
+							<container parent="8020a905-aebe-44ae-8c83-bc1fcc47f2e1" type="folder"
+								>5</container>
+							<unittitle>Miscellaneous items:Report of meeting on the schoolhouse;
+								house for Fred Schwabk telephone, power rights of way; Cragsmoor
+								Country Club, etc.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="d4251fa6-f02a-4194-83e2-e64218945b76" type="box"
+								>34</container>
+							<container parent="d4251fa6-f02a-4194-83e2-e64218945b76" type="folder"
+								>6</container>
+							<unittitle>Music, art, theatre:photos, programs, reviews; history of
+								Barnstormers Theatre by FSD, etc.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="c4ad7564-08ea-4481-8fe2-09c730886c74" type="box"
+								>34</container>
+							<container parent="c4ad7564-08ea-4481-8fe2-09c730886c74" type="folder"
+								>7</container>
+							<unittitle>People:Obits, photos</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b7889c9a-fa59-49d4-8b9a-6d8065301aad" type="box"
+								>34</container>
+							<container parent="b7889c9a-fa59-49d4-8b9a-6d8065301aad" type="folder"
+								>8</container>
+							<unittitle>Homes, other buildings:photos</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="a1fb100e-435e-4d76-980a-4104ae6bbb6a" type="box"
+								>34</container>
+							<container parent="a1fb100e-435e-4d76-980a-4104ae6bbb6a" type="folder"
+								>9</container>
+							<unittitle>Scenes:photos</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="62f40eff-d4d7-4e00-8574-c3b7c8cb5229" type="box"
+								>35</container>
+							<container parent="62f40eff-d4d7-4e00-8574-c3b7c8cb5229" type="folder"
+								>10</container>
+							<unittitle>Newspapers,The Cragsmoor
+									Journal, v.1 no. 1, 1904, v.11, no 1, 1913,v. 13, no.6
+									1916;The Mountain Echo, v.1,
+								no.2, 1928</unittitle><unitdate normal="1904/1928">1904-1928</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Subseries 7: Miscellaneous Saved Items:</unittitle>
+					</did>
+					<c03 level="otherlevel">
+						<did>
+							<unittitle>Sub-subseries 1: Clippings, Maps, Brochures,
+								Leaflets</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container id="cb2d8c12-bc86-4ad5-ba22-ee176af832b4" type="box"
+									>35</container>
+								<container parent="cb2d8c12-bc86-4ad5-ba22-ee176af832b4"
+									type="folder">1</container>
+								<unittitle>Arizona</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="2a36b68b-3e07-4df9-9631-a3def1dc47bd" type="box"
+									>35</container>
+								<container parent="2a36b68b-3e07-4df9-9631-a3def1dc47bd"
+									type="folder">2</container>
+								<unittitle>Cody, Colonel William F. (Buffalo Bill)</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="90a791fa-9bae-4106-ab13-0bec4ba4873a" type="box"
+									>35</container>
+								<container parent="90a791fa-9bae-4106-ab13-0bec4ba4873a"
+									type="folder">3</container>
+								<unittitle>Colorado River</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="a4a71c86-c2f5-4c39-825b-2036a6cd3c50" type="box"
+									>35</container>
+								<container parent="a4a71c86-c2f5-4c39-825b-2036a6cd3c50"
+									type="folder">4</container>
+								<unittitle>Colorado River, trips and explorations</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="547432dd-f5c5-4bf3-8a00-faa322f5d972" type="box"
+									>35</container>
+								<container parent="547432dd-f5c5-4bf3-8a00-faa322f5d972"
+									type="folder">5</container>
+								<unittitle>Grand Canyon</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="337c2bbd-59ae-46f7-877a-121462b77663" type="box"
+									>35</container>
+								<container parent="337c2bbd-59ae-46f7-877a-121462b77663"
+									type="folder">6</container>
+								<unittitle>Indians</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="c65efa47-9814-4e4b-a492-1f5d22349462" type="box"
+									>35</container>
+								<container parent="c65efa47-9814-4e4b-a492-1f5d22349462"
+									type="folder">7</container>
+								<unittitle>Juliwn, D./Robidoux, Antoine</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="d4b0a06f-89a8-46a5-83fd-3e94d9aec971" type="box"
+									>35</container>
+								<unittitle type="folder">8</unittitle>
+								<unittitle>Miscellaneous subjects</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="a1ecb768-6ace-4242-ab62-58e698ae7986" type="box"
+									>35</container>
+								<container parent="a1ecb768-6ace-4242-ab62-58e698ae7986"
+									type="folder">9</container>
+								<unittitle>People, mostly obits</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="15b9565c-fce1-41e1-a2d2-e6a836d62683" type="box"
+									>35</container>
+								<container parent="15b9565c-fce1-41e1-a2d2-e6a836d62683"
+									type="folder">10</container>
+								<unittitle>Pony Express and other riders</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="09f21df6-3fae-4146-9d57-7eb998a995c5" type="box"
+									>35</container>
+								<container parent="09f21df6-3fae-4146-9d57-7eb998a995c5"
+									type="folder">11</container>
+								<unittitle>Science</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="38e492a8-01cc-4c10-b5e7-7c0cfc5903b6" type="box"
+									>35</container>
+								<container parent="38e492a8-01cc-4c10-b5e7-7c0cfc5903b6"
+									type="folder">12</container>
+								<unittitle>Utah</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="b1d1ecc3-a618-4a34-9c0c-9ab16c370fab" type="box"
+									>35</container>
+								<container parent="b1d1ecc3-a618-4a34-9c0c-9ab16c370fab" type="file"
+									>13</container>
+								<unittitle>The West</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="cb2e3fcc-17a4-4d15-b9f0-8a21accadbf3" type="box"
+									>35</container>
+								<container parent="cb2e3fcc-17a4-4d15-b9f0-8a21accadbf3"
+									type="folder">14</container>
+								<unittitle>Zion National Park</unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="otherlevel">
+						<did>
+							<unittitle>Sub-subseries 2: Other Items</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container id="1aea78e0-6ae0-4b3c-be1f-4109f4fe534a" type="box"
+									>35</container>
+								<container parent="1aea78e0-6ae0-4b3c-be1f-4109f4fe534a"
+									type="folder">15</container>
+								<unittitle>Miscellaneous notes, sketches, etc.</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="54c9f081-e36c-40bd-9fc4-195d2633bc41" type="box"
+									>35</container>
+								<container parent="54c9f081-e36c-40bd-9fc4-195d2633bc41"
+									type="folder">16</container>
+								<unittitle>Memberships, donations, citations, etc.</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="452a8edb-0680-4d5c-8712-bdd4bf06975a" type="box"
+									>35</container>
+								<container parent="452a8edb-0680-4d5c-8712-bdd4bf06975a"
+									type="folder">17</container>
+								<unittitle>Odds and Ends</unittitle>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="otherlevel">
+						<did>
+							<unittitle>Sub-subseries 3: Photos</unittitle>
+						</did>
+						<c04 level="file">
+							<did>
+								<container id="8a5d3d6b-9025-4d9e-9d7b-5e1ffd1feb7c" type="box"
+									>36</container>
+								<note>
+									<p>Photos:</p>
+								</note>
+								<container parent="8a5d3d6b-9025-4d9e-9d7b-5e1ffd1feb7c"
+									type="folder">1</container>
+								<unittitle>Western and other subjects from various
+									sources</unittitle>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+								<container id="c4277d7f-9627-4460-9a79-a190582d737a" type="box"
+									>36</container>
+								<container parent="c4277d7f-9627-4460-9a79-a190582d737a"
+									type="folder">2</container>
+								<unittitle>Western subject from Beaman, Hillers, other
+									sources</unittitle>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

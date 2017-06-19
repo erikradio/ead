@@ -1,0 +1,805 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid encodinganalog="856$u">UAAZ371</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Monmonier family papers, 
+		  <date>1878-1968 (bulk 1885-1930). </date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Phyllis
+		  Ball</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp 
+		<date>September 19, 2002</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-19">2017-06-19</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Monmonier family papers, 
+		<date>1878-1968 (bulk 1885-1930). </date></titleproper> 
+	 <num>Collection Number: AZ 371</num> 
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Phyllis Ball</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1980</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jennie Stapp</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Monmonier family
+		papers, 
+		<unitdate normal="" type="inclusive">1878-1968 (bulk 1885-1930).
+		  </unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 371</unitid>
+  	<abstract>This collection consists of correspondence, financial records,
+  		photographs relating to the family and their businesses of store keeping, gas
+  		stations, and trailer courts. Legal papers, financial records, stockholders
+  		lists, assay reports, time books, and correspondence relate to the Flourine
+  		Mine and Milling Company, Leadville Mining Company, and others.</abstract>  	
+	 <origination label="Creator"> 
+		<famname encodinganalog="100">Monmonier family</famname></origination> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">5 linear feet </extent></physdesc> 
+	 <repository label="Repository"> 
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
+		<address>
+		  <addressline>University of Arizona </addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Monmonier family papers(AZ 371). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>The Monmoniers were a pioneer family of Cochise County, Ariz. William
+		Donalin Monmonier, and his son, Charles Swaney Monmonier were active in
+		Tombstone and Pearce, Ariz. as Justices of the Peace, Notaries Public, members
+		of the Pearce School Board, storekeepers, and Registrars of births and
+		deaths.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into six series:</p> 
+	 <list> 
+		<item>Series I: Papers of William D. Monmonier, 1878-1935</item> 
+		<item>Series II: Papers of Charles S. Monmonier, 1916-1968</item> 
+		<item>Series III: Mining Records, 1897-1965</item> 
+		<item>Series IV: Records from Pearce, Ariz. and Cochise County, Ariz.,
+		  1896-1960 </item> 
+		<item>Series V: Knights of Pythias Records, 1899-1967</item> 
+		<item>Series VI: Photographs</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This collection consists of correspondence, financial records,
+		photographs relating to the family and their businesses of store keeping, gas
+		stations, and trailer courts. Legal papers, financial records, stockholders
+		lists, assay reports, time books, and correspondence relate to the Flourine
+		Mine and Milling Company, Leadville Mining Company, and others. Correspondence,
+		reports, and cemetery records of the Knights of Pythias, Valley Lodge No. 21
+		are present. Cochise County Dist. 9 Justice Court proceedings, 1903 to 1908,
+		and birth and death records, 1909-1939, are also present. Photographs are of
+		Pearce mining and ranching operations, of Pearce and Tombstone residents, and
+		of Monmonier family members.</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <persname>Monmonier, William Donalin, 1849-1930 --
+			 Archives</persname><persname>Monmonier, Charles Swaney, 1881-1975 --
+			 Archives</persname><corpname>Knights of Pythias. Valley Lodge No. 21
+			 (Ariz.) -- Records and correspondence</corpname><corpname>Flourine Mining and Milling Company --
+			 Records and correspondence</corpname><corpname>Leadville Mining Company -- Records and
+			 correspondence</corpname><corpname>Little Jessie Gold Mining Comapny</corpname><corpname>Arizona. Justice Court (Cochise County)
+			 </corpname><subject>Merchants -- Arizona -- Sources</subject><subject>Mines and mineral resources -- Arizona -- Cochise County --
+			 History -- Sources</subject><subject>Justices of the peace -- Arizona -- Archives</subject><geogname>Cochise County (Ariz.) -- Statistics, Vital</geogname><geogname>Pearce (Ariz.) -- History -- Sources</geogname><genreform>Correspondence</genreform><genreform>Photographs</genreform><genreform>Birth certificates</genreform><genreform>Death certificates</genreform></controlaccess> 
+  <separatedmaterial>
+	 <head>Separated Material</head> 
+	 <p>Postcards received with the collection were removed and cataloged
+		separately. These include postcards from the 1909 Alaska-Yukon Exposition in
+		Seattle, Wash. and postcards of Arizona. </p>
+  </separatedmaterial> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Papers of William D. Monmonier, 
+			 <unitdate normal="1878/1935" type="inclusive">1878-1935</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="af59e357-4716-45ca-8b6d-12cf79c85414" type="box">1</container> <container parent="af59e357-4716-45ca-8b6d-12cf79c85414" type="folder">1</container> 
+			 <unittitle>Personal Miscellany. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8ec75fce-ab23-43ae-88fa-507dc1613b14" type="box">1</container> <container parent="8ec75fce-ab23-43ae-88fa-507dc1613b14" type="folder">2</container> 
+			 <unittitle>Family Correspondence. 
+				<unitdate normal="1903/1908" type="inclusive">1903-1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fa810b17-1d9f-4683-99b8-130dda528393" type="box">1</container> <container parent="fa810b17-1d9f-4683-99b8-130dda528393" type="folder">3</container> 
+			 <unittitle>Miscellaneous Correspondence. 
+				<unitdate normal="NaN/1930" type="inclusive">1878,
+				  1899-1930</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d24f4843-e63a-4275-8a01-b20ce7b92e50" type="box">1</container> <container parent="d24f4843-e63a-4275-8a01-b20ce7b92e50" type="folder">4</container> 
+			 <unittitle>Notarial Record. 
+				<unitdate normal="" type="inclusive">November 1888-May
+				  1900</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ee8d0e7f-8cb2-4684-b40b-1e5c7551ff17" type="box">1</container> <container parent="ee8d0e7f-8cb2-4684-b40b-1e5c7551ff17" type="folder">5</container> 
+			 <unittitle>Notarial Record. 
+				<unitdate normal="1922/1930" type="inclusive">1922-1930</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4110bf2e-aae7-4fd9-8055-8424613e7d20" type="box">1</container> <container parent="4110bf2e-aae7-4fd9-8055-8424613e7d20" type="folder">5</container> 
+			 <unittitle>Account Book. 
+				<unitdate normal="1911/1917" type="inclusive">1911-1917</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="bdb1314a-4ab9-4985-b3fb-155d52dd76dd" type="box">1</container> <container parent="bdb1314a-4ab9-4985-b3fb-155d52dd76dd" type="folder">6</container> 
+			 <unittitle>Store Ledger, Tombstone, Ariz. 
+				<unitdate normal="1893/1896" type="inclusive">1893-1896</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a9ca7456-8ae9-4733-92bc-5947cc5879c8" type="box">1</container> <container parent="a9ca7456-8ae9-4733-92bc-5947cc5879c8" type="folder">7</container> 
+			 <unittitle>Store Day Book, Tombstone, Ariz. 
+				<unitdate normal="1896/1898" type="inclusive">1896-1898</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7e048392-6886-42f8-a26d-b9492d36dfeb" type="box">1</container> <container parent="7e048392-6886-42f8-a26d-b9492d36dfeb" type="folder">8</container> 
+			 <unittitle>Political Clippings. 
+				<unitdate normal="1892/1894" type="inclusive">1892-1894</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2cdfbede-aa57-4d92-8c29-565ecc88c6ab" type="box">1</container> <container parent="2cdfbede-aa57-4d92-8c29-565ecc88c6ab" type="folder">9</container> 
+			 <unittitle>Court Cases. 
+				<unitdate normal="1902/1930" type="inclusive">1902-1930</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3a349f08-14b3-48f8-8f81-0e0564882926" type="box">1</container> <container parent="3a349f08-14b3-48f8-8f81-0e0564882926" type="folder">10</container> 
+			 <unittitle>Speeches. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="52e51485-57cb-4433-9542-3959cdf82b00" type="box">1</container> <container parent="52e51485-57cb-4433-9542-3959cdf82b00" type="folder">11</container> 
+			 <unittitle>William D. Monmonier Estate. 
+				<unitdate normal="1931/1932" type="inclusive">1931-1932</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a42e83ee-1c69-41b9-ad4d-d3515e5c29bf" type="box">1</container> <container parent="a42e83ee-1c69-41b9-ad4d-d3515e5c29bf" type="folder">11</container> 
+			 <unittitle>Hannah Monmonier Estate. 
+				<unitdate normal="1932/1935" type="inclusive">1932-1935</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3fee9773-7d0e-4b35-ac37-b93b77ef6217" type="volume">2</container> 
+			 <unittitle> 
+				<title render="italic">Justice Court Record</title>, Precinct No.
+				9, Cochise County, Arizona Territory. 
+				<unitdate normal="" type="inclusive">August 1903-July
+				  1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Papers of Charles S. Monmonier, 
+			 <unitdate normal="1916/1968" type="inclusive">1916-1968</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="cf890e72-b753-42d3-8ece-d1c8b2c11a0e" type="box">3</container> <container parent="cf890e72-b753-42d3-8ece-d1c8b2c11a0e" type="folder">1</container> 
+			 <unittitle>Personal Miscellany</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4a09955b-dc58-40af-b598-5b8de4d06002" type="box">3</container> <container parent="4a09955b-dc58-40af-b598-5b8de4d06002" type="folder">2</container> 
+			 <unittitle>Correspondence: Brother Julius W. Monmonier. 
+				<unitdate normal="NaN/1956" type="inclusive">1916,
+				  1943-1956</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="339f8f9a-f8c4-44c7-9f17-3d0d1d65ced4" type="box">3</container> <container parent="339f8f9a-f8c4-44c7-9f17-3d0d1d65ced4" type="folder">3</container> 
+			 <unittitle>Correspondence: Brother Eustace Basil Monmonier. 
+				<unitdate normal="NaN/1968" type="inclusive">1919,
+				  1930-1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="37eb97a0-7f2e-4386-829d-4c0ec42465ad" type="box">3</container> <container parent="37eb97a0-7f2e-4386-829d-4c0ec42465ad" type="folder">4</container> 
+			 <unittitle>Correspondence: Miscellaneous Family. 
+				<unitdate normal="1924/1958" type="inclusive">1924-1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="46d75a0d-02b1-4c70-818b-136cccb4a012" type="box">3</container> <container parent="46d75a0d-02b1-4c70-818b-136cccb4a012" type="folder">5</container> 
+			 <unittitle>Correspondence: Wife Lucy with various family members. 
+				<unitdate normal="1940/1955" type="inclusive">1940-1955</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3fe7daea-8ee2-4ca9-bc82-814eece24a72" type="box">3</container> <container parent="3fe7daea-8ee2-4ca9-bc82-814eece24a72" type="folder">6</container> 
+			 <unittitle>Correspondence: Mildred Richey. 
+				<unitdate normal="1940" type="inclusive">1940</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0b1947f9-0cca-466f-99dc-69478d10294d" type="box">3</container> <container parent="0b1947f9-0cca-466f-99dc-69478d10294d" type="folder">6</container> 
+			 <unittitle>Correspondence: George H. Bott. 
+				<unitdate normal="1953/1963" type="inclusive">1953-1963</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ed92f4f5-7022-48ae-ac6c-bd7e6522105c" type="box">3</container> <container parent="ed92f4f5-7022-48ae-ac6c-bd7e6522105c" type="folder">6</container> 
+			 <unittitle>Correspondence: Walter Newberry. 
+				<unitdate normal="1951/1968" type="inclusive">1951-1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="297babc0-cf24-4138-87e0-db8de2e5a51b" type="box">3</container> <container parent="297babc0-cf24-4138-87e0-db8de2e5a51b" type="folder">6</container> 
+			 <unittitle>Correspondence: Louis P. Waters. 
+				<unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3d6995d4-6eda-421c-bc60-f54fdd7cef38" type="box">3</container> <container parent="3d6995d4-6eda-421c-bc60-f54fdd7cef38" type="folder">7</container> 
+			 <unittitle>Correspondence: Miscellaneous. 
+				<unitdate normal="1916/1967" type="inclusive">1916-1967</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4b5711c1-9ab1-4e2d-aa93-bb702940ccc8" type="box">3</container> <container parent="4b5711c1-9ab1-4e2d-aa93-bb702940ccc8" type="folder">8</container> 
+			 <unittitle>Notarial Record. 
+				<unitdate normal="1931/1934" type="inclusive">1931-1934</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="09a58a92-3c8a-4fa9-9bf3-343f48f0f1b7" type="box">3</container> <container parent="09a58a92-3c8a-4fa9-9bf3-343f48f0f1b7" type="folder">8</container> 
+			 <unittitle>Notarial Correspondence. 
+				<unitdate normal="1930/1951" type="inclusive">1930-1951</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="db5198eb-3bf9-42ec-9e6d-d8a4437d142c" type="box">3</container> <container parent="db5198eb-3bf9-42ec-9e6d-d8a4437d142c" type="folder">9</container> 
+			 <unittitle>Douglas Army Air Field, Douglas, Ariz. 
+				<unitdate normal="1943/1946" type="inclusive">1943-1946</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9240a55c-b016-4798-bc26-e981792e6a5e" type="box">3</container> <container parent="9240a55c-b016-4798-bc26-e981792e6a5e" type="folder">10</container> 
+			 <unittitle>Automobiles. 
+				<unitdate normal="1921/1963" type="inclusive">1921-1963</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a0859366-2bf0-41a8-8f33-f8ed85bbe50d" type="box">3</container> <container parent="a0859366-2bf0-41a8-8f33-f8ed85bbe50d" type="folder">11</container> 
+			 <unittitle>Insurance. 
+				<unitdate normal="1930/1956" type="inclusive">1930-1956</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="65ccd5ca-7177-48ab-8a80-140822913b7b" type="box">3</container> <container parent="65ccd5ca-7177-48ab-8a80-140822913b7b" type="folder">12</container> 
+			 <unittitle>Social Security. 
+				<unitdate normal="1949/1968" type="inclusive">1949-1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="32c81716-09e8-422b-924d-d6af020d5b36" type="box">3</container> <container parent="32c81716-09e8-422b-924d-d6af020d5b36" type="folder">13</container> 
+			 <unittitle>Various Cards: Identification, Memberships, Registration,
+				etc. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="05fa11e0-e4cb-4e0e-9e07-75e267b574e5" type="box">3</container> <container parent="05fa11e0-e4cb-4e0e-9e07-75e267b574e5" type="folder">14</container> 
+			 <unittitle>Various compositions and reminiscences. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4a1839a3-5623-4144-9294-a9282f4da18a" type="box">3</container> <container parent="4a1839a3-5623-4144-9294-a9282f4da18a" type="folder">15</container> 
+			 <unittitle>Sketches and drawings. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="656555dc-c2f5-4130-89c6-c3bd474be1d6" type="box">4</container> <container parent="656555dc-c2f5-4130-89c6-c3bd474be1d6" type="folder">1</container> 
+			 <unittitle>Notarial Record. 
+				<unitdate normal="1934/1947" type="inclusive">1934-1947</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="679bc4ec-e276-435a-ad5e-d6c08eefc3de" type="box">4</container> <container parent="679bc4ec-e276-435a-ad5e-d6c08eefc3de" type="folder">2</container> 
+			 <unittitle>Various records from Sunnyside Auto Trailer Court and
+				White Owl Trailer Court, Douglas, Arizona. 
+				<unitdate normal="1947/1949" type="inclusive">1947-1949</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9e2eedff-258b-4bcc-a9c6-be983817a93d" type="box">4</container> <container parent="9e2eedff-258b-4bcc-a9c6-be983817a93d" type="folder">3-5</container> 
+			 <unittitle>Gas Station Records. 
+				<unitdate normal="1947/1949" type="inclusive">1947-1949</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="bc20dfea-c60e-40fe-9f72-14e57b26608e" type="box">4</container> <container parent="bc20dfea-c60e-40fe-9f72-14e57b26608e" type="folder">6</container> 
+			 <unittitle>Mortgages and Property. 
+				<unitdate normal="1920/1964" type="inclusive">1920-1964</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a59f59ca-df49-4d1f-ab3c-131ef9b9ec42" type="box">4</container> <container parent="a59f59ca-df49-4d1f-ab3c-131ef9b9ec42" type="folder">7</container> 
+			 <unittitle>Taxes. 
+				<unitdate normal="1923/1955" type="inclusive">1923-1955</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7846b5a2-8ca1-4fc2-81d7-983279cac778" type="box">4</container> <container parent="7846b5a2-8ca1-4fc2-81d7-983279cac778" type="folder">8</container> 
+			 <unittitle>Notes and memos. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ef799561-a675-4c33-b662-8aa390b7a7c1" type="box">4</container> <container parent="ef799561-a675-4c33-b662-8aa390b7a7c1" type="folder">9</container> 
+			 <unittitle>Miscellaneous family biographical material. </unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Mining Records, 
+			 <unitdate normal="1897/1965" type="inclusive">1897-1965</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="2e86346e-3f22-452f-b4f7-75c536b89129" type="box">5</container> <container parent="2e86346e-3f22-452f-b4f7-75c536b89129" type="folder">1</container> 
+			 <unittitle>Flourine Mining and Milling Company: Articles of
+				Incorporation, By-Laws. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2c708b40-13a4-4e53-bbfd-365a5225e9ba" type="box">5</container> <container parent="2c708b40-13a4-4e53-bbfd-365a5225e9ba" type="folder">2</container> 
+			 <unittitle>Flourine Mining and Milling Company: Minutes of Meetings:
+				Stockholders, Board of Directors, etc. 
+				<unitdate normal="1905/1926" type="inclusive">1905-1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="024bd5bf-66d5-4d1b-851f-6ec4bd5865b9" type="box">5</container> <container parent="024bd5bf-66d5-4d1b-851f-6ec4bd5865b9" type="folder">3</container> 
+			 <unittitle>Flourine Mining and Milling Company: Stockholders lists,
+				miscellaneous material. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1e9a80cc-e0b4-4ef6-bf03-46692910689d" type="box">5</container> <container parent="1e9a80cc-e0b4-4ef6-bf03-46692910689d" type="folder">4</container> 
+			 <unittitle>Flourine Mining and Milling Company: Stock Ledger. 
+				<unitdate normal="1905/1923" type="inclusive">1905-1923</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a1869d1e-331e-48db-9270-2b0f8c3d8bf2" type="box">5</container> <container parent="a1869d1e-331e-48db-9270-2b0f8c3d8bf2" type="folder">5-6</container> 
+			 <unittitle>Flourine Mining and Milling Company: Stock Certificate
+				Record. 
+				<unitdate normal="1905/1917" type="inclusive">1905-1917</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1378e534-90c2-4162-8c92-e7007d133701" type="box">5</container> <container parent="1378e534-90c2-4162-8c92-e7007d133701" type="folder">7</container> 
+			 <unittitle>Flourine Mining and Milling Company: Stock Certificates.
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a83d33a8-bbbf-4571-9fdf-4317f0a8d42f" type="box">5</container> <container parent="a83d33a8-bbbf-4571-9fdf-4317f0a8d42f" type="folder">8</container> 
+			 <unittitle>Flourine Mining and Milling Company: "First Ledger." 
+				<unitdate normal="1905/1911" type="inclusive">1905-1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1bc8eff3-39e6-4d35-9548-97f77236c466" type="box">5</container> <container parent="1bc8eff3-39e6-4d35-9548-97f77236c466" type="folder">9</container> 
+			 <unittitle>Flourine Mining and Milling Company: "Second Ledger." 
+				<unitdate normal="1927/1928" type="inclusive">1927-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="35c62a5d-e8ea-4cd2-bb30-7e193ee469a1" type="box">5</container> <container parent="35c62a5d-e8ea-4cd2-bb30-7e193ee469a1" type="folder">10</container> 
+			 <unittitle>Flourine Mining and Milling Company: Correspondence. 
+				<unitdate normal="1906/1968" type="inclusive">1906-1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="99bee1d0-8df2-4d5a-81b5-1d27a386b03f" type="box">5</container> <container parent="99bee1d0-8df2-4d5a-81b5-1d27a386b03f" type="folder">11</container> 
+			 <unittitle>Flourine Mining and Milling Company: Notice of Mine
+				Location. 
+				<unitdate normal="1904/1909" type="inclusive">1904-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5caa2e77-8edf-4811-96dd-36144fbabf76" type="box">5</container> <container parent="5caa2e77-8edf-4811-96dd-36144fbabf76" type="folder">12</container> 
+			 <unittitle>Flourine Mining and Milling Company: Assay Reports. 
+				<unitdate normal="1904/1924" type="inclusive">1904-1924</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0599bbd6-82df-4d60-9a69-356ff44addc3" type="box">5</container> <container parent="0599bbd6-82df-4d60-9a69-356ff44addc3" type="folder">13</container> 
+			 <unittitle>Flourine Mining and Milling Company: Miscellaneous legal
+				papers. 
+				<unitdate normal="1906/1921" type="inclusive">1906-1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b8b4a0bc-d520-4cbf-aa36-4af903207785" type="box">5</container> <container parent="b8b4a0bc-d520-4cbf-aa36-4af903207785" type="folder">14</container> 
+			 <unittitle>Flourine Mining and Milling Company: Miscellaneous
+				financial papers, including taxes. 
+				<unitdate normal="1909/1928" type="inclusive">1909-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8da4e81b-57ca-4a1a-af86-a6b04a22710f" type="box">5</container> <container parent="8da4e81b-57ca-4a1a-af86-a6b04a22710f" type="folder">15</container> 
+			 <unittitle>Flourine Mining and Milling Company: Time Book. 
+				<unitdate normal="" type="inclusive">1908-1911,
+				  1927-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2713930d-8daa-4e5e-b08d-f1f4a1d3f95b" type="box">5</container> <container parent="2713930d-8daa-4e5e-b08d-f1f4a1d3f95b" type="folder">16</container> 
+			 <unittitle>Arizona Corporation Commission and Industrial Commission
+				of Arizona. 
+				<unitdate normal="1913/1929" type="inclusive">1913-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1c67c2e2-66b0-4d55-bbfe-f6523ded2758" type="box">5</container> <container parent="1c67c2e2-66b0-4d55-bbfe-f6523ded2758" type="folder">17</container> 
+			 <unittitle>Miscellaneous material including notes, maps, brochure and
+				photographs. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="254b511b-64f5-4657-90c5-82cebf3d3256" type="box">6</container> <container parent="254b511b-64f5-4657-90c5-82cebf3d3256" type="folder">1-2</container> 
+			 <unittitle>Leadville Mining Company: Correspondence. 
+				<unitdate normal="1908/1949" type="inclusive">1908-1949</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="874a6a5a-287e-45b0-9133-bff71d0f6eae" type="box">6</container> <container parent="874a6a5a-287e-45b0-9133-bff71d0f6eae" type="folder">3</container> 
+			 <unittitle>Leadville Mining Company: Stockholders lists, Minutes of
+				Meetings, etc. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3b815287-04c2-48ac-b001-8e7a970fb529" type="box">6</container> <container parent="3b815287-04c2-48ac-b001-8e7a970fb529" type="folder">4</container> 
+			 <unittitle>Leadville Mining Company: Assay, production and sales
+				reports. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="691d3ef1-15f3-47a7-81e1-32232274de18" type="box">6</container> <container parent="691d3ef1-15f3-47a7-81e1-32232274de18" type="folder">5</container> 
+			 <unittitle>Leadville Mining Company: Miscellaneous financial records.
+				
+				<unitdate normal="1906/1919" type="inclusive">1906-1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="22b5eefe-30c9-499d-a03b-00e268f3a118" type="box">6</container> <container parent="22b5eefe-30c9-499d-a03b-00e268f3a118" type="folder">6</container> 
+			 <unittitle>Leadville Mining Company: Time Books, and miscellaneous
+				accounts. 
+				<unitdate normal="1905/1942" type="inclusive">1905-1942</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1802cce5-149d-4a31-86ee-b4f1896b3d2c" type="box">6</container> <container parent="1802cce5-149d-4a31-86ee-b4f1896b3d2c" type="folder">7</container> 
+			 <unittitle>Leadville Mining Company: Miscellaneous items including
+				legal papers. </unittitle> 
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="323e1c2f-db39-439a-b8c5-d7ad8d1e91e0" type="box">6</container> <container parent="323e1c2f-db39-439a-b8c5-d7ad8d1e91e0" type="folder">8</container> 
+	 			<unittitle>Little Jessie Gold Mining Company Minute Book.
+	 				<unitdate normal="1897/1913" type="inclusive">1902-1908</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0bfb5eb3-c89c-46f6-a5e4-1c8e528ae99e" type="box">6</container> <container parent="0bfb5eb3-c89c-46f6-a5e4-1c8e528ae99e" type="folder">8a</container> 
+			 <unittitle>Moar Mine: Correspondence. 
+				<unitdate normal="1897/1913" type="inclusive">1897-1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ef33f522-e40b-4aec-bd02-7012e0115dbd" type="box">6</container> <container parent="ef33f522-e40b-4aec-bd02-7012e0115dbd" type="folder">9</container> 
+			 <unittitle>Moar Mine: Legal papers. 
+				<unitdate normal="1899/1932" type="inclusive">1899-1932</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="257afcb8-77ed-4512-bd63-a97bd843c854" type="box">6</container> <container parent="257afcb8-77ed-4512-bd63-a97bd843c854" type="folder">10</container> 
+			 <unittitle>Moar Mine: Financial papers. 
+				<unitdate normal="" type="inclusive">1897-1910,
+				  1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="096fec02-f2be-45de-bce7-b2bf21439f8f" type="box">6</container> <container parent="096fec02-f2be-45de-bce7-b2bf21439f8f" type="folder">11</container> 
+			 <unittitle>Holmes Copper Company. 
+				<unitdate normal="1927/1935" type="inclusive">1927-1935</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a17a0c0b-389a-4758-b309-6c661a5b4e38" type="box">6</container> <container parent="a17a0c0b-389a-4758-b309-6c661a5b4e38" type="folder">11</container> 
+			 <unittitle>Holmes Mining Company. 
+				<unitdate normal="1937" type="inclusive">1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="52f1783e-f03c-4622-9382-a04b705e65fc" type="box">6</container> <container parent="52f1783e-f03c-4622-9382-a04b705e65fc" type="folder">11</container> 
+			 <unittitle>Holmes-Western Consolidated Mines. 
+				<unitdate normal="1949" type="inclusive">1941,
+				  1949</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d80a5415-19e3-49bd-bd20-ae0de65beeb9" type="box">6</container> <container parent="d80a5415-19e3-49bd-bd20-ae0de65beeb9" type="folder">12</container> 
+			 <unittitle>Pearce Mining Company operating the Commonwealth Mine. 
+				<unitdate normal="1931/1941" type="inclusive">1931-1941</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="454e6e64-65b8-4104-8fb8-3e7ddeb1a582" type="box">6</container> <container parent="454e6e64-65b8-4104-8fb8-3e7ddeb1a582" type="folder">13</container> 
+			 <unittitle>Courtland Copper Company Consolidated. 
+				<unitdate normal="NaN/1948" type="inclusive">1913,
+				  1943-1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="07bb6239-ae5f-4be3-b6ff-31ab17a1902d" type="box">6</container> <container parent="07bb6239-ae5f-4be3-b6ff-31ab17a1902d" type="folder">14</container> 
+			 <unittitle>Intermountain Mining &amp; Engineering Company. 
+				<unitdate normal="1942/1947" type="inclusive">1942-1947</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="58ec8c56-2b95-4c65-b705-7bd1b9e94832" type="box">6</container> <container parent="58ec8c56-2b95-4c65-b705-7bd1b9e94832" type="folder">15</container> 
+			 <unittitle>Notices of Mine Locations. 
+				<unitdate normal="1900/1953" type="inclusive">1900-1953</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5cc691ca-1b87-4a0f-abc2-589c4699a488" type="box">6</container> <container parent="5cc691ca-1b87-4a0f-abc2-589c4699a488" type="folder">16</container> 
+			 <unittitle>Miscellaneous mining correspondence. 
+				<unitdate normal="1902/1946" type="inclusive">1902-1946</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b0eee51e-bac0-469d-893d-7fff2c42e9fd" type="box">6</container> <container parent="b0eee51e-bac0-469d-893d-7fff2c42e9fd" type="folder">17</container> 
+			 <unittitle>Miscellaneous mining items including papers relating to
+				the Copper, Cochise and Eagle mining claims. 
+				<unitdate normal="1904/1917" type="inclusive">1904-1917</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IV: Records from Pearce, Ariz. and Cochise County,
+			 Ariz., 
+			 <unitdate normal="1896/1960" type="inclusive">1896-1960
+				</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="49e02e07-1c12-4073-adde-3e4b0e641e45" type="box">7</container> <container parent="49e02e07-1c12-4073-adde-3e4b0e641e45" type="folder">1</container> 
+			 <unittitle>Population register. 
+				<unitdate normal="1898/1916" type="inclusive">1898-1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cf009c61-87cd-4abd-b651-937fe7f26fc0" type="box">7</container> <container parent="cf009c61-87cd-4abd-b651-937fe7f26fc0" type="folder">2-4</container> 
+			 <unittitle>Birth and death records. 
+				<unitdate normal="1909/1939" type="inclusive">1909-1939</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="108fef53-9d9e-4f87-86fd-d4130c26f190" type="box">7</container> <container parent="108fef53-9d9e-4f87-86fd-d4130c26f190" type="folder">5</container> 
+			 <unittitle>Pearce Home Guard and Pearce Rifle Club, including
+				photographs. 
+				<unitdate normal="1916" type="inclusive">1912,
+				  1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7c060c75-2790-4c38-92fc-467ded00825d" type="box">7</container> <container parent="7c060c75-2790-4c38-92fc-467ded00825d" type="folder">6</container> 
+			 <unittitle>Pearce School: Minutes of Board Meetings and miscellaneous
+				items. 
+				<unitdate normal="1896/1938" type="inclusive">1896-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ec997c48-8676-4b2b-a643-257aa4d8fffa" type="box">7</container> <container parent="ec997c48-8676-4b2b-a643-257aa4d8fffa" type="folder">7</container> 
+			 <unittitle>Pearce School: Correspondence. 
+				<unitdate normal="" type="inclusive">1904-1909, 1932-1938,
+				  1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a06f3ec8-a453-4528-9b79-6edb26f65dc6" type="box">7</container> <container parent="a06f3ec8-a453-4528-9b79-6edb26f65dc6" type="folder">8</container> 
+			 <unittitle>Cochise County Farm Bureau roster and miscellaneous
+				papers. 
+				<unitdate normal="1921" type="inclusive">1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cf57665a-a91c-498d-ad6e-5861144da81f" type="box">7</container> <container parent="cf57665a-a91c-498d-ad6e-5861144da81f" type="folder">9</container> 
+			 <unittitle>Monmonier Ranch papers and photographs. </unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series V: Knights of Pythias Records, 
+			 <unitdate normal="1899/1967" type="inclusive">1899-1967</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="bea8dc9b-d179-4385-a00e-cc068fd4f7c5" type="box">8</container> <container parent="bea8dc9b-d179-4385-a00e-cc068fd4f7c5" type="folder">1-3</container> 
+			 <unittitle>Valley Lodge No. 21: Correspondence. 
+				<unitdate normal="1904/1961" type="inclusive">1904-1961</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="241f08c5-4c23-4aa0-92e0-fde8c73992dd" type="box">8</container> <container parent="241f08c5-4c23-4aa0-92e0-fde8c73992dd" type="folder">4</container> 
+			 <unittitle>Valley Lodge No. 21: Miscellaneous financial records. 
+				<unitdate normal="1899/1930" type="inclusive">1899-1930</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ee9dbea3-7db9-4c62-a3be-fa1ce3cacd40" type="box">8</container> <container parent="ee9dbea3-7db9-4c62-a3be-fa1ce3cacd40" type="folder">5</container> 
+			 <unittitle>Valley Lodge No. 21: Miscellaneous material including
+				Articles of Incorporation. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c89050de-fa72-4787-aea9-49bdad03a197" type="box">8</container> <container parent="c89050de-fa72-4787-aea9-49bdad03a197" type="folder">6</container> 
+			 <unittitle>Valley Lodge No. 21 Cemetery: Correspondence. 
+				<unitdate normal="1913/1967" type="inclusive">1913-1967</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="82eec151-843d-4806-af9c-29d0fafeaa09" type="box">8</container> <container parent="82eec151-843d-4806-af9c-29d0fafeaa09" type="folder">7</container> 
+			 <unittitle>Valley Lodge No. 21 Cemetery: Map and grave record.
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6334e9a7-eaeb-4bb8-b7ee-a1776b264a5f" type="box">8</container> <container parent="6334e9a7-eaeb-4bb8-b7ee-a1776b264a5f" type="folder">8</container> 
+			 <unittitle>Valley Lodge No. 21 Cemetery: Miscellaneous financial
+				records. 
+				<unitdate normal="1916/1948" type="inclusive">1916-1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="69b05eec-baa2-487a-a6e3-6cdd1d7575a7" type="box">8</container> 
+			 <unittitle>Valley Lodge No. 21 Cemetery: Ledger. 
+				<unitdate normal="1916/1966" type="inclusive">1916-1966</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8537639b-f8e6-4130-81d7-7c224ffbdb02" type="volume">9</container> 
+			 <unittitle>Valley Lodge No. 21: Semi-Annual Report. 
+				<unitdate normal="1900/1908" type="inclusive">1900-1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0dc6af1e-3028-45c1-a208-3b900aee2984" type="volume">10</container> 
+			 <unittitle>Valley Lodge No. 21: Ledger. 
+				<unitdate normal="1904/1917" type="inclusive">1904-1917</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VI: Photographs</unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="291732b8-5fe9-4331-93ad-222eb762c883" type="box">11</container> <container parent="291732b8-5fe9-4331-93ad-222eb762c883" type="folder">1</container> 
+			 <unittitle>William D. Monmonier and wife. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="597f41e4-daef-4987-a439-6a8f5ba45f6a" type="box">11</container> <container parent="597f41e4-daef-4987-a439-6a8f5ba45f6a" type="folder">2</container> 
+			 <unittitle>Charles S. Monmonier. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="64616dfa-1eb8-41d6-8d31-cc32be3606df" type="box">11</container> <container parent="64616dfa-1eb8-41d6-8d31-cc32be3606df" type="folder">3</container> 
+			 <unittitle>Julius W. Monmonier and family. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="af091055-829c-4e1d-b10c-a995c901123b" type="box">11</container> <container parent="af091055-829c-4e1d-b10c-a995c901123b" type="folder">4</container> 
+			 <unittitle>Eustace Basil Monmonier and family. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e43792fb-0b40-43d8-9b67-474d56749d5a" type="box">11</container> <container parent="e43792fb-0b40-43d8-9b67-474d56749d5a" type="folder">5</container> 
+			 <unittitle>William D. "Bill" Monmonier and family. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a8946569-7512-4413-9e5e-06d8c007efa5" type="box">11</container> <container parent="a8946569-7512-4413-9e5e-06d8c007efa5" type="folder">6</container> 
+			 <unittitle>Various Monmonier family. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e93e30d0-8a40-4bb5-8be8-4d6c877a1278" type="box">11</container> <container parent="e93e30d0-8a40-4bb5-8be8-4d6c877a1278" type="folder">7</container> 
+			 <unittitle>Crouch family. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="006e23cc-c630-471a-be1d-d44a1cf4fcea" type="box">11</container> <container parent="006e23cc-c630-471a-be1d-d44a1cf4fcea" type="folder">8</container> 
+			 <unittitle>Blanke family. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cd1775d7-c903-40e2-a0a8-4c984b4ccd49" type="box">11</container> <container parent="cd1775d7-c903-40e2-a0a8-4c984b4ccd49" type="folder">9</container> 
+			 <unittitle>Pearce, Ariz. including community activities and local
+				persons. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8abe9e87-d279-4757-af41-eaab599db29f" type="box">11</container> <container parent="8abe9e87-d279-4757-af41-eaab599db29f" type="folder">10</container> 
+			 <unittitle>Miscellaneous. </unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+   <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+      <eadid encodinganalog="852">UAAZ430</eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">William F. Witherell papers
+	 	       <date calendar="gregorian" certainty="approximate" era="ce" normal="1870/1886" type="inclusive">1870-1886</date>
+	 	       
+	 	    </titleproper>
+         	<titleproper altrender="nodisplay" type="filing"> Witherell, (William F.) papers
+	 	    
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date calendar="gregorian" era="ce" normal="2016">2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date encodinganalog="date" era="ce" normal="20160406">April 06, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   <revisiondesc><change><date normal="2017-06-19">2017-06-19</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+   <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+      <did> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name"> William F. Witherell papers
+            <unitdate label="Dates" normal="1870/1886" type="inclusive">1870-1886</unitdate>
+  	     </unittitle>	 
+	     <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 430</unitid>
+	     <origination label="Creator"> 
+            <persname encodinganalog="100" source="lcnaf">Witherell, William F. (William Frank)</persname> 
+	     </origination> 
+      	<abstract label="Abstract">Correspondence, financial records, and miscellaneous papers relating to mining investments in Pima County. 
+      								Includes letters from mining investors regarding their investments, chiefly from Pelican Mining Co. and Arizona Gold and Silver Mining Co. 
+      								Also includes a check register, May 1878 to May 1879, and financial journal, May 1878 to March 1880, for the Arivaca Milling, 
+      								Mining and Commercial Co.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description"><extent>.2 linear feet</extent></physdesc>	 
+	     <repository label="Repository"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+   	        
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>William F. Witherell papers (AZ 430). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as purchase, 1982.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Mining engineer and businessman.</p> 
+      </bioghist> 
+      <arrangement encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into 2 series; chronological arrangement within series.</p>	 
+         <list>
+            <item>Series I: Correspondence,
+  			   <unitdate>1870-1886</unitdate></item>
+  		    <item>Series II: Financial records,
+  			   <unitdate> 1878-1880</unitdate></item>
+         </list>
+      </arrangement> 
+      <scopecontent encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Correspondence, financial records, and miscellaneous papers relating to mining investments in Pima County. Includes letters from mining investors regarding their 
+      	investments, chiefly from Pelican Mining Co. and Arizona Gold and Silver Mining Co. Also includes a check register, May 1878 to May 1879, and financial journal, May 1878 to 
+      	March 1880, for the Arivaca Milling, Mining and Commercial Co. </p> 
+      </scopecontent> 
+      <controlaccess>
+         <corpname>Arivaca Milling, Mining and Commerical Company.</corpname><corpname>Arizona Gold and Silver Mining Company.</corpname><corpname>Pelican Mining Company.</corpname><subject>Mines and mineral resources -- Arizona -- Pima County -- History -- Sources.</subject><subject>Mining engineers -- Archives.</subject></controlaccess>
+   </archdesc>
+</ead>

@@ -1,0 +1,1631 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid encodinganalog="856$u">UAAZ427</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">University of Arizona Office of the
+		  President records, 
+		  <date>1891-1905</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Phyllis
+		  Ball</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+</address> 
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Jennifer Walele 
+		<date>November, 5, 2002</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-19">2017-06-19</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">University of Arizona Office of the
+		President records, 
+		<date>1891-1905</date></titleproper> 
+	 <num>Collection Number: AZ 427</num> 
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1982</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jennifer Walele</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">University of
+		Arizona Office of the President records, 
+		<unitdate normal="1891/1905" type="inclusive">1891-1905</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 427</unitid>
+  	<abstract>This Collection contains all of the surviving manuscript materials from
+  		the files of the first five Presidents of the University.</abstract>  	
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Theodore B. Comstock, 1849-1915,
+		  </persname> 
+		<persname encodinganalog="100">Howard Billman, 1854-1928, </persname> 
+		<persname encodinganalog="100">Millard M. Parker, 1849-1928, </persname> 
+		<persname encodinganalog="100">Frank Yale Adams, 1867-1919, </persname> 
+		<persname encodinganalog="100">Kendric C. Babcock, 1864-1932,
+		  </persname></origination> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">7.5 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
+		<address>
+		  <addressline>University of Arizona </addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+	</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>University of Arizona Office of the President records(AZ 427). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into four series:</p> 
+	 <list> 
+		<item>I. Theodore B. Comstock, 
+		  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></item> 
+		<item>II. Howard Billman, 
+		  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></item> 
+		<item>III. Millard M. Parker, 
+		  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></item> 
+		<item>IV.Frank Yale Adams and Kendric C. Babcock, 
+		  <unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This Collection contains all of the surviving manuscript materials from
+		the files of the first five Presidents of the University. There are, obviously
+		and unfortunately, many missing letters and related docuemtns, lost or
+		destroyed before this assortment reached the Library. The user should remain
+		aware of this fact.</p> 
+	 <p>There are also other manuscript materials in Special Collections closely
+		related to this collection, chiefly the following: 
+		<list> 
+		  <item>AZ 406 Papers of the the Agricultural Experiment Station,
+			 1890-1905, 1913-1915. 28 Boxes.</item> 
+		</list></p> 
+	 <p>The establishment of both the University of Arizona and the Agricultural
+		Experiment Station was linked in a rather complex and overlapping way. While
+		the University was "established" in 1885 by Legislative action, and ground was
+		broken in 1887 for a building ("Old Main") designated as the School of Mines,
+		it was the prospect of government funds (through the Hatch Act), granted
+		annually to state schools of agriculture, which influenced the Board of Regents
+		to create a sudden School of Agriculture. Frank A. Gulley, the first paid
+		faculty member, was appointed Dean of this unborn School in 1890. In the months
+		preceeding the opening of the University in the autumn of 1891, he selected the
+		faculty, oversaw the completion and furnishing of the first buildings, equipped
+		the laboratory for the Experiment Station, selected sites for the field
+		Stations, and issued the first publications. While not formally designated
+		"President" of the University, he carried out many of the activities and
+		responsibilities of that office, and his papers will be found in the
+		above-mentioned Experiment Station material. His counterpart in the School of
+		Mines, Theodore B. Comstock, employed by Gulley in 1891, later became the fist
+		official President of the University.</p> 
+	 <p>Other related collections are:</p> 
+	 <p> 
+		<list> 
+		  <item>AZ 34 Letters, reports, and other miscellaneous papers of Howard
+			 Judson Hall, professor of English and the fist librarian at the University of
+			 Arizona, 1892-1904. 1 box. </item> 
+		  <item>AZ 422 Letter-book, University of Arizona Board of Regents, May
+			 1897-June 1901.</item> 
+		</list></p> 
+	 <p>In addition are various early financial and student records, as well as
+		the minutes of the Board of Regents.</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <persname>Comstock, Theo. B. (Theodore Bryant),
+			 1849-1915</persname><persname>Billman, Howard,
+			 1854-1928</persname><persname>Parker, Millard Mayhew,
+			 1849-1928</persname><persname>Adams, Frank Yale,
+			 1867-1919</persname><persname>Babcock, Kendric Charles,
+			 1864-1932</persname><persname> Hall, Howard Judson, 1869-
+			 </persname><persname>Hughes, Louis C., 1844-1915 --
+			 Correspondence</persname><persname>Murphy, Nathan Oakes, 1849-1908 --
+			 Correspondence</persname><persname>McCord, Myron H. (Myron Hawley),
+			 1840-1908 -- Correspondence</persname><corpname>University of Arizona -- Records and
+			 correspondence</corpname><corpname>University of Arizona --
+			 Faculty</corpname><corpname>University of Arizona --
+			 History</corpname><subject>Arizona Board of Regents</subject><subject>Arizona -- History -- Sources</subject><genreform>Correspondence</genreform></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Theodore B. Comstock, 
+			 <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Faculty, Staff, Regents, and Governors</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="d7b2f3ee-9c81-48c7-9804-f0a7349cd146" type="box">1</container> <container parent="d7b2f3ee-9c81-48c7-9804-f0a7349cd146" type="folder">1</container> 
+				<unittitle>Faculty, Boggs, Edward M.- Civil &amp; Hydraulic
+				  Engineering, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="16078fab-1cc8-4b32-bac1-0b72c1b76bb9" type="box">1</container> <container parent="16078fab-1cc8-4b32-bac1-0b72c1b76bb9" type="folder">2</container> 
+				<unittitle>Faculty, Collingwood, Charles B.- Chemistry, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="185c608a-0d8c-4733-b902-463ff0a05e28" type="box">1</container> <container parent="185c608a-0d8c-4733-b902-463ff0a05e28" type="folder">3</container> 
+				<unittitle>Faculty, Devol, Williams S. - Agriculture, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="3f13be04-fbbe-4bab-a35c-19382fc2742f" type="box">1</container> <container parent="3f13be04-fbbe-4bab-a35c-19382fc2742f" type="folder">4</container> 
+				<unittitle>Faculty, Ferguson, Robert J. - Engineering, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4bb9b819-241f-4b99-a126-d0a806650c74" type="box">1</container> <container parent="4bb9b819-241f-4b99-a126-d0a806650c74" type="folder">5</container> 
+				<unittitle>Faculty, Forbes, Robert H. - Chemistry, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4a42dd6c-f135-41e1-ba91-1c342a89646c" type="box">1</container> <container parent="4a42dd6c-f135-41e1-ba91-1c342a89646c" type="folder">6</container> 
+				<unittitle>Faculty, Foss, W.M. - Music, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="39f5998a-fbbd-491b-9a2a-aaf4d90a94fb" type="box">1</container> <container parent="39f5998a-fbbd-491b-9a2a-aaf4d90a94fb" type="folder">7</container> 
+				<unittitle>Faculty, Goodloe, Meade - Assay, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="0cc784da-3e5d-4ad1-b6c4-83c3439651cb" type="box">1</container> <container parent="0cc784da-3e5d-4ad1-b6c4-83c3439651cb" type="folder">8</container> 
+				<unittitle>Faculty, Gulley, Frank A. - Directory, Agricultural
+				  Experiment Station, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="0aa10a91-0fa0-4a35-bcaa-edb2a50f3c34" type="box">1</container> <container parent="0aa10a91-0fa0-4a35-bcaa-edb2a50f3c34" type="folder">9</container> 
+				<unittitle>Faculty, Hall, Howard J. - English, Library, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d9454f7c-8c9a-4b97-a8a6-8c0f2129834f" type="box">1</container> <container parent="d9454f7c-8c9a-4b97-a8a6-8c0f2129834f" type="folder">10</container> 
+				<unittitle>Faculty, Hoxie, George L. - Physics, Drawing, Mechanics,
+				  
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5863c5c5-f433-48a1-8428-37186dc14b35" type="box">1</container> <container parent="5863c5c5-f433-48a1-8428-37186dc14b35" type="folder">11</container> 
+				<unittitle>Faculty, Hughes, Gertrude - Elocution, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b994a921-2eb7-4c01-9940-510f62c34785" type="box">1</container> <container parent="b994a921-2eb7-4c01-9940-510f62c34785" type="folder">12</container> 
+				<unittitle>Faculty, Toumey, J.W. - Botany, Entomology, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="19731355-0f83-4bb6-9489-8f2d86f5ee95" type="box">1</container> <container parent="19731355-0f83-4bb6-9489-8f2d86f5ee95" type="folder">13</container> 
+				<unittitle>Faculty, Various, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				  <list> 
+					 <item>Barber, Minnie - Stenography</item> 
+					 <item>Benton, L.B. - Horticulture</item> 
+					 <item>Blake, William P. - Geology</item> 
+					 <item>Heberly, J.A. - Chemistry, French</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="77a69d8e-8f60-4a46-b294-a95cf923fc0f" type="box">1</container> <container parent="77a69d8e-8f60-4a46-b294-a95cf923fc0f" type="folder">14</container> 
+				<unittitle>Stenographers, Various, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c20899ce-7c48-401e-b932-4947373efc21" type="box">1</container> <container parent="c20899ce-7c48-401e-b932-4947373efc21" type="folder">15</container> 
+				<unittitle>Grounds Foreman/Horticulturist - Mark Walker, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ecc5112b-4957-406c-a4fc-48dc4eea0afa" type="box">1</container> <container parent="ecc5112b-4957-406c-a4fc-48dc4eea0afa" type="folder">16</container> 
+				<unittitle>Foreman, Phoenix Agricultural Experiment Station -
+				  Charles D. Poston, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2fb63bf3-a029-48ab-bd3b-bdf5efbc93d3" type="box">1</container> <container parent="2fb63bf3-a029-48ab-bd3b-bdf5efbc93d3" type="folder">17</container> 
+				<unittitle>Regent, Cheney, George W., 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="35daf34f-c9de-4f8a-8659-d9f71248c619" type="box">1</container> <container parent="35daf34f-c9de-4f8a-8659-d9f71248c619" type="folder">18</container> 
+				<unittitle>Regent, Ford, Rochester, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="fb30cdce-c105-422b-92d3-d7b5a667b6ad" type="box">1</container> <container parent="fb30cdce-c105-422b-92d3-d7b5a667b6ad" type="folder">19</container> 
+				<unittitle>Regent, Freeman, Merrill P., 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1aab359d-eb21-46b8-8dd0-b598d79c8c1e" type="box">1</container> <container parent="1aab359d-eb21-46b8-8dd0-b598d79c8c1e" type="folder">20</container> 
+				<unittitle>Regent, Hilzinger, J.G., 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="064a29d2-0142-4bc9-8e58-c6c3f5c3de53" type="box">1</container> <container parent="064a29d2-0142-4bc9-8e58-c6c3f5c3de53" type="folder">21</container> 
+				<unittitle>Regent, Ormsby, John M., 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="8c8bba51-9419-4753-9dd8-74da97ede3a4" type="box">1</container> <container parent="8c8bba51-9419-4753-9dd8-74da97ede3a4" type="folder">22</container> 
+				<unittitle>Regent, Ex-officio, Bruce, C.M. - Secretary of the
+				  Territory, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="55c85936-6963-4a6f-8774-fbd402df8bde" type="box">1</container> <container parent="55c85936-6963-4a6f-8774-fbd402df8bde" type="folder">23</container> 
+				<unittitle>Regent, Ex-officio, Netherton, F.J. - Superintendent of
+				  Public Instruction, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="31b08048-8cc0-4a05-b827-75c04d3d1100" type="box">1</container> <container parent="31b08048-8cc0-4a05-b827-75c04d3d1100" type="folder">24</container> 
+				<unittitle>Governors, N.O. Murphey, and L.C. Hughes 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Students, Financial Records, President's House</unittitle>
+			 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="a242d709-f635-4fc7-ab1c-46f7537e31cb" type="box">2</container> <container parent="a242d709-f635-4fc7-ab1c-46f7537e31cb" type="folder">1</container> 
+				<unittitle>Students, Absence Excuses from Parents, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="7011a295-b203-4026-b0ae-735f1f4327f2" type="box">2</container> <container parent="7011a295-b203-4026-b0ae-735f1f4327f2" type="folder">2</container> 
+				<unittitle>Students, President's Correspondence with Parents, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="72cfc360-f8e9-41f2-9eab-115114973785" type="box">2</container> <container parent="72cfc360-f8e9-41f2-9eab-115114973785" type="folder">3</container> 
+				<unittitle>Students, President's Correspondence with and about
+				  Parents, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="18bf5867-5067-49ce-8707-cc437f294f03" type="box">2</container> <container parent="18bf5867-5067-49ce-8707-cc437f294f03" type="folder">4</container> 
+				<unittitle>Students, Mark Walker, Jr., 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1c7ef3fb-71bd-4804-a26f-c51d0397092c" type="box">2</container> <container parent="1c7ef3fb-71bd-4804-a26f-c51d0397092c" type="folder">5</container> 
+				<unittitle>Students, John D. Young, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ad54ff84-597c-4eea-8b24-4551c7abcf40" type="box">2</container> <container parent="ad54ff84-597c-4eea-8b24-4551c7abcf40" type="folder">6</container> 
+				<unittitle>Students, Assembly Programs, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="641f086b-8715-44e7-b903-59457f334469" type="box">2</container> <container parent="641f086b-8715-44e7-b903-59457f334469" type="folder">7</container> 
+				<unittitle>Students, Military Matters, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="73662a7f-0373-4f64-8fa7-4fbbc1825361" type="box">2</container> <container parent="73662a7f-0373-4f64-8fa7-4fbbc1825361" type="folder">8</container> 
+				<unittitle>Students, Miscellaneous Material, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes material on disciplinary problems, the University "Hack
+				  Line," the "Students Organization," and the Zeckendorf prizes.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="97290f78-2452-46b7-b3ee-b6ae5b599e81" type="box">2</container> <container parent="97290f78-2452-46b7-b3ee-b6ae5b599e81" type="folder">9</container> 
+				<unittitle>Commencement, 
+				  <unitdate normal="1895" type="inclusive">1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="7c807627-3002-47f1-9e6e-138fb57c8ea2" type="box">2</container> <container parent="7c807627-3002-47f1-9e6e-138fb57c8ea2" type="folder">10</container> 
+				<unittitle>Micellaneous Presidential Papers, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes material regarding class schedules, policies of
+				  administration (including the Agricultural Experiment Station), telephones
+				  service, and the State Museum.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="19b76f34-ea47-4197-90bc-25bc47a19371" type="box">2</container> <container parent="19b76f34-ea47-4197-90bc-25bc47a19371" type="folder">11</container> 
+				<unittitle>Financial Records, Boarding Department, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes advertisement from San Francisco employment firm
+				  specializing in Oriental cooks, laundrymen, and house servants.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="eaa9cca6-defc-4567-a93c-6f438d1cfd78" type="box">2</container> <container parent="eaa9cca6-defc-4567-a93c-6f438d1cfd78" type="folder">12</container> 
+				<unittitle>Financial Records, Various, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes general appropriations, salaries, student fees, labor
+				  and repairs, wood purchases, travel and telegraph expenses, horse care and
+				  equipment, and assorted bills from various Tucson establishments.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="677c1dcc-c182-46f1-9d7e-4a6a2a6c2ccb" type="box">2</container> <container parent="677c1dcc-c182-46f1-9d7e-4a6a2a6c2ccb" type="folder">13</container> 
+				<unittitle>President's House, Plans from the Co-operative Building
+				  Plan Association, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="38e8cb17-5591-4c6f-ad8e-6cacaed29ae5" type="box">2</container> <container parent="38e8cb17-5591-4c6f-ad8e-6cacaed29ae5" type="folder">14</container> 
+				<unittitle>President's House, Robert Mitchell Furniture Co.-
+				  Fireplace mantels, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="fd7d8766-9786-42f6-b771-3c745ab24544" type="box">2</container> <container parent="fd7d8766-9786-42f6-b771-3c745ab24544" type="folder">15</container> 
+				<unittitle>President's House, Venetian Blinds and Window Screens, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f7b79356-81df-471d-88fa-bff94948d2d4" type="box">2</container> <container parent="f7b79356-81df-471d-88fa-bff94948d2d4" type="folder">16</container> 
+				<unittitle>President's House, Miscellaneous, Furniture and
+				  Fixtures, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Equipment</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="9114fa72-4b89-4a9d-93c8-0fcf1da4795a" type="box">3</container> <container parent="9114fa72-4b89-4a9d-93c8-0fcf1da4795a" type="folder">1</container> 
+				<unittitle>Machinery, Mining, etc. - Fort Scott Foundry &amp;
+				  Machine Works Co., Walburn-Swenson Mfg. Co., 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes correspondence with Hugh M. Thompson and others
+				  regarding his amalgamator.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a40b3c26-ed1b-41f6-9ff5-b1373fa80e4e" type="box">3</container> <container parent="a40b3c26-ed1b-41f6-9ff5-b1373fa80e4e" type="folder">2</container> 
+				<unittitle>Machinery, Mining, etc. - Fraser &amp; Chalmers, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ba471309-5574-461c-952d-2eff500ad8a8" type="box">3</container> <container parent="ba471309-5574-461c-952d-2eff500ad8a8" type="folder">3</container> 
+				<unittitle>Machinery, Mining, etc. - L.M. Rumsey Mfg. Co./Rumsey
+				  &amp; Sikemeier Co., 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="8bad6380-ea3d-4f1f-9260-a877d07ad5cf" type="box">3</container> <container parent="8bad6380-ea3d-4f1f-9260-a877d07ad5cf" type="folder">4-5</container> 
+				<unittitle>Machinery, Mining, etc. - Various Dealers, A-Z, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ca01047f-38b7-43f5-9590-d7755d4e9b8d" type="box">3</container> <container parent="ca01047f-38b7-43f5-9590-d7755d4e9b8d" type="folder">6</container> 
+				<unittitle>Chemical and Scientific Apparatus - H. Landenberger, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d003e199-bd1f-4498-ad8f-b5052e0586ee" type="box">3</container> <container parent="d003e199-bd1f-4498-ad8f-b5052e0586ee" type="folder">7</container> 
+				<unittitle>Chemical and Scientific Apparatu - James W. Queen &amp;
+				  Co./Queen &amp; Co., 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d2275b3e-01b2-4bfb-b42a-9aac34b19fe5" type="box">3</container> <container parent="d2275b3e-01b2-4bfb-b42a-9aac34b19fe5" type="folder">8</container> 
+				<unittitle>Chemical and Scientific Apparatus - E.H. Sargent &amp;
+				  Co., 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="914c49b8-6504-46c8-af58-1564b6f39248" type="box">3</container> <container parent="914c49b8-6504-46c8-af58-1564b6f39248" type="folder">9</container> 
+				<unittitle>Chemical and Scientific Apparatus - Various Dealers,
+				  A-Z, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ec77cb54-e3ca-4c25-9232-45952b2f95e6" type="box">3</container> <container parent="ec77cb54-e3ca-4c25-9232-45952b2f95e6" type="folder">10</container> 
+				<unittitle>Chemical and Scientific Apparatus - Miscellaneous
+				  Dealers, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="feb37500-acfe-48f6-9f83-783b8f9c490e" type="box">3</container> <container parent="feb37500-acfe-48f6-9f83-783b8f9c490e" type="folder">11</container> 
+				<unittitle>Photographic Supplies, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ef942f0e-c0f7-4bfc-9539-9b42da9fef7b" type="box">3</container> <container parent="ef942f0e-c0f7-4bfc-9539-9b42da9fef7b" type="folder">12</container> 
+				<unittitle>Office/Classroom Furniture and Supplies, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2e728953-f9c7-47cb-a254-1476ca426646" type="box">3</container> <container parent="2e728953-f9c7-47cb-a254-1476ca426646" type="folder">13</container> 
+				<unittitle>Miscellaneous, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes football equipment, skeleton models, automatic gate,
+				  batteries, electric appliances, elevators, greenhouses, scales, wires and
+				  cables.</p> 
+			 </scopecontent> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Miscellaneous</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="9eb2ea38-3893-4426-9cf5-92c73cce98de" type="box">4</container> <container parent="9eb2ea38-3893-4426-9cf5-92c73cce98de" type="folder">1</container> 
+				<unittitle>Advertising UA - Various, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> 
+				  <list> 
+					 <item>Engineering and Mining Journal</item> 
+					 <item>Engineering Magazine</item> 
+					 <item>C.H. Evans &amp; Co.</item> 
+					 <item>Scientific Publishing Co.</item> 
+				  </list></p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5283576a-bcdf-4755-b262-b2006650aa7c" type="box">4</container> <container parent="5283576a-bcdf-4755-b262-b2006650aa7c" type="folder">2</container> 
+				<unittitle>Advertising UA - General and Miscellaneous, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="687fff5e-28c9-43c1-9bf8-e66d6c03cd9b" type="box">4</container> <container parent="687fff5e-28c9-43c1-9bf8-e66d6c03cd9b" type="folder">3</container> 
+				<unittitle>Articles by President Comstock - Correspondence
+				  regarding, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c8c1df8a-1808-4ddf-b439-792a800c28ab" type="box">4</container> <container parent="c8c1df8a-1808-4ddf-b439-792a800c28ab" type="folder">4</container> 
+				<unittitle>Engraving, Printing, Diplomas, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="fdbdaef6-3da4-40de-a52b-7ee37d562018" type="box">4</container> <container parent="fdbdaef6-3da4-40de-a52b-7ee37d562018" type="folder">5</container> 
+				<unittitle>Pianos, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a012ae33-3216-4bdb-80f0-169106faa815" type="box">4</container> <container parent="a012ae33-3216-4bdb-80f0-169106faa815" type="folder">6</container> 
+				<unittitle>Plants, Trees, etc., 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="52fa5395-92f8-4202-9df3-e66aec61e6df" type="box">4</container> <container parent="52fa5395-92f8-4202-9df3-e66aec61e6df" type="folder">7</container> 
+				<unittitle>Railroad Matters - Passes, Shipments, etc., 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="99993640-0b21-48dd-a5ac-3ec8173dabe9" type="box">4</container> <container parent="99993640-0b21-48dd-a5ac-3ec8173dabe9" type="folder">8</container> 
+				<unittitle>Water Analysis, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d7fd0a1e-50ee-4c8e-9bc1-1b6ee1baa79e" type="box">4</container> <container parent="d7fd0a1e-50ee-4c8e-9bc1-1b6ee1baa79e" type="folder">9</container> 
+				<unittitle>World's Columbian Exposition: Mineral Exhibit, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ec9844e5-e82e-453a-ae74-d987e49545be" type="box">4</container> <container parent="ec9844e5-e82e-453a-ae74-d987e49545be" type="folder">10</container> 
+				<unittitle>Mineral Collections, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e133bf00-af9d-44b0-b0f8-85e7d0f57a43" type="box">4</container> <container parent="e133bf00-af9d-44b0-b0f8-85e7d0f57a43" type="folder">11</container> 
+				<unittitle>Correspondence regarding the Publication of School of
+				  Mines Bulletin no. 3, "Utilization of the Sulphide Ores of Arizona,"
+				  January-February 1893, 
+				  <unitdate normal="1893" type="inclusive">1893</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f438cde2-f282-4562-8b01-4eda64882c9c" type="box">4</container> <container parent="f438cde2-f282-4562-8b01-4eda64882c9c" type="folder">12</container> 
+				<unittitle>Books and Periodicals - Scientific Publishing Company, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="0d8e9ca3-bd33-4a05-8145-430ba031d57c" type="box">4</container> <container parent="0d8e9ca3-bd33-4a05-8145-430ba031d57c" type="folder">13</container> 
+				<unittitle>Books and Periodicals - Various Publishers and Dealers,
+				  A-Z, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a6b3fbb4-40e0-49d8-a7b1-f7ea76414176" type="box">4</container> <container parent="a6b3fbb4-40e0-49d8-a7b1-f7ea76414176" type="folder">14-15</container> 
+				<unittitle>Books and Periodicals - General and Miscellaneous, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Correspondence</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="e5a53e67-5a51-4627-aaa5-480ad13444b3" type="box">5</container> <container parent="e5a53e67-5a51-4627-aaa5-480ad13444b3" type="folder">1</container> 
+				<unittitle>Correspondence, Atherton, G.W., 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1e6fbef8-ef3a-42d3-82ff-5478e26c1976" type="box">5</container> <container parent="1e6fbef8-ef3a-42d3-82ff-5478e26c1976" type="folder">2</container> 
+				<unittitle>Correspondence, Douglass, Andrew E. and Pickering, W.
+				  H., 1894, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="6ff56f8d-4b07-41f7-b298-ad454641fabe" type="box">5</container> <container parent="6ff56f8d-4b07-41f7-b298-ad454641fabe" type="folder">3</container> 
+				<unittitle>Correspondence, Graham, A.A., 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e10ecad5-ae36-4222-b66e-cebd8bf0129a" type="box">5</container> <container parent="e10ecad5-ae36-4222-b66e-cebd8bf0129a" type="folder">4</container> 
+				<unittitle>Correspondence, Storment, E.L., President Arizona
+				  Territorial Normal School, Tempe, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b84d587b-ca14-4610-9d55-9118cd0be0e9" type="box">5</container> <container parent="b84d587b-ca14-4610-9d55-9118cd0be0e9" type="folder">5</container> 
+				<unittitle>Correspondence, Tully, Charles H., Principal, Tucson
+				  Public Schools, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="801a983f-4fcc-450c-b243-22d7ad32da4e" type="box">5</container> <container parent="801a983f-4fcc-450c-b243-22d7ad32da4e" type="folder">6-7</container> 
+				<unittitle>Requests for Information about UA from Prospective
+				  Students, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a461cde4-2194-47a4-be2a-9a3a82ed2686" type="box">5</container> <container parent="a461cde4-2194-47a4-be2a-9a3a82ed2686" type="folder">8</container> 
+				<unittitle>Requests for Information about UA, General and
+				  Miscellaneous, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="7c4e9276-63dc-467a-bd2e-566a6ab2363e" type="box">5</container> <container parent="7c4e9276-63dc-467a-bd2e-566a6ab2363e" type="folder">9</container> 
+				<unittitle>Requests for Information about UA, Mines and Mining, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="fde4668a-526c-4659-8882-17af42e0e266" type="box">5</container> <container parent="fde4668a-526c-4659-8882-17af42e0e266" type="folder">10</container> 
+				<unittitle>Requests for Information about UA, Miscellaneous,
+				  Including Arizona as a place to live, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="8efc0f5e-f8ef-41ca-8633-ca21c01d0dd4" type="box">5</container> <container parent="8efc0f5e-f8ef-41ca-8633-ca21c01d0dd4" type="folder">11</container> 
+				<unittitle>Requests for Bulletins and other Publications, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="113e77a3-f82f-421b-8514-e8969fc634db" type="box">5</container> <container parent="113e77a3-f82f-421b-8514-e8969fc634db" type="folder">12</container> 
+				<unittitle>Requests for UA Catalogs, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="89d22914-874c-430d-ab6d-c0ced942e2dc" type="box">5</container> <container parent="89d22914-874c-430d-ab6d-c0ced942e2dc" type="folder">13</container> 
+				<unittitle>Requests for Opinions, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="15946286-302a-42ad-be28-e6ede52924dc" type="box">6</container> <container parent="15946286-302a-42ad-be28-e6ede52924dc" type="folder">1-2</container> 
+				<unittitle>Miscellaneous Correspondence, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="da922fc9-e151-4a00-b69b-d8aec63501f4" type="box">6</container> <container parent="da922fc9-e151-4a00-b69b-d8aec63501f4" type="folder">3-9</container> 
+				<unittitle>Applications for Faculty/Staff Positions, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes applications of John A. Spring to teach various
+				  languages, and John A. Roebling (grandson of the Brooklyn Bridge builder) to
+				  teach mathematics, mechanics, and physics-both in July 1893.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="acf3a798-9980-475f-9fca-9d18c14ee760" type="box">7</container> <container parent="acf3a798-9980-475f-9fca-9d18c14ee760" type="folder">1</container> 
+				<unittitle>Mining Correspondence, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes correspondence with John F. Blandy, ex-territorial
+				  geologist; and Charles B. Allaire, regarding a trip to inspect coal mining
+				  property. </p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d81b3bdd-05ae-4385-b9f6-6b0727d6ef52" type="box">7</container> <container parent="d81b3bdd-05ae-4385-b9f6-6b0727d6ef52" type="folder">2-7</container> 
+				<unittitle>Assay Work, Lot no. 1-399, November 1891-January 1895, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="3eac2c78-e64f-470d-8ee6-b389f1d8e3bc" type="box">7</container> <container parent="3eac2c78-e64f-470d-8ee6-b389f1d8e3bc" type="folder">8</container> 
+				<unittitle>Miscellaneous Correspondence with Bills regarding Assay
+				  work, 
+				  <unitdate normal="1892/1895" type="inclusive">1892-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Howard Billman, 
+			 <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Faculty/Staff, Regents, Governors, Students</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="aca429af-1cdf-4011-979f-2ebe696fa553" type="box">8</container> <container parent="aca429af-1cdf-4011-979f-2ebe696fa553" type="folder">1</container> 
+				<unittitle>Faculty, Adams, F. Yale-Ancient and Modern Languages, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="42b4c41a-f731-4521-985d-3443fb8d58e6" type="box">8</container> <container parent="42b4c41a-f731-4521-985d-3443fb8d58e6" type="folder">2
+				  </container> 
+				<unittitle>Faculty, Barnes, Nathan H.-Civil and Hydraulic
+				  Engineering, Irrigation Engineer, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1756e360-d509-4a04-9d1a-d1585778cbd0" type="box">8</container> <container parent="1756e360-d509-4a04-9d1a-d1585778cbd0" type="folder">3</container> 
+				<unittitle>Facutly, Blake, William P. - Geology, Metallurgy,
+				  Mining, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b0592921-4da7-4845-9218-030067946567" type="box">8</container> <container parent="b0592921-4da7-4845-9218-030067946567" type="folder">4</container> 
+				<unittitle>Faculty, Boggs, Edward M. - Civil and Hydraulic
+				  Engineering, Irrigation Engineer, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5b55c919-3a95-4cdc-9017-1e588f2d8b67" type="box">8</container> <container parent="5b55c919-3a95-4cdc-9017-1e588f2d8b67" type="folder">5</container> 
+				<unittitle>Facutly, Devol, William S. - Agriculture, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ae46764b-71c1-4210-bcc2-1cad0e186c53" type="box">8</container> <container parent="ae46764b-71c1-4210-bcc2-1cad0e186c53" type="folder">6</container> 
+				<unittitle>Facutly, Forbes, Robert H. - Chemistry 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ee5bcecd-9d29-4f1c-b3dc-441164022d54" type="box">8</container> <container parent="ee5bcecd-9d29-4f1c-b3dc-441164022d54" type="folder" /> 
+				  <unittitle>Faculty, Guild, Frank N. - Mineralogy, 
+					 <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="667f42ca-962f-4c5a-8866-4d4bf444e379" type="box">8</container> <container parent="667f42ca-962f-4c5a-8866-4d4bf444e379" type="folder">8</container> 
+				<unittitle>Faculty, Rockfellow, John A. - Mathematics, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2a09f40b-49fb-4a94-a6f4-cef648b7a770" type="box">8</container> <container parent="2a09f40b-49fb-4a94-a6f4-cef648b7a770" type="folder">9</container> 
+				<unittitle>Faculty, Toumey, J.W. - Botany, Entomology, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="69f45251-c332-4aec-a5c1-68ff4454c22c" type="box">8</container> <container parent="69f45251-c332-4aec-a5c1-68ff4454c22c" type="folder">10</container> 
+				<unittitle>Faculty, Woodward, Sherman M. - Physics, Mechanics, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4db1cbe0-9b6d-4598-8b37-f4dcebd30b6a" type="box">8</container> <container parent="4db1cbe0-9b6d-4598-8b37-f4dcebd30b6a" type="folder">11</container> 
+				<unittitle>Faculty/Staff, Various, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="3076562c-5c81-4445-a430-ae25954276d6" type="box">8</container> <container parent="3076562c-5c81-4445-a430-ae25954276d6" type="folder">12</container> 
+				<unittitle>Foreman, Phoenix Agricultural Experiment Station (N.H.
+				  Claflin), 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="60a1b7c5-e37e-45bd-8a8a-3ee9790f89b6" type="box">8</container> <container parent="60a1b7c5-e37e-45bd-8a8a-3ee9790f89b6" type="folder">13</container> 
+				<unittitle>Board of Regents, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b0796281-445d-4214-9d2f-085332d6ed5e" type="box">8</container> <container parent="b0796281-445d-4214-9d2f-085332d6ed5e" type="folder">14</container> 
+				<unittitle>Regent, Ex-officio, Superintendent of Public
+				  Instruction: F.J. Netherton, T.E. Dalton, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c7f59014-9b1a-43f7-a91a-85e4b15ba20b" type="box">8</container> <container parent="c7f59014-9b1a-43f7-a91a-85e4b15ba20b" type="folder">15</container> 
+				<unittitle>Governors, L.C. Hughes, Benjamin J. Franklin, M.H.
+				  McCord, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4856165f-3ca9-4083-b90d-460d204bfe10" type="box">8</container> <container parent="4856165f-3ca9-4083-b90d-460d204bfe10" type="folder">16</container> 
+				<unittitle>Ex-UA President, Theodore B. Comstock, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="21a878ec-3e68-4487-8481-1c4a3bf294cd" type="box">8</container> <container parent="21a878ec-3e68-4487-8481-1c4a3bf294cd" type="folder">17-20</container> 
+				<unittitle>Students, A - Z, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4ef1ab6a-79f7-4e3c-b2ad-4c0046b0a284" type="box">8</container> <container parent="4ef1ab6a-79f7-4e3c-b2ad-4c0046b0a284" type="folder">21</container> 
+				<unittitle>President's Annual Report, 1896; Alumni Association,
+				  Constitution, 1897, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="0dc2cb6d-9412-4172-9c60-2bad78284a18" type="box">8</container> <container parent="0dc2cb6d-9412-4172-9c60-2bad78284a18" type="folder">22</container> 
+				<unittitle>Miscellaneous Correspondence, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes correspondence regarding the Arizona Antiquarian
+				  Association; letter of May 3, 1897 from R.E. Peary (discoverer of the North
+				  Pole) offering walrus skins to the Museum; letters in December 1896 seeking the
+				  flag pole from old Fort Bowie for UA; and correspondence concerning the comet
+				  which fell in February 1897.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="3bd59966-295a-4cfe-b203-bfd2c1f9e33c" type="box">8</container> <container parent="3bd59966-295a-4cfe-b203-bfd2c1f9e33c" type="folder">23</container> 
+				<unittitle>President Billman Personal Correspondence, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Miscellaneous</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="0c235970-f121-46ad-915d-4b7abf6454a5" type="box">9</container> <container parent="0c235970-f121-46ad-915d-4b7abf6454a5" type="folder">1</container> 
+				<unittitle>Advertising UA, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ce004494-4e4b-4e3d-b815-734b556a65f1" type="box">9</container> <container parent="ce004494-4e4b-4e3d-b815-734b556a65f1" type="folder">2</container> 
+				<unittitle>Books and Periodicals, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="740ef0f8-f709-408b-9988-caa8670dad74" type="box">9</container> <container parent="740ef0f8-f709-408b-9988-caa8670dad74" type="folder">3</container> 
+				<unittitle>Commencement, 1896, 1897, 
+				  <unitdate normal="1896/1897" type="inclusive">1896-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="52694e4c-d769-4a6f-aebd-c76e25876227" type="box">9</container> <container parent="52694e4c-d769-4a6f-aebd-c76e25876227" type="folder">4</container> 
+				<unittitle>Financial Papers, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ba38d724-6617-4200-bd2e-203cfaa33fac" type="box">9</container> <container parent="ba38d724-6617-4200-bd2e-203cfaa33fac" type="folder">5</container> 
+				<unittitle>Miliatry Matters, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="34dcda75-75b5-4c3e-b79a-342c4fdb81ee" type="box">9</container> <container parent="34dcda75-75b5-4c3e-b79a-342c4fdb81ee" type="folder">6</container> 
+				<unittitle>Mining and Assay - includes Mineral collections, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a7ed1857-dac3-4023-a0b7-3a7c10fa4204" type="box">9</container> <container parent="a7ed1857-dac3-4023-a0b7-3a7c10fa4204" type="folder">7</container> 
+				<unittitle>North Hall - construction and furnishing, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ade41ec7-1a9c-4f94-b91a-770dde59cec3" type="box">9</container> <container parent="ade41ec7-1a9c-4f94-b91a-770dde59cec3" type="folder">8</container> 
+				<unittitle>Railroad Matters - chiefly concerning passes for
+				  students, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d6c1c00b-2fe9-4c86-b3cc-204b18c1ab94" type="box">9</container> <container parent="d6c1c00b-2fe9-4c86-b3cc-204b18c1ab94" type="folder">9</container> 
+				<unittitle>"Summer School of Science" at Flagstaff - proposed,
+				  1896, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d35868f4-9f2e-4dc1-bb2e-d85c848c38d5" type="box">9</container> <container parent="d35868f4-9f2e-4dc1-bb2e-d85c848c38d5" type="folder">10</container> 
+				<unittitle>Office/Classroom Furniture and Supplies - W.S. Pierce, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="bf30094f-b355-43ff-a185-d82be2a1a150" type="box">9</container> <container parent="bf30094f-b355-43ff-a185-d82be2a1a150" type="folder">11</container> 
+				<unittitle>Office/Classroom Furniture and Supplies - Various and
+				  Miscellaneous, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="dc4daa66-e142-41e2-8534-0d35c0cf541b" type="box">9</container> <container parent="dc4daa66-e142-41e2-8534-0d35c0cf541b" type="folder">12</container> 
+				<unittitle>Equipment - Chemical and Scientific Apparatus, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e0677c3f-8221-4a77-8512-8f9296fb7de8" type="box">9</container> <container parent="e0677c3f-8221-4a77-8512-8f9296fb7de8" type="folder">13</container> 
+				<unittitle>Equipment - Machinery, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="11f7cb53-ec9e-4491-b580-65145c790b39" type="box">9</container> <container parent="11f7cb53-ec9e-4491-b580-65145c790b39" type="folder">14</container> 
+				<unittitle>Equipment - New Water Tank, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="7b2987f0-7e7c-4ca0-a97a-dd1dd985d974" type="box">9</container> <container parent="7b2987f0-7e7c-4ca0-a97a-dd1dd985d974" type="folder">15</container> 
+				<unittitle>Equipment - Miscellaneous, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e8970de1-9eae-4299-be72-8665abeb0d01" type="box">9</container> <container parent="e8970de1-9eae-4299-be72-8665abeb0d01" type="folder">16</container> 
+				<unittitle>Requests - Information about UA - General, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="acad79e4-1071-405e-bf83-a51617a9a2d3" type="box">9</container> <container parent="acad79e4-1071-405e-bf83-a51617a9a2d3" type="folder">17-18</container> 
+				<unittitle>Requests - Information about UA from Prospective
+				  Students, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a9ff3c2e-1a07-438a-a923-e9768f202e17" type="box">9</container> <container parent="a9ff3c2e-1a07-438a-a923-e9768f202e17" type="folder">19</container> 
+				<unittitle>Requests - Catalogs and other Publications, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="aaa53ea8-214e-455f-bc4a-95ec7c1e148f" type="box">9</container> <container parent="aaa53ea8-214e-455f-bc4a-95ec7c1e148f" type="folder">20</container> 
+				<unittitle>Requests - Various, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="50dd15e4-7e16-4ecc-bff8-362440ba1a20" type="box">10</container> <container parent="50dd15e4-7e16-4ecc-bff8-362440ba1a20" type="folder">1-4</container> 
+				<unittitle>Applications for Faculty/Staff Positions, 
+				  <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes May 17, 1897 applications of C.A. Turrell, University
+				  of Nebraska, for a position in modern languages. He was later employed in 1904
+				  and served until 1923.</p> 
+			 </scopecontent> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Millard M. Parker, 
+			 <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Practically all of President M.M. Parker's outgoing correspondence
+			 has been lost or destroyed -- only that for 1901 remains in two letter-books.
+			 For replies to 1901 letters in Boxes 11, 13-16 the user should consult those
+			 letter books in Box 12.</p> 
+		</scopecontent> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Faculty/Staff, Regents, Governors,
+				Letter-Books</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="e5c138d0-3762-4b19-b244-e35fab02960c" type="box">11</container> <container parent="e5c138d0-3762-4b19-b244-e35fab02960c" type="folder">1</container> 
+				<unittitle>Facutly, Adams, F. Yale - Language, History, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="cf68ed6f-281c-498c-bccf-f78d4a960fb3" type="box">11</container> <container parent="cf68ed6f-281c-498c-bccf-f78d4a960fb3" type="folder">2</container> 
+				<unittitle>Facutly, Barker, Katherine K. - Domestic Science, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a9ab40bf-f167-43af-9ffc-cc8a40a4a2e9" type="box">11</container> <container parent="a9ab40bf-f167-43af-9ffc-cc8a40a4a2e9" type="folder">3</container> 
+				<unittitle>Facutly, Blake, William P. - Geology, Metallurgy,
+				  Mining, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="537ae649-6d08-4278-aff3-6ebe07c457a6" type="box">11</container> <container parent="537ae649-6d08-4278-aff3-6ebe07c457a6" type="folder">4</container> 
+				<unittitle>Facutly, Devol, William S. - Agriculture, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="6a02936b-72f1-4d8b-bad8-d312e343c21f" type="box">11</container> <container parent="6a02936b-72f1-4d8b-bad8-d312e343c21f" type="folder">5</container> 
+				<unittitle>Facutly, Forbes, Robert H. - Chemistry, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e4b329f7-0684-4155-bdaf-f9437cee37bc" type="box">11</container> <container parent="e4b329f7-0684-4155-bdaf-f9437cee37bc" type="folder">6</container> 
+				<unittitle>Faculty, Guild, Frank N. - Mineralogy, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e51a2363-f46c-4ec4-bf28-1bf80357043d" type="box">11</container> <container parent="e51a2363-f46c-4ec4-bf28-1bf80357043d" type="folder">7</container> 
+				<unittitle>Facutly, Hall, Howard J. - English, Library, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5b7ddc1e-d5b0-4f48-8fd9-237f8765a05a" type="box">11</container> <container parent="5b7ddc1e-d5b0-4f48-8fd9-237f8765a05a" type="folder">8</container> 
+				<unittitle>Facutly, Holmes, D.H. - Shopwork, Drawing, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="de7f6775-70b5-4d96-ac40-c80d95e71a22" type="box">11</container> <container parent="de7f6775-70b5-4d96-ac40-c80d95e71a22" type="folder">9</container> 
+				<unittitle>Faculty, La Chance, Imogen - Matron of Dormitory, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="7a285fa4-b72b-44cf-a784-41e973e87900" type="box">11</container> <container parent="7a285fa4-b72b-44cf-a784-41e973e87900" type="folder">10</container> 
+				<unittitle>Facutly, McClatchie, A.J. - Agriculture, Horticulture, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="59738d75-339b-4f96-8893-49791eb13492" type="box">11</container> <container parent="59738d75-339b-4f96-8893-49791eb13492" type="folder">11</container> 
+				<unittitle>Facutly, McGauhey, Opal LeBaron - Physical Culture,
+				  English, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a237e461-bb0c-49a1-9697-ab6942bcfbe0" type="box">11</container> <container parent="a237e461-bb0c-49a1-9697-ab6942bcfbe0" type="folder">12</container> 
+				<unittitle>Facutly, Plimpton, Mary E. - English, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f6bcbaed-7202-452a-8a84-d167b5175985" type="box">11</container> <container parent="f6bcbaed-7202-452a-8a84-d167b5175985" type="folder">13</container> 
+				<unittitle>Faculty, Randall, Margaret - English, Elocution,
+				  Physical Culture, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="681dc613-0103-41da-ac22-0366029584f4" type="box">11</container> <container parent="681dc613-0103-41da-ac22-0366029584f4" type="folder">14</container> 
+				<unittitle>Faculty, Rockfellow, John A. - Mathematics, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="223b220f-89e1-4390-91de-c9d95acc3d09" type="box">11</container> <container parent="223b220f-89e1-4390-91de-c9d95acc3d09" type="folder">15</container> 
+				<unittitle>Facutly, Summers, J.N. - Commerical Subjects,
+				  Mathematics, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="86b50c9b-29eb-4c2a-abb1-cbabf6534f57" type="box">11</container> <container parent="86b50c9b-29eb-4c2a-abb1-cbabf6534f57" type="folder">16</container> 
+				<unittitle>Faculty, True, Gordon H. - Animal Husbandry, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="96367431-6e29-4905-9068-ecbd780c8274" type="box">11</container> <container parent="96367431-6e29-4905-9068-ecbd780c8274" type="folder">17</container> 
+				<unittitle>Faculty, Toumey, J.W. - Acting Director, Experiment
+				  Station; Biology, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4ec299e5-8323-4eae-959d-c319a3d2f556" type="box">11</container> <container parent="4ec299e5-8323-4eae-959d-c319a3d2f556" type="folder">18</container> 
+				<unittitle>Faculty, Walker, Mark, Jr. - Chemistry, Assay, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1597a977-70d6-45c2-8cde-f27b45504849" type="box">11</container> <container parent="1597a977-70d6-45c2-8cde-f27b45504849" type="folder">19</container> 
+				<unittitle>Faculty, Woodward, S.M. - Mathematics, Mechanics, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="686ff6b4-1951-4ffe-b0af-e9f07cc8067a" type="box">11</container> <container parent="686ff6b4-1951-4ffe-b0af-e9f07cc8067a" type="folder">20-21</container> 
+				<unittitle>Faculty/Staff, Various, A-Z, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="6a03f2dc-7fa5-4974-882c-11d00c7f4419" type="box">11</container> <container parent="6a03f2dc-7fa5-4974-882c-11d00c7f4419" type="folder">22</container> 
+				<unittitle>Board of Regents, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="47f8bedc-2ff6-48d5-8db1-a60e1432bcba" type="box">11</container> <container parent="47f8bedc-2ff6-48d5-8db1-a60e1432bcba" type="folder">23</container> 
+				<unittitle>Regents, Ex-officio - Superintendent of Public
+				  Instruction: A.P. Shewman, R.L. Long, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ced29814-6b39-48b8-a36f-eb72dff1e075" type="box">11</container> <container parent="ced29814-6b39-48b8-a36f-eb72dff1e075" type="folder">24</container> 
+				<unittitle>Governors, M.H. McCord, N.O. Murphy, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="45b7ef29-21b0-42ca-b537-89eaf34b768b" type="box">11</container> <container parent="45b7ef29-21b0-42ca-b537-89eaf34b768b" type="folder">25</container> 
+				<unittitle>Territorial Auditor, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="bfd28ea2-0df3-47fb-b47b-78371e7dfcac" type="box">12</container> 
+				<unittitle>Letter Books, January 11 - June 27, 1901; June 27 -
+				  September 14, 1901 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Students</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="b3d9cb01-172b-466c-9d51-3c1469d19135" type="box">13</container> <container parent="b3d9cb01-172b-466c-9d51-3c1469d19135" type="folder">1</container> 
+				<unittitle>Students, Miscellaneous Items, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes student petitions and offers to board students.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="bfcebb3f-ffaa-42b9-835d-f274db26eea2" type="box">13</container> <container parent="bfcebb3f-ffaa-42b9-835d-f274db26eea2" type="folder">2-11</container> 
+				<unittitle>Students, A-R, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ac335dd2-4906-45c4-b333-0aac77987fad" type="box">14</container> <container parent="ac335dd2-4906-45c4-b333-0aac77987fad" type="folder">1-2</container> 
+				<unittitle>Students, S-Z, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Miscellaneous</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="b7a11047-9a89-4101-8067-c7de38a894f6" type="box">14</container> <container parent="b7a11047-9a89-4101-8067-c7de38a894f6" type="folder">3-4</container> 
+				<unittitle>Applications for Faculty/Staff Positions, General,
+				  Includes letter of May 13, 1901 for positon as football coach, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="542911e9-5fbf-422c-b69c-bd723e3adef5" type="box">14</container> <container parent="542911e9-5fbf-422c-b69c-bd723e3adef5" type="folder">5</container> 
+				<unittitle>Applications for Faculty/Staff Positions, Teacher
+				  placement agencies,</unittitle> 
+				<unittitle> 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5c99e212-852f-4bec-8243-238bf941937c" type="box">14</container> <container parent="5c99e212-852f-4bec-8243-238bf941937c" type="folder">6</container> 
+				<unittitle>Advertising UA, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d45f00db-1061-4fc4-968a-931d1309bf10" type="box">14</container> <container parent="d45f00db-1061-4fc4-968a-931d1309bf10" type="folder">7</container> 
+				<unittitle>Books and Periodicals, General and Miscellaneous, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="3a322030-6b09-46ee-a382-608a78eec239" type="box">14</container> <container parent="3a322030-6b09-46ee-a382-608a78eec239" type="folder">8</container> 
+				<unittitle>Books and Periodicals - Various Publishers and Dealers, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4bc28bc2-7cb1-47d1-bf3a-11fdf7fece5e" type="box">14</container> <container parent="4bc28bc2-7cb1-47d1-bf3a-11fdf7fece5e" type="folder">9</container> 
+				<unittitle>Commencement, 1899, 1900, 1901, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d7b285d5-7601-495f-b87e-6ae9be2ec442" type="box">14</container> <container parent="d7b285d5-7601-495f-b87e-6ae9be2ec442" type="folder">10</container> 
+				<unittitle>Lectures and Recitals, Offers of, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="07f1a68c-afe2-4fd1-a3a4-5c32a4269cb8" type="box">14</container> <container parent="07f1a68c-afe2-4fd1-a3a4-5c32a4269cb8" type="folder">11</container> 
+				<unittitle>Legislation and Legislators, Includes correspondence
+				  regarding the Arizona Antiquarian Association, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="01d2317f-d64a-4c7d-8025-ebe7b4a8368c" type="box">14</container> <container parent="01d2317f-d64a-4c7d-8025-ebe7b4a8368c" type="folder">12</container> 
+				<unittitle>Railroad Matters - Southern Pacific Company, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f27ea7a5-36b2-4f52-8699-09c7b2e1290f" type="box">14</container> <container parent="f27ea7a5-36b2-4f52-8699-09c7b2e1290f" type="folder">13</container> 
+				<unittitle>Railroad Matters - Various Companies, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f94442ff-d3c1-49cc-aa0d-2fe80efef56b" type="box">15</container> <container parent="f94442ff-d3c1-49cc-aa0d-2fe80efef56b" type="folder">1</container> 
+				<unittitle>Equipment - Chemical and Scientific Apparatus, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes offer of astronomical equipment from Lewis Swift,
+				  Director of Lowe Observatory, California.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9b562b82-4afe-450d-a80a-3cf3eb2ffb5e" type="box">15</container> <container parent="9b562b82-4afe-450d-a80a-3cf3eb2ffb5e" type="folder">2</container> 
+				<unittitle>Equipment - Manual Training and Shop Work, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c091624a-c12f-47ac-b8c2-58e2b1912b26" type="box">15</container> <container parent="c091624a-c12f-47ac-b8c2-58e2b1912b26" type="folder">3</container> 
+				<unittitle>Equipment - Machinery, Miscellaneous, etc., 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="776c2af7-08fa-4ab6-bcd7-5e9a10e73b8f" type="box">15</container> <container parent="776c2af7-08fa-4ab6-bcd7-5e9a10e73b8f" type="folder">4</container> 
+				<unittitle>Office/Classroom Supplies, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="59dcdadf-ee4f-4f3e-af3b-b3329739f8e1" type="box">15</container> <container parent="59dcdadf-ee4f-4f3e-af3b-b3329739f8e1" type="folder">5</container> 
+				<unittitle>Furniture; Clock; Flag, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a9ac2f8c-7256-4785-9e3f-46bcd83db440" type="box">15</container> <container parent="a9ac2f8c-7256-4785-9e3f-46bcd83db440" type="folder">6</container> 
+				<unittitle>Maintenance and Building Repairs, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="23f2bc4c-7475-4a7d-af92-bc89d255fb11" type="box">15</container> <container parent="23f2bc4c-7475-4a7d-af92-bc89d255fb11" type="folder">7</container> 
+				<unittitle>South Hall - Construction and Furnishing, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9adbf8db-e4c9-4936-89bc-19ad8ebec859" type="box">15</container> <container parent="9adbf8db-e4c9-4936-89bc-19ad8ebec859" type="folder">8</container> 
+				<unittitle>Military Uniforms and other Clothing, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e03f496f-c6f2-4a3a-9a47-6d0d3d449c31" type="box">15</container> <container parent="e03f496f-c6f2-4a3a-9a47-6d0d3d449c31" type="folder">9</container> 
+				<unittitle>Pianos and Music, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d4592d90-09a9-45be-b5e1-81793c60521f" type="box">15</container> <container parent="d4592d90-09a9-45be-b5e1-81793c60521f" type="folder">10</container> 
+				<unittitle>Printing and Engraving, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="7d0ce05d-7b81-48dd-9d9d-4b2ddaf7873a" type="box">15</container> <container parent="7d0ce05d-7b81-48dd-9d9d-4b2ddaf7873a" type="folder">11</container> 
+				<unittitle>Miscellaneous, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes an annual report (1900?) by Pres. Parker, and items
+				  relating to lighing, insurace, Post Office, mail and delivery services, and the
+				  proposed Santa Catalina Forest Reserve.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a59dec9b-cf4f-46ad-88c3-67df86c2c943" type="box">15</container> <container parent="a59dec9b-cf4f-46ad-88c3-67df86c2c943" type="folder">12</container> 
+				<unittitle>Brown, Herbert - Superintendent, Territorial Prison,
+				  Letters relating to material destined for the Territorial Museum. 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4bfd12ee-4d43-4d51-ab9b-2dad0150f06f" type="box">15</container> <container parent="4bfd12ee-4d43-4d51-ab9b-2dad0150f06f" type="folder">13</container> 
+				<unittitle>McCrea, S. P. - Principal, Tucson Public Schools, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="6d461790-1873-466b-b967-5291c934ffca" type="box">15</container> <container parent="6d461790-1873-466b-b967-5291c934ffca" type="folder">14</container> 
+				<unittitle>McNaughton, James - President, Arizona Territorial
+				  Normal School, Tempe, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="3d150aee-55c6-4c9d-b6aa-a5127c9be462" type="box">15</container> <container parent="3d150aee-55c6-4c9d-b6aa-a5127c9be462" type="folder">15</container> 
+				<unittitle>Mead, Elwood - U.S.D.A., Office of Experiment Station,
+				  and Others regarding Irrigation Investigations, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="0be5cb76-0909-4e36-ba70-f7d8753f0f12" type="box">15</container> <container parent="0be5cb76-0909-4e36-ba70-f7d8753f0f12" type="folder">16</container> 
+				<unittitle>Miscellaneous Correspondence, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="6ce9ae6e-e054-4457-a1fe-e558f728c969" type="box">15</container> <container parent="6ce9ae6e-e054-4457-a1fe-e558f728c969" type="folder">17</container> 
+				<unittitle>President Parker Personal Correspondence, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c0bb7992-9c1f-4d10-8118-91d479e9d7a6" type="box">16</container> <container parent="c0bb7992-9c1f-4d10-8118-91d479e9d7a6" type="folder">1-2</container> 
+				<unittitle>Requests for Information about UA - General, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="818448d9-10e6-4fa7-9fed-a7e56ffc6ed7" type="box">16</container> <container parent="818448d9-10e6-4fa7-9fed-a7e56ffc6ed7" type="folder">3-4</container> 
+				<unittitle>Requests for Information about UA from Prospective
+				  Students, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f090a3f2-f04c-4e70-90d7-277f840d092a" type="box">16</container> <container parent="f090a3f2-f04c-4e70-90d7-277f840d092a" type="folder">7</container> 
+				<unittitle>Requests for Information about Tucson and Arizona, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b050f33d-b756-4c2b-aaea-9cada502eb0d" type="box">16</container> <container parent="b050f33d-b756-4c2b-aaea-9cada502eb0d" type="folder">8</container> 
+				<unittitle>Requests for Catalogs and other Publications, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="92b6f425-8ab1-4972-8fed-7f2892d8272d" type="box">16</container> <container parent="92b6f425-8ab1-4972-8fed-7f2892d8272d" type="folder">9</container> 
+				<unittitle>Requests for Recommendations, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="8b005d38-9231-4b2a-9d5d-3b2230584e5b" type="box">16</container> <container parent="8b005d38-9231-4b2a-9d5d-3b2230584e5b" type="folder">10</container> 
+				<unittitle>Requests for Students to Act as Agents, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="20492449-6d84-4ef9-a298-53cca3b7e2f9" type="box">16</container> <container parent="20492449-6d84-4ef9-a298-53cca3b7e2f9" type="folder">11</container> 
+				<unittitle>Requests for a Degree from UA - Thomas Grindell,
+				  1897-1898, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="bdb4a624-7f0d-429d-9947-cb677dbef642" type="box">16</container> <container parent="bdb4a624-7f0d-429d-9947-cb677dbef642" type="folder">12</container> 
+				<unittitle>Requests for Opinions, Also miscelleneous, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b58cb5c1-1574-446c-8eaa-aa1b2fcf65ac" type="box">16</container> <container parent="b58cb5c1-1574-446c-8eaa-aa1b2fcf65ac" type="folder">13</container> 
+				<unittitle>Invitations to Speak, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f3d91040-8780-437c-b81c-e53f530f1841" type="box">16</container> <container parent="f3d91040-8780-437c-b81c-e53f530f1841" type="folder">14</container> 
+				<unittitle>Requests to Join, Attend, Send Delegates, 
+				  <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IV: Frank Yale Adams (1901-1903) and Kendric C.
+			 Babcock (1903-1910), 
+			 <unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Little material has survived from the Presidencies of Frank Yale
+			 Adams and Kendric C. Babcock: a bit of 1901 correspondence, some financial
+			 records and bills from 1901-1905, and three letter books (out going
+			 correspondence only) from December 10, 1902 to September 22, 1903. Librarian
+			 Howard J. Hall served as Acting President, July-August 1903, between the terms
+			 of Adams and Babcock.</p> 
+		</scopecontent> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Miscellaneous</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="329aa1b4-8ec8-4d6c-ae33-615287fac3bb" type="box">17</container> <container parent="329aa1b4-8ec8-4d6c-ae33-615287fac3bb" type="folder">1</container> 
+				<unittitle>Students, 1901, 
+				  <unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes letter to V. Suarez (Solomonville) from President
+				  Adams, requesting that his son Benito be permitted to remain in school - at
+				  least until December - as he is needed as the "chief trumpeter" and " one of
+				  the best players on the football team." Benito was a member of the first (1899)
+				  team.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c5826efb-a023-4c60-b7f9-37d19ee15aa8" type="box">17</container> <container parent="c5826efb-a023-4c60-b7f9-37d19ee15aa8" type="folder">2</container> 
+				<unittitle>Equipment, Supplies, Furniture, 1901, 
+				  <unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9134e332-42be-4790-a24f-3311579277f1" type="box">17</container> <container parent="9134e332-42be-4790-a24f-3311579277f1" type="folder">3</container> 
+				<unittitle>Miscellaneous Correspondence, September-December 1901, 
+				  <unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes Department of Biology Annual Report by J.J.
+				  Thornber.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="379e90d7-0796-4413-bf98-be8049ffc62a" type="box">17</container> <container parent="379e90d7-0796-4413-bf98-be8049ffc62a" type="folder">4</container> 
+				<unittitle>Miscellaneous Financial Records, 1901-1902, 
+				  <unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="990bea1c-52f1-4bf8-94fa-c3dfccfe3a7b" type="box">17</container> <container parent="990bea1c-52f1-4bf8-94fa-c3dfccfe3a7b" type="folder">5</container> 
+				<unittitle>Maintenance, Food, Supplies, Building Repairs,
+				  1904-1905, 
+				  <unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Chiefly bills from Tucson establishment.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4cdd0f52-5f43-44b0-9a1c-6fd145098eaa" type="box">17</container> <container parent="4cdd0f52-5f43-44b0-9a1c-6fd145098eaa" type="folder">6</container> 
+				<unittitle>Chemicals and Scientific Appatatus; Machinery,
+				  1904-1905, 
+				  <unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4ce2a06f-4095-42d2-bb3b-7246fd20360c" type="box">17</container> <container parent="4ce2a06f-4095-42d2-bb3b-7246fd20360c" type="folder">7</container> 
+				<unittitle>Military Uniforms and other Clothing, 1904-05 
+				  <unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="76f968bc-6ae1-4a6b-97ff-a7da262ae974" type="box">17</container> <container parent="76f968bc-6ae1-4a6b-97ff-a7da262ae974" type="folder">8</container> 
+				<unittitle>Office Supplies, Books, Bindery, Subscriptions,
+				  1904-1905, 
+				  <unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9a1ce9bb-e28f-445b-92da-4417b7c59e0d" type="box">17</container> <container parent="9a1ce9bb-e28f-445b-92da-4417b7c59e0d" type="folder">9</container> 
+				<unittitle>Various and Miscellaneous Bills, 1904-1905, 
+				  <unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes advertising, printing, horseshoeing, use of carriages,
+				  miscellaneous medical, Western Union Telegraph.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e1005e0f-2fcf-4638-9d61-cf2114752613" type="box">17</container> 
+				<unittitle>Letter-Book, December 10, 1902 to April 20, 1903, F.
+				  Yale Adams, 
+				  <unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e3127efe-cffb-4c7c-a757-2ef49fe7b901" type="box">17</container> 
+				<unittitle>Letter-Book, April 22 to August 12, 1903, F. Yale Adams
+				  and Howard J. Hall, Acting-President, 
+				  <unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="27b28fac-f343-4c35-8526-572dc4149a60" type="box">17</container> 
+				<unittitle>Letter-book, August 12 to September 22, 1903, Howard J.
+				  Hall, Acting-President and Kendric C. Babcock, 
+				  <unitdate normal="1901/1910" type="inclusive">1901-1910</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

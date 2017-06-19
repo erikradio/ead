@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+   <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+      <eadid encodinganalog="852">UAAZ379</eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Ernest Brooke Stanley scrapbook
+	 	       <date calendar="gregorian" certainty="approximate" era="ce" normal="1916/1976" type="inclusive">1916-1976</date>
+	 	       
+	 	    </titleproper>
+         	<titleproper altrender="nodisplay" type="filing"> Stanley, (Ernest B.) scrapbook
+	 	    
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date calendar="gregorian" era="ce" normal="2016">2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date encodinganalog="date" era="ce" normal="20160331">March 31, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+   <revisiondesc><change><date normal="2017-06-19">2017-06-19</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+   <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+      <did> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name"> Ernest Brooke Stanley scrapbook
+            <unitdate label="Dates" normal="1916/1976" type="inclusive">1916-1976</unitdate>
+  	     </unittitle>	 
+	     <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 379</unitid>
+	     <origination label="Creator"> 
+            <persname encodinganalog="100" source="lcnaf">Stanley, E. B. (Ernest Brooke), 1897-1984.</persname> 
+	     </origination> 
+      	<abstract label="Abstract">Scrapbook of mostly black and white photographs and memorabilia of animal husbandry related activities at The University of Arizona. 
+      								Includes the Tucson Livestock show, local auctions, judging teams, championship animals, range field trips, veterinary demonstrations, 
+      								various agricultural experiment station farms, private ranches and their owners, and students and faculty. 
+      								Also includes photos of E. B. Stanley, H. B. Thurber, and the Thurber family.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description"><extent>.2 linear feet</extent></physdesc>	 
+	     <repository label="Repository"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+   	        
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Ernest Brooke Stanley scrapbook (AZ 379). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as gift of E. B. Stanley, 1978.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo> 
+      <scopecontent encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Scrapbook of mostly black and white photographs and memorabilia of animal husbandry related activities at The University of Arizona. Includes the Tucson Livestock show,
+      	local auctions, judging teams, championship animals, range field trips, veterinary demonstrations, various agricultural experiment station farms, private ranches and
+      	their owners, and students and faculty. Also includes photos of E. B. Stanley, H. B. Thurber, and the Thurber family.</p> 
+      </scopecontent>
+      <controlaccess>
+         <corpname>University of Arizona -- Agricultural Experiment Station.</corpname><corpname>University of Arizona -- College of Agriculture.</corpname><corpname>University of Arizona -- Faculty.</corpname><corpname>University of Arizona -- History.</corpname><corpname>University of Arizona -- Students.</corpname><subject>Livestock exhibitions -- Arizona -- Tucson.</subject><subject>Ranches -- Arizona.</subject></controlaccess>
+   </archdesc>
+</ead>

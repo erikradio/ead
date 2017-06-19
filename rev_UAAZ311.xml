@@ -1,0 +1,528 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid encodinganalog="856$u">UAAZ311</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Francis Henry Hereford papers, 
+		  <date>1877-1929 (bulk 1890-1919)</date></titleproper>
+		<author encodinganalog="245$c">Inventory prepared by Phyllis
+		  Ball</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp 
+		<date>August 6, 2002</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-19">2017-06-19</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Francis Henry Hereford papers, 
+		<date>1877-1929 (bulk 1890-1919)</date></titleproper> 
+	 <num>Collection Number: AZ 311</num> 
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Phyllis Ball</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1973</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jennie Stapp</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Francis Henry
+		Hereford papers, 
+		<unitdate normal="" type="inclusive">1877-1929 (bulk
+		  1890-1919)</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">AZ 311 </unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Hereford, Francis Henry,
+		  1861-1928</persname></origination> 
+	 <abstract label="Abstract">This collection contains correspondence, legal
+		papers, and financial records relating to his law practice, chiefly
+		correspondence between Hereford and the various mining corporations, land and
+		cattle companies he represented. Some correspondence relates to the San Pedro
+		Land Grant.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">1.4 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona </addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Francis Henry Hereford papers(AZ 311). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Francis Henry Hereford was an attorney in Tucson, Ariz.; he served as
+		Pima County District Attorney from 1882-1895 and was a delegate to the first
+		State Constitutional Convention. Hereford specialized in mining and corporation
+		law and was an attorney for several mining companies in southern Arizona.</p> 
+  </bioghist> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This collection contains correspondence, legal papers, and financial
+		records relating to his law practice, chiefly correspondence between Hereford
+		and the various mining corporations, land and cattle companies he represented.
+		Some correspondence relates to the San Pedro Land Grant. Additional material
+		concerns political interests, including correspondence from the Tritle family;
+		family history; and Indian depredation claims involving Solomon Warner, Thomas
+		Gardiner, H.C. Hooker, the Aguirre family, and others. Also included are school
+		enrollment statistics for Tucson schools, 1919; and blueprint maps and
+		newspaper clippings concerning a 1915 widening of 6th Avenue in Tucson.</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <persname>Hereford, Francis Henry, 1861-1928 --
+			 Archives</persname><persname>Zeckendorf, Louis, 1838-
+			 </persname><persname>Vail, Walter L.,
+			 1852-1906</persname><famname>Tritle family --
+			 Correspondence</famname><corpname>Southern Pacific Company -- Records and
+			 correspondence</corpname><corpname>Baboquivari Land and Cattle Company --
+			 Records and correspondence</corpname><corpname>San Pedro Cattle Company -- Records and
+			 correspondence</corpname><corpname>Calumet &amp; Arizona Mining Company --
+			 Records and correspondence</corpname><corpname>New Cornelia Copper Company -- Records
+			 and correspondence</corpname><corpname>Greene Cattle Company -- Records and
+			 correspondence</corpname><corpname>Cañada del Oro Mines -- Records
+			 and correspondence</corpname><corpname>Tucson Mining and Smelting Company --
+			 Records and correspondence</corpname><corpname>Crittenden Land and Cattle Company --
+			 Records and correspondence</corpname><corpname>Mammoth-Collins Gold Mines, Ltd. --
+			 Records and correspondence</corpname><corpname>Mammoth Cyanide Company -- Records and
+			 correspondence</corpname><corpname>Wedge Mining Company -- Records and
+			 correspondence</corpname><subject>Lawyers -- Arizona</subject><subject>Mines and mineral resources -- Arizona -- History --
+			 Sources</subject><subject>Land titles -- Arizona -- History -- Sources</subject><subject>Indians of North America -- Arizona -- Claims</subject><subject>Strikes and lockouts -- Copper mining --
+			 Arizona</subject><subject>Mining corporations -- Arizona -- History --
+			 Sources</subject><subject>Graham-Tewksbury Feud</subject><subject>San Pedro Land Grant</subject><subject>Schools -- Arizona -- Tucson</subject><subject>Streets -- Arizona -- Tucson</subject><geogname>Arizona -- Politics and government -- To
+			 1950</geogname><geogname>Empire Mine (Santa Cruz County, Ariz.)</geogname><geogname>Rosemont Mine (Pima County, Ariz.) </geogname><geogname>Montana Mine (Santa Cruz County, Ariz.) </geogname><genreform>Correspondence</genreform><genreform>Bills</genreform><genreform>Stock certificates</genreform></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="file"> 
+		<did> <container id="dd201d51-a1b5-4cb2-bf8d-3ed294b2e9a3" type="box">1</container> <container parent="dd201d51-a1b5-4cb2-bf8d-3ed294b2e9a3" type="folder">1</container> 
+		  <unittitle>Baboquivari Land and Cattle Company, George H. Appel , A.
+			 Hemme, M. King. 
+			 <unitdate normal="1895/1916" type="inclusive">1895-1916</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="4956884a-aaed-432d-928e-180e66cc30bb" type="box">1</container> <container parent="4956884a-aaed-432d-928e-180e66cc30bb" type="folder">2</container> 
+		  <unittitle>Salero Livestock and Land Company, Lucas and Wise, Lazear
+			 and Orr. 
+			 <unitdate normal="1897" type="inclusive">1897</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="aa20e310-d033-468e-a72e-36e104a11628" type="box">1</container> <container parent="aa20e310-d033-468e-a72e-36e104a11628" type="folder">3</container> 
+		  <unittitle>San Pedro Cattle Company, A. N. Schuster, F. C. McKinney, W.
+			 H. Dowe. 
+			 <unitdate normal="1890/1895" type="inclusive">1890-1895</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="5a598573-d0f3-44b8-ba1e-6bcdda73ffa4" type="box">1</container> <container parent="5a598573-d0f3-44b8-ba1e-6bcdda73ffa4" type="folder">4</container> 
+		  <unittitle>San Pedro Grant. 
+			 <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="68cfc7fe-2562-4604-8568-bb210512b4b5" type="box">1</container> <container parent="68cfc7fe-2562-4604-8568-bb210512b4b5" type="folder">5</container> 
+		  <unittitle>Southern Pacific Cases. 
+			 <unitdate normal="1888/1897" type="inclusive">1888-1897</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="5302331c-bd50-4954-8c20-e50fd3299675" type="box">1</container> <container parent="5302331c-bd50-4954-8c20-e50fd3299675" type="folder">6</container> 
+		  <unittitle>Tewksbury Case. 
+			 <unitdate normal="1893/1894" type="inclusive">1893-1894</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="83b2df1f-bd66-4c21-94c2-5c7519230234" type="box">1</container> <container parent="83b2df1f-bd66-4c21-94c2-5c7519230234" type="folder">7-9</container> 
+		  <unittitle>Correspondence: General. 
+			 <unitdate normal="1888/1929" type="inclusive">1888-1929</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="dd00d11d-f154-405d-9e34-44edb31521c3" type="box">1</container> <container parent="dd00d11d-f154-405d-9e34-44edb31521c3" type="folder">10</container> 
+		  <unittitle>Correspondence: Miscellaneous Mining. 
+			 <unitdate normal="1892/1925" type="inclusive">1892-1925</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="8b945053-7037-484d-a96e-9b2d3451d879" type="box">1</container> <container parent="8b945053-7037-484d-a96e-9b2d3451d879" type="folder">11</container> 
+		  <unittitle>Legal Correspondence: H. W. Blaisdell land case. 
+			 <unitdate normal="1888/1889" type="inclusive">1888-1889</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="d02df8bf-a058-4246-b984-a313f6621b25" type="box">1</container> <container parent="d02df8bf-a058-4246-b984-a313f6621b25" type="folder">11</container> 
+		  <unittitle>Legal Correspondence: Walter Vail various cases. 
+			 <unitdate normal="1890/1897" type="inclusive">1890-1897</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="6c039e60-a19a-4c01-8204-b13dc28cb0cd" type="box">1</container> <container parent="6c039e60-a19a-4c01-8204-b13dc28cb0cd" type="folder">11</container> 
+		  <unittitle>Legal Correspondence: Joseph Parke murdered at Ft. Huachuca.
+			 
+			 <unitdate normal="1893/1894" type="inclusive">1893-1894</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="63231f98-6926-4fd5-938c-7fd1c2215013" type="box">1</container> <container parent="63231f98-6926-4fd5-938c-7fd1c2215013" type="folder">11</container> 
+		  <unittitle>Legal Correspondence: Estate of Charles Myers. 
+			 <unitdate normal="1894/1895" type="inclusive">1894-1895</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="688b09fd-b72b-4a2c-ae46-532fbb76393b" type="box">1</container> <container parent="688b09fd-b72b-4a2c-ae46-532fbb76393b" type="folder">11</container> 
+		  <unittitle>Legal Correspondence: G. H. Wadleigh land case. 
+			 <unitdate normal="1894/1896" type="inclusive">1894-1896</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="eef17713-9763-4af9-9270-5b3cb602f70b" type="box">1</container> <container parent="eef17713-9763-4af9-9270-5b3cb602f70b" type="folder">11</container> 
+		  <unittitle>Legal Correspondence: J. C. Johnson vs. E. N. Fish. 
+			 <unitdate normal="1895/1896" type="inclusive">1895-1896</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="8f81cedd-c6e2-42ce-b237-9d84eca1674e" type="box">1</container> <container parent="8f81cedd-c6e2-42ce-b237-9d84eca1674e" type="folder">11</container> 
+		  <unittitle>Legal Correspondence: James Scow regarding price of
+			 agricultural products. 
+			 <unitdate normal="1895/1896" type="inclusive">1895-1896</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="8e5a0a97-48d7-47e6-971c-024615ad6826" type="box">1</container> <container parent="8e5a0a97-48d7-47e6-971c-024615ad6826" type="folder">11</container> 
+		  <unittitle>Legal Correspondence: Toppy Johnson regarding property in
+			 Phoenix. 
+			 <unitdate normal="1895/1897" type="inclusive">1895-1897</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="7137fe9c-f3fc-4bdb-9a85-79dd65c40eca" type="box">1</container> <container parent="7137fe9c-f3fc-4bdb-9a85-79dd65c40eca" type="folder">12</container> 
+		  <unittitle>Correspondence: Political. 
+			 <unitdate normal="1888/1925" type="inclusive">1888-1925</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="2b3e6d22-39ad-434e-ae4d-25553c6dd25a" type="box">1</container> <container parent="2b3e6d22-39ad-434e-ae4d-25553c6dd25a" type="folder">13</container> 
+		  <unittitle>Correspondence: Julia R. Charoleau regarding the estate of
+			 Paul Rebeil. 
+			 <unitdate normal="1897" type="inclusive">1897</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="395ea1a3-82f1-486d-80c8-2a2c3dd1aaae" type="box">1</container> <container parent="395ea1a3-82f1-486d-80c8-2a2c3dd1aaae" type="folder">14</container> 
+		  <unittitle>Correspondence: Adeline Hereford. 
+			 <unitdate normal="1902/1922" type="inclusive">1902-1922</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="09adc342-d166-4855-b749-c10b3517d37e" type="box">1</container> <container parent="09adc342-d166-4855-b749-c10b3517d37e" type="folder">15</container> 
+		  <unittitle>Correspondence: Tritle Family. 
+			 <unitdate normal="1895/1926" type="inclusive">1895-1926</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="8c8f9984-fde7-4b94-bc0b-2feefb5fad02" type="box">1</container> <container parent="8c8f9984-fde7-4b94-bc0b-2feefb5fad02" type="folder">16</container> 
+		  <unittitle>Correspondence and tax receipts for Hereford Property. 
+			 <unitdate normal="1888/1897" type="inclusive">1888-1897</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="b1773634-28f6-45dc-a979-76940e11e870" type="box">1</container> <container parent="b1773634-28f6-45dc-a979-76940e11e870" type="folder">17</container> 
+		  <unittitle>Personal bills and receipts. 
+			 <unitdate normal="NaN/1898" type="inclusive">1888,
+				1890-1898</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="b0ce95ee-7e21-484b-9da9-388ba5118e92" type="box">1</container> <container parent="b0ce95ee-7e21-484b-9da9-388ba5118e92" type="folder">18</container> 
+		  <unittitle>Miscellaneous personal items. </unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="cc977b48-c439-4707-977d-2aa2899a963d" type="box">2</container> <container parent="cc977b48-c439-4707-977d-2aa2899a963d" type="folder">1</container> 
+		  <unittitle>Bonanza de Cobre Mining Company, Esperanza, Galena and
+			 protections claims. 
+			 <unitdate normal="" type="inclusive">1907-1909, 1913,
+				1928</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="d0d42d88-9adf-49b4-a193-cafd560df483" type="box">2</container> <container parent="d0d42d88-9adf-49b4-a193-cafd560df483" type="folder">2</container> 
+		  <unittitle>Calumet and Arizona Mining Company and New Cornelia Copper
+			 Company. 
+			 <unitdate normal="1905/1919" type="inclusive">1905-1919</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="024d40df-693f-457b-8e0a-320ae863df00" type="box">2</container> <container parent="024d40df-693f-457b-8e0a-320ae863df00" type="folder">3</container> 
+		  <unittitle>Arizona Rare Metals Company. 
+			 <unitdate normal="" type="inclusive">1914-1919,
+				1923</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="cfe5a153-e13f-449f-bd1c-81974545f9b4" type="box">2</container> <container parent="cfe5a153-e13f-449f-bd1c-81974545f9b4" type="folder">4</container> 
+		  <unittitle>Molybdenum Products Company: Correspondence. 
+			 <unitdate normal="1916/1918" type="inclusive">1916-1918</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="dd9bf8c2-ba33-41da-8758-dd48934fdb0b" type="box">2</container> <container parent="dd9bf8c2-ba33-41da-8758-dd48934fdb0b" type="folder">5</container> 
+		  <unittitle>Molybdenum Products Company: Legal papers. 
+			 <unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="10972d72-b870-4d51-862b-64ca6d15a6ab" type="box">2</container> <container parent="10972d72-b870-4d51-862b-64ca6d15a6ab" type="folder">6</container> 
+		  <unittitle>Molybdenum Products Company: Stock Book. </unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="eade9574-ca35-4403-88be-a9c5e9ce5b3b" type="box">2</container> <container parent="eade9574-ca35-4403-88be-a9c5e9ce5b3b" type="folder">7</container> 
+		  <unittitle>Mammoth-Collins Gold Mines Company: Legal papers. 
+			 <unitdate normal="1899/1902" type="inclusive">1899-1902</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="b82ca386-e3da-4ea2-9eeb-ba8cf7d3950c" type="box">2</container> <container parent="b82ca386-e3da-4ea2-9eeb-ba8cf7d3950c" type="folder">8</container> 
+		  <unittitle>Mammoth Cyanide Company. 
+			 <unitdate normal="1899/1903" type="inclusive">1899-1903</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="faa4d1d6-6ca8-493a-a6bd-16c3e2897776" type="box">2</container> <container parent="faa4d1d6-6ca8-493a-a6bd-16c3e2897776" type="folder">9</container> 
+		  <unittitle>Wedge Mining Company: Stock Ledger. 
+			 <unitdate normal="1882/1885" type="inclusive">1882-1885</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="32db3e6f-c36d-4f9e-a078-df0b2ac8c4ef" type="box">2</container> <container parent="32db3e6f-c36d-4f9e-a078-df0b2ac8c4ef" type="folder">10</container> 
+		  <unittitle>Greene Cattle Company: Memo of Abstracts of San Pedro Grant,
+			 San Rafael del Valle Grant, Babocamari Grant, Brief of Appellant. 
+			 <unitdate normal="1908" type="inclusive">1908</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="7d5a0b42-5a9f-4c37-9a04-177f710a1de0" type="box">2</container> <container parent="7d5a0b42-5a9f-4c37-9a04-177f710a1de0" type="folder">11</container> 
+		  <unittitle>Miscellaneous mining papers. </unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Includes: </p> 
+		  <list> 
+			 <item>Articles of Incorporation of the Reward Mining and Smelting
+				Company, 1892</item> 
+			 <item>Articles of Incorporation of the Virginia Mining and Smelting
+				Company, 1897</item> 
+			 <item>Articles of Incorporation of the Arizona Smelting and
+				Molybdenum Company, 1917</item> 
+			 <item>A mineral patent for a claim in Greaterville Mining District,
+				Pima Co., 1910 </item> 
+			 <item>Reports on various mines, etc.</item> 
+		  </list> 
+		</scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="b43431bc-15f0-401a-a3c8-96e5d76432b5" type="box">3</container> <container parent="b43431bc-15f0-401a-a3c8-96e5d76432b5" type="folder">1</container> 
+		  <unittitle>Canada del Oro Mines, Ltd. and Tucson Mining and Smelting
+			 Company, Ltd., J. D. Burgess, Richard Hamilton, F. C. Beckwith, Miltenbert
+			 suit. 
+			 <unitdate normal="1892/1897" type="inclusive">1892-1897</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="8c691b27-a0b8-4f42-b63a-3e99af256944" type="box">3</container> <container parent="8c691b27-a0b8-4f42-b63a-3e99af256944" type="folder">2</container> 
+		  <unittitle>Crittenden Land and Cattle Company, R. R. Richardson. 
+			 <unitdate normal="" type="inclusive">1892-1897,
+				1916-1919</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="d338fd51-1a7e-4228-a579-53067868e5cb" type="box">3</container> <container parent="d338fd51-1a7e-4228-a579-53067868e5cb" type="folder">3</container> 
+		  <unittitle>Empire Mine. 
+			 <unitdate normal="1889/1897" type="inclusive">1889-1897</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="21f5afc4-b652-4653-be65-32374ddbd9fa" type="box">3</container> <container parent="21f5afc4-b652-4653-be65-32374ddbd9fa" type="folder">4</container> 
+		  <unittitle>Gunsight Mining and Milling Company, C. G. Deatherage. 
+			 <unitdate normal="1895/1896" type="inclusive">1895-1896</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="90d29ed0-4165-4a72-bf86-aa474900655b" type="box">3</container> <container parent="90d29ed0-4165-4a72-bf86-aa474900655b" type="folder">5</container> 
+		  <unittitle>Montana Mine, Louise Zeckendorf. 
+			 <unitdate normal="1889/1917" type="inclusive">1889-1917</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="d73ba67f-0c5b-42a9-b509-a6f40d3cc8b7" type="box">3</container> <container parent="d73ba67f-0c5b-42a9-b509-a6f40d3cc8b7" type="folder">6</container> 
+		  <unittitle>Rosemont Copper Mines, George L. Thompson, Lewisohn Bros. 
+			 <unitdate normal="1896/1897" type="inclusive">1896-1897</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="0d22466d-c74d-4f88-b4ba-43c001258367" type="box">3</container> <container parent="0d22466d-c74d-4f88-b4ba-43c001258367" type="folder">7</container> 
+		  <unittitle>Indian Claims Cases. 
+			 <unitdate normal="1888/1898" type="inclusive">1888-1898</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Includes Solomon Warner, Thomas Gardiner, Aguirre family, H. C.
+			 Hooker, and others. Claims for Indian depredations. </p> 
+		</scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="72d1a656-a506-47a5-9917-17ca48603bd9" type="box">3</container> <container parent="72d1a656-a506-47a5-9917-17ca48603bd9" type="folder">8</container> 
+		  <unittitle>Tucson Public Schools: Miscellaneous material. 
+			 <unitdate normal="1919" type="inclusive">1919</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="9a42a64d-5950-4d9e-badb-63ca48694a39" type="box">3</container> <container parent="9a42a64d-5950-4d9e-badb-63ca48694a39" type="folder">9</container> 
+		  <unittitle>Tucson 6th Avenue Widening. 
+			 <unitdate normal="1915" type="inclusive">1915</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="5b80a726-5d2e-414d-a041-c57608deb570" type="box">3</container> <container parent="5b80a726-5d2e-414d-a041-c57608deb570" type="folder">10</container> 
+		  <unittitle>Manuscript on Mining Laws. </unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="53e06033-6e44-43dd-bdfd-431c78b9f24c" type="box">3</container> <container parent="53e06033-6e44-43dd-bdfd-431c78b9f24c" type="folder">11</container> 
+		  <unittitle>Miscellaneous items. </unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Includes 
+			 <list> 
+				<item>Francis H. Hereford Tax Titles</item> 
+				<item>Scrip Book 2</item> 
+				<item>Miscellaneous items on the Colorado River</item> 
+				<item>Document on the settlement of the Ls Osa Cattle Company,
+				  1913</item> 
+				<item>Unidentified fragments on a financial transaction</item> 
+			 </list></p> 
+		</scopecontent> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="3bf0831d-14f6-4508-bd75-3819e229f643" type="box">4</container> 
+		  <unittitle>Benjamin H. Hereford: Certificate as Attorney of the Supreme
+			 Court of the Territory of Arizona. Signed by Joseph Neugass, Clerk of the
+			 Supreme Court, A. T. 
+			 <unitdate normal="1877" type="inclusive">January 3,
+				1877</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="ea9eaaa8-bb34-420f-acd5-e8ea92da1af9" type="box">4</container> 
+		  <unittitle>Benjamin H. Hereford: Certificate of appointment as Notary
+			 Public of Pima County. Signed by J. C. Fremont, Governor of Territory of
+			 Arizona. 
+			 <unitdate normal="1881" type="inclusive">March 7,
+				1881</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="4c120df5-21ea-444b-9b30-f0d63b9ace6a" type="box">4</container> 
+		  <unittitle>Benjamin H. Hereford: Certificate of election as District
+			 Attorney of Pima County. Signed by William J. Osborn, Clerk of Pima County
+			 Board of Supervisors. 
+			 <unitdate normal="1884" type="inclusive">November 17,
+				1884</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="9d4c665d-c058-43d6-bf78-ccd19392adb2" type="box">4</container> 
+		  <unittitle>Frank H. Hereford: Certificate to practice in the Supreme
+			 Court and other courts of the Territory of Arizona. Signed by E. H. Cook for E.
+			 B. Dodge, Clerk of the Supreme Court, A. T. 
+			 <unitdate normal="1886" type="inclusive">July 8,
+				1886</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="318e4d2f-6283-4316-9fce-852967accd93" type="box">4</container> 
+		  <unittitle>Frank H. Hereford: Certificate of election as delegate to
+			 the Constitutional Convention of Arizona, representing Pima County. Signed by
+			 N. O. Murphy, Secretary of Arizona. 
+			 <unitdate normal="1891" type="inclusive">June 18,
+				1891</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="176dae75-7049-4ebe-af4b-33579cff1f9e" type="box">4</container> 
+		  <unittitle>Frank H. Hereford: Certificate as Attorney and Counsellor of
+			 the U. S. Supreme Court. Signed by James H. McKenney, Clerk of the U. S.
+			 Supreme Court. 
+			 <unitdate normal="1907" type="inclusive">March 1,
+				1907</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="293e0dd1-6783-43e8-9072-11e87be37bb8" type="box">4</container> 
+		  <unittitle>Frank H. Hereford: Certificate to practice in the Supreme
+			 Court and other courts of the Territory of Arizona. Signed by C. F. Leonard,
+			 Clerk of the Supreme Court, Arizona. 
+			 <unitdate normal="1914" type="inclusive">January 24,
+				1914</unitdate></unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="file"> 
+		<did> <container id="0f74a058-0925-498d-96b2-fd16eed134a6" type="box">4</container> 
+		  <unittitle>Frank H. Hereford: Certificate as proctor, advocate,
+			 attorney, solicitor and counsellor of the U. S. District Court, in and for the
+			 southern district of California. Signed by T. F. Green for William. M. Van
+			 Dyke, Clerk of the Court. 
+			 <unitdate normal="1917" type="inclusive">December 14,
+				1917</unitdate></unittitle> 
+		</did> 
+	 </c01>
+  </dsc> 
+</archdesc></ead>
