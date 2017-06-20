@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+   <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+      <eadid encodinganalog="852">UAMS263</eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Account Book of the Old Abe Co.
+	 	       <date calendar="gregorian" certainty="approximate" era="ce" normal="1890/1891" type="inclusive">1890-1891</date>
+	 	       
+	 	    </titleproper>
+         	<titleproper altrender="nodisplay" type="filing"> Account Book of the Old Abe Co.
+	 	    
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date calendar="gregorian" era="ce" normal="2016">2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date encodinganalog="date" era="ce" normal="20160427">April 27, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   <revisiondesc><change><date normal="2017-06-20">2017-06-20</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+   <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+      <did> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name"> Account Book of the Old Abe Co.
+            <unitdate label="Dates" normal="1890/1891" type="inclusive">1890-1891</unitdate>
+  	     </unittitle>	 
+	     <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 263</unitid>
+	     <origination label="Creator"> 
+            <corpname encodinganalog="110" source="lcnaf">Old Abe Co.</corpname> 
+	     </origination> 
+      	<abstract label="Abstract">The Old Abe mine, in White Oaks, New Mexico, produced a million dollars worth of gold from one of the deepest dry mines in the world. Its true vein 
+      								was discovered in 1890 by William Watson, who shared ownership with seven other people, named in the back of the book. One volume, lists dividends, 
+      								expenses and receipts from 1890-1891. It is accompanied by photocopies of five articles from the Lincoln County (N.M.) News, from 1956-1958, relating 
+      								the history of the mine and the area.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description"><extent>.1 linear feet</extent></physdesc>	 
+	     <repository label="Repository"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+   	        
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Account Book of the Old Abe Co. (MS 263). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as gift, 1964.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>The Old Abe mine, in White Oaks, New Mexico, produced a million dollars worth of gold from one of the deepest dry mines in the world. Its true vein was discovered in 1890 
+      	by William Watson, who shared ownership with seven other people, named in the back of the book.</p> 
+      </bioghist> 
+      <scopecontent encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>One volume, lists dividends, expenses and receipts from 1890-1891. It is accompanied by photocopies of five articles from the Lincoln County (N.M.) News, from 1956-1958, 
+      	relating the history of the mine and the area.</p> 
+      </scopecontent> 
+      <controlaccess>
+         <persname>Watson, William.</persname><corpname>Old Abe Co.</corpname><subject>Gold mines and mining -- New Mexico -- White Oaks.</subject><subject>Mines and mineral resources -- New Mexico -- Lincoln County -- History.</subject><geogname>Lincoln County (N.M.) -- History.</geogname><geogname>Old Abe Mine -- History.</geogname><geogname>White Oaks (N.M.) -- History.</geogname></controlaccess>
+   </archdesc>
+</ead>

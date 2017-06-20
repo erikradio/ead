@@ -1,0 +1,843 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">UAMS057</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Maurice G. Fulton papers, 
+		  <date>1829-1955</date></titleproper>
+		<author encodinganalog="245$c">Inventory prepared by Myk Reid.</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Inventory encoded by Teri Clem.
+		<date>January 2002</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-20">2017-06-20</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">Maurice G. Fulton papers, 
+		<date>1829-1955</date></titleproper>
+	 <num>Collection Number: MS 057</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Myk Reid</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>June 1983</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Teri Clem</item>
+		</defitem>
+	 </list>
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did>
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Number">Maurice G.
+		Fulton papers, 
+		<unitdate normal="1829/1955" type="inclusive">1829-1955 (bulk
+		  1870-1954)</unitdate></unittitle>
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 057</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Fulton, Maurice G. (Maurice Garland),
+		  1877-1955</persname></origination>
+	 <abstract> Mainly comprised of historical materials on New Mexico, written
+		or collected by Maurice Garland Fulton. Items include typescript drafts of
+		books, correspondence, nineteenth century newspapers, newspaper articles, maps,
+		audio-visual materials, diaries, poems, biographical sketches, legal documents,
+		pamphlets, and photographs.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">13 linear feet</extent></physdesc>
+	 <repository label="Repository">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p>Maurice G. Fulton papers(MS 057). Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head>
+	 <p>Southwestern historian and English professor.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into nine series:</p> 
+	 <list> 
+		<item>Series I: Correspondence, 1904-1955 (bulk 1926-1953) </item> 
+		<item>Series II: Josiah Gregg, 1829-1941 (bulk 1842-1849) </item>
+		<item>Series III: Irwin Russell, 1875-1918 </item>
+		<item>Series IV: Miscellaneous New Mexico History, 1842-1953 </item>
+		<item>Series V: Lincoln County War, 1855-1954 </item>
+		<item>Series VI: Billy the Kid, 1878-1954</item>
+		<item>Series VII: Clippings and Articles, 1829- 1954 </item>
+		<item>Series VIII: Photographs, 1860s-1950s </item>
+		<item>Series IX: 
+		  <title render="italic">New Mexico's Own Chronicle</title>, 1930s</item>
+	 </list> 
+  </arrangement>
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p> Mainly comprised of historical materials on New Mexico, written or
+		collected by Maurice Garland Fulton. Items include typescript drafts of books,
+		correspondence, nineteenth century newspapers, newspaper articles, maps,
+		audio-visual materials, diaries, poems, biographical sketches, legal documents,
+		pamphlets, and photographs. Some material is original, while some is
+		photomechanically reproduced. Fulton's research documented the lives of men
+		such as the Santa Fe trader Josiah Gregg; Southern poet Irwin Russell; cattle
+		baron John S. Chisum, English entrepreneur John H. Tunstall, Governor Lew
+		Wallace, and outlaw Billy the Kid. As part of his studies on the settlement of
+		the Pecos River Valley, and also the Lincoln County War, Fulton compiled
+		information on many of the local families. Photographs depict named and
+		anonymous individuals; groups such as cowboys; gravestones; and different
+		localities throughout New Mexico, particularly Lincoln and Roswell.</p> 
+	 <p>Includes annotated copy of Mary L. Moore's M.A. thesis inventory on the
+		collection, which contains background information on Fulton, a bibliography,
+		and detailed item descriptions.</p>
+  </scopecontent> 
+  <controlaccess>
+	 <persname>Fulton, Maurice G. (Maurice Garland),
+			 1877-1955 -- Archives</persname><persname>Russell, Irwin,
+			 1853-1879</persname><persname>Gregg, Josiah,
+			 1806-1850</persname><persname>Wallace, Lew,
+			 1827-1905</persname><persname>Chisum, John Simpson,
+			 1824-1884</persname><persname>Tunstall, John Henry,
+			 1853-1878</persname><persname>Billy, the Kid</persname><subject>Pioneers -- New Mexico -- Photographs</subject><subject>American newspapers -- New Mexico -- History -- 19th century
+			 -- Specimens</subject><subject>Lincoln County War, 1878</subject><subject>Frontier and pioneer life -- New Mexico -- Lincoln
+			 County</subject><geogname>Lincoln (N.M.)</geogname><geogname>Roswell (N.M.)</geogname><geogname>Fort Sumner (N.M.) -- Maps</geogname><geogname>Pecos River Valley (N.M. and Tex.)</geogname><geogname>New Mexico -- History</geogname><genreform>Correspondence</genreform><genreform>Diaries</genreform><genreform>Photographs</genreform><genreform>Manuscripts</genreform><genreform>Newspapers</genreform></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series I: Correspondence, 
+			 <unitdate normal="1904/1955" type="inclusive">1904-1955 (bulk
+				1926-1953)</unitdate></unittitle> 
+		</did> 
+		<c02>
+		  <did><container id="bb6e809e-530e-43d0-b793-238159a670ab" type="box">1</container>
+			 <unittitle>Correspondence, A-E. 
+				<unitdate normal="1904/1955" type="inclusive">1904-1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="b0642f6f-ec93-428f-b64b-9cb8bdec64ec" type="box">2</container>
+			 <unittitle>Correspondence, F-K. 
+				<unitdate normal="1904/1955" type="inclusive">1904-1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="e876d1e8-1c34-4940-9d0e-e5efbe5b3d5e" type="box">3</container>
+			 <unittitle>Correspondence, L-M. 
+				<unitdate normal="1904/1955" type="inclusive">1904-1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="08a085d0-9d5b-4a21-9670-d82f4807f438" type="box" >4</container>
+				<unittitle>Correspondence, N-Z. 
+				  <unitdate normal="1904/1955" type="inclusive">1904-1955</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01> 
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series II: Josiah Gregg, 
+			 <unitdate normal="1829/1941" type="inclusive">1829-1941 (bulk
+				1842-1849)</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container id="8cb448b7-1d6a-482a-b56e-c0cd2dd57250" type="box">5</container><container parent="8cb448b7-1d6a-482a-b56e-c0cd2dd57250" type="folder">1</container>
+			 <unittitle>Letters (photostats, typescripts). 
+				<unitdate normal="1829/1941" type="inclusive">1829-1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="3ace2951-e813-436b-ae5a-1676e32ff0c4" type="box">5</container><container parent="3ace2951-e813-436b-ae5a-1676e32ff0c4" type="folder">2</container>
+			 <unittitle>Memoranda (Independence, Mo.). 
+				<unitdate normal="1846" type="inclusive">1846</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="be3c0da9-d40b-4e6d-ada7-74a5a5afa3b5" type="box">5</container><container parent="be3c0da9-d40b-4e6d-ada7-74a5a5afa3b5" type="folder">3</container>
+			 <unittitle>Articles written by Josiah Gregg. 
+				<unitdate normal="1829/1941" type="inclusive">1829-1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="3bb03840-8602-44e4-b96e-b9d0f509a765" type="box">5</container><container parent="3bb03840-8602-44e4-b96e-b9d0f509a765" type="folder">4</container>
+			 <unittitle>Articles written about Josiah Gregg. 
+				<unitdate normal="1829/1941" type="inclusive">1829-1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="1dc3537f-2efd-474c-9a92-cdf57a7f6eb6" type="box">5</container><container parent="1dc3537f-2efd-474c-9a92-cdf57a7f6eb6" type="folder">5</container>
+			 <unittitle>Miscellaneous notes, etc. 
+				<unitdate normal="1829/1941" type="inclusive">1829-1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="e4839a77-eda2-422b-aff2-93e4b4168356" type="box">5</container><container parent="e4839a77-eda2-422b-aff2-93e4b4168356" type="folder">6</container>
+			 <unittitle>Diary and Letters (drafts of parts).
+				<unitdate normal="1829/1941" type="inclusive">1829-1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="5c0e0383-c459-40d9-99d2-7562485535e8" type="box">6</container><container parent="5c0e0383-c459-40d9-99d2-7562485535e8" type="folder">1</container>
+			 <unittitle>Diary and Letters (Indices, Table of Contents, footnote
+				cards). 
+				<unitdate normal="1829/1941" type="inclusive">1829-1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="385f0022-ba72-45ef-b0bd-cd4342c28753" type="box">6</container><container parent="385f0022-ba72-45ef-b0bd-cd4342c28753" type="folder">2</container>
+			 <unittitle>Diary and Letters (Photostats of maps, illus., and
+				photographs). 
+				<unitdate normal="1829/1941" type="inclusive">1829-1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="3cf0e827-d41b-4280-9f5a-ba57635f11ee" type="box">6</container><container parent="3cf0e827-d41b-4280-9f5a-ba57635f11ee" type="folder">3</container>
+			 <unittitle>Diary and Letters (v.1 final typescript draft). 
+				<unitdate normal="1829/1941" type="inclusive">1829-1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="303c4b12-afc0-48de-89c8-ae8780b49d4f" type="box">6</container><container parent="303c4b12-afc0-48de-89c8-ae8780b49d4f" type="folder">4</container>
+			 <unittitle>Diary and Letters (v.1 unbound printed copy). 
+				<unitdate normal="1829/1941" type="inclusive">1829-1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="e3696ff3-07d1-41f9-a35a-53a4c5c42590" type="box">6</container><container parent="e3696ff3-07d1-41f9-a35a-53a4c5c42590" type="folder">5</container>
+			 <unittitle>Diary and Letters (Reviews). 
+				<unitdate normal="1829/1941" type="inclusive">1829-1941</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series III: Irwin Russell, 
+			 <unitdate normal="1857/1918" type="inclusive">1857-1918</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container id="812fbe70-6952-407a-83d0-ea0715e020e1" type="box">7</container><container parent="812fbe70-6952-407a-83d0-ea0715e020e1" type="folder">1-2</container>
+			 <unittitle>Fulton: Mississippi Letters and Sketches. 
+				<unitdate normal="1857/1918" type="inclusive">1857-1918</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="e7ca2dc1-9953-47c7-bcc0-721a7ce7b98c" type="box">7</container><container parent="e7ca2dc1-9953-47c7-bcc0-721a7ce7b98c" type="folder">3</container>
+			 <unittitle>Fulton: Miscellaneous notes on Russell. 
+				<unitdate normal="1857/1918" type="inclusive">1857-1918</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="6fd587ae-4ab4-427b-a2bf-d034e8b8eb36" type="box">7</container><container parent="6fd587ae-4ab4-427b-a2bf-d034e8b8eb36" type="folder">4-5</container>
+			 <unittitle>Fulton: Fragments, Drafts, Notes. 
+				<unitdate normal="1857/1918" type="inclusive">1857-1918</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="8ae0a18b-2951-4a00-a262-257705209752" type="box">7</container><container parent="8ae0a18b-2951-4a00-a262-257705209752" type="folder">6</container>
+			 <unittitle>Fulton: Irwin Russell (completed draft). 
+				<unitdate normal="1857/1918" type="inclusive">1857-1918</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="148908bc-9188-43b8-8be9-575ad0dabcdc" type="box">8</container><container parent="148908bc-9188-43b8-8be9-575ad0dabcdc" type="folder">1</container>
+			 <unittitle>Irwin Russell: Correspondence. 
+				<unitdate normal="1857/1918" type="inclusive">1857-1918</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="c55a0747-4c5f-42ec-9c2f-0f6d69da290e" type="box">8</container><container parent="c55a0747-4c5f-42ec-9c2f-0f6d69da290e" type="folder">2</container>
+			 <unittitle>Irwin Russell: Poems and Articles. 
+				<unitdate normal="1857/1918" type="inclusive">1857-1918</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="141ddf63-22e8-48c9-af1b-3f5a366cbc2e" type="box">8</container><container parent="141ddf63-22e8-48c9-af1b-3f5a366cbc2e" type="folder">3</container>
+			 <unittitle>Irwin Russell: Materials from 
+				<title>New Orleans Daily Times</title>. 
+				<unitdate normal="1879" type="inclusive">August-December,
+				  1879</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="3116acdb-c47e-4b1f-bef0-e6bf8332b6c7" type="box">8</container><container parent="3116acdb-c47e-4b1f-bef0-e6bf8332b6c7" type="folder">4</container>
+			 <unittitle>Irwin Russell: Articles about Irwin Russell. 
+				<unitdate normal="1857/1918" type="inclusive">1857-1918</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="1a785ea2-76af-4353-b493-9ec79451eca7" type="box">8</container><container parent="1a785ea2-76af-4353-b493-9ec79451eca7" type="folder">5</container>
+			 <unittitle>Irwin Russell: Miscellaneous material (clippings, etc.). 
+				<unitdate normal="1857/1918" type="inclusive">1857-1918</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="2b679ed4-5185-4453-8251-5fbbea2d72af" type="box">8</container><container parent="2b679ed4-5185-4453-8251-5fbbea2d72af" type="folder">6-7</container>
+			 <unittitle>Biographical Sketches A-Z, (Clippings, etc.). 
+				<unitdate normal="1875/1918" type="inclusive">1875-1918</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series IV: Miscellaneous New Mexico History, 
+			 <unitdate normal="1842/1953" type="inclusive">1842-1953</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container id="2c27f736-0406-4573-958b-08e2d72fbf6b" type="box">9</container><container parent="2c27f736-0406-4573-958b-08e2d72fbf6b" type="folder">1-2</container>
+			 <unittitle>Pecos Valley History (miscellaneous notes). 
+				<unitdate normal="1842/1953" type="inclusive">1842-1953</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="a0e893d8-c407-46b6-bdb2-c50e6b23b8f7" type="box">9</container><container parent="a0e893d8-c407-46b6-bdb2-c50e6b23b8f7" type="folder">3-6</container>
+			 <unittitle>Pecos Valley History (notes on articles in Roswell
+				newspapers). 
+				<unitdate normal="1878/1944" type="inclusive">1878-1944</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="b515b329-2691-4345-bcb7-e432d2dacbfc" type="box">9</container><container parent="b515b329-2691-4345-bcb7-e432d2dacbfc" type="folder">7</container>
+			 <unittitle>Pecos Valley History (Newspaper articles, miscellaneous
+				material). 
+				<unitdate normal="1842/1953" type="inclusive">1842-1953</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="d84759e2-4435-4d9b-912e-89f87c97e400" type="box">10</container><container parent="d84759e2-4435-4d9b-912e-89f87c97e400" type="folder">1</container>
+			 <unittitle>Chavez Company Historical and Archaeological Society. 
+				<unitdate normal="1842/1953" type="inclusive">1842-1953</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="4e865a8b-a17b-481b-91ba-b7476ce7f6e5" type="box">10</container><container parent="4e865a8b-a17b-481b-91ba-b7476ce7f6e5" type="folder">2</container>
+			 <unittitle>Old Timers Association (formerly Old Settlers Society). 
+				<unitdate normal="1842/1953" type="inclusive">1842-1953</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="a346afd1-f911-4dee-ad64-880de971be29" type="box">10</container><container parent="a346afd1-f911-4dee-ad64-880de971be29" type="folder">3</container>
+			 <unittitle>New Mexico Military Institute. 
+				<unitdate normal="1842/1953" type="inclusive">1842-1953</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="a8a5d3d1-5e40-49ea-87a3-4cf3a571a207" type="box">10</container><container parent="a8a5d3d1-5e40-49ea-87a3-4cf3a571a207" type="folder">4</container>
+			 <unittitle>Roswell Museum. 
+				<unitdate normal="1842/1953" type="inclusive">1842-1953</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="aced7ca5-1584-4ef6-a537-4f204c0f79f8" type="box">10</container><container parent="aced7ca5-1584-4ef6-a537-4f204c0f79f8" type="folder">5</container>
+			 <unittitle>Roswell (miscellaneous material). 
+				<unitdate normal="1842/1953" type="inclusive">1842-1953</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="96d6f8fc-e80b-4a33-95e5-b0b8979a40aa" type="box">10</container><container parent="96d6f8fc-e80b-4a33-95e5-b0b8979a40aa" type="folder">6-9</container>
+			 <unittitle>Kleinsmith: John Chisum Manuscript (various items). 
+				<unitdate normal="1842/1953" type="inclusive">1842-1953</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="67a3462a-9404-4e11-b6f7-50281e0705dd" type="box">10</container><container parent="67a3462a-9404-4e11-b6f7-50281e0705dd" type="folder">10</container>
+			 <unittitle>John Chisum (miscellaneous notes, etc.). 
+				<unitdate normal="1842/1953" type="inclusive">1842-1953</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series V: Lincoln County War, 
+			 <unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container id="b5e9766b-c8d0-4997-8f7f-7d11059341c4" type="box">11</container><container parent="b5e9766b-c8d0-4997-8f7f-7d11059341c4" type="folder">1</container>
+			 <unittitle>Lincoln County History: Chronologies of Events. 
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="0b12ee94-caae-43d1-9f4c-d60bf8b2b5d6" type="box">11</container><container parent="0b12ee94-caae-43d1-9f4c-d60bf8b2b5d6" type="folder">2</container>
+			 <unittitle>John J. Cockrell: Correspondence. 
+				<unitdate normal="1879/1890" type="inclusive">1879-1890</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="74e339de-a6d9-4ad8-a37e-4b2833332f1d" type="box">11</container><container parent="74e339de-a6d9-4ad8-a37e-4b2833332f1d" type="folder">3</container>
+			 <unittitle>Ash Upton: Biographical and miscellaneous material.
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="5a36df11-5921-4d2c-bd86-35f0f397b210" type="box">11</container><container parent="5a36df11-5921-4d2c-bd86-35f0f397b210" type="folder">4</container>
+			 <unittitle>Ash Upton: Correspondence (to niece Florence Downs Muzzy).
+				
+				<unitdate normal="1866/1887" type="inclusive">1866-1887</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="67c087a1-266f-4b56-8f08-110db351f0e5" type="box">11</container><container parent="67c087a1-266f-4b56-8f08-110db351f0e5" type="folder">5</container>
+			 <unittitle>Ash Upton: Correspondence (to nephew Frank E. Downs). 
+				<unitdate normal="1877/1889" type="inclusive">1877-1889</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="1b7773c4-2590-4e6e-adb4-fa3f4520c9ae" type="box">11</container><container parent="1b7773c4-2590-4e6e-adb4-fa3f4520c9ae" type="folder">6</container>
+			 <unittitle>Ash Upton: Correspondence (miscellaneous). 
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="0f135879-e7b4-4fea-88be-2568931c3b9a" type="box">11</container><container parent="0f135879-e7b4-4fea-88be-2568931c3b9a" type="folder">7-8</container>
+			 <unittitle>Lincoln County Correspondence (miscellaneous). 
+				<unitdate normal="1855/1951" type="inclusive">1855-1951</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="b32db075-2834-4b6a-b644-bc67bd892931" type="box">11</container><container parent="b32db075-2834-4b6a-b644-bc67bd892931" type="folder">9</container>
+			 <unittitle>Miscellaneous Business Records. 
+				<unitdate normal="1873/1900" type="inclusive">1873-1900</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="6f3b3df6-bbb0-49aa-9a3b-1f2038a1fe31" type="box">11</container><container parent="6f3b3df6-bbb0-49aa-9a3b-1f2038a1fe31" type="folder">10</container>
+			 <unittitle>Old Lincoln County Memorial Commission and Lincoln County
+				Museum. 
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="b90ce92c-d15d-451d-bb8d-6a0d7e42ac4a" type="box">11</container><container parent="b90ce92c-d15d-451d-bb8d-6a0d7e42ac4a" type="folder">11</container>
+			 <unittitle>Miscellaneous Lincoln County material. 
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="58c788cd-e762-4f08-86af-5953582ba75e" type="box">12</container><container parent="58c788cd-e762-4f08-86af-5953582ba75e" type="folder">1</container>
+			 <unittitle>War Department Court of Inquiry (Col. Dudley). 
+				<unitdate normal="1878/1879" type="inclusive">1878-1879</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="6c49dfd7-e125-46b3-9fc4-f8fdc120f8da" type="box">12</container><container parent="6c49dfd7-e125-46b3-9fc4-f8fdc120f8da" type="folder">2</container>
+			 <unittitle>Court Records. 
+				<unitdate normal="1872/1917" type="inclusive">1872-1890,
+				  1917</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="6f5b8368-7f72-4747-ad9a-bee43f8b0abf" type="box">12</container><container parent="6f5b8368-7f72-4747-ad9a-bee43f8b0abf" type="folder">3</container>
+			 <unittitle>Miscellaneous Legal Documents. 
+				<unitdate normal="1877/1889" type="inclusive">1877-1889</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="57ec4e03-d750-416b-8937-fe2672585d09" type="box">12</container><container parent="57ec4e03-d750-416b-8937-fe2672585d09" type="folder">4</container>
+			 <unittitle>Real Estate Deeds. 
+				<unitdate normal="1860/1889" type="inclusive">1860-1889</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="38679d3d-b1d4-4dbc-b629-7a234d2f511f" type="box">12</container><container parent="38679d3d-b1d4-4dbc-b629-7a234d2f511f" type="folder">5</container>
+			 <unittitle>Records of various Federal Departments. 
+				<unitdate normal="1875/1882" type="inclusive">1875-1882</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="67b277ad-58e3-49c2-81fd-837a2ee3f737" type="box">12</container><container parent="67b277ad-58e3-49c2-81fd-837a2ee3f737" type="folder">6</container>
+			 <unittitle>Newspaper Articles (
+				<title>Mesilla Valley Independent</title>). 
+				<unitdate normal="1877/1879" type="inclusive">1877-1879</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="7aa9e4d0-90de-4e3f-a18f-75d14478bb48" type="box">12</container><container parent="7aa9e4d0-90de-4e3f-a18f-75d14478bb48" type="folder">7</container>
+			 <unittitle>Newspaper Articles (Typescript copies). 
+				<unitdate normal="1870/1952" type="inclusive">1870-1952</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="882f988a-d1bf-4f52-9c8e-f9643c666773" type="box">12</container><container parent="882f988a-d1bf-4f52-9c8e-f9643c666773" type="folder">8</container>
+			 <unittitle>Newspaper Articles (Various papers). 
+				<unitdate normal="1873/1954" type="inclusive">1873-1884,
+				  1928-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="bde6669b-86f6-4853-b056-34209944e41a" type="box">13</container><container parent="bde6669b-86f6-4853-b056-34209944e41a" type="folder">1-2</container>
+			 <unittitle>Fulton's Notes (Manuscript). 
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="dd42a8a1-62a9-4aef-abb9-0c6fe53658ab" type="box">13</container><container parent="dd42a8a1-62a9-4aef-abb9-0c6fe53658ab" type="folder">3</container>
+			 <unittitle>Fulton's Notes (Manuscript), Col. Dudley. 
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="a7e917f3-9bc2-4927-a043-343e59627970" type="box">13</container><container parent="a7e917f3-9bc2-4927-a043-343e59627970" type="folder">4-5</container>
+			 <unittitle>Fulton's Notes (Typescript). 
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="6aa55ece-9f99-4116-83d6-80e3ecb76f2d" type="box">13</container><container parent="6aa55ece-9f99-4116-83d6-80e3ecb76f2d" type="folder">6</container>
+			 <unittitle>Material from Lew Wallace Collection, Indian Historical
+				Society. 
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="4142d563-6ab0-45bd-843a-91b0cf6afa39" type="box">14</container><container parent="4142d563-6ab0-45bd-843a-91b0cf6afa39" type="folder">1</container>
+			 <unittitle>Inventories of Letter and other materials loaned or given
+				to Fulton. 
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="976b51a3-a311-49f7-97ac-b7017f3dd9f3" type="box">14</container><container parent="976b51a3-a311-49f7-97ac-b7017f3dd9f3" type="folder">2-3</container>
+			 <unittitle>Correspondence (John P. and John H. Tunstall) originals
+				and copies. 
+				<unitdate normal="1874/1878" type="inclusive">1874-1878</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="e513927c-cd2a-447a-8b27-50af19178d46" type="box">14</container><container parent="e513927c-cd2a-447a-8b27-50af19178d46" type="folder">4</container>
+			 <unittitle>Correspondence (Tunstall Family, etc.). 
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="e9f0f4a0-2d7a-409c-ac52-fb5c3982afdd" type="box">14</container><container parent="e9f0f4a0-2d7a-409c-ac52-fb5c3982afdd" type="folder">5</container>
+			 <unittitle>Correspondence (John H. Tunstall to others). 
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="53555331-8fcf-4a7a-9c97-2751a0625e5b" type="box">14</container><container parent="53555331-8fcf-4a7a-9c97-2751a0625e5b" type="folder">6</container>
+			 <unittitle>Diary (John H. Tunstall). 
+				<unitdate normal="1875/1876" type="inclusive">1875-1876</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="db799903-0915-4cb1-9cf0-e4d99439320b" type="box">14</container><container parent="db799903-0915-4cb1-9cf0-e4d99439320b" type="folder">7</container>
+			 <unittitle>Tunstall Estate: various documents. 
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="265181fd-ec51-4c70-b40f-406c9ccf9cf3" type="box">14</container><container parent="265181fd-ec51-4c70-b40f-406c9ccf9cf3" type="folder">8</container>
+			 <unittitle>Miscellaneous Tunstall material. 
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="74293119-5863-465d-9084-bd329f917dfb" type="box">14</container><container parent="74293119-5863-465d-9084-bd329f917dfb" type="folder">9</container>
+			 <unittitle>Photographs. 
+				<unitdate normal="1855/1954" type="inclusive">1855-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series VI: Billy the Kid, 
+			 <unitdate normal="1878/1954" type="inclusive">1878-1954</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container id="f232de08-233b-4547-8fd5-544f9294af04" type="box">15</container><container parent="f232de08-233b-4547-8fd5-544f9294af04" type="folder">1</container>
+			 <unittitle>Billy the Kid: Correspondence with Governor Lew Wallace. 
+				<unitdate normal="1878/1954" type="inclusive">1878-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="c6b531a8-07ed-4077-b323-b88fc9855088" type="box">15</container><container parent="c6b531a8-07ed-4077-b323-b88fc9855088" type="folder">2</container>
+			 <unittitle>Billy the Kid: Fulton Articles. 
+				<unitdate normal="1878/1954" type="inclusive">1878-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="ba5a2e4e-fb76-4aa4-b597-28550c217654" type="box">15</container><container parent="ba5a2e4e-fb76-4aa4-b597-28550c217654" type="folder">3</container>
+			 <unittitle>Billy the Kid: Magazine Articles. 
+				<unitdate normal="1878/1954" type="inclusive">1878-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="0e43e3b4-0492-4b5a-99f2-22b25266f9fd" type="box">15</container><container parent="0e43e3b4-0492-4b5a-99f2-22b25266f9fd" type="folder">4</container>
+			 <unittitle>Billy the Kid: Photographs. 
+				<unitdate normal="1878/1954" type="inclusive">1878-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="bf99dd78-cfd0-44c6-86d5-26005931e0ff" type="box">15</container><container parent="bf99dd78-cfd0-44c6-86d5-26005931e0ff" type="folder">5</container>
+			 <unittitle>Billy the Kid: Documents by and about Governor Wallace and
+				Billy the Kid. 
+				<unitdate normal="1878/1954" type="inclusive">1878-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="e5b596e3-f173-4560-bd0d-5b0b44e35f1b" type="box">15</container><container parent="e5b596e3-f173-4560-bd0d-5b0b44e35f1b" type="folder">6</container>
+			 <unittitle>Billy the Kid: Miscellaneous material, including Fulton's
+				notes. 
+				<unitdate normal="1878/1954" type="inclusive">1878-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="490d057e-cf8e-41e7-9f19-832be2823117" type="box">15</container><container parent="490d057e-cf8e-41e7-9f19-832be2823117" type="folder">7</container>
+			 <unittitle>Billy the Kid: Clippings. 
+				<unitdate normal="1878/1954" type="inclusive">1878-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series VII: Clippings and Articles, 
+			 <unitdate normal="1829/1855" type="inclusive">1829-1855</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container id="32c8615b-ae05-4b84-8802-4acceea81918" type="box">16</container><container parent="32c8615b-ae05-4b84-8802-4acceea81918" type="folder">1-2</container>
+			 <unittitle>New Mexico - general. 
+				<unitdate normal="1829/1855" type="inclusive">1829-1855</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="56384c1e-fcd6-45f7-a1a2-75fbbe430f19" type="box">16</container><container parent="56384c1e-fcd6-45f7-a1a2-75fbbe430f19" type="folder">3-4</container>
+			 <unittitle>The West. 
+				<unitdate normal="1829/1855" type="inclusive">1829-1855</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="d905e392-7095-4504-8ab3-f6bd167c6cdd" type="box">16</container><container parent="d905e392-7095-4504-8ab3-f6bd167c6cdd" type="folder">5</container>
+			 <unittitle>Texas. 
+				<unitdate normal="1829/1855" type="inclusive">1829-1855</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="20bd83ed-1462-4719-bd1f-4d216035ebc9" type="box">16</container><container parent="20bd83ed-1462-4719-bd1f-4d216035ebc9" type="folder">6</container>
+			 <unittitle>El Paso, Salt War. 
+				<unitdate normal="1829/1855" type="inclusive">1829-1855</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="88921daa-e2fb-4e6b-9706-563b1d70665e" type="box">16</container><container parent="88921daa-e2fb-4e6b-9706-563b1d70665e" type="folder">7</container>
+			 <unittitle>Mexico. 
+				<unitdate normal="1829/1855" type="inclusive">1829-1855</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="ac612e32-e098-49c4-9267-9daf442129e0" type="box">16</container><container parent="ac612e32-e098-49c4-9267-9daf442129e0" type="folder">8</container>
+			 <unittitle>Kendall, G.W.: The Texan-Santa Fe Expedition (photostats
+				from the 
+				<title>Daily Picayune</title>). 
+				<unitdate normal="1842/1843" type="inclusive">1842-1843</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="d7b2a63b-eaaa-4625-89ba-a597b91466b7" type="box">16</container><container parent="d7b2a63b-eaaa-4625-89ba-a597b91466b7" type="folder">9</container>
+			 <unittitle>Local History Material. 
+				<unitdate normal="1829/1855" type="inclusive">1829-1855</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series VIII: Photographs, 
+			 <unitdate normal="1860/1959" type="inclusive">1860s
+				-1950s</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container id="6bb8a5ed-a4f9-4aa8-98b2-43f2649c966f" type="box">17</container><container parent="6bb8a5ed-a4f9-4aa8-98b2-43f2649c966f" type="folder">2</container>
+			 <unittitle>U.S. (exclusive of New Mexico). 
+				<unitdate normal="" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="63ec4ac3-f907-4a51-9db3-a8a5cf02b487" type="box">17</container><container parent="63ec4ac3-f907-4a51-9db3-a8a5cf02b487" type="folder">2-4</container>
+			 <unittitle>New Mexico: Places, A-Z. 
+			 	<unitdate normal="1860/1959" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="ded0dc3d-90d6-4f0e-bb3d-719226975dbc" type="box">17</container><container parent="ded0dc3d-90d6-4f0e-bb3d-719226975dbc" type="folder">5</container>
+			 <unittitle>New Mexico: White Oaks. 
+			 	<unitdate normal="1860/1959" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="e7e5eac4-320e-4f7b-add2-eadcf9cd2afb" type="box">18</container><container parent="e7e5eac4-320e-4f7b-add2-eadcf9cd2afb" type="folder">1</container>
+			 <unittitle>Lincoln: General. 
+			 	<unitdate normal="1860/1959" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="efaf8eee-d864-4529-96f8-2f3b5769b236" type="box">18</container><container parent="efaf8eee-d864-4529-96f8-2f3b5769b236" type="folder">2</container>
+			 <unittitle>Lincoln: County Court House. 
+			 	<unitdate normal="1860/1959" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="c86a22c7-0775-42e3-885d-8ad0e68dea7f" type="box">18</container><container parent="c86a22c7-0775-42e3-885d-8ad0e68dea7f" type="folder">3</container>
+			 <unittitle>Lincoln: El Torreon. 
+			 	<unitdate normal="1860/1959" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="9050f94b-076d-46ec-86c2-8e84fc3b9d0c" type="box">18</container><container parent="9050f94b-076d-46ec-86c2-8e84fc3b9d0c" type="folder">4-5</container>
+			 <unittitle>Roswell: General. 
+			 	<unitdate normal="1860/1959" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="80b28852-d51b-416b-8aa5-a59e89047120" type="box">18</container><container parent="80b28852-d51b-416b-8aa5-a59e89047120" type="folder">6</container>
+			 <unittitle>Roswell: New Mexico Military Academy. 
+			 	<unitdate normal="1860/1959" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="14d4c0b3-a903-48ce-b94b-a4348e682ac6" type="box">18</container><container parent="14d4c0b3-a903-48ce-b94b-a4348e682ac6" type="folder">7</container>
+			 <unittitle>New Mexico: Gravestones. 
+			 	<unitdate normal="1860/1959" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="8772f6c1-ce66-402e-adf7-aafd49c7c283" type="box">18</container><container parent="8772f6c1-ce66-402e-adf7-aafd49c7c283" type="folder">8</container>
+			 <unittitle>Unidentified (probably New Mexico). 
+			 	<unitdate normal="1860/1959" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="81572166-ab87-4077-8667-34ba2e03e59a" type="box">19</container><container parent="81572166-ab87-4077-8667-34ba2e03e59a" type="folder">1</container>
+			 <unittitle>Cowboys and Range Activities. 
+			 	<unitdate normal="1860/1959" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="d3d29447-418e-41ce-bb02-9d41cd2d8645" type="box">19</container><container parent="d3d29447-418e-41ce-bb02-9d41cd2d8645" type="folder">2</container>
+			 <unittitle>Places not identified (probably not New Mexico). 
+			 	<unitdate normal="1860/1959" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="4c2df8be-fd26-4182-9a11-5866ebaa4c96" type="box">19</container><container parent="4c2df8be-fd26-4182-9a11-5866ebaa4c96" type="folder">3</container>
+			 <unittitle>Fulton, Maurice Garland. 
+			 	<unitdate normal="1860/1959" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="e1efff11-d4e2-430d-9d00-bde2c76008fe" type="box">19</container><container parent="e1efff11-d4e2-430d-9d00-bde2c76008fe" type="folder">4-5</container>
+			 <unittitle>Persons: A-Z. 
+			 	<unitdate normal="1860/1959" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="9171f41d-0948-4e53-ab30-79c5f383cf27" type="box">19</container><container parent="9171f41d-0948-4e53-ab30-79c5f383cf27" type="folder">6</container>
+			 <unittitle>Group Pictures. 
+			 	<unitdate normal="1860/1959" type="inclusive">1860s
+				  -1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series IX: 
+			 <title render="italic">New Mexico's Own Chronicle, </title>
+			 <unitdate normal="1930/1939" type="inclusive">1930s</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container id="071d9345-6ad2-4221-9b76-1068f41a9b6a" type="box">20</container><container parent="071d9345-6ad2-4221-9b76-1068f41a9b6a" type="folder">1-11</container>
+			 <unittitle>Notes, Drafts, etc. on various chapters of the book. 
+			 	<unitdate normal="1930/1939" type="inclusive">1930s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="dfc9297c-39df-4e44-b527-bc71f90aeb76" type="box">21</container><container parent="dfc9297c-39df-4e44-b527-bc71f90aeb76" type="folder">1</container>
+			 <unittitle>Early typescript (with notes by ?). 
+			 	<unitdate normal="1930/1939" type="inclusive">1930s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="588f524b-3423-4db4-97b9-e53a64672844" type="box">21</container><container parent="588f524b-3423-4db4-97b9-e53a64672844" type="folder">2</container>
+			 <unittitle>Revised Typescript. 
+			 	<unitdate normal="1930/1939" type="inclusive">1930s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="b777cbeb-5f5f-46ba-91cc-c9073fc347f1" type="box">21</container><container parent="b777cbeb-5f5f-46ba-91cc-c9073fc347f1" type="folder">3</container>
+			 <unittitle>Another Version of Typescript. 
+			 	<unitdate normal="1930/1939" type="inclusive">1930s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="959af12d-9a40-462e-8c0c-a4263bb0333d" type="box">22</container><container parent="959af12d-9a40-462e-8c0c-a4263bb0333d" type="folder">1-8</container>
+			 <unittitle>Various parts of manuscript including illustrations. 
+			 	<unitdate normal="1930/1939" type="inclusive">1930s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="57a38ebb-56e8-4d52-90b7-b6830ee4491c" type="box">23</container>
+			 <unittitle>Newspapers and Photographs. 
+			 	<unitdate normal="1930/1939" type="inclusive">1930s</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

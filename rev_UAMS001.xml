@@ -1,0 +1,743 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">UAMS001</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">John Francis Holme collection, 
+		  <date>1886-1938 (bulk 1889-1903)</date></titleproper>
+		<author encodinganalog="245$c">Inventory prepared by Phyllis Ball.
+		  </author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp
+		<date>July 3, 2002</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-20">2017-06-20</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">John Francis Holme Collection, 
+		<date>1886-1938 (bulk 1889-1903)</date></titleproper>
+	 <num>Collection Number: MS 001</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Phyllis Ball</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>1976</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Jennie Stapp</item>
+		</defitem>
+	 </list>
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did>
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name">John Francis Holme
+		Collection, 
+		<unitdate normal="" type="inclusive">1886-1938 (bulk
+		  1889-1903)</unitdate></unittitle>
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 001</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Holme, John Francis,
+		  1868-1904</persname></origination>
+	 <abstract label="Abstract">This collection includes over 750 of Holme's original drawings
+		and etchings, 142 reproductions, 134 original drawings by students and
+		associates, and all nine Bandar Log Press books; as well as correspondence,
+		photographs, news clippings, and articles relating to the School of
+		Illustration and the Bandar Log Press. In addition to Holme, authors of the
+		Bandar Log Press books are Charles Dryden, William Robinson, Kirke La Shelle,
+		and George Ade. Holme's drawings are illustrations for news stories, including
+		coverage of the 1897 Luetgert trial and the 1893 World Columbian Exposition;
+		drawings of people, theatrical performances, "life and times" scenes of the
+		1890s; political events and politicians, including coverage of the 1896
+		Democratic presidential convention, and political cartoons. </abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">7 linear feet</extent></physdesc>
+	 <repository label="Repository">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p>John Francis Holme collection(MS 001). Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head>
+	 <p>John Francis (Frank) Holme was a newspaper artist, chiefly in Chicago;
+		he was the founder of the School of Illustration, Chicago and also founded the
+		Bandar Log Press, 1895-1904, located successively in Chicago, Asheville, N.C.,
+		and Phoenix, Ariz.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into six series: </p> 
+	 <list> 
+		<item>Series I: Personal Material, 1886-1986</item>
+		<item>Series II: Original Drawings, Prints and Paintings, 1897, No
+		  Date</item>
+		<item>Series III: Clippings and Art Reproductions, 1886-1986</item>
+		<item>Series IV: School of Illustration (Chicago) Staff and Student Art,
+		  1898-1903</item>
+		<item>Series V: Biographical Material, 1898-1945?</item>
+		<item>Series VI: Bandar Log Press Books, 1895-1903</item> 
+	 </list> 
+  </arrangement>
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>This collection includes over 750 of Holme's original drawings and
+		etchings, 142 reproductions, 134 original drawings by students and associates,
+		and all nine Bandar Log Press books; as well as correspondence, photographs,
+		news clippings, and articles relating to the School of Illustration and the
+		Bandar Log Press. In addition to Holme, authors of the Bandar Log Press books
+		are Charles Dryden, William Robinson, Kirke La Shelle, and George Ade. Holme's
+		drawings are illustrations for news stories, including coverage of the 1897
+		Luetgert trial and the 1893 World Columbian Exposition; drawings of people,
+		theatrical performances, "life and times" scenes of the 1890s; political events
+		and politicians, including coverage of the 1896 Democratic presidential
+		convention, and political cartoons. </p>
+	 <p>Student and staff work from the School of Illustration includes one or
+		two drawings each from various artists such as W.W. Denslow, John T.
+		McCutcheon, Cyrus Leroy Baldridge, Wilfred B. Shaw, and Joseph C. Leydendecker.
+		Photographs are of Holme, his family, and friends. News clippings and articles
+		are either examples of Holme's work or about him. Also included are two signed
+		Maxfield Parrish illustrations, one signed Bertha Jacques etching, and one W.
+		Nicholson print of Queen Victoria.</p> 
+  </scopecontent> 
+  <controlaccess>
+	 <persname>Holme, John Francis, 1868-1904 --
+			 Archives</persname><persname>McCutcheon, John T. (John Tinney),
+			 1870-1949</persname><persname>Denslow, W.W. (William Wallace),
+			 1856-1916</persname><persname>Baldridge, Cyrus Leroy,
+			 1889</persname><persname> Shaw, Wilfred B. </persname><persname>Leydendecker, Joseph C.
+			 </persname><persname>Luetgert, Adolph Louis</persname><corpname>Bandar Log Press</corpname><corpname> School of Illustration (Chicago, Ill.)
+			 </corpname><subject> Small press books -- Specimens </subject><subject>Small presses -- United States </subject><subject>Drawing -- Study and teaching -- United
+			 States</subject><subject>Editorial cartoons -- United States --
+			 Specimens</subject><subject>Illustrators -- United States -- History</subject><subject>Drawing, American -- Specimens</subject><subject>Etching, American -- Specimens</subject><subject>Newspaper court reporting -- United States -- History -- 19th
+			 century</subject><subject>Newspapers -- Illustrations -- Specimens</subject><geogname>Chicago (Ill.) -- Social life and customs -- Pictorial
+			 works</geogname><geogname>United States -- History -- 1865-1921 -- Caricatures and
+			 cartoons</geogname><genreform>Correspondence</genreform><genreform>Drawings</genreform><genreform>Illustrations</genreform><genreform>Etchings</genreform></controlaccess> 
+  <separatedmaterial encodinganalog="544$2">
+	 <head>Separated Material</head>
+	 <p>Posters and publications received with the collection were removed and
+		cataloged separately.</p>
+  </separatedmaterial>
+  <dsc type="combined"> 
+	 <head>Container List</head>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series I: Personal Material, 
+			 <unitdate normal="1886/1986" type="inclusive">1886-1986</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Photographs, Correspondence, Miscellaneous Material, 
+				<unitdate normal="1891/1941" type="inclusive">1891-1941</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container id="fe59c49b-f043-41ff-9ab8-01d0c9d46517" type="box">1</container><container parent="fe59c49b-f043-41ff-9ab8-01d0c9d46517" type="folder">1</container>
+				<unittitle>Frank Holme: miscellaneous material. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="a5e7c11b-7388-4f70-9d55-2916a7c377a3" type="box">1</container><container parent="a5e7c11b-7388-4f70-9d55-2916a7c377a3" type="folder">2</container>
+				<unittitle>Frank Holme: letters to LeRoy Baldridge. 
+				  <unitdate normal="1901/1903" type="inclusive">1901-1903</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="4d4de287-ec09-4af0-8ac8-de396e9d58d6" type="box">1</container><container parent="4d4de287-ec09-4af0-8ac8-de396e9d58d6" type="folder">3</container>
+				<unittitle>Frank Holme: photographs and sketches of.</unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="4bd5a2fd-8d0f-4ca7-9c8d-044c30e05ac8" type="box">1</container><container parent="4bd5a2fd-8d0f-4ca7-9c8d-044c30e05ac8" type="folder">4</container>
+				<unittitle>Frank Holme: photographs of friends and family.
+				  </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="aafc19fa-d875-4a3e-8fda-d2b84e058182" type="box">1</container><container parent="aafc19fa-d875-4a3e-8fda-d2b84e058182" type="folder">5</container>
+				<unittitle>Frank Holme: photographs and sketches of friends and
+				  associates. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="86882ac0-f63a-436c-b5ac-e12da9ca983e" type="box">1</container><container parent="86882ac0-f63a-436c-b5ac-e12da9ca983e" type="folder">6</container>
+				<unittitle>School of Illustration, Chicago: miscellaneous material.
+				  </unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes advertisements, articles and photographs of staff.</p>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="9a9cc3e6-77c9-419a-92b4-ad67364e49e8" type="box">1</container><container parent="9a9cc3e6-77c9-419a-92b4-ad67364e49e8" type="folder">7</container>
+				<unittitle>Bandar Log Press: miscellaneous material. </unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes list of stockholders, a prospectus, check-list and
+				  drawings by E. Powers, etc.</p>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="c88b0d8a-304d-4475-ac98-f4567c1a356e" type="box">1</container><container parent="c88b0d8a-304d-4475-ac98-f4567c1a356e" type="folder">8</container>
+				<unittitle>Miscellaneous correspondence. 
+				  <unitdate normal="1891/1931" type="inclusive">1891-1931</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<list>
+				  <item>Mrs. Ray Brown to Frank Holme, (one letter, no
+					 date).</item>
+				  <item>Frank Holme to his niece, Agnes Taylor, (nine letters,
+					 1897-1902).</item>
+				  <item>Kirke LaShelle to Ray Brown and W. W. Denslow, ( two
+					 letters, December 21, 1891 and May 11, 1903).</item>
+				  <item>Mrs. Frank Holme to Wilfred Shaw, (three letters, 1906,
+					 1931). </item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="897e1d38-6c72-434a-b7ee-c7fdfa61dbc1" type="box">1</container><container parent="897e1d38-6c72-434a-b7ee-c7fdfa61dbc1" type="folder">9</container>
+				<unittitle>Holme items at the Huntington Library. </unittitle>
+			 </did>
+			 <scopecontent>
+				<p>List, photocopies of five letters from Kirke LaShelle
+				  (1902-1903) and Patricia Paylore's notes on Holme material (January 1961).</p>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="ea2ab972-7e29-459f-a715-6ea562b44919" type="box">1</container><container parent="ea2ab972-7e29-459f-a715-6ea562b44919" type="folder">10-11</container>
+				<unittitle>Holme items at West Virginia University. </unittitle>
+			 </did>
+			 <scopecontent>
+				<p>List, photocopies of drawings, clippings, and correspondence of
+				  Vause Marshall with Mrs. Frank Holme (1905, 1938-1940) and various others
+				  (1938-1941). Also an article about Frank Holme by Marshall.</p>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="2b90dedf-1fa3-4c1f-a135-075ed98b3c53" type="box">1</container><container parent="2b90dedf-1fa3-4c1f-a135-075ed98b3c53" type="folder">12</container>
+				<unittitle>Holme items at Southern Methodist University (DeGolyer
+				  Collection). </unittitle>
+			 </did>
+			 <scopecontent>
+				<p>List, with photocopies of four letters from Frank Holme to C. F.
+				  Witmarsh (1903) and one letter from Charles Sloan to Miss McMurrary (no date).
+				  </p>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="b547b953-5156-4a7f-97b0-534f649d7ee9" type="box">1</container><container parent="b547b953-5156-4a7f-97b0-534f649d7ee9" type="folder">13</container>
+				<unittitle>Three glass negatives of Holme's drawings. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="abfb70b1-a31e-4ff8-8f1d-a791c573d07b" type="box">1</container><container parent="abfb70b1-a31e-4ff8-8f1d-a791c573d07b" type="folder">14</container>
+				<unittitle>Miscellaneous art items. </unittitle>
+			 </did>
+			 <scopecontent>
+				<list>
+				  <item>Two signed Maxfield Parrish illustrations.</item>
+				  <item>Signed Bertha Jacques etching.</item>
+				  <item>W. Nicholson print of Queen Victoria.</item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Correspondence, Articles, Etc. About Frank Holme,
+				<unitdate normal="1904/1986" type="inclusive">1904-1986</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container id="34022b87-5a60-4c13-a449-22839be07230" type="box">2</container><container parent="34022b87-5a60-4c13-a449-22839be07230" type="folder">1</container>
+				<unittitle>Correspondence: Charles Sloan and University of Arizona
+				  Library. 
+				  <unitdate normal="1933/1939" type="inclusive">1933-1939</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="0d00ad19-1b5f-4057-b24d-0315e380926d" type="box">2</container><container parent="0d00ad19-1b5f-4057-b24d-0315e380926d" type="folder">2</container>
+				<unittitle>Correspondence: Edwin B. Hill and University of Arizona
+				  Library. 
+				  <unitdate normal="1935/1947" type="inclusive">1935-1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="d5a568f3-4339-481a-b4c8-51e7ef573a70" type="box">2</container><container parent="d5a568f3-4339-481a-b4c8-51e7ef573a70" type="folder">3</container>
+				<unittitle>Correspondence: Edwin B. Hill and various, (also some
+				  notes on Holme). 
+				  <unitdate normal="1929/1947" type="inclusive">1929-1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="ba4f98df-df42-4a25-9959-09b0111ffe7a" type="box">2</container><container parent="ba4f98df-df42-4a25-9959-09b0111ffe7a" type="folder">4</container>
+				<unittitle>Correspondence: University of Arizona Library and
+				  various. 
+				  <unitdate normal="1934/1986" type="inclusive">1934-1986</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes LeRoy Baldridge, Kirke LaShelle, Wilfred Shaw and Holme
+				  relatives. </p>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="1b891d50-cc37-44dc-b460-c0c1468c814a" type="box">2</container><container parent="1b891d50-cc37-44dc-b460-c0c1468c814a" type="folder">5</container>
+				<unittitle>Articles from 
+				  <title render="italic">The Inland Printer</title>. 
+				  <unitdate normal="NaN" type="inclusive">1904?</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<list>
+				  <item>"All About the Bandar Log Press." (original and
+					 photocopy).</item>
+				  <item>"Frank Holme, Artist."</item>
+				  <item>"The Man at the Window," by Thomas Wood Stevens (review of 
+					 <title render="italic">The Poker Rubaiyat</title>).</item>
+				  <item>"The Bandar Log Press."</item>
+				  <item>"The Palette and Chisel Club."</item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="b2e94ea3-5d90-4ac8-8a34-eadde2b808db" type="box">2</container><container parent="b2e94ea3-5d90-4ac8-8a34-eadde2b808db" type="folder">6</container>
+				<unittitle>Rudolph H. Gjelsness: drafts of articles and talks,
+				  notes, correspondence, etc.</unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="d94a0287-d3de-46de-a693-4e35cd83f81a" type="box">2</container><container parent="d94a0287-d3de-46de-a693-4e35cd83f81a" type="folder">7</container>
+				<unittitle>"Radio Talk," by Fredrick Cromwell. 
+				  <title render="italic">Arizona Network</title>. 
+				  <unitdate normal="1941" type="inclusive">November 13,
+					 1941</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="80a28829-5ad7-4d36-8306-415b9937ff11" type="box">2</container><container parent="80a28829-5ad7-4d36-8306-415b9937ff11" type="folder">8</container>
+				<unittitle>Articles published in 
+				  <title render="italic">Arizona Highways</title>. 
+				  <unitdate normal="1968" type="inclusive">1943 &amp;
+					 1968</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<list>
+				  <item>"The Bandar Log Press," by Frederick Cromwell, March
+					 1943.</item>
+				  <item>"All About the Bandar Log Press," by Tim Kelly, January
+					 1968, accompanied by color reproductions of 
+					 <title render="italic">The Poker Rubaiyat</title> used in the
+					 article. </item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="d77f2455-ade3-4dc0-8e84-c8bc479f8d05" type="box">3</container>
+				<unittitle>Sketch book. </unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Drawings and sketches, chiefly pencil. Most are probably by
+				  Holme, but some are signed by W. W. Denslow and others. A number are sketches
+				  of Holme. Includes holograph notes.</p>
+			 </scopecontent>
+		  </c03>
+		</c02>
+	 </c01> 
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series II: Original Drawings, Prints and Paintings, 
+			 <unitdate normal="NaN" type="inclusive">1897, No
+				Date</unitdate></unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container id="a79aafc7-8c86-4bd3-9984-a83fabf86d3f" type="box">4</container>
+			 <unittitle>Original drawings for certain of George Ade's works, (94
+				items). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="4f1fc21f-537d-4576-b1dc-d1d530dd7680" type="box">5</container>
+			 <unittitle>Original drawings, (80 items). </unittitle>
+		  </did>
+		  <scopecontent>
+			 <list>
+				<item>Color work (16)</item>
+				<item>Cartoon styles (32)</item>
+				<item>Children (6)</item>
+				<item>Singers and dancers (8)</item>
+				<item>Miscellaneous (18)</item>
+			 </list>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container id="8765d63e-acbe-4c58-91f3-0fed2e54ed17" type="box">6</container>
+			 <unittitle>Original drawings, (134 items). </unittitle>
+		  </did>
+		  <scopecontent>
+			 <list>
+				<item>Courtroom scenes (12)</item>
+				<item>"Life and Times" groups (25)</item>
+				<item>Identified people (7)</item>
+				<item>People (77)</item>
+				<item>Theater interiors, etc. (13)</item>
+			 </list>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container id="fe0d40e3-928e-4e7d-b002-179410a9b09a" type="box">7</container>
+			 <unittitle>Original drawings, (189 items). </unittitle>
+		  </did>
+		  <scopecontent>
+			 <list>
+				<item>Theatrical performances: 
+				  <title render="italic">Merchant in Venice</title> (14
+				  items)</item>
+				<item>Theatrical performances: 
+				  <title render="italic">Rip Van Winkle</title>? (20 items)</item>
+				<item>Theatrical performances: Turkish setting (49 items)</item>
+				<item>Theatrical performances: miscellaneous (25 items)</item>
+				<item>Theatrical performances: unidentified (72)</item>
+				<item>Actors and actresses: three identified, three W. Hampden? (6
+				  items)</item>
+				<item>Unidentified actor as King Lear? (3 items)</item>
+			 </list>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container id="e0fab7d1-724d-4fe1-be6d-18420e3bbb36" type="box">8</container>
+			 <unittitle>Etchings and lithographs, (64 items). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="ac762c80-cb65-478c-9c68-a3deef9d26a9" type="box">9</container>
+			 <unittitle>Original illustrations for Luetgert Trial, Chicago (14
+				originals, 9 reproductions). 
+				<unitdate normal="1897" type="inclusive">1897</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="caffa10a-4eaa-4c63-bff0-0cc56d3af5e7" type="box">10</container>
+			 <unittitle>Original drawings, (80 items). </unittitle>
+		  </did>
+		  <scopecontent>
+			 <list>
+				<item>Water colors (14 items) </item>
+				<item>People (some identified) (31 items)</item>
+				<item>Local events, "Life and Times" (18 items)</item>
+				<item>Courtroom scenes (6 items)</item>
+				<item>Army life (5 items)</item>
+				<item>Miscellaneous (6 items)</item>
+			 </list>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container id="049e24b2-ec08-416f-a281-314cbd2867e9" type="box">11</container>
+			 <unittitle>Original drawings, (96 items)</unittitle>
+		  </did>
+		  <scopecontent>
+			 <list>
+				<item>Political cartoons (25 items)</item>
+				<item>Miscellaneous cartoons (10 items)</item>
+				<item>Portraits; possibly of Holme's wife and mother (6
+				  items)</item>
+				<item>Political events and personalities including the Democratic
+				  Convention, Indianapolis, 1896 (26 items)</item>
+				<item>Local scenes, "Life and Times" (15 items)</item>
+				<item>Nudes (2 items)</item>
+				<item>Theatrical performances (2 items)</item>
+				<item>Sculpture class (2 items)</item>
+				<item>Magazine sketch </item>
+				<item>People, including signed portrait of actress Georgia Cayvan
+				  and singer-comedian Digby Bell (7 items)</item>
+			 </list>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container id="74939165-4a29-49a6-b00c-3f2dbc48dea5" type="box">12</container>
+			 <unittitle>Oil paintings, (2 items). </unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series III: Clippings and Art Reproductions, 
+			 <unitdate normal="1886/1986" type="inclusive">1886-1986</unitdate></unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container id="86a5f745-3cf6-4534-8ec2-4184467f4165" type="box">13</container>
+			 <unittitle>Newspaper columns from the 
+				<title render="italic">Chicago Daily News</title> illustrated by
+				Frank Holme. </unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Some columns written by Holme. Notes supplied by Wilfred B. Shaw,
+				donor and former student at the School of Illustration in Chicago.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container id="bfad1185-c1aa-4373-9d76-900d2d446a01" type="box">14</container>
+			 <unittitle>Miscellaneous newspaper clippings relating to Frank Holme.
+				
+				<unitdate normal="1886/1938" type="inclusive">1886-1938</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <list>
+				<item>Extract from the 
+				  <title render="italic">Wheeling Daily Register</title> showing a
+				  political cartoon by Holme, October 25, 1886 (photocopy)</item>
+				<item>Extracts from the 
+				  <title render="italic">Pittsburgh Press</title> with
+				  illustrations by Holme of the Johnstown flood, June 6, 7, 9, 1889
+				  (photocopy)</item>
+				<item>"Chicago Art Institute to Establish Etching Press," Chicago,
+				  ca. 1890</item>
+				<item>"
+				  <title render="italic">Poker Rubaiyat</title> by Kirke LaShelle,"
+				  
+				  <title render="italic">New York Herald</title>, April 26,
+				  1903</item>
+				<item>"
+				  <title render="italic">Poker Rubaiyat</title>, first book of
+				  Bandar Log Press," 
+				  <title render="italic">New York World</title>, April 26,
+				  1903</item>
+				<item>"Fame Carved with a Jackknife," by Tom Kelland, 
+				  <title render="italic">Arizona Republic</title>, May 15,
+				  1938</item>
+			 </list>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container id="49224e32-8a55-4db5-9172-63ca2309e5df" type="box">15</container>
+			 <unittitle>Reproductions of drawings, lithographs, newspaper
+				illustrations (142 items). </unittitle>
+		  </did>
+		  <scopecontent>
+			 <list>
+				<item>Political scenes and cartoons (7 items)</item>
+				<item>Miscellaneous cartoons (5 items)</item>
+				<item>People (some identified) (17 items)</item>
+				<item>Portraits of women (19 items)</item>
+				<item>Local events, "Life and Times" (82 items)</item>
+				<item>Miscellaneous (12 items). </item>
+			 </list>
+		  </scopecontent>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series IV: School of Illustration (Chicago) Staff and
+			 Student Art, 
+			 <unitdate normal="1898/1903" type="inclusive">1898-1903</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>A great many of the artists represented could not be fully
+			 identified, either from the signatures on their drawings or in bibliographical
+			 sources. It is probably that many of the students did not achieve public
+			 recognition, but users of the collection who can further identify them are
+			 urged to consult with the Department's Manuscript Librarian.</p>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container id="265278fc-0d85-4a03-98c1-59c3726cbb34" type="box">16</container>
+			 <unittitle>School of Illustration, Chicago: student and staff work,
+				(40 items). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="e80c7c13-72a6-4372-b495-bc884fd370c1" type="box">17</container>
+			 <unittitle>School of Illustration, Chicago: student and staff work,
+				(48 items). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="33c94cf9-178d-4c83-853e-7afeb1596b0a" type="box">18</container>
+			 <unittitle>School of Illustration, Chicago: student and staff work,
+				(53 items). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="b9393065-998f-43fa-a68a-dcd1d658d4bd" type="box">19</container>
+			 <unittitle>Oil paintings by Cyrus LeRoy Baldridge (2 items),
+				Post-Holme era.</unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series V: Biographical Material, 
+			 <unitdate normal="" type="inclusive">1898-1945?</unitdate></unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container id="ff793155-2ba6-4a4c-88bc-025f0bda5e05" type="box">20</container>
+			 <unittitle>Biographical material. 
+				<unitdate normal="" type="inclusive">1898-1945?</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <list>
+				<item>Dean Eva. 
+				  <title render="italic">F. H</title>. Ysleta, Texas: Edwin B.
+				  Hill, 1935</item>
+				<item>Frank Holme Memorial Group. 
+				  <title render="italic">Bulletin</title>. no. 1-21,
+				  1938-1945?</item>
+				<item>Gjelsness, Rudolph H. 
+				  <title render="italic">Frank Holme: Newspaper Artist and Designer
+					 of Books</title>. New York, 1935. Extract from 
+				  <title render="italic">The Colophone</title>, n.s., no. 2</item>
+				<item>Goudy, Frederic W. 
+				  <title render="italic">Frank Holme</title>. Ysleta, Texas, 1942.
+				  "these notes... are transcripts from conversations with Fred W. Goudy by one of
+				  the students in the School of Illustrations." </item>
+				<item>Hammond, John C. 
+				  <title render="italic">Founder of the Bandar Log Club and his
+					 Meteoric Career</title>. Ysleta, Texas: Edwin B. Hill, 1936</item>
+				<item>Hill, Edwin B. 
+				  <title render="italic">Frank Holme: A Friend</title>. Ysleta,
+				  Texas: Edwin B. Hill, 1904</item>
+				<item>Hill, Edwin B. 
+				  <title render="italic">More Than a Memory</title>. Ysleta, Texas:
+				  Edwin B. Hill, 1936 (2 copies)</item>
+				<item>McDougall, Isabel. "Frank Holme, Newspaper Artist." Chicago,
+				  1898. Extracted from 
+				  <title render="italic">Brush and Pencil</title>, v. 2, 1898
+				  (photocopy)</item>
+			 </list>
+		  </scopecontent>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series VI: Bandar Log Press Books, 
+			 <unitdate normal="1895/1903" type="inclusive">1895-1903</unitdate></unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container id="6abd6731-5ee5-46bf-a134-faed2a105a6e" type="box">21</container>
+			 <unittitle>Holme, Frank. 
+				<title render="italic">Just For Fun</title>; a collection of
+				humorous verses from various pens. Chicago, Ill.
+				<unitdate normal="1895" type="inclusive"> December
+				  1895</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p> Number 19 of 74 copies.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container id="aa25dd63-ec02-412b-83a2-bc56fca79893" type="box">21</container>
+			 <unittitle>Dryden, Charles. 
+				<title render="italic">Swanson, Able Seaman</title>; the melancholy
+				fate of a hapless mariner. Pictures by Frank Holme. Ashville, North Carolina. 
+				<unitdate normal="1901" type="inclusive">December
+				  1901</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Number 124 of 174 copies, cover was put on up-side-down.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container id="25dd865c-532b-4e26-87e0-274f91fdbb44" type="box">21</container>
+			 <unittitle>LaShelle, Kirke. 
+				<title render="italic">Where is Ray Brown?</title> Asheville, North
+				Carolina. 
+				<unitdate normal="1902" type="inclusive">April
+				  1902</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Number 27 of 174 copies, embellished by Frank Holme.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container id="340aeb25-2c4a-44c0-aecc-25975f034b32" type="box">21</container>
+			 <unittitle>LaShelle, Kirke. 
+				<title render="italic">Poker Rubaiyat</title>; Phoenix, Arizona. 
+				<unitdate normal="1903" type="inclusive">January
+				  1903</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Number 113 of 274, illustrations by Frank Holme.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container id="76485757-cc68-48db-b2a7-858f76556abb" type="box">21</container>
+			 <unittitle>Holme, Frank. 
+				<title render="italic">All About the Bandar Log Press</title>;
+				Phoenix, Arizona. 
+				<unitdate normal="1903" type="inclusive">October
+				  1903</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="33e243fc-57db-48cf-9498-90402de6560e" type="box">21</container>
+			 <unittitle>Ade, George. 
+				<title>The Strenuous Lad's Library</title>. No. 1-3, Phoenix,
+				Arizona. 
+				<unitdate normal="1903" type="inclusive">1903</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <list>
+				<item>No. 1 "Handsome Cyril," or "The Messenger Boy with Warm
+				  Feet." (2 copies)</item>
+				<item>No. 2 "Clarence Allen," or "The Hypnotic Boy Journalist." (2
+				  copies)</item>
+				<item>No. 3 "Rollo Johnson," or "The Demon Bicycle and Its Daring
+				  Rider." (2 copies)</item>
+			 </list>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container id="96f60bea-58db-4945-a3b5-98ef8e637444" type="box">21</container>
+			 <unittitle>Robinson, William H. 
+				<title render="italic">Her Navajo Lover</title>. Phoenix, Arizona. 
+				<unitdate normal="1903" type="inclusive">1903</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Woodcuts by Frank Holme, (4 copies)</p>
+		  </scopecontent>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

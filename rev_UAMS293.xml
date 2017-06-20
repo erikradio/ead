@@ -1,0 +1,690 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid encodinganalog="856$u">UAMS293</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Levi Stewart Udall collection, 
+		  <date>1842-1974</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Staff</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address> 
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Tom D. Sommer 
+		<date>October 2001</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-20">2017-06-20</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Levi Stewart Udall collection, 
+		<date>1842-1974</date></titleproper> 
+	 <num>Collection Number: MS 293</num> 
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>No Date</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Tom D. Sommer</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage>
+</frontmatter>
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Levi Stewart Udall
+		collection, 
+		<unitdate normal="1842/1974" type="inclusive">1842-1974</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 293</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Udall, Levi
+		  Stewart</persname></origination> 
+	 <abstract label="Abstract">Papers, 1842-1974 (bulk 1910-1960), of Levi
+		Stewart Udall (1891-1960), lawyer and judge. Includes personal files,
+		correspondence, reminiscences, activity files, ledgers, and speeches relating
+		mainly to his family, their settlement in Saint Johns, Arizona, his
+		professional activities and services to the state and the Church of Jesus
+		Christ of Latter-Day Saints.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">2.5 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Levi Stewart Udall collection(MS 293).Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Levi S. Udall was born 20 January 1891 at Saint Johns, Arizona, to David
+		K. and Ella Udall, Morman pioneers to Arizona in 1880. His childhood was spent
+		working on his father's farm and carrying United States mail by team and
+		buckboard for his father's mail contract business. He attended public school in
+		St. Johns, completed his secondary education at Gila Academy (1910-1911), and
+		briefly attended the University of Arizona, Tucson. </p> 
+	 <p>He married Louise Lee of Thatcher, Arizona, on 10 June 1914. They had
+		six children: Inez, Elma, Stewart, Morris, Eloise, and Burr. In addition to the
+		farm, the family operated Apache Abstract Company (c. 1930-1945), the only
+		title company in Apche County. He was member of the Arizona Boy Scouts Councils
+		(1915-1960). He worked as a clerk for the Apache County Board of Supervisors
+		(1915-1918), and as a clerk for the Superior Court (1919-1920). An Democratic
+		National Convention in San Francisco (1920). Admitted to the state bar (1922),
+		he served as county attorney for Apache County (1922-1923, 1927-1928). He was
+		elected as Judge of the Superior Court (1931-1946), and later, as Judge to the
+		Arizona Supreme Court (1947-1960).</p> 
+	 <p>He was appointed Ward president for the Young Men's Mutual Improvement
+		Association (1915-1920), a Morman organization. Ordained into the Mormon
+		priesthood by his father, David K. Udall in 1920, Levi Udall was a committed
+		member of his church. He served as president of the St. Johns Stake
+		(1922-1945), and later was appointed as Patriarch for the Phoenix North
+		Stake.</p> 
+	 <p>Dedicated to the preservation of his father's deeds, he edited a
+		biogrpahy prepared by his sister, Pearl Udall Nelson, titled 
+	 <title>Arizona Pioneer Mormon </title>(1915). A member of many civic
+	 associations, he was awarded both the Medallion of Merit (1959) and an honorary
+	 Doctor of LAws (1960) by the University of Arizona.</p> 
+	 <p>He died of a heart attack in Wickenburg, Arizona, on 30 May 1960.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into seven series:</p> 
+	 <list> 
+		<item>Series I: Personal Files, 
+		  <date>1842-1974</date></item> 
+		<item>Series II: Correspondence, 
+		  <date>1909-1962</date></item> 
+		<item>Series III: Reminiscences, 
+		  <date>1903-1956</date></item> 
+		<item>Series IV: Activity Files, 
+		  <date>1937-1962</date></item> 
+		<item>Series V: Ledgers, 
+		  <date>1932-1959</date></item> 
+		<item>Series VI: Speeches, 
+		  <date>1920-1960</date></item> 
+		<item>Series VII: Miscellaneous Printed Matter, 
+		  <date>1918-1969</date></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Papers, 1842-1974 (bulk 1910-1960), of Levi Stewart Udall (1891-1960),
+		lawyer and judge. Includes personal files, correspondence, reminiscences,
+		activity files, ledgers, and speeches relating mainly to his family, their
+		settlement in Saint Johns, Arizona, his professional activities and services to
+		the state and the Church of Jesus Christ of Latter-Day Saints.</p> 
+	 <p>The bulk of these papers are found in three series, Correspondence,
+		Activity Files, and Speeches. These papers best document the Udall family,
+		their settlement in Arizona, the influence of the church in their lives, the
+		editing and publication of his father's memoirs in 
+	 <title>Arizona Pioneer Mormon</title>, and the many civic and religious
+	 speeches given by Levi Udall.</p> 
+	 <p>This collection does not document Udall's official tenure as a leader in
+		Mormon organizations, or his career as a lawyer and judge in St. Johns and
+		Phoenix. There is little information which recounts his youth on the farm, his
+		stewardship as farmer, or his life as father to six children, including two of
+		Arizona's most respected Democratic politicians. There is little correspondence
+		between members of the Udall family.</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <persname>Udall, Levi Stewart, 1891-1960 --
+			 Archives</persname><persname>Udall, David King,
+			 1851-1938</persname><persname>Udall, Louise Lee,
+			 1893-1974</persname><persname>Ross, Harry D.</persname><persname>Nelson, Pearl Udall</persname><famname>Udall Family</famname><subject>Graham-Tewksbury Feud</subject><subject>Mormons -- Arizona -- History</subject><subject>World War, 1939-45 -- Personal narratives</subject><subject>Judges -- Arizona</subject><geogname>Apache County (Ariz.) -- History</geogname><geogname>Saint Johns (Ariz.) -- History </geogname><genreform>Correspondence</genreform><genreform>Speeches</genreform></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Personal Files. 
+			 <unitdate normal="1842/1974" type="inclusive">1842-1974</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Contains resumes, diplomas, lists of court cases highlighting his
+			 career, and biographical information relating to Levi and Louise Udall.
+			 Includes two booklets recalling the lives of Levi and Louise Udall, and five
+			 audio tapes of a tribute to Levi Udall, "This is your life," and the funeral
+			 services for Levi, and later, Louise L. Udall.</p> 
+		</scopecontent> 
+		<c02> 
+		  <did><container id="f74206a8-16c9-4ede-8c2a-4681d85ae95d" type="box">1</container><container parent="f74206a8-16c9-4ede-8c2a-4681d85ae95d" type="box">1</container> 
+			 <unittitle>Personal Files: Biographical. 
+				<unitdate normal="1915/1960" type="inclusive">1915-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="9c348dee-3a13-48c9-bf5d-608fd602cf91" type="box">1</container><container parent="9c348dee-3a13-48c9-bf5d-608fd602cf91" type="folder">2</container> 
+			 <unittitle>Personal Files: Biographical. 
+				<unitdate normal="1915/1960" type="inclusive">1915-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="233acb43-97fb-4960-932b-a4ee2157537c" type="box">1</container><container parent="233acb43-97fb-4960-932b-a4ee2157537c" type="folder">3</container> 
+			 <unittitle>Personal Files: Biographical. 
+				<unitdate normal="1915/1960" type="inclusive">1915-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="89044e6f-3278-41d2-8730-97f6685940b8" type="box">1</container><container parent="89044e6f-3278-41d2-8730-97f6685940b8" type="folder">4</container> 
+			 <unittitle>Personal Files: Certificates and Diplomas. 
+				<unitdate normal="1904/1959" type="inclusive">1904-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="c3dc077e-9e3f-4ef9-8a24-61865467c0a1" type="box">1</container><container parent="c3dc077e-9e3f-4ef9-8a24-61865467c0a1" type="folder">5</container> 
+			 <unittitle>Personal Files: Memorial booklets and audiotapes. 
+				<unitdate normal="1959/1974" type="inclusive">1959-1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Correspondence, 
+			 <unitdate normal="1909/1962" type="inclusive">1909-1962</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Family correspondence is largely letters received by Levi Udall
+			 during the 1950s and to which he stapled his outgoing replies. Selected
+			 subjects covered are church activities, experiences in the armed forces during
+			 World War Two, family reunions and vacations, and birthday and holiday
+			 greetings. Of interest are letters from David K. and Ella Udall to Levi which
+			 discuss David's work for the church in Mesa, Arizona, travels to Utah, and
+			 other routine family matters in the 1920s and 1930s. A selected index of
+			 correspondence follows.</p> 
+		  <p>The general correspondence addresses a wide variety of topics
+			 relating to Levi Udall's professional, religious, and civic interests. There is
+			 correspondence from lawyers, law professors, and judges discussing various
+			 court cases, invitations to speaking engagements and fund-raisers,
+			 congratulatory notes, letters of appreciation, and matters relating to the
+			 Mormon Church in Arizona.</p> 
+		</scopecontent> 
+		<c02> 
+		  <did><container id="aa07bd37-b712-4a46-9b28-75d2205b29a2" type="box">1</container><container parent="aa07bd37-b712-4a46-9b28-75d2205b29a2" type="folder">6</container> 
+			 <unittitle>Udall family. 
+				<unitdate normal="1918/1960" type="inclusive">1918-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="0212471a-db4e-449e-9aa8-2cff0a7f9f0e" type="box">1</container><container parent="0212471a-db4e-449e-9aa8-2cff0a7f9f0e" type="folder">7</container> 
+			 <unittitle>Udall family. 
+				<unitdate normal="1918/1960" type="inclusive">1918-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="4c651fb7-059c-4a5e-a46a-1303bd687937" type="box">1</container><container parent="4c651fb7-059c-4a5e-a46a-1303bd687937" type="folder">8</container> 
+			 <unittitle>David K. and Eliza Luella Udall. 
+				<unitdate normal="1923/1937" type="inclusive">1923-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="7157d693-1392-4457-b9c7-2e566dd9ae58" type="box">1</container><container parent="7157d693-1392-4457-b9c7-2e566dd9ae58" type="folder">9</container> 
+			 <unittitle>Pearl, Joseph, Joseph Jr. Nelson. 
+				<unitdate normal="1909/1957" type="inclusive">1909-1957</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="d02d5ac0-fb70-44f9-a53a-4a3e8bce5b4b" type="box">1</container><container parent="d02d5ac0-fb70-44f9-a53a-4a3e8bce5b4b" type="folder">10</container> 
+			 <unittitle>General. 
+				<unitdate normal="1921/1959" type="inclusive">1921-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="c530bed3-e32d-4d8a-b935-ad80b01904eb" type="box">1</container><container parent="c530bed3-e32d-4d8a-b935-ad80b01904eb" type="folder">11</container> 
+			 <unittitle>General. 
+				<unitdate normal="1921/1959" type="inclusive">1921-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="65dbc075-e6b2-412f-ba93-16fee5186b25" type="box">1</container><container parent="65dbc075-e6b2-412f-ba93-16fee5186b25" type="folder">12</container> 
+			 <unittitle>General. 
+				<unitdate normal="1921/1959" type="inclusive">1921-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="358687d4-6fd4-409c-81bf-b16db50838c9" type="box">1</container><container parent="358687d4-6fd4-409c-81bf-b16db50838c9" type="folder">13</container> 
+			 <unittitle>General. 
+				<unitdate normal="1921/1959" type="inclusive">1921-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="6d3c64bd-877e-4487-9030-abdd40a0b339" type="box">1</container><container parent="6d3c64bd-877e-4487-9030-abdd40a0b339" type="folder">14</container> 
+			 <unittitle>General. 
+				<unitdate normal="1921/1959" type="inclusive">1921-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="c0d5cb09-80f7-4c70-bbe0-5e3f2bae8c69" type="box">1</container><container parent="c0d5cb09-80f7-4c70-bbe0-5e3f2bae8c69" type="folder">15</container> 
+			 <unittitle>General. 
+				<unitdate normal="1921/1959" type="inclusive">1921-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Reminiscences, 
+			 <unitdate normal="1903/1956" type="inclusive">1903-1956</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Contains texts relating to the history of a Mormon womens' relief
+			 society by Ella Udall; a brief history by Levi Udall on the construction of the
+			 Apache County Court House; memories by Pearl Nelson of the family's stay in
+			 Hunt and St. Johns in the early 1900s, early Mormon history in Arizona and her
+			 research notes on Don Lorenzo Hubbell and Arizona history; a typescript copy of
+			 recollections by Osmer D. Flake concerning the Pleasant Valley War of the
+			 mid-1880s; and a typescript copy of Orland K. Hamblin's service in the U.S.
+			 Army from 1941-45 including his narration of the Japanese invasion of the
+			 Philippine Islands, the "death march" to Bataan, his life as a prisoner of war
+			 from 1942-45, and his liberation and return to the United States.</p> 
+		</scopecontent> 
+		<c02> 
+		  <did><container id="830884cf-fad6-4c91-ac48-20ab7a34c725" type="box">2</container><container parent="830884cf-fad6-4c91-ac48-20ab7a34c725" type="folder">1</container> 
+			 <unittitle>General. 
+				<unitdate normal="1960/1962" type="inclusive">1960-1962</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="85336ced-e1de-4c47-b753-b48ee852c7bc" type="box">2</container><container parent="85336ced-e1de-4c47-b753-b48ee852c7bc" type="folder">2</container> 
+			 <unittitle>On the Mormon women's relief society. 
+				<unitdate normal="" type="inclusive">1842-1903, ca.
+				  1903</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="c9ce07dc-dade-4ef9-9a77-5371f39b349d" type="box">2</container><container parent="c9ce07dc-dade-4ef9-9a77-5371f39b349d" type="folder">3</container> 
+			 <unittitle>History and cost of Apache County Court House. 
+				<unitdate normal="1913/1923" type="inclusive">ca.
+				  1918</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="2f30c539-5e4b-493c-a343-221461b43173" type="box">2</container><container parent="2f30c539-5e4b-493c-a343-221461b43173" type="folder">4</container> 
+			 <unittitle>Early memories of the Hunt-St. Johns period of our lives,
+				and other research notes. 
+				<unitdate normal="1931/1933" type="inclusive">1931-1933</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="48a6ce0b-f22a-40cc-aba8-3987f9002673" type="box">2</container><container parent="48a6ce0b-f22a-40cc-aba8-3987f9002673" type="folder">5</container> 
+			 <unittitle>Some reminiscences of the Pleasant Valley War and the
+				causes that led up to it. 
+				<unitdate normal="1932/1942" type="inclusive">ca.
+				  1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="ac758bcc-3ed0-4e0d-ba23-45daa894852b" type="box">2</container><container parent="ac758bcc-3ed0-4e0d-ba23-45daa894852b" type="folder">6</container> 
+			 <unittitle>My experiences in the service and as a prisoner of war of
+				the Japs. 
+				<unitdate normal="1956" type="inclusive">1956</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IV: Activity Files, 
+			 <unitdate normal="1937/1962" type="inclusive">1937-1962</unitdate></unittitle> 
+		  <physdesc> 
+			 <title /></physdesc> 
+		</did> 
+		<scopecontent> 
+		  <p>Contains mostly correspondence relating to the settlement of the
+			 estates of David K. and Ella Udall, and later, Levi Udall; a case file relating
+			 to one of Levi Udall's most noted trials Arizona vs. Southern Pacific Railroad;
+			 a folder pertaining to his activities as a leader of Boy Scouts in Arizona;
+			 mateials relating to his election campaigns for the judgship of Arizona Supreme
+			 Court; files relating to the publication, distribution, and reviews of 
+		  <title>Arizona Pioneer Mormon</title>; and his Doctor of Laws honorary
+		  award from the University of Arizona.</p> 
+		</scopecontent> 
+		<c02> 
+		  <did><container id="515c01a6-f33f-4694-8a9a-a7dd92ac085d" type="box">2</container><container parent="515c01a6-f33f-4694-8a9a-a7dd92ac085d" type="folder">7</container> 
+			 <unittitle>Condolences on deaths of David and Ella Udall. 
+				<unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="ad43e41d-645c-4228-bf14-7ccde4bf349b" type="box">2</container><container parent="ad43e41d-645c-4228-bf14-7ccde4bf349b" type="folder">8</container> 
+			 <unittitle>David K. Udall Estate: Correspondence. 
+				<unitdate normal="1938/1944" type="inclusive">1938-1944</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="322655a5-9f8e-4153-9940-169d80c7b8c8" type="box">2</container><container parent="322655a5-9f8e-4153-9940-169d80c7b8c8" type="folder">9</container> 
+			 <unittitle>David K. Udall Estate: Correspondence. 
+				<unitdate normal="1938/1944" type="inclusive">1938-1944</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="a5384fbb-85f3-46fa-a278-429427b7caae" type="box">2</container><container parent="a5384fbb-85f3-46fa-a278-429427b7caae" type="folder">10a</container> 
+			 <unittitle>Arizona vs. Southern Pacific. 
+				<unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="9500433e-c4bb-403e-87af-76cb276a8415" type="box">2</container><container parent="9500433e-c4bb-403e-87af-76cb276a8415" type="folder">10b</container> 
+			 <unittitle>Arizona vs. Southern Pacific. 
+				<unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="83c83d26-741e-48d5-9d0d-5793a9690e5b" type="box">2</container><container parent="83c83d26-741e-48d5-9d0d-5793a9690e5b" type="folder">11</container> 
+			 <unittitle>Arizona Boy Scouts 
+				<unitdate normal="1943/1960" type="inclusive">1943-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="94d4aca3-446b-406e-ba4c-593ec2ad3c68" type="box">2</container><container parent="94d4aca3-446b-406e-ba4c-593ec2ad3c68" type="folder">12</container> 
+			 <unittitle>Arizona Supreme Court Election files. 
+				<unitdate normal="1946/1958" type="inclusive">1946-1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="a0312d8a-d2f4-430f-bc97-f1f17ceeeb82" type="box">2</container><container parent="a0312d8a-d2f4-430f-bc97-f1f17ceeeb82" type="folder">13</container> 
+			 <unittitle>Arizona Supreme Court Election files. 
+				<unitdate normal="1946/1958" type="inclusive">1946-1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="65b2ddbd-2a25-4948-a4a4-b63822ca9372" type="box">2</container><container parent="65b2ddbd-2a25-4948-a4a4-b63822ca9372" type="folder">14</container> 
+			 <unittitle>Arizona Supreme Court Election files. 
+				<unitdate normal="1946/1958" type="inclusive">1946-1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="9f691e49-c65e-4dcb-aeee-9dfd580f6633" type="box">2</container><container parent="9f691e49-c65e-4dcb-aeee-9dfd580f6633" type="folder">15</container> 
+			 <unittitle>Arizona Supreme Court notes and summaries. 
+				<unitdate normal="NaN/NaN" type="inclusive">ca.
+				  1950s</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="ca5ec38a-27a0-43a0-804f-0716e7c1f05d" type="box">2</container><container parent="ca5ec38a-27a0-43a0-804f-0716e7c1f05d" type="folder">16</container> 
+			 <unittitle> 
+				<title>Arizona Pioneer Mormon</title>: Correspondence. 
+				<unitdate normal="NaN/1958" type="inclusive">1926,
+				  1956-1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="8017022a-aed4-4eed-a93c-df5fc7ce0625" type="box">3</container><container parent="8017022a-aed4-4eed-a93c-df5fc7ce0625" type="folder">1</container> 
+			 <unittitle> 
+				<title>Arizona Pioneer Mormon</title> : Correspondence. 
+				<unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="5a981e69-4bff-40c7-b314-247b94c225bb" type="box">3</container><container parent="5a981e69-4bff-40c7-b314-247b94c225bb" type="folder">2</container> 
+			 <unittitle> 
+				<title>Arizona Pioneer Mormon</title>: Correspondence. 
+				<unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="88bf6053-8297-47dc-a4fc-f497eccc9108" type="box">3</container><container parent="88bf6053-8297-47dc-a4fc-f497eccc9108" type="folder">3</container> 
+			 <unittitle> 
+				<title>Arizona Pioneer Mormon</title>:Pedigree chart and notes. 
+				<unitdate normal="1953/1963" type="inclusive">ca.
+				  1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="4b95cb33-bfb1-48de-93d9-48d99ab50fb7" type="box">3</container><container parent="4b95cb33-bfb1-48de-93d9-48d99ab50fb7" type="folder">4</container> 
+			 <unittitle> 
+				<title>Arizona Pioneer Mormon</title>:Book reviews. 
+				<unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="d753fb7f-9765-4081-86d4-9f17ff00a71d" type="box">3</container><container parent="d753fb7f-9765-4081-86d4-9f17ff00a71d" type="folder">5</container> 
+			 <unittitle>Doctor of Laws. 
+				<unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="a2be9674-76f1-47b4-8806-cba391cd8cdd" type="box">3</container><container parent="a2be9674-76f1-47b4-8806-cba391cd8cdd" type="folder">6</container> 
+			 <unittitle>Levi S. Udall Estate. 
+				<unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series V: Ledgers. 
+			 <unitdate normal="1932/1959" type="inclusive">1932-1959</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Contains two volumes relating to accounts for Levi Udall's farming,
+			 title service, and real-estate ventures; his election campaign of 1946; the
+			 settlement of David K. Udall's estate; and miscellaneous family loans. Indexes
+			 to the ledgers are found inside front covers.</p> 
+		</scopecontent> 
+		<c02> 
+		  <did><container id="bb9f7d29-062b-4c90-872f-3ec6ea68dbe6" type="box">3</container><container parent="bb9f7d29-062b-4c90-872f-3ec6ea68dbe6" type="folder">7</container> 
+			 <unittitle>Ledgers. 
+				<unitdate normal="1932/1959" type="inclusive">1932-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="7e85bb4c-eaea-4848-977b-6a733dc5f78d" type="box">3</container><container parent="7e85bb4c-eaea-4848-977b-6a733dc5f78d" type="folder">8</container> 
+			 <unittitle>Ledgers. 
+				<unitdate normal="1932/1959" type="inclusive">1932-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VI: Speeches. 
+			 <unitdate normal="1920/1960" type="inclusive">1920-1960</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Contains public addresses and research materials, mostly periodical
+			 clippings, given by Levi Udall. There are two other speeches, one by H.D. Ross
+			 relating to the history of the office of the Arizona Supreme Court, and the
+			 other by Dr. Clarence G. Salsbury relating to political, social, and economic
+			 problems of the Navajo Indians. The bulk of this series, which constitutes
+			 nearly half of the entire collection, consists of speeches by Udall on
+			 occasions of patriotic and religious holidays. There are also a number of
+			 funeral talks revealing the accomplishments of pioneers and citizens of Apache
+			 County; graduation speeches to local high schools and colleges; professional
+			 addresses to associations of lawyers and judges; and talks given to Mormon
+			 church groups concerning its history and teachings.</p> 
+		</scopecontent> 
+		<c02> 
+		  <did><container id="fe5d545f-3216-41f7-8b68-6102b0f80e31" type="box">3</container><container parent="fe5d545f-3216-41f7-8b68-6102b0f80e31" type="folder">9</container> 
+			 <unittitle>Dedicatory remarks: Arizona Supreme Court Building. 
+				<unitdate normal="1939" type="inclusive">1939</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="3d7098ba-ffb1-40c9-a565-35410be22d9f" type="box">3</container><container parent="3d7098ba-ffb1-40c9-a565-35410be22d9f" type="folder">10</container> 
+			 <unittitle>The Navajo Problem. 
+				<unitdate normal="1948" type="inclusive">1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="07f2927d-ca27-41bd-bef3-1d07a1ec2aad" type="box">3</container><container parent="07f2927d-ca27-41bd-bef3-1d07a1ec2aad" type="folder">11</container> 
+			 <unittitle>General. 
+				<unitdate normal="1920/1958" type="inclusive">1920-1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="289e605b-63eb-4b59-8624-a341dd38e57b" type="box">3</container><container parent="289e605b-63eb-4b59-8624-a341dd38e57b" type="folder">12</container> 
+			 <unittitle>General. 
+				<unitdate normal="1920/1958" type="inclusive">1920-1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="9d593f67-23ef-42d5-9024-4f544c242c24" type="box">3</container><container parent="9d593f67-23ef-42d5-9024-4f544c242c24" type="folder">13</container> 
+			 <unittitle>General. 
+				<unitdate normal="1920/1958" type="inclusive">1920-1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="0d3267a3-50e9-4834-870a-347e854d092e" type="box">3</container><container parent="0d3267a3-50e9-4834-870a-347e854d092e" type="folder">14</container> 
+			 <unittitle>General. 
+				<unitdate normal="1920/1958" type="inclusive">1920-1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="d5bacd9e-69df-4531-91ac-60d0ab47d86f" type="box">4</container><container parent="d5bacd9e-69df-4531-91ac-60d0ab47d86f" type="folder">1</container> 
+			 <unittitle>General. 
+				<unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="64f94087-0ac0-45e1-89a7-396e8b509df8" type="box">4</container><container parent="64f94087-0ac0-45e1-89a7-396e8b509df8" type="folder">2</container> 
+			 <unittitle>General. 
+				<unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="b9d665e1-0c9b-4267-bfac-9c620b902214" type="box">4</container><container parent="b9d665e1-0c9b-4267-bfac-9c620b902214" type="folder">3</container> 
+			 <unittitle>Christmas. 
+				<unitdate normal="1945/1959" type="inclusive">1945-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="51532806-cd43-4f39-a985-8249eacaad10" type="box">4</container><container parent="51532806-cd43-4f39-a985-8249eacaad10" type="folder">4</container> 
+			 <unittitle>Easter. 
+				<unitdate normal="1936/1954" type="inclusive">1936-1954</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="96ff247b-1800-4b64-9b07-efd411333296" type="box">4</container><container parent="96ff247b-1800-4b64-9b07-efd411333296" type="folder">5</container> 
+			 <unittitle>Funeral. 
+				<unitdate normal="1940/1960" type="inclusive">1940-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="45183422-5456-45a6-b48b-e00075dd9a2a" type="box">4</container><container parent="45183422-5456-45a6-b48b-e00075dd9a2a" type="folder">6</container> 
+			 <unittitle>Funeral. 
+				<unitdate normal="1940/1960" type="inclusive">1940-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="78f5e9d2-ded2-44c4-9ccd-0eab7d65fce1" type="box">4</container><container parent="78f5e9d2-ded2-44c4-9ccd-0eab7d65fce1" type="folder">7</container> 
+			 <unittitle>Funeral. 
+				<unitdate normal="1940/1960" type="inclusive">1940-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="b2ea7942-d89e-4816-8832-e6884e6cbf29" type="box">4</container><container parent="b2ea7942-d89e-4816-8832-e6884e6cbf29" type="folder">8</container> 
+			 <unittitle>Graduation. 
+				<unitdate normal="1929/1960" type="inclusive">1929-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="6aa58c5d-7e78-4df3-a7a5-81653b7608fd" type="box">5</container><container parent="6aa58c5d-7e78-4df3-a7a5-81653b7608fd" type="folder">1</container> 
+			 <unittitle>Graduation: fragments. 
+				<unitdate normal="1929/1960" type="inclusive">1929-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="90c68cd5-7ecb-4974-80bd-c61cce314094" type="box">5</container><container parent="90c68cd5-7ecb-4974-80bd-c61cce314094" type="folder">2</container> 
+			 <unittitle>Latter-Day Saints. 
+				<unitdate normal="NaN/1960" type="inclusive">ca.
+				  1920-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="a4775371-1e60-48d4-902f-732423843570" type="box">5</container><container parent="a4775371-1e60-48d4-902f-732423843570" type="folder">3</container> 
+			 <unittitle>Latter-Day Saints. 
+				<unitdate normal="NaN/1960" type="inclusive">ca.
+				  1920-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="9bdf3a31-fa1a-4455-a406-fe0bc88cd65d" type="box">5</container><container parent="9bdf3a31-fa1a-4455-a406-fe0bc88cd65d" type="folder">4</container> 
+			 <unittitle>Latter-Day Saints. 
+				<unitdate normal="NaN/1960" type="inclusive">ca.
+				  1920-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="30367570-e415-494c-a496-fc0503f7d2ba" type="box">5</container><container parent="30367570-e415-494c-a496-fc0503f7d2ba" type="folder">5</container> 
+			 <unittitle>Latter-Day Saints. 
+				<unitdate normal="NaN/1960" type="inclusive">ca.
+				  1920-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VII: Miscellaneous Printed Matter. 
+			 <unitdate normal="NaN/1969" type="inclusive">c.
+				1918-1969</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Contains clippings, poems, and brochures collected by and/or about
+			 Levi Udall and the family. Includes an Arizona Superior Court Final Decree
+			 involving water rights on the Little Colorado River in the St. Johns Irrigation
+			 Company vs. Round Valley Water Storage and Ditch Company, et al, 1918; and a
+			 history of telegraphy in Utah which was compiled by Kate Carter in 1961.</p> 
+		</scopecontent> 
+		<c02> 
+		  <did><container id="c5455c7c-b8d9-40e4-8959-28ea5776d6a1" type="box">5</container><container parent="c5455c7c-b8d9-40e4-8959-28ea5776d6a1" type="folder">6</container> 
+			 <unittitle>Clippings. 
+				<unitdate normal="NaN/NaN" type="inclusive">c.
+				  1940s-1950s</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="fc1b1575-4c49-4325-896c-7e1903330f21" type="box">5</container><container parent="fc1b1575-4c49-4325-896c-7e1903330f21" type="folder">7</container> 
+			 <unittitle>Poems. 
+				<unitdate normal="NaN/NaN" type="inclusive">c.
+				  1930s-1940s</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container id="16d2281c-a7d3-43b3-a6c9-3bf3a5a28031" type="box">5</container><container parent="16d2281c-a7d3-43b3-a6c9-3bf3a5a28031" type="folder">8</container> 
+			 <unittitle>Printed Materials. 
+				<unitdate normal="NaN/1969" type="inclusive">c.
+				  1918-1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

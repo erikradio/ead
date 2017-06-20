@@ -1,0 +1,708 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+		<eadid encodinganalog="856$u">UAMS004</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="245$a">Puebla, Mexico records <date>1655-1898 (bulk
+						1840-1898)</date></titleproper>
+				<author encodinganalog="245$c">Inventory prepared by Staff.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+					Collections</publisher>
+				<address>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+
+				</address>
+				<date>2001</date>
+				<p>Arizona Board of Regents. All Rights Reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation encodinganalog="500">Inventory encoded by Teri Clem. <date>December 19,
+					2001</date></creation>
+			<langusage>Inventory is in<language encodinganalog="546" langcode="eng"
+					>English.</language></langusage>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date normal="2017-06-20">2017-06-20</date>
+				<item>This finding aid was updated in alignment with LC EAD 2.0 specifications using
+					a python script created by Erik Radio.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<titleproper encodinganalog="245$a">Puebla, Mexico records, <date>1655-1898 (bulk
+					1840-1898)</date></titleproper>
+			<num>Collection Number: MS 004</num>
+			<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+				Collections</publisher>
+			<list>
+				<defitem>
+					<label>Processed by:</label>
+					<item>Staff</item>
+				</defitem>
+				<defitem>
+					<label>Date completed:</label>
+					<item>
+						<date>Unknown</date></item>
+				</defitem>
+				<defitem>
+					<label>Encoded by:</label>
+					<item>Teri Clem</item>
+				</defitem>
+			</list>
+			<p>© 2001. Arizona Board of Regents. All rights reserved.</p>
+		</titlepage>
+	</frontmatter>
+	<archdesc encodinganalog="351$c" level="collection">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle encodinganalog="245" label="Collection Name">Puebla, Mexico records,
+					<unitdate normal="1655/1898" type="inclusive">1655-1898 (bulk
+					1840-1898)</unitdate></unittitle>
+			<unitid countrycode="US" encodinganalog="099" label="Collection Number"
+				repositorycode="US-azu">MS 004</unitid>
+			<origination label="Creator">
+				<corpname encodinganalog="110">Puebla (Mexico : State)</corpname>
+			</origination>
+			<abstract label="Abstract">Civil and military records of the City, State and National
+				governments, as well as Catholic Church records. Included are wills, deeds, property
+				records, correspondence, government decrees, civil pensions, military battalion
+				records, convent and monastery records, and fund administration records.</abstract>
+			<physdesc encodinganalog="300$a" label="Physical Description"><extent
+					encodinganalog="300">1.7 linear feet</extent></physdesc>
+			<repository label="Repository">
+				<corpname encodinganalog="110">University of Arizona Libraries, Special
+					Collections</corpname>
+				<address>
+					<addressline>University of Arizona</addressline>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+
+				</address></repository>
+		</did>
+		<accessrestrict encodinganalog="506">
+			<head>Restrictions</head>
+			<p>None.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Copyright</head>
+			<p>It is the responsibility of the user to obtain permission to publish from the owner
+				of the copyright (the institution, the creator of the record, the author or his/her
+				transferees, heirs, legates, or literary executors). The user agrees to indemnify
+				and hold harmless the Arizona Board of Regents for the University of Arizona, its
+				officers, employees, and agents from and against all claims made by any person
+				asserting that he or she is an owner of copyright.</p>
+		</userestrict>
+		<prefercite encodinganalog="524">
+			<head>Credit Line</head>
+			<p>Pueba, Mexico records(MS 004). Special Collections, University of Arizona
+				Libraries.</p>
+		</prefercite>
+		<bioghist encodinganalog="545">
+			<head>Historical Note</head>
+			<p>The state of Puebla is in the central southeastern part of Mexico; its capital is the
+				city of Puebla. Some of the documents have "Puebla de los Angeles," which was the
+				original name when founded by the Spanish in 1532. During the mid-nineteenth
+				century, it was occupied by American, and later French, forces.</p>
+		</bioghist>
+		<arrangement>
+			<head>Organization</head>
+			<p>This collection is organized into two series:</p>
+			<list>
+				<item>Series I: Civil and Church Records</item>
+				<item>Series II: Military Records</item>
+			</list>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Civil and military records of the City, State and National governments, as well as
+				Catholic Church records. Included are wills, deeds, property records,
+				correspondence, government decrees, civil pensions, military battalion records,
+				convent and monastery records, and fund administration records. Most are manuscript,
+				but some are printed, particularly the government decrees, which date from
+				1856-1892. Accounts and documents are present for Casa del Santuario de la Madre
+				Santisima de la Luz, 1838-1839; Colegio de Ni{228}nas Virgenes, 1798-1804; Colegio
+				de Nuestra Se{228}nora de los Gozos, 1835; Convent de San Antonio, 1834, 1855;
+				Convent de San Francisco y Curato de Huejotsingo, 1856; Convent de Santa Barbara,
+				1694, 1747, 1808-1809; and Convent de Santa Catalina, 1841-1842, 1857. Wills and
+				estate documents, 1686-1858; property deeds and titles, 1857; and sale documents,
+				1655-1895, mostly involve property left to the church. Personal letters date from as
+				early as the 1680s and 1690s. A substantial group of documents from 1756 to 1853
+				relates to pious works, donations and foundations. Military records are chiefly
+				retirement papers, an 1818 muster roll of the Royal Bn. of Puebla, and records of
+				the 4th Bn. Casadores, Tehuacan, from 1867.</p>
+			<p>Collection is in Spanish.</p>
+		</scopecontent>
+		<controlaccess>
+			<corpname>Mexico -- Ejercito -- Documents</corpname>
+			<corpname>Colegio de Ninas Virgenes (Puebla, Mexico)</corpname>
+			<corpname>Colegio de Nuestra Senora de los Gozos (Puebla, Mexico)</corpname>
+			<corpname>Convento de San Antonio (Puebla, Mexico)</corpname>
+			<corpname>Convento de San Francisco y Curato de Huejotsingo (Mexico)</corpname>
+			<corpname>Convento de Santa Barbara (Puebla, Mexico)</corpname>
+			<corpname>Convento de Santa Catalina (Puebla, Mexico)</corpname>
+			<corpname>Convento de Santa Catalina (Puebla, Mexico)</corpname>
+			<corpname>Casa del Santuario de la Madre Santisima de la Luz (Puebla, Mexico</corpname>
+			<corpname>Catholic Church -- Mexico -- Puebla (State) -- Records and
+				correspondence</corpname>
+			<subject>Military pensions -- Mexico -- Puebla (State)</subject>
+			<subject>Church property -- Mexico -- Puebla (State)</subject>
+			<geogname>Puebla (Mexico : State) -- History -- Sources</geogname>
+			<geogname>Puebla (Mexico) -- History -- Sources</geogname>
+			<genreform>Correspondence</genreform>
+			<genreform>Wills</genreform>
+			<genreform>Decrees</genreform>
+			<genreform>Accounts</genreform>
+		</controlaccess>
+		<dsc type="combined">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>Series I: Civil and Church Records, <unitdate normal="1655/1892"
+							type="inclusive">1655-1892</unitdate></unittitle>
+				</did>
+				<c02>
+					<did>
+						<container id="38de5d8b-af5b-4c29-a2ba-f3b20edf92e3" type="box"
+							>1</container>
+						<container parent="38de5d8b-af5b-4c29-a2ba-f3b20edf92e3" type="folder"
+							>1</container>
+						<unittitle>Boarding-house Accounts, Puebla. <unitdate normal="1844/1846"
+								type="inclusive">1844-1846</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Pertaining to the managment of the house at no.6, Camarin St.,
+							Puebla.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="35da3b22-c310-4d6e-ac63-5dee596b79f9" type="box"
+							>1</container>
+						<container parent="35da3b22-c310-4d6e-ac63-5dee596b79f9" type="folder"
+							>2</container>
+						<unittitle>Casa del Santuario de la Madre Santisima de la Luz, Puebla.
+								<unitdate normal="1838/1839" type="inclusive"
+							>1838-1839</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Account book. Contains also a record of some deaths.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="ae747a73-2d7d-4284-b4f7-1f68f2466294" type="box"
+							>1</container>
+						<container parent="ae747a73-2d7d-4284-b4f7-1f68f2466294" type="folder"
+							>3</container>
+						<unittitle>Census, Instructions for. Tlaxcala. <unitdate normal="1883"
+								type="inclusive">1883</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Pertaining to the collection of statistical data for the federal
+							government. Issued by Pacheco, Sec. of State.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="17222a2e-6076-41a2-a1a8-f8a26e95dfaa" type="box"
+							>1</container>
+						<container parent="17222a2e-6076-41a2-a1a8-f8a26e95dfaa" type="folder"
+							>4</container>
+						<unittitle>Chaplaincies, Puebla. <unitdate normal="1789/1850"
+								type="inclusive">1789-1850</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>1789. Certification of official records for official purposes.</p>
+
+						<p>1845. Request for a chaplaincy by Don Jose J. Vivenos, proxy for Col. Don
+							Manuel Gomez. (2 copies)</p>
+						<p>1850. Letters from the office of the vicar-general of Puebla to the
+							Treasurer (?) of the chaplains' funds, directing the transfer of funds
+							between certain chaplaincies.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="c5524e09-0658-4cbc-b406-08b954f35080" type="box">1</container>
+						<container parent="c5524e09-0658-4cbc-b406-08b954f35080" type="folder">5</container>
+						<unittitle>Church Records, Miscellaneous. <unitdate normal="1674/1847"
+								type="inclusive">1674-1847</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Circular issued by the Bishop of Chiapas concerning church property,
+							prescribing measures to be taken by church personnel in the face of
+							persecution. Puebla de los Angeles, December 24, 1847.</p>
+						<p>Miscellaneous church records sewn together as a single volume. Includes
+							information on sale of houses and the administration of pious works.
+							Puebla. 1732-1808.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="c6211054-1e01-4d28-bbc9-82c2f56fa883" type="box"
+							>1</container>
+						<container parent="c6211054-1e01-4d28-bbc9-82c2f56fa883" type="folder"
+							>6</container>
+						<unittitle>Church Records: Petition to Spanish King. <unitdate normal="1799"
+								type="inclusive">1799</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="323d66ee-8ff7-42ff-93e8-f73a08187af3" type="box"
+							>1</container>
+						<container parent="323d66ee-8ff7-42ff-93e8-f73a08187af3" type="folder"
+							>7</container>
+						<unittitle>Colegio de Ninas Virgenes, Puebla. <unitdate normal="1798/1804"
+								type="inclusive">1798-1804</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Accounts and documents.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="2d4e62ac-e84d-4142-9278-23db6cc202fc" type="box"
+							>1</container>
+						<container parent="2d4e62ac-e84d-4142-9278-23db6cc202fc" type="folder"
+							>8</container>
+						<unittitle>Colegio de Nuestra Senora de los Gozos, Puebla. <unitdate
+								normal="1835" type="inclusive">1835</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Accounts and documents.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="9a317a5d-6636-40f9-9c86-172dcd96066c" type="box"
+							>1</container>
+						<container parent="9a317a5d-6636-40f9-9c86-172dcd96066c" type="folder"
+							>9</container>
+						<unittitle>Convent de San Antonio, Puebla. <unitdate normal="1834/1855"
+								type="inclusive">1834-1855</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Accounts and documents.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="1353c638-d0e1-4c6b-8bfc-b2679eadf166" type="box"
+							>1</container>
+						<container parent="1353c638-d0e1-4c6b-8bfc-b2679eadf166" type="folder"
+							>10</container>
+						<unittitle>Convent de San Francisco y Curato de Huejotsingo, Huejotsingo.
+								<unitdate normal="1856" type="inclusive">1856</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Accounts and documents.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="ddd93fd3-5c75-4504-9276-9de901cfb4be" type="box"
+							>1</container>
+						<container parent="ddd93fd3-5c75-4504-9276-9de901cfb4be" type="folder"
+							>11</container>
+						<unittitle>Convent de Santa Barbara, Puebla. <unitdate normal="1694/1809"
+								type="inclusive">1694, 1747, 1808-1809</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Accounts and documents.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="f827045b-4e94-4d16-aded-7d5cc172a0c2" type="box"
+							>1</container>
+						<container parent="f827045b-4e94-4d16-aded-7d5cc172a0c2" type="folder"
+							>12</container>
+						<unittitle>Convent de Santa Catalina, Puebla. <unitdate normal="1841/1857"
+								type="inclusive">1841-1857</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Accounts and documents.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="36cf43f0-1cac-498f-80d4-17354fd54558" type="box"
+							>1</container>
+						<container parent="36cf43f0-1cac-498f-80d4-17354fd54558" type="folder"
+							>13-16</container>
+						<unittitle>Decrees, Government. <unitdate normal="1856/1892"
+								type="inclusive">1856-1892</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="83ce78db-5204-427a-868d-14bb44d76ceb" type="box"
+							>1</container>
+						<container parent="83ce78db-5204-427a-868d-14bb44d76ceb" type="folder"
+							>17</container>
+						<unittitle>Letters, Miscellaneous (Official). <unitdate normal="1862/1885"
+								type="inclusive">1862-1885</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>1862. Letters of Military Commander of Tlaxcala to the Secretary of the
+							Treasury, appointing a prefect of the district of Tlaxcala because of
+							illness of the present incumbent.</p>
+						<p>1862. Letter of Military Commander of Tlaxcala requesting Secretary of
+							the Treasury of Tlaxcala to submit a normal tax report showing those
+							citizens who are behind in payments.</p>
+						<p>1865. Letter from Postmaster General of Puebla to Postmaster General of
+							San Martin, enclosing 83 pesos in stamps, with attached invoice.</p>
+
+						<p>1884-1885. Receipts for 16.00 pesos received from head of Treasury Dept.,
+							Puebla, in the case of C. Carlos Rubio, fined by court sentence.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="9b4341a3-c3a6-4265-aa40-a7fd14edc016" type="box"
+							>1</container>
+						<container parent="9b4341a3-c3a6-4265-aa40-a7fd14edc016" type="folder"
+							>18</container>
+						<unittitle>Letters, Miscellaneious (Personal). <unitdate normal="1683/1884"
+								type="inclusive">1683-1884</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Varous subjects and places. (approx. 12)</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="a3dca38f-a18f-4798-872c-e9b1b62484e4" type="box"
+							>1</container>
+						<container parent="a3dca38f-a18f-4798-872c-e9b1b62484e4" type="folder"
+							>19</container>
+						<unittitle>Franciscans. <unitdate normal="1792" type="inclusive"
+								>1792</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Information concerning royal provisions freeing the Franciscans, their
+							works, and properties from taxes. Puebla. </p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="27aa5466-a192-4dc1-b61f-fe3e18f46449" type="box"
+							>1</container>
+						<container parent="27aa5466-a192-4dc1-b61f-fe3e18f46449" type="folder"
+							>20</container>
+						<unittitle>Estate of Captain Juan Sanchez Oredon. <unitdate normal="1693"
+								type="inclusive">1686, 1693</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Documents pertaining to an estate left to a convent. Puebla.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="31efd5f8-096a-41bc-ba26-3ae8abb4908b" type="box"
+							>2</container>
+						<container parent="31efd5f8-096a-41bc-ba26-3ae8abb4908b" type="folder"
+							>1</container>
+						<unittitle>Pensions, Civil. Treasury Office, Puebla. <unitdate normal="1856"
+								type="inclusive">1856</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="892ebfae-b558-4133-9ddd-55b20683d212" type="box"
+							>2</container>
+						<container parent="892ebfae-b558-4133-9ddd-55b20683d212" type="folder"
+							>2</container>
+						<unittitle>Pious Works, Donations, Foundations. <unitdate normal="1756/1853"
+								type="inclusive">1756-1853</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Varous documents. (approx. 16, some of great length)</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="3cf4c327-618b-4aca-8f3f-c9e989b2a81f" type="box"
+							>2</container>
+						<container parent="3cf4c327-618b-4aca-8f3f-c9e989b2a81f" type="folder"
+							>3</container>
+						<unittitle>Property, (Claims) Puebla. <unitdate normal="1874"
+								type="inclusive">1857, 1874</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="53d54fb8-3d9c-41c0-9128-938c7ee58402" type="box"
+							>2</container>
+						<container parent="53d54fb8-3d9c-41c0-9128-938c7ee58402" type="folder"
+							>4</container>
+						<unittitle>Property, (Deeds and Titles). <unitdate normal="1857"
+								type="inclusive">1857</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="1ced455c-4f07-4197-8a4f-f1338028208c" type="box"
+							>2</container>
+						<container parent="1ced455c-4f07-4197-8a4f-f1338028208c" type="folder"
+							>5</container>
+						<unittitle>Property, (Sales). <unitdate normal="1655/1857" type="inclusive"
+								>1655-1857</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="cd246ee7-509c-4e40-874b-c194612da580" type="box"
+							>2</container>
+						<container parent="cd246ee7-509c-4e40-874b-c194612da580" type="folder"
+							>6</container>
+						<unittitle>Property, (Sale of land to Manuel Armijo). <unitdate
+								normal="1880/1895" type="inclusive">1880-1895</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="41112ff7-b242-4777-982d-d887d44c4f30" type="box"
+							>2</container>
+						<container parent="41112ff7-b242-4777-982d-d887d44c4f30" type="folder"
+							>7</container>
+						<unittitle>Water Lease, Puebla. <unitdate normal="1839" type="inclusive"
+								>1839</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Copy of original lease for the use of overflow water from the spring
+							located below the Church of the 3d Order of San Franciso, Puebla.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="95394cf3-4ed9-4d31-99c5-e4ce3fb2afe9" type="box"
+							>2</container>
+						<container parent="95394cf3-4ed9-4d31-99c5-e4ce3fb2afe9" type="folder"
+							>8</container>
+						<unittitle>Wills. <unitdate normal="1761/1858" type="inclusive"
+								>1761-1858</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>16 wills, some providing for the establishment of pious funds at various
+							churches and convents; donations for special masses, and the disposition
+							of property to the Church.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series II: Military Records. <unitdate normal="1818/1898"
+							type="inclusive">1818-1898</unitdate></unittitle>
+				</did>
+				<c02>
+					<did>
+						<container id="9e03aac1-f526-45b3-8485-e9161c9e5838" type="box"
+							>3</container>
+						<container parent="9e03aac1-f526-45b3-8485-e9161c9e5838" type="folder"
+							>1</container>
+						<unittitle>Army Station List. <unitdate normal="1898" type="inclusive"
+								>October 1898</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="3bdf22f8-7b0f-44de-9dab-86a8e0503d21" type="box"
+							>3</container>
+						<container parent="3bdf22f8-7b0f-44de-9dab-86a8e0503d21" type="folder"
+							>2</container>
+						<unittitle>Awards, Military. <unitdate normal="1842" type="inclusive">1823,
+								1842</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="3e58f8c7-5f9f-40e8-91c0-2971d364adac" type="box"
+							>3</container>
+						<container parent="3e58f8c7-5f9f-40e8-91c0-2971d364adac" type="folder"
+							>3</container>
+						<unittitle>Documents of Josefa Bermudes de Rodriguez. <unitdate
+								normal="1863" type="inclusive">1863</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Various documents of the wife of Juan Ignacio Rodriguez, dealing with his
+							military service. Included is a certificate of his death and burial.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="a65351cd-5fa6-4676-bf4a-1d5a3b9fd21d" type="box"
+							>3</container>
+						<container parent="a65351cd-5fa6-4676-bf4a-1d5a3b9fd21d" type="folder"
+							>4</container>
+						<unittitle>4th Bn. Casadores, Tehuacan. <unitdate normal="1867"
+								type="inclusive">1867</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>Deserters, November.</p>
+						<p>Hospital Guard Reports, October-November.</p>
+						<p>Mess Bills, September-November.</p>
+						<p>Special Reports of the Guard, October 1-November 4.</p>
+						<p>Supply Room "Issues," November.</p>
+						<p>Supply Room "Turn-ins," November.</p>
+						<p>Report of Prisoners delivered by the old Officer of the Day to the new
+							Officer of the Day, November.</p>
+						<p>Sgt. of the Guard Reports, November.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="f13739c7-af45-4b31-94ea-589af76f8a85" type="box"
+							>3</container>
+						<container parent="f13739c7-af45-4b31-94ea-589af76f8a85" type="folder"
+							>5</container>
+						<unittitle> Miscellaneious Military Letters. <unitdate normal="1822/1867"
+								type="inclusive">1822-1867</unitdate></unittitle>
+					</did>
+					<scopecontent>
+						<p>1822. Letter certifying payment to Lt. Fernando Astonga.</p>
+						<p>1852. Acknowledgement of receipt for pension, by Maria Susana
+							Matamoros.</p>
+						<p>1867. Letter from a soldier in prison to his captain, requesting help in
+							his case.</p>
+						<p>Letter from Genario Rodriguez, Lt. Col., 1st Light Battalion, to the
+							commander of the Military District of Tenpan, declaring his loyality to
+							the national government and requesting permisssion to unite his
+							battalion with the forces of the General-in-Chief, Ignacio R. Matorri,
+							who is in the north beyond friendly lines. Puebla.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container id="4f33ab53-e30f-4fd0-9a17-9b793605052a" type="box"
+							>3</container>
+						<container parent="4f33ab53-e30f-4fd0-9a17-9b793605052a" type="folder"
+							>6</container>
+						<unittitle>Pensions, Military. <unitdate normal="1851/1856" type="inclusive"
+								>1851-1856</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="b745f87d-4e49-4713-b8cc-c1d3962fabf4" type="box"
+							>3</container>
+						<container parent="b745f87d-4e49-4713-b8cc-c1d3962fabf4" type="folder"
+							>7</container>
+						<unittitle>Royal Bn. of Puebla, Muster Roll. <unitdate normal="1818"
+								type="inclusive">August 3, 1818</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="e169f72d-25c5-47b0-859d-5e62c3d01ed4" type="box"
+							>3</container>
+						<container parent="e169f72d-25c5-47b0-859d-5e62c3d01ed4" type="folder"
+							>8</container>
+						<unittitle>Treasury, Puebla, Retired Military Personnel. <unitdate
+								normal="1856" type="inclusive">1856</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="fb22ecd0-a84c-4f2d-8b51-f8a0331a602c" type="box"
+							>3</container>
+						<container parent="fb22ecd0-a84c-4f2d-8b51-f8a0331a602c" type="folder"
+							>9</container>
+						<unittitle>Military Retired List, Puebla. <unitdate normal="1833"
+								type="inclusive">June 1833</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="898b2fad-3a9d-4738-bb2c-871b82ae9003" type="box"
+							>3</container>
+						<container parent="898b2fad-3a9d-4738-bb2c-871b82ae9003" type="folder"
+							>10</container>
+						<unittitle>Retirement Papers, A - C. (These are the Retirement Papers of
+							individuals whose names appear on the list in Folder #9, arranged
+							alphabetically according to first name of individual). </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="62420662-7864-425a-be66-9fa67fd2e329" type="box"
+							>3</container>
+						<container parent="62420662-7864-425a-be66-9fa67fd2e329" type="folder"
+							>11</container>
+						<unittitle>Retirement Papers, D - I. (These are the Retirement Papers of
+							individuals whose names appear on the list in Folder #9, arranged
+							alphabetically according to first name of individual). </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="452d4f08-b580-4012-a1e9-2b594f6e96a3" type="box"
+							>4</container>
+						<container parent="452d4f08-b580-4012-a1e9-2b594f6e96a3" type="folder"
+							>1-2</container>
+						<unittitle>Retirement Papers, J. (These are the Retirement Papers of
+							individuals whose names appear on the list in Folder #9, arranged
+							alphabetically according to first name of individual). </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="1006f6c5-49ee-4c04-8724-62638b73e24c" type="box"
+							>4</container>
+						<container parent="1006f6c5-49ee-4c04-8724-62638b73e24c" type="folder"
+							>3</container>
+						<unittitle>Retirement Papers, L - M. (These are the Retirement Papers of
+							individuals whose names appear on the list in Folder #9, arranged
+							alphabetically according to first name of individual). </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="51c5f3e3-61cf-4e8e-89ed-9fea29a489fb" type="box"
+							>4</container>
+						<container parent="51c5f3e3-61cf-4e8e-89ed-9fea29a489fb" type="folder"
+							>4</container>
+						<unittitle>Retirement Papers, N - Z. (These are the Retirement Papers of
+							individuals whose names appear on the list in Folder #9, arranged
+							alphabetically according to first name of individual). </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="19feb289-a2aa-43c1-9913-3cdebe9a1246" type="box"
+							>4</container>
+						<container parent="19feb289-a2aa-43c1-9913-3cdebe9a1246" type="folder"
+							>5</container>
+						<unittitle>Retirement Papers. (not on list in Folder #9, Box 3).
+						</unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container id="5986d562-b3f7-4988-b214-21c254393f38" type="box"
+							>4</container>
+						<container parent="5986d562-b3f7-4988-b214-21c254393f38" type="folder"
+							>6</container>
+						<unittitle>Retirement Papers (miscellaneous and incomplete). </unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+   <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+      <eadid encodinganalog="852">UAMS204</eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Temporalidades
+	 	       <date calendar="gregorian" certainty="approximate" era="ce" normal="1664/1765" type="inclusive">1664-1765</date>
+	 	       
+	 	    </titleproper>
+         	<titleproper altrender="nodisplay" type="filing"> Temporalidades
+	 	    
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date calendar="gregorian" era="ce" normal="2016">2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date encodinganalog="date" era="ce" normal="20160426">April 26, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   <revisiondesc><change><date normal="2017-06-20">2017-06-20</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+   <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+      <did> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name"> Temporalidades
+            <unitdate label="Dates" normal="1664/1765" type="inclusive">1664-1765</unitdate>
+  	     </unittitle>	 
+	     <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 204</unitid>
+	     <origination label="Creator"> 
+            <persname encodinganalog="100" source="lcnaf" /> </origination> 
+      	
+      	
+      	
+      	<abstract label="Abstract">Includes visitation reports, statistics, memorias and repuestas from Sonora and Chihuahua of Francisco María Pícolo, Francisco Xavier de Medrano, 
+      								Luis Fernández, José Neumann, Bartolomé Bruan, Antonio de Ydiáquez, Antonio Martini, Jorge Hostinsky, Balthasar de la Pena, Francisco Hermano Glandorff 
+      								and Lorenzo Mendivil.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description"><extent>.1 linear feet</extent></physdesc>	 
+	     <repository label="Repository"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+   	        
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Temporalidades (MS 204). Special Collections, University of Arizona Libraries.</p>
+      </prefercite>
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as gift of Paul M. Roca, 1980.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Jesuit missionaries.</p> 
+      </bioghist> 
+      <scopecontent encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Includes visitation reports, statistics, memorias and repuestas from Sonora and Chihuahua of Francisco María Pícolo, Francisco Xavier de Medrano, Luis Fernández, José 
+      	Neumann, Bartolomé Bruan, Antonio de Ydiáquez, Antonio Martini, Jorge Hostinsky, Balthasar de la Peña, Francisco Hermano Glandorff and Lorenzo Mendivil.</p> 
+      	<p>Photocopy of typescript Spanish transcription and English translation.</p>
+      </scopecontent> 
+      <controlaccess>
+         <corpname>Catholic Church -- History.</corpname><corpname>Jesuits -- Mexico -- History.</corpname><subject>Indians of Mexico -- Missions.</subject><subject>Missionaries -- Mexico.</subject><subject>Missions -- Mexico.</subject><geogname>Mexico -- Church history.</geogname><persname>Braun, Bartholome, 1718-1767.</persname><persname>Fernández, Luis, 1659-1703.</persname><persname>Glandorff, Francisco Hermano, 1687-1763.</persname><persname>Hostinsky, Jorge Stanislas, 1654-1726.</persname><persname>Martini, Antonio.</persname><persname>Medrano, Francisco Xavier, 1643-1713.</persname><persname>Mendivil, Lorenzo.</persname><persname>Neumann, Joseph, 1648-1732.</persname><persname>Pennington, Campbell W.</persname><persname>Peña, Balthasar de la, -1743.</persname><persname>Picolo, Francesco Maria, 1658-1729.</persname><persname>Ydiáquez, Antonio de.</persname></controlaccess>
+   </archdesc>
+</ead>

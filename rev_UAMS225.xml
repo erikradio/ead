@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+   <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+      <eadid encodinganalog="852">UAMS225</eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Carta al Virrey Conde de Revillagigedo
+	 	       <date calendar="gregorian" certainty="approximate" era="ce" normal="1793/1794" type="inclusive">1793-1794</date>
+	 	       
+	 	    </titleproper>
+         	<titleproper altrender="nodisplay" type="filing"> Carta al Virrey Conde de Revillagigedo
+	 	    
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date calendar="gregorian" era="ce" normal="2016">2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date encodinganalog="date" era="ce" normal="20160427">April 27, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   <revisiondesc><change><date normal="2017-06-20">2017-06-20</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+   <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+      <did> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name"> Carta al Virrey Conde de Revillagigedo
+            <unitdate label="Dates" normal="1793/1794" type="inclusive">1793-1794</unitdate>
+  	     </unittitle>	 
+	     <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 225</unitid>
+	     <origination label="Creator"> 
+            <persname encodinganalog="100" source="lcnaf">Barbastro, Francisco Antonio, 1734-1800.</persname> 
+	     </origination> 
+      	<abstract label="Abstract">Collection contains a photocopy of typed transcription of a letter report that Francisco Antonio Barbastro wrote to the Viceroy Count de Revillagigedo, 
+      								from the Aconchi Mission, and completed on December 1, 1793. It was apparently sent first to his guardian superior at the Querétaro College, Father Juan 
+      								Francisco Rivera, because Rivera added his addendum to the Viceroy, dated January 21, 1794. Barbastro's 48-page report first discusses conditions 
+      								in Sonora: the geography, the missions and towns, the temporal state, the spiritual state, and Indian industries. The most substantial section follows 
+      								and concerns the secularization of the missions.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description"><extent>.1 linear feet</extent></physdesc>	 
+	     <repository label="Repository"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="spa">Spanish.</language></langmaterial>
+   	        
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Carta al Virrey Conde de Revillagigedo (MS 225). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as gift, 1980.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Franciscan priest; served at Tubutama and various other missions; and was the Father President of the Sonoran missions, 1781- 1783. Known for his 1788 Compendio, a 
+      	history of the Sonoran mission activities of the Querétaro Franciscans.</p> 
+      </bioghist> 
+      <arrangement encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized by topic.</p>
+      </arrangement> 
+      <scopecontent encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Photocopy of typed transcription of a letter report that Francisco Antonio Barbastro wrote to the Viceroy Count de Revillagigedo, from the Aconchi Mission, and completed on 
+      	December 1, 1793. It was apparently sent first to his guardian superior at the Querétaro College, Father Juan Francisco Rivera, because Rivera added his addendum to the
+      	Viceroy, dated January 21, 1794. Barbastro's 48-page report first discusses conditions in Sonora: the geography, the missions and towns, the temporal state, the spiritual 
+      	state, and Indian industries. The most substantial section follows and concerns the secularization of the missions.</p> 
+      </scopecontent> 
+      <relatedmaterial encodinganalog="544">
+      	<p>An English translation may be found at: MS 197.</p>
+      	<p>Photocopy from the Bolton Collection, Bancroft Library, University of California, Berkeley; original at the Archivo General de la Nación, Ramo de Provincias Internas, 
+      	Mexico City.</p>
+      </relatedmaterial> 
+      <controlaccess>
+         <persname>Barbastro, Francisco, Antonio, 1734-1800.</persname><corpname>Colegio de Misioneros de Propaganda Fide de la Santa Cruz (Querétaro, Mexico).</corpname><corpname>Franciscans -- Missions -- Mexico -- Sonora (State) -- History -- Sources.</corpname><subject>Indians of Mexico -- Mexico -- Sonora (State) -- History -- 18th century.</subject><subject>Missionaries -- Mexico -- Sonora (State)</subject><subject>Missions -- Mexico -- Sonora (State) -- History -- 18th century.</subject><subject>Piman Indians -- Missions -- History -- 18th century.</subject><geogname>Mexico -- Church history -- Sources.</geogname><geogname>Pimería Alta (Mexico and Ariz.) -- Church history -- Sources.</geogname><persname>Rivera, Juan Francisco.</persname></controlaccess>
+   </archdesc>
+</ead>

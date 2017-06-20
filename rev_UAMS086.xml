@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid encodinganalog="852">UAMS086</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>Records of the San Juan de la Cruz Hacienda (Mexico),
+	 		<date calendar="gregorian" certainty="approximate" era="ce" normal="1645/1805">1649-1805</date>
+	 		</titleproper>
+	 	<titleproper altrender="nodisplay" type="filing">Records of the San Juan de la Cruz Hacienda (Mexico)</titleproper>
+	 	<author>Processed by TST.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date calendar="gregorian" era="ce" normal="2013">2013</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by George L. Apodaca. 
+  		<date encodinganalog="date" era="ce" normal="20131118">November 18, 2013</date></creation> 
+	 <langusage>Finding aid is in<language langcode="eng"> English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-20">2017-06-20</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Records of the San Juan de la Cruz Hacienda (Mexico),<date calendar="gregorian" era="ce">1649-1805</date>
+  	</titleproper> 
+	 <num>Collection Number:MS 086</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>TST</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>April 2013</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>George L. Apodaca</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2013. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name"> Records of the San Juan de la Cruz Hacienda (Mexico), 
+		<unitdate label="Dates" normal="1649/1805" type="inclusive">1649-1805</unitdate></unittitle>	 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 086</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="110" source="lcnaf">San Juan de la Cruz Hacienda (Mexico)</persname> </origination> 
+  	<abstract label="Abstract">Sixteen manuscripts, dated between 1649 and 1805, consisting of legal proceedings, receipts, 
+  		deeds, and business records relating to the San Juan de la Cruz Hacienda and flour mill, which was located in 
+  		Nueva Vizcaya, New Spain (in the present state of Chihuahua, Mexico).</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent>0.1 linear feet</extent></physdesc>	 
+	 <repository label="Repository"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng">English</language> and <language encodinganalog="546" langcode="spa">Spanish</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>San Juan de la Cruz Hacienda records (MS 086). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>The original name, as it appears in the documents, was Hacienda de San Nicolás or, alternatively, Rancho de 
+  		San Nicolás, derived from the Chapel of San Nicolás which was built at the Hacienda of Juan Muñoz Olvera, 
+  		in the later seventeenth century. It was located in the San Bartolomé Valley, Nueva Vizcaya, New Spain 
+  		(present day state of Chihuahua, Mexico).</p> 
+  </bioghist> 
+  <arrangement encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into one series.</p>	 
+	 <list> 
+		<item>Series I: Documents 
+			<unitdate calendar="gregorian" era="ce" normal="1649/1805">1649-1805</unitdate></item>
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Sixteen manuscripts, dated 1649-1805, that contain legal proceedings, receipts, deeds and business records 
+  		relating to the hacienda and flour mill, located in the jurisdiction of the Valle de San Bartolomé, Nueva Vizcaya, 
+  		New Spain (present day state of Chihuahua, Mexico. The original 1666 building permit for the chapel is present; 
+  		issued by the Bishop of Durango, and it was renewed from 1678 to 1775. Other late seventeenth century items 
+  		include receipts and statements of debt relating to Captain Juan Gutiérrez, Juana Gutiérrez, and Second 
+  		Lieutenant Juan Ponce de León. Among the eighteenth century records are a levy for pious work, title costs for 
+  		a cattle and horse pasture, an inventory, and sale records for the hacienda with Don Augustín de Soto named as 
+  		the owner.</p> 
+  </scopecontent> 
+	
+  <controlaccess> 
+	 <persname>Olvera, Juan Muñoz de</persname><persname>Gutiérrez, Juan</persname><persname>Gutiérrez Haces, Juana</persname><persname>Gutiérrez Haces, Juana</persname><persname>León, Juan Ponce de—18th century</persname><persname>Soto, Augustín de</persname><subject>Haciendas—Mexico—Chihuahua (State)—History—Sources</subject><subject>Flour mills—Mexico—Chihuahua (State)—History—Sources</subject><subject>San Juan de la Cruz Hacienda (Mexico)—History—Sources</subject><subject>Chihuahua (Mexico : State)—History—Sources</subject><subject>Nueva Vizcaya (New Spain)—History—Sources</subject><subject>Mexico—History—Spanish colony, 1540-1810</subject><geogname>San Bartolomé Valley (Mexico)</geogname></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle> Series I: Documents
+			 <unitdate type="inclusive">1649-1805</unitdate></unittitle> 
+		</did> 
+	 	<arrangement><p>This series is arranged in chronological order. </p></arrangement>
+		<c02 level="file"> 
+		  <did> <container id="cbe811e3-6c2c-476a-962f-6681394eed1d" type="box">1</container> 
+			 <container parent="cbe811e3-6c2c-476a-962f-6681394eed1d" type="folder">1</container> 
+		  	<unittitle>Legal proceedings undertaken by the alcalde mayor of the Pueblo y Valle de San Bartolomé.
+		  		1649 (date of seal), 1676 (date of document)</unittitle>
+		  	<unitdate>1649, 1676</unitdate>
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+				<did> <container id="b9b208a6-1eac-4f1d-9814-ad502541fe8f" type="box">1</container> 
+					<container parent="b9b208a6-1eac-4f1d-9814-ad502541fe8f" type="folder">2</container> 
+					<unittitle>Receipts, Statements of Debts, Notes, etc. mostly relating to Capt. Juan Gutierrez, 
+						his wife Juana Gutierrez, and the Alferez Juan Ponce de Leon of the Rancho of San Nicolás. 7 pp.  
+					</unittitle>
+					<unitdate>1664-1688</unitdate>
+				</did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="b3cc6bdf-19a8-4005-ae71-240fab04fe9d" type="box">1</container> 
+	 			<container parent="b3cc6bdf-19a8-4005-ae71-240fab04fe9d" type="folder">3</container> 
+	 			<unittitle>Fragment. Legal proceedings? Valle de San Bartolomé. Damaged. 1 pp.</unittitle>
+	 			<unitdate>1676</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="fe48e52c-93e9-4ce8-8a43-8495c6e5579d" type="box">1</container> 
+	 			<container parent="fe48e52c-93e9-4ce8-8a43-8495c6e5579d" type="folder">4</container> 
+	 			<unittitle>License or permit to construct a chapel on the Hacienda (and Flour Mill) of Juan Muñoz de 
+	 				Olvera located in the jurisdiction of the Valle de San Bartolomé. Chapel to be called San Nicolás. 
+	 				Permit issued by the Bishop of Durango. Kingdom of Nueva Vizcaya. Verso of p. 1 and pp. 2-6 are renewals 
+	 				of the above permit.</unittitle>
+	 			<unitdate>1666, 1678-1775</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="6ea609d2-7433-4d94-8e05-3d3bd0a69e89" type="box">1</container> 
+	 			<container parent="6ea609d2-7433-4d94-8e05-3d3bd0a69e89" type="folder">5</container> 
+	 			<unittitle>Statement of funds.</unittitle>
+	 			<unitdate>1687</unitdate>
+	 		</did> 
+	 	</c02> 
+	
+	 	<c02 level="file"> 
+	 		<did> <container id="0302552c-d1f4-43af-b3a6-4a507ceb1944" type="box">1</container> 
+	 			<container parent="0302552c-d1f4-43af-b3a6-4a507ceb1944" type="folder">6</container> 
+	 			<unittitle>Papers relating to the sale of the Rancho and Mill of San Nicolás, 1778. Includes copy of 
+	 				earlier deed, 1698. 5 pp.</unittitle>
+	 			<unitdate>1698, 1778</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="b13f26b0-46a0-4737-836a-097bb9a9d89b" type="box">1</container> 
+	 			<container parent="b13f26b0-46a0-4737-836a-097bb9a9d89b" type="folder">7</container> 
+	 			<unittitle>Papers relating to the ownership of the Hacienda of San Nicolás. 18 pp.</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="0decbc35-688a-4a7b-a25d-e60c28ba7ba2" type="box">1</container> 
+	 			<container parent="0decbc35-688a-4a7b-a25d-e60c28ba7ba2" type="folder">8</container> 
+	 			<unittitle>Levy for “pious work.” Valle de San Bartolomé. March 26, 1732. 1 p.</unittitle>
+	 			<unitdate>1732</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="8d39d24d-86b6-4e60-a933-cfde64006e55" type="box">1</container> 
+	 			<container parent="8d39d24d-86b6-4e60-a933-cfde64006e55" type="folder">9</container> 
+	 			<unittitle>(9)	Fragment of a deed?  1733?  1 p.</unittitle>
+	 			<unitdate>1733</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="84cabb38-5762-47ca-9c52-3a02b9eff286" type="box">1</container> 
+	 			<container parent="84cabb38-5762-47ca-9c52-3a02b9eff286" type="folder">10</container> 
+	 			<unittitle>Summary of costs involved in issuing title to a pasture for cattle and horses (ganado mayor). 
+	 				Damaged. March 1759. Valle de San Bartolomé.</unittitle>
+	 			<unitdate>1759</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="69890269-6027-48b7-95de-51e78f27a039" type="box">1</container> 
+	 			<container parent="69890269-6027-48b7-95de-51e78f27a039" type="folder">11</container> 
+	 			<unittitle>Inventory and papers relating to the sale of the Hacienda de San Nicolás to the sole bidder at 
+	 				public auction, Don Augustín Soto. Certified in Durango, Sept. 19, 1774. 19 pp. Damaged. Incomplete.
+	 			</unittitle>
+	 			<unitdate>1774</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b1b49554-2d76-4d83-ade0-ffc8fbe8db00" type="box">1</container> 
+	 			<container parent="b1b49554-2d76-4d83-ade0-ffc8fbe8db00" type="folder">12</container> 
+	 			<unittitle>Assorted documents dated 1728-1800 relating to the affairs of the Hacienda de San Nicolás. 
+	 				Autos (decrees), ecclesiastical papers, etc. 17 pp. (Bound with #11)</unittitle>
+	 			<unitdate>1728-1800</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="4ef75114-c417-4dee-a7f9-d4a09012816b" type="box">1</container> 
+	 			<container parent="4ef75114-c417-4dee-a7f9-d4a09012816b" type="folder">13</container> 
+	 			<unittitle>Deed to the Hacienda de San Nicolas and its flour mill disposed of through public sale.  
+	 				Augustín de Soto. June 27, 1778. 12 pp.</unittitle>
+	 			<unitdate>1778</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="44e1ba16-b5ac-47f4-b0fd-603ed76c1def" type="box">1</container> 
+	 			<container parent="44e1ba16-b5ac-47f4-b0fd-603ed76c1def" type="folder">14</container> 
+	 			<unittitle>Receipt for 506 pesos (fees of this parish). Augustín Soto. Parral. March 13, 1800. 1 p.</unittitle>
+	 			<unitdate>1800</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="de2329d8-a721-401b-947f-6c67fdfad387" type="box">1</container> 
+	 			<container parent="de2329d8-a721-401b-947f-6c67fdfad387" type="folder">14</container> 
+	 			<unittitle>Receipt for 506 pesos (fees of this parish). Augustín Soto. Parral. March 13, 1800. 1 p.</unittitle>
+	 			<unitdate>1800</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f7326e1e-9d7c-43cf-86a7-6373db41e08d" type="box">1</container> 
+	 			<container parent="f7326e1e-9d7c-43cf-86a7-6373db41e08d" type="folder">15</container> 
+	 			<unittitle>Document of the Hacienda of San Nicolás. June 15, 1805. 1 p. Damaged.</unittitle>
+	 			<unitdate>1805</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="a8e3b876-0c20-4cac-9cf0-f69aca4b3129" type="box">1</container> 
+	 			<container parent="a8e3b876-0c20-4cac-9cf0-f69aca4b3129" type="folder">16</container> 
+	 			<unittitle>Fragment. 1 p.</unittitle>
+	 			
+	 		</did> 
+	 	</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

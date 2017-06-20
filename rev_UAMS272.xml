@@ -1,0 +1,2578 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">UAMS272</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">William Emmanuel Defty papers, 
+		  <date>1868-1927</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Peter Steere, Susan
+		  Matthews, and Dodd Kearney.</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Finding aid encoded by Jan Marie Payne. 
+		<date>October 22, 2001</date></creation> 
+	 <langusage>Finding aid is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-20">2017-06-20</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">William Emmanuel Defty papers,
+		<date>1868-1927</date></titleproper>
+	 <num>Collection Number: MS 272</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Peter Steere, Susan Matthews, and Dodd Kearney</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>September 1988</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Jan Marie Payne</item>
+		</defitem>
+	 </list>
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did>
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name">William Emmanuel
+		Defty papers, 
+		<unitdate normal="1868/1927" type="inclusive">1868-1927</unitdate></unittitle>
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 272</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Defty, William E.,
+		  1862-1925</persname></origination>
+	 <abstract label="Abstract">This collection is organized into two subgroups: personal and
+		family papers from 1868 to 1927, most of which date from the late 1880s, and
+		business records from the late 1880s to 1925. Most of the personal and family
+		papers consist of clippings and invitations relating to the Deftys' musical
+		interests, but also include a few family photographs and two
+		diaries.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">10.45 linear feet</extent></physdesc>
+	 <repository label="Repository">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p>William Emmanuel Defty papers (MS 272).Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head>
+	 <p>From dates entered into his personal diary, it can be established that
+		W.E. Defty was born in England on March 20, 1862. Of Mr. Defty's activities in
+		England, prior to his arrival in the United States, little is mentioned in
+		these papers. Defty emigrated to the United States from England, and arrived in
+		New York City via Liverpool on October 7, 1887. He proceeded by rail to Los
+		Angeles, arriving on October 15, 1887.</p> 
+	 <p>In southern California, Defty assisted his father, Henry Defty, and his
+		uncle, Jacob Defty, in the procurement and sale of real estate to English
+		investors, including the purchase of Santa Catalina Island. All of the Deftys
+		were involved in mining activities in the San Bernadino Mountains during the
+		late 1880s and early 1890s. At this time, also, Defty and his wife Ione joined
+		in the social life of the Los Angeles area, participating in various musical
+		performances and events. </p>
+	 <p>In 1890, Defty moved to Gila Bend, Arizona, and worked as engineer on
+		the Gila Bend Canal Co. By 1891, he worked as a mining engineer, geologist and
+		mining consultant, with offices in Phoenix. For the next thirty-five years, Mr.
+		Defty operated this business, specializing in detailed mining reports, the
+		acquisition and sale of small mining properties, the formation of joint-stock
+		mining companies, and the management of mining properties. While the majority
+		of his work was done in Arizona, Defty also inspected properties in Alabama,
+		California, Colorado, Idaho, Montana, Nevada, New Mexico, South Carolina,
+		Jamaica and Mexico.</p>
+	 <p>Between 1890 and 1910, Defty was extensively involved with a series of
+		mining ventures in Sonora, Mexico as a mining engineer, mine broker and mine
+		manager. His most notable tenure in Sonora was as general manager and
+		part-owner of the La Gran Proveedora de Cobre, an American-owned copper mining
+		company with properties in the Altar Mining District. </p>
+	 <p>He died in Los Angeles in July, 1925 after a short illness and was
+		buried in Phoenix.</p>
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into two subgroups: </p> 
+	 <list> 
+		<item>Subgroup I: Personal and Family Papers, 
+		  <date>1868-1927</date></item> 
+		<item>Subgroup II: Business Records, 
+		  <date>1886-1925</date></item>
+	 </list> 
+  </arrangement>
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>This collection is organized into two subgroups: personal and family
+		papers from 1868 to 1927, most of which date from the late 1880s, and business
+		records from the late 1880s to 1925.</p> 
+	 <p>Most of the personal and family papers consist of clippings and
+		invitations relating to the Deftys' musical interests, but also include a few
+		family photographs and two diaries. The diary entries generally contain very
+		brief statements of activities for a particular day and can be related to the
+		mining reports and field notebooks by date. </p>
+	 <p>The business records which include correspondence, field notebooks,
+		mining reports, other non-mining business reports and maps and blueprints are
+		the bulk of this collection. These records relate to Defty's business
+		activities which consisted largely of preparing detailed mining reports,
+		commissioned by both individuals and large investment and mining concerns. For
+		the most part, the reports pertain to mining sites in Arizona and Sonora,
+		Mexico, but there are also some other states in the U.S. and countries as far
+		away as Jamaica. Other business records relate to his involvement with several
+		irrigation companies engaged in developing lands for agricultural purposes in
+		Arizona and California. The mining reports can be specifically tied into the
+		field notebooks and the diaries. For a given mining report with a date, the
+		researcher can refer to the same date in a field notebook and diary and find
+		additional information on an individual mine. The field notebooks contain the
+		most detailed information since they have all of the basic field data from
+		which Defty wrote his reports for clients. For a more detailed description of
+		each series, see below.</p>
+  </scopecontent> 
+  <controlaccess>
+	 <corpname>Arizona-Mexican Copper
+			 Company</corpname><subject>Ramie industry -- Arizona</subject><subject>Engineering -- Arizona</subject><subject>Irrigation -- Arizona</subject><subject>Mines and mineral resources -- Arizona -- Cochise
+			 County</subject><subject>Mines and mineral resources -- Arizona -- Coconino
+			 County</subject><subject>Mines and mineral resources -- Arizona -- Gila
+			 County</subject><subject>Mines and mineral resources -- Arizona -- Graham
+			 County</subject><subject>Mines and mineral resources -- Arizona -- Maricopa
+			 County</subject><subject>Mines and mineral resources -- Arizona -- Mohave
+			 County</subject><subject>Mines and mineral resources -- Arizona -- Pima
+			 County</subject><subject>Mines and mineral resources -- Arizona -- Pinal
+			 County</subject><subject>Mines and mineral resources -- Arizona -- Santa Cruz
+			 County</subject><subject>Mines and mineral resources -- Arizona -- Yavapai
+			 County</subject><subject>Mines and mineral resources -- Arizona -- Yuma
+			 County</subject><genreform>Correspondence</genreform><genreform>Diaries</genreform><genreform>Blueprints</genreform><genreform>Scrapbooks</genreform><genreform>Reports</genreform><genreform>Fieldnotes</genreform></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head>
+	 <c01 level="subgrp">
+		<did>
+		  <unittitle>Subgroup I: Personal and Family Papers, 
+			 <unitdate normal="1868/1927" type="inclusive">1868-1927</unitdate></unittitle> 
+		</did> 
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series I: Biographical materials, 
+				<unitdate normal="1887/1925" type="inclusive">1887-1925</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p> Contains various newspaper clippings relating to W.E. Defty, his
+				father, Henry Defty, his uncle, Jacob Defty, and includes W.E. Defty's
+				professional membership certificates, voting registration, and naturalization
+				papers.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container id="0dddc4b5-a162-4ac7-81db-cbc4ad28f07f" type="box">1</container><container parent="0dddc4b5-a162-4ac7-81db-cbc4ad28f07f" type="folder">1</container>
+				<unittitle>Biographical material for Defty, William E. 
+				  <unitdate normal="1887/1925" type="inclusive">1887-1925</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="81db68cc-8ba7-4f7d-9ff5-e78d06cbee7c" type="box">1</container><container parent="81db68cc-8ba7-4f7d-9ff5-e78d06cbee7c" type="folder">2</container>
+				<unittitle>Biographical material for Defty, Henry and Jacob. 
+				  <unitdate normal="1887/1890" type="inclusive">1887-1890</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series II: Scrapbooks and photograph albums, 
+				<unitdate normal="1890/1927" type="inclusive">1890-1927</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains a scrapbook of programs, invitations, thank-you notes and
+				newspaper clippings mostly relating to the musical activities of the Defty
+				family. The photograph albums contain black-and-white photographs, largely
+				unidentified, of various mining sites probably located primarily in Arizona or
+				Mexico, street and desert scenes in the Southwest and Mexico, people, and a few
+				of family members including the home of an aunt in Paris, France. </p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container id="ec4a9801-7036-4c64-9aef-e33dcf1c93b7" type="box">1</container><container parent="ec4a9801-7036-4c64-9aef-e33dcf1c93b7" type="folder">3</container>
+				<unittitle>Scrapbook. 
+				  <unitdate normal="1895/1927" type="inclusive">1895-1927</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="b9d43163-8073-41c8-80cf-4f6f6a8b9f38" type="box">1</container><container parent="b9d43163-8073-41c8-80cf-4f6f6a8b9f38" type="folder">4-6</container>
+				<unittitle>Defty Family Photograph Albums 1-3. 
+				  <unitdate normal="NaN/1915" type="inclusive">ca.
+					 1890-1915</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series III: Diaries, 
+				<unitdate normal="1868/1925" type="inclusive">1868-1925</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains primarily a brief daily account of W.E. Defty's personal,
+				travel and business activities. Also contains some birth and death dates of
+				members of the Defty family, although they are identified only by initials. The
+				entries in these diaries are quite brief. The entire train trip from Chicago to
+				Los Angeles in 1887 consists of only a few lines. There also are large gaps in
+				the early years from 1868-1887. The diaries can be correlated to a large extent
+				with events described in Defty's field notebooks, particularly from
+				1887-1925.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container id="005f600f-31e5-47d4-aef6-e23f91f45083" type="box">1</container><container parent="005f600f-31e5-47d4-aef6-e23f91f45083" type="folder">7</container>
+				<unittitle>Diaries (2). 
+				  <unitdate normal="" type="inclusive">1868-1910/1910-1925</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+	 </c01> 
+	 <c01 level="subgrp">
+		<did>
+		  <unittitle>Subgroup II: Business Records, 
+			 <unitdate normal="1886/1925" type="inclusive">1886-1925</unitdate></unittitle>
+		</did>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series I: Correspondence, 
+				<unitdate normal="1887/1910" type="inclusive">1887-1910</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains 1 folder of general business correspondence received by
+				W.E. Defty, concerning various mining properties he inspected. Contains 8 other
+				folders, divided into correspondence from various individuals, regarding
+				Defty's mining interests, as either an engineer, general manager, part owner,
+				or investment broker.</p>
+			 <p>Much of this correspondence can be traced to mining activities
+				mostly in Yavapai and Maricopa counties, Arizona. The Gunther business
+				correspondence discusses Defty's involvement with A.P. Gunther as a mining
+				broker, and relates to the Maricopa Copper Mining Company, and several
+				different groups of mining properties including the Gunther properties, the
+				Independence group of mines and the Keystone mines. It also includes
+				correspondence from Evans, another partner who was involved with Gunther in
+				some of these operations.</p>
+			 <p>Letters received from F.A. Bradley concerned the operations of the
+				Ibex Mine in California.</p>
+			 <p>The Leigh correspondence contains letters primarily from Leigh,
+				but also from two other partners, Helzard and Jones, and describes a business
+				partnership Defty entered into with these three men, who were engaged in
+				buying, selling, leasing and promoting mines. It also includes letters
+				regarding daily activities at the Maricopa Copper Mining Company properties,
+				where Defty was general manager, and letters relating to the Little Jesse mine,
+				in which Leigh, Defty, Helzard and Jones were all involved in promotion and
+				management activities.</p>
+			 <p>The Meston correspondence includes letters from Francis and George
+				Meston, investment and securities brokers in Pueblo, Colorado, and Boston,
+				Massachusetts, and was primarily concerned with the operations of the Ozborn
+				Mines near Wickenburg, Arizona, where Defty functioned as the general manager.
+				The Mestons appear to have been the major financial backers of this mining
+				venture.</p>
+			 <p>The Price correspondence relates primarily to the Maricopa Copper
+				Mining Company and also discussed the Gunther property and the Little Jesse
+				mine.</p>
+			 <p>The Stewart correspondence contains letters regarding Stewart and
+				Defty's activities as brokers for mining properties, but also contains letters
+				concerning the Vulture Gold Company, where Stewart served as secretary and
+				treasurer and for whom Defty did engineering work. It also refers to the
+				Chicago group of mines and the Gunther property.</p>
+		  </scopecontent>
+		  <c03>
+			 <did><container id="a6ddeb5c-485c-4926-99e2-051c729cc4f0" type="box">2</container><container parent="a6ddeb5c-485c-4926-99e2-051c729cc4f0" type="folder">1</container>
+				<unittitle>General Business. 
+				  <unitdate normal="1887/1910" type="inclusive">1887-1910</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="b426ecb7-7933-43c8-b5b6-364c8706c66e" type="box">2</container><container parent="b426ecb7-7933-43c8-b5b6-364c8706c66e" type="folder">2</container>
+				<unittitle>Bradley, F.A. 
+				  <unitdate normal="1898" type="inclusive">1898</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="b74b2460-7611-401d-89a7-595c6835b5ca" type="box">2</container><container parent="b74b2460-7611-401d-89a7-595c6835b5ca" type="folder">3</container>
+				<unittitle>Gunther, A.P. 
+				  <unitdate normal="1899/1902" type="inclusive">1899-1902</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="025d541f-7dd2-4a54-b02e-724df2e33c9c" type="box">2</container><container parent="025d541f-7dd2-4a54-b02e-724df2e33c9c" type="folder">4</container>
+				<unittitle>Leigh, George. 
+				  <unitdate normal="1898" type="inclusive">1898</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="340d991b-4817-4391-9f2c-d8f901049dfa" type="box">2</container><container parent="340d991b-4817-4391-9f2c-d8f901049dfa" type="folder">5-7</container>
+				<unittitle>Meston, Francis and George. 
+				  <unitdate normal="1899/1902" type="inclusive">1899-1902</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="8a6a5a94-4036-428a-b96b-12734162232c" type="box">2</container><container parent="8a6a5a94-4036-428a-b96b-12734162232c" type="folder">8</container>
+				<unittitle>Price, John E. 
+				  <unitdate normal="1899/1901" type="inclusive">1899-1901</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="7e17da05-bf2c-4037-a9de-327a0d4e508c" type="box">2</container><container parent="7e17da05-bf2c-4037-a9de-327a0d4e508c" type="folder">9</container>
+				<unittitle>Stewart, H.W. 
+				  <unitdate normal="1899/1902" type="inclusive">1899-1902</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series II: Field notebooks, 
+				<unitdate normal="1886/1925" type="inclusive">1886-1925</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains 19 field notebooks, concerning his inspection of mines.
+				Includes sketches of shafts, ore values, and geological notes. The notebooks
+				can be specifically correlated with dated individual mining reports for all of
+				the locations Defty examined. These notebooks served as his primary source of
+				information for generating his mining reports. Individual entries may be
+				several pages in length and quite detailed.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container id="eb989896-17b1-4619-bb14-1c1f228c306d" type="box">2</container><container parent="eb989896-17b1-4619-bb14-1c1f228c306d" type="folder">10-17</container>
+				<unittitle>Field Notebooks. 
+				  <unitdate normal="1886/1925" type="inclusive">1886-1925</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series III: Mining reports, 
+				<unitdate normal="1886/1925" type="inclusive">1886-1925</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains primarily mining reports, but may include company
+				prospectus, assay reports, receipts, photographs, letters, maps and drawings.
+				Some folders may include series of engineer and supplementary reports, other
+				folders may contain only a single handwritten report, or only a letter.</p>
+		  </scopecontent>
+		  <c03 level="subseries">
+			 <did>
+				<unittitle>Arizona</unittitle>
+			 </did>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Cochise</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="624b2f60-a1cd-4369-82b1-5951a90d62b2" type="box">3</container><container parent="624b2f60-a1cd-4369-82b1-5951a90d62b2" type="folder">1</container>
+					 <unittitle>California - Chiricahua Copper Mining Co. 
+						<unitdate normal="NaN" type="inclusive">1905?</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="7455b891-e126-43a7-96c4-61680e975ede" type="box">3</container><container parent="7455b891-e126-43a7-96c4-61680e975ede" type="folder">2</container>
+					 <unittitle>California - White Marble Placer. 
+						<unitdate normal="1912" type="inclusive">1912</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="cb9e3827-9481-4729-ac21-7c3267d3bd8b" type="box">3</container><container parent="cb9e3827-9481-4729-ac21-7c3267d3bd8b" type="folder">3</container>
+					 <unittitle>Cochise - Tungsten Properties. 
+						<unitdate normal="1900" type="inclusive">1900</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="2f2be7c3-05de-4938-a27d-0cc8fe776673" type="box">3</container><container parent="2f2be7c3-05de-4938-a27d-0cc8fe776673" type="folder">4</container>
+					 <unittitle>Cochise - Wolframite Claims. 
+						<unitdate normal="1900" type="inclusive">1900</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="904f9d4f-917f-4f75-a5f7-955b8e60ff75" type="box">3</container><container parent="904f9d4f-917f-4f75-a5f7-955b8e60ff75" type="folder">5</container>
+					 <unittitle>Tombstone - Louise and Randolph Claims. 
+						<unitdate normal="1920" type="inclusive">1920</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="e29621c1-1607-4950-a7e6-d3b203808d10" type="box">3</container><container parent="e29621c1-1607-4950-a7e6-d3b203808d10" type="folder">6</container>
+					 <unittitle>Tombstone - Old Guard Mine. 
+						<unitdate normal="1886/1887" type="inclusive">1886-1887</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="bd433629-b95e-4dd3-9e8b-9cc77cfd285c" type="box">3</container><container parent="bd433629-b95e-4dd3-9e8b-9cc77cfd285c" type="folder">7</container>
+					 <unittitle>Tombstone - Woolery Group/Dumpling. 
+						<unitdate normal="1920" type="inclusive">1920</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="1a0888dd-84db-4e3c-b325-be26aa4ae06c" type="box">3</container><container parent="1a0888dd-84db-4e3c-b325-be26aa4ae06c" type="folder">8</container>
+					 <unittitle>Cochise - Warren - Copper King Properties. 
+						<unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Coconino</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="273454a0-91e8-41fa-a465-060177e01b59" type="box">3</container><container parent="273454a0-91e8-41fa-a465-060177e01b59" type="folder">9</container>
+					 <unittitle>Grand Canyon - Highland Mary. 
+						<unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="c33b9dde-3b78-4562-9995-d7bf2b15d3c4" type="box">3</container><container parent="c33b9dde-3b78-4562-9995-d7bf2b15d3c4" type="folder">10</container>
+					 <unittitle>Grand Canyon/Tayasan Copper. 
+						<unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Gila</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="b549fa07-0d90-4721-b854-6d25e8e1ff1c" type="box">3</container><container parent="b549fa07-0d90-4721-b854-6d25e8e1ff1c" type="folder">11</container>
+					 <unittitle>Gila County Claims. 
+						<unitdate normal="NaN" type="inclusive">No
+						  Date</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="c80b1957-102c-4917-b688-0036390b955f" type="box">3</container><container parent="c80b1957-102c-4917-b688-0036390b955f" type="folder">12</container>
+					 <unittitle>Globe - Irene Group. 
+						<unitdate normal="1914/1925" type="inclusive">1914-1925</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Graham</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="a4d717dc-ebd4-4b26-8d06-223ab0353cc1" type="box">3</container><container parent="a4d717dc-ebd4-4b26-8d06-223ab0353cc1" type="folder">13</container>
+					 <unittitle> Lakenan Mines. 
+						<unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Maricopa</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="1e9d5e67-1ccf-4125-a452-051be50c0035" type="box">3</container><container parent="1e9d5e67-1ccf-4125-a452-051be50c0035" type="folder">14</container>
+					 <unittitle>Camp Creek - Parker Mines. 
+						<unitdate normal="1910" type="inclusive">1910</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="a99a5237-ae45-4805-a0ea-91c0211d4ef9" type="box">3</container><container parent="a99a5237-ae45-4805-a0ea-91c0211d4ef9" type="folder">15</container>
+					 <unittitle>Cave Creek - Cave Creek Gold Mine. 
+						<unitdate normal="1914" type="inclusive">1914</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="d67de6b8-e7d1-42ac-87d5-876665c6d906" type="box">3</container><container parent="d67de6b8-e7d1-42ac-87d5-876665c6d906" type="folder">16</container>
+					 <unittitle>Cave Creek - Chas Fleming Group. 
+						<unitdate normal="NaN" type="inclusive">No
+						  Date</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="1ae355e0-03c5-44d3-a22c-0376d0b632d3" type="box">3</container><container parent="1ae355e0-03c5-44d3-a22c-0376d0b632d3" type="folder">17</container>
+					 <unittitle>Cave Creek - Lone Star Mining/Golden Reef. 
+						<unitdate normal="1922" type="inclusive">1922</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="e3606ed3-a624-48b9-adf1-0c38e4fa1e82" type="box">3</container><container parent="e3606ed3-a624-48b9-adf1-0c38e4fa1e82" type="folder">18</container>
+					 <unittitle>Cave Creek - Mormon Girl. 
+						<unitdate normal="1910" type="inclusive">1910</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="170e9c6e-2466-4708-b7e1-3997c7882bd3" type="box">3</container><container parent="170e9c6e-2466-4708-b7e1-3997c7882bd3" type="folder">19</container>
+					 <unittitle>Ellsworth - Mountain Chief. 
+						<unitdate normal="1899/1901" type="inclusive">1899-1901</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="9449c5a1-5431-479f-b20d-efc2502bf70d" type="box">3</container><container parent="9449c5a1-5431-479f-b20d-efc2502bf70d" type="folder">20</container>
+					 <unittitle>Pinal - Gold Field/Mesa Gold Mining. 
+						<unitdate normal="1913" type="inclusive">1913</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="543d0fa7-8393-4242-9433-58cacaa108e7" type="box">3</container><container parent="543d0fa7-8393-4242-9433-58cacaa108e7" type="folder">21</container>
+					 <unittitle>Magazine - Cram Mountain Claims. 
+						<unitdate normal="1909" type="inclusive">1909</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="8d3a31cb-226f-4022-b574-f3433653bf79" type="box">3</container><container parent="8d3a31cb-226f-4022-b574-f3433653bf79" type="folder">22</container>
+					 <unittitle>Magazine - Red Rover Mine. 
+						<unitdate normal="1910" type="inclusive">1910</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="294400fb-b7f7-4676-9e62-d5dbd285ea17" type="box">3</container><container parent="294400fb-b7f7-4676-9e62-d5dbd285ea17" type="folder">23</container>
+					 <unittitle>Magazine - Chicago &amp; Arizona Copper &amp; Gold. 
+						<unitdate normal="NaN" type="inclusive">No
+						  Date</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="5cf3957c-6fe9-4bcc-8be6-5bc4259c5187" type="box">3</container><container parent="5cf3957c-6fe9-4bcc-8be6-5bc4259c5187" type="folder">24</container>
+					 <unittitle>Maricopa - Independence Group/North Star. 
+						<unitdate normal="1911/1915" type="inclusive">1911-1915</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="2213e6de-573c-48db-8f80-6cf712ac2e57" type="box">3</container><container parent="2213e6de-573c-48db-8f80-6cf712ac2e57" type="folder">25</container>
+					 <unittitle>Moore - Cabinet Group. 
+						<unitdate normal="1923" type="inclusive">1923</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="cd978ca2-013b-4b77-92d1-04ba119e8e9f" type="box">3</container><container parent="cd978ca2-013b-4b77-92d1-04ba119e8e9f" type="folder">26</container>
+					 <unittitle>Moor - Hualapai Copper Co. 
+						<unitdate normal="1908" type="inclusive">1908</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="8cb7d48a-df90-4188-acdc-872886e44e59" type="box">3</container><container parent="8cb7d48a-df90-4188-acdc-872886e44e59" type="folder">27</container>
+					 <unittitle>Osborne - Arizona Lead Property. 
+						<unitdate normal="1913" type="inclusive">1913</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="445df1f8-4d36-4fbc-bd4c-1f12d95d4260" type="box">3</container><container parent="445df1f8-4d36-4fbc-bd4c-1f12d95d4260" type="folder">28</container>
+					 <unittitle>Ozborn - Maricopa Copper Mines/Ozborn Mines. 
+						<unitdate normal="1899" type="inclusive">1899</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="8bcf855a-54dd-496e-a2ff-3ee34554fffd" type="box">3</container><container parent="8bcf855a-54dd-496e-a2ff-3ee34554fffd" type="folder">29</container>
+					 <unittitle>San Domingo - Lotowana Gold Mine. 
+						<unitdate normal="1911/1916" type="inclusive">1911-1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="5c164a0c-8f03-4f6d-ba6f-e0d5b50fb241" type="box">3</container><container parent="5c164a0c-8f03-4f6d-ba6f-e0d5b50fb241" type="folder">30</container>
+					 <unittitle>Sunflower - McClintock Property. 
+						<unitdate normal="1908" type="inclusive">1908</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="ea26e859-9e5a-4b80-a5f1-a9c885cfa17e" type="box">3</container><container parent="ea26e859-9e5a-4b80-a5f1-a9c885cfa17e" type="folder">31</container>
+					 <unittitle>Sunflower - National Group. 
+						<unitdate normal="1922" type="inclusive">1922</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="ab92cd36-9474-4895-9556-12111b9f0a5e" type="box">3</container><container parent="ab92cd36-9474-4895-9556-12111b9f0a5e" type="folder">32-33</container>
+					 <unittitle>Sunflower - Sunflower Cinnabar. 
+						<unitdate normal="1914/1916" type="inclusive">1914-1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="e7f36545-c140-4ca7-8cfc-f56693b5b82e" type="box">3</container><container parent="e7f36545-c140-4ca7-8cfc-f56693b5b82e" type="folder">34</container>
+					 <unittitle>Vulture - Buffalo Group. 
+						<unitdate normal="1900" type="inclusive">1900</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="62da0eee-d967-4eb8-8358-d7f8a100dbc0" type="box">3</container><container parent="62da0eee-d967-4eb8-8358-d7f8a100dbc0" type="folder">35</container>
+					 <unittitle>Vulture - Vulture Mine. 
+						<unitdate normal="1901/1916" type="inclusive">1901-1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="ac1c3800-b051-4496-9302-eca92c13f6f6" type="box">3</container><container parent="ac1c3800-b051-4496-9302-eca92c13f6f6" type="folder">36</container>
+					 <unittitle>White Tank - Sterling group. 
+						<unitdate normal="1910" type="inclusive">1910</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="82facd27-fc2b-49ba-8eae-9cca429b47bf" type="box">3</container><container parent="82facd27-fc2b-49ba-8eae-9cca429b47bf" type="folder">37</container>
+					 <unittitle>White Tank - White Tank Mining Claims. 
+						<unitdate normal="1914" type="inclusive">1914</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="676588ce-166a-4414-8ecd-ad819990f0dc" type="box">3</container><container parent="676588ce-166a-4414-8ecd-ad819990f0dc" type="folder">38</container>
+					 <unittitle>Winifred - Amalagamated Copper. 
+						<unitdate normal="1921/1922" type="inclusive">1921-1922</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="d68522ac-3218-44d2-a8eb-24ae60683eda" type="box">3</container><container parent="d68522ac-3218-44d2-a8eb-24ae60683eda" type="folder">39</container>
+					 <unittitle>Arizona Commercial Slate. 
+						<unitdate normal="NaN" type="inclusive">1915?</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="73a9c0ae-90aa-466d-a27f-516c913194be" type="box">3</container><container parent="73a9c0ae-90aa-466d-a27f-516c913194be" type="folder">40</container>
+					 <unittitle>Center Street Group/Contest Mine. 
+						<unitdate normal="1920" type="inclusive">1920</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="7904d0f1-5e1a-442e-a58e-d1e0c62df234" type="box">3</container><container parent="7904d0f1-5e1a-442e-a58e-d1e0c62df234" type="folder">41</container>
+					 <unittitle>U.S. v. Arizona Court Case. 
+						<unitdate normal="1924" type="inclusive">1924</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="7345be09-2a9d-4007-99b8-eb440ca09036" type="box">3</container><container parent="7345be09-2a9d-4007-99b8-eb440ca09036" type="folder">42</container>
+					 <unittitle>Bismuth Mining Claims. 
+						<unitdate normal="1903" type="inclusive">1903</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Mojave</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="04c775cb-c85b-42d9-bf16-6a65e1b0a8c8" type="box">3</container><container parent="04c775cb-c85b-42d9-bf16-6a65e1b0a8c8" type="folder">43</container>
+					 <unittitle>Chloride - Arizona Ore Reduction/General Metals. 
+						<unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="fbd36396-03d1-4e7c-85ac-38ebf9d01b1e" type="box">3</container><container parent="fbd36396-03d1-4e7c-85ac-38ebf9d01b1e" type="folder">44</container>
+					 <unittitle>Chloride - Chloride &amp; Ray Mining Co. 
+						<unitdate normal="1917" type="inclusive">1917</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="cc41dee1-9b51-4aae-a26c-f12f520fc438" type="box">3</container><container parent="cc41dee1-9b51-4aae-a26c-f12f520fc438" type="folder">45</container>
+					 <unittitle>Junction - Antler Gold Mine. 
+						<unitdate normal="1911" type="inclusive">1911</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="4681ae07-85d5-46a9-ad55-5b339aea5106" type="box">3</container><container parent="4681ae07-85d5-46a9-ad55-5b339aea5106" type="folder">46</container>
+					 <unittitle>Maynard - Wallapai &amp; Victor Copper. 
+						<unitdate normal="1917/1920" type="inclusive">1917-1920</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="b7c705fb-ca72-4486-b08c-2493968e46c2" type="box">3</container><container parent="b7c705fb-ca72-4486-b08c-2493968e46c2" type="folder">47</container>
+					 <unittitle>Peacock - Hackberry Extension Mining. 
+						<unitdate normal="1918" type="inclusive">1918</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="6398a240-813c-4430-9bc3-abcfb3a62446" type="box">3</container><container parent="6398a240-813c-4430-9bc3-abcfb3a62446" type="folder">48</container>
+					 <unittitle>San Francisco - Katherine Mining Co. 
+						<unitdate normal="1921" type="inclusive">1921</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="9b424cfd-977c-496d-8d9f-1d3ef0180951" type="box">3</container><container parent="9b424cfd-977c-496d-8d9f-1d3ef0180951" type="folder">49</container>
+					 <unittitle>San Francisco - United Western Mining Co. 
+						<unitdate normal="1915" type="inclusive">1915</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="8ed311dc-cc9c-4c4f-8f39-8a13962a6549" type="box">3</container><container parent="8ed311dc-cc9c-4c4f-8f39-8a13962a6549" type="folder">50</container>
+					 <unittitle>Weaver - Klondyke Mining Claims. 
+						<unitdate normal="1915" type="inclusive">1915</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="706b3a73-c29f-48f9-8750-09a1b3e20c04" type="box">3</container><container parent="706b3a73-c29f-48f9-8750-09a1b3e20c04" type="folder">51</container>
+					 <unittitle>White Hills Mining &amp; Milling. 
+						<unitdate normal="1899" type="inclusive">1899</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="24a96293-9cb3-49ff-866e-74c5178b81de" type="box">3</container><container parent="24a96293-9cb3-49ff-866e-74c5178b81de" type="folder">52</container>
+					 <unittitle>Berkley Mine. 
+						<unitdate normal="1920" type="inclusive">1920</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Pima</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="e1791853-b5f8-4d06-8102-50c70390bc57" type="box">4</container><container parent="e1791853-b5f8-4d06-8102-50c70390bc57" type="folder">1</container>
+					 <unittitle>Old Hat - Daily Arizona Copper Claims. 
+						<unitdate normal="1914" type="inclusive">1914</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="0e772858-b924-4238-a390-645d351e3a1a" type="box">4</container><container parent="0e772858-b924-4238-a390-645d351e3a1a" type="folder">2</container>
+					 <unittitle>Old Hat - Guerin Property. 
+						<unitdate normal="1920" type="inclusive">1920</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="1e53f15b-036b-4695-b43b-863eb1847bab" type="box">4</container><container parent="1e53f15b-036b-4695-b43b-863eb1847bab" type="folder">3</container>
+					 <unittitle>Old Hat - Keystone Group. 
+						<unitdate normal="1905" type="inclusive">1905</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="b27b8005-df05-494e-a7d7-ff16dfb90ba9" type="box">4</container><container parent="b27b8005-df05-494e-a7d7-ff16dfb90ba9" type="folder">4</container>
+					 <unittitle>Pima - Azurite Copper Group. 
+						<unitdate normal="1899" type="inclusive">1899</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="93a7072b-e84d-4456-82e6-a7b36b8447f2" type="box">4</container><container parent="93a7072b-e84d-4456-82e6-a7b36b8447f2" type="folder">5</container>
+					 <unittitle>Quijotoa - Arizona &amp; Calumet Copper/Brownell. 
+						<unitdate normal="1912/1918" type="inclusive">1912-1918</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="66c20ea5-00a8-4d71-8efb-42a4298b098e" type="box">4</container><container parent="66c20ea5-00a8-4d71-8efb-42a4298b098e" type="folder">6</container>
+					 <unittitle>Santa Rosa - Middleton Group. 
+						<unitdate normal="1917" type="inclusive">1917</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="6caa27ef-4a86-4cd4-93a3-994f23130ac5" type="box">4</container><container parent="6caa27ef-4a86-4cd4-93a3-994f23130ac5" type="folder">7</container>
+					 <unittitle>Silverbell - Silverbell. 
+						<unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="e803c5ae-d660-41f7-82e0-2463c30ab642" type="box">4</container><container parent="e803c5ae-d660-41f7-82e0-2463c30ab642" type="folder">8</container>
+					 <unittitle>Twin Buttes - Twin Buttes &amp; Arizona Mining Co. 
+						<unitdate normal="1917" type="inclusive">1917</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Pinal</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="a6eab5d6-45ce-440f-a95c-d6eb8c6beb33" type="box">4</container><container parent="a6eab5d6-45ce-440f-a95c-d6eb8c6beb33" type="folder">9</container>
+					 <unittitle>Casa Grande - Shamrock. 
+						<unitdate normal="1911" type="inclusive">1911</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="1239406f-5246-4ff3-8f6f-59353a9a2544" type="box">4</container><container parent="1239406f-5246-4ff3-8f6f-59353a9a2544" type="folder">10</container>
+					 <unittitle>Casa Grande - Silver Queen. 
+						<unitdate normal="1922" type="inclusive">1922</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="7fac97a0-ee63-495d-ae54-67a1067ee471" type="box">4</container><container parent="7fac97a0-ee63-495d-ae54-67a1067ee471" type="folder">11</container>
+					 <unittitle>Growler - Golden Range Mining &amp; Milling. 
+						<unitdate normal="1924" type="inclusive">1924</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="923bb0b4-e41a-4231-8a8d-33a367022bac" type="box">4</container><container parent="923bb0b4-e41a-4231-8a8d-33a367022bac" type="folder">12</container>
+					 <unittitle>Mineral Creek - Cash Entry Mining Claims. 
+						<unitdate normal="1912" type="inclusive">1912</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="2949365c-82a8-4e96-8de0-fd743358e03e" type="box">4</container><container parent="2949365c-82a8-4e96-8de0-fd743358e03e" type="folder">13</container>
+					 <unittitle>Mineral Creek - Ray Copper Mines. 
+						<unitdate normal="1899" type="inclusive">1899</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="15128eb8-fedd-44a0-93ab-ede86c30281c" type="box">4</container><container parent="15128eb8-fedd-44a0-93ab-ede86c30281c" type="folder">14</container>
+					 <unittitle>Pioneer - Arizona King. 
+						<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="d2c7a731-3b98-485a-ace7-4cfe81ad3283" type="box">4</container><container parent="d2c7a731-3b98-485a-ace7-4cfe81ad3283" type="folder">15</container>
+					 <unittitle>Pioneer - Maine 1 and 2. 
+						<unitdate normal="1912/1916" type="inclusive">1912-1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="758eb138-f80d-4742-89ab-a648fcdcc8e1" type="box">4</container><container parent="758eb138-f80d-4742-89ab-a648fcdcc8e1" type="folder">16</container>
+					 <unittitle>Pioneer - Potts Canyon Mining Co. 
+						<unitdate normal="1918" type="inclusive">1918</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="c6fb61b3-9120-4816-ae73-99151895553a" type="box">4</container><container parent="c6fb61b3-9120-4816-ae73-99151895553a" type="folder">17</container>
+					 <unittitle>Superstition - Young Mines. 
+						<unitdate normal="1923" type="inclusive">1923</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="c6eb3c69-bee9-4d96-806e-9fe6281044d0" type="box">4</container><container parent="c6eb3c69-bee9-4d96-806e-9fe6281044d0" type="folder">18</container>
+					 <unittitle>Arizona Gypsum Co. 
+						<unitdate normal="1917" type="inclusive">1917</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Santa Cruz</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="1e48d58a-be0a-495d-8518-e8b630494928" type="box">4</container><container parent="1e48d58a-be0a-495d-8518-e8b630494928" type="folder">19</container>
+					 <unittitle>Harshaw - Patagonia Chief Property. 
+						<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="9ed70a40-e350-43b6-b278-79d6e60fa51e" type="box">4</container><container parent="9ed70a40-e350-43b6-b278-79d6e60fa51e" type="folder">20</container>
+					 <unittitle>Harshaw - Red Mountain Group. 
+						<unitdate normal="1906" type="inclusive">1906</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="5c36e2e5-46b6-46b9-82fc-75ef5434e8b6" type="box">4</container><container parent="5c36e2e5-46b6-46b9-82fc-75ef5434e8b6" type="folder">21</container>
+					 <unittitle>Oro Blanco - Gold Rock Consolidated. 
+						<unitdate normal="1900" type="inclusive">1900</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="711256cf-5271-4ac7-b04c-168d4ecc67d3" type="box">4</container><container parent="711256cf-5271-4ac7-b04c-168d4ecc67d3" type="folder">22</container>
+					 <unittitle>Tucson - Charles George/Red Bird. 
+						<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="5c119f91-bcf7-4974-9406-704cb83b981b" type="box">4</container><container parent="5c119f91-bcf7-4974-9406-704cb83b981b" type="folder">23</container>
+					 <unittitle>Nogales Area Mines. 
+						<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="2c8ef1e9-266d-4795-a5b8-a4f9ee446913" type="box">4</container><container parent="2c8ef1e9-266d-4795-a5b8-a4f9ee446913" type="folder">24 </container>
+					 <unittitle>Promontorio Silver Mines. 
+						<unitdate normal="1906" type="inclusive">1906</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Yavapai</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="bd5fdcca-a8e1-4d98-9a38-34c3934a9e65" type="box">4</container><container parent="bd5fdcca-a8e1-4d98-9a38-34c3934a9e65" type="folder">25</container>
+					 <unittitle>Agua Fria - Baumann Mining Property. 
+						<unitdate normal="1898" type="inclusive">1898</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="c228d592-f6a2-4d90-979b-dd673b4b30ef" type="box">4</container><container parent="c228d592-f6a2-4d90-979b-dd673b4b30ef" type="folder">26</container>
+					 <unittitle>Agua Fria - Little Daisy Group. 
+						<unitdate normal="1917" type="inclusive">1917</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="164023f2-9447-463e-a87d-b443a4d70595" type="box">4</container><container parent="164023f2-9447-463e-a87d-b443a4d70595" type="folder">27</container>
+					 <unittitle>Big Bug - big Ledge Copper Co./Henrietta &amp;
+						Butternut Mines. 
+						<unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="6f71b4ec-10cd-49ab-9e2e-4a452c2c5c06" type="box">4</container><container parent="6f71b4ec-10cd-49ab-9e2e-4a452c2c5c06" type="folder">28</container>
+					 <unittitle>Big bug - Boone county Mining/Wizard Claim. 
+						<unitdate normal="1911/1918" type="inclusive">1911-1918</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="d9c5c828-c42a-4969-9e00-9a1b7937c193" type="box">4</container><container parent="d9c5c828-c42a-4969-9e00-9a1b7937c193" type="folder">29</container>
+					 <unittitle>Big bug - Galena Mine. 
+						<unitdate normal="NaN" type="inclusive">1910?</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="3a44809d-cebb-4c19-9a97-3906e124e6a6" type="box">4</container><container parent="3a44809d-cebb-4c19-9a97-3906e124e6a6" type="folder">30</container>
+					 <unittitle>Big Bug - Klondyke/I,X,L Claims. 
+						<unitdate normal="" type="inclusive">1900-1910?</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="3df200c7-c056-4a64-9a0a-ca3812d7a384" type="box">4</container><container parent="3df200c7-c056-4a64-9a0a-ca3812d7a384" type="folder">31</container>
+					 <unittitle>Big Bug - Little Jesse Group. 
+						<unitdate normal="" type="inclusive">1896-1901?</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="ebcb24a0-872d-4e34-b92d-57054463e883" type="box">4</container><container parent="ebcb24a0-872d-4e34-b92d-57054463e883" type="folder">32</container>
+					 <unittitle>Big Bug - Lone Pine, Dewey, Eureka Claims. 
+						<unitdate normal="1898" type="inclusive">1898</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="e8696e59-b136-44fd-8ad3-661abde37814" type="box">4</container><container parent="e8696e59-b136-44fd-8ad3-661abde37814" type="folder">33</container>
+					 <unittitle>Black Canyon - Gold Note Group. 
+						<unitdate normal="1904" type="inclusive">1904</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="c7ae0c73-7c59-4a37-b62b-cd3753eba07e" type="box">4</container><container parent="c7ae0c73-7c59-4a37-b62b-cd3753eba07e" type="folder">34</container>
+					 <unittitle>Black Canyon - Manganese Property. 
+						<unitdate normal="1918" type="inclusive">1918</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="f3d38859-53df-4025-b786-b4197f7dd3ac" type="box">4</container><container parent="f3d38859-53df-4025-b786-b4197f7dd3ac" type="folder">35</container>
+					 <unittitle>Black Canyon - Mascot Group/Smith Property. 
+						<unitdate normal="1917" type="inclusive">1917</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="7aa8f7f1-1462-4051-bef2-7ba6c1b2f160" type="box">4</container><container parent="7aa8f7f1-1462-4051-bef2-7ba6c1b2f160" type="folder">36</container>
+					 <unittitle>Black Rock - Burson Group. 
+						<unitdate normal="1900" type="inclusive">1900</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="fa6869a4-3c8e-4b6e-af16-539802d6639d" type="box">4</container><container parent="fa6869a4-3c8e-4b6e-af16-539802d6639d" type="folder">37</container>
+					 <unittitle>Black Rock - Elsie Group. 
+						<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="701a0320-e307-498d-8b4a-2fe9db52d885" type="box">4</container><container parent="701a0320-e307-498d-8b4a-2fe9db52d885" type="folder">38</container>
+					 <unittitle>Black Rock - Gold Bug Claim. 
+						<unitdate normal="1895" type="inclusive">1895</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="58692e18-7fc1-4d43-812e-46f82e131e87" type="box">4</container><container parent="58692e18-7fc1-4d43-812e-46f82e131e87" type="folder">39</container>
+					 <unittitle>Black Rock - Gold Properties. 
+						<unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="8850ccc8-dd45-449a-8cc3-28547a59649c" type="box">4</container><container parent="8850ccc8-dd45-449a-8cc3-28547a59649c" type="folder">40</container>
+					 <unittitle>Gunther Property/Great Scott. 
+						<unitdate normal="1899/1900" type="inclusive">1899-1900</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="effc6c67-ab5d-4c7e-92a4-144f1ee41148" type="box">4</container><container parent="effc6c67-ab5d-4c7e-92a4-144f1ee41148" type="folder">41</container>
+					 <unittitle>Black Rock - Keystone Mines. 
+						<unitdate normal="1905" type="inclusive">1905</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="b34395eb-47c6-4273-be62-c7f1e978d839" type="box">4</container><container parent="b34395eb-47c6-4273-be62-c7f1e978d839" type="folder">42</container>
+					 <unittitle>Black Rock - McGowan Group. 
+						<unitdate normal="1917" type="inclusive">1917</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="3d129377-b4c2-40a7-981c-5adacb1976e3" type="box">4</container><container parent="3d129377-b4c2-40a7-981c-5adacb1976e3" type="folder">43</container>
+					 <unittitle>Black Rock - Minerva Group. 
+						<unitdate normal="1909" type="inclusive">1909</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="7b840517-5195-425c-b5a1-5bc6e3ea2fc7" type="box">4</container><container parent="7b840517-5195-425c-b5a1-5bc6e3ea2fc7" type="folder">44</container>
+					 <unittitle>Black Rock - Oro Grande Gold Mine. 
+						<unitdate normal="1901/1902" type="inclusive">1901-1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="46286e2c-55a4-43e4-89ff-3b9947c20841" type="box">4</container><container parent="46286e2c-55a4-43e4-89ff-3b9947c20841" type="folder">45</container>
+					 <unittitle>Blue Tank &amp; Buckhorn - Alaric Group. 
+						<unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="3895fb72-64b5-415f-8711-caa54a3da77b" type="box">4</container><container parent="3895fb72-64b5-415f-8711-caa54a3da77b" type="folder">46</container>
+					 <unittitle>Blue Tank - Great Northern. 
+						<unitdate normal="NaN" type="inclusive">No
+						  Date</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="95f27940-de3e-4165-b838-7f950c4ee841" type="box">4</container><container parent="95f27940-de3e-4165-b838-7f950c4ee841" type="folder">47</container>
+					 <unittitle>Blue Tank - Independence. 
+						<unitdate normal="1899/1903" type="inclusive">1899-1903</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="c52600b7-5061-4574-b56e-46dd8c172fdf" type="box">4</container><container parent="c52600b7-5061-4574-b56e-46dd8c172fdf" type="folder">48</container>
+					 <unittitle>Blue Tank - Sweet Sextette. 
+						<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="522fd9dd-8607-4f99-bc9b-f8c7fff2b7d9" type="box">4</container><container parent="522fd9dd-8607-4f99-bc9b-f8c7fff2b7d9" type="folder">49</container>
+					 <unittitle>Castle Creek - Campbell Claims. 
+						<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="97f57f75-5cf9-48dc-a244-9fd1b3d10f96" type="box">4</container><container parent="97f57f75-5cf9-48dc-a244-9fd1b3d10f96" type="folder">50</container>
+					 <unittitle>Castle Creek - Lehman Gold Property. 
+						<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="9f24fa34-150a-4b8c-9ba4-be29d40fa207" type="box">4</container><container parent="9f24fa34-150a-4b8c-9ba4-be29d40fa207" type="folder">51</container>
+					 <unittitle>Chaparral - New Years Group. 
+						<unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="36cbe8c0-48c0-465c-92b4-eebd1e39098b" type="box">4</container><container parent="36cbe8c0-48c0-465c-92b4-eebd1e39098b" type="folder">52</container>
+					 <unittitle>Cherry Creek - Statehood Group. 
+						<unitdate normal="1914" type="inclusive">1914</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="4af9c6f0-34c5-4cc0-8f56-05a1644806bf" type="box">4</container><container parent="4af9c6f0-34c5-4cc0-8f56-05a1644806bf" type="folder">53</container>
+					 <unittitle>Congress - Planet Saturn Mining Co. 
+						<unitdate normal="1905" type="inclusive">1905</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="d5184b17-625a-41b3-8588-c2443f584188" type="box">4</container><container parent="d5184b17-625a-41b3-8588-c2443f584188" type="folder">54</container>
+					 <unittitle>Congress - Powell Mining Claim. 
+						<unitdate normal="1904" type="inclusive">1904</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="5d95ee69-ca38-4615-bd6e-9c6ebb9c6dd9" type="box">5</container><container parent="5d95ee69-ca38-4615-bd6e-9c6ebb9c6dd9" type="folder">1</container>
+					 <unittitle>Congress - Senate Gold Mining Co. 
+						<unitdate normal="1904" type="inclusive">1904</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="3213b6f5-0163-4ab1-a2f8-fbad791b1284" type="box">5</container><container parent="3213b6f5-0163-4ab1-a2f8-fbad791b1284" type="folder">2</container>
+					 <unittitle>Copper Basin - Arizona Portland Mines. 
+						<unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="5ec336ee-13b1-40a2-8954-8c89496c6d36" type="box">5</container><container parent="5ec336ee-13b1-40a2-8954-8c89496c6d36" type="folder">3</container>
+					 <unittitle>Eureka - Seven Stars Gold Co. 
+						<unitdate normal="1892" type="inclusive">1892</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="fb76c557-dbe2-4d55-b3ce-373cd360576b" type="box">5</container><container parent="fb76c557-dbe2-4d55-b3ce-373cd360576b" type="folder">4</container>
+					 <unittitle>Groom Creek - Success Group. 
+						<unitdate normal="1913" type="inclusive">1913</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="1d8c092a-da55-4b52-9cf9-392dd2c80559" type="box">5</container><container parent="1d8c092a-da55-4b52-9cf9-392dd2c80559" type="folder">5</container>
+					 <unittitle>Hassayampa - Bodie Group. 
+						<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="f7dd73bc-53a6-4ab1-9651-b10d01404c8e" type="box">5</container><container parent="f7dd73bc-53a6-4ab1-9651-b10d01404c8e" type="folder">6</container>
+					 <unittitle>Hassayampa - Chicago Group. 
+						<unitdate normal="1903" type="inclusive">1903</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="d101fd15-f322-4956-b5ce-e1fa9cb60a11" type="box">5</container><container parent="d101fd15-f322-4956-b5ce-e1fa9cb60a11" type="folder">7</container>
+					 <unittitle>Jerome - Jerome Mountain Copper Co. 
+						<unitdate normal="1919" type="inclusive">1919</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="4f965f8f-1512-4b20-9473-3010f09a6f52" type="box">5</container><container parent="4f965f8f-1512-4b20-9473-3010f09a6f52" type="folder">8</container>
+					 <unittitle>Martinez - Gold Dollar Group. 
+						<unitdate normal="1915" type="inclusive">1915</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="ddb543a8-4b7a-43e9-bafa-d7f45945b60a" type="box">5</container><container parent="ddb543a8-4b7a-43e9-bafa-d7f45945b60a" type="folder">9-10</container>
+					 <unittitle>Martinez - United Gold Mines/Alaska Mines. 
+						<unitdate normal="1913/1915" type="inclusive">1913-1915</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="7a00bfbf-9cc2-4305-8947-509f74f1ce1c" type="box">5</container><container parent="7a00bfbf-9cc2-4305-8947-509f74f1ce1c" type="folder">11</container>
+					 <unittitle>Mayer - Big Reef Copper Co. 
+						<unitdate normal="1919" type="inclusive">1919</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="df643d6f-02db-454c-8c01-22ecf64941af" type="box">5</container><container parent="df643d6f-02db-454c-8c01-22ecf64941af" type="folder">12</container>
+					 <unittitle>Peck - Carder Group. 
+						<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="f35c557c-317d-47a4-a970-15f907f94458" type="box">5</container><container parent="f35c557c-317d-47a4-a970-15f907f94458" type="folder">13</container>
+					 <unittitle>Peck - Gladiator Mine. 
+						<unitdate normal="1898" type="inclusive">1898</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="bf22296b-fc52-4175-b6d1-6344dec40043" type="box">5</container><container parent="bf22296b-fc52-4175-b6d1-6344dec40043" type="folder">14</container>
+					 <unittitle>Pine Grove - Western Star Gold Property. 
+						<unitdate normal="1903" type="inclusive">1903</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="492a2472-75e1-4ac3-b2f1-abf12f90ae7b" type="box">5</container><container parent="492a2472-75e1-4ac3-b2f1-abf12f90ae7b" type="folder">15</container>
+					 <unittitle>Squaw Peak - Squaw Peak Copper Co. 
+						<unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="6086f945-6d96-4ad1-a4dd-4122e407f689" type="box">5</container><container parent="6086f945-6d96-4ad1-a4dd-4122e407f689" type="folder">16</container>
+					 <unittitle>Tip Top - Bar Copper Mining Co. 
+						<unitdate normal="1917" type="inclusive">1917</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="144a690d-a587-4d0d-af1b-14b70c46f72e" type="box">5</container><container parent="144a690d-a587-4d0d-af1b-14b70c46f72e" type="folder">17</container>
+					 <unittitle>Tip Top - Buckeye Group. 
+						<unitdate normal="1868/1927" type="inclusive" /></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="e4f389db-5eea-4979-95a2-599164c46ef4" type="box">5</container><container parent="e4f389db-5eea-4979-95a2-599164c46ef4" type="folder">18</container>
+					 <unittitle>Tip Top - Harris Consolidated Copper. 
+						<unitdate normal="1913/1915" type="inclusive">1913-1915</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="7a0b0af7-b6d1-4b54-a046-9f0f0beed5e0" type="box">5</container><container parent="7a0b0af7-b6d1-4b54-a046-9f0f0beed5e0" type="folder">19</container>
+					 <unittitle>Verde - Boston-Jerome Mining Co. 
+						<unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="9dff27cc-d891-48de-aa67-3f01d19f1791" type="box">5</container><container parent="9dff27cc-d891-48de-aa67-3f01d19f1791" type="folder">20</container>
+					 <unittitle>Verde - Cleopatra Mining Co. 
+						<unitdate normal="1911/1916" type="inclusive">1911-1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="8821e7ea-b97a-49a3-97ba-38bd8f3db3db" type="box">5</container><container parent="8821e7ea-b97a-49a3-97ba-38bd8f3db3db" type="folder">21-27</container>
+					 <unittitle>Verde - Dundee Arizona Copper Co. 
+						<unitdate normal="1915/1921" type="inclusive">1915-1921</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="1e7f16ba-21fa-4c3f-b202-53d33127adfb" type="box">5</container><container parent="1e7f16ba-21fa-4c3f-b202-53d33127adfb" type="folder">28</container>
+					 <unittitle>Verde - Grand Island Mining Co. 
+						<unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="0fdf08e0-b06b-4bad-8d93-71c75afd4d7c" type="box">5</container><container parent="0fdf08e0-b06b-4bad-8d93-71c75afd4d7c" type="folder">29</container>
+					 <unittitle>Verde - Green Monster Mining Co. 
+						<unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="6d49d948-79a7-40fa-8308-e530631c2566" type="box">5</container><container parent="6d49d948-79a7-40fa-8308-e530631c2566" type="folder">30</container>
+					 <unittitle>Verde - Jerome Daisy Copper Co. 
+						<unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="cefd72fe-4645-4712-b8d5-c26c652d595a" type="box">5</container><container parent="cefd72fe-4645-4712-b8d5-c26c652d595a" type="folder">31</container>
+					 <unittitle>Verde - Jerome Pacific/Midland-Vale Group. 
+						<unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="630b850b-b2ee-4107-a1d3-48b6a8be5c4f" type="box">5</container><container parent="630b850b-b2ee-4107-a1d3-48b6a8be5c4f" type="folder">32</container>
+					 <unittitle>Verde - Lone Pine Verde Group. 
+						<unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="bad388d7-19cc-422b-9ebd-52121576c33d" type="box">5</container><container parent="bad388d7-19cc-422b-9ebd-52121576c33d" type="folder">33</container>
+					 <unittitle>Verde - Pittsburgh Jerome Property. 
+						<unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="e9582e7d-52f3-4de8-a530-0b03c3ade36f" type="box">5</container><container parent="e9582e7d-52f3-4de8-a530-0b03c3ade36f" type="folder">34</container>
+					 <unittitle>Verde - Shea Copper Co. 
+						<unitdate normal="1915" type="inclusive">1915</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="759f483b-da8c-4918-95ca-ace88bf28c71" type="box">5</container><container parent="759f483b-da8c-4918-95ca-ace88bf28c71" type="folder">35</container>
+					 <unittitle>Verde - Sinclair/Lord Caithness Property. 
+						<unitdate normal="1915" type="inclusive">1915</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="dd43b7f2-75ee-4c6e-9c49-23a81b5c192c" type="box">5</container><container parent="dd43b7f2-75ee-4c6e-9c49-23a81b5c192c" type="folder">36</container>
+					 <unittitle>Verde - Sullivan Burke. 
+						<unitdate normal="1914" type="inclusive">1914</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="373c3c0b-47d5-4bb5-a0f3-e45b2c85e855" type="box">5</container><container parent="373c3c0b-47d5-4bb5-a0f3-e45b2c85e855" type="folder">37</container>
+					 <unittitle>Verde - Ventura Hill Mining/Socrates Claim. 
+						<unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="f84c026b-f4ac-4add-bf5d-cf4cf0bde484" type="box">5</container><container parent="f84c026b-f4ac-4add-bf5d-cf4cf0bde484" type="folder">38</container>
+					 <unittitle>Verde - Verde Cobre Mining/Larson Group. 
+						<unitdate normal="1916/1923" type="inclusive">1916-1923</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="f906b576-2bbc-4847-9313-699d89771b22" type="box">5</container><container parent="f906b576-2bbc-4847-9313-699d89771b22" type="folder">39</container>
+					 <unittitle>Verde - Verde Combination Copper Co. 
+						<unitdate normal="1917" type="inclusive">1917</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="c8ff5fd7-2c20-45cb-b83f-c0a6f5a3cbe9" type="box">5</container><container parent="c8ff5fd7-2c20-45cb-b83f-c0a6f5a3cbe9" type="folder">40</container>
+					 <unittitle>Verde - Verde Hub Copper Co. 
+						<unitdate normal="1917/1918" type="inclusive">1917-1918</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="8c59321d-0b76-4f57-aad2-44deea52a0e2" type="box">5</container><container parent="8c59321d-0b76-4f57-aad2-44deea52a0e2" type="folder">41</container>
+					 <unittitle>Walker - Collins Group/Penn Arizona. 
+						<unitdate normal="1910/1911" type="inclusive">1910-1911</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="59331e1f-d067-47c0-a149-9e599c6844c7" type="box">5</container><container parent="59331e1f-d067-47c0-a149-9e599c6844c7" type="folder">42</container>
+					 <unittitle>Walnut Grove - Pioneer. 
+						<unitdate normal="1914" type="inclusive">1914</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="92fb537f-62fc-4c23-a191-78ccda47807e" type="box">5</container><container parent="92fb537f-62fc-4c23-a191-78ccda47807e" type="folder">43</container>
+					 <unittitle>Weaver - Alvarado Gold Mine. 
+						<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="3f2a6a0e-406a-405f-981e-ffce2a8a6dae" type="box">5</container><container parent="3f2a6a0e-406a-405f-981e-ffce2a8a6dae" type="folder">44</container>
+					 <unittitle>Weaver - Sayer Gold Mining Co. 
+						<unitdate normal="1904" type="inclusive">1904</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="36be77e3-a9b7-4b6f-b467-422ceb63eacd" type="box">5</container><container parent="36be77e3-a9b7-4b6f-b467-422ceb63eacd" type="folder">45</container>
+					 <unittitle>Weaver - Southern Yavapai Gold Mining. 
+						<unitdate normal="NaN" type="inclusive">1915?</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="398b538e-013d-4831-92e2-eb861791a9e7" type="box">5</container><container parent="398b538e-013d-4831-92e2-eb861791a9e7" type="folder">46</container>
+					 <unittitle>Weaver - Yarnell Property. 
+						<unitdate normal="1909" type="inclusive">1909</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="711bf96b-56b7-45e9-afa8-796e009a2a17" type="box">5</container><container parent="711bf96b-56b7-45e9-afa8-796e009a2a17" type="folder">47</container>
+					 <unittitle>White Picacho - Swininger Group. 
+						<unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="2a7d843e-7472-4dae-88e0-8ebba42842f5" type="box">5</container><container parent="2a7d843e-7472-4dae-88e0-8ebba42842f5" type="folder">48</container>
+					 <unittitle>Colossal Group. 
+						<unitdate normal="1918" type="inclusive">1918</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="6187a5fc-2c04-48a1-bdf5-3e68aedcf8cb" type="box">5</container><container parent="6187a5fc-2c04-48a1-bdf5-3e68aedcf8cb" type="folder">49</container>
+					 <unittitle>Ideal Mining and Deve. Co. 
+						<unitdate normal="NaN" type="inclusive">No
+						  Date</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="1c3c6161-1214-42ee-84fe-8f9fdda09078" type="box">5</container><container parent="1c3c6161-1214-42ee-84fe-8f9fdda09078" type="folder">50</container>
+					 <unittitle>McKinley Mine. 
+						<unitdate normal="1917" type="inclusive">1917</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="cd68a9dc-90b5-48c4-949a-8ecb568c91d4" type="box">5</container><container parent="cd68a9dc-90b5-48c4-949a-8ecb568c91d4" type="folder">51</container>
+					 <unittitle>Monica Mine. 
+						<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="fee8dbc3-6024-4150-9595-2a1cd8e10195" type="box">5</container><container parent="fee8dbc3-6024-4150-9595-2a1cd8e10195" type="folder">52</container>
+					 <unittitle>Old Boaz Mine. 
+						<unitdate normal="NaN" type="inclusive">No
+						  Date</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="1ee38f72-d34f-4573-aeb4-bc0f78a99a70" type="box">5</container><container parent="1ee38f72-d34f-4573-aeb4-bc0f78a99a70" type="folder">53</container>
+					 <unittitle>Sunnyside Claim. 
+						<unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="b4804967-3087-4543-936c-8a0c25dd48ba" type="box">5</container><container parent="b4804967-3087-4543-936c-8a0c25dd48ba" type="folder">54</container>
+					 <unittitle>Reports on Bumble Bee &amp; Chaparral Districts. 
+						<unitdate normal="NaN" type="inclusive">No
+						  Date</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Yuma</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="24f5abdd-01ec-4dc1-908c-4612ac277c35" type="box">5</container><container parent="24f5abdd-01ec-4dc1-908c-4612ac277c35" type="folder">55</container>
+					 <unittitle>Ellsworth - Carmelita Mining Co. 
+						<unitdate normal="1917/1919" type="inclusive">1917-1919</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="c74d23dc-f96f-442a-bf4b-a71e91fadd1c" type="box">5</container><container parent="c74d23dc-f96f-442a-bf4b-a71e91fadd1c" type="folder">56</container>
+					 <unittitle>Ellsworth - Cunningham Pass Group. 
+						<unitdate normal="1914" type="inclusive">1914</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="65d81c1f-5763-4e87-ae31-aa0e57299135" type="box">6</container><container parent="65d81c1f-5763-4e87-ae31-aa0e57299135" type="folder">1</container>
+					 <unittitle>Ellsworth - Maid of the Mist Group. 
+						<unitdate normal="1914" type="inclusive">1914</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="b12fd39f-43f5-42d7-b4ab-9ec3b93be4c8" type="box">6</container><container parent="b12fd39f-43f5-42d7-b4ab-9ec3b93be4c8" type="folder">2</container>
+					 <unittitle>Ellsworth - Socorro Mine. 
+						<unitdate normal="1900" type="inclusive">1900</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="26b6876f-c5d8-4b0b-b50a-ca80fb2765f4" type="box">6</container><container parent="26b6876f-c5d8-4b0b-b50a-ca80fb2765f4" type="folder">3</container>
+					 <unittitle>Ellsworth - Wall Street Group. 
+						<unitdate normal="NaN" type="inclusive">No
+						  Date</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="4266447c-4e3e-4984-8f13-78a9efe8cd85" type="box">6</container><container parent="4266447c-4e3e-4984-8f13-78a9efe8cd85" type="folder">4</container>
+					 <unittitle>Hydra - Glorioso Gold and Copper. 
+						<unitdate normal="1912" type="inclusive">1912</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="ce4ab5f0-f953-4531-bd95-95b5c4fb89de" type="box">6</container><container parent="ce4ab5f0-f953-4531-bd95-95b5c4fb89de" type="folder">5</container>
+					 <unittitle>Kofa - Hi Henry Mining Claims. 
+						<unitdate normal="1911" type="inclusive">1911</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="20aa7a17-138a-493d-818d-f6f21a40ad74" type="box">6</container><container parent="20aa7a17-138a-493d-818d-f6f21a40ad74" type="folder">6</container>
+					 <unittitle>La Paz - Bentley Group. 
+						<unitdate normal="NaN" type="inclusive">No
+						  Date</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="f8bce307-bd81-448d-a73d-02699937f306" type="box">6</container><container parent="f8bce307-bd81-448d-a73d-02699937f306" type="folder">7</container>
+					 <unittitle>Planet - Iron King Manganese Claims. 
+						<unitdate normal="1918" type="inclusive">1918</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="b5b75130-215d-49d1-a0ae-ba16fcc07c2b" type="box">6</container><container parent="b5b75130-215d-49d1-a0ae-ba16fcc07c2b" type="folder">8</container>
+					 <unittitle>Plomosa - Ibex Plomosa. 
+						<unitdate normal="1907" type="inclusive">1907</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="d1e26469-9058-4757-bdf6-b26bff82cc40" type="box">6</container><container parent="d1e26469-9058-4757-bdf6-b26bff82cc40" type="folder">9</container>
+					 <unittitle>Plomosa - Swastika Group. 
+						<unitdate normal="1910" type="inclusive">1910</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="d7dcb7f6-4408-4851-8080-60b358e50403" type="box">6</container><container parent="d7dcb7f6-4408-4851-8080-60b358e50403" type="folder">10</container>
+					 <unittitle>Bondurant Copper Claims. 
+						<unitdate normal="NaN" type="inclusive">No
+						  Date</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="68f78b9a-1adb-4b02-aa49-3fc05ff57c9b" type="box">6</container><container parent="68f78b9a-1adb-4b02-aa49-3fc05ff57c9b" type="folder">11</container>
+					 <unittitle>Havlin Deposit. 
+						<unitdate normal="1918" type="inclusive">1918</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="e76d5f9d-e981-429a-a074-fffb5aa58dfb" type="box">6</container><container parent="e76d5f9d-e981-429a-a074-fffb5aa58dfb" type="folder">12</container>
+					 <unittitle>Martin Property. 
+						<unitdate normal="1898" type="inclusive">1898</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="9862bb62-511a-4902-b88f-73f99a6331e5" type="box">6</container><container parent="9862bb62-511a-4902-b88f-73f99a6331e5" type="folder">13</container>
+					 <unittitle>Mohawk Mining Claims/Norton Property. 
+						<unitdate normal="NaN" type="inclusive">1900?</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="0e3182a9-8269-431e-b409-1cec3c47af22" type="box">6</container><container parent="0e3182a9-8269-431e-b409-1cec3c47af22" type="folder">14</container>
+					 <unittitle>Yuma - General Map. 
+						<unitdate normal="NaN" type="inclusive">No
+						  Date</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+		  </c03>
+		  <c03 level="subseries">
+			 <did>
+				<unittitle>Other States</unittitle>
+			 </did>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Alabama</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="ebe088ab-cdcf-452d-b5c6-3f9ba4a9e213" type="box">6</container><container parent="ebe088ab-cdcf-452d-b5c6-3f9ba4a9e213" type="folder">15</container>
+					 <unittitle>Cherokee - Rock Run Furnace. 
+						<unitdate normal="1888" type="inclusive">1888</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>California</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="3bd3da2d-5367-44c2-af47-10e193c800e9" type="box">6</container><container parent="3bd3da2d-5367-44c2-af47-10e193c800e9" type="folder">16</container>
+					 <unittitle>Kern - Red Rock - REd Rock Placer Claims. 
+						<unitdate normal="1896" type="inclusive">1896</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="1ad4008b-06fa-4635-a46c-34201e4e0f53" type="box">6</container><container parent="1ad4008b-06fa-4635-a46c-34201e4e0f53" type="folder">17</container>
+					 <unittitle>Riverside - Ironwood - Arica Group. 
+						<unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="347d9a29-4646-42ab-b4f2-785bf94a10c4" type="box">6</container><container parent="347d9a29-4646-42ab-b4f2-785bf94a10c4" type="folder">18</container>
+					 <unittitle>Riverside - Stephens Property/Ironchief and Eagle
+						Mountain Iron Deposits. 
+						<unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="288060dc-61ea-4aec-b879-a55261a7a692" type="box">6</container><container parent="288060dc-61ea-4aec-b879-a55261a7a692" type="folder">19</container>
+					 <unittitle>San Bernadino - Black Metal - Philadelphia Mine. 
+						<unitdate normal="1890" type="inclusive">1890</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="c16e2b6b-13ee-4e87-a5c3-93e763e552e5" type="box">6</container><container parent="c16e2b6b-13ee-4e87-a5c3-93e763e552e5" type="folder">20</container>
+					 <unittitle>San Bernadino - Daggott - Gunsight Group. 
+						<unitdate normal="1889" type="inclusive">1889</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="6f08c9b0-9161-465d-8f2a-6df29adc407e" type="box">6</container><container parent="6f08c9b0-9161-465d-8f2a-6df29adc407e" type="folder">21</container>
+					 <unittitle>San Bernadino - Exchequer - Cashier Mines. 
+						<unitdate normal="1889" type="inclusive">1889</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="f3239af1-8607-4265-9b2c-88aea6b97127" type="box">6</container><container parent="f3239af1-8607-4265-9b2c-88aea6b97127" type="folder">22</container>
+					 <unittitle>San Bernadino - Monumental - Black Metal Mining. 
+						<unitdate normal="1891" type="inclusive">1891</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="2aed3948-13c0-480f-a625-d66b67a6d65f" type="box">6</container><container parent="2aed3948-13c0-480f-a625-d66b67a6d65f" type="folder">23</container>
+					 <unittitle>San Diego - Ogilby - Lone Jack Gold Mining. 
+						<unitdate normal="1890" type="inclusive">1890</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="09e384b8-c141-4dae-95a7-86704fcd5746" type="box">6</container><container parent="09e384b8-c141-4dae-95a7-86704fcd5746" type="folder">24</container>
+					 <unittitle>San Diego - Gold Rock Group. 
+						<unitdate normal="1890" type="inclusive">1890</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="45b1d9b2-e570-4c2f-9b66-8c8b15368c3d" type="box">6</container><container parent="45b1d9b2-e570-4c2f-9b66-8c8b15368c3d" type="folder">25</container>
+					 <unittitle>San Gabriel - San Gabriel - Gold Placer/Roberts
+						Property. 
+						<unitdate normal="1893" type="inclusive">1893</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="1f8be950-118d-4e61-9a1e-7aece79adf9d" type="box">6</container><container parent="1f8be950-118d-4e61-9a1e-7aece79adf9d" type="folder">26</container>
+					 <unittitle>Sierra - Dewey Quartz Mine. 
+						<unitdate normal="1908" type="inclusive">1908</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Colorado</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="38f6b20d-324e-41c6-a144-8cfa9f90df3f" type="box">6</container><container parent="38f6b20d-324e-41c6-a144-8cfa9f90df3f" type="folder">27</container>
+					 <unittitle>List of mine oweners in Colorado. 
+						<unitdate normal="NaN" type="inclusive">No
+						  Date</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="74e44e03-e248-4769-9b91-7ba6c5e313dc" type="box">6</container><container parent="74e44e03-e248-4769-9b91-7ba6c5e313dc" type="folder">28</container>
+					 <unittitle>Clear Creek - West Comet Group. 
+						<unitdate normal="1908" type="inclusive">1908</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="6ea32dae-ff10-45a2-aca3-b28d99adceba" type="box">6</container><container parent="6ea32dae-ff10-45a2-aca3-b28d99adceba" type="folder">29</container>
+					 <unittitle>Hinsdale - white Cross and Danville Group. 
+						<unitdate normal="1908" type="inclusive">1908</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="d70a5fa0-9713-4da9-8fbf-b4179e8bc5a4" type="box">6</container><container parent="d70a5fa0-9713-4da9-8fbf-b4179e8bc5a4" type="folder">30</container>
+					 <unittitle>Ouray - Uncompahgre - Bright Diamond Group. 
+						<unitdate normal="1908" type="inclusive">1908</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="de4dc24d-c624-4300-8c8f-8623cdaee5a4" type="box">6</container><container parent="de4dc24d-c624-4300-8c8f-8623cdaee5a4" type="folder">31</container>
+					 <unittitle>Ouray - Uncompajgre - Moslem and Japan Claims. 
+						<unitdate normal="1908" type="inclusive">1908</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="0ae5d427-a173-490e-b375-d702b8128daa" type="box">6</container><container parent="0ae5d427-a173-490e-b375-d702b8128daa" type="folder">32</container>
+					 <unittitle>Summit - Wellington Mine. 
+						<unitdate normal="1908" type="inclusive">1908</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Idaho</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="faaa96b1-4714-4868-b8e8-08396cf1e08b" type="box">6</container><container parent="faaa96b1-4714-4868-b8e8-08396cf1e08b" type="folder">33</container>
+					 <unittitle>Kootenai - Suprise - Boulder Creek Property. 
+						<unitdate normal="1890" type="inclusive">1890</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Montana</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="5a62a398-34d3-404b-b81a-c6d1d3ca71c5" type="box">6</container><container parent="5a62a398-34d3-404b-b81a-c6d1d3ca71c5" type="folder">34</container>
+					 <unittitle>Jefferson - Colorado - Angelica Mining. 
+						<unitdate normal="1920" type="inclusive">1920</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="3b14837b-c348-40ed-b964-b4e8c536c888" type="box">6</container><container parent="3b14837b-c348-40ed-b964-b4e8c536c888" type="folder">35</container>
+					 <unittitle>Jefferson - Colorado - Rose Gold Mine Co. 
+						<unitdate normal="1904" type="inclusive">1904</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Nevada</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="dd0e9de3-ac6b-4e27-b233-5cc5e05a543f" type="box">6</container><container parent="dd0e9de3-ac6b-4e27-b233-5cc5e05a543f" type="folder">36</container>
+					 <unittitle>Churchill - Great Eastern Group. 
+						<unitdate normal="1903" type="inclusive">1903</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>New Mexico</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="944dc016-7cc8-4669-8804-cedb2f201e5c" type="box">6</container><container parent="944dc016-7cc8-4669-8804-cedb2f201e5c" type="folder">37</container>
+					 <unittitle>Luna - Tres Hermanas - Zinc Property. 
+						<unitdate normal="1903" type="inclusive">1903</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>South Carolina</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="79d4db6a-0f2b-4131-8e00-0d9588144ac6" type="box">6</container><container parent="79d4db6a-0f2b-4131-8e00-0d9588144ac6" type="folder">38</container>
+					 <unittitle>York - Magnolia Mining Property. 
+						<unitdate normal="1908" type="inclusive">1908</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+		  </c03>
+		  <c03 level="subseries">
+			 <did>
+				<unittitle>Other Countries</unittitle>
+			 </did>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Mexico/Sonora</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="413f18fe-5c6e-4fa3-bbb0-b842ec9f8ec1" type="box">7</container><container parent="413f18fe-5c6e-4fa3-bbb0-b842ec9f8ec1" type="folder">1</container>
+					 <unittitle>Maps and Clippings. 
+						<unitdate normal="NaN" type="inclusive">1901/1903</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="7eef9fb6-f27a-4ee2-b01a-89927d8c93c9" type="box">7</container><container parent="7eef9fb6-f27a-4ee2-b01a-89927d8c93c9" type="folder">2</container>
+					 <unittitle>San Pedro - Tucson and Gulf Railroad. 
+						<unitdate normal="1902/1910" type="inclusive">1902-1910</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="0569b573-fcc0-48f0-82ef-86508a0fb298" type="box">7</container><container parent="0569b573-fcc0-48f0-82ef-86508a0fb298" type="folder">3</container>
+					 <unittitle>Altar - La Belen/Arizona-Mexican Copper Co. 
+						<unitdate normal="1903/1904" type="inclusive">1903-1904</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="35f3f8b4-19f5-4920-8a2e-43ab496ad029" type="box">7</container><container parent="35f3f8b4-19f5-4920-8a2e-43ab496ad029" type="folder">4</container>
+					 <unittitle>Altar - La Calara/Arizona-Mexican Copper Co. 
+						<unitdate normal="1901/1903" type="inclusive">1901-1903</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="dc1d5aea-98f5-41c5-b1af-953161012dfa" type="box">7</container><container parent="dc1d5aea-98f5-41c5-b1af-953161012dfa" type="folder">5</container>
+					 <unittitle>Altar - La Cananea Copper Co. 
+						<unitdate normal="1903/1904" type="inclusive">1903-1904</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="21172c33-b282-42a2-98c1-50bc71e189d0" type="box">7</container><container parent="21172c33-b282-42a2-98c1-50bc71e189d0" type="folder">6</container>
+					 <unittitle>Altar - El Carmen. 
+						<unitdate normal="1903" type="inclusive">1903</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="a2f067f9-f3a5-436b-91a4-d83336f9b16c" type="box">7</container><container parent="a2f067f9-f3a5-436b-91a4-d83336f9b16c" type="folder">7</container>
+					 <unittitle>Altar - Cerro Prieto Gold Mine. 
+						<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="619cbc1b-d22d-4e3a-a421-d32390807a4d" type="box">7</container><container parent="619cbc1b-d22d-4e3a-a421-d32390807a4d" type="folder">8</container>
+					 <unittitle>Altar - El Congreso. 
+						<unitdate normal="1902/1904" type="inclusive">1902-1904</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="a321daaf-e605-4a19-8b32-fdfb84c663b4" type="box">7</container><container parent="a321daaf-e605-4a19-8b32-fdfb84c663b4" type="folder">9</container>
+					 <unittitle>Altar - Colorado Iron Works Smelter (for
+						Arizona-Arizona Mexican Copper Co.). 
+						<unitdate normal="1904/1905" type="inclusive">1904-1905</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="4b889eb1-4b15-434a-98d5-8b7db954e031" type="box">7</container><container parent="4b889eb1-4b15-434a-98d5-8b7db954e031" type="folder">10</container>
+					 <unittitle>Altar - Gigante and Josefina/Coast Line. 
+						<unitdate normal="1901/1902" type="inclusive">1901-1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="2e107da4-9012-4025-8b39-f47b69e9fa75" type="box">7</container><container parent="2e107da4-9012-4025-8b39-f47b69e9fa75" type="folder">11-14</container>
+					 <unittitle>Altar - La Gran Proveedora/Arizona-Mexican. 
+						<unitdate normal="1901/1905" type="inclusive">1901-1905</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="64036e1e-8c7a-44f3-b279-7188dfa9c41c" type="box">7</container><container parent="64036e1e-8c7a-44f3-b279-7188dfa9c41c" type="folder">15-17</container>
+					 <unittitle>Altar - Juarez Mine. 
+						<unitdate normal="1904/1906" type="inclusive">1904-1906</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="6afd22fe-6fa4-4105-a57d-aac495c53429" type="box">7</container><container parent="6afd22fe-6fa4-4105-a57d-aac495c53429" type="folder">18-19</container>
+					 <unittitle>Altar - El Porvenir De Sonora/Coast Line. 
+						<unitdate normal="1901/1902" type="inclusive">1901-1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="c5143bc2-d19c-4531-abe3-ca731e34e62e" type="box">7</container><container parent="c5143bc2-d19c-4531-abe3-ca731e34e62e" type="folder">20</container>
+					 <unittitle>Altar - San Francisco Group. 
+						<unitdate normal="NaN" type="inclusive">1890/1899</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="61ffcd78-02e0-4e61-8c2f-258624fa1185" type="box">7</container><container parent="61ffcd78-02e0-4e61-8c2f-258624fa1185" type="folder">21-23</container>
+					 <unittitle>Altar - Sonora Milling and Mining. 
+						<unitdate normal="1904/1906" type="inclusive">1904-1906</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="bed4aec9-1383-4d87-b782-b1719bde176c" type="box">7</container><container parent="bed4aec9-1383-4d87-b782-b1719bde176c" type="folder">24</container>
+					 <unittitle>Altar - Tubatama Mining and Reduction. 
+						<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="53f5a785-1f86-4214-8e40-7339bff7209a" type="box">7</container><container parent="53f5a785-1f86-4214-8e40-7339bff7209a" type="folder">25</container>
+					 <unittitle>Arizpe - Cerro Tordillo Copper Mines. 
+						<unitdate normal="1905" type="inclusive">1905</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="059be748-b0b2-4104-987a-69fb628963a7" type="box">7</container><container parent="059be748-b0b2-4104-987a-69fb628963a7" type="folder">26</container>
+					 <unittitle>Arizpe - Cochise and Dewey Mines. 
+						<unitdate normal="1903" type="inclusive">1903</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="5e9bd90f-cf8c-4634-95ce-e39eef10aa8e" type="box">7</container><container parent="5e9bd90f-cf8c-4634-95ce-e39eef10aa8e" type="folder">27</container>
+					 <unittitle>Arizpe - San Carlos. 
+						<unitdate normal="1904" type="inclusive">1904</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="c2aabe6f-4cdb-4ae8-8845-de0204842e4c" type="box">7</container><container parent="c2aabe6f-4cdb-4ae8-8845-de0204842e4c" type="folder">28</container>
+					 <unittitle>Arizpe - San Felipe. 
+						<unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="120a0052-e103-4424-83f7-47b2d6448ee7" type="box">7</container><container parent="120a0052-e103-4424-83f7-47b2d6448ee7" type="folder">29</container>
+					 <unittitle>Cerro del Oro - La Seguama Mine. 
+						<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="4aefa120-9993-4d3f-9ca9-3f24db088ef6" type="box">7</container><container parent="4aefa120-9993-4d3f-9ca9-3f24db088ef6" type="folder">30</container>
+					 <unittitle>Hermosillo - Barranca. 
+						<unitdate normal="1906" type="inclusive">1906</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="59fb9908-d7f3-4a32-932a-3497bb403f59" type="box">7</container><container parent="59fb9908-d7f3-4a32-932a-3497bb403f59" type="folder">31</container>
+					 <unittitle>Hermosillo - Chipiona and Colorado Mine. 
+						<unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="4827a6af-5316-4d07-ad4f-9a16aa885350" type="box">7</container><container parent="4827a6af-5316-4d07-ad4f-9a16aa885350" type="folder">32</container>
+					 <unittitle>Hermosillo - Sonora Silver Mining Co. 
+						<unitdate normal="1887" type="inclusive">1887</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="cc65dcfe-eb3c-408c-ac52-efb9187fe13e" type="box">7</container><container parent="cc65dcfe-eb3c-408c-ac52-efb9187fe13e" type="folder">33</container>
+					 <unittitle>Magdalena - Promontorio. 
+						<unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="43e6d7a1-e8d2-48e6-b06c-c6a0f463b774" type="box">7</container><container parent="43e6d7a1-e8d2-48e6-b06c-c6a0f463b774" type="folder">34</container>
+					 <unittitle>Moctezuma - Santa Fe Mines. 
+						<unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="148f9a18-7877-499e-8b21-1471de2b7756" type="box">7</container><container parent="148f9a18-7877-499e-8b21-1471de2b7756" type="folder">35</container>
+					 <unittitle>Ures - Las Coches Mining Property. 
+						<unitdate normal="1907/1910" type="inclusive">1907-1910</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="8f0b2d0c-d3c5-47e7-8fcd-590f13229735" type="box">7</container><container parent="8f0b2d0c-d3c5-47e7-8fcd-590f13229735" type="folder">36</container>
+					 <unittitle>Ures - El Oro Gold Properties. 
+						<unitdate normal="1901/1903" type="inclusive">1901-1903</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="96647e9c-10a7-48c8-b0ad-604dd561531d" type="box">7</container><container parent="96647e9c-10a7-48c8-b0ad-604dd561531d" type="folder">37</container>
+					 <unittitle>Zambona Development Co. 
+						<unitdate normal="1906" type="inclusive">1906</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Mexico/Baja</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="ea6d3472-2ac8-4b34-a38a-70c56335f928" type="box">7</container><container parent="ea6d3472-2ac8-4b34-a38a-70c56335f928" type="folder">38</container>
+					 <unittitle>Jan Juan y Los Flores - El Toro Mine/Gulf Copper. 
+						<unitdate normal="1909" type="inclusive">1909</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Mexico/Michoacan</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="fbd43f66-2a13-46c1-8ae5-bf69d2dfa679" type="box">7</container><container parent="fbd43f66-2a13-46c1-8ae5-bf69d2dfa679" type="folder">39</container>
+					 <unittitle>Henderson Property. 
+						<unitdate normal="1902" type="inclusive">1902</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Mexico/Sinoloa</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="19156f7c-c75c-46d6-b926-1604fa942fe4" type="box">7</container><container parent="19156f7c-c75c-46d6-b926-1604fa942fe4" type="folder">40</container>
+					 <unittitle>Regional Report. 
+						<unitdate normal="NaN" type="inclusive">1900?</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Jamaica</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="d41f827a-1612-4f94-8543-baedfbaf6468" type="box">7</container><container parent="d41f827a-1612-4f94-8543-baedfbaf6468" type="folder">41</container>
+					 <unittitle>Cedar Hurst Property. 
+						<unitdate normal="1914/1916" type="inclusive">1914-1916</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series IV: Other business reports, 
+				<unitdate normal="1891/1923" type="inclusive">1891-1923</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains maps and engineering reports relating to irrigation
+				projects, along with records and correspondence regarding a ramie fiber company
+				in which Mr. Defty's family was involved. This series also contains
+				miscellaneous maps, drawings, receipts, and assay reports that could not be
+				conclusively identified, and various mining equipment catalogs.</p>
+		  </scopecontent>
+		  <c03 level="subseries">
+			 <did>
+				<unittitle>Arizona</unittitle>
+			 </did>
+			 <c04 level="file">
+				<did><container id="2c6443f1-f26a-477f-9b3f-2056910602d4" type="box">8</container><container parent="2c6443f1-f26a-477f-9b3f-2056910602d4" type="folder">1</container>
+				  <unittitle>Maricopa - Gila Irrigation/Valley Land &amp;
+					 Canal/Arizona Construction Co. 
+					 <unitdate normal="1891/1893" type="inclusive">1891-1893</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="34e3e0de-cb14-4d46-980d-d95cef93ea39" type="box">8</container><container parent="34e3e0de-cb14-4d46-980d-d95cef93ea39" type="folder">2</container>
+				  <unittitle>Maricopa - New York Canal and Irrigation Co. 
+					 <unitdate normal="1893/1894" type="inclusive">1893-1894</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="7ec0dce8-604e-4fd6-ab0a-4619d3bd455a" type="box">8</container><container parent="7ec0dce8-604e-4fd6-ab0a-4619d3bd455a" type="folder">3</container>
+				  <unittitle>Pinal - Queen Creek Reservoir Co. 
+					 <unitdate normal="1912" type="inclusive">1912</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="3378b499-7f78-4506-9638-8e633c0368ab" type="box">8</container><container parent="3378b499-7f78-4506-9638-8e633c0368ab" type="folder">4</container>
+				  <unittitle>Yavapai - Pacific Water Power Co. 
+					 <unitdate normal="1909/1911" type="inclusive">1909-1911</unitdate></unittitle>
+				</did>
+			 </c04>
+		  </c03>
+		  <c03 level="subseries">
+			 <did>
+				<unittitle>California</unittitle>
+			 </did>
+			 <c04 level="file">
+				<did><container id="836cfcae-964a-4ebe-899c-58f3fe323154" type="box">8</container><container parent="836cfcae-964a-4ebe-899c-58f3fe323154" type="folder">5</container>
+				  <unittitle>Antelope Valley Reservoirs, Dams and Irrigation. 
+					 <unitdate normal="1891" type="inclusive">1891</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="5abd067a-c1d4-4b40-9156-edf598da61a4" type="box">8</container><container parent="5abd067a-c1d4-4b40-9156-edf598da61a4" type="folder">6-8</container>
+				  <unittitle>Anglo-American and Anglo-Dutch Ramie Fibre and Paper
+					 Companies. 
+					 <unitdate normal="1895/1896" type="inclusive">1895-1896</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="4f5a0f4a-3c14-45ca-9758-c962da7e0308" type="box">8</container><container parent="4f5a0f4a-3c14-45ca-9758-c962da7e0308" type="folder">9</container>
+				  <unittitle>Miscellaneous Business Records. 
+					 <unitdate normal="1899/1922" type="inclusive">1899-1922</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="494dafeb-319a-4dfb-bb9e-ad9b5aaf45b8" type="box">8</container><container parent="494dafeb-319a-4dfb-bb9e-ad9b5aaf45b8" type="folder">10</container>
+				  <unittitle>Stock Certificates, Deeds, Agreements, Powers of
+					 Attorney. 
+					 <unitdate normal="1890/1906" type="inclusive">1890-1906</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="5a65877b-2436-4d52-b4e7-4c9ed81311d4" type="box">8</container><container parent="5a65877b-2436-4d52-b4e7-4c9ed81311d4" type="folder">11</container>
+				  <unittitle>Miscellaneous Assay Reports. 
+					 <unitdate normal="1899/1906" type="inclusive">1899-1906</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="2932941c-e3ec-4ca5-ade6-f491a7cb1059" type="box">8</container><container parent="2932941c-e3ec-4ca5-ade6-f491a7cb1059" type="folder">12</container>
+				  <unittitle>Mining Equipment Catalogs, Brochures. 
+					 <unitdate normal="1900/1920" type="inclusive">1900-1920</unitdate></unittitle>
+				</did>
+			 </c04>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series V: Maps and blueprints, 
+				<unitdate normal="1886/1925" type="inclusive">1886-1925</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Maps and blueprints are located in the map case in the northeast
+				corner of the building. Materials associated with existing mining or other
+				business reports are indicated as such with the box and folder number of the
+				original report. For example, 3/4 Cochise - Wolframite Claims, 1900 indicates
+				that the original mining report is found in Box 3, Folder 4. In addition, there
+				are maps and blueprints not directly associated with existing reports. For
+				example, Warren - Copper Mines, 1910 has no box and folder number preceding it,
+				which means there is no original report. Numbers in parentheses following a
+				mine or company name indicate the number of items for that mine or company in
+				that box. The pound sign (#) indicates that for that mine or company,
+				additional large maps or blueprints can be found in box 12.</p>
+			 <p>The bulk of the materials in boxes 9, 10 and 11 contain oversized
+				maps and blueprints that are supplemental to the mining and other business
+				report series. Box 11 also contains miscellaneous maps and mining equipment
+				blueprints. Box 12 contains very large oversize material, including several
+				hand colored items.</p>
+		  </scopecontent>
+		  <c03 level="subseries">
+			 <did>
+				<unittitle>Mining Reports</unittitle>
+			 </did>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Arizona</unittitle>
+				</did>
+				<c05 otherlevel="subsubsubseries">
+				  <did>
+					 <unittitle>Cochise</unittitle>
+				  </did>
+				  <c06 level="file">
+					 <did><container id="a16fb6e7-7623-45a2-b13a-cc39ec8f212d" type="box">9</container>
+						<unittitle>Cochise -- Wolframite Claims (box 3 folder 4). 
+						  <unitdate normal="1900" type="inclusive">1900</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="6e974907-1c62-438e-bf2f-51bec39ed2eb" type="box">9</container>
+						<unittitle>Tombstone -- Woolery Claims (box 3 folder 7). 
+						  <unitdate normal="1920" type="inclusive">1920</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="9b0b4f69-55c4-4f86-856c-115715eb684b" type="box">9</container>
+						<unittitle>Warren -- Copper Mines. 
+						  <unitdate normal="1910" type="inclusive">1910</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="c487d644-aed0-4009-bdf4-10df9cda5700" type="box">9</container>
+						<unittitle>Warren -- Mining District. 
+						  <unitdate normal="1910" type="inclusive">1910</unitdate></unittitle>
+					 </did>
+				  </c06>
+				</c05>
+				<c05 otherlevel="subsubsubseries">
+				  <did>
+					 <unittitle>Coconino</unittitle>
+				  </did>
+				  <c06 level="file">
+					 <did><container id="3d435167-5a22-4025-a755-525f6c1143d4" type="box">9</container>
+						<unittitle>Grand Canyon -- United States Platinum Co. 
+						  <unitdate normal="NaN" type="inclusive">No
+							 Date</unitdate></unittitle>
+					 </did>
+				  </c06>
+				</c05>
+				<c05 otherlevel="subsubsubseries">
+				  <did>
+					 <unittitle>Gila</unittitle>
+				  </did>
+				  <c06 level="file">
+					 <did><container id="cbb8bf3b-1488-4a4a-a07d-233b71b53764" type="box">9</container>
+						<unittitle>Globe -- Irene Group (box 3 folder 12). 
+						  <unitdate normal="1914/1925" type="inclusive">1914-1925</unitdate></unittitle>
+					 </did>
+				  </c06>
+				</c05>
+				<c05 otherlevel="subsubsubseries">
+				  <did>
+					 <unittitle>Maricopa</unittitle>
+				  </did>
+				  <c06 level="file">
+					 <did><container id="73735df0-2c78-44ec-a46b-7c0ff00092ab" type="box">9</container>
+						<unittitle>Camp Creek -- Parker Mines (box 3 folder 14). 
+						  <unitdate normal="1910" type="inclusive">1910</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="67c1bc4d-1f49-4908-b982-7cd317781f04" type="box">9</container>
+						<unittitle>Cave Creek -- Lone Star/Golden Reef (box 3, folder
+						  17). 
+						  <unitdate normal="1922" type="inclusive">1922</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="d26952d5-d35c-4604-a38f-7ab05e7a5728" type="box">9</container>
+						<unittitle>Magazine -- Cram Mountain Claims (box 3 folder
+						  21). 
+						  <unitdate normal="1909" type="inclusive">1909</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="9bec9dcd-4a2c-48d7-bee9-a703fd4cacf8" type="box">9</container>
+						<unittitle>Maricopa -- Independence Group/North Star (box 3
+						  folder 24). 
+						  <unitdate normal="1911/1915" type="inclusive">1911-1915</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="1aef1508-7f64-4971-9956-3c576150cf27" type="box">9</container>
+						<unittitle>Moor -- Hualapai Copper Co. (box 3 folder 26). 
+						  <unitdate normal="1908" type="inclusive">1908</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="757cbe55-83ba-4e0a-a489-b7d42a9ad444" type="box">9</container>
+						<unittitle>Ozborn -- Maricopa Copper Mines/Ozborn (box 3
+						  folder 28). 
+						  <unitdate normal="1899" type="inclusive">1899</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="bfd0842b-e969-466e-8592-475086d3150a" type="box">9</container>
+						<unittitle>Sunflower -- Sunflower Cinnabar (box 3 folders
+						  32-33). 
+						  <unitdate normal="1914/1916" type="inclusive">1914-1916</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="eaab9729-265f-4b74-8fcb-f460a5dfa633" type="box">9</container>
+						<unittitle>Vulture -- Vulture Mine (box 3 folder 35). 
+						  <unitdate normal="1901/1916" type="inclusive">1901-1916</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="28b310de-bdd3-4a02-9ad2-be023eb57d4a" type="box">9</container>
+						<unittitle>Winifred/Pinal -- North and South Groups (box 3
+						  folder 38). 
+						  <unitdate normal="NaN" type="inclusive">No
+							 Date</unitdate></unittitle>
+					 </did>
+				  </c06>
+				</c05>
+				<c05 otherlevel="subsubsubseries">
+				  <did>
+					 <unittitle>Mojave</unittitle>
+				  </did>
+				  <c06 level="file">
+					 <did><container id="532acbfa-1be1-48fd-b8db-0b40f1a8321b" type="box">9</container>
+						<unittitle>Maynard -- Wallapai &amp; Victor Copper (box 3
+						  folder 46). 
+						  <unitdate normal="1917/1920" type="inclusive">1917-1920</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="009c237a-19f6-4d9f-94b5-1aeb849177d0" type="box">9</container>
+						<unittitle>Peacock -- Hackberry Extension Mining (box 3
+						  folder 47). 
+						  <unitdate normal="1918" type="inclusive">1918</unitdate></unittitle>
+					 </did>
+				  </c06>
+				</c05>
+				<c05 otherlevel="subsubsubseries">
+				  <did>
+					 <unittitle>Pima</unittitle>
+				  </did>
+				  <c06 level="file">
+					 <did><container id="70c7d7e4-abe2-44f6-a906-0aac8c37cc34" type="box">9</container>
+						<unittitle>Greaterville -- Liberty Silver Mining Co. 
+						  <unitdate normal="1917" type="inclusive">1917</unitdate></unittitle>
+					 </did>
+				  </c06>
+				</c05>
+				<c05 otherlevel="subsubsubseries">
+				  <did>
+					 <unittitle>Pinal</unittitle>
+				  </did>
+				  <c06 level="file">
+					 <did><container id="85a22673-257a-423e-931a-d643f81695a6" type="box">9</container>
+						<unittitle>Superstition -- Young Mines (box 4 folder 17). 
+						  <unitdate normal="1923" type="inclusive">1923</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="7fed746c-de46-46c0-9e81-20859f17e01f" type="box">9</container>
+						<unittitle>Sam Thorpe Claims. 
+						  <unitdate normal="NaN" type="inclusive">No
+							 Date</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="d92b883e-b147-4223-b231-87181126c0e2" type="box">9</container>
+						<unittitle>Woodbury Copper Co. 
+						  <unitdate normal="1917" type="inclusive">1917</unitdate></unittitle>
+					 </did>
+				  </c06>
+				</c05>
+				<c05 otherlevel="subsubsubseries">
+				  <did>
+					 <unittitle>Santa Cruz</unittitle>
+				  </did>
+				  <c06 level="file">
+					 <did><container id="c40d45aa-70d1-4528-a27b-778e556bfb6e" type="box">9</container>
+						<unittitle>Harshaw -- Patagonia Chief Property (box 4 folder
+						  19). 
+						  <unitdate normal="1907" type="inclusive">1907</unitdate></unittitle>
+					 </did>
+				  </c06>
+				</c05>
+				<c05 otherlevel="subsubsubseries">
+				  <did>
+					 <unittitle>Yavapai</unittitle>
+				  </did>
+				  <c06 level="file">
+					 <did><container id="58f597b9-10b7-49bd-8b8a-deaaf21fcf4d" type="box">9</container>
+						<unittitle>Agua Fria -- Little Daisy Group (box 4 folder 26).
+						  
+						  <unitdate normal="1917" type="inclusive">1917</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="03b09de0-b7ac-48ad-9f17-28a4da4a9a5e" type="box">9</container>
+						<unittitle>Big Bug -- Little Jesse Group (box 4 folder 31). 
+						  <unitdate normal="1896/1901" type="inclusive">1896-1901</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="1482cbdf-bd0f-4454-8d50-9f91def9d40d" type="box">9</container>
+						<unittitle>Black Canyon -- Gold Note Group (box 4 folder 33).
+						  
+						  <unitdate normal="1904" type="inclusive">1904</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="abcc7318-f0df-4c4d-81fe-9d166a565ed0" type="box">9</container>
+						<unittitle>Black Rock -- Gunther Property (box 4 folder 40). 
+						  <unitdate normal="1899/1900" type="inclusive">1899-1900</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="2f30a68b-0231-4a69-b4dc-b767613f0c96" type="box">9</container>
+						<unittitle>Blue Tank -- Independence (box 4 folder 47). 
+						  <unitdate normal="1899/1903" type="inclusive">1899-1903</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="e721f85a-6947-4dc2-9b09-578ec84c0cfc" type="box">9</container>
+						<unittitle>Blue Tank -- Big Tufa. 
+						  <unitdate normal="NaN" type="inclusive">No
+							 Date</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="c5f6586f-a239-45ca-a3b5-481d5a0d70d2" type="box">9</container>
+						<unittitle>Chaparral -- New Years Group (box 4 folder 51). 
+						  <unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="317d6c5a-cf55-4915-abdc-03373e72cde6" type="box">9</container>
+						<unittitle>Eureka -- Lawler Group (box 5 folder 3). 
+						  <unitdate normal="NaN" type="inclusive">No
+							 Date</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="8a05ae5e-3cf0-4789-a3c2-0420935b2254" type="box">9</container>
+						<unittitle>Eureka -- Seven Stars Gold Co. 
+						  <unitdate normal="1892" type="inclusive">1892</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="7e5b18fe-c374-4b1b-a8bf-0744a6f8b04d" type="box">10</container>
+						<unittitle>Martinez -- United Gold Mines (box 5 folders
+						  9-10). 
+						  <unitdate normal="1913/1915" type="inclusive">1913-1915</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="c6c6bb01-d759-4b4a-b642-b9b81b1714d2" type="box">10</container>
+						<unittitle>Santa Maria -- Central Group. 
+						  <unitdate normal="1908" type="inclusive">1908</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="98c61357-5927-4b54-bf4d-73200a9655b6" type="box">10</container>
+						<unittitle>Verde -- Cleopatra Mining Co. (box 5 folder 20). 
+						  <unitdate normal="1911/1916" type="inclusive">1911-1916</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="c0a415f1-633b-4144-80f2-01453c119b36" type="box">10</container>
+						<unittitle>Verde -- Pittsburg Jerome Property (box 5 folder
+						  33). 
+						  <unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="1680f7c7-91ce-4f19-b6d2-b98c1d6f2e78" type="box">10</container>
+						<unittitle>Verde -- Verde Cobre Mining Co. (box 5 folder 38).
+						  
+						  <unitdate normal="1916/1923" type="inclusive">1916-1923</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="6b63a9df-275a-446d-93f0-3ee68b259737" type="box">10</container>
+						<unittitle>Verde -- Washburn Group. 
+						  <unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="2140782a-de63-43ee-b0da-c12df1336ab8" type="box">10</container>
+						<unittitle>Verde -- Mining District. 
+						  <unitdate normal="1916" type="inclusive">1916</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="fa9a81ab-ad16-4992-bf41-bf4b5df766b3" type="box">10</container>
+						<unittitle>Weaver -- Alvarado Gold Mine (box 5 folder 43). 
+						  <unitdate normal="1907" type="inclusive">1907</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="ad58b5ed-693f-4b4e-85a7-ba3657b9d408" type="box">10</container>
+						<unittitle>Weaver -- Yarnell Property (box 5 folder 46). 
+						  <unitdate normal="1909" type="inclusive">1909</unitdate></unittitle>
+					 </did>
+				  </c06>
+				</c05>
+				<c05 otherlevel="subsubsubseries">
+				  <did>
+					 <unittitle>Yuma</unittitle>
+				  </did>
+				  <c06 level="file">
+					 <did><container id="fddc2a53-c6fc-42ce-aaf1-5cfe64bf95df" type="box">10</container>
+						<unittitle>Ellsworth - Carmelita Mining Co. (box 5 folder
+						  55). 
+						  <unitdate normal="1917/1919" type="inclusive">1917-1919</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="e24b942c-967b-443f-b9d3-595f3960abcf" type="box">10</container>
+						<unittitle>Plomosa -- Ibex Plomosa (box 6 folder 8). 
+						  <unitdate normal="1907" type="inclusive">1907</unitdate></unittitle>
+					 </did>
+				  </c06>
+				  <c06 level="file">
+					 <did><container id="693beabe-853a-4bf8-ae74-3b1886b53274" type="box">10</container>
+						<unittitle>Mohawk Mining Claims. 
+						  <unitdate normal="1900" type="inclusive">1900</unitdate></unittitle>
+					 </did>
+				  </c06>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>California</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="9768cb42-fcbf-442f-b00c-07d907748e1b" type="box">10</container>
+					 <unittitle>Riverside -- Stephens Property (box 6 folder 18). 
+						<unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="aceaeac0-ffb0-47c4-8fdc-7d1dbbf5382f" type="box">10</container>
+					 <unittitle>San Bernadino -- Calico -- Mining District. 
+						<unitdate normal="1889" type="inclusive">1889</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="fa08a573-9f70-4809-bb10-0cac423a5702" type="box">10</container>
+					 <unittitle>San Bernadino -- Daisy/Lily/Violet Quartz. 
+						<unitdate normal="NaN" type="inclusive">No Date
+						  </unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="4f6e9cfb-4571-44b4-8266-10776e6896e3" type="box">10</container>
+					 <unittitle>San Bernadino -- Victoria Silver Mines. 
+						<unitdate normal="1888" type="inclusive">1888</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="b91e07ae-5edc-44ac-9f6f-157edc442e10" type="box">10</container>
+					 <unittitle>Sovereign Cons Mines. 
+						<unitdate normal="NaN" type="inclusive">No
+						  Date</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Montana</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="72313a5a-23fe-47be-80c7-89ef8c5abc93" type="box">10</container>
+					 <unittitle>Jefferson -- Colorado -- Angelica Mining Co. (box 6
+						folder 34). 
+						<unitdate normal="1920" type="inclusive">1920</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+			 <c04 otherlevel="subsubseries">
+				<did>
+				  <unittitle>Mexico/Sonora</unittitle>
+				</did>
+				<c05 level="file">
+				  <did><container id="5666dd7b-a47a-4ba6-9fdf-adcc8aafb53f" type="box">11</container>
+					 <unittitle>Altar -- El Congreso Mining Certificate with revenu
+						stamp (box 7 folder 8). 
+						<unitdate normal="1902/1904" type="inclusive">1902-1904</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="8e6bc377-f483-475e-886a-92fb582a618d" type="box">11</container>
+					 <unittitle>Altar -- La Gran Porveedora/Arizona-Mexican Co. (box
+						7 folders 11-14). 
+						<unitdate normal="1901/1905" type="inclusive">1901-1905</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="d5cf7d14-9b18-4b9c-a350-606e32bb8234" type="box">11</container>
+					 <unittitle>Altar -- Juarez Mine (box 7 folders 15-17). 
+						<unitdate normal="1904/1906" type="inclusive">1904-1906</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="b13f7e88-1286-4fef-b143-84422451dd7c" type="box">11</container>
+					 <unittitle>Arizpe -- Cerro Tordillo Copper Mines (box 7 folders
+						25). 
+						<unitdate normal="1905" type="inclusive">1905</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="cdc8e9c5-c1ac-4735-b5ba-811e24117ce2" type="box">11</container>
+					 <unittitle>Hermosillo -- Sonora Silver Mining Co. (box 7
+						folders 32). 
+						<unitdate normal="1887" type="inclusive">1887</unitdate></unittitle>
+				  </did>
+				</c05>
+				<c05 level="file">
+				  <did><container id="07735d44-760e-46e0-af34-f55e0a294a71" type="box">11</container>
+					 <unittitle>Sonora Mining Districts. 
+						<unitdate normal="1905" type="inclusive">1905</unitdate></unittitle>
+				  </did>
+				</c05>
+			 </c04>
+		  </c03>
+		  <c03 level="subseries">
+			 <did>
+				<unittitle>Other Business Reports</unittitle>
+			 </did>
+			 <c04 level="file">
+				<did><container id="ecd7260c-020f-4d59-a485-bf75b5aadadd" type="box">11</container>
+				  <unittitle>Maricopa -- Gila Irrigation/Valley Land &amp;
+					 Canal/Arizona Construction Co. (box 8 folder 1). 
+					 <unitdate normal="1891/1893" type="inclusive">1891-1893</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="f466a7a2-e5f2-4c69-829a-5ecabb80194f" type="box">11</container>
+				  <unittitle>Maricopa -- New York Canal &amp; Irrigation Co. (box 8
+					 folder 2). 
+					 <unitdate normal="1893/1894" type="inclusive">1893-1894</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="ce750bc7-afaa-43d6-8d79-450b3f8cb831" type="box">11</container>
+				  <unittitle>Yavapai -- Pacific Water Power Co. (box 8 folder 4). 
+					 <unitdate normal="1909/1911" type="inclusive">1909-1911</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="b6aa43ba-98b2-4ad9-9b2a-88ee1729f351" type="box">11</container>
+				  <unittitle>Anglo-American and Anglo Dutch Ramie Fibre &amp; Paper
+					 Companies (box 8 folders 6-8). 
+					 <unitdate normal="NaN" type="inclusive">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+		  </c03>
+		  <c03 level="subseries">
+			 <did>
+				<unittitle>Miscellaneous</unittitle>
+			 </did>
+			 <c04 level="file">
+				<did><container id="4e8c0439-1b9b-4de0-b342-70b723c68f43" type="box">11</container>
+				  <unittitle>Nevada -- Washoe County -- Reno &amp; Sparks. 
+					 <unitdate normal="NaN" type="inclusive">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="d5b2d151-5cfd-4e47-8e7e-b0bbde81a07c" type="box">11</container>
+				  <unittitle>Nevada -- California State Line -- Unprospected Area. 
+					 <unitdate normal="NaN" type="inclusive">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="759f5249-15b9-4521-998c-dae1defc43f0" type="box">11</container>
+				  <unittitle>Arizona -- The Mineral District Tributary to Prescott.
+					 
+					 <unitdate normal="NaN" type="inclusive">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="bf865c74-61ad-411d-a260-c9046db2fbee" type="box">11</container>
+				  <unittitle>Arizona &amp; California &amp; Mexico -- The Colorado
+					 Desert, Sonora, Mesa and Delta of the Rio Colorado. 
+					 <unitdate normal="1893" type="inclusive">1893</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="9c54b099-9eb4-4d19-bdfb-cc8e9888d759" type="box">11</container>
+				  <unittitle>Arizona. 
+					 <unitdate normal="1907" type="inclusive">1907</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="13a3ea2f-afc9-48d8-b896-6fbb364d4a47" type="box">11</container>
+				  <unittitle>Arizona &amp; California -- Western
+					 Arizona/Southeastern California, Mining &amp; Agricultural Districts. 
+					 <unitdate normal="1907" type="inclusive">1907</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="81ffdd4f-fded-462d-9d55-7122f77f903c" type="box">11</container>
+				  <unittitle>Mining equipment blueprints. 
+					 <unitdate normal="NaN" type="inclusive">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+		  </c03>
+		  <c03 level="subseries">
+			 <did>
+				<unittitle>Mining Reports</unittitle>
+			 </did>
+			 <c04 level="file">
+				<did><container id="a5e2720f-25f4-4fc2-97de-bb928fcb0697" type="box">12</container>
+				  <unittitle>Mexico/Sonora -- Altar --La Gran
+					 Proveedora/Arizona-Mexican (box 7 folders 11-14). 
+					 <unitdate normal="1901/1905" type="inclusive">1901-1905</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="a92fca18-55a9-43e8-8e78-e0a0f7dfa68f" type="box">12</container>
+				  <unittitle>Arizona/Yavapai -- Big Bug -- Little Jesse (folder 4
+					 box 31). 
+					 <unitdate normal="1896/1901" type="inclusive">1896-1901</unitdate></unittitle>
+				</did>
+			 </c04>
+		  </c03>
+		  <c03 level="subseries">
+			 <did>
+				<unittitle>Miscellaneous</unittitle>
+			 </did>
+			 <c04 level="file">
+				<did><container id="9d0c5562-9128-41df-867f-bf32bd288139" type="box">12</container>
+				  <unittitle>Arizona territory. 
+					 <unitdate normal="1903" type="inclusive">1903</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="a722b9a9-8aee-4fb9-82ec-b6a4f3fd0045" type="box">12</container>
+				  <unittitle>Blueprints for Nogales &amp; Sonora Mfg Co. 
+					 <unitdate normal="NaN" type="inclusive">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="ca81627a-bb26-4c29-b809-074ebbad7918" type="box">12</container>
+				  <unittitle>Fly wheel and coupling support. 
+					 <unitdate normal="NaN" type="inclusive">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="3c6b1b3d-a6a3-4a89-94fc-ce0543621af4" type="box">12</container>
+				  <unittitle>Smelting furnace/Henry Defty. 
+					 <unitdate normal="1888" type="inclusive">1888</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="06320b50-e555-4bbd-bb56-7ee66c4e4898" type="box">12</container>
+				  <unittitle>California -- Los Angeles -- Palmdale irrigation
+					 district. 
+					 <unitdate normal="1891" type="inclusive">1891</unitdate></unittitle>
+				</did>
+			 </c04>
+		  </c03>
+		</c02>
+	 </c01>
+  </dsc>
+</archdesc></ead>

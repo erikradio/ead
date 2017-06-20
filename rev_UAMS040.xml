@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+   <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+      <eadid encodinganalog="852">UAMS040</eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Memorias sobre las provincias del norte de Nueva España
+	 	       <date calendar="gregorian" certainty="approximate" era="ce" normal="1799" type="inclusive">1799</date>
+	 	       
+	 	    </titleproper>
+         	<titleproper altrender="nodisplay" type="filing"> Memorias sobre las provincias del norte de Nueva España
+	 	    
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date calendar="gregorian" era="ce" normal="2016">2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date encodinganalog="date" era="ce" normal="20160412">April 12, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   <revisiondesc><change><date normal="2017-06-20">2017-06-20</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+   <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+      <did> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name"> Memorias sobre las provincias del norte de Nueva España
+            <unitdate label="Dates" normal="1799" type="inclusive">1799</unitdate>
+  	     </unittitle>	 
+	     <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 040</unitid>
+	     <origination label="Creator"> 
+	     	<persname encodinganalog="100" source="lcnaf">Cortés y de Olarte, José María, -1811.</persname> 
+	     </origination> 
+      	<abstract label="Abstract">Bound manuscript volume contains two different works on northern New Spain.  Also contains a complete copy of the diary kept by the 
+      								Franciscans Silvestre Vélez de Escalante and Francisco Atanasio Domínguez. It recounts their expedition into Colorado, Utah, Arizona 
+      								and New Mexico in 1776-1777.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description"><extent>.1 linear feet</extent></physdesc>	 
+	     <repository label="Repository"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="spa">Spanish.</language></langmaterial>
+   	        
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Memorias sobre las provincias del norte de Nueva España (MS 040). Special Collections, University of Arizona Libraries.</p>
+      </prefercite>
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as purchase, 1955.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Spanish military engineer who served in New Spain.</p> 
+      </bioghist> 
+      <arrangement encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized by topical sections.</p>
+      </arrangement> 
+      <scopecontent encodinganalog="520"> 
+         <head>Scope and Content Note</head>
+      	<p>This is an early nineteenth century copy made in Spain for Edward King, Viscount Kingsborough, whose gilt arms 
+      	decorate the blue morocco binding. A stamp on the flyleaf says "Bound by Hering, 9 Newman St."</p>
+      	<p>Bound manuscript volume contains two different works on northern New Spain. The first is a copy of Cortés' work, which is divided into three parts and a preface. The first
+      	part describes various provinces, including the native peoples. It also discusses the political situation between the Spaniards and their Anglo-American neighbors. The 
+      	second part is the most substantial and provides a description of the Apaches. The third part discusses other Native Americans who lived near the Mississippi, Missouri,
+      	Colorado and Rio Grande rivers, as well as elsewhere in New Mexico, northern California and on the Texas coast.</p>
+      	<p>The second half of this volume is a complete copy of the diary kept by the Franciscans Silvestre Vélez de Escalante and Francisco Atanasio Domínguez. It recounts their 
+      	expedition into Colorado, Utah, Arizona and New Mexico in 1776-1777.</p>
+      </scopecontent> 
+      <relatedmaterial encodinganalog="544">
+      	<p>Published version translated by John Wheat and edited by Elizabeh A.H. John. <title render="italic">Views from the Apache Frontier: Report on the Northern Provinces of New Spain</title>, 
+      	by José Cortés. Norman, Okla.: University of Oklahoma Press, 1989.</p>
+      </relatedmaterial> 
+      <controlaccess>
+         <corpname>Domínguez-Escalante Expedition (1776) -- Personal narratives.</corpname><subject>Apache Indians -- History -- 18th century -- Sources.</subject><subject>Explorers -- New Spain.</subject><subject>Indians of North America -- Southwest, New -- History -- 18th century -- Sources.</subject><geogname>New Spain -- History -- 18th century -- Sources.</geogname><geogname>Southwest, New -- History -- To 1848 -- Sources.</geogname><persname>Cortés y de Olarte, José María, -1811. Memorias sobre las provincias del norte de Nueva España. English.</persname><persname>Domínguez, Francisco Atanasio, active 1776.</persname><persname>Vélez de Escalante, Silvestre, -1792. Diario y derrotero de los nuevos descubrimientos de tierras, á los rumbos N.N.OE.OE. del Nuevo Mejico.</persname></controlaccess>
+   </archdesc>
+</ead>
