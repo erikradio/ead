@@ -1,0 +1,2415 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">UAMS387</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Elliot Arnold papers, 
+		  <date>1920s-1980, (bulk, 1934-1980).</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Deborah Devereaux
+		  and Chrystal Carpenter.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline></address> 
+		<date>2006</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Charles Wommack. 
+		<date>February 2006</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">
+		English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-21">2017-06-21</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Elliott Arnold papers, 
+		<date>1920s-1980, (bulk, 1934-1980)</date></titleproper> 
+	 <num>Collection Number: MS 387</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Deborah Devereaux and Chrystal Carpenter</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>October 2003</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Charles Wommack</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2006. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Elliot Arnold papers, <unitdate normal="" type="inclusive">1920s-1980, (bulk,
+		  1934-1980)</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 387</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Elliott Arnold, </persname> 
+		<persname encodinganalog="100">Jean Arnold Sessler</persname>
+		</origination> 
+	 <abstract label="Abstract">Collection includes biographical materials,
+		correspondence, manuscripts, short stories, and articles written by Elliott
+		Arnold. The collection also contains research files, newspaper clippings and
+		photographs.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">25 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline></address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>There are no restrictions on access to this collection.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Elliott Arnold papers (MS 387). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Elliott Arnold was born September 13, 1912, in New York City to parents
+		Jack and Gertrude Frank Arnold. He attended college at CCNY and NYU. He began
+		his writing career while in college, as a reporter at the Brooklyn Times. He
+		wrote his first novel Two Loves at 18 years old. In 1932 he started writing for
+		the NY World Telegram. During his time there he wrote Personal Combat, Only the
+		Young, Finlandia, and The Commandos. Soon after the attack on Pearl Harbor he
+		enlisted in the army and was assigned to the Army Air Corps. He helped in the
+		collaboration of two official air histories, Mediterranean Sweep and Big
+		Business. After four years in the military he was awarded the Bronze Star Metal
+		by General MacArthur and was discharged with the rank of captain.</p> 
+	 <p>Elliott Arnold then went on to be a prolific writer of novels, short
+		stories, and articles. His novels include; Blood Brothers, Time of the Gringo,
+		Flight from Ashiya, A Night of Watching, The Proving Ground, and the Camp Grant
+		Massacre. Many of his short stories and articles have appeared in Playboy,
+		Reader's Digest, and Colliers. A number of his works went on to become screen
+		plays. In 1950 Broken Arrow, based on his novel Blood Brothers was released by
+		Twentieth Century-Fox, and in 1964, A Flight from Ashiya was released by United
+		Artists.</p> 
+	 <p>During his lifetime Arnold had been acknowledged for numerous awards
+		including: the Commonwealth Club of California Silver Medals in 1948, for Blood
+		Brother, in 1960, for Flight from Ashiya, and in 1968, for A Night of Watching,
+		and the Screen Writers Guild prize for Broken Arrow, in 1951. Elliott Arnold
+		died May 13, 1980, in New York City.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into eight series.</p> 
+	 <list> 
+		<item>Series 1: Biographical Materials, 
+		  <unitdate normal="1935/1978" type="inclusive">1935-1978</unitdate></item> 
+		<item>Series 2: Correspondence, 
+		  <unitdate normal="1934/1981" type="inclusive">1934-1981</unitdate></item> 
+		<item>Series 3: Manuscripts, 
+		  <unitdate normal="NaN/1976" type="inclusive">ca.1934-1976</unitdate></item> 
+		<item>Series 4: Articles, 
+		  <unitdate normal="1931/1979" type="inclusive">1931-1979</unitdate></item> 
+		<item>Series 5: Research Files, 
+		  <unitdate normal="NaN/1979" type="inclusive">ca.1817-1979</unitdate></item> 
+		<item>Series 6: Clippings and Promotional Material, 
+		  <unitdate normal="NaN/NaN" type="inclusive">ca.1939-1980s</unitdate></item> 
+		<item>Series 7: Photogaraphs Awards, and Drawings, 
+		  <unitdate normal="NaN/1979" type="inclusive">1930s-1979</unitdate></item> 
+		<item>Series 8: Manuscripts by Other Authors, 
+		  <unitdate normal="" type="inclusive">1970s-ca.1978</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The collection includes biographical materials, correspondence,
+		manuscripts, short stories, and articles written by Elliott Arnold. The
+		collection also contains research files, newspaper clippings and photographs.
+		The majority of the collection consists of original manuscripts, short stories
+		and articles written by Elliott Arnold. </p> 
+	 <p>The bulk of the correspondence contains letters received in the 1960s
+		and 1970s from agents, business associates and friends which document Elliott
+		Arnold's publishing activities at the time. The Photographs include mostly
+		black and white photos of Elliott Arnold during his military career, publicity
+		shots throughout his lifetime, and autographed photographs of individuals,
+		including Jimmy Stewart. Most of the collection is arranged alphabetically
+		within each series.</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <persname>Arnold, Elliott, 1912-
+			 --Archives.</persname><persname>Carney, Otis -- Manuscripts.</persname><persname>Mitchell, Burroughs --
+			 Manuscripts.</persname><persname>Winston, Irene --
+			 Manuscripts.</persname><corpname>United States. Army --
+			 History.</corpname><subject>Short stories, American -- 20th century.</subject><subject> World War, 1939-1945 -- Aerial operations, American --
+			 History.</subject><subject>American fiction -- 20th century -- History and
+			 criticism.</subject><subject>Militarism in literature.</subject><geogname>West (U.S.) -- In literature.</geogname></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 1: Biographical Materials, 
+			 <unitdate normal="1935/1978" type="inclusive">1935-1978</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="d6d4d71f-28a3-47d0-9416-fc77a3918486" type="box">1</container> <container parent="d6d4d71f-28a3-47d0-9416-fc77a3918486" type="folder">1</container> 
+			 <unittitle>Scrapbook, 
+				<unitdate normal="1935" type="inclusive">1935</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="775d2e2f-2c59-4465-b1cc-57c10bc8cf01" type="box">1</container> <container parent="775d2e2f-2c59-4465-b1cc-57c10bc8cf01" type="folder">2</container> 
+			 <unittitle>Squadron Book, 
+				<unitdate normal="1942" type="inclusive">1942</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="4c354cb2-fada-4d4d-829c-41a9d490295e" type="box">1</container> <container parent="4c354cb2-fada-4d4d-829c-41a9d490295e" type="folder">3</container> 
+			 <unittitle>Biographical Data on Elliott Arnold, 
+				<unitdate normal="1964" type="inclusive">1964</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="f50cdd12-750c-430a-8c6b-63520136c239" type="box">1</container> <container parent="f50cdd12-750c-430a-8c6b-63520136c239" type="folder">4</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1963" type="inclusive">1963</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="b0897c6e-c1b3-4bf6-a128-f2ae5e1adbae" type="box">1</container> <container parent="b0897c6e-c1b3-4bf6-a128-f2ae5e1adbae" type="folder">5</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1967" type="inclusive">1967</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="50693619-650c-4fae-bb6e-4b811e4cb190" type="box">1</container> <container parent="50693619-650c-4fae-bb6e-4b811e4cb190" type="folder">6</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="9ed50114-705f-46a1-a6d8-3ea75378da26" type="box">1</container> <container parent="9ed50114-705f-46a1-a6d8-3ea75378da26" type="folder">7</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2b1e464b-ae15-464b-a110-9ea90f1199f5" type="box">1</container> <container parent="2b1e464b-ae15-464b-a110-9ea90f1199f5" type="folder">8</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="f6708ec6-1608-4f82-98db-44c5d9b0c905" type="box">1</container> <container parent="f6708ec6-1608-4f82-98db-44c5d9b0c905" type="folder">9</container> 
+			 <unittitle>Appointment Calendar, 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="0fbeec81-7f03-4252-93d0-7a3119139e79" type="box">1</container> <container parent="0fbeec81-7f03-4252-93d0-7a3119139e79" type="folder">10</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="64937bbe-c7ac-4022-a858-72299db05af0" type="box">1</container> <container parent="64937bbe-c7ac-4022-a858-72299db05af0" type="folder">11</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8c7ce720-515a-48e1-8665-8cede3fd0519" type="box">1</container> <container parent="8c7ce720-515a-48e1-8665-8cede3fd0519" type="folder">12</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c11bbf3a-c09a-4f00-b2ae-df7da4b39c50" type="box">1</container> <container parent="c11bbf3a-c09a-4f00-b2ae-df7da4b39c50" type="folder">13</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="14a06746-1b3f-4ff2-9089-5f8052358f68" type="box">1</container> <container parent="14a06746-1b3f-4ff2-9089-5f8052358f68" type="folder">14</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1975" type="inclusive">1975</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8ca358ab-b371-4f8b-9bf3-4f695ce1cf5a" type="box">1</container> <container parent="8ca358ab-b371-4f8b-9bf3-4f695ce1cf5a" type="folder">15</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1975" type="inclusive">1975</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="9b05508e-240b-4242-a846-7817a3b51d9e" type="box">1</container> <container parent="9b05508e-240b-4242-a846-7817a3b51d9e" type="folder">16</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="9fccd744-0cd6-404f-a062-181cb998ddaa" type="box">1</container> <container parent="9fccd744-0cd6-404f-a062-181cb998ddaa" type="folder">17</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="1e007084-4964-4e31-a42d-f8f99b713986" type="box">1</container> <container parent="1e007084-4964-4e31-a42d-f8f99b713986" type="folder">18</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1977" type="inclusive">1977</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="bf077028-d09c-4577-b83e-c0a66a2b47eb" type="box">1</container> <container parent="bf077028-d09c-4577-b83e-c0a66a2b47eb" type="folder">19</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1977" type="inclusive">1977</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="25e85438-34d5-4daf-9146-cabfa65eda3d" type="box">1</container> <container parent="25e85438-34d5-4daf-9146-cabfa65eda3d" type="folder">20</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="7f9175c5-b0d9-459a-9a0e-600ef00440f6" type="box">1</container> <container parent="7f9175c5-b0d9-459a-9a0e-600ef00440f6" type="folder">21</container> 
+			 <unittitle>Appointment Book, 
+				<unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8f2f940f-b35f-48d6-9849-b31c07bb0e4c" type="box">1</container> <container parent="8f2f940f-b35f-48d6-9849-b31c07bb0e4c" type="folder">22</container> 
+			 <unittitle>Appointment Book, </unittitle> 
+		  </did> 
+		</c02>
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 2: Correspondence, 
+			 <unitdate normal="1934/1981" type="inclusive">1934-1981</unitdate></unittitle> 
+		</did>
+		<c02 level="file"> 
+		  <did> <container id="1f277355-8a28-4e45-b5b4-963ae1ead887" type="box">1</container> <container parent="1f277355-8a28-4e45-b5b4-963ae1ead887" type="folder">23</container> 
+			 <unittitle>A-B, 
+				<unitdate normal="1934/1980" type="inclusive">1934-1980</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="dce683eb-9fb4-4ffa-8410-6892414e6d60" type="box">1</container> <container parent="dce683eb-9fb4-4ffa-8410-6892414e6d60" type="folder">24</container> 
+			 <unittitle>C-D, 
+				<unitdate normal="1950/1980" type="inclusive">1950-1980</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="21cecd18-3282-4a38-9a0b-f193db7b7918" type="box">1</container> <container parent="21cecd18-3282-4a38-9a0b-f193db7b7918" type="folder">25</container> 
+			 <unittitle>Elephant Bill, 
+				<unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="6dc273ea-1044-44ec-afba-967e77c932e0" type="box">1</container> <container parent="6dc273ea-1044-44ec-afba-967e77c932e0" type="folder">26</container> 
+			 <unittitle>E-L, 
+				<unitdate normal="1946/1977" type="inclusive">1946-1977</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="65eaf45e-2b85-492a-8a7c-ba02480e1677" type="box">1</container> <container parent="65eaf45e-2b85-492a-8a7c-ba02480e1677" type="folder">27</container> 
+			 <unittitle>M-S, 
+				<unitdate normal="1945/1979" type="inclusive">1945-1979</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="d8091913-6203-43f9-a320-3992dd58166e" type="box">1</container> <container parent="d8091913-6203-43f9-a320-3992dd58166e" type="folder">28</container> 
+			 <unittitle>T-Z, 
+				<unitdate normal="1942/1979" type="inclusive">1942-1979</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="f695b303-a8f0-495f-8c0c-6d9e45865b69" type="box">1</container> <container parent="f695b303-a8f0-495f-8c0c-6d9e45865b69" type="folder">29</container> 
+			 <unittitle>Unknown 
+				<unitdate normal="1950/1981" type="inclusive">1950-1981</unitdate></unittitle> 
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 3: Manuscripts, 
+			 <unitdate normal="NaN/1976" type="inclusive">ca.
+				1934-1976</unitdate></unittitle> 
+		</did>
+		<c02 level="file"> 
+		  <did> <container id="5cf5c577-bc31-45d8-ae2f-bff3bf397822" type="box">2</container> <container parent="5cf5c577-bc31-45d8-ae2f-bff3bf397822" type="folder">1</container> 
+			 <unittitle>Alverez, Kelly, 
+				<unitdate normal="1965" type="inclusive">1965</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="edd3701c-32e7-4e61-bcb5-09b40888b48b" type="box">2</container> <container parent="edd3701c-32e7-4e61-bcb5-09b40888b48b" type="folder">2</container> 
+			 <unittitle> Alverez, Kelly, 
+				<unitdate normal="1965" type="inclusive">
+				  1965</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8facf736-5b15-46f6-8201-fa3b7c938816" type="box">2</container> <container parent="8facf736-5b15-46f6-8201-fa3b7c938816" type="folder">3</container> 
+			 <unittitle> 
+				<title>The Arsenal</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="41a06f5a-9c1e-4eae-89e1-bbcb6b0523a6" type="box">2</container> <container parent="41a06f5a-9c1e-4eae-89e1-bbcb6b0523a6" type="folder">4</container> 
+			 <unittitle> 
+				<title>Bandoola</title> 
+				<unitdate normal="1963" type="inclusive">1963</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="88b063c5-8a30-4b45-8d2b-17fa3ca2aab3" type="box">2</container> <container parent="88b063c5-8a30-4b45-8d2b-17fa3ca2aab3" type="folder">5</container> 
+			 <unittitle> 
+				<title>Blood Brothers</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="9540f9b0-13ed-4498-9e0e-135aff99ff50" type="box">2</container> <container parent="9540f9b0-13ed-4498-9e0e-135aff99ff50" type="folder">6</container> 
+			 <unittitle> 
+				<title>Blood Brothers</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="9c42cf56-9022-498f-92fd-3d7e12e34c96" type="box">2</container> <container parent="9c42cf56-9022-498f-92fd-3d7e12e34c96" type="folder">7</container> 
+			 <unittitle> 
+				<title>The Bloodied Years</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="53193d98-0593-48a4-8f41-ef965ebbcfc9" type="box">2</container> <container parent="53193d98-0593-48a4-8f41-ef965ebbcfc9" type="folder">8</container> 
+			 <unittitle> 
+				<title>The Bloodied Years</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8dcba44e-2e37-40da-b12a-ed17de36cfbf" type="box">2</container> <container parent="8dcba44e-2e37-40da-b12a-ed17de36cfbf" type="folder">9</container> 
+			 <unittitle> 
+				<title>The Bloodied Years</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2ac34c61-e727-41b2-b902-71cc3100524e" type="box">2</container> <container parent="2ac34c61-e727-41b2-b902-71cc3100524e" type="folder">10</container> 
+			 <unittitle> 
+				<title>The Bloodied Years</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="de9c2ca4-ab8a-45e5-91b8-3dc11f559f92" type="box">2</container> <container parent="de9c2ca4-ab8a-45e5-91b8-3dc11f559f92" type="folder">11</container> 
+			 <unittitle> 
+				<title>The Bloodied Years</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="aeec3e0d-213c-4eca-803e-606ef956cf56" type="box">2</container> <container parent="aeec3e0d-213c-4eca-803e-606ef956cf56" type="folder">12</container> 
+			 <unittitle> 
+				<title>The Bloodied Years</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="731dbd1e-962f-476b-aa08-2877fd90ef0f" type="box">2</container> <container parent="731dbd1e-962f-476b-aa08-2877fd90ef0f" type="folder">13</container> 
+			 <unittitle> 
+				<title>The Bloodied Years</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="5e5daf08-10dc-4aaa-a52d-ade41180d080" type="box">2</container> <container parent="5e5daf08-10dc-4aaa-a52d-ade41180d080" type="folder">14</container> 
+			 <unittitle> 
+				<title>Bonanza</title>, 
+				<unitdate normal="1961" type="inclusive">1961</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="651bd3f7-4658-4a23-8b70-149defbd7296" type="box">3</container> <container parent="651bd3f7-4658-4a23-8b70-149defbd7296" type="folder">1</container> 
+			 <unittitle> 
+				<title>Brave Jimmy Stone</title> 
+				<unitdate normal="1962" type="inclusive">1962</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="91f0f6f1-6b4e-4dad-ac55-315a854e20fb" type="box">3</container> <container parent="91f0f6f1-6b4e-4dad-ac55-315a854e20fb" type="folder">2</container> 
+			 <unittitle> 
+				<title>Broken Arrow</title>, 
+				<unitdate normal="1949" type="inclusive">1949</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="b1217f08-b359-4673-8045-ed71776b0e2c" type="box">3</container> <container parent="b1217f08-b359-4673-8045-ed71776b0e2c" type="folder">3</container> 
+			 <unittitle> 
+				<title>Broken Arrow</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="1efd3f9e-3b1c-4567-afd2-db6bc77f52be" type="box">3</container> <container parent="1efd3f9e-3b1c-4567-afd2-db6bc77f52be" type="folder">4</container> 
+			 <unittitle> 
+				<title>The Camp Grant Massacre</title> 
+				<unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2cc503df-dd8a-4575-99be-7ef29b7dd003" type="box">3</container> <container parent="2cc503df-dd8a-4575-99be-7ef29b7dd003" type="folder">5</container> 
+			 <unittitle> 
+				<title>The Camp Grant Massacre</title>, 
+				<unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="f24888d7-e658-4171-9ae6-75d9fc03bd60" type="box">3</container> <container parent="f24888d7-e658-4171-9ae6-75d9fc03bd60" type="folder">6</container> 
+			 <unittitle> 
+				<title>The Camp Grant Massacre</title>, uncorrected proofs, 
+				<unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c9d6e64d-d737-46c5-943e-6a59e3135550" type="box">3</container> <container parent="c9d6e64d-d737-46c5-943e-6a59e3135550" type="folder">7</container> 
+			 <unittitle> 
+				<title>The Camp Grant Massacre</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="bdc00a46-e150-4d80-a4d7-0f38f46e764c" type="box">3</container> <container parent="bdc00a46-e150-4d80-a4d7-0f38f46e764c" type="folder">8</container> 
+			 <unittitle> 
+				<title>The Camp Grant Massacre</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="7bad3472-c7f2-4bbf-8add-ed30f50564ab" type="box">3</container> <container parent="7bad3472-c7f2-4bbf-8add-ed30f50564ab" type="folder">9</container> 
+			 <unittitle> 
+				<title>Code of Conduct</title>, 
+				<unitdate normal="1970" type="inclusive">1970</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="92c91e48-d65e-4ac9-952e-bdb6971bdd5d" type="box">3</container> <container parent="92c91e48-d65e-4ac9-952e-bdb6971bdd5d" type="folder">10</container> 
+			 <unittitle> 
+				<title>Code of Conduct</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="0920cac9-fdb2-4d87-8a96-35cf6f895ba4" type="box">3</container> <container parent="0920cac9-fdb2-4d87-8a96-35cf6f895ba4" type="folder">11</container> 
+			 <unittitle> 
+				<title>Code of Conduct</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="25ae1cf5-1256-42dc-a5ce-5a19bf943543" type="box">3</container> <container parent="25ae1cf5-1256-42dc-a5ce-5a19bf943543" type="folder">12</container> 
+			 <unittitle> 
+				<title>Cowards to the Rear-Brave Hearts Follow Me</title>, First
+				Draft, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="03bc643f-63bd-4d64-9ed9-6a4289e402c0" type="box">3</container> <container parent="03bc643f-63bd-4d64-9ed9-6a4289e402c0" type="folder">13</container> 
+			 <unittitle> 
+				<title>Cowards to the Rear-Brave Hearts Follow Me</title>, First
+				Draft, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="5326910d-3f67-4ccc-9202-736954e4af2f" type="box">3</container> <container parent="5326910d-3f67-4ccc-9202-736954e4af2f" type="folder">14</container> 
+			 <unittitle> 
+				<title>Cowards to the Rear-Brave Hearts Follow Me</title>, Second
+				Draft, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="f9dafc92-e960-4214-80e1-42de74156d7f" type="box">3</container> <container parent="f9dafc92-e960-4214-80e1-42de74156d7f" type="folder">15</container> 
+			 <unittitle> 
+				<title>Cowards to the Rear-Brave Hearts Follow Me</title>, Second
+				Draft, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="93ddb200-ba7d-47b1-8d38-623611ee8463" type="box">3</container> <container parent="93ddb200-ba7d-47b1-8d38-623611ee8463" type="folder">16</container> 
+			 <unittitle> 
+				<title>Cowards to the Rear-Brave Hearts Follow Me</title>, Second
+				Draft, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="9e4c4e5a-5d64-4d4e-9c62-bcdd844ddc35" type="box">3</container> <container parent="9e4c4e5a-5d64-4d4e-9c62-bcdd844ddc35" type="folder">17</container> 
+			 <unittitle> 
+				<title>Cowards to the Rear-Brave Hearts Follow Me</title>, Third
+				Draft, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="9985854c-ae29-4642-9b22-1bd38a028fdb" type="box">3</container> <container parent="9985854c-ae29-4642-9b22-1bd38a028fdb" type="folder">18</container> 
+			 <unittitle> 
+				<title>Cowards to the Rear-Brave Hearts Follow Me</title>,
+				</unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="756b3933-7084-41fd-a3ad-de20205607eb" type="box">4</container> <container parent="756b3933-7084-41fd-a3ad-de20205607eb" type="folder">1</container> 
+			 <unittitle> 
+				<title>Everybody Slept Here</title>, 
+				<unitdate normal="1948" type="inclusive">1948</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="12456dc6-4083-40c8-a803-222a6d105cd2" type="box">4</container> <container parent="12456dc6-4083-40c8-a803-222a6d105cd2" type="folder">2</container> 
+			 <unittitle> 
+				<title>Fiesta in the Desert/Nine Shots in the Dark</title> (not by
+				Elliott Arnold), </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="df7a1bf0-f2fa-4ad5-bcf5-fd1d0d154e04" type="box">4</container> <container parent="df7a1bf0-f2fa-4ad5-bcf5-fd1d0d154e04" type="folder">
+				3</container> 
+			 <unittitle> 
+				<title> Flight From Ashiya</title>, 
+				<unitdate normal="1958" type="inclusive">1958</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="26bcd96a-485e-4401-b936-eef13d722740" type="box">4</container> <container parent="26bcd96a-485e-4401-b936-eef13d722740" type="folder">4</container> 
+			 <unittitle> 
+				<title>Flight From Ashiya</title>, 
+				<unitdate normal="1959" type="inclusive">October
+				  1959</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="b8314b3c-e85c-473a-b5bc-5dd08399d396" type="box">4</container> <container parent="b8314b3c-e85c-473a-b5bc-5dd08399d396" type="folder">5</container> 
+			 <unittitle> 
+				<title>Flight From Ashiya</title>, 
+				<unitdate normal="1959" type="inclusive">December
+				  1959</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="244368e9-c2e5-4d41-8dc3-d4ce6012ade7" type="box">4</container> <container parent="244368e9-c2e5-4d41-8dc3-d4ce6012ade7" type="folder">6</container> 
+			 <unittitle> 
+				<title>Flight From Ashiya</title>, 
+				<unitdate normal="1962" type="inclusive">1962</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="34b74aa1-648f-4c67-9162-6202d098efcc" type="box">4</container> <container parent="34b74aa1-648f-4c67-9162-6202d098efcc" type="folder">7</container> 
+			 <unittitle> 
+				<title>Flight From Ashiya</title>, 
+				<unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="4e43543e-ccc7-4543-bbba-af52dcdbf69f" type="box">4</container> <container parent="4e43543e-ccc7-4543-bbba-af52dcdbf69f" type="folder">8</container> 
+			 <unittitle> 
+				<title>Flight From Ashiya</title>, 
+				<unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="68e3548f-039a-4b66-9512-ceca9bde1028" type="box">5</container> <container parent="68e3548f-039a-4b66-9512-ceca9bde1028" type="folder">1</container> 
+			 <unittitle> 
+				<title>The Day Custer Fell</title>, Preliminary Notes, 
+				<unitdate normal="NaN" type="inclusive">1962?</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="b66d6d1f-dbb2-4f19-844a-34d128a25972" type="box">5</container> <container parent="b66d6d1f-dbb2-4f19-844a-34d128a25972" type="folder">2</container> 
+			 <unittitle> 
+				<title>The Day Custer Fell</title>, Treatment, 
+				<unitdate normal="1963" type="inclusive">1963</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8527b60d-8d9a-452d-90d9-074e558a537d" type="box">5</container> <container parent="8527b60d-8d9a-452d-90d9-074e558a537d" type="folder">3</container> 
+			 <unittitle> 
+				<title>The Day Custer Fell</title>, Screenplay, 
+				<unitdate normal="1964" type="inclusive">1964</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="704f8aba-97bf-438b-9610-4b919921fa40" type="box">5</container> <container parent="704f8aba-97bf-438b-9610-4b919921fa40" type="folder">4</container> 
+			 <unittitle> 
+				<title>The Decision </title>, 
+				<unitdate normal="1962" type="inclusive">1962</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="33f72767-e52f-4680-b60a-ddec6a07dc2b" type="box">5</container> <container parent="33f72767-e52f-4680-b60a-ddec6a07dc2b" type="folder">5</container> 
+			 <unittitle> 
+				<title>Deep in My Heart</title>, Biography of Sigmund Romberg, 
+				<unitdate normal="1949" type="inclusive">1949</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="db937940-b501-4b11-b20b-55ea36a0eea7" type="box">5</container> <container parent="db937940-b501-4b11-b20b-55ea36a0eea7" type="folder">6</container> 
+			 <unittitle> 
+				<title>Deep in My Heart</title>, Biography of Sigmund Romberg, 
+				<unitdate normal="1949" type="inclusive">1949</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="ead2c8ba-1fde-4ca8-982c-4c7a1fe4cb73" type="box">5</container> <container parent="ead2c8ba-1fde-4ca8-982c-4c7a1fe4cb73" type="folder">7</container> 
+			 <unittitle> 
+				<title>The Door</title> (pg.1-223), </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="1d19b0a1-ebbe-4585-9607-16642044f99e" type="box">5</container> <container parent="1d19b0a1-ebbe-4585-9607-16642044f99e" type="folder">8</container> 
+			 <unittitle> 
+				<title>The Door</title> (pg.224-432), </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="a3882326-54bf-40e8-8a3b-129dc02f0e9d" type="box">5</container> <container parent="a3882326-54bf-40e8-8a3b-129dc02f0e9d" type="folder">9</container> 
+			 <unittitle> 
+				<title>The Door</title> (1-216), Edited, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="080129ec-d328-458b-902c-bcea42371bdf" type="box">5</container> <container parent="080129ec-d328-458b-902c-bcea42371bdf" type="folder">10</container> 
+			 <unittitle> 
+				<title>The Door</title> (217-432), Edited, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="b8d671fc-35ab-4989-861e-38585b06a200" type="box">5</container> <container parent="b8d671fc-35ab-4989-861e-38585b06a200" type="folder">11</container> 
+			 <unittitle> 
+				<title>Elephant Bill</title>, Original Copy, 
+				<unitdate normal="1961" type="inclusive">1961</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="29dd8465-7b37-49a7-aa31-1f90278aa78c" type="box">5</container> <container parent="29dd8465-7b37-49a7-aa31-1f90278aa78c" type="folder">12</container> 
+			 <unittitle> 
+				<title>Elephant Bill</title>, First Draft </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e61152bc-74dd-47e1-9d31-8e6060b39fde" type="box">5</container> <container parent="e61152bc-74dd-47e1-9d31-8e6060b39fde" type="folder">13</container> 
+			 <unittitle> 
+				<title>Elephant Bill</title>, 
+				<unitdate normal="1961" type="inclusive">1961</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="bb37ba42-e539-4689-9646-b2c37b486d95" type="box">5</container> <container parent="bb37ba42-e539-4689-9646-b2c37b486d95" type="folder">14</container> 
+			 <unittitle> 
+				<title>Elephant Bill</title>, 
+				<unitdate normal="1962" type="inclusive">1962</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="9954e899-146d-434f-b1fe-a5d130cb7d1c" type="box">5</container> <container parent="9954e899-146d-434f-b1fe-a5d130cb7d1c" type="folder">15</container> 
+			 <unittitle> 
+				<title>Elephant Bill</title>, First Screenplay, 
+				<unitdate normal="1962" type="inclusive">1962</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8a244857-fd2d-49b6-97c4-819843e1471d" type="box">5</container> <container parent="8a244857-fd2d-49b6-97c4-819843e1471d" type="folder">16</container> 
+			 <unittitle> 
+				<title>Forests of the Night</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="ae4a9791-167c-48d0-a7e5-3d69329d7577" type="box">5</container> <container parent="ae4a9791-167c-48d0-a7e5-3d69329d7577" type="folder">17</container> 
+			 <unittitle> 
+				<title>Forests of the Night</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e9bb44f5-c905-48e8-b072-447dc6cd9923" type="box">6</container> <container parent="e9bb44f5-c905-48e8-b072-447dc6cd9923" type="folder">1</container> 
+			 <unittitle> 
+				<title>Forests of the Night</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e98eeaab-4f65-45c4-ba79-16fc764ed334" type="box">6</container> <container parent="e98eeaab-4f65-45c4-ba79-16fc764ed334" type="folder">2</container> 
+			 <unittitle> 
+				<title>Forests of the Night</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="44aed1d3-f95f-41a0-be83-efd1dbdaf72d" type="box">6</container> <container parent="44aed1d3-f95f-41a0-be83-efd1dbdaf72d" type="folder">3</container> 
+			 <unittitle> 
+				<title>Fort Buchanan</title>, 
+				<unitdate normal="1953" type="inclusive">1953</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="5f95d04a-fe71-49c7-b4cb-3eb67b403720" type="box">6</container> <container parent="5f95d04a-fe71-49c7-b4cb-3eb67b403720" type="folder">4</container> 
+			 <unittitle> 
+				<title>Kimberly</title>, treatment, 
+				<unitdate normal="1962" type="inclusive">1962</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="52239a1f-7ba1-4b41-874a-ebd1803ee834" type="box">6</container> <container parent="52239a1f-7ba1-4b41-874a-ebd1803ee834" type="folder">5</container> 
+			 <unittitle> 
+				<title>A Kind of Secret Weapon </title>, 
+				<unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="a7b128d1-4a5e-4d37-9b3c-61a167837fa4" type="box">6</container> <container parent="a7b128d1-4a5e-4d37-9b3c-61a167837fa4" type="folder">6</container> 
+			 <unittitle> 
+				<title>Kings of the Sun</title>, 
+				<unitdate normal="1963" type="inclusive">1963</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2c731326-c5cf-4dc1-b587-58a86d1acfea" type="box">6</container> <container parent="2c731326-c5cf-4dc1-b587-58a86d1acfea" type="folder">7</container> 
+			 <unittitle> 
+				<title>The Man Who Found His Way</title> , </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="4c9fb305-85b8-43de-b8c8-1165216bed60" type="box">6</container> <container parent="4c9fb305-85b8-43de-b8c8-1165216bed60" type="folder">8</container> 
+			 <unittitle> 
+				<title>The Mound Builders</title>, 
+				<unitdate normal="1962" type="inclusive">August
+				  1962</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e4b11aee-abaf-4f6e-b1e2-7b484fbdafe8" type="box">6</container> <container parent="e4b11aee-abaf-4f6e-b1e2-7b484fbdafe8" type="folder">9</container> 
+			 <unittitle> 
+				<title>The Mound Builders</title>, 
+				<unitdate normal="1962" type="inclusive">November
+				  1962</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="6aa0ddf7-d022-4c15-b9aa-0adfff55ec4a" type="box">6</container> <container parent="6aa0ddf7-d022-4c15-b9aa-0adfff55ec4a" type="folder">10</container> 
+			 <unittitle> 
+				<title>The Mound Builders</title> </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="26988726-3d59-47f3-941c-59ebf115655d" type="box">6</container> <container parent="26988726-3d59-47f3-941c-59ebf115655d" type="folder">11</container> 
+			 <unittitle> 
+				<title> Navy Story</title>, by Frank Harvey, 
+				<unitdate normal="1962" type="inclusive">August 1962
+				  </unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="a19ab962-236a-47a5-9975-ff9a83068abf" type="box">6</container> <container parent="a19ab962-236a-47a5-9975-ff9a83068abf" type="folder">12</container> 
+			 <unittitle> 
+				<title> Navy Story</title>, by Frank Harvey, 
+				<unitdate normal="1962" type="inclusive">November
+				  1962</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2e2460db-725a-4149-bb52-cf3eaad5f79c" type="box">6</container> <container parent="2e2460db-725a-4149-bb52-cf3eaad5f79c" type="folder">13</container> 
+			 <unittitle> 
+				<title> Navy Story</title>, by Elliott Arnold, 
+				<unitdate normal="1963" type="inclusive">August,
+				  1963</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="191eab0e-5d91-43c5-823d-37f29b50b4c9" type="box">6</container> <container parent="191eab0e-5d91-43c5-823d-37f29b50b4c9" type="folder">14</container> 
+			 <unittitle> 
+				<title>A Night of Watching</title>, 
+				<unitdate normal="1967" type="inclusive">1967</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e1b965f1-e119-4e81-b4db-b40647330295" type="box">6</container> <container parent="e1b965f1-e119-4e81-b4db-b40647330295" type="folder">15</container> 
+			 <unittitle> 
+				<title>A Night of Watching</title>, 
+				<unitdate normal="1967" type="inclusive">1967</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8d05a3ce-558a-4372-98f9-5229ca90c437" type="box">6</container> <container parent="8d05a3ce-558a-4372-98f9-5229ca90c437" type="folder">16</container> 
+			 <unittitle> 
+				<title>A Night of Watching</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="0b6be478-86f3-4f81-9b89-cdd093e95a02" type="box">7</container> <container parent="0b6be478-86f3-4f81-9b89-cdd093e95a02" type="folder">1</container> 
+			 <unittitle> 
+				<title>Opera</title>- an outline for a film, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="d389ba69-6cbc-4403-97d3-540da8954e28" type="box">7</container> <container parent="d389ba69-6cbc-4403-97d3-540da8954e28" type="folder">2</container> 
+			 <unittitle> 
+				<title>Penthouse East</title>- episode one teleplay, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="92a61c38-3c56-4d6c-b560-b456283bb00c" type="box">7</container> <container parent="92a61c38-3c56-4d6c-b560-b456283bb00c" type="folder">3</container> 
+			 <unittitle> 
+				<title>The Place Where the Devils Dwell</title> </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="0c7bd1be-cc40-4da5-bd47-8eaf7d41e15c" type="box">7</container> <container parent="0c7bd1be-cc40-4da5-bd47-8eaf7d41e15c" type="folder">4</container> 
+			 <unittitle> 
+				<title>The Place Where the Devils Dwell</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="f92ea13a-f7ca-4ffd-b35e-03481571a99f" type="box">7</container> <container parent="f92ea13a-f7ca-4ffd-b35e-03481571a99f" type="folder">5</container> 
+			 <unittitle> 
+				<title>The Place Where the Devils Dwell</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="14c06fa6-c414-4a57-b984-ef0218326b82" type="box">7</container> <container parent="14c06fa6-c414-4a57-b984-ef0218326b82" type="folder">6</container> 
+			 <unittitle> 
+				<title>The Place Where the Devils Dwell</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="55e15f2c-bd94-4ba4-95ec-93369aa25457" type="box">7</container> <container parent="55e15f2c-bd94-4ba4-95ec-93369aa25457" type="folder">7</container> 
+			 <unittitle> 
+				<title>The Place Where the Devils Dwell</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="32d355d5-ad5c-4bab-a32a-ab24cc735bbe" type="box">7</container> <container parent="32d355d5-ad5c-4bab-a32a-ab24cc735bbe" type="folder">8</container> 
+			 <unittitle> 
+				<title>The Place Where the Devils Dwell</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="b3bc40c7-28a9-4c0b-b501-bd34ce9351a5" type="box">7</container> <container parent="b3bc40c7-28a9-4c0b-b501-bd34ce9351a5" type="folder">9</container> 
+			 <unittitle> 
+				<title>The Place Where the Devils Dwell</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8de14493-f306-492f-a34b-0cdfc8328749" type="box">7</container> <container parent="8de14493-f306-492f-a34b-0cdfc8328749" type="folder">10</container> 
+			 <unittitle> 
+				<title>A Proving Ground</title>, 
+				<unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="6d905cae-519f-4cd3-9f00-31d41f81f106" type="box">7</container> <container parent="6d905cae-519f-4cd3-9f00-31d41f81f106" type="folder">11</container> 
+			 <unittitle> 
+				<title>A Proving Ground</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e6aa673e-2066-4bfa-bed4-bb7a5c916f03" type="box">7</container> <container parent="e6aa673e-2066-4bfa-bed4-bb7a5c916f03" type="folder">12</container> 
+			 <unittitle> 
+				<title>Quicksand</title>, 
+				<unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="eecc41b9-eb78-4844-8af4-8c621162feb9" type="box">7</container> <container parent="eecc41b9-eb78-4844-8af4-8c621162feb9" type="folder">13</container> 
+			 <unittitle> 
+				<title>Quicksand</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="ef1ef2cc-8d78-43c7-9848-fb626db6c7f8" type="box">8</container> <container parent="ef1ef2cc-8d78-43c7-9848-fb626db6c7f8" type="folder">1</container> 
+			 <unittitle> 
+				<title>Quicksand</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="80f9f915-d933-46d7-bab8-6d7aba0b58ac" type="box">8</container> <container parent="80f9f915-d933-46d7-bab8-6d7aba0b58ac" type="folder">2</container> 
+			 <unittitle> 
+				<title>Quicksand</title>, Pg.A-200, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="f90290c3-8c4e-4cdd-9fae-d1f1a0147f40" type="box">8</container> <container parent="f90290c3-8c4e-4cdd-9fae-d1f1a0147f40" type="folder">3</container> 
+			 <unittitle> 
+				<title>Quicksand</title>, Pg.201-400, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="96e13ffb-11d2-4bfb-99aa-80e8cc3d02aa" type="box">8</container> <container parent="96e13ffb-11d2-4bfb-99aa-80e8cc3d02aa" type="folder">4</container> 
+			 <unittitle> 
+				<title>Quicksand</title>, Pg.401-553, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e241f251-075b-4408-8de0-241e1f00d1eb" type="box">8</container> <container parent="e241f251-075b-4408-8de0-241e1f00d1eb" type="folder">5</container> 
+			 <unittitle> 
+				<title>Rawhide</title>, 
+				<unitdate normal="1961" type="inclusive">1961</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="225df44b-c866-47bc-a9cf-5130126795b7" type="box">8</container> <container parent="225df44b-c866-47bc-a9cf-5130126795b7" type="folder">6</container> 
+			 <unittitle> 
+				<title>Rawhide</title>, 
+				<unitdate normal="1962" type="inclusive">1962</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="bc221bb0-261d-4d64-9369-a6c67fd49546" type="box">8</container> <container parent="bc221bb0-261d-4d64-9369-a6c67fd49546" type="folder">7</container> 
+			 <unittitle> 
+				<title>Rescue</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="1369eb1d-26cb-4b7a-8540-ba2ac4e01c96" type="box">8</container> <container parent="1369eb1d-26cb-4b7a-8540-ba2ac4e01c96" type="folder">8</container> 
+			 <unittitle> 
+				<title>Rescue</title>, 
+				<unitdate normal="1956" type="inclusive">July 27,
+				  1956</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="b3880981-55f8-4825-8a08-17b7d0b325d0" type="box">8</container> <container parent="b3880981-55f8-4825-8a08-17b7d0b325d0" type="folder">9</container> 
+			 <unittitle> 
+				<title>Rescue</title>, 
+				<unitdate normal="1956" type="inclusive">July 6,
+				  1956</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="ebde16b4-05c3-4b2d-aa46-8db11ad25fbb" type="box">8</container> <container parent="ebde16b4-05c3-4b2d-aa46-8db11ad25fbb" type="folder">10</container> 
+			 <unittitle> 
+				<title>The Richmond Story</title>, 
+				<unitdate normal="1964" type="inclusive">December
+				  1964</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c9d0d81a-d26d-4f77-b92b-ab37b43a42d5" type="box">8</container> <container parent="c9d0d81a-d26d-4f77-b92b-ab37b43a42d5" type="folder">11</container> 
+			 <unittitle> 
+				<title>Shields of Africa - Magic Box</title> , </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e0806d90-e35c-45f0-a461-a91f9f2a8eac" type="box">8</container> <container parent="e0806d90-e35c-45f0-a461-a91f9f2a8eac" type="folder">12</container> 
+			 <unittitle> 
+				<title>Shields of Africa - Man Eater</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="cb01dcfc-6a94-4117-9d26-488daa779569" type="box">8</container> <container parent="cb01dcfc-6a94-4117-9d26-488daa779569" type="folder">13</container> 
+			 <unittitle> 
+				<title>Shields of Africa - The Slaves</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2b707102-ec78-4fff-b539-db51ca425d12" type="box">8</container> <container parent="2b707102-ec78-4fff-b539-db51ca425d12" type="folder">14</container> 
+			 <unittitle> 
+				<title>The Spirit of Cochise</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="1333fe29-132a-459c-b96e-413d689814eb" type="box">8</container> <container parent="1333fe29-132a-459c-b96e-413d689814eb" type="folder">15</container> 
+			 <unittitle> 
+				<title>Stagecoach Station</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="bc1992a0-0aa4-44ff-8e4c-580f9145ce93" type="box">9</container> <container parent="bc1992a0-0aa4-44ff-8e4c-580f9145ce93" type="folder">1</container> 
+			 <unittitle> 
+				<title>Two Loves</title>, 
+				<unitdate normal="1934" type="inclusive">1934</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="db7d0d13-7a5a-4cb8-a79d-1d40b00c71fa" type="box">9</container> <container parent="db7d0d13-7a5a-4cb8-a79d-1d40b00c71fa" type="folder">2</container> 
+			 <unittitle>Partial Manuscripts, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c8542162-efa7-4508-978b-1364513c7f29" type="box">9</container> <container parent="c8542162-efa7-4508-978b-1364513c7f29" type="folder">3</container> 
+			 <unittitle> Partial Manuscripts </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="ffc7162d-5323-41a9-ade9-6859daaf71b3" type="box">9</container> <container parent="ffc7162d-5323-41a9-ade9-6859daaf71b3" type="folder">4</container> 
+			 <unittitle>Untitled Screenplay, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="192fac93-81f4-434e-a28c-92b209e196fa" type="box">9</container> <container parent="192fac93-81f4-434e-a28c-92b209e196fa" type="folder">5</container> 
+			 <unittitle>Untitled Novel (pg. 1-133), </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="f85f6e62-8df5-47b6-add5-b22cd5ace73f" type="box">9</container> <container parent="f85f6e62-8df5-47b6-add5-b22cd5ace73f" type="folder">6</container> 
+			 <unittitle>Untitled Novel (pg. 134-286), </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="1f60e420-2bc1-4461-94b8-27b089e341c0" type="box">9</container> <container parent="1f60e420-2bc1-4461-94b8-27b089e341c0" type="folder">7</container> 
+			 <unittitle>Untitled Novel (pg. 287-413), </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="be7766ec-d984-4ad6-b153-020e5654aad3" type="box">9</container> <container parent="be7766ec-d984-4ad6-b153-020e5654aad3" type="folder">8</container> 
+			 <unittitle> 
+				<title>Walk with the Devil, a three act play</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="9872fc62-bde2-4475-848b-207dcc26cd65" type="box">9</container> <container parent="9872fc62-bde2-4475-848b-207dcc26cd65" type="folder">9</container> 
+			 <unittitle> 
+				<title>Walk with the Devil, a three act play</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e059cd4d-8b2b-4153-9ed7-3cf5767ef380" type="box">9</container> <container parent="e059cd4d-8b2b-4153-9ed7-3cf5767ef380" type="folder">10</container> 
+			 <unittitle> 
+				<title>Walk with the Devil, a three act play</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="10313ac9-1a9c-439c-a10c-6f4f366b19ce" type="box">9</container> <container parent="10313ac9-1a9c-439c-a10c-6f4f366b19ce" type="folder">11</container> 
+			 <unittitle> 
+				<title>The Year of the Dragon</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="908dbdc7-9af6-4918-990a-112e1535bfd7" type="box">9</container> <container parent="908dbdc7-9af6-4918-990a-112e1535bfd7" type="folder">12</container> 
+			 <unittitle> Short Stories: 
+				<title>7 O'clock News </title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="4e52d0f0-8f05-49c1-a276-7a4716eddbd4" type="box">9</container> <container parent="4e52d0f0-8f05-49c1-a276-7a4716eddbd4" type="folder">13</container> 
+			 <unittitle>Short Stories: 
+				<title>An Act of Grace</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="77916d7b-1169-4c5b-9124-3eed9da21011" type="box">9</container> <container parent="77916d7b-1169-4c5b-9124-3eed9da21011" type="folder">14</container> 
+			 <unittitle>Short Stories: 
+				<title>Alter Ego</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="6afcbcd4-8065-4b05-b6c0-5ea2789d0741" type="box">9</container> <container parent="6afcbcd4-8065-4b05-b6c0-5ea2789d0741" type="folder">15</container> 
+			 <unittitle>Short Stories: 
+				<title>An Awakening Minority- The American Indians</title>,
+				</unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="81ce9348-3229-481e-8628-ee829ea97628" type="box">9</container> <container parent="81ce9348-3229-481e-8628-ee829ea97628" type="folder">16</container> 
+			 <unittitle>Short Stories: 
+				<title>Assistance Please...</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="0aaa16e9-e2ae-4d16-9e88-78693976b07f" type="box">9</container> <container parent="0aaa16e9-e2ae-4d16-9e88-78693976b07f" type="folder">17</container> 
+			 <unittitle> Short Stories: 
+				<title>A Bay Chance</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="7cc9dab3-1119-42b2-9152-5fe71b28574f" type="box">9</container> <container parent="7cc9dab3-1119-42b2-9152-5fe71b28574f" type="folder">18</container> 
+			 <unittitle>Short Stories: 
+				<title>A Brief Smile</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="19f9eb80-de01-4ef1-b1c2-31df9ddb4ef5" type="box">9</container> <container parent="19f9eb80-de01-4ef1-b1c2-31df9ddb4ef5" type="folder">19</container> 
+			 <unittitle>Short Stories: 
+				<title>Buck Larkin and a Girl Named Henry</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="a120cd16-d803-4653-ab89-0de86d9fd8e5" type="box">9</container> <container parent="a120cd16-d803-4653-ab89-0de86d9fd8e5" type="folder">20</container> 
+			 <unittitle>Short Stories: 
+				<title>Come and Let Us Dream</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2e5ffa20-f850-41e8-9ca7-05f4cd843df6" type="box">9</container> <container parent="2e5ffa20-f850-41e8-9ca7-05f4cd843df6" type="folder">21</container> 
+			 <unittitle>Short Stories: 
+				<title>The Dawn Breakers</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="cfd4b66d-26ad-4ecf-adc8-ecaa057b7f9a" type="box">9</container> <container parent="cfd4b66d-26ad-4ecf-adc8-ecaa057b7f9a" type="folder">22</container> 
+			 <unittitle>Short Stories: 
+				<title>The Days of the Week</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="934d0bb8-83fc-4142-b080-a6a3e8485860" type="box">9</container> <container parent="934d0bb8-83fc-4142-b080-a6a3e8485860" type="folder">23</container> 
+			 <unittitle>Short Stories: 
+				<title>Dead on Arrival</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="6f304005-8694-417b-8084-5940dbb5079c" type="box">9</container> <container parent="6f304005-8694-417b-8084-5940dbb5079c" type="folder">24</container> 
+			 <unittitle>Short Stories: 
+				<title>During Winter Wind</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="273e4b92-8aec-4d6d-b7fb-e36ed3dd8e01" type="box">9</container> <container parent="273e4b92-8aec-4d6d-b7fb-e36ed3dd8e01" type="folder">25</container> 
+			 <unittitle>Short Stories: 
+				<title>The Door</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="bedb3cbf-2ebf-4d32-8a99-7b64cfb13b7c" type="box">9</container> <container parent="bedb3cbf-2ebf-4d32-8a99-7b64cfb13b7c" type="folder">26</container> 
+			 <unittitle>Short Stories: 
+				<title>Early to Bed</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2bd59002-b258-419c-a1bb-248abd268df9" type="box">9</container> <container parent="2bd59002-b258-419c-a1bb-248abd268df9" type="folder">27</container> 
+			 <unittitle>Short Stories: 
+				<title>A Feeble Complaint- An Observation </title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="363e1a8c-2cae-4224-b3ec-87f24ae8a64d" type="box">9</container> <container parent="363e1a8c-2cae-4224-b3ec-87f24ae8a64d" type="folder">28</container> 
+			 <unittitle>Short Stories: 
+				<title>The Frailty of the Potables </title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="5b3671b8-ea1b-4719-858d-57054a01d16e" type="box">9</container> <container parent="5b3671b8-ea1b-4719-858d-57054a01d16e" type="folder">29</container> 
+			 <unittitle>Short Stories: 
+				<title>A Free Theatre</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="85d65049-55d0-4277-80d3-6a88a10a0c5e" type="box">9</container> <container parent="85d65049-55d0-4277-80d3-6a88a10a0c5e" type="folder">30</container> 
+			 <unittitle>Short Stories: 
+				<title>From the Dark</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="57228e1c-a194-4285-9565-b8d92e5b1f77" type="box">9</container> <container parent="57228e1c-a194-4285-9565-b8d92e5b1f77" type="folder">31</container> 
+			 <unittitle>Short Stories: 
+				<title>A Helpful Man from San Berdoo</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="9b940872-36df-4d11-86b9-5ec39e0ed3ab" type="box">9</container> <container parent="9b940872-36df-4d11-86b9-5ec39e0ed3ab" type="folder">32</container> 
+			 <unittitle>Short Stories: 
+				<title>I am Afraid to Sleep</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="bea1dd44-1f35-4144-8cdb-3f43bffe516b" type="box">9</container> <container parent="bea1dd44-1f35-4144-8cdb-3f43bffe516b" type="folder">33</container> 
+			 <unittitle>Short Stories: 
+				<title>I Got to Stay Up!</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="d7610fb2-6458-4148-a4ea-875034e91ed1" type="box">9</container> <container parent="d7610fb2-6458-4148-a4ea-875034e91ed1" type="folder">34</container> 
+			 <unittitle>Short Stories: 
+				<title>In Flight</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="5c5d78f3-dc34-439b-8cfb-fc6057514b22" type="box">9</container> <container parent="5c5d78f3-dc34-439b-8cfb-fc6057514b22" type="folder">35</container> 
+			 <unittitle>Short Stories: 
+				<title>Israel: Two Quarter Time</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2265efe5-e6b1-4ff8-81b7-2c132f3a9f28" type="box">9</container> <container parent="2265efe5-e6b1-4ff8-81b7-2c132f3a9f28" type="folder">36</container> 
+			 <unittitle>Short Stories: 
+				<title>It Happened in Monterey</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="74fa7fec-caa1-4d96-9bf2-1bee1a13eb62" type="box">9</container> <container parent="74fa7fec-caa1-4d96-9bf2-1bee1a13eb62" type="folder">37</container> 
+			 <unittitle>Short Stories: 
+				<title>Jamie</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="ec09e863-3590-4a9f-bd18-d1719c3bb51d" type="box">9</container> <container parent="ec09e863-3590-4a9f-bd18-d1719c3bb51d" type="folder">38</container> 
+			 <unittitle>Short Stories: 
+				<title>The Legend of the Blue Lady</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="cf97ffda-e00e-4c42-8ab9-80709241a8ff" type="box">9</container> <container parent="cf97ffda-e00e-4c42-8ab9-80709241a8ff" type="folder">39</container> 
+			 <unittitle> 
+				<title>Short Stories: The Little Elephant Who Always
+				  Forgot</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2bd68424-1cd9-4115-ab37-7731f14f6fdb" type="box">9</container> <container parent="2bd68424-1cd9-4115-ab37-7731f14f6fdb" type="folder">40</container> 
+			 <unittitle>Short Stories: 
+				<title>The Little Mermaid</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="341f38e2-954f-4fa8-8fa4-660774cf2464" type="box">9</container> <container parent="341f38e2-954f-4fa8-8fa4-660774cf2464" type="folder">41</container> 
+			 <unittitle>Short Stories: 
+				<title>A Manhattan Dream</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="3c5c2709-b9f7-46d6-9b03-31b3233b229f" type="box">9</container> <container parent="3c5c2709-b9f7-46d6-9b03-31b3233b229f" type="folder">42</container> 
+			 <unittitle>Short Stories: 
+				<title>The Masquerade</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="988c3676-80fe-4c55-8550-026c688b9397" type="box">9</container> <container parent="988c3676-80fe-4c55-8550-026c688b9397" type="folder">43</container> 
+			 <unittitle>Short Stories: 
+				<title>Me and Tom Wolfe</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="4648783a-72bd-4997-9124-4a06da6534f6" type="box">9</container> <container parent="4648783a-72bd-4997-9124-4a06da6534f6" type="folder">44</container> 
+			 <unittitle>Short Stories: 
+				<title>A New Kind of Suspense and Adventure</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c8b95f89-118a-4cca-a595-14b5ed9f98b2" type="box">9</container> <container parent="c8b95f89-118a-4cca-a595-14b5ed9f98b2" type="folder">45</container> 
+			 <unittitle>Short Stories: 
+				<title>Night Crossing</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8077215d-f2e8-4682-8795-4da7652838f8" type="box">9</container> <container parent="8077215d-f2e8-4682-8795-4da7652838f8" type="folder">46</container> 
+			 <unittitle>Short Stories: 
+				<title>Not Without Reward</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="726cadc9-ae49-469d-88fc-d33dc4fc1059" type="box">9</container> <container parent="726cadc9-ae49-469d-88fc-d33dc4fc1059" type="folder">47</container> 
+			 <unittitle>Short Stories: 
+				<title>Old Marty</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2e888ea7-83e9-40dd-959c-6660ceb260ca" type="box">9</container> <container parent="2e888ea7-83e9-40dd-959c-6660ceb260ca" type="folder">48</container> 
+			 <unittitle>Short Stories: 
+				<title>One American's Involvement with Scandinavia</title>,
+				</unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8d541fb5-2f96-420c-a9ca-5d821fdf1b04" type="box">9</container> <container parent="8d541fb5-2f96-420c-a9ca-5d821fdf1b04" type="folder">49</container> 
+			 <unittitle>Short Stories: 
+				<title>Pick</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="86e808c6-b1af-4624-9151-2da93d1f24c8" type="box">9</container> <container parent="86e808c6-b1af-4624-9151-2da93d1f24c8" type="folder">50</container> 
+			 <unittitle>Short Stories: 
+				<title>Please Don't Feed the Animals</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="63c0efc0-a387-44e6-9e70-ceaec84ab137" type="box">9</container> <container parent="63c0efc0-a387-44e6-9e70-ceaec84ab137" type="folder">51</container> 
+			 <unittitle>Short Stories: 
+				<title>Portrait of An Artist as a Young Man</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="da50a37f-bd8f-476d-a20f-1ce35d09a1e9" type="box">9</container> <container parent="da50a37f-bd8f-476d-a20f-1ce35d09a1e9" type="folder">52</container> 
+			 <unittitle>Short Stories: 
+				<title>Rafferty: the Rat </title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="5335650d-7a75-4f93-8ab2-ac3361591440" type="box">9</container> <container parent="5335650d-7a75-4f93-8ab2-ac3361591440" type="folder">53</container> 
+			 <unittitle>Short Stories: 
+				<title>The Return</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="ba257068-dcfc-4a1b-b14b-bd499424a585" type="box">9</container> <container parent="ba257068-dcfc-4a1b-b14b-bd499424a585" type="folder">54</container> 
+			 <unittitle>Short Stories: 
+				<title>ROD</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="252cc1dd-e6e0-4c74-b1c5-34dea02803f0" type="box">9</container> <container parent="252cc1dd-e6e0-4c74-b1c5-34dea02803f0" type="folder">55</container> 
+			 <unittitle>Short Stories: 
+				<title>Safe House</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e833a61d-4cf5-4978-9c23-83f5946ae6f0" type="box">9</container> <container parent="e833a61d-4cf5-4978-9c23-83f5946ae6f0" type="folder">56</container> 
+			 <unittitle>Short Stories: 
+				<title>Should I Put on Some Makeup</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="6302012a-f7c6-40d2-b41c-ecc17db918b2" type="box">9</container> <container parent="6302012a-f7c6-40d2-b41c-ecc17db918b2" type="folder">57</container> 
+			 <unittitle>Short Stories: 
+				<title>Spring Time</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="305ec91d-e33a-4e16-81be-8f5eda6de3d9" type="box">9</container> <container parent="305ec91d-e33a-4e16-81be-8f5eda6de3d9" type="folder">58</container> 
+			 <unittitle>Short Stories: 
+				<title>Still a Little Time</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="d42d2fdd-ea2a-4601-ad39-c56118203cbd" type="box">9</container> <container parent="d42d2fdd-ea2a-4601-ad39-c56118203cbd" type="folder">59</container> 
+			 <unittitle>Short Stories: 
+				<title>Short Stories: Summer Scene Change</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="481e3108-744d-44ed-a09b-a8d770f2fe64" type="box">9</container> <container parent="481e3108-744d-44ed-a09b-a8d770f2fe64" type="folder">60</container> 
+			 <unittitle>Short Stories: 
+				<title>A Sunday in Westchester</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="363646a0-8008-42d2-aaf6-b4bf8012d68b" type="box">9</container> <container parent="363646a0-8008-42d2-aaf6-b4bf8012d68b" type="folder">61</container> 
+			 <unittitle>Short Stories: 
+				<title>The Sweet Smell of Grass</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="16ef8b44-1221-47c9-82bf-cc09c7cfeaf4" type="box">9</container> <container parent="16ef8b44-1221-47c9-82bf-cc09c7cfeaf4" type="folder">62</container> 
+			 <unittitle>Short Stories: 
+				<title>That Certain October… in 1943</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="fbb7602c-de9f-4146-a1e0-504bffe2eb5e" type="box">9</container> <container parent="fbb7602c-de9f-4146-a1e0-504bffe2eb5e" type="folder">63</container> 
+			 <unittitle>Short Stories: 
+				<title>Thirty Cents</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8c7d3f20-104f-4f92-ac51-df6bdbc77d37" type="box">9</container> <container parent="8c7d3f20-104f-4f92-ac51-df6bdbc77d37" type="folder">64</container> 
+			 <unittitle>Short Stories: 
+				<title>To Be a Hero</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="96090c35-6ba5-48f6-82e4-d1a5f311669c" type="box">9</container> <container parent="96090c35-6ba5-48f6-82e4-d1a5f311669c" type="folder">65</container> 
+			 <unittitle>Short Stories: 
+				<title>To Escape</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e6443aba-ff97-4d6c-a3a0-1634e085cca0" type="box">9</container> <container parent="e6443aba-ff97-4d6c-a3a0-1634e085cca0" type="folder">66</container> 
+			 <unittitle>Short Stories: 
+				<title>Trial Heat</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="d69dee3b-4feb-4eaa-bb2e-de6e8038399b" type="box">9</container> <container parent="d69dee3b-4feb-4eaa-bb2e-de6e8038399b" type="folder">67</container> 
+			 <unittitle>Short Stories: 
+				<title>The Wallflower</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="1b9371c3-796f-4f28-a35c-3fb7d0d4ff32" type="box">9</container> <container parent="1b9371c3-796f-4f28-a35c-3fb7d0d4ff32" type="folder">68</container> 
+			 <unittitle>Short Stories: 
+				<title>We Are Such Things...</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="216aa5e0-64c0-41af-9923-5044ff596752" type="box">9</container> <container parent="216aa5e0-64c0-41af-9923-5044ff596752" type="folder">69</container> 
+			 <unittitle>Short Stories: 
+				<title>What Did I Do That Was Wrong</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="ee00b0d9-ad87-4549-a09b-944386b9d991" type="box">10</container> <container parent="ee00b0d9-ad87-4549-a09b-944386b9d991" type="folder">1</container> 
+			 <unittitle>Short Stories: 
+				<title>Where are they Now</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="13dab698-c75a-45d3-8ce9-5f0bcb1baa62" type="box">10</container> <container parent="13dab698-c75a-45d3-8ce9-5f0bcb1baa62" type="folder">2</container> 
+			 <unittitle>Short Stories: 
+				<title>You Never Can Tell, Can You?</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="87ac264e-6a8a-4e33-aa61-6adcf80ad668" type="box">10</container> <container parent="87ac264e-6a8a-4e33-aa61-6adcf80ad668" type="folder">3</container> 
+			 <unittitle>Short Stories: 
+				<title>Untitled</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="6f55298e-0bc4-48ad-b477-8152df7d41cf" type="box">10</container> <container parent="6f55298e-0bc4-48ad-b477-8152df7d41cf" type="folder">4</container> 
+			 <unittitle>Short Stories: 
+				<title>Untitled</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="43fe8127-384a-4110-80f6-f57f8fe2052d" type="box">10</container> <container parent="43fe8127-384a-4110-80f6-f57f8fe2052d" type="folder">5</container> 
+			 <unittitle> Short Stories: 
+				<title>Untitled</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="a7ec732b-eb81-4bc1-9bc7-c7a7c08f14b9" type="box">10</container> <container parent="a7ec732b-eb81-4bc1-9bc7-c7a7c08f14b9" type="folder">6</container> 
+			 <unittitle> Short Stories: 
+				<title>Untitled</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="227f19d9-57e4-42b9-8630-f68a7f0990fb" type="box">10</container> <container parent="227f19d9-57e4-42b9-8630-f68a7f0990fb" type="folder">7</container> 
+			 <unittitle>Short Stories: 
+				<title>Untitled</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="1a69062a-feb8-470b-a82b-de363a05e99c" type="box">10</container> <container parent="1a69062a-feb8-470b-a82b-de363a05e99c" type="folder">8</container> 
+			 <unittitle>Short Stories: 
+				<title>Untitled</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="ac36cc45-21d5-4cc7-bec3-a53c18a54147" type="box">10</container> <container parent="ac36cc45-21d5-4cc7-bec3-a53c18a54147" type="folder">9</container> 
+			 <unittitle>Short Stories: 
+				<title>Untitled</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8799d216-668e-4e67-b0a4-0b00ee1c621a" type="box">10</container> <container parent="8799d216-668e-4e67-b0a4-0b00ee1c621a" type="folder">10</container> 
+			 <unittitle>Short Stories: 
+				<title>Untitled</title>, </unittitle> 
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 4: Articles, 
+			 <unitdate normal="1931/1979" type="inclusive">1931-1979</unitdate></unittitle> 
+		</did>
+		<c02 level="file"> 
+		  <did> <container id="8809e095-b7e3-4eba-b9ef-b76151c57a30" type="box">11</container> <container parent="8809e095-b7e3-4eba-b9ef-b76151c57a30" type="folder">1</container> 
+			 <unittitle> 
+				<title>Broadway</title>; 
+				<title>Imaginary Interviews - No. 4 Harry Richman</title> , 
+				<unitdate normal="1931" type="inclusive">February 7,
+				  1931</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8c3c768d-3df6-423a-b78e-fc4efca616ae" type="box">11</container> <container parent="8c3c768d-3df6-423a-b78e-fc4efca616ae" type="folder">2</container> 
+			 <unittitle> 
+				<title>Broadway</title>; 
+				<title>Imaginary Interviews - No. 5 Buddy Rogers</title>, 
+				<unitdate normal="1931" type="inclusive">February 21,
+				  1931</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="f157c3a1-b7e1-4494-bb1b-c91e68b74819" type="box">11</container> <container parent="f157c3a1-b7e1-4494-bb1b-c91e68b74819" type="folder">3</container> 
+			 <unittitle>(publication unknown) 
+				<title>New York Sketches</title>, 
+				<unitdate normal="1931" type="inclusive">December 19,
+				  1931</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="da900d23-f6b3-4ce3-a7c2-12ae202588cc" type="box">11</container> <container parent="da900d23-f6b3-4ce3-a7c2-12ae202588cc" type="folder">4</container> 
+			 <unittitle> 
+				<title>Boston Record</title> : 
+				<title>On Broadway</title>, 
+				<unitdate normal="1932" type="inclusive">August
+				  1932</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="db617346-198d-44d4-9db9-cbe9da19a8bf" type="box">11</container> <container parent="db617346-198d-44d4-9db9-cbe9da19a8bf" type="folder">5</container> 
+			 <unittitle> 
+				<title>Brooklyn Daily Times</title>, 
+				<unitdate normal="1932/1934" type="inclusive">1932-1934</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="3c7e6bb0-22bf-4ebd-9ace-02bb50cfe0d3" type="box">11</container> <container parent="3c7e6bb0-22bf-4ebd-9ace-02bb50cfe0d3" type="folder">6</container> 
+			 <unittitle> 
+				<title>Cue</title> : 
+				<title>Heartbreak on the Air</title> , 
+				<unitdate normal="1936" type="inclusive">August 15,
+				  1936</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="b264d2e5-f4d8-47e6-9e88-877a18f37c60" type="box">11</container> <container parent="b264d2e5-f4d8-47e6-9e88-877a18f37c60" type="folder">7</container> 
+			 <unittitle> 
+				<title>The Nation</title> : 
+				<title>The Used Car Racket</title>, 
+				<unitdate normal="1936" type="inclusive">September 19,
+				  1936</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c907f7ca-cc6f-42cb-b4db-0713da99f372" type="box">11</container> <container parent="c907f7ca-cc6f-42cb-b4db-0713da99f372" type="folder">8</container> 
+			 <unittitle> 
+				<title>The Nation</title> : 
+				<title>Letters to the Editor</title> 
+				<unitdate normal="1936" type="inclusive">November 7,
+				  1936</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="ae3db226-b3f2-403d-92d1-c0e44e6264b4" type="box">11</container> <container parent="ae3db226-b3f2-403d-92d1-c0e44e6264b4" type="folder">9</container> 
+			 <unittitle> 
+				<title>The Nation</title> : 
+				<title>Faking Automobile Accidents</title>, 
+				<unitdate normal="1936" type="inclusive">November 21,
+				  1936</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="7d3a977f-a1ec-4390-ab0a-d5b69e437511" type="box">11</container> <container parent="7d3a977f-a1ec-4390-ab0a-d5b69e437511" type="folder">10</container> 
+			 <unittitle> 
+				<title>The Nation</title> : 
+				<title>The Ambulance Chasing Game</title>, 
+				<unitdate normal="1936" type="inclusive">November 28,
+				  1936</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="7d8fae30-c599-4e49-b9dd-2a4da560b814" type="box">11</container> <container parent="7d8fae30-c599-4e49-b9dd-2a4da560b814" type="folder">11</container> 
+			 <unittitle> 
+				<title>Cue</title> : 
+				<title> Operatic Overture</title>, 
+				<unitdate normal="1936" type="inclusive">December 12,
+				  1936</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c0c8bcc6-a9a5-43bf-b3dc-6d1e0475ee8b" type="box">11</container> <container parent="c0c8bcc6-a9a5-43bf-b3dc-6d1e0475ee8b" type="folder">12</container> 
+			 <unittitle> 
+				<title>New York World Telegraph</title> : 
+				<title> Action in Precinct 27</title>, 
+				<unitdate normal="1936/1940" type="inclusive">1936-1940</unitdate>,
+				</unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="04ac5e0f-e34f-465e-bae0-06bd645cf2c4" type="box">11</container> <container parent="04ac5e0f-e34f-465e-bae0-06bd645cf2c4" type="folder">13</container> 
+			 <unittitle> 
+				<title>Cue</title> : 
+				<title>Going, Going Gone!</title> , 
+				<unitdate normal="1937" type="inclusive">January 9,
+				  1937</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="1d63889f-5475-4cdc-9b77-2d618dad9f53" type="box">11</container> <container parent="1d63889f-5475-4cdc-9b77-2d618dad9f53" type="folder">14</container> 
+			 <unittitle> 
+				<title>Cue</title> : 
+				<title> Let Us Vibrate</title>, 
+				<unitdate normal="1937" type="inclusive">February 20,
+				  1937</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="a020d697-fa23-49ef-97ff-8222d8e6541b" type="box">11</container> <container parent="a020d697-fa23-49ef-97ff-8222d8e6541b" type="folder">15</container> 
+			 <unittitle> 
+				<title>The American Scandinavian</title> : 
+				<title> Sibelius is Finland</title>, 
+				<unitdate normal="1941" type="inclusive"> February
+				  1941</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="945dd4d1-8a93-4892-a259-0b501f1a37c1" type="box">11</container> <container parent="945dd4d1-8a93-4892-a259-0b501f1a37c1" type="folder">16</container> 
+			 <unittitle> 
+				<title> Omnibook</title> : 
+				<title> The Commandos</title>, 
+				<unitdate normal="1942" type="inclusive">August
+				  1942</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="33997f75-2bac-4af8-8a45-309d3a3443ca" type="box">11</container> <container parent="33997f75-2bac-4af8-8a45-309d3a3443ca" type="folder">17</container> 
+			 <unittitle> Periodicals- Miscellaneous (Arnold not mentioned), 
+				<unitdate normal="1958/1973" type="inclusive">1958-1973</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="1bae9247-d712-4054-83fe-1bdf314c8f01" type="box">11</container> <container parent="1bae9247-d712-4054-83fe-1bdf314c8f01" type="folder">18</container> 
+			 <unittitle> 
+				<title>The Saturday Evening Post</title> : 
+				<title> Where's That Bomber</title>, 
+				<unitdate normal="1944" type="inclusive"> October 7,
+				  1944</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="96f7d330-556b-4b04-97de-1f4255849714" type="box">11</container> <container parent="96f7d330-556b-4b04-97de-1f4255849714" type="folder">19</container> 
+			 <unittitle> 
+				<title>Omnibook</title> : 
+				<title> Tomorrow Will Sing</title>, 
+				<unitdate normal="1945" type="inclusive"> April
+				  1945</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="5786edbb-57ea-4ef4-a10f-6678c77a062c" type="box">11</container> <container parent="5786edbb-57ea-4ef4-a10f-6678c77a062c" type="folder">20</container> 
+			 <unittitle> 
+				<title>Friends</title> : 
+				<title> Colorful Arizona is Setting for Historical Film - Broken
+				  Arrow</title>, 
+				<unitdate normal="1950" type="inclusive"> August
+				  1950</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="33d1a2ed-a3de-482a-b4d0-83e185194e3b" type="box">11</container> <container parent="33d1a2ed-a3de-482a-b4d0-83e185194e3b" type="folder">21</container> 
+			 <unittitle> 
+				<title>The Tucson Magazine</title> : 
+				<title>Elliott Arnold</title>, 
+				<unitdate normal="1951" type="inclusive"> March
+				  1951</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2e5b8e3b-e0e4-4574-93f1-d8d90b0ccadc" type="box">11</container> <container parent="2e5b8e3b-e0e4-4574-93f1-d8d90b0ccadc" type="folder">22</container> 
+			 <unittitle> 
+				<title>Tucson Festival of the Arts</title> : 
+				<title> Tucson</title>, 
+				<unitdate normal="" type="inclusive"> March - April
+				  1951</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="7b837f27-1bb7-4b33-92ca-fc55132614b5" type="box">11</container> <container parent="7b837f27-1bb7-4b33-92ca-fc55132614b5" type="folder">23</container> 
+			 <unittitle> 
+				<title>Collier's</title> : 
+				<title>That Others May Live</title>, 
+				<unitdate normal="1956" type="inclusive"> July 6,
+				  1956</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="b82d2b77-ece3-44ab-9644-848b6cc4907a" type="box">11</container> <container parent="b82d2b77-ece3-44ab-9644-848b6cc4907a" type="folder">24</container> 
+			 <unittitle> 
+				<title>Harper's Magazine</title> : 
+				<title>Secret Mission to Rome</title>, 
+				<unitdate normal="1944" type="inclusive">October
+				  1944</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="13fd1d90-5b15-4b0b-a428-310494e78ae1" type="box">11</container> <container parent="13fd1d90-5b15-4b0b-a428-310494e78ae1" type="folder">25</container> 
+			 <unittitle> 
+				<title>Liberty</title> : 
+				<title> Tomorrow Will Sing</title>, 
+				<unitdate normal="1945" type="inclusive"> June 9,
+				  1945</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="370cd288-40d9-4ea2-99c5-a0101931d3f1" type="box">11</container> <container parent="370cd288-40d9-4ea2-99c5-a0101931d3f1" type="folder">26</container> 
+			 <unittitle> 
+				<title>Liberty</title> : 
+				<title>Everybody Slept Here</title>, 
+				<unitdate normal="1948" type="inclusive"> November
+				  1948</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="dd94c111-5af1-4ac9-9ff6-11eb841486e2" type="box">11</container> <container parent="dd94c111-5af1-4ac9-9ff6-11eb841486e2" type="folder">27</container> 
+			 <unittitle> 
+				<title>Movie Story</title> : 
+				<title>Broken Arrow</title>, 
+				<unitdate normal="1950" type="inclusive"> July
+				  1950</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="58f4de5b-f536-44dc-b90f-792b49656e34" type="box">11</container> <container parent="58f4de5b-f536-44dc-b90f-792b49656e34" type="folder">28</container> 
+			 <unittitle> 
+				<title>Hadassah Magazine</title> : 
+				<title>A Night of Rescue</title>, 
+				<unitdate normal="1968" type="inclusive"> October
+				  1968</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="60863072-603d-49d1-ac42-d69cfd7e97fe" type="box">11</container> <container parent="60863072-603d-49d1-ac42-d69cfd7e97fe" type="folder">29</container> 
+			 <unittitle> 
+				<title>Sarie Marais</title> : 
+				<title> The Accident</title>, 
+				<unitdate normal="1969" type="inclusive"> July
+				  1969</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="226fdb18-067a-49d7-937f-8127534a2ed4" type="box">11</container> <container parent="226fdb18-067a-49d7-937f-8127534a2ed4" type="folder">30</container> 
+			 <unittitle> 
+				<title>Playboy</title> : 
+				<title> Night Crossing</title>, 
+				<unitdate normal="1970" type="inclusive"> November
+				  1970</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="bd87975c-16ec-4e00-ad53-229d7ab23481" type="box">11</container> <container parent="bd87975c-16ec-4e00-ad53-229d7ab23481" type="folder">31</container> 
+			 <unittitle> 
+				<title>Playboy</title> : 
+				<title> What Did I Do That Was Wrong</title>, 
+				<unitdate normal="1972" type="inclusive"> October
+				  1972</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="b84d9fba-1544-422f-8781-15da9d0281e6" type="box">11</container> <container parent="b84d9fba-1544-422f-8781-15da9d0281e6" type="folder">32</container> 
+			 <unittitle> 
+				<title>Scanorama</title> : 
+				<title> The American Indian</title>, 
+				<unitdate normal="1973" type="inclusive"> May
+				  1973</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="a78a9c57-89c7-4b4a-9d41-b151e8b1f86d" type="box">11</container> <container parent="a78a9c57-89c7-4b4a-9d41-b151e8b1f86d" type="folder">33</container> 
+			 <unittitle> 
+				<title>Playboy, Italian Edition</title> : 
+				<title> Ma Che Spaglio ho Fatto?</title>, 
+				<unitdate normal="1973" type="inclusive"> July
+				  1973</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e766f686-22a2-492c-8ce9-f9ab3dfcc7e2" type="box">11</container> <container parent="e766f686-22a2-492c-8ce9-f9ab3dfcc7e2" type="folder">34</container> 
+			 <unittitle> 
+				<title>Playgirl</title> : 
+				<title> The Anatomy of a Live Sex Show</title>, 
+				<unitdate normal="1974" type="inclusive"> February
+				  1974</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c3d06d0d-9160-41ec-8cbc-80ef6e4e2342" type="box">11</container> <container parent="c3d06d0d-9160-41ec-8cbc-80ef6e4e2342" type="folder">35</container> 
+			 <unittitle> 
+				<title>Scanorama</title> : 
+				<title> The Frailty of Potables</title>, 
+				<unitdate normal="" type="inclusive"> April - May
+				  1974</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="ded1171b-d43f-48a5-afc3-f089c2913f4c" type="box">11</container> <container parent="ded1171b-d43f-48a5-afc3-f089c2913f4c" type="folder">36</container> 
+			 <unittitle> 
+				<title>Scanorama</title> : 
+				<title> Eating out in Manhattan</title>, 
+				<unitdate normal="" type="inclusive"> August - September
+				  1977</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="89ff6839-e0be-4fcd-8522-20355eab5feb" type="box">11</container> <container parent="89ff6839-e0be-4fcd-8522-20355eab5feb" type="folder">37</container> 
+			 <unittitle> 
+				<title>Playboy</title> : 
+				<title> A Bay Change</title>, 
+				<unitdate normal="1979" type="inclusive"> June
+				  1979</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="7efea655-9d56-40db-ae64-645ec7683635" type="box">11</container> <container parent="7efea655-9d56-40db-ae64-645ec7683635" type="folder">38</container> 
+			 <unittitle> 
+				<title>Scanorama</title> : 
+				<title> Remembering Sibelius</title>, 
+				<unitdate normal="" type="inclusive"> August - September
+				  1979</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="a05b0aa9-d2ab-4192-8fa3-6a65f1edf807" type="box">11</container> <container parent="a05b0aa9-d2ab-4192-8fa3-6a65f1edf807" type="folder">39</container> 
+			 <unittitle> Story: 
+				<title>Portrait of Allison</title>, </unittitle> 
+		  </did>
+		</c02>
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 5: Research Files, 
+			 <unitdate normal="1817/1979" type="inclusive">1817-1979</unitdate></unittitle> 
+		</did>
+		<c02 level="file"> 
+		  <did> <container id="7a21eb46-24ff-4f03-9714-ef8929174307" type="box">11</container> <container parent="7a21eb46-24ff-4f03-9714-ef8929174307" type="folder">40</container> 
+			 <unittitle> Airplane Hijacking, 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="ad1bceee-91a2-44f6-8a1f-5e2a73fafa7e" type="box">11</container> <container parent="ad1bceee-91a2-44f6-8a1f-5e2a73fafa7e" type="folder">41</container> 
+			 <unittitle> 
+				<title>The Apache Past and Present</title>, Vol.1, 
+				<unitdate normal="1921" type="inclusive">1921</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="f317b0f2-d223-4f9f-ac53-523b2fec2037" type="box">11</container> <container parent="f317b0f2-d223-4f9f-ac53-523b2fec2037" type="folder">42</container> 
+			 <unittitle> 
+				<title>The Apache Past and Present</title>, Vol. 2, 
+				<unitdate normal="1921" type="inclusive">1921</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2bb15089-ad11-4420-9e29-425714bddd16" type="box">12</container> <container parent="2bb15089-ad11-4420-9e29-425714bddd16" type="folder">1</container> 
+			 <unittitle>Army, Senate Files (Pt.1), 
+				<unitdate normal="NaN" type="inclusive"> ca.
+				  1870s</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="9515b0e8-6007-4a77-9a5a-12debfbb5cce" type="box">12</container> <container parent="9515b0e8-6007-4a77-9a5a-12debfbb5cce" type="folder">2</container> 
+			 <unittitle> Army, Senate Files (Pt.2) 
+				<unitdate normal="NaN/NaN" type="inclusive">ca.
+				  1870s</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c7bd04b8-a003-4bdf-9c7c-0dac50129f33" type="box">12</container> <container parent="c7bd04b8-a003-4bdf-9c7c-0dac50129f33" type="folder">3</container> 
+			 <unittitle> Camp Grant Massacre- Correspondence, 
+				<unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="75dc99bb-eda1-4a3d-a548-b2afaebbe97e" type="box">12</container> <container parent="75dc99bb-eda1-4a3d-a548-b2afaebbe97e" type="folder">4</container> 
+			 <unittitle> Camp Grant Massacre - Camp Grant Correspondence (Includes
+				Photograph), 
+				<unitdate normal="1874" type="inclusive">
+				  1874</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="68a1a6b6-3ab6-458e-a0c1-25a9b758505f" type="box">12</container> <container parent="68a1a6b6-3ab6-458e-a0c1-25a9b758505f" type="folder">5</container> 
+			 <unittitle> Camp Grant Massacre (Pt.1), 
+				<unitdate normal="1871/1971" type="inclusive">
+				  1871-1971</unitdate>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="8304a34b-b88e-4430-82fe-8c2e18247bbd" type="box">12</container> <container parent="8304a34b-b88e-4430-82fe-8c2e18247bbd" type="folder">6</container> 
+			 <unittitle> Camp Grant Massacre (Pt.2), 
+				<unitdate normal="1871/1971" type="inclusive">
+				  1871-1971</unitdate>, 
+				<unitdate normal="NaN" type="inclusive"> no
+				  date</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="66197f73-2f3d-488f-a9d4-9cce40753ca1" type="box">12</container> <container parent="66197f73-2f3d-488f-a9d4-9cce40753ca1" type="folder">7</container> 
+			 <unittitle> Crime - Clippings, 
+				<unitdate normal="1976" type="inclusive"> 1976</unitdate>, 
+				<title>no date</title></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="852e9a00-18fc-48fd-b4ca-229f3458a9f2" type="box">12</container> <container parent="852e9a00-18fc-48fd-b4ca-229f3458a9f2" type="folder">8</container> 
+			 <unittitle> The Door 1967-1986, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="dd281b5b-ad8c-4a81-809d-ee4a22b88856" type="box">12</container> <container parent="dd281b5b-ad8c-4a81-809d-ee4a22b88856" type="folder">9</container> 
+			 <unittitle> Pueblo Incident, 
+				<unitdate normal="1968/1969" type="inclusive">
+				  1968-1969</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="3bc48744-1be0-4bee-a5c6-cf2ea5b66b81" type="box">12</container> <container parent="3bc48744-1be0-4bee-a5c6-cf2ea5b66b81" type="folder">10</container> 
+			 <unittitle> Raoul Wallenberg (Includes Correspondence) (Pt.1), 
+				<unitdate normal="1961/1979" type="inclusive">
+				  1961-1979</unitdate>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="b0bd8514-d5ad-40d3-97db-e9c0023f25b7" type="box">12</container> <container parent="b0bd8514-d5ad-40d3-97db-e9c0023f25b7" type="folder">11</container> 
+			 <unittitle> Raoul Wallenberg (Pt.2), 
+				<unitdate normal="1961/1979" type="inclusive">1961-1979</unitdate>,
+				</unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="a7b671dd-7b36-4c00-945f-391b73143a2e" type="box">12</container> <container parent="a7b671dd-7b36-4c00-945f-391b73143a2e" type="folder">12</container> 
+			 <unittitle> Red Cloud , </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="721a2918-c86b-4078-812a-78f550751160" type="box">12</container> <container parent="721a2918-c86b-4078-812a-78f550751160" type="folder">13</container> 
+			 <unittitle> Adjutant General of the Army, Correspondence (Pt.1), 
+				<unitdate normal="1817/1888" type="inclusive">1817-1888</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="cb911482-8a87-4be9-8c8d-439840c60790" type="box">12</container> <container parent="cb911482-8a87-4be9-8c8d-439840c60790" type="folder">14</container> 
+			 <unittitle>Adjutant General of the Army, Correspondence (Pt.2), 
+				<unitdate normal="1817/1888" type="inclusive">
+				  1817-1888</unitdate></unittitle> 
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 6: Clippings and promotional Material, 
+			 <unitdate normal="" type="inclusive">1939-1980's</unitdate></unittitle> 
+		</did>
+		<c02 level="file"> 
+		  <did> <container id="68b4ab37-b174-4d0b-98e7-f6c3c2d9488e" type="box">12</container> <container parent="68b4ab37-b174-4d0b-98e7-f6c3c2d9488e" type="folder">15</container> 
+			 <unittitle> Clippings: 
+				<title>Blood Brother/Broken Arrow</title>, 
+				<unitdate normal="1947" type="inclusive">
+				  1947</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="bfadf32c-7297-47b6-ae22-b25de9e993a2" type="box">12</container> <container parent="bfadf32c-7297-47b6-ae22-b25de9e993a2" type="folder">16</container> 
+			 <unittitle> Clippings: 
+				<title>The Camp Grant Massacre (Pt.1)</title>, 
+				<unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="44cb59ee-33fd-4323-8694-f2820f1a090d" type="box">12</container> <container parent="44cb59ee-33fd-4323-8694-f2820f1a090d" type="folder">17</container> 
+			 <unittitle> Clippings: 
+				<title>The Camp Grant Massacre (Pt.2)</title> , 
+				<unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="0ff3aab8-0f4d-4938-8d27-c562ee618ae2" type="box">12</container> <container parent="0ff3aab8-0f4d-4938-8d27-c562ee618ae2" type="folder">18</container> 
+			 <unittitle> Clippings: 
+				<title>Code of Conduct</title>, 
+				<unitdate normal="1967/1969" type="inclusive">1967-1969</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="69bab006-a1cf-4e33-8fc4-05fc945ef7e2" type="box">12</container> <container parent="69bab006-a1cf-4e33-8fc4-05fc945ef7e2" type="folder">19</container> 
+			 <unittitle> Clippings: 
+				<title>Code of Conduct (Pt.1)</title>, 
+				<unitdate normal="1970" type="inclusive">1970</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e543f26a-ef3e-4763-bcee-b6481d7b5c7f" type="box">12</container> <container parent="e543f26a-ef3e-4763-bcee-b6481d7b5c7f" type="folder">20</container> 
+			 <unittitle> Clippings: 
+				<title>Code of Conduct (Pt.2)</title>, 
+				<unitdate normal="1970" type="inclusive">1970</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="126f4c43-6e65-4b30-9ad1-8afb1fa313fc" type="box">12</container> <container parent="126f4c43-6e65-4b30-9ad1-8afb1fa313fc" type="folder">21</container> 
+			 <unittitle> Clippings: 
+				<title>Code of Conduct</title>, 
+				<unitdate normal="1971/1974" type="inclusive">1971-1974</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2ed6d605-4dbc-424b-a634-1a5e3e035522" type="box">12</container> <container parent="2ed6d605-4dbc-424b-a634-1a5e3e035522" type="folder">22</container> 
+			 <unittitle> Clippings: 
+				<title>Commandos</title>, 
+				<unitdate normal="1942" type="inclusive">1942</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="188ad243-1fc9-4ead-8f02-041d01302361" type="box">12</container> <container parent="188ad243-1fc9-4ead-8f02-041d01302361" type="folder">23</container> 
+			 <unittitle> Clippings: 
+				<title>Everybody Slept Here</title>, 
+				<unitdate normal="1948" type="inclusive"> 1948</unitdate>,
+				</unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="bbd198ad-34ca-488d-a25f-9106d36f195f" type="box">12</container> <container parent="bbd198ad-34ca-488d-a25f-9106d36f195f" type="folder">24</container> 
+			 <unittitle> Clippings: 
+				<title>Elliott Arnold</title>, 
+				<unitdate normal="1942/1980" type="inclusive">
+				  1942-1980</unitdate>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c67ad5dd-9c90-4fb4-be6d-21fddcc1c6f2" type="box">12</container> <container parent="c67ad5dd-9c90-4fb4-be6d-21fddcc1c6f2" type="folder">25</container> 
+			 <unittitle> Clippings: 
+				<title>Flight from Ashiya</title>, 
+				<unitdate normal="1959/1964" type="inclusive">1959-1964</unitdate>,
+				</unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c51488dc-a48e-487c-b81e-06381a834975" type="box">12</container> <container parent="c51488dc-a48e-487c-b81e-06381a834975" type="folder">26</container> 
+			 <unittitle> Clippings: 
+				<title>Forests of the Night (Pt.1)</title>, 
+				<unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="d84894ca-2561-4b75-844b-88068ba45ef9" type="box">12</container> <container parent="d84894ca-2561-4b75-844b-88068ba45ef9" type="folder">27</container> 
+			 <unittitle> Clippings: 
+				<title>Forests of the Night (Pt.2)</title>, 
+				<unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="29171300-ad1b-4e95-a967-40e0ec2534e3" type="box">13</container> 
+			 <unittitle> Clippings: Scrapbooks, 
+				<unitdate normal="1939/1955" type="inclusive">1939-1955</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="cb8f63db-17ab-47e6-8dc9-213d37648c29" type="box">14</container> <container parent="cb8f63db-17ab-47e6-8dc9-213d37648c29" type="folder">1</container> 
+			 <unittitle> Clippings: General, 
+				<unitdate normal="1940/1949" type="inclusive">1940-1949</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="0e692d1d-d1f9-4092-9fc4-6a60048d3980" type="box">14</container> <container parent="0e692d1d-d1f9-4092-9fc4-6a60048d3980" type="folder">2</container> 
+			 <unittitle> Clippings: General, 
+				<unitdate normal="1950/1959" type="inclusive">1950-1959</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="d7beaa92-c604-4e04-871c-c65d4c21012b" type="box">14</container> <container parent="d7beaa92-c604-4e04-871c-c65d4c21012b" type="folder">3</container> 
+			 <unittitle> Clippings: General, 
+				<unitdate normal="1960/1969" type="inclusive">1960-1969</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="401aa66c-e117-4dc6-a848-18926fb510a3" type="box">14</container> <container parent="401aa66c-e117-4dc6-a848-18926fb510a3" type="folder">4</container> 
+			 <unittitle> Clippings: General, 
+				<unitdate normal="1970/1979" type="inclusive">1970-1979</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="157f90d9-c6b7-4fda-9317-31f8f26f0597" type="box">14</container> <container parent="157f90d9-c6b7-4fda-9317-31f8f26f0597" type="folder">5</container> 
+			 <unittitle> Clippings: General, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e89c158c-ce28-4578-99fb-272687794147" type="box">14</container> <container parent="e89c158c-ce28-4578-99fb-272687794147" type="folder">6</container> 
+			 <unittitle> Clippings: 
+				<title>A Night of Watching </title>, 
+				<unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="4c9cd450-c830-4a37-8d20-4f46bc385b38" type="box">14</container> <container parent="4c9cd450-c830-4a37-8d20-4f46bc385b38" type="folder">7</container> 
+			 <unittitle> Clippings: 
+				<title>A Night of Watching</title> (Includes Correspondence), 
+				<unitdate normal="1967/1980" type="inclusive">1967-1980</unitdate>,
+				</unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="fd9a5e29-9d9c-4477-88ed-e143994f556f" type="box">14</container> <container parent="fd9a5e29-9d9c-4477-88ed-e143994f556f" type="folder">8</container> 
+			 <unittitle> Clippings: 
+				<title>Mediterranean Sweep</title>, 
+				<unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="d7c78755-4955-4f59-b9ca-b6580995e358" type="box">14</container> <container parent="d7c78755-4955-4f59-b9ca-b6580995e358" type="folder">9</container> 
+			 <unittitle> Clippings: 
+				<title>Nose for News</title>, 
+				<unitdate normal="1942/1945" type="inclusive">1942-1945</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c2fdbcff-59a8-44fd-a7dc-f488214df403" type="box">14</container> <container parent="c2fdbcff-59a8-44fd-a7dc-f488214df403" type="folder">10</container> 
+			 <unittitle> Clippings: 
+				<title>Only the Young</title>, 
+				<unitdate normal="1939" type="inclusive">1939</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c7a12a57-39ad-4071-9a5f-8d281617d1d2" type="box">14</container> <container parent="c7a12a57-39ad-4071-9a5f-8d281617d1d2" type="folder">11</container> 
+			 <unittitle> Clippings: 
+				<title>Personal Combat</title>, 
+				<unitdate normal="1937" type="inclusive">
+				  1937</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="24f11adb-974f-48cb-881f-58a151a48766" type="box">14</container> <container parent="24f11adb-974f-48cb-881f-58a151a48766" type="folder">12</container> 
+			 <unittitle> Clippings: 
+				<title>Proving Ground </title>(Pt.1), 
+				<unitdate normal="1973" type="inclusive">
+				  1973</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="3aebc616-06f2-420a-8340-db70435b9c69" type="box">14</container> <container parent="3aebc616-06f2-420a-8340-db70435b9c69" type="folder">13</container> 
+			 <unittitle> Clippings: 
+				<title>Proving Ground (Pt.2)</title>, 
+				<unitdate normal="1973" type="inclusive">
+				  1973</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="16148247-a69e-4c7e-b34f-2a27246f40b8" type="box">14</container> <container parent="16148247-a69e-4c7e-b34f-2a27246f40b8" type="folder">14</container> 
+			 <unittitle> Clippings: 
+				<title>Quicksand</title>, 
+				<unitdate normal="1977" type="inclusive">
+				  1977</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="6ccb9b4c-4dc1-4f07-9f75-70783066eb88" type="box">14</container> <container parent="6ccb9b4c-4dc1-4f07-9f75-70783066eb88" type="folder">15</container> 
+			 <unittitle> Clippings: 
+				<title>The Rescue</title>, 
+				<unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="765497c1-c7f2-454b-bb9f-05e8a18ee523" type="box">14</container> <container parent="765497c1-c7f2-454b-bb9f-05e8a18ee523" type="folder">16</container> 
+			 <unittitle> Clippings: 
+				<title>Time of the Gringo</title>, 
+				<unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="33af1ad6-8b49-4890-a561-19fd4c3ca57c" type="box">14</container> <container parent="33af1ad6-8b49-4890-a561-19fd4c3ca57c" type="folder">17</container> 
+			 <unittitle> Clippings: 
+				<title>Tomorrow Will Sing </title>, 
+				<unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="81a5cd78-803b-4946-aa6d-98dd745a5d9c" type="box">14</container> <container parent="81a5cd78-803b-4946-aa6d-98dd745a5d9c" type="folder">18</container> 
+			 <unittitle> Clippings: 
+				<title>White Falcon</title>, 
+				<unitdate normal="1955" type="inclusive">1955</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c6010d27-1c5d-4215-be00-75e93e867e13" type="box">14</container> <container parent="c6010d27-1c5d-4215-be00-75e93e867e13" type="folder">19</container> 
+			 <unittitle> Promotional Material: 
+				<title>Code of Conduct </title>, 
+				<unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2fe8b337-b853-4980-b1eb-2a8ba083d0b1" type="box">14</container> <container parent="2fe8b337-b853-4980-b1eb-2a8ba083d0b1" type="folder">20</container> 
+			 <unittitle> Promotional Material: 
+				<title>A Night of Watching</title>, 
+				<unitdate normal="1967/1972" type="inclusive">1967-1972</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="bb551e95-fb6b-4187-8054-9bc71c77f523" type="box">14</container> <container parent="bb551e95-fb6b-4187-8054-9bc71c77f523" type="folder">21</container> 
+			 <unittitle> Promotional Material: Miscellaneous, 
+				<unitdate normal="NaN/NaN" type="inclusive">ca.
+				  1960s-1980s</unitdate></unittitle> 
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 7: Photographs, Awards, and Drawings, 
+			 <unitdate normal="NaN/1979" type="inclusive">1930's-1979</unitdate></unittitle> 
+		</did>
+		<c02 level="file"> 
+		  <did> <container id="c06e8768-c6e6-45af-8822-e50fa97241e8" type="box">15</container> <container parent="c06e8768-c6e6-45af-8822-e50fa97241e8" type="folder">1</container> 
+			 <unittitle> Photographs: Blood Brothers/Broken Arrow (Includes
+				Autographs of Broken Arrow Cast Members), 
+				<unitdate normal="NaN/1956" type="inclusive">ca.
+				  1947-1956</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="62c318aa-7640-4437-9cdf-6655eeedf4c1" type="box">15</container> <container parent="62c318aa-7640-4437-9cdf-6655eeedf4c1" type="folder">2</container> 
+			 <unittitle> Photographs: Broken Arrow Television Show, 
+				<unitdate normal="1956" type="inclusive">1956</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="42bd21ed-9560-405f-afd1-2484246f8e07" type="box">15</container> <container parent="42bd21ed-9560-405f-afd1-2484246f8e07" type="folder">3</container> 
+			 <unittitle> Photographs: Elliott Arnold (Includes Negatives),
+				</unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="e710e683-6e80-4e81-a464-07db8b389f1b" type="box">15</container> <container parent="e710e683-6e80-4e81-a464-07db8b389f1b" type="folder">4</container> 
+			 <unittitle> Photographs: Elliott Arnold, Family, and Friends,
+				</unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="30e24e16-a7dc-4544-99e8-f254792dac37" type="box">15</container> <container parent="30e24e16-a7dc-4544-99e8-f254792dac37" type="folder">5</container> 
+			 <unittitle> Photographs: Elliott Arnold - Military - General
+				(Includes Negatives), 
+				<unitdate normal="" type="inclusive">
+				  1930s-1940s</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="cc7dc242-66fb-49a1-9970-8c38b982276a" type="box">15</container> <container parent="cc7dc242-66fb-49a1-9970-8c38b982276a" type="folder">6</container> 
+			 <unittitle> Photographs: Elliott Arnold - Military - Miscellaneous,
+				</unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="5929e7a3-a82a-427a-a52e-f4cda91f58fc" type="box">15</container> <container parent="5929e7a3-a82a-427a-a52e-f4cda91f58fc" type="folder">7</container> 
+			 <unittitle> Photographs: Elliott Arnold - Military - Research, 
+				<unitdate normal="1955" type="inclusive">1955</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="65a3bff5-4c9d-4bd3-8211-77ce388beb60" type="box">15</container> <container parent="65a3bff5-4c9d-4bd3-8211-77ce388beb60" type="folder">8</container> 
+			 <unittitle> Photographs: Elliott Arnold with Unidentified People, 
+				<unitdate normal="NaN/NaN" type="inclusive">ca.
+				  1940-1970s</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="a7195f5b-a620-4abf-8644-3bc5b2278eab" type="box">15</container> <container parent="a7195f5b-a620-4abf-8644-3bc5b2278eab" type="folder">9</container> 
+			 <unittitle> Photographs: Military - New Guinea, 
+				<unitdate normal="NaN" type="inclusive">1940s</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="bc77aa90-29a5-4cfd-8df0-0d7c87b189d1" type="box">15</container> <container parent="bc77aa90-29a5-4cfd-8df0-0d7c87b189d1" type="folder">10</container> 
+			 <unittitle> Photographs: Military - Regensburg Germany, 
+				<unitdate normal="1944" type="inclusive">1944</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="4318e180-7a3d-43dd-b4ab-5a5a29341924" type="box">15</container> <container parent="4318e180-7a3d-43dd-b4ab-5a5a29341924" type="folder">11</container> 
+			 <unittitle> Photographs: Miscellaneous - Buildings, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2d7e673a-1cab-41fb-bb74-329227c7d2e3" type="box">15</container> <container parent="2d7e673a-1cab-41fb-bb74-329227c7d2e3" type="folder">12</container> 
+			 <unittitle> Photographs: Miscellaneous - Grade School, 
+				<unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="ee62b3eb-2d42-4b28-a0f6-96e935474127" type="box">15</container> <container parent="ee62b3eb-2d42-4b28-a0f6-96e935474127" type="folder">13</container> 
+			 <unittitle> Photographs: Musicians (Autographed Photos), 
+				<unitdate normal="1939" type="inclusive">1939</unitdate>,
+				</unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="59aea8da-b016-46ba-a05e-e45314d8d754" type="box">15</container> <container parent="59aea8da-b016-46ba-a05e-e45314d8d754" type="folder">14</container> 
+			 <unittitle> Photographs: Publicity Photographs and Proofs,
+				</unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="6863d58e-1ff5-447f-ae50-080eaf1b68c3" type="box">15</container> <container parent="6863d58e-1ff5-447f-ae50-080eaf1b68c3" type="folder">
+				15</container> 
+			 <unittitle> Photographs: Unidentified People </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="2c607a2d-244b-4b75-85bb-2c12b5d631ee" type="box">15</container> <container parent="2c607a2d-244b-4b75-85bb-2c12b5d631ee" type="folder">16</container> 
+			 <unittitle> Awards: Certificates, 
+				<unitdate normal="1950/1979" type="inclusive">1950-1979</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="12256f33-bcff-4199-9feb-69a6f408ca14" type="box">16</container> 
+			 <unittitle>Awards: Plaques, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="3f6a26b7-967a-4a14-a341-e9fefcbe91fc" type="box">17</container> 
+			 <unittitle> Oversize Photographs, Drawings, and Awards, </unittitle> 
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 8: Manuscripts by Other Authors, 
+			 <unitdate normal="NaN/NaN" type="inclusive">ca.
+				1970s</unitdate></unittitle> 
+		</did>
+		<c02 level="file"> 
+		  <did> <container id="b0c5c0a8-fd4d-4861-8547-0d28179a433e" type="box">18</container> <container parent="b0c5c0a8-fd4d-4861-8547-0d28179a433e" type="folder">1
+				</container> 
+			 <unittitle>Archer, Kak- 
+				<title>Seekers</title>, 
+				<unitdate normal="1977" type="inclusive">1977</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="416581e5-5fe7-4b5b-ba0c-15996bdfe1a5" type="box">18</container> <container parent="416581e5-5fe7-4b5b-ba0c-15996bdfe1a5" type="folder">
+				2</container> 
+			 <unittitle> Arnold, Tom - 
+				<title>The Resistant Strain</title>, 
+				<unitdate normal="NaN" type="inclusive"> no
+				  date</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="c8c2e2f1-68fa-48a4-83f4-822fe2775ecb" type="box">18</container> <container parent="c8c2e2f1-68fa-48a4-83f4-822fe2775ecb" type="folder">
+				3</container> 
+			 <unittitle> Black Elk Productions - 
+				<title>The First Americans</title>, 
+				<unitdate normal="NaN" type="inclusive">
+				  1970s</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="455e2b98-d30e-4615-8cd5-2d1b8780b3ab" type="box">18</container> <container parent="455e2b98-d30e-4615-8cd5-2d1b8780b3ab" type="folder">
+				4</container> 
+			 <unittitle> Boxer, Lester - 
+				<title>The Sabbatical</title>, 
+				<unitdate normal="1977" type="inclusive">
+				  1977</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="85adf864-8a63-47a9-9b23-c603e58c4f72" type="box">18</container> <container parent="85adf864-8a63-47a9-9b23-c603e58c4f72" type="folder">
+				5</container> 
+			 <unittitle> Carney, Otis - 
+				<title>Nothing Lives Long, Only the Earth and the
+				  Mountains</title>, 
+				<unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="ef7f58cc-04fa-45d7-91bf-4ebe4abe3f1b" type="box">18</container> <container parent="ef7f58cc-04fa-45d7-91bf-4ebe4abe3f1b" type="folder">
+				6</container> 
+			 <unittitle> Mitchell, Burrows - 
+				<title>Education of an Editor</title>, </unittitle> 
+		  </did>
+		</c02>
+		<c02 level="file"> 
+		  <did> <container id="4ca57d59-0d12-4eff-9d38-ae1b4e65f405" type="box">18</container> <container parent="4ca57d59-0d12-4eff-9d38-ae1b4e65f405" type="folder">
+				7</container> 
+			 <unittitle> Winston, Irene - 
+				<title>The Donnybrook Fighter</title>, 
+				<unitdate normal="NaN" type="inclusive"> no
+				  date</unitdate></unittitle> 
+		  </did>
+		</c02>
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

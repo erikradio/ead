@@ -1,0 +1,2731 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+  <eadid encodinganalog="852">UAMS393</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Autograph Collection
+	 		<date calendar="gregorian" era="ce" normal="1559/1962">1559-1962</date>
+	 		<date normal="1795/1920">(bulk 1795-1920)</date></titleproper> 
+	 	<author>Processed by Sara Zapotocky.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date calendar="gregorian" era="ce" normal="2011">2011</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. 
+  		<date calendar="gregorian" era="ce">;October 12, 2011</date></creation> 
+	 <langusage>Finding aid is in<language langcode="eng"> English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-21">2017-06-21</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Autograph Collection,<date calendar="gregorian" era="ce">1559-1962(bulk 1795-1920)</date></titleproper> 
+  	<num>Collection Number: MS 393</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by: Sara Zapotocky</label> 
+		  <item>Staff.</item> 
+		</defitem> 
+		<defitem> 
+			<label>Date completed:</label> 
+		  <item> 
+			 <date>May 2005</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+			<item>Deborah Weller</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2011. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Autograph Collection 
+	 	<unitdate label="Dates" normal="1559/1962" type="inclusive">1559-1962</unitdate>
+	 	<unitdate label="Dates" normal="1795/1920" type="bulk">(bulk 1795-1920)</unitdate></unittitle>	 
+	 <unitid countrycode="US" encodinganalog="MS 393" label="Collection Number" repositorycode="US-azu">MS 393</unitid> 
+	 <origination label="Creator"> 
+	 	<persname encodinganalog="100">Louis Schellback</persname>, <persname encodinganalog="100">T.W. Hanley</persname></origination> 
+  	<abstract label="Abstract">The collection consists mainly of handwritten letters, ca. 17th through 20th centuries by individuals in Europe and North America. Some files also include original envelopes, newspaper clippings, printed materials, or photographs.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent>4 linear ft.</extent></physdesc>	 
+	 <repository label="Repository"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>There are no restrictions on access to this information</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Autograph Collection (MS 393). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>The materials in this collection were gifts to Special Collections from Louis Schellbach and T.E. Hanley, ca. 1960s.</p> 
+  </bioghist> 
+  <arrangement encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into into three series:</p>	 
+	 <list> 
+	 	<item>Series I. Louis Schellbach Autograph Collection</item> 
+	 	<item>Series II. Louis Schellbach Portrait Engravings</item> 
+	 	<item>Series III. T.E. Hanley Autograph Collection</item> 
+	 </list> 
+  </arrangement> 
+	<scopecontent><p>The collection consists mainly of handwritten letters, ca. 17th through 20th centuries by individuals in Europe and North America. Some files also include original envelopes, newspaper clippings, printed materials, or photographs. The autographs come from a range of individuals, including stage actors, military leaders, artists, senators, poets, theologians, religious leaders, and former presidents. Some notable names include Isaac Asimov, Jefferson Davis, Herbert Hoover, Abraham Lincoln, and Mark Twain. The portrait engravings, ca. 16th c, include actors, authors, doctors, and Europeans rulers. Notable names in this series include Thomas Jefferson, Benjamin Franklin, Napoleon Bonaparte, Dante Alighieri, and Marie Antoinette.</p></scopecontent>
+  <controlaccess> 
+	 <persname>Ade, George, 1866-1944 -- Autographs</persname><persname>Asimov, Isaac, 1920 -- Autographs</persname><persname>Auden, W.H. (Wystan Hugh), 1907-1973 -- Autographs</persname><persname>Bryan, William Jennings, 1860-1925 -- Autographs</persname><persname>Cleveland, Grover, 1837-1908 -- Autographs</persname><persname>Curtis, George William, 1824-1892 -- Autographs</persname><persname>Forbes, Henry Clinton, 1833-1903 -- Autographs</persname><persname>Hoover, Herbert, 1874-1964 -- Autographs</persname><persname>Lincoln, Abraham, 1809-1865 -- Autographs</persname><persname>Marlowe, Julia, 1865-1950 -- Autographs</persname><persname>McKenna, J. (Joseph), 1843-1926 – Autographs</persname><persname>McKinley, William, 1843-1901 -- Autographs</persname><persname>Morse, Jedidiah, 1761-1826 -- Autographs</persname><persname>Raglan, Fitzroy James Henry Somerset, Baron, 1788-1855 -- Autographs</persname><persname>Shafter, William Rufus, 1835-1906 -- Autographs</persname><persname>Taft, William H. (William Howard), 1857-1930 -- Autographs</persname><persname>Thackeray, William Makepeace, 1811-1863 – Autographs</persname><persname>Twain, Mark, 1835-1910 -- Autographs</persname><persname>Wilson, Woodrow, 1856-1924 -- Autographs </persname><subject>Autograph -- United States</subject><subject>Autograph -- Europe</subject><subject>Signatures (Writing)</subject></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+			<unittitle> Series 1: Louis Schellbach Autograph Collection,<unitdate calendar="gregorian" era="ce">1559-1962</unitdate></unittitle>
+		</did> 
+	 	<arrangement><p>Alphabetical</p>
+	 	</arrangement>	
+	 	<c02 level="file">
+		  <did> <container id="15a50ab7-ddd7-48b6-9def-4018c7ccfb04" type="box">1</container> 
+			 <container parent="15a50ab7-ddd7-48b6-9def-4018c7ccfb04" type="folder">1</container> 
+		  	<unittitle>Alexander, Peter (Count Romanoff)</unittitle> 
+		  		<unitdate normal="1796">1796 </unitdate>
+		  </did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="5a877302-1779-404c-9a86-f63d21d1e7ae" type="box">1</container> 
+	 			<container parent="5a877302-1779-404c-9a86-f63d21d1e7ae" type="folder">2</container> 
+	 			<unittitle>Bloomfield, Lady</unittitle> 
+	 				<unitdate>undated</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="7b1fccf4-18b2-448b-977e-20214416a6e5" type="box">1</container> 
+	 			<container parent="7b1fccf4-18b2-448b-977e-20214416a6e5" type="folder">3</container> 
+	 			<unittitle>Buntline, Ned</unittitle> 
+	 				<unitdate certainty="approximate" normal="1874">1874?</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="2fcf8fd3-83a1-458f-b289-dd3fe1e1c6f3" type="box">1</container> 
+	 			<container parent="2fcf8fd3-83a1-458f-b289-dd3fe1e1c6f3" type="folder">4</container> 
+	 			<unittitle>Carpenter, Rev. Boyd</unittitle> 
+	 				<unitdate certainty="approximate" normal="1875">1875?</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="35468cb9-e076-4a2a-b51c-e4a9547e8cdb" type="box">1</container> 
+	 			<container parent="35468cb9-e076-4a2a-b51c-e4a9547e8cdb" type="folder">5</container> 
+	 			<unittitle>Cole, Ashley W</unittitle> 
+	 				<unitdate>"undated"</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="ae532ae4-4249-41b0-b869-1fffac5d7ba8" type="box">1</container> 
+	 			<container parent="ae532ae4-4249-41b0-b869-1fffac5d7ba8" type="folder">6</container> 
+	 			<unittitle>Curtis, George William </unittitle> 
+	 				<unitdate normal="1882">1882</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c538eb03-2fab-4752-b230-c7e516a1e213" type="box">1</container> 
+	 			<container parent="c538eb03-2fab-4752-b230-c7e516a1e213" type="folder">7</container> 
+	 			<unittitle>D’Elisagary, Bernard Renau</unittitle> 
+	 				<unitdate normal="1695">1695</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="057a43bd-abf2-4cff-bfc8-10d241866fa3" type="box">1</container> 
+	 			<container parent="057a43bd-abf2-4cff-bfc8-10d241866fa3" type="folder">8</container> 
+	 			<unittitle>Demidoff, N. de</unittitle> 
+	 				<unitdate normal="1823">1823</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="9b498cc9-2c8b-4c51-9687-7b2a8d0e6b4d" type="box">1</container> 
+	 			<container parent="9b498cc9-2c8b-4c51-9687-7b2a8d0e6b4d" type="folder">9</container> 
+	 			<unittitle>Donnelly, John</unittitle> 
+	 				<unitdate normal="1884">1884</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="2cbfd6e8-4346-4c52-bac9-8312145f184d" type="box">1</container> 
+	 			<container parent="2cbfd6e8-4346-4c52-bac9-8312145f184d" type="folder">10</container> 
+	 			<unittitle>Donop, Count C.G.W.</unittitle> 
+	 				<unitdate normal="1758">1758</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="bcd61d71-0a6c-49c2-8aa2-686a5eaabf9b" type="box">1</container> 
+	 			<container parent="bcd61d71-0a6c-49c2-8aa2-686a5eaabf9b" type="folder">11</container> 
+	 			<unittitle>Douglas, Robert K.</unittitle> 
+	 				<unitdate>undated</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b3b311f1-02f4-4d9c-aad2-97bc6ec029ac" type="box">1</container> 
+	 			<container parent="b3b311f1-02f4-4d9c-aad2-97bc6ec029ac" type="folder">12</container> 
+	 			<unittitle>Ellis, Sir Henry</unittitle>
+	 				<unitdate normal="1842">1842</unitdate> 
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c216ead8-899b-4315-8250-51af0849db1c" type="box">1</container> 
+	 			<container parent="c216ead8-899b-4315-8250-51af0849db1c" type="folder">13</container> 
+	 			<unittitle>Ernst, Johann Hartwig (Count von Bernstorff)</unittitle> 
+	 				<unitdate normal="1758">1758</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="15d46988-03f9-4cbd-9a14-f7eaaca0e803" type="box">1</container> 
+	 			<container parent="15d46988-03f9-4cbd-9a14-f7eaaca0e803" type="folder">14</container> 
+	 			<unittitle>Étienne, François (Comte de Rosily-Mesros)</unittitle> 
+	 				<unitdate normal="1783">1783</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="01346882-3238-4362-81ea-22d5dcce0297" type="box">1</container> 
+	 			<container parent="01346882-3238-4362-81ea-22d5dcce0297" type="folder">15</container> 
+	 			<unittitle>Grenville, Lord George Nugent</unittitle> 
+	 				<unitdate normal="1789/1830">1789-1830</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="bf70373d-0f34-4b55-9be8-fd6373cf0680" type="box">1</container> 
+	 			<container parent="bf70373d-0f34-4b55-9be8-fd6373cf0680" type="folder">16</container> 
+	 			<unittitle>Henderson, John</unittitle>
+	 				<unitdate normal="1841">1841</unitdate> 
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="5a1bc461-42bb-4082-af93-edcd07cd5db5" type="box">1</container> 
+	 			<container parent="5a1bc461-42bb-4082-af93-edcd07cd5db5" type="folder">17</container> 
+	 			<unittitle>Hertford, Lord</unittitle> 
+	 				<unitdate certainty="approximate" normal="1861">1861?</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="6856bcae-464b-4191-83dc-8998e35ff7b1" type="box">1</container> 
+	 			<container parent="6856bcae-464b-4191-83dc-8998e35ff7b1" type="folder">18</container> 
+	 			<unittitle>Heumann(?), Christopher August</unittitle>
+	 				<unitdate normal="1742">1724</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="6ad95092-fb75-4c16-9f87-7ad3daac6e98" type="box">1</container> 
+	 			<container parent="6ad95092-fb75-4c16-9f87-7ad3daac6e98" type="folder">19</container> 
+	 			<unittitle>Hill, Thomas</unittitle> 
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="5b533b41-b876-4b9f-8591-429ee0af5492" type="box">1</container> 
+	 			<container parent="5b533b41-b876-4b9f-8591-429ee0af5492" type="folder">20</container> 
+	 			<unittitle>Hoffman, Friedrich</unittitle> 
+	 				<unitdate normal="1712">1712</unitdate>
+	 		</did> </c02>
+	 		<c02 level="file"> 
+	 			<did> <container id="24532351-c74e-4a6f-aaf7-1c938e0f0a04" type="box">1</container> 
+	 				<container parent="24532351-c74e-4a6f-aaf7-1c938e0f0a04" type="folder">21</container> 
+	 				<unittitle>Hunt, John, D.D</unittitle> 
+	 					<unitdate>undated</unitdate>
+	 			</did> 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="fc82cad1-ed46-4962-81a1-15ea07c67913" type="box">1</container> 
+	 			<container parent="fc82cad1-ed46-4962-81a1-15ea07c67913" type="folder">22</container> 
+	 			<unittitle>Lahrbush, Frederick </unittitle> 
+	 			<unitdate normal="1766/1868">1766-1868</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c8ec53a8-016d-4448-90c2-14a238d98862" type="box">1</container> 
+	 			<container parent="c8ec53a8-016d-4448-90c2-14a238d98862" type="folder">23</container> 
+	 			<unittitle>Lee, John</unittitle> 
+	 				<unitdate>1837</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="af9294da-fce1-4c30-a713-3ea184117db7" type="box">1</container> 
+	 			<container parent="af9294da-fce1-4c30-a713-3ea184117db7" type="folder">24</container> 
+	 			<unittitle>Leighton, Frederick (and others)</unittitle> 
+	 				<unitdate normal="1851/1877">1851-1877</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="4237f4a7-c7d1-4b35-a39c-b1da8cac63d6" type="box">1</container> 
+	 			<container parent="4237f4a7-c7d1-4b35-a39c-b1da8cac63d6" type="folder">25</container> 
+	 			<unittitle>Lincoln, Abraham</unittitle> 
+	 				<unitdate normal="1865">1865</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="8c361c73-e9ab-4812-a866-230cbf0a4d47" type="box">1</container> 
+	 			<container parent="8c361c73-e9ab-4812-a866-230cbf0a4d47" type="folder">26</container> 
+	 			<unittitle>Littledale, Rev.</unittitle> 
+	 				<unitdate normal="1872">1872</unitdate> 
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="11d53ebb-76ed-4125-ab2b-f767aaf8fc5b" type="box">1</container> 
+	 			<container parent="11d53ebb-76ed-4125-ab2b-f767aaf8fc5b" type="folder">27</container> 
+	 			<unittitle>Low, Seth</unittitle> 
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="3b1c9c67-14ba-4632-a421-555ef3813be5" type="box">1</container> 
+	 			<container parent="3b1c9c67-14ba-4632-a421-555ef3813be5" type="folder">28</container> 
+	 			<unittitle>Lysons, Samuel</unittitle> 
+	 				<unitdate normal="1763/1879">1763-1879</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="37e6fab1-0e75-4fdf-8c59-29a4e72f1f11" type="box">1</container> 
+	 			<container parent="37e6fab1-0e75-4fdf-8c59-29a4e72f1f11" type="folder">29</container> 
+	 			<unittitle>Marlowe, Julia</unittitle> 
+	 				<unitdate>undated</unitdate>
+	 		</did>
+	 		</c02>
+	 		<c02 level="file"> 
+	 			<did> <container id="07b15297-a316-46a5-9bb8-7707ef849d07" type="box">1</container> 
+	 				<container parent="07b15297-a316-46a5-9bb8-7707ef849d07" type="folder">30</container> 
+	 				<unittitle>Maury, Jean Siffrein</unittitle>
+	 					<unitdate normal="1812">1812</unitdate>
+	 			</did></c02>
+	 			<c02 level="file"> 
+	 				<did> <container id="bfb789c8-e855-497e-8ffd-f6b71e43b8ef" type="box">1</container> 
+	 					<container parent="bfb789c8-e855-497e-8ffd-f6b71e43b8ef" type="folder">31</container> 
+	 					<unittitle>McCarren, Patrick H. </unittitle> 
+	 						<unitdate normal="1890">1890</unitdate>
+	 				</did></c02>
+	 				<c02 level="file"> 
+	 					<did> <container id="183b9830-0f24-46ff-897e-8caedd40dd5d" type="box">1</container> 
+	 						<container parent="183b9830-0f24-46ff-897e-8caedd40dd5d" type="folder">32</container> 
+	 						<unittitle>McKenna, Joseph</unittitle> 
+	 							<unitdate>undated</unitdate>
+	 				</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="9d526259-4092-4961-bbae-dba13a654dce" type="box">1</container> 
+	 			<container parent="9d526259-4092-4961-bbae-dba13a654dce" type="folder">33</container> 
+	 			<unittitle>Mifflin, Jonathon</unittitle> 
+	 				<unitdate normal="1795">1795</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b512210c-6be8-49ab-bb35-3b9deb7fa5a5" type="box">1</container> 
+	 			<container parent="b512210c-6be8-49ab-bb35-3b9deb7fa5a5" type="folder">34</container> 
+	 			<unittitle>Morse, Jedidiah</unittitle>
+	 				<unitdate normal="1805">1805</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="e5faf762-9696-46bf-96c7-3d2fe030f83b" type="box">1</container> 
+	 			<container parent="e5faf762-9696-46bf-96c7-3d2fe030f83b" type="folder">35</container> 
+	 			<unittitle>Nicholson, John</unittitle> 
+	 				<unitdate normal="1780">1780</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="e90a4106-b72c-472a-8f53-40ac5a09a057" type="box">1</container> 
+	 			<container parent="e90a4106-b72c-472a-8f53-40ac5a09a057" type="folder">36</container> 
+	 			<unittitle>Noel, Rev. W.</unittitle>
+	 				<unitdate>undated</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="5ed915fe-346f-4215-94bb-0c130b62d7d4" type="box">1</container> 
+	 			<container parent="5ed915fe-346f-4215-94bb-0c130b62d7d4" type="folder">37</container> 
+	 			<unittitle>Norton, Charles S.</unittitle> 
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="013dff10-c95b-42ee-aae8-1fc6d90e942b" type="box">1</container> 
+	 			<container parent="013dff10-c95b-42ee-aae8-1fc6d90e942b" type="folder">38</container> 
+	 			<unittitle>Oakes, J.W</unittitle> 
+	 				<unitdate normal="1857">1857</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="a8f2ace0-5603-4f46-8226-04715e51ad54" type="box">1</container> 
+	 			<container parent="a8f2ace0-5603-4f46-8226-04715e51ad54" type="folder">39</container> 
+	 			<unittitle>Pauncefote, Sir Julian</unittitle>
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="6c6d3e6f-fea0-41f5-bb0a-795d0bc8b2b5" type="box">1</container> 
+	 			<container parent="6c6d3e6f-fea0-41f5-bb0a-795d0bc8b2b5" type="folder">40</container> 
+	 			<unittitle>Phillips, Daniel B.</unittitle> 
+	 				<unitdate normal="1890">1890</unitdate>
+	 		</did> 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b09b9f0a-3ded-4607-9deb-78f4562cf9d2" type="box">1</container> 
+	 			<container parent="b09b9f0a-3ded-4607-9deb-78f4562cf9d2" type="folder">41</container> 
+	 			<unittitle>Pickersgill, Frederick</unittitle>
+	 				<unitdate normal="1856">1856</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="3610bbf3-8ed0-4b00-bc75-4be61af14d2a" type="box">1</container> 
+	 			<container parent="3610bbf3-8ed0-4b00-bc75-4be61af14d2a" type="folder">42</container> 
+	 			<unittitle>Potter, Rev. Henry C.</unittitle> 
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="3b71183a-5f05-40de-bc55-54518484466d" type="box">1</container> 
+	 			<container parent="3b71183a-5f05-40de-bc55-54518484466d" type="folder">43</container> 
+	 			<unittitle>Proctor, Col. John</unittitle> 
+	 				<unitdate normal="1789">1789</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="071ec558-80fd-41ec-8ee9-0a55de9c05f2" type="box">1</container> 
+	 			<container parent="071ec558-80fd-41ec-8ee9-0a55de9c05f2" type="folder">44</container> 
+	 			<unittitle>Raglan, Lord Fitzroy Somerset</unittitle> 
+	 				<unitdate normal="1881">1881</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="3e3a4cb0-5780-40f9-a6d6-a24f34bebc3f" type="box">1</container> 
+	 			<container parent="3e3a4cb0-5780-40f9-a6d6-a24f34bebc3f" type="folder">45</container> 
+	 			<unittitle>Read, John</unittitle>
+	 				<unitdate normal="1849">1849</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="3223c399-d43b-4814-ae86-74fb886f00df" type="box">1</container> 
+	 			<container parent="3223c399-d43b-4814-ae86-74fb886f00df" type="folder">46</container> 
+	 			<unittitle>Reed, Thomas B.</unittitle> 
+	 				<unitdate normal="1898">1898</unitdate>	
+	 		</did> 	
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="793b9fee-8103-4d4f-a73e-c9c3a380cee7" type="box">1</container> 
+	 			<container parent="793b9fee-8103-4d4f-a73e-c9c3a380cee7" type="folder">47</container> 
+	 			<unittitle>Reynolds, Quentin, Jacket Charlies “21” menu (dinner in honor of QR), with photo</unittitle> 
+	 				<unitdate normal="1941">1941</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="de12b2ee-4b81-433c-ae89-699346bfe781" type="box">1</container> 
+	 			<container parent="de12b2ee-4b81-433c-ae89-699346bfe781" type="folder">48</container> 
+	 			<unittitle>Schaff, Adam</unittitle>
+	 				<unitdate normal="1890">1890</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="d008f2ef-ba13-45dd-9e75-78c19c102afe" type="box">1</container> 
+	 			<container parent="d008f2ef-ba13-45dd-9e75-78c19c102afe" type="folder">49</container> 
+	 			<unittitle>Seeley, Elias B.</unittitle>
+	 				<unitdate>undated</unitdate> 
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="33852c9e-9b42-4247-bb65-8be9978ca8ee" type="box">1</container> 
+	 			<container parent="33852c9e-9b42-4247-bb65-8be9978ca8ee" type="folder">50</container> 
+	 			<unittitle>Sherman, W.T.</unittitle> 
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="89ceec20-0023-4072-af77-404444ca4967" type="box">1</container> 
+	 			<container parent="89ceec20-0023-4072-af77-404444ca4967" type="folder">51</container> 
+	 			<unittitle>Slough, Col. Matthew</unittitle> 
+	 				<unitdate normal="1784">1784</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="bdd549a2-6311-4e5b-87ca-e9d6a6250f8a" type="box">1</container> 
+	 			<container parent="bdd549a2-6311-4e5b-87ca-e9d6a6250f8a" type="folder">52</container> 
+	 			<unittitle>Smith, George B.</unittitle> 
+	 				<unitdate normal="1876">1876</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="d6d61b17-15e8-42ba-8115-a1e7904d8275" type="box">1</container> 
+	 			<container parent="d6d61b17-15e8-42ba-8115-a1e7904d8275" type="folder">53</container> 
+	 			<unittitle>Smith, H.S.</unittitle> 
+	 				<unitdate normal="1862">1862</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="595d8508-3bdf-4f59-9ef2-94929ca352d7" type="box">1</container> 
+	 			<container parent="595d8508-3bdf-4f59-9ef2-94929ca352d7" type="folder">54</container> 
+	 			<unittitle>Smith, William H.</unittitle>
+	 				<unitdate normal="1868">1868</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="cbd65457-061f-4b5f-b23a-f4b21b5ce5cd" type="box">1</container> 
+	 			<container parent="cbd65457-061f-4b5f-b23a-f4b21b5ce5cd" type="folder">55</container> 
+	 			<unittitle>Stanley, Dean</unittitle> 
+	 				<unitdate certainty="approximate" normal="1893">Around 1893</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="40a8a1c0-76bd-4a09-95fa-073c5cee82e5" type="box">1</container> 
+	 			<container parent="40a8a1c0-76bd-4a09-95fa-073c5cee82e5" type="folder">56</container> 
+	 			<unittitle>Stuart-Poole, Reginald</unittitle> 
+	 				<unitdate normal="1878">1878</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="e73a571d-7715-42fa-b3ee-197173e347a5" type="box">1</container> 
+	 			<container parent="e73a571d-7715-42fa-b3ee-197173e347a5" type="folder">57</container> 
+	 			<unittitle>Thompson, James</unittitle> 
+	 				<unitdate normal="1780">1780</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="e7b26949-20f5-4998-8ce6-89045fa42e4d" type="box">1</container> 
+	 			<container parent="e7b26949-20f5-4998-8ce6-89045fa42e4d" type="folder">58</container> 
+	 			<unittitle>Treadwell, George C.</unittitle> 
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="950f71fc-3de0-4e3b-b68b-d7291a705098" type="box">1</container> 
+	 			<container parent="950f71fc-3de0-4e3b-b68b-d7291a705098" type="folder">59</container> 
+	 			<unittitle>Vaughan, Robert</unittitle>
+	 				<unitdate normal="1862">1862</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="ee070675-4a87-444d-8fce-4efeada12430" type="box">1</container> 
+	 			<container parent="ee070675-4a87-444d-8fce-4efeada12430" type="folder">60</container> 
+	 			<unittitle>Vincent, Edgar </unittitle> 
+	 				<unitdate normal="1879">1879</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="0e24b263-a3ea-4ef8-accb-1c6700b3dfb2" type="box">1</container> 
+	 			<container parent="0e24b263-a3ea-4ef8-accb-1c6700b3dfb2" type="folder">61</container> 
+	 			<unittitle>Walker, Rob C.</unittitle>
+	 				<unitdate normal="1859">1859</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="afc63571-17ff-499d-9117-ec94812cc7f4" type="box">1</container> 
+	 			<container parent="afc63571-17ff-499d-9117-ec94812cc7f4" type="folder">62</container> 
+	 			<unittitle>Walling, George W.</unittitle> 
+	 				<unitdate normal="1884">1884</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b89d33f2-b808-4270-adc2-0451da1149e4" type="box">1</container> 
+	 			<container parent="b89d33f2-b808-4270-adc2-0451da1149e4" type="folder">63</container> 
+	 			<unittitle>Ward, Lieut. Aaron</unittitle> 
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="0c3c2a48-0c9a-4579-9d58-8951b4f74689" type="box">1</container> 
+	 			<container parent="0c3c2a48-0c9a-4579-9d58-8951b4f74689" type="folder">64</container> 
+	 			<unittitle>Wayne, Isaac </unittitle> 
+	 				<unitdate normal="1809">1809</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c817a9ec-a139-4f04-83ee-e1311564dd86" type="box">1</container> 
+	 			<container parent="c817a9ec-a139-4f04-83ee-e1311564dd86" type="folder">65</container> 
+	 			<unittitle>Wellesley, Max</unittitle> 	
+	 				<unitdate normal="1839">1839</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="09e97c4f-004f-4baf-b3e7-c19dd696b5db" type="box">1</container> 
+	 			<container parent="09e97c4f-004f-4baf-b3e7-c19dd696b5db" type="folder">66</container> 
+	 			<unittitle>Wellesley, Richard Marquess</unittitle> 
+	 				<unitdate normal="1840">1840</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="7d3cdc0e-6087-4a9a-9784-9859a515770d" type="box">1</container> 
+	 			<container parent="7d3cdc0e-6087-4a9a-9784-9859a515770d" type="folder">67</container> 
+	 			<unittitle>Welsh, Rev. D.</unittitle> 
+	 				<unitdate normal="1844">1844</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="57790bcd-b7bf-4d2b-9e9f-7ba7d0e42d4b" type="box">1</container> 
+	 			<container parent="57790bcd-b7bf-4d2b-9e9f-7ba7d0e42d4b" type="folder">68</container> 
+	 			<unittitle>Wetmore, Prosper M.</unittitle>
+	 				<unitdate normal="1866">1866</unitdate> 	
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="82c33708-e957-49fb-9a7a-c96c8e269ef4" type="box">1</container> 
+	 			<container parent="82c33708-e957-49fb-9a7a-c96c8e269ef4" type="folder">69</container> 
+	 			<unittitle>White, Edward</unittitle> 
+	 				<unitdate normal="1878">1878</unitdate>	
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="720af2b3-70bb-4d92-bf36-33e8177d972b" type="box">1</container> 
+	 			<container parent="720af2b3-70bb-4d92-bf36-33e8177d972b" type="folder">70</container> 
+	 			<unittitle>Whiteside, J.</unittitle>
+	 				<unitdate>undated</unitdate> 	
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="233f52ff-1ce9-4cdc-9c40-2f600ef53aeb" type="box">1</container> 
+	 			<container parent="233f52ff-1ce9-4cdc-9c40-2f600ef53aeb" type="folder">71</container> 
+	 			<unittitle>Wilhelm, August</unittitle> 
+	 				<unitdate normal="1714/1731">1714-1731</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="da275040-f0d2-4986-b6ec-c485ddab099e" type="box">1</container> 
+	 			<container parent="da275040-f0d2-4986-b6ec-c485ddab099e" type="folder">72</container> 
+	 			<unittitle>Wylie, R.C.</unittitle> 	
+	 				<unitdate normal="1863">1863</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="a23c8c5f-28ba-4613-ba54-478adfb1105b" type="box">1</container> 
+	 			<container parent="a23c8c5f-28ba-4613-ba54-478adfb1105b" type="folder">73</container> 
+	 			<unittitle>Young, John</unittitle>
+	 				<unitdate normal="1872">1872</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="1f56d4ff-507b-4a7f-904b-0f2b174f5d2b" type="box">2</container> 
+	 			<container parent="1f56d4ff-507b-4a7f-904b-0f2b174f5d2b" type="folder">1</container> 
+	 			<unittitle>Anthony, Henry B.</unittitle> 
+	 				<unitdate normal="1862">1862</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="90fc0750-8927-49bb-ae84-fab37affca4b" type="box">2</container> 
+	 			<container parent="90fc0750-8927-49bb-ae84-fab37affca4b" type="folder">2</container> 
+	 			<unittitle>Aurand, Peter</unittitle> 
+	 				<unitdate normal="1818">1818</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="a5c94dca-8497-4242-8174-d6272d7b82d4" type="box">2</container> 
+	 			<container parent="a5c94dca-8497-4242-8174-d6272d7b82d4" type="folder">3</container> 
+	 			<unittitle>Balliet, Stephen</unittitle> 
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b3c3b498-81b6-4930-9ac3-6481b907dbd0" type="box">2</container> 
+	 			<container parent="b3c3b498-81b6-4930-9ac3-6481b907dbd0" type="folder">4</container> 
+	 			<unittitle>Bancroft, Hubert Howe</unittitle> 
+	 				<unitdate normal="1888">1888</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="95aff871-4f1e-4254-b7f3-bab633a7d1f9" type="box">2</container> 
+	 			<container parent="95aff871-4f1e-4254-b7f3-bab633a7d1f9" type="folder">5</container> 
+	 			<unittitle>Baudin, Charles (des Ardennes)</unittitle>
+	 				<unitdate normal="1951">1951</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="fce27b11-3c9f-405e-8479-6fe09592d238" type="box">2</container> 
+	 			<container parent="fce27b11-3c9f-405e-8479-6fe09592d238" type="folder">6</container> 
+	 			<unittitle>Baynard, Thomas F.</unittitle> 
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="fe3b0bad-6f92-476a-9dbe-c0cf670674d4" type="box">2</container> 
+	 			<container parent="fe3b0bad-6f92-476a-9dbe-c0cf670674d4" type="folder">7</container> 
+	 			<unittitle>Beck, Christian Daniel </unittitle> 
+	 				<unitdate normal="1804">1804</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="2c578d73-7f43-47e3-8f0f-6920ff9f3efd" type="box">2</container> 
+	 			<container parent="2c578d73-7f43-47e3-8f0f-6920ff9f3efd" type="folder">8</container> 
+	 			<unittitle>Binney, Horace</unittitle> 
+	 				<unitdate normal="1834">1834</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="e7ddcbf8-f749-4304-9fb5-5be4e4f198c6" type="box">2</container> 
+	 			<container parent="e7ddcbf8-f749-4304-9fb5-5be4e4f198c6" type="folder">9</container> 
+	 			<unittitle>Black, Frank S.</unittitle> 
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="11c51550-3b8b-4daf-9918-22d054627382" type="box">2</container> 
+	 			<container parent="11c51550-3b8b-4daf-9918-22d054627382" type="folder">10</container> 
+	 			<unittitle>Boone, Joseph</unittitle> 	
+	 				<unitdate normal="1804">1804</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="927fafb8-88fd-4914-87cf-5f6e0e183027" type="box">2</container> 
+	 			<container parent="927fafb8-88fd-4914-87cf-5f6e0e183027" type="folder">11</container> 
+	 			<unittitle>Boyle, Lord David</unittitle>
+	 				<unitdate normal="1850">1850</unitdate> 		
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b50e46e3-e4e9-4b32-bc4e-1641c1200df0" type="box">2</container> 
+	 			<container parent="b50e46e3-e4e9-4b32-bc4e-1641c1200df0" type="folder">12</container> 
+	 			<unittitle>Bryan, William Jennings</unittitle> 
+	 				<unitdate normal="1898">1898</unitdate>			
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="6ca95f30-f796-408d-8001-f76b7672a3f5" type="box">2</container> 
+	 			<container parent="6ca95f30-f796-408d-8001-f76b7672a3f5" type="folder">13</container> 
+	 			<unittitle>Chambers, Joseph G. </unittitle> 
+	 				<unitdate normal="1815">1815</unitdate>			
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="fa09ed94-5b21-4f21-ac27-8f50d41afdf7" type="box">2</container> 
+	 			<container parent="fa09ed94-5b21-4f21-ac27-8f50d41afdf7" type="folder">14</container> 
+	 			<unittitle>Cheetham, S.</unittitle> 
+	 				<unitdate normal="1878">1878</unitdate>		
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="ee7c0aa9-ac86-4dc7-8982-3dcb1cfabe62" type="box">2</container> 
+	 			<container parent="ee7c0aa9-ac86-4dc7-8982-3dcb1cfabe62" type="folder">15</container> 
+	 			<unittitle>Clark, Thomas M.</unittitle> 	
+	 				<unitdate normal="1857">1857</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="6b636e68-7f5c-411e-b026-657398010ba5" type="box">2</container> 
+	 			<container parent="6b636e68-7f5c-411e-b026-657398010ba5" type="folder">16</container> 
+	 			<unittitle>Cox, Samuel</unittitle> 
+	 				<unitdate>undated</unitdate>	
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="334035e2-c1e0-45ac-a4f3-c7e55b65b8fb" type="box">2</container> 
+	 			<container parent="334035e2-c1e0-45ac-a4f3-c7e55b65b8fb" type="folder">17</container> 
+	 			<unittitle>Crosby, J. Schuyler</unittitle> 
+	 				<unitdate normal="1863">1863</unitdate>	
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f36bea21-8884-4377-931b-24fe838f50f7" type="box">2</container> 
+	 			<container parent="f36bea21-8884-4377-931b-24fe838f50f7" type="folder">18</container> 
+	 			<unittitle>Cupples, George</unittitle> 	
+	 				<unitdate normal="1876">1878</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="0009add2-e1fb-4c83-bc26-e72884402b2e" type="box">2</container> 
+	 			<container parent="0009add2-e1fb-4c83-bc26-e72884402b2e" type="folder">19</container> 
+	 			<unittitle>Cushing, Marshall</unittitle>
+	 				<unitdate normal="1890">1890</unitdate> 		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b379683a-2648-48e1-a8d8-46c1192e1e15" type="box">2</container> 
+	 			<container parent="b379683a-2648-48e1-a8d8-46c1192e1e15" type="folder">20</container> 
+	 			<unittitle>Dallas, E.S.</unittitle>
+	 				<unitdate>undated</unitdate> 		
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="57fd13e5-451c-4320-8061-6c24edf6265b" type="box">2</container> 
+	 			<container parent="57fd13e5-451c-4320-8061-6c24edf6265b" type="folder">21</container> 
+	 			<unittitle>Daly, James</unittitle> 	
+	 				<unitdate normal="1884">1884</unitdate>	
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="428e9fac-3465-496c-9671-a0599e5be92e" type="box">2</container> 
+	 			<container parent="428e9fac-3465-496c-9671-a0599e5be92e" type="folder">22</container> 
+	 			<unittitle>Dennis, John</unittitle> 	
+	 				<unitdate normal="1874">1874</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="0eaaaaed-b33c-432e-a0fb-2aef96785b09" type="box">2</container> 
+	 			<container parent="0eaaaaed-b33c-432e-a0fb-2aef96785b09" type="folder">23</container> 
+	 			<unittitle>Donaldson, James</unittitle> 	
+	 				<unitdate normal="1877">1877</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="26c450a3-d4d1-4c33-80bb-66672372bc76" type="box">2</container> 
+	 			<container parent="26c450a3-d4d1-4c33-80bb-66672372bc76" type="folder">24</container> 
+	 			<unittitle>Ebeling, Christopher Daniel</unittitle> 	
+	 				<unitdate normal="1877">1877</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="d573599d-ecef-4ccd-8d10-400093a5ad61" type="box">2</container> 
+	 			<container parent="d573599d-ecef-4ccd-8d10-400093a5ad61" type="folder">25</container> 
+	 			<unittitle>Evarts, William M.</unittitle> 	
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="0c791a56-de91-4f48-8c05-03cdc1e0cf4d" type="box">2</container> 
+	 			<container parent="0c791a56-de91-4f48-8c05-03cdc1e0cf4d" type="folder">26</container> 
+	 			<unittitle>Ewing, Alexander</unittitle> 
+	 				<unitdate normal="1872">1872</unitdate>			
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="8b962300-c48c-41c4-b04b-34e83415464c" type="box">2</container> 
+	 			<container parent="8b962300-c48c-41c4-b04b-34e83415464c" type="folder">27</container> 
+	 			<unittitle>Fabricius, John Albert
+	 				<unitdate calendar="gregorian" era="ce" normal="1710">1710</unitdate></unittitle> 			
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="9fea1be8-e223-4a8a-b713-0da106afe1a4" type="box">2</container> 
+	 			<container parent="9fea1be8-e223-4a8a-b713-0da106afe1a4" type="folder">28</container> 
+	 			<unittitle>Farnum, Alex</unittitle> 
+	 				<unitdate normal="1863">1863</unitdate>					
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="57279dc9-4d6b-4ebb-9edc-a9c8a14b339c" type="box">2</container> 
+	 			<container parent="57279dc9-4d6b-4ebb-9edc-a9c8a14b339c" type="folder">29</container> 
+	 			<unittitle>Farwell, C.B.</unittitle> 
+	 				<unitdate normal="1887">1887</unitdate>			
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="4469d32a-49b8-4020-8595-2bca0d41d828" type="box">2</container> 
+	 			<container parent="4469d32a-49b8-4020-8595-2bca0d41d828" type="folder">30</container> 
+	 			<unittitle>Fichard, Johann</unittitle> 
+	 				<unitdate normal="1559">1559</unitdate>	
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="19336f61-8ae5-4ddc-baf8-717f07a1e939" type="box">2</container> 
+	 			<container parent="19336f61-8ae5-4ddc-baf8-717f07a1e939" type="folder">31</container> 
+	 			<unittitle>French, Alice (Octave Thanet)</unittitle> 
+	 				<unitdate normal="1897">1897</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="e4b6360e-953c-42f2-a620-dfcbef438f83" type="box">2</container> 
+	 			<container parent="e4b6360e-953c-42f2-a620-dfcbef438f83" type="folder">32</container> 
+	 			<unittitle>Gage, Lyman J. </unittitle> 
+	 				<unitdate>undated</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="a6c08ef5-5791-4415-a694-9e6df37322ee" type="box">2</container> 
+	 			<container parent="a6c08ef5-5791-4415-a694-9e6df37322ee" type="folder">33</container> 
+	 			<unittitle>Gerstacker, Friedrich</unittitle> 	
+	 				<unitdate certainty="approximate" normal="1867">1867?</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="42f70be5-e818-4fd3-894d-29d1953d15ff" type="box">2</container> 
+	 			<container parent="42f70be5-e818-4fd3-894d-29d1953d15ff" type="folder">34</container> 
+	 			<unittitle>Gibbons, Cardinal James</unittitle> 	
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="3844198e-afe0-4a85-987a-fe8e15e1a807" type="box">2</container> 
+	 			<container parent="3844198e-afe0-4a85-987a-fe8e15e1a807" type="folder">35</container> 
+	 			<unittitle>Griggs, John W.</unittitle> 
+	 				<unitdate normal="1898">1898</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="5aaa6c10-a559-4b95-abd3-6b166d7d87f9" type="box">2</container> 
+	 			<container parent="5aaa6c10-a559-4b95-abd3-6b166d7d87f9" type="folder">36</container> 
+	 			<unittitle>Hale, Rev. Edward Everett</unittitle> 
+	 				<unitdate normal="1885">1885</unitdate>	
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="439aec7f-eb59-46b8-a677-6d8b2e8dac14" type="box">2</container> 
+	 			<container parent="439aec7f-eb59-46b8-a677-6d8b2e8dac14" type="folder">37</container> 
+	 			<unittitle>Hamilton, Capt. Thomas</unittitle> 	
+	 				<unitdate normal="1781">1781</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f1328c88-8add-4a08-98f4-9e9f884fc102" type="box">2</container> 
+	 			<container parent="f1328c88-8add-4a08-98f4-9e9f884fc102" type="folder">38</container> 
+	 			<unittitle>Hanna, Mark J.</unittitle>
+	 				<unitdate normal="1898">1898</unitdate> 	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="d9d1b173-1d18-4fcf-a250-3fbb9aa4ffcc" type="box">2</container> 
+	 			<container parent="d9d1b173-1d18-4fcf-a250-3fbb9aa4ffcc" type="folder">39</container> 
+	 			<unittitle>Harrison, Benjamin</unittitle> 
+	 				<unitdate normal="1833/1901">1833-1901</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="71d80582-3f2f-427e-beff-0880174574b0" type="box">2</container> 
+	 			<container parent="71d80582-3f2f-427e-beff-0880174574b0" type="folder">40</container> 
+	 			<unittitle>Harrison, Gabriel</unittitle> 
+	 				<unitdate normal="1878">1878</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f0f676ae-75a3-47f1-ba41-759e89024118" type="box">2</container> 
+	 			<container parent="f0f676ae-75a3-47f1-ba41-759e89024118" type="folder">41</container> 
+	 			<unittitle>Hartzell, Jonas William</unittitle> 	
+	 				<unitdate normal="1962">1962</unitdate>
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="1b9430fb-2a7e-4b97-9fc7-8ed7facfffbd" type="box">2</container> 
+	 			<container parent="1b9430fb-2a7e-4b97-9fc7-8ed7facfffbd" type="folder">42</container> 
+	 			<unittitle>Holmes, Oliver Wendell</unittitle> 
+	 				<unitdate normal="1877">1877</unitdate>	
+	 		</did> </c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="08873730-59e5-42e1-b19b-797d216cd80c" type="box">2</container> 
+	 			<container parent="08873730-59e5-42e1-b19b-797d216cd80c" type="folder">43</container> 
+	 			<unittitle>Hood, Edwin Paxton</unittitle> 
+	 				<unitdate normal="1873">1873</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="1d972556-85c8-4eb0-ae3a-896aef61d3d7" type="box">2</container> 
+	 			<container parent="1d972556-85c8-4eb0-ae3a-896aef61d3d7" type="folder">44</container> 
+	 			<unittitle>Horsley, Samuel</unittitle> 
+	 				<unitdate normal="1792">1792</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="73f17b0f-f3cd-4905-8252-7e88311a1d46" type="box">2</container> 
+	 			<container parent="73f17b0f-f3cd-4905-8252-7e88311a1d46" type="folder">45</container> 
+	 			<unittitle>Huffnagle, Michael</unittitle> 
+	 				<unitdate normal="1780">1780</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="56afeea0-ff65-49ac-866c-82cb1234a179" type="box">2</container> 
+	 			<container parent="56afeea0-ff65-49ac-866c-82cb1234a179" type="folder">46</container> 
+	 			<unittitle>Ingensoll, J.R.</unittitle> 
+	 				<unitdate normal="1839">1839</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c622e89c-a14f-43b1-9bfa-fabeb9260445" type="box">2</container> 
+	 			<container parent="c622e89c-a14f-43b1-9bfa-fabeb9260445" type="folder">47</container> 
+	 			<unittitle>Ingram, John K.</unittitle> 
+	 				<unitdate normal="1881">1881</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="84ea2e44-d430-4e4c-942a-1ada06974e30" type="box">2</container> 
+	 			<container parent="84ea2e44-d430-4e4c-942a-1ada06974e30" type="folder">48</container> 
+	 			<unittitle>Kaufman, David S.</unittitle> 	
+	 				<unitdate normal="1846">1846</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="771913bd-a0bb-4c19-9a13-88bd2840fcb3" type="box">2</container> 
+	 			<container parent="771913bd-a0bb-4c19-9a13-88bd2840fcb3" type="folder">49</container> 
+	 			<unittitle>Keteller, H.</unittitle> 
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="8e6a5af3-3061-49fd-abe0-ddae7815c19c" type="box">2</container> 
+	 			<container parent="8e6a5af3-3061-49fd-abe0-ddae7815c19c" type="folder">50</container> 
+	 			<unittitle>MacGregor, John</unittitle>
+	 				<unitdate normal="1874">1874</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f1f54d3a-6169-460e-885e-5398cd94174c" type="box">2</container> 
+	 			<container parent="f1f54d3a-6169-460e-885e-5398cd94174c" type="folder">51</container> 
+	 			<unittitle>Mallock, W.H.</unittitle>
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f1fc9ba9-bec3-4f54-b626-58adfd8b28f9" type="box">2</container> 
+	 			<container parent="f1fc9ba9-bec3-4f54-b626-58adfd8b28f9" type="folder">52</container> 
+	 			<unittitle>McGee, Rev. D.</unittitle>
+	 				<unitdate normal="1872">1872</unitdate>	
+	 		</did></c02>	
+	 	<c02 level="file"> 
+	 		<did> <container id="392e7a93-f882-48f4-a172-09dae56eeaad" type="box">2</container> 
+	 			<container parent="392e7a93-f882-48f4-a172-09dae56eeaad" type="folder">53</container> 
+	 			<unittitle>McIntosh, Col. James</unittitle>
+	 				<unitdate normal="1861">1861</unitdate>
+	 	</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="82001d52-b795-4ef5-b224-831725210bc4" type="box">2</container> 
+	 			<container parent="82001d52-b795-4ef5-b224-831725210bc4" type="folder">54</container> 
+	 			<unittitle>McKean, J.B.</unittitle>
+	 				<unitdate normal="1809">1809</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="eb1b9036-25f1-47a5-8b6b-525be711d8c1" type="box">2</container> 
+	 			<container parent="eb1b9036-25f1-47a5-8b6b-525be711d8c1" type="folder">55</container> 
+	 			<unittitle>McLennan, Malcolm</unittitle>
+	 				<unitdate normal="1872">1872</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="8b9cf4db-df3c-4b9f-ac5d-9c4c79f84e96" type="box">2</container> 
+	 			<container parent="8b9cf4db-df3c-4b9f-ac5d-9c4c79f84e96" type="folder">56</container> 
+	 			<unittitle>Miller, Hugh</unittitle>
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="7fca6d86-80e4-4f1c-b64f-9a7b2cae2d64" type="box">2</container> 
+	 			<container parent="7fca6d86-80e4-4f1c-b64f-9a7b2cae2d64" type="folder">57</container> 
+	 			<unittitle>O’Callaghan, E.B.</unittitle>
+	 				<unitdate normal="1849">1849</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f4078b4c-6a68-4d23-98a1-a8942b9d68c0" type="box">2</container> 
+	 			<container parent="f4078b4c-6a68-4d23-98a1-a8942b9d68c0" type="folder">58</container> 
+	 			<unittitle>Odillon-Barot, Camille Hyacinthe</unittitle>
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="59c2a027-85f9-420a-ac50-86412c78ab4c" type="box">2</container> 
+	 			<container parent="59c2a027-85f9-420a-ac50-86412c78ab4c" type="folder">59</container> 
+	 			<unittitle>Orlando, Francisco Xavier de</unittitle>
+	 				<unitdate normal="1799">1799</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c6f8ad21-9fca-4734-b459-43f409dfc351" type="box">2</container> 
+	 			<container parent="c6f8ad21-9fca-4734-b459-43f409dfc351" type="folder">60</container> 
+	 			<unittitle>Patterson, Robert</unittitle>
+	 				<unitdate normal="1803">1803</unitdate>
+	 		</did>	
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="3e6a5af6-f0c1-4d04-b6c4-e62935ea9b8c" type="box">2</container> 
+	 			<container parent="3e6a5af6-f0c1-4d04-b6c4-e62935ea9b8c" type="folder">61</container> 
+	 			<unittitle>Picton, James Allanson</unittitle>
+	 				<unitdate normal="1848">1848</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="4ffbefa6-c585-4ef0-8ba2-a8408d1568ad" type="box">2</container> 
+	 			<container parent="4ffbefa6-c585-4ef0-8ba2-a8408d1568ad" type="folder">62</container> 
+	 			<unittitle>Prose, Francis</unittitle>
+	 				<unitdate normal="1790">1790</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="80ceb01e-d642-40cc-9bce-55c191fc575f" type="box">2</container> 
+	 			<container parent="80ceb01e-d642-40cc-9bce-55c191fc575f" type="folder">63</container> 
+	 			<unittitle>Raleigh, Rev. Alexander</unittitle>
+	 				<unitdate normal="1872">1872</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="8762ff46-d866-4d94-b3c5-a90695850b95" type="box">2</container> 
+	 			<container parent="8762ff46-d866-4d94-b3c5-a90695850b95" type="folder">64</container> 
+	 			<unittitle>Reilly, John</unittitle>
+	 				<unitdate certainty="approximate" normal="1884">1884?</unitdate>
+	 		</did></c02>
+	 		<c02 level="file"> 
+	 			<did> <container id="4980f37a-e2ef-45f5-951f-558b776ccb1d" type="box">2</container> 
+	 				<container parent="4980f37a-e2ef-45f5-951f-558b776ccb1d" type="folder">65</container> 
+	 				<unittitle>Rigg, James H.</unittitle>
+	 					<unitdate certainty="approximate" normal="1879">1879?</unitdate>
+	 			</did></c02>
+	 			<c02 level="file"> 
+	 				<did> <container id="a7ce8b77-c3eb-43b3-bb8d-5ed78ccdef93" type="box">2</container> 
+	 					<container parent="a7ce8b77-c3eb-43b3-bb8d-5ed78ccdef93" type="folder">66</container> 
+	 					<unittitle>Robinson, E.</unittitle>
+	 						<unitdate normal="1848">1848</unitdate>
+	 				</did></c02>
+	 				<c02 level="file"> 
+	 					<did> <container id="f173a8ac-dd9d-4991-aef6-388391bd0938" type="box">2</container> 
+	 						<container parent="f173a8ac-dd9d-4991-aef6-388391bd0938" type="folder">67</container> 
+	 						<unittitle>Rogers, Henry</unittitle>
+	 							<unitdate normal="1882">1882</unitdate>
+	 					</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="866a6bd5-0db5-4a6a-afc4-18eb1fd9003a" type="box">2</container> 
+	 			<container parent="866a6bd5-0db5-4a6a-afc4-18eb1fd9003a" type="folder">68</container> 
+	 			<unittitle>Rowe, Richard</unittitle>
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="33ef7b54-cf1f-4f53-84a0-27eac54cd41c" type="box">2</container> 
+	 			<container parent="33ef7b54-cf1f-4f53-84a0-27eac54cd41c" type="folder">69</container> 
+	 			<unittitle>Ross, George</unittitle>
+	 				<unitdate certainty="approximate" normal="1895">1895?</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="417f8a58-7ff2-44e6-b8d0-2aaa54992b42" type="box">2</container> 
+	 			<container parent="417f8a58-7ff2-44e6-b8d0-2aaa54992b42" type="folder">70</container> 
+	 			<unittitle>Rylance, Rev. J.H.</unittitle>
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="ffebdf3e-8492-4d71-9b5c-d689fdce43cb" type="box">2</container> 
+	 			<container parent="ffebdf3e-8492-4d71-9b5c-d689fdce43cb" type="folder">71</container> 
+	 			<unittitle>Scott, Col. J.S.</unittitle>
+	 				<unitdate certainty="approximate" normal="1884">1884?</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="03165e1a-7c9b-4bfa-a01d-bd4a327ad9bf" type="box">2</container> 
+	 			<container parent="03165e1a-7c9b-4bfa-a01d-bd4a327ad9bf" type="folder">72</container> 
+	 			<unittitle>Scott, Thomas</unittitle>
+	 				<unitdate normal="1853">1853</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="2d1d7a8c-5cd2-47b2-9b17-b4df2d402945" type="box">2</container> 
+	 			<container parent="2d1d7a8c-5cd2-47b2-9b17-b4df2d402945" type="folder">73</container> 
+	 			<unittitle>Siguenza y Gongora, Carlos de</unittitle>
+	 				<unitdate> normal= "1690"&gt;1690</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b910a93c-bf26-4041-9c05-aa86f5cb5a4d" type="box">2</container> 
+	 			<container parent="b910a93c-bf26-4041-9c05-aa86f5cb5a4d" type="folder">74</container> 
+	 			<unittitle>Swaine, Francis</unittitle>
+	 				<unitdate normal="1780">1780</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c3d47cb2-ad7d-4c34-b1f4-14881681b255" type="box">2</container> 
+	 			<container parent="c3d47cb2-ad7d-4c34-b1f4-14881681b255" type="folder">75</container> 
+	 			<unittitle>Thomson, Rev. Andrew</unittitle>
+	 				<unitdate normal="1829">1829</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="e7ed260b-4597-416c-b5c2-e17a07cbdf13" type="box">2</container> 
+	 			<container parent="e7ed260b-4597-416c-b5c2-e17a07cbdf13" type="folder">76</container> 
+	 			<unittitle>Zincke, F.</unittitle>
+	 				<unitdate normal="1880">1880</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="a1a71565-bc79-4395-b425-2869a492a6cb" type="box">3</container> 
+	 			<container parent="a1a71565-bc79-4395-b425-2869a492a6cb" type="folder">1</container> 
+	 			<unittitle>Alger, Russell A.</unittitle>
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="53cfab92-1fea-4845-bc56-c6bda6a4103d" type="box">3</container> 
+	 			<container parent="53cfab92-1fea-4845-bc56-c6bda6a4103d" type="folder">2</container> 
+	 			<unittitle>Angelis, Jefferson de</unittitle>
+	 				<unitdate normal="1899">1899</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c3653fb8-733b-42dd-93c0-eaf779eed14a" type="box">3</container> 
+	 			<container parent="c3653fb8-733b-42dd-93c0-eaf779eed14a" type="folder">3</container> 
+	 			<unittitle>Breckingridge, J.C.</unittitle>
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="7dc5b50c-d18a-4bdd-97b9-3574eb5f08bc" type="box">3</container> 
+	 			<container parent="7dc5b50c-d18a-4bdd-97b9-3574eb5f08bc" type="folder">4</container> 
+	 			<unittitle>Cook, Capt. (U.S.S. Brooklyn)</unittitle>
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="d784d521-601e-49a2-9c41-ca7c58e18bc4" type="box">3</container> 
+	 			<container parent="d784d521-601e-49a2-9c41-ca7c58e18bc4" type="folder">5</container> 
+	 			<unittitle>Fields, Louis M.</unittitle>
+	 				<unitdate normal="1899">1899</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b8765652-44c7-4322-b3bd-5a7c1be58a04" type="box">3</container> 
+	 			<container parent="b8765652-44c7-4322-b3bd-5a7c1be58a04" type="folder">6</container> 
+	 			<unittitle>Grant, Fred D.</unittitle>
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="6c751e38-6aeb-4392-96d9-bc71c18e92ad" type="box">3</container> 
+	 			<container parent="6c751e38-6aeb-4392-96d9-bc71c18e92ad" type="folder">7</container> 
+	 			<unittitle>Hackett, James K.</unittitle>
+	 				<unitdate normal="1899">1899</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="4561f9d3-1121-4f38-b9df-27779e016895" type="box">3</container> 
+	 			<container parent="4561f9d3-1121-4f38-b9df-27779e016895" type="folder">8</container> 
+	 			<unittitle>Hay, John</unittitle>
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="24cbbbd7-1b78-41e1-b99d-8a1ae1240f33" type="box">3</container> 
+	 			<container parent="24cbbbd7-1b78-41e1-b99d-8a1ae1240f33" type="folder">9</container> 
+	 			<unittitle>Henderson, David B.</unittitle>
+	 				<unitdate normal="1899">1899</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="d2db88f4-9d00-467c-90b8-c36177c8845e" type="box">3</container> 
+	 			<container parent="d2db88f4-9d00-467c-90b8-c36177c8845e" type="folder">10</container> 
+	 			<unittitle>Herne, James A.</unittitle>
+	 				<unitdate normal="1899">1899</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="d84b7793-8be4-4ea2-a435-60556fc333bf" type="box">3</container> 
+	 			<container parent="d84b7793-8be4-4ea2-a435-60556fc333bf" type="folder">11</container> 
+	 			<unittitle>Irwin, May</unittitle>
+	 				<unitdate normal="1899">1899</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f91fe88f-3d6e-434f-966f-347f2703bed3" type="box">3</container> 
+	 			<container parent="f91fe88f-3d6e-434f-966f-347f2703bed3" type="folder">12</container> 
+	 			<unittitle>Long, John D.</unittitle>
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="eeaac20b-12cd-4023-aa7a-bac33a80bd1d" type="box">3</container> 
+	 			<container parent="eeaac20b-12cd-4023-aa7a-bac33a80bd1d" type="folder">13</container> 
+	 			<unittitle>McKinley, William</unittitle>
+	 				<unitdate normal="1897/1901">1897-1901</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="ae7f2546-385d-41ca-80b8-3d0456b65763" type="box">3</container> 
+	 			<container parent="ae7f2546-385d-41ca-80b8-3d0456b65763" type="folder">14</container> 
+	 			<unittitle>Merritt, Gen. Wesley</unittitle>
+	 				<unitdate normal="1899">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="fab3ce8f-e7ec-4997-9bea-da7043d62ec3" type="box">3</container> 
+	 			<container parent="fab3ce8f-e7ec-4997-9bea-da7043d62ec3" type="folder">15</container> 
+	 			<unittitle>Miller, Henry</unittitle>
+	 				<unitdate normal="1899">1899</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f49c6a2f-6eaa-4e66-b10b-10dc9713da88" type="box">3</container> 
+	 			<container parent="f49c6a2f-6eaa-4e66-b10b-10dc9713da88" type="folder">16</container> 
+	 			<unittitle>Miller, J.N.</unittitle>
+	 				<unitdate normal="1899">1899</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f5dbfa7e-971c-40bc-9ec1-dfeaa148b625" type="box">3</container> 
+	 			<container parent="f5dbfa7e-971c-40bc-9ec1-dfeaa148b625" type="folder">17</container> 
+	 			<unittitle>O’Bradley, William</unittitle>
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="3ca93d42-5575-45ad-8e2e-804b41b34dc1" type="box">3</container> 
+	 			<container parent="3ca93d42-5575-45ad-8e2e-804b41b34dc1" type="folder">18</container> 
+	 			<unittitle>Osborne, W.M.</unittitle>				
+	 				<unitdate normal="1896">1896</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="ea08c591-0f0a-400c-aaaf-fc5508205a32" type="box">3</container> 
+	 			<container parent="ea08c591-0f0a-400c-aaaf-fc5508205a32" type="folder">19</container> 
+	 			<unittitle>Philip, John. W. Commodore</unittitle>			
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="226c8166-1225-4634-b4ea-2b32f0396b38" type="box">3</container> 
+	 			<container parent="226c8166-1225-4634-b4ea-2b32f0396b38" type="folder">20</container> 
+	 			<unittitle>Porter, J. Addison</unittitle>	
+	 				<unitdate normal="1898">1898</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="588d2754-c996-4dd9-90c6-d86df9a1aa82" type="box">3</container> 
+	 			<container parent="588d2754-c996-4dd9-90c6-d86df9a1aa82" type="folder">21</container> 
+	 			<unittitle>Rehan, Ada</unittitle>	
+	 				<unitdate normal="1899">1899</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c0a94479-e59c-4a2c-96c8-db4114eed88b" type="box">3</container> 
+	 			<container parent="c0a94479-e59c-4a2c-96c8-db4114eed88b" type="folder">22</container> 
+	 			<unittitle>Roosevelt, Theodore</unittitle>
+	 				<unitdate normal="1898/1904">1898-1904</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="97f46013-5f9d-4e0c-944c-eaf1e64986cb" type="box">3</container> 
+	 			<container parent="97f46013-5f9d-4e0c-944c-eaf1e64986cb" type="folder">23</container> 
+	 			<unittitle>Shafter, Major-Gen. William Rufus</unittitle>
+	 				<unitdate>undated</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="34a3758c-3851-4119-8079-f685a425dcce" type="box">3</container> 
+	 			<container parent="34a3758c-3851-4119-8079-f685a425dcce" type="folder">24</container> 
+	 			<unittitle>Wheeler, Gen. Joe</unittitle>
+	 				<unitdate normal="1898">1998</unitdate>				
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="3ef22e70-bb93-495b-abf7-fd37376025cb" type="box">3</container> 
+	 			<container parent="3ef22e70-bb93-495b-abf7-fd37376025cb" type="folder">25</container> 
+	 			<unittitle>Wilson, Francis</unittitle>
+	 				<unitdate normal="1898">1998</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="59d4c234-248c-4e05-a51e-1f4f207618e7" type="box">4</container> 
+	 			<container parent="59d4c234-248c-4e05-a51e-1f4f207618e7" type="folder">1</container> 
+	 			<unittitle>Aitken, Mary Carlyle</unittitle>	
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="55390fdb-37c5-4cab-b1a3-6483514b9dea" type="box">4</container> 
+	 			<container parent="55390fdb-37c5-4cab-b1a3-6483514b9dea" type="folder">2</container> 
+	 			<unittitle>Allen, Henry</unittitle>
+	 				<unitdate normal="1848">1848</unitdate>			
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="4d2c23c6-f4c2-4bba-b8d9-79aa27d6f763" type="box">4</container> 
+	 			<container parent="4d2c23c6-f4c2-4bba-b8d9-79aa27d6f763" type="folder">3</container> 
+	 			<unittitle>Austin, Mary</unittitle>	
+	 				<unitdate normal="1919">1919</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="9404b08f-e9fc-4f7e-80bf-d2b39141ed10" type="box">4</container> 
+	 			<container parent="9404b08f-e9fc-4f7e-80bf-d2b39141ed10" type="folder">4</container> 
+	 			<unittitle>Badger, Rev. George Percy</unittitle>	
+	 				<unitdate>undated</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="fa95ce0d-6bc3-494b-8193-4b51dd800a59" type="box">4</container> 
+	 			<container parent="fa95ce0d-6bc3-494b-8193-4b51dd800a59" type="folder">5</container> 
+	 			<unittitle>Binney, Rev. Thomas E.</unittitle>
+	 				<unitdate normal="1782">1782</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b61d2c2f-7e6f-4b7c-bb18-afa653f0af9a" type="box">4</container> 
+	 			<container parent="b61d2c2f-7e6f-4b7c-bb18-afa653f0af9a" type="folder">6</container> 
+	 			<unittitle>Birks, Prof. T.R.</unittitle>
+	 				<unitdate normal="1878">1878</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="39615ab9-1f57-488f-a6b6-2d0cf045dfbf" type="box">4</container> 
+	 			<container parent="39615ab9-1f57-488f-a6b6-2d0cf045dfbf" type="folder">7</container> 
+	 			<unittitle>Blaikie, Prof. W.G.</unittitle>	
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="9977eb6d-d5dc-4a9a-81da-c93fd0fa8a95" type="box">4</container> 
+	 			<container parent="9977eb6d-d5dc-4a9a-81da-c93fd0fa8a95" type="folder">8</container> 
+	 			<unittitle>Blair, Robert</unittitle>	
+	 				<unitdate normal="1792">1792</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="7bb70ec5-f585-40a1-b2fe-234144327625" type="box">4</container> 
+	 			<container parent="7bb70ec5-f585-40a1-b2fe-234144327625" type="folder">9</container> 
+	 			<unittitle>Brooks, Erastus</unittitle>
+	 				<unitdate normal="1855">1855</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="d65646af-ceed-4db7-a43a-7884bd70e1cc" type="box">4</container> 
+	 			<container parent="d65646af-ceed-4db7-a43a-7884bd70e1cc" type="folder">10</container> 
+	 			<unittitle>Brown, Rev. Hugh S.</unittitle>	
+	 				<unitdate>undated</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="86e24cbd-1890-4567-b5b2-1a76058029fa" type="box">4</container> 
+	 			<container parent="86e24cbd-1890-4567-b5b2-1a76058029fa" type="folder">11</container> 
+	 			<unittitle>Brown, J. Baldwin</unittitle>	
+	 				<unitdate>undated</unitdate>			
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="d683ce2a-448d-4f1b-af66-73940b986e98" type="box">4</container> 
+	 			<container parent="d683ce2a-448d-4f1b-af66-73940b986e98" type="folder">12</container> 
+	 			<unittitle> Butler, Josephine E.</unittitle>				
+	 				<unitdate>undated</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="97825a15-dcee-4195-8404-5a927eba1bee" type="box">4</container> 
+	 			<container parent="97825a15-dcee-4195-8404-5a927eba1bee" type="folder">13</container> 
+	 			<unittitle>Butler, S.</unittitle>			
+	 				<unitdate normal="1877">1877</unitdate>			
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="5657420c-2f03-41a0-83c0-9d5569039606" type="box">4</container> 
+	 			<container parent="5657420c-2f03-41a0-83c0-9d5569039606" type="folder">14</container> 
+	 			<unittitle>	Butt, Isaac</unittitle>	
+	 				<unitdate>undated</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b5deec77-5f60-4400-8c35-f07e5e3fcdd9" type="box">4</container> 
+	 			<container parent="b5deec77-5f60-4400-8c35-f07e5e3fcdd9" type="folder">15</container> 
+	 			<unittitle>Carr, J.C.</unittitle>				
+	 				<unitdate>undated</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="0d7fa522-8409-4508-9403-445a9667008b" type="box">4</container> 
+	 			<container parent="0d7fa522-8409-4508-9403-445a9667008b" type="folder">16</container> 
+	 			<unittitle>	Edward, J.H. (accompanied with photograph of Secretary Shaw signing 40 million warrant for Panama Canal Purchase</unittitle>		
+	 				<unitdate>undated</unitdate>				
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="4eea45ea-9176-4e40-b759-6a76a66cec2c" type="box">4</container> 
+	 			<container parent="4eea45ea-9176-4e40-b759-6a76a66cec2c" type="folder">17</container> 
+	 			<unittitle>Escott, Thomas Hay Sweet	</unittitle>
+	 				<unitdate normal="1870">1870</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="fe856f86-48cd-4aec-b8db-40b281f2fc62" type="box">4</container> 
+	 			<container parent="fe856f86-48cd-4aec-b8db-40b281f2fc62" type="folder">18</container> 
+	 			<unittitle>Fairbairn, Andrew Martin</unittitle>
+	 				<unitdate normal="1872">1872</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="cf00495e-697c-4cbd-a34c-5ea9ca18ab57" type="box">4</container> 
+	 			<container parent="cf00495e-697c-4cbd-a34c-5ea9ca18ab57" type="folder">19</container> 
+	 			<unittitle>French (?), Jared B.</unittitle>
+	 				<unitdate>undated</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="2634e44d-6c49-4f53-9223-925a913e943b" type="box">4</container> 
+	 			<container parent="2634e44d-6c49-4f53-9223-925a913e943b" type="folder">20</container> 
+	 			<unittitle>French, Bishop R.C.</unittitle>
+	 				<unitdate normal="1862">1862</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="cf8ea2d2-390d-45a2-aab6-c3c7d6763df9" type="box">4</container> 
+	 			<container parent="cf8ea2d2-390d-45a2-aab6-c3c7d6763df9" type="folder">21</container> 
+	 			<unittitle>Gilder, Richard Watson</unittitle>
+	 				<unitdate normal="1871">1871</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="7452c214-bdbd-42ac-b5ef-a0e7e92cdd9f" type="box">4</container> 
+	 			<container parent="7452c214-bdbd-42ac-b5ef-a0e7e92cdd9f" type="folder">22</container> 
+	 			<unittitle>Howden, Lord</unittitle>	
+	 				<unitdate normal="1865">1865</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="8d39cbb9-b426-4267-8efc-14f94efcb2ac" type="box">4</container> 
+	 			<container parent="8d39cbb9-b426-4267-8efc-14f94efcb2ac" type="folder">23</container> 
+	 			<unittitle>Kettell, Thomas P.</unittitle>
+	 				<unitdate normal="1854">1854</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="14ba497c-9abe-44da-a4ba-71e9880c5bbc" type="box">4</container> 
+	 			<container parent="14ba497c-9abe-44da-a4ba-71e9880c5bbc" type="folder">24</container> 
+	 			<unittitle>Macleod, Henry Dunning</unittitle>
+	 				<unitdate normal="1875">1875</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="65b77c79-3b25-4044-b6e5-729f5dfdc718" type="box">4</container> 
+	 			<container parent="65b77c79-3b25-4044-b6e5-729f5dfdc718" type="folder">25</container> 
+	 			<unittitle>McCreddy (prompter’s call for the play of Rob Roy)</unittitle>		
+	 				<unitdate>undated</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="dc4b0854-e551-4fb2-af26-16c4ed68ddeb" type="box">4</container> 
+	 			<container parent="dc4b0854-e551-4fb2-af26-16c4ed68ddeb" type="folder">26</container> 
+	 			<unittitle>Morrison, Sir Richard</unittitle>	
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="07abad4a-e2ca-4b3f-921a-59cd4147dff8" type="box">4</container> 
+	 			<container parent="07abad4a-e2ca-4b3f-921a-59cd4147dff8" type="folder">27</container> 
+	 			<unittitle>Nicol, Erskine</unittitle>
+	 				<unitdate normal="1854">1854</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f869be59-e80f-455f-9294-d7f45318c1b1" type="box">4</container> 
+	 			<container parent="f869be59-e80f-455f-9294-d7f45318c1b1" type="folder">28</container> 
+	 			<unittitle>Patterson, R.H.</unittitle>
+	 				<unitdate normal="1879">1879</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="d2b382b7-5f3e-4903-8baa-67589266a2fe" type="box">4</container> 
+	 			<container parent="d2b382b7-5f3e-4903-8baa-67589266a2fe" type="folder">29</container> 
+	 			<unittitle>Pennington, Capt. E.</unittitle>
+	 				<unitdate normal="1790">1790</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="53be934f-6b98-45db-bc5e-2b62eae358dd" type="box">4</container> 
+	 			<container parent="53be934f-6b98-45db-bc5e-2b62eae358dd" type="folder">30</container> 
+	 			<unittitle>Rae, John</unittitle>	
+	 				<unitdate normal="1880">1880</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="31e470ae-3cee-45c8-a135-4f9bce6ef6b1" type="box">4</container> 
+	 			<container parent="31e470ae-3cee-45c8-a135-4f9bce6ef6b1" type="folder">31</container> 
+	 			<unittitle>Simcox, Edith</unittitle>	
+	 				<unitdate normal="1871">1871</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="a4ad0992-3a9e-47a4-9cd7-32b2a77bd440" type="box">4</container> 
+	 			<container parent="a4ad0992-3a9e-47a4-9cd7-32b2a77bd440" type="folder">32</container> 
+	 			<unittitle>Thomas, Dylan</unittitle>	
+	 				<unitdate>undated</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="03e5d835-f2a9-40b2-98a6-26f091566c1a" type="box">4</container> 
+	 			<container parent="03e5d835-f2a9-40b2-98a6-26f091566c1a" type="folder">33</container> 
+	 			<unittitle>Thorold, Bishop Anthony</unittitle>
+	 				<unitdate normal="1872">1872</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="cfdcad74-6d10-4bd6-98e7-d5a42f329765" type="box">4</container> 
+	 			<container parent="cfdcad74-6d10-4bd6-98e7-d5a42f329765" type="folder">34</container> 
+	 			<unittitle>Wardlaw, Dr. Ralph</unittitle>	
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="61a2edc9-1c73-4cb4-98d1-9e0e0256a931" type="box">4</container> 
+	 			<container parent="61a2edc9-1c73-4cb4-98d1-9e0e0256a931" type="folder">35</container> 
+	 			<unittitle>Waterford, M.</unittitle>	
+	 				<unitdate normal="1845">1845</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="0b796109-402a-4e0e-85a2-358d35d5f56d" type="box">5</container> 
+	 			<container parent="0b796109-402a-4e0e-85a2-358d35d5f56d" type="folder">1</container> 
+	 			<unittitle>Alcock, Sir Rutherford</unittitle>	
+	 				<unitdate> normal= "1880"&gt;1880</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="94b3ab2b-4048-4259-8973-daff33c5a501" type="box">5</container> 
+	 			<container parent="94b3ab2b-4048-4259-8973-daff33c5a501" type="folder">2</container> 
+	 			<unittitle>Arnoldy, J.A.</unittitle>
+	 				<unitdate normal="1912">1912</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="60d23209-25a6-436a-a868-1b208a9c799e" type="box">5</container> 
+	 			<container parent="60d23209-25a6-436a-a868-1b208a9c799e" type="folder">3</container> 
+	 			<unittitle>Ash, Simon</unittitle>
+	 				<unitdate normal="1902">1902</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="8789078e-a686-4c7a-8a55-8c33e2d4a71a" type="box">5</container> 
+	 			<container parent="8789078e-a686-4c7a-8a55-8c33e2d4a71a" type="folder">4</container> 
+	 			<unittitle>Actors and Actresses including: Barrett, Laurence; Bel Goddes, Norman; Bernhardt, Sarah; Booth, Edwin; Cushman, Charlotte; Sothern, Julia; Terry, Ellen</unittitle>	
+	 				<unitdate normal="1857/1932">1857-1932</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="744d6090-ab72-402b-86ef-0de92ab38c5b" type="box">5</container> 
+	 			<container parent="744d6090-ab72-402b-86ef-0de92ab38c5b" type="folder">5</container> 
+	 			<unittitle>Boyd, A.K.H</unittitle>	
+	 				<unitdate normal="undated">undated</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="8d40eb5c-079f-4001-a24f-827c61df0666" type="box">5</container> 
+	 			<container parent="8d40eb5c-079f-4001-a24f-827c61df0666" type="folder">6</container> 
+	 			<unittitle>Britton, John</unittitle>
+	 				<unitdate normal="1824">1824</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="afd1ef1a-23f7-4abb-9c9d-d5b5088edaa4" type="box">5</container> 
+	 			<container parent="afd1ef1a-23f7-4abb-9c9d-d5b5088edaa4" type="folder">7</container> 
+	 			<unittitle>Chadwick, Capt. F.E.</unittitle>	
+	 				<unitdate normal="1901">1901</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="995e5123-a69a-4139-88da-c0a4d383a237" type="box">5</container> 
+	 			<container parent="995e5123-a69a-4139-88da-c0a4d383a237" type="folder">8</container> 
+	 			<unittitle>Clark, J.A.</unittitle>
+	 				<unitdate normal="1903">1903</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="0a7b1dec-f5ee-4400-991f-e8c7c1f6fe37" type="box">5</container> 
+	 			<container parent="0a7b1dec-f5ee-4400-991f-e8c7c1f6fe37" type="folder">9</container> 
+	 			<unittitle>Cleveland, Grover (see also Portrait Engravings)</unittitle>
+	 				<unitdate normal="1894">1894</unitdate>
+	 			</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="4920ada7-678e-4755-bd65-3c1b8af5e41a" type="box">5</container> 
+	 			<container parent="4920ada7-678e-4755-bd65-3c1b8af5e41a" type="folder">10</container> 
+	 			<unittitle>Cotton, Ad. Charles S.</unittitle>
+	 				<unitdate normal="1901">1901</unitdate>
+	 			</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="7c20883b-6f0d-45f1-b315-c34407f8c4c1" type="box">5</container> 
+	 			<container parent="7c20883b-6f0d-45f1-b315-c34407f8c4c1" type="folder">11</container> 
+	 			<unittitle>Davis, Maj. Gen. W.</unittitle>
+	 				<unitdate normal="1904">1904</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="857632a0-af37-403d-8e65-f0e15c61c5d0" type="box">5</container> 
+	 			<container parent="857632a0-af37-403d-8e65-f0e15c61c5d0" type="folder">12</container> 
+	 			<unittitle>Dorsey, H.W.</unittitle>	
+	 				<unitdate normal="1909">1909</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="d5d7168e-f6bf-4315-8042-e61995abbd82" type="box">5</container> 
+	 			<container parent="d5d7168e-f6bf-4315-8042-e61995abbd82" type="folder">13</container> 
+	 			<unittitle>Evans, Capt. John</unittitle>
+	 				<unitdate normal="1796">1796</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="94ec0829-a037-410b-be9e-0352e268ec79" type="box">5</container> 
+	 			<container parent="94ec0829-a037-410b-be9e-0352e268ec79" type="folder">14</container> 
+	 			<unittitle>Foelker, Otto G.</unittitle>
+	 				<unitdate normal="1910">1910</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="fefaeb12-339e-4ab0-8ee8-71647dd4f13b" type="box">5</container> 
+	 			<container parent="fefaeb12-339e-4ab0-8ee8-71647dd4f13b" type="folder">15</container> 
+	 			<unittitle>Folger, Capt. William M.</unittitle>	
+	 				<unitdate normal="1901">1901</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="bf7a6b81-5183-4dbd-807f-49d36c14429c" type="box">5</container> 
+	 			<container parent="bf7a6b81-5183-4dbd-807f-49d36c14429c" type="folder">16</container> 
+	 			<unittitle>Fuller, Robert H.</unittitle>
+	 				<unitdate normal="1908">1908</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="45616f06-d404-4a44-9c38-0218dd7c7adc" type="box">5</container> 
+	 			<container parent="45616f06-d404-4a44-9c38-0218dd7c7adc" type="folder">17</container> 
+	 			<unittitle>Garvin, Lucius F.C.</unittitle>
+	 				<unitdate normal="1904">1904</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="bfeb840c-b805-4eb1-8a9e-15fff2225925" type="box">5</container> 
+	 			<container parent="bfeb840c-b805-4eb1-8a9e-15fff2225925" type="folder">18</container> 
+	 			<unittitle>Goff, John W.</unittitle>
+	 				<unitdate normal="1900">1900</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="e3fc52ed-a3e0-47a3-abd0-713bdbca35ec" type="box">5</container> 
+	 			<container parent="e3fc52ed-a3e0-47a3-abd0-713bdbca35ec" type="folder">19</container> 
+	 			<unittitle>Greeley, Gen. A.W.</unittitle>
+	 				<unitdate normal="1901">1901</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="1504e080-57e0-4a61-beee-6e10835e1784" type="box">5</container> 
+	 			<container parent="1504e080-57e0-4a61-beee-6e10835e1784" type="folder">20</container> 
+	 			<unittitle>Handy, R.B.</unittitle>
+	 				<unitdate normal="1901">1901</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c467cfa4-5bf7-4adf-918c-26d0565a361c" type="box">5</container> 
+	 			<container parent="c467cfa4-5bf7-4adf-918c-26d0565a361c" type="folder">21</container> 
+	 			<unittitle>Higginson, Rear Ad. Frances J.</unittitle>
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="6610a554-44b8-4ba5-845a-59aa01fa82db" type="box">5</container> 
+	 			<container parent="6610a554-44b8-4ba5-845a-59aa01fa82db" type="folder">22</container> 
+	 			<unittitle>Hill, G.W.</unittitle> 
+	 				<unitdate normal="1900/1901">1900-1901</unitdate>			
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="e227e591-faa6-467d-8313-22a9cc938a8a" type="box">5</container> 
+	 			<container parent="e227e591-faa6-467d-8313-22a9cc938a8a" type="folder">23</container> 
+	 			<unittitle>Hitchcock, E.A.</unittitle> 	
+	 				<unitdate normal="1900">1900</unitdate>	 			
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f80f2412-2765-4645-abd1-65a07c112cca" type="box">5</container> 
+	 			<container parent="f80f2412-2765-4645-abd1-65a07c112cca" type="folder">24</container> 
+	 			<unittitle>Hobson, Lt. Richmond Pearson</unittitle> 
+	 				<unitdate normal="1900">1900</unitdate>
+	 		</did></c02>
+	 			<c02 level="file"> 
+	 				<did> <container id="7623e704-a2ee-449c-80e3-383c816468ed" type="box">5</container> 
+	 					<container parent="7623e704-a2ee-449c-80e3-383c816468ed" type="folder">25</container> 
+	 					<unittitle>Hodge, F.W.</unittitle> 
+	 						<unitdate normal="1901">1901</unitdate>	
+	 			</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f9269923-0d48-4cea-bc2f-bb3f905b6aa3" type="box">5</container> 
+	 			<container parent="f9269923-0d48-4cea-bc2f-bb3f905b6aa3" type="folder">26</container> 
+	 			<unittitle>Irving, Henry</unittitle> 
+	 				<unitdate normal="1900/1903">1900-1903</unitdate>
+	 		</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f2bbef69-dd43-4315-b79f-0a4058d311a8" type="box">5</container> 
+	 			<container parent="f2bbef69-dd43-4315-b79f-0a4058d311a8" type="folder">27</container> 
+	 			<unittitle>La Follette, Robert M.</unittitle> 
+	 				<unitdate normal="1907">1907</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file"> 
+	 		<did> <container id="92646eb1-e154-44fb-8a7e-73b1e5a83640" type="box">5</container> 
+	 			<container parent="92646eb1-e154-44fb-8a7e-73b1e5a83640" type="folder">28</container> 
+	 			<unittitle>Langley, L.P.</unittitle>
+	 				<unitdate normal="1901">1901</unitdate> 
+	 		</did></c02>		
+	 	<c02 level="file"> 
+	 		<did> <container id="0075d4d3-cce2-42e9-8c23-56133c09c079" type="box">5</container> 
+	 			<container parent="0075d4d3-cce2-42e9-8c23-56133c09c079" type="folder">29</container> 
+	 			<unittitle>Leutze, Admiral</unittitle> 
+	 				<unitdate normal="1912">1912</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file"> 
+	 		<did> <container id="27da1133-4ce8-4093-87c2-630bfa5f93cf" type="box">5</container> 
+	 			<container parent="27da1133-4ce8-4093-87c2-630bfa5f93cf" type="folder">30</container> 
+	 			<unittitle>Mack, Andrew</unittitle> 
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file"> 
+	 		<did> <container id="16fef47f-77b3-4956-b0c9-b6f32b0c3b3c" type="box">5</container> 
+	 			<container parent="16fef47f-77b3-4956-b0c9-b6f32b0c3b3c" type="folder">31</container> 
+	 			<unittitle>Mahan, Capt. Alfred T.</unittitle>
+	 				<unitdate normal="1900">1900</unitdate> 
+	 		</did></c02>	
+	 	<c02 level="file"> 
+	 		<did> <container id="bf0fc3a0-5605-4d5f-b4c1-adc84b8ae84e" type="box">5</container> 
+	 			<container parent="bf0fc3a0-5605-4d5f-b4c1-adc84b8ae84e" type="folder">32</container> 
+	 			<unittitle>McCalla, Capt. Bowman H.</unittitle> 
+	 				<unitdate normal="1901">1901</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 	<did> <container id="b0c44d7b-ebba-41af-b8b0-e07e79fa40f4" type="box">5</container> 
+	 		<container parent="b0c44d7b-ebba-41af-b8b0-e07e79fa40f4" type="folder">33</container> 
+	 		<unittitle>McClure, Col. A.K.</unittitle> 
+	 			<unitdate normal="1901">1901</unitdate>
+	 	</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="278b2cee-b911-47cf-9d06-78cd99fea04a" type="box">5</container> 
+	 			<container parent="278b2cee-b911-47cf-9d06-78cd99fea04a" type="folder">34</container> 
+	 			<unittitle>Melba, Kellie</unittitle> 
+	 				<unitdate normal="1903">1903</unitdate>
+	 		</did></c02>
+	 		<c02 level="file">
+	 		<did> <container id="a0375c4c-dcfb-4f03-b72d-252193c10b4c" type="box">5</container> 
+	 			<container parent="a0375c4c-dcfb-4f03-b72d-252193c10b4c" type="folder">35</container> 
+	 			<unittitle>Miles, Nelson A.</unittitle> 
+	 				<unitdate normal="1898/1900">1898-1900</unitdate>
+	 		</did></c02>	
+	 		<c02 level="file">
+	 		<did> <container id="f9f9d4c4-4c54-46d7-ad58-f14262ef67ef" type="box">5</container> 
+	 			<container parent="f9f9d4c4-4c54-46d7-ad58-f14262ef67ef" type="folder">36</container> 
+	 			<unittitle>Morgan, Sen. John T.</unittitle> 
+	 				<unitdate normal="1900">1900</unitdate>
+	 		</did></c02>	
+	 		<c02 level="file">
+	 		<did> <container id="5382b4ad-5d86-40b1-8e4a-96ad64ce21a4" type="box">5</container> 
+	 			<container parent="5382b4ad-5d86-40b1-8e4a-96ad64ce21a4" type="folder">37</container> 
+	 			<unittitle>Morris, J.J.</unittitle> 
+	 				<unitdate normal="1904">1904</unitdate>
+	 		</did></c02>
+	 		<c02 level="file">
+	 	<did> <container id="17d97eaa-408a-4feb-8352-5b3cd611fab7" type="box">5</container> 
+	 		<container parent="17d97eaa-408a-4feb-8352-5b3cd611fab7" type="folder">38</container> 
+	 		<unittitle>Morton, Paul</unittitle> 
+	 			<unitdate normal="1904">1904</unitdate>
+	 	</did></c02>	
+	 		<c02 level="file">
+	 		<did> <container id="f3c4c0e1-c128-4f1b-b83b-5c4ba25e90e3" type="box">5</container> 
+	 			<container parent="f3c4c0e1-c128-4f1b-b83b-5c4ba25e90e3" type="folder">39</container> 
+	 			<unittitle>Norton, Charles Eliot</unittitle> 
+	 				<unitdate normal="1904">1904</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="3589ed44-ae83-4aec-b6e3-d5b0c8e5b992" type="box">5</container> 
+	 			<container parent="3589ed44-ae83-4aec-b6e3-d5b0c8e5b992" type="folder">40</container> 
+	 			<unittitle>Palmer, W.J.</unittitle> 
+	 				<unitdate normal="1904">1904</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="1784a409-ea0d-4014-bcef-6000e87f8886" type="box">5</container> 
+	 			<container parent="1784a409-ea0d-4014-bcef-6000e87f8886" type="folder">41</container> 
+	 			<unittitle>Pennypacker, Sam W. Gov.</unittitle> 
+	 				<unitdate normal="1905">&gt;1905</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="2acea7eb-da4f-4bbd-90f5-8bc2efdb1ec5" type="box">5</container> 
+	 			<container parent="2acea7eb-da4f-4bbd-90f5-8bc2efdb1ec5" type="folder">42</container> 
+	 			<unittitle>Ralston, W.R.</unittitle> 
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="711b6528-bccb-4803-a661-afef28aa5641" type="box">5</container> 
+	 			<container parent="711b6528-bccb-4803-a661-afef28aa5641" type="folder">43</container> 
+	 			<unittitle>Ravenel, William de C.</unittitle> 
+	 				<unitdate normal="1910">1910</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="b2c8873b-5075-420e-bd5a-a37ab3e2c0f9" type="box">5</container> 
+	 			<container parent="b2c8873b-5075-420e-bd5a-a37ab3e2c0f9" type="folder">44</container> 
+	 			<unittitle>Root, Elihu</unittitle> 
+	 				<unitdate normal="1900/1911">1900-1911</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="b54e9ada-9141-4b4f-b1ec-bf211af5cdb1" type="box">5</container> 
+	 			<container parent="b54e9ada-9141-4b4f-b1ec-bf211af5cdb1" type="folder">45</container> 
+	 			<unittitle>Sanderson, Percy</unittitle> 
+	 				<unitdate normal="1904">1904</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="3d53287d-89e9-472a-88c2-4417234b6118" type="box">5</container> 
+	 			<container parent="3d53287d-89e9-472a-88c2-4417234b6118" type="folder">46</container> 
+	 			<unittitle>Saunders, William</unittitle> 
+	 				<unitdate normal="1900">1900</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="5f90a75c-f7d4-4c32-8c11-4415255c3dbd" type="box">5</container> 
+	 			<container parent="5f90a75c-f7d4-4c32-8c11-4415255c3dbd" type="folder">47</container> 
+	 			<unittitle>Schley, Rear Ad. Winfield Scott</unittitle> 
+	 				<unitdate normal="1901">1901</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="82258828-4411-4ba7-9189-82df8eb7f335" type="box">5</container> 
+	 			<container parent="82258828-4411-4ba7-9189-82df8eb7f335" type="folder">48</container> 
+	 			<unittitle>Schoulder, James</unittitle> 
+	 				<unitdate normal="1901">1901</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="0923e340-8d42-4b92-9962-5f1b9f14c302" type="box">5</container> 
+	 			<container parent="0923e340-8d42-4b92-9962-5f1b9f14c302" type="folder">49</container> 
+	 			<unittitle>Taft, William H.</unittitle> 
+	 				<unitdate normal="1909/1912">1909-1912</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="ce4de4ba-1e42-44c0-a0a8-4fd54fdf8f10" type="box">5</container> 
+	 			<container parent="ce4de4ba-1e42-44c0-a0a8-4fd54fdf8f10" type="folder">50</container> 
+	 			<unittitle>Thackeray, William.</unittitle>
+	 				<unitdate>undated</unitdate> 
+	 		</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="3383d3c7-d81b-4994-887a-3a9caf9c1088" type="box">5</container> 
+	 			<container parent="3383d3c7-d81b-4994-887a-3a9caf9c1088" type="folder">51</container> 
+	 			<unittitle>Thornbury, Walter</unittitle> 
+	 				<unitdate normal="1871">1871</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="bba84a9c-2b42-4d5b-9c33-80bdf7c94b52" type="box">5</container> 
+	 			<container parent="bba84a9c-2b42-4d5b-9c33-80bdf7c94b52" type="folder">52</container> 
+	 			<unittitle>Twain, Mark</unittitle> 
+	 				<unitdate normal="1901">1901</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="fce91aa7-cc09-48cd-9bab-0e204e968c6e" type="box">5</container> 
+	 			<container parent="fce91aa7-cc09-48cd-9bab-0e204e968c6e" type="folder">53</container> 
+	 			<unittitle>Warner, Anne</unittitle> 
+	 				<unitdate normal="1904">1904</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="f7da6a03-2449-46a1-906b-1b84f6dff750" type="box">5</container> 
+	 			<container parent="f7da6a03-2449-46a1-906b-1b84f6dff750" type="folder">54</container> 
+	 			<unittitle>Whipple, James S.</unittitle> 
+	 				<unitdate normal="1908">1908</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="8ce1477c-79ed-4c68-9a8d-a1225ececcd8" type="box">5</container> 
+	 			<container parent="8ce1477c-79ed-4c68-9a8d-a1225ececcd8" type="folder">55</container> 
+	 			<unittitle>Wildes, Capt. Frank</unittitle> 
+	 				<unitdate normal="1901">1901</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="7961db25-2693-4589-b058-0351bdb7eadc" type="box">5</container> 
+	 			<container parent="7961db25-2693-4589-b058-0351bdb7eadc" type="folder">56</container> 
+	 			<unittitle>Wilson, Woodrow</unittitle> 
+	 			<unitdate normal="1912-1914">1912-1914</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="61b1f615-3072-4216-89fc-502863b07765" type="box">5</container> 
+	 			<container parent="61b1f615-3072-4216-89fc-502863b07765" type="folder">57</container> 
+	 			<unittitle>Wise, Capt. W.C.</unittitle> 
+	 				<unitdate normal="1901">1901</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="1025baad-ea65-47db-ba8d-a354e100fd7c" type="box">5</container> 
+	 			<container parent="1025baad-ea65-47db-ba8d-a354e100fd7c" type="folder">58</container> 
+	 			<unittitle>Woodruff, Timothy L.</unittitle> 
+	 				<unitdate normal="1906">1906</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="79959e6e-a39c-43dd-934e-7a5712c229ac" type="box">5</container> 
+	 			<container parent="79959e6e-a39c-43dd-934e-7a5712c229ac" type="folder">59</container> 
+	 			<unittitle>Youngs, William J.</unittitle> 
+	 				<unitdate normal="1896/1900">1896-1900</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="6fb7ad90-53f0-46cb-9ae7-ec9392a5bad2" type="box">6</container> 
+	 			<container parent="6fb7ad90-53f0-46cb-9ae7-ec9392a5bad2" type="folder">1</container> 
+	 			<unittitle>Abeles, Sigmund (w/ original etching)</unittitle> 
+	 				<unitdate normal="1903">1903</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="8ed53e64-7d9a-47eb-962e-77041f6fbd8f" type="box">6</container> 
+	 			<container parent="8ed53e64-7d9a-47eb-962e-77041f6fbd8f" type="folder">2</container> 
+	 			<unittitle>Allen, Gov. C.H.</unittitle> 
+	 				<unitdate normal="1900">1900</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="a45cccc0-9579-4ace-b917-d0b811f7c42f" type="box">6</container> 
+	 			<container parent="a45cccc0-9579-4ace-b917-d0b811f7c42f" type="folder">3</container> 
+	 			<unittitle>Andrews, Ad. Philip</unittitle>
+	 				<unitdate normal="1912">1912</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="ab8a625d-d5d4-4ecb-9774-7623e864bbee" type="box">6</container> 
+	 			<container parent="ab8a625d-d5d4-4ecb-9774-7623e864bbee" type="folder">4</container> 
+	 			<unittitle>Baker, Will J. (see Baker and Weitzel)</unittitle>
+	 				<unitdate normal="1878">1878</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="9cfcffa0-5967-4db0-88b0-2ed5d6bda6d0" type="box">6</container> 
+	 			<container parent="9cfcffa0-5967-4db0-88b0-2ed5d6bda6d0" type="folder">5</container> 
+	 			<unittitle>Barry, Dr. (archbishop of Australia)</unittitle> 
+	 				<unitdate normal="1876">1876</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="17b45a0e-dd0e-4a8d-b35f-323d1548ebf9" type="box">6</container> 
+	 			<container parent="17b45a0e-dd0e-4a8d-b35f-323d1548ebf9" type="folder">6</container> 
+	 			<unittitle>Bernard, Sam (w/ photograph)</unittitle> 
+	 				<unitdate certainty="approximate" normal="1905">1905?</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="7fa2dcff-5b39-46f7-99f8-55d76c788c97" type="box">6</container> 
+	 			<container parent="7fa2dcff-5b39-46f7-99f8-55d76c788c97" type="folder">7</container> 
+	 			<unittitle>Bowman, Bishop Thomas</unittitle> 
+	 				<unitdate normal="1903">1903</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="8dcef306-b20b-43d7-a4ea-06a5631f4098" type="box">6</container> 
+	 			<container parent="8dcef306-b20b-43d7-a4ea-06a5631f4098" type="folder">8</container> 
+	 			<unittitle>Bradley, Thomas J. </unittitle> 
+	 				<unitdate normal="1897">1897</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="eceb7e5a-d9f3-4882-8cf7-e662272f2322" type="box">6</container> 
+	 			<container parent="eceb7e5a-d9f3-4882-8cf7-e662272f2322" type="folder">9</container> 
+	 			<unittitle>Brooks, Maj. John R.</unittitle> 
+	 				<unitdate normal="1900">1900</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="67977ed8-860c-421e-a928-a6f11839e6f8" type="box">6</container> 
+	 			<container parent="67977ed8-860c-421e-a928-a6f11839e6f8" type="folder">10</container> 
+	 			<unittitle>Brown, Abbie Farwell</unittitle> 
+	 				<unitdate normal="1904">1904</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="49054726-dcb5-48bb-9b22-395164192c5d" type="box">6</container> 
+	 			<container parent="49054726-dcb5-48bb-9b22-395164192c5d" type="folder">11</container> 
+	 			<unittitle>Burnham, Clara Louise</unittitle> 
+	 				<unitdate normal="1904">1904</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="ef1457b6-27f2-4ed5-846d-35ec3b7114ab" type="box">6</container> 
+	 			<container parent="ef1457b6-27f2-4ed5-846d-35ec3b7114ab" type="folder">12</container> 
+	 			<unittitle>Burroughs, John </unittitle> 
+	 				<unitdate normal="1913">1913</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="63ddffa1-efa9-4750-910e-2781d00ed584" type="box">6</container> 
+	 			<container parent="63ddffa1-efa9-4750-910e-2781d00ed584" type="folder">13</container> 
+	 			<unittitle>Cabell, James Branch</unittitle> 
+	 				<unitdate normal="1927">1927</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="07deb1d1-2b0e-432d-bf9e-1108db60adea" type="box">6</container> 
+	 			<container parent="07deb1d1-2b0e-432d-bf9e-1108db60adea" type="folder">14</container> 
+	 			<unittitle>Calder, William M.</unittitle> 
+	 				<unitdate normal="1911">1911</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="a3c23d62-28b4-4040-a369-eacc8c7fc9ef" type="box">6</container> 
+	 			<container parent="a3c23d62-28b4-4040-a369-eacc8c7fc9ef" type="folder">15</container> 
+	 			<unittitle>Carter, Leslie</unittitle> 
+	 				<unitdate certainty="approximate" normal="1898">1898?</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="6a46d000-4d2d-4ef7-a9b2-3c1be8de5d5b" type="box">6</container> 
+	 			<container parent="6a46d000-4d2d-4ef7-a9b2-3c1be8de5d5b" type="folder">16</container> 
+	 			<unittitle>Carter, Maj. Gen. W.M.</unittitle>
+	 				<unitdate normal="1912">1912</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="707b324f-7b82-4347-b55f-8e30033a0a4c" type="box">6</container> 
+	 			<container parent="707b324f-7b82-4347-b55f-8e30033a0a4c" type="folder">17</container> 
+	 			<unittitle>Cheney, J.W. (librarian of War Dept.)</unittitle> 
+	 				<unitdate normal="1905">1905</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="661a3452-aebf-43b3-8326-9800daa39e6c" type="box">6</container> 
+	 			<container parent="661a3452-aebf-43b3-8326-9800daa39e6c" type="folder">18</container> 
+	 			<unittitle>Clark, Prof. John B.</unittitle> 
+	 				<unitdate normal="1903">1903</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="49244bd0-c6c6-4724-80a8-a87095c2d9e5" type="box">6</container> 
+	 			<container parent="49244bd0-c6c6-4724-80a8-a87095c2d9e5" type="folder">19</container> 
+	 			<unittitle>Coghlan, Capt. J.B.</unittitle> 
+	 				<unitdate normal="1899">1899</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="4e04286b-03ed-47da-86e0-5e3313c73c4d" type="box">6</container> 
+	 			<container parent="4e04286b-03ed-47da-86e0-5e3313c73c4d" type="folder">20</container> 
+	 			<unittitle>Davis, H. Admiral.</unittitle> 
+	 				<unitdate normal="1905">1905</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="51a5b7d0-bbd7-42a0-bcca-b1d41a04e23b" type="box">6</container> 
+	 			<container parent="51a5b7d0-bbd7-42a0-bcca-b1d41a04e23b" type="folder">21</container> 
+	 			<unittitle>Davis, H.G.</unittitle> 
+	 				<unitdate normal="1904">1904</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="a6af9014-d91c-44a5-a902-8fcf630cc072" type="box">6</container> 
+	 			<container parent="a6af9014-d91c-44a5-a902-8fcf630cc072" type="folder">22</container> 
+	 			<unittitle>Day, William R.</unittitle> 
+	 				<unitdate normal="1898" type="inclusive">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="344dd423-5899-41c5-bfa3-743f242194d3" type="box">6</container> 
+	 			<container parent="344dd423-5899-41c5-bfa3-743f242194d3" type="folder">23</container> 
+	 			<unittitle>Depew, Chauncey M.</unittitle> 
+	 				<unitdate normal="1899/1903">1899-1903</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="fc8d4216-5f7a-4193-93b7-159164e432d2" type="box">6</container> 
+	 			<container parent="fc8d4216-5f7a-4193-93b7-159164e432d2" type="folder">24</container> 
+	 			<unittitle>Drescher, John Jr.</unittitle> 
+	 				<unitdate normal="1905">1905</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="1db03332-fed1-4446-853b-8a843b740dd9" type="box">6</container> 
+	 			<container parent="1db03332-fed1-4446-853b-8a843b740dd9" type="folder">25</container> 
+	 			<unittitle>Dunn, Frances  w/ signed photograph of Maxine Elliot</unittitle> 
+	 				<unitdate normal="1905">1905</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="23415c6c-116e-4d3f-bfe6-cc322a098449" type="box">6</container> 
+	 			<container parent="23415c6c-116e-4d3f-bfe6-cc322a098449" type="folder">26</container> 
+	 			<unittitle>Fairbanks, C.W.</unittitle> 
+	 				<unitdate normal="1904">1904</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="052cbe9c-8f1d-493c-985f-edaf1242f31d" type="box">6</container> 
+	 			<container parent="052cbe9c-8f1d-493c-985f-edaf1242f31d" type="folder">27</container> 
+	 			<unittitle>Fielder, Gov. James</unittitle> 
+	 				<unitdate normal="1913">1913</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="af70f24b-7f91-4c67-a77f-df9ddc782e58" type="box">6</container> 
+	 			<container parent="af70f24b-7f91-4c67-a77f-df9ddc782e58" type="folder">28</container> 
+	 			<unittitle>Fitch, Clyde</unittitle>
+	 				<unitdate normal="1903">1903</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="968115a8-48ef-4c47-95d3-94d57cad848f" type="box">6</container> 
+	 			<container parent="968115a8-48ef-4c47-95d3-94d57cad848f" type="folder">29</container> 
+	 			<unittitle>Fitzgerald, John J.</unittitle> 
+	 				<unitdate normal="1911">1911</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="72d977df-e8c2-4753-9087-6b5c15fe9032" type="box">6</container> 
+	 			<container parent="72d977df-e8c2-4753-9087-6b5c15fe9032" type="folder">30</container> 
+	 			<unittitle>Goodwin, Nat C.</unittitle> 
+	 				<unitdate normal="1900">1900</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="ab42e74b-3265-4e01-b840-8666eb236e79" type="box">6</container> 
+	 			<container parent="ab42e74b-3265-4e01-b840-8666eb236e79" type="folder">31</container> 
+	 			<unittitle>Graham, J.G.</unittitle> 
+	 				<unitdate normal="1902/1903">1902-1903</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="712af800-c7e7-448e-9324-16293d43d9cd" type="box">6</container> 
+	 			<container parent="712af800-c7e7-448e-9324-16293d43d9cd" type="folder">31</container> 
+	 			<unittitle>Graham, J.G.</unittitle> 
+	 				<unitdate normal="1902/1903">1902-1903</unitdate>
+	 		</did></c02>	
+	 	<c02 level="file">
+	 		<did> <container id="b9c6928d-9cc3-4517-a896-8bf9c7e77888" type="box">6</container> 
+	 			<container parent="b9c6928d-9cc3-4517-a896-8bf9c7e77888" type="folder">32</container> 
+	 			<unittitle>Harben, Will N.</unittitle> 
+	 				<unitdate normal="1904">1904</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="6a758904-6f08-40b6-8f8e-c39006e062cf" type="box">6</container> 
+	 			<container parent="6a758904-6f08-40b6-8f8e-c39006e062cf" type="folder">33</container> 
+	 			<unittitle>Heineman, C.H.</unittitle> 
+	 				<unitdate normal="1878">1878</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="2870223e-27d3-4788-bf87-b15552f5c74c" type="box">6</container> 
+	 			<container parent="2870223e-27d3-4788-bf87-b15552f5c74c" type="folder">34</container> 
+	 			<unittitle>Herrick, D. Cady</unittitle> 
+	 				<unitdate normal="1904">1904</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="71e764d4-f78c-4b8a-bf88-0a9f8ce9569e" type="box">6</container> 
+	 			<container parent="71e764d4-f78c-4b8a-bf88-0a9f8ce9569e" type="folder">35</container> 
+	 			<unittitle>Higgins, Gov. Frank W.</unittitle> 
+	 				<unitdate normal="1904">1904</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="3600d2d2-fb95-4e4f-94e9-a3e8f4d8d830" type="box">6</container> 
+	 			<container parent="3600d2d2-fb95-4e4f-94e9-a3e8f4d8d830" type="folder">36</container> 
+	 			<unittitle>Hill, Gov. David B.</unittitle>
+	 				<unitdate normal="1899">1899</unitdate> 
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="0ab84435-349c-49f2-95bf-0fe46728ae3c" type="box">6</container> 
+	 			<container parent="0ab84435-349c-49f2-95bf-0fe46728ae3c" type="folder">37</container> 
+	 			<unittitle>Hoover, Herbert</unittitle> 
+	 				<unitdate normal="1941">1941</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="214ec861-ddd5-4ca7-ba34-22eec9f9d63d" type="box">6</container> 
+	 			<container parent="214ec861-ddd5-4ca7-ba34-22eec9f9d63d" type="folder">38</container> 
+	 			<unittitle>Kennedy letter (signed by ?)</unittitle> 
+	 				<unitdate normal="1962">1962</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="60c5aa53-6ac9-410e-8494-dcf5b793ff62" type="box">6</container> 
+	 			<container parent="60c5aa53-6ac9-410e-8494-dcf5b793ff62" type="folder">39</container> 
+	 			<unittitle>Lagerlof, Selma w/ photographs</unittitle> 
+	 				<unitdate certainty="approximate" normal="1940">1940?</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="c757ec33-d499-48c8-b644-0204f1c3d3c0" type="box">6</container> 
+	 			<container parent="c757ec33-d499-48c8-b644-0204f1c3d3c0" type="folder">40</container> 
+	 			<unittitle>Lawton, Gen. H.L.</unittitle> 
+	 				<unitdate normal="1898">1898</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="c44efae9-3638-4a21-8a3b-956a040b6f19" type="box">6</container> 
+	 			<container parent="c44efae9-3638-4a21-8a3b-956a040b6f19" type="folder">41</container> 
+	 			<unittitle>Lodge, H.C.</unittitle> 
+	 				<unitdate normal="1913">1913</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="9e3feccb-7b21-4847-94be-1e5efba4e99d" type="box">6</container> 
+	 			<container parent="9e3feccb-7b21-4847-94be-1e5efba4e99d" type="folder">42</container> 
+	 			<unittitle>Lowell, A. Lawrence</unittitle> 
+	 				<unitdate normal="1909">1909</unitdate>
+	 			</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="45d8bbd3-567c-4961-94c0-c562db477a1e" type="box">6</container> 
+	 			<container parent="45d8bbd3-567c-4961-94c0-c562db477a1e" type="folder">43</container> 
+	 			<unittitle>Maher, James P.</unittitle> 
+	 				<unitdate normal="1912">1912</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="4b51e318-9877-4ccd-833e-dd1cea906e01" type="box">6</container> 
+	 			<container parent="4b51e318-9877-4ccd-833e-dd1cea906e01" type="folder">44</container> 
+	 			<unittitle>Mansfield, Richard</unittitle> 
+	 				<unitdate normal="1898">1898</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="1a603459-6f29-40c5-9d1a-8cd3515fbc09" type="box">6</container> 
+	 			<container parent="1a603459-6f29-40c5-9d1a-8cd3515fbc09" type="folder">45</container> 
+	 			<unittitle>Marshall, W.L.</unittitle> 
+	 				<unitdate normal="1900">1900</unitdate>	 	
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="aa4c566e-ee0b-4d92-854d-bd29dbf5d853" type="box">6</container> 
+	 			<container parent="aa4c566e-ee0b-4d92-854d-bd29dbf5d853" type="folder">46</container> 
+	 			<unittitle>Mason, William E. </unittitle>
+	 				<unitdate normal="1900">1900</unitdate> 		
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="f1667681-ad67-41ef-9908-f2ac815e0006" type="box">6</container> 
+	 			<container parent="f1667681-ad67-41ef-9908-f2ac815e0006" type="folder">47</container> 
+	 			<unittitle>Odell, Gov. B.B.</unittitle> 
+	 				<unitdate normal="1903">1903</unitdate>	
+	 			</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="a970be56-4b71-4fa9-ba03-26ed2f295e0d" type="box">6</container> 
+	 			<container parent="a970be56-4b71-4fa9-ba03-26ed2f295e0d" type="folder">48</container> 
+	 			<unittitle>Olcott, Chauncey</unittitle>
+	 				<unitdate normal="1899">1899</unitdate>
+	 			</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="daa21d0e-3a02-4cfe-8192-e2a94080223a" type="box">6</container> 
+	 			<container parent="daa21d0e-3a02-4cfe-8192-e2a94080223a" type="folder">49</container> 
+	 			<unittitle>Palmer, William J.</unittitle> 
+	 				<unitdate normal="1905">1905</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="4790ef54-8db2-430c-9d1f-6e7e66f73658" type="box">6</container> 
+	 			<container parent="4790ef54-8db2-430c-9d1f-6e7e66f73658" type="folder">50</container> 
+	 			<unittitle>Parker, Alton B. Judge w/ photograph</unittitle> 
+	 				<unitdate normal="1903/1904">1903-1904</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="06acbc3f-4e76-471d-8356-b6ef38876376" type="box">6</container> 
+	 			<container parent="06acbc3f-4e76-471d-8356-b6ef38876376" type="folder">51</container> 
+	 			<unittitle>Peary, Com. Robert E.</unittitle> 
+	 				<unitdate normal="1904">1904</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="eb400e2e-eb09-4bc0-8137-fb57843e5668" type="box">6</container> 
+	 			<container parent="eb400e2e-eb09-4bc0-8137-fb57843e5668" type="folder">52</container> 
+	 			<unittitle>Platt, T.C.</unittitle> 
+	 				<unitdate normal="1898/1901">1898-1901</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="bb139af2-ebae-4671-bbd4-0650ead216b7" type="box">6</container> 
+	 			<container parent="bb139af2-ebae-4671-bbd4-0650ead216b7" type="folder">53</container> 
+	 			<unittitle>Pugin, M.I.</unittitle> 
+	 				<unitdate normal="1901">1901</unitdate>		
+	 		</did></c02>
+	 		<c02 level="file">
+	 		<did> <container id="e3e6159a-8e6a-4cb1-8910-36d9ba2fd85f" type="box">6</container> 
+	 			<container parent="e3e6159a-8e6a-4cb1-8910-36d9ba2fd85f" type="folder">54</container> 
+	 			<unittitle>Rathbun, Richard</unittitle> 
+	 				<unitdate normal="1900">1900</unitdate>	 		
+	 		</did></c02>
+	 		<c02 level="file">
+	 		<did> <container id="03c9f6c3-27b4-4ce7-ab0d-4a6128673458" type="box">6</container> 
+	 			<container parent="03c9f6c3-27b4-4ce7-ab0d-4a6128673458" type="folder">55</container> 
+	 			<unittitle>Roberts, George Evans? (dir. Of the mint)</unittitle>  	
+	 				<unitdate normal="1899/1900">1899-1900</unitdate> 	
+	 		</did></c02>
+	 		<c02 level="file">
+	 		<did> <container id="1034123d-f012-4a87-8811-82182e70d268" type="box">6</container> 
+	 			<container parent="1034123d-f012-4a87-8811-82182e70d268" type="folder">56</container> 
+	 			<unittitle>Sampson, Rear Ad. W.G.</unittitle>  
+	 				<unitdate normal="1898/1899">1898-1899</unitdate>	
+	 		</did></c02>
+	 		<c02 level="file">
+	 		<did> <container id="9dfd918f-9a11-4be0-8012-aa07d030251e" type="box">6</container> 
+	 			<container parent="9dfd918f-9a11-4be0-8012-aa07d030251e" type="folder">57</container> 
+	 			<unittitle>Schwahn, H.F.D.</unittitle>  
+	 				<unitdate normal="1903">1903</unitdate>
+	 		</did></c02>
+	 		<c02 level="file">
+	 		<did> <container id="3aa9f842-368d-418e-a7f8-8191f93ae139" type="box">6</container> 
+	 			<container parent="3aa9f842-368d-418e-a7f8-8191f93ae139" type="folder">58</container> 
+	 			<unittitle>Shafroth, John F.</unittitle>  
+	 				<unitdate normal="1913">1913</unitdate>
+	 		</did></c02>
+	 		<c02 level="file">
+	 		<did> <container id="965ffd53-91e2-41d1-82d8-3f8fa7f77187" type="box">6</container> 
+	 			<container parent="965ffd53-91e2-41d1-82d8-3f8fa7f77187" type="folder">59</container> 
+	 			<unittitle>Shaw, L.M. (sec. of treasury)</unittitle>
+	 				<unitdate normal="1904">1904</unitdate>			
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="e37b25d0-91f3-49c0-851a-050e1978ee59" type="box">6</container> 
+	 			<container parent="e37b25d0-91f3-49c0-851a-050e1978ee59" type="folder">60</container> 
+	 			<unittitle>Sherman, Jacob David? (Cornell University)</unittitle>	
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="d975c92c-5ceb-48ce-964e-cc7afcec5d04" type="box">6</container> 
+	 			<container parent="d975c92c-5ceb-48ce-964e-cc7afcec5d04" type="folder">61</container> 
+	 			<unittitle>Sherman, V.P. James S.</unittitle>
+	 				<unitdate normal="1909">1909</unitdate>		 		
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="7cf94cbb-6f77-4afd-96a1-13519adf8f86" type="box">6</container> 
+	 			<container parent="7cf94cbb-6f77-4afd-96a1-13519adf8f86" type="folder">62</container> 
+	 			<unittitle>Sherman, John</unittitle>	 
+	 				<unitdate normal="1897">1897</unitdate>	 		
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="e47e7592-621a-4350-99b8-602340006702" type="box">6</container> 
+	 			<container parent="e47e7592-621a-4350-99b8-602340006702" type="folder">63</container> 
+	 			<unittitle>Sigsbee, Capt. Charles D.</unittitle>
+	 				<unitdate normal="1900">1900</unitdate>	 
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="b1c36aed-c9e6-4717-8be1-9ac375ace256" type="box">6</container> 
+	 			<container parent="b1c36aed-c9e6-4717-8be1-9ac375ace256" type="folder">64</container> 
+	 			<unittitle>Skinner, Charles R.</unittitle>
+	 				<unitdate normal="1903">1903</unitdate>			
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="b9b7be26-00c5-40bb-8461-6fe67f67ada8" type="box">6</container> 
+	 			<container parent="b9b7be26-00c5-40bb-8461-6fe67f67ada8" type="folder">65</container> 
+	 			<unittitle>Weaver, Mayor John</unittitle>
+	 				<unitdate normal="1905">1905</unitdate>		
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="24f0d6f3-aed5-40cb-ad1f-74e848d371fb" type="box">6</container> 
+	 			<container parent="24f0d6f3-aed5-40cb-ad1f-74e848d371fb" type="folder">66</container> 
+	 			<unittitle>Weitzel, Ed. W. (see Baker and Weitzel)</unittitle>	
+	 				<unitdate>undated</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="5824b706-4baa-48bd-b79c-1fbaa3e98cdb" type="box">6</container> 
+	 			<container parent="5824b706-4baa-48bd-b79c-1fbaa3e98cdb" type="folder">67</container> 
+	 			<unittitle>Wilkie, Wendall </unittitle>
+	 				<unitdate normal="1943">1943</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="e10e784a-9ae6-4a56-ba63-1e044e516a3d" type="box">6</container> 
+	 			<container parent="e10e784a-9ae6-4a56-ba63-1e044e516a3d" type="folder">68</container> 
+	 			<unittitle>Wilson, Frank E.</unittitle>
+	 				<unitdate normal="1900/1901">1900-1901</unitdate>	
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="98d0efcc-be1f-4341-99ff-ceb8527a84c9" type="box">6</container> 
+	 			<container parent="98d0efcc-be1f-4341-99ff-ceb8527a84c9" type="folder">69</container> 
+	 			<unittitle>Wingate, George W.</unittitle>	
+	 				<unitdate normal="1914">1914</unitdate>
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="78795c83-9b7a-4c05-9adb-d1e563812fa1" type="box">6</container> 
+	 			<container parent="78795c83-9b7a-4c05-9adb-d1e563812fa1" type="folder">70</container> 
+	 			<unittitle>Wood, N.S. (actor)</unittitle>
+	 				<unitdate normal="1905">1905</unitdate>			
+	 		</did></c02>
+	 	<c02 level="file">
+	 		<did> <container id="9e0616d5-668d-431e-a418-d6004e7133c2" type="box">6</container> 
+	 			<container parent="9e0616d5-668d-431e-a418-d6004e7133c2" type="folder">71</container> 
+	 			<unittitle>Zangwill, Israel</unittitle>
+	 				<unitdate normal="1899">1899</unitdate>	
+	 		</did></c02>
+	 	<c02 level="subseries"><did><unittitle> Subseries 1: Unidentified</unittitle></did>
+	 		<c03 level="file">
+	 			<did> <container id="d7862118-121c-45cf-afca-83200ba5e0de" type="box">7</container> 
+	 			<container parent="d7862118-121c-45cf-afca-83200ba5e0de" type="folder">1</container> 
+	 			<unittitle>?, John (economist)</unittitle>
+	 				<unitdate normal="1838">1838</unitdate>	
+	 		</did></c03>
+	 	<c03 level="file">
+	 	<did> <container id="782a896d-6241-48fb-8c83-b9f4d6fa8a4b" type="box">7</container> 
+	 			<container parent="782a896d-6241-48fb-8c83-b9f4d6fa8a4b" type="folder">2</container> 
+	 		<unittitle>Archbishop of York</unittitle>	
+	 				<unitdate normal="1880">1880</unitdate>
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="e14a7584-6316-4abe-bd09-be45d7bf86f5" type="box">7</container> 
+	 			<container parent="e14a7584-6316-4abe-bd09-be45d7bf86f5" type="folder">3</container> 
+	 			<unittitle>Barton, W (?)</unittitle>
+	 				<unitdate normal="1789">1789</unitdate>	
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="fcbb33aa-d40d-44ff-8d15-6466037fe892" type="box">7</container> 
+	 			<container parent="fcbb33aa-d40d-44ff-8d15-6466037fe892" type="folder">4</container> 
+	 			<unittitle>Bishop of Gloucester and Bristol</unittitle>
+	 				<unitdate normal="1802">1802</unitdate>				
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="80b9cb02-2b91-4739-aba4-deb8c29d2be4" type="box">7</container> 
+	 			<container parent="80b9cb02-2b91-4739-aba4-deb8c29d2be4" type="folder">5</container> 
+	 			<unittitle>Buider (?)</unittitle>	
+	 				<unitdate normal="1884">1884</unitdate>			
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="1a5a1089-d200-48ee-8086-c0501943849d" type="box">7</container> 
+	 			<container parent="1a5a1089-d200-48ee-8086-c0501943849d" type="folder">6</container> 
+	 			<unittitle>Cadwalder (?), J. (postmaster)</unittitle>	
+	 				<unitdate normal="1870">1870</unitdate>	
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="06487b44-82aa-432e-86c3-55c8ec3a0cbf" type="box">7</container> 
+	 			<container parent="06487b44-82aa-432e-86c3-55c8ec3a0cbf" type="folder">7</container> 
+	 			<unittitle>Gledhill, R.L.?</unittitle>	
+	 				<unitdate normal="1910">1910</unitdate>	
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="5bf41f24-db04-441d-ae22-93510ab9ace0" type="box">7</container> 
+	 			<container parent="5bf41f24-db04-441d-ae22-93510ab9ace0" type="folder">8</container> 
+	 			<unittitle>Griffith, W.?</unittitle>
+	 				<unitdate normal="1897">1897</unitdate>	
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="9bbaa6dd-6940-4584-a097-a4c1a8e48d65" type="box">7</container> 
+	 			<container parent="9bbaa6dd-6940-4584-a097-a4c1a8e48d65" type="folder">9</container> 
+	 			<unittitle>H., Henry</unittitle>
+	 				<unitdate normal="1814">1814</unitdate>	
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="c945c59f-70e2-45f4-825f-ca57997244c6" type="box">7</container> 
+	 			<container parent="c945c59f-70e2-45f4-825f-ca57997244c6" type="folder">10</container> 
+	 			<unittitle>Heister (?), Daniel Jr.</unittitle>
+	 				<unitdate normal="1781">1781</unitdate>	
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="3274fd23-2a6a-4349-a304-bf1ad02387cd" type="box">7</container> 
+	 			<container parent="3274fd23-2a6a-4349-a304-bf1ad02387cd" type="folder">11</container> 
+	 			<unittitle>Hoar, Sen.</unittitle>
+	 				<unitdate normal="1904">1904</unitdate>	
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="11de5b60-1267-4f28-a48e-b5dbde9f1acd" type="box">7</container> 
+	 			<container parent="11de5b60-1267-4f28-a48e-b5dbde9f1acd" type="folder">12</container> 
+	 			<unittitle>Howson (?), Dean</unittitle>	
+	 				<unitdate normal="1873">1873</unitdate>	
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="6475aad6-9833-44cc-891f-5c2756d26e51" type="box">7</container> 
+	 			<container parent="6475aad6-9833-44cc-891f-5c2756d26e51" type="folder">13</container> 
+	 			<unittitle>Kurth (assemblyman)</unittitle>
+	 				<unitdate normal="1896">1896</unitdate>			
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="294b5a76-bdf9-4572-8a5f-f7bde7954d25" type="box">7</container> 
+	 			<container parent="294b5a76-bdf9-4572-8a5f-f7bde7954d25" type="folder">14</container> 
+	 			<unittitle>MacDuff (?), Rev. Dr</unittitle>	
+	 				<unitdate normal="1873">1873</unitdate>		
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="7ae19752-4dd0-4202-95ee-580d4a50794f" type="box">7</container> 
+	 			<container parent="7ae19752-4dd0-4202-95ee-580d4a50794f" type="folder">15</container> 
+	 			<unittitle>Marquis of Lome</unittitle>
+	 				<unitdate normal="1878">1878</unitdate>			
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="60e9a676-4fdc-4b63-bb69-7bc1a0ead362" type="box">7</container> 
+	 			<container parent="60e9a676-4fdc-4b63-bb69-7bc1a0ead362" type="folder">16</container> 
+	 			<unittitle>Melborne (?), Lord</unittitle>
+	 				<unitdate normal="1844">1844</unitdate>			
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="b8264eb4-c986-4949-890d-2a54ddfadd85" type="box">7</container> 
+	 			<container parent="b8264eb4-c986-4949-890d-2a54ddfadd85" type="folder">17</container> 
+	 			<unittitle>Mousell (?), John (hymn writer)</unittitle>
+	 				<unitdate normal="1872">1872</unitdate>			
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="4e0f54f0-38c0-4bda-b99e-68945fa7a023" type="box">7</container> 
+	 			<container parent="4e0f54f0-38c0-4bda-b99e-68945fa7a023" type="folder">18</container> 
+	 			<unittitle>Nixon, C.?</unittitle>
+	 				<unitdate normal="1910">1910</unitdate>			
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="15b53bdc-f72a-4b44-b3e5-690128c189cc" type="box">7</container> 
+	 			<container parent="15b53bdc-f72a-4b44-b3e5-690128c189cc" type="folder">19</container> 
+	 			<unittitle>North, Col.</unittitle>	
+	 				<unitdate normal="1782">1782</unitdate>		
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="2dd9b8d0-78a0-4420-b56c-ee9e72551b89" type="box">7</container> 
+	 			<container parent="2dd9b8d0-78a0-4420-b56c-ee9e72551b89" type="folder">20</container> 
+	 			<unittitle>R., George</unittitle>
+	 				<unitdate normal="1879">1879</unitdate>			
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="934de032-15db-4ff7-9adb-f13a1a84656a" type="box">7</container> 
+	 			<container parent="934de032-15db-4ff7-9adb-f13a1a84656a" type="folder">21</container> 
+	 			<unittitle>Rowan (?)</unittitle>	
+	 				<unitdate normal="1898">1898</unitdate>		
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="2d6a05fb-f46a-4080-a8ec-ef8aac769ff4" type="box">7</container> 
+	 			<container parent="2d6a05fb-f46a-4080-a8ec-ef8aac769ff4" type="folder">22</container> 
+	 			<unittitle>Sekyll (?)</unittitle>	 
+	 				<unitdate>undated</unitdate>			
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="94cdd7bd-384d-4a91-ae6d-d6d936471133" type="box">7</container> 
+	 			<container parent="94cdd7bd-384d-4a91-ae6d-d6d936471133" type="folder">23</container> 
+	 			<unittitle>Vaughan, ?</unittitle>
+	 				<unitdate normal="1872">1872</unitdate>	 
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="c8137cc9-e3de-4266-9f9b-55969b94a579" type="box">7</container> 
+	 			<container parent="c8137cc9-e3de-4266-9f9b-55969b94a579" type="folder">24</container> 
+	 			<unittitle>Vilmorin, H. (?)</unittitle>
+	 				<unitdate>undated</unitdate>	 
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="930025cf-e3d1-4196-97e3-66b6974f649d" type="box">7</container> 
+	 			<container parent="930025cf-e3d1-4196-97e3-66b6974f649d" type="folder">25</container> 
+	 			<unittitle>W (?), Samuel (bishop of Winchester) </unittitle>	 
+	 				<unitdate>undated</unitdate>		
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="4ded41bb-0b05-4a02-b7e3-d0798f8a6d4f" type="box">7</container> 
+	 			<container parent="4ded41bb-0b05-4a02-b7e3-d0798f8a6d4f" type="folder">26</container> 
+	 			<unittitle>Wellington</unittitle>	
+	 				<unitdate>undated</unitdate> 
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="705a5e08-80da-47d4-875a-3a2891fd882c" type="box">7</container> 
+	 			<container parent="705a5e08-80da-47d4-875a-3a2891fd882c" type="folder">27</container> 
+	 			<unittitle>Wescott</unittitle>	
+	 				<unitdate normal="1877">1877</unitdate> 		
+	 		</did></c03>
+	 	<c03 level="file">
+	 		<did> <container id="b0b4c829-3668-4e31-bf4d-27bcc2048c53" type="box">7</container> 
+	 			<container parent="b0b4c829-3668-4e31-bf4d-27bcc2048c53" type="folder">28</container> 
+	 			<unittitle>Winthrop (?), Sargent</unittitle>	
+	 				<unitdate normal="1822">1822</unitdate> 		
+	 		</did></c03></c02>
+	 </c01> 
+  	<c01 level="series"> 
+  		<did> 
+  			<unittitle> Series 2:  Louis Schellbach Portrait Engravings,</unittitle>
+  		</did> 
+  		<c02 level="file">
+  			<did> <container id="fbd1117f-b5a4-4b01-82ac-d652c909150f" type="box">8</container> 
+  				<container parent="fbd1117f-b5a4-4b01-82ac-d652c909150f" type="folder">1</container> 
+  				<unittitle>Rare Engravings (Early type)</unittitle>	
+  					<unitdate>undated</unitdate> 		
+  			</did> </c02>
+  		<c02 level="file">
+  				<did> <container id="c75fa3c4-a3e7-4b9d-bd72-b31f2f8f565b" type="box">8</container> 
+  					<container parent="c75fa3c4-a3e7-4b9d-bd72-b31f2f8f565b" type="folder">2</container> 
+  					<unittitle>“Very rare 17th and 18th Century copper plate and steel portrait engravings”</unittitle>	 
+  						<unitdate>undated</unitdate>		
+  				</did></c02>
+  		<c02 level="file">
+  			<did> <container id="bd5ab428-1d3e-47bb-be14-f3674dfb3444" type="box">8</container> 
+  				<container parent="bd5ab428-1d3e-47bb-be14-f3674dfb3444" type="folder">3</container> 
+  				<unittitle>“Rare Engravings, Portraits of Churchmen, Military Men (also actors, authors- XIXc), and Women (xix c)”</unittitle>	
+  					<unitdate>undated</unitdate> 		
+  			</did></c02>
+  		<c02 level="file">
+  			<did> <container id="d907df62-ec69-41ca-a60e-ddf5bea1c7b7" type="box">8</container> 
+  				<container parent="d907df62-ec69-41ca-a60e-ddf5bea1c7b7" type="folder">4</container> 
+  				<unittitle>“Fine Steel Portrait Engravings of Famous Statesmen, Rulers, Doctors, and Authors”</unittitle>	
+  					<unitdate>undated</unitdate> 		
+  			</did></c02>
+  		<c02 level="file">
+  			<did> <container id="7c72fbb9-bcd3-47da-a2f2-0e5029da87c7" type="box">8</container> 
+  				<container parent="7c72fbb9-bcd3-47da-a2f2-0e5029da87c7" type="folder">5</container> 
+  				<unittitle>Miscellaneous Portrait Engravings. Selected individuals: Thomas Jefferson, Benjamin Franklin, James Madison, John Adams</unittitle>	
+  					<unitdate>undated</unitdate>	 		
+  			</did></c02>
+  		<c02 level="file">
+  			<did> <container id="f09c9e00-25db-41af-9ae9-53c1f1cd7efe" type="box">8</container> 
+  				<container parent="f09c9e00-25db-41af-9ae9-53c1f1cd7efe" type="folder">6</container> 
+  				<unittitle>Miscellaneous Portrait Engravings</unittitle>	
+  					<unitdate>undated</unitdate> 		
+  			</did></c02>
+  		<c02 level="file">
+  			<did> <container id="6ca58062-2e39-4620-95ec-d53b788efb1a" type="box">9</container> 
+  				<container parent="6ca58062-2e39-4620-95ec-d53b788efb1a" type="folder">1</container> 
+  				<unittitle>Miscellaneous portraits- includes military men, rulers, painters, etc.</unittitle>	
+  					<unitdate>undated</unitdate> 		
+  			</did></c02>
+  		<c02 level="file">
+  			<did> <container id="773c4eee-cf6d-4f98-8865-3c2dbda6664b" type="box">9</container> 
+  				<container parent="773c4eee-cf6d-4f98-8865-3c2dbda6664b" type="folder">2</container> 
+  				<unittitle>Miscellaneous Portrait Engravings. Selected individuals: Dante Alighieri, Marie Antoinette, Joan of Arc, Napoleon Bonaparte, William Shakespeare, Louis XIV</unittitle>	 
+  					<unitdate>undated</unitdate>		
+  			</did></c02>
+  		<c02 level="file">
+  			<did> <container id="1eeb9236-d049-4890-ade3-85bd8964b04b" type="box">9</container> 
+  				<container parent="1eeb9236-d049-4890-ade3-85bd8964b04b" type="folder">3</container> 
+  				<unittitle>Miscellaneous Portrait Engravings</unittitle>	 
+  					<unitdate>undated</unitdate>		
+  			</did></c02> 			
+  	</c01> 
+  	<c01 level="series"> 
+  		<did> 
+  			<unittitle> Series 3: T.E. Hanley Autograph Collection</unittitle>
+  		</did>
+  			<c02 level="file">
+  			<did> <container id="80939a7e-db61-4ae1-b0ef-781f20405f6b" type="box">10</container> 
+  				<container parent="80939a7e-db61-4ae1-b0ef-781f20405f6b" type="folder">1</container> 
+  				<unittitle>Alexander, Russell George, 1867-1935 Poem entitled “Sapperton”</unittitle>	 
+  					<unitdate>undated</unitdate>		
+  			</did></c02> 		
+  		<c02 level="file">
+  			<did> <container id="c9d63e1a-418a-4882-9db2-55d91a6cc8b5" type="box">10</container> 
+  				<container parent="c9d63e1a-418a-4882-9db2-55d91a6cc8b5" type="folder">2</container> 
+  				<unittitle>Archer, William, 1856-1924</unittitle>	 
+  					<unitdate normal="1898/1923">1898-1923</unitdate>		
+  			</did></c02> 	
+  		<c02 level="file">
+  			<did> <container id="fa1a19aa-512f-45a1-bcff-1546eeddfa97" type="box">10</container> 
+  				<container parent="fa1a19aa-512f-45a1-bcff-1546eeddfa97" type="folder">3</container> 
+  				<unittitle>Asimov, Isaac</unittitle>
+  					<unitdate normal="1968">1968</unitdate>	 		
+  			</did></c02>
+  			<c02 level="file">
+  			<did> <container id="85d0024c-3cbe-46a1-9840-5e7bbb8797ce" type="box">10</container> 
+  				<container parent="85d0024c-3cbe-46a1-9840-5e7bbb8797ce" type="folder">4</container> 
+  				<unittitle>Baillie, Joanna, 1762-1851</unittitle>	
+  					<unitdate normal="1804">1804</unitdate> 		
+  			</did></c02> 	
+  		<c02 level="file">
+  			<did> <container id="bea7dc4c-603c-4a17-a374-4c17f781c455" type="box">10</container> 
+  				<container parent="bea7dc4c-603c-4a17-a374-4c17f781c455" type="folder">5</container> 
+  				<unittitle>Beaconsfield, Benjamin Disraeli, 1804-1881</unittitle>	 	
+  					<unitdate>undated</unitdate>		
+  			</did></c02> 		
+  		<c02 level="file">
+  			<did> <container id="ad245d99-1073-42f0-8ef7-f752e9ee2a7b" type="box">10</container> 
+  				<container parent="ad245d99-1073-42f0-8ef7-f752e9ee2a7b" type="folder">6</container> 
+  				<unittitle>Beaconsfield, Benjamin Disraeli, 1804-1881</unittitle>
+  					<unitdate>undated</unitdate>	 		
+  			</did></c02> 	
+  		<c02 level="file">
+  			<did> <container id="6f445576-d317-4916-818c-ab3afba33079" type="box">10</container> 
+  				<container parent="6f445576-d317-4916-818c-ab3afba33079" type="folder">7</container> 
+  				<unittitle>Boettger, Rudolph</unittitle>	 
+  					<unitdate certainty="approximate" normal="1874">1874?</unitdate>		
+  			</did></c02> 	
+  		<c02 level="file">
+  			<did> <container id="77e58980-c9e7-45f6-8a52-73c84def8104" type="box">10</container> 
+  				<container parent="77e58980-c9e7-45f6-8a52-73c84def8104" type="folder">8</container> 
+  				<unittitle>Bolles, Frederick</unittitle>	
+  					<unitdate normal="1938/1952">1938-1952</unitdate> 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="e7aac40a-8c2e-4a3f-bffa-e44a36239e89" type="box">10</container> 
+  				<container parent="e7aac40a-8c2e-4a3f-bffa-e44a36239e89" type="folder">9</container> 
+  				<unittitle>Boule-Mineo, Margaret</unittitle>	
+  					<unitdate normal="1940">1940</unitdate> 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="b9bd9576-5457-41d3-af67-8b0de5198363" type="box">10</container> 
+  				<container parent="b9bd9576-5457-41d3-af67-8b0de5198363" type="folder">10</container> 
+  				<unittitle>Bryan, William Jennings</unittitle>	
+  					<unitdate normal="1896/1900">1896-1900</unitdate> 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="8857c2ef-7f0c-4ff8-a0cd-c0e58ab7f062" type="box">10</container> 
+  				<container parent="8857c2ef-7f0c-4ff8-a0cd-c0e58ab7f062" type="folder">11</container> 
+  				<unittitle>Cook, James H.</unittitle>
+  					<unitdate normal="1924">1924</unitdate>	 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="a85309c6-dbd2-445d-989e-f37aef4bed11" type="box">10</container> 
+  				<container parent="a85309c6-dbd2-445d-989e-f37aef4bed11" type="folder">12</container> 
+  				<unittitle>Davis, Jefferson, 1808-1889</unittitle>	 
+  					<unitdate>undated</unitdate>		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="cdd68bf1-d11b-4931-a8ec-ffca98ed8ad6" type="box">10</container> 
+  				<container parent="cdd68bf1-d11b-4931-a8ec-ffca98ed8ad6" type="folder">13</container> 
+  				<unittitle>Forbes, Henry Clinton, 1833-1903</unittitle>	
+  					<unitdate normal="1865">1865</unitdate> 		
+  			</did></c02>
+  		<c02 level="file">	
+  		<did> <container id="043e301a-dd22-4413-b584-8bc720a85eb3" type="box">10</container> 
+  			<container parent="043e301a-dd22-4413-b584-8bc720a85eb3" type="folder">14</container> 
+  			<unittitle>Forrest, Edwin, 1806-1872</unittitle>
+  				<unitdate normal="1870">1870</unitdate>	 		
+  		</did></c02> 
+  		<c02 level="file">	
+  			<did> <container id="3f783f0b-f551-4ab1-a2ec-9d094f173e32" type="box">10</container> 
+  				<container parent="3f783f0b-f551-4ab1-a2ec-9d094f173e32" type="folder">15</container> 
+  				<unittitle>Gardiner, Francis</unittitle>
+  					<unitdate normal="1868">1868</unitdate>	 		
+  			</did></c02>
+  		<c02 level="file">
+  			<did> <container id="30641f23-0293-4687-81c7-3427a898357e" type="box">10</container> 
+  				<container parent="30641f23-0293-4687-81c7-3427a898357e" type="folder">16</container> 
+  				<unittitle>Godwin, William</unittitle>
+  					<unitdate normal="1813">1813</unitdate>	 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="70437626-7c18-4c55-9fa7-b268bfd55ac6" type="box">10</container> 
+  				<container parent="70437626-7c18-4c55-9fa7-b268bfd55ac6" type="folder">17</container> 
+  				<unittitle>Gounod, Charles François, 1818-1893</unittitle>	
+  					<unitdate normal="1855/1873">1855-1873</unitdate> 		
+  			</did></c02>
+  		<c02 level="file">	
+  			<did> <container id="a6f90a16-cb5f-43f2-b6ae-6a8111a629e9" type="box">10</container> 
+  				<container parent="a6f90a16-cb5f-43f2-b6ae-6a8111a629e9" type="folder">18</container> 
+  				<unittitle>Hall, Newmann</unittitle>	 
+  					<unitdate>undated</unitdate>		
+  			</did></c02> 
+  		<c02 level="file">	
+  			<did> <container id="85d14e4e-2193-4cac-ac9b-9a244d95134a" type="box">10</container> 
+  				<container parent="85d14e4e-2193-4cac-ac9b-9a244d95134a" type="folder">19</container> 
+  				<unittitle>Hinkel, John W.</unittitle>	
+  					<unitdate normal="1962">1962</unitdate> 		
+  			</did></c02> 
+  		<c02 level="file">	
+  			<did> <container id="18b35d0b-86a6-4593-bcd1-c200e2bd8b59" type="box">10</container> 
+  				<container parent="18b35d0b-86a6-4593-bcd1-c200e2bd8b59" type="folder">20</container> 
+  				<unittitle>Houseman, Laurence</unittitle>	
+  					<unitdate>undated</unitdate> 		
+  			</did></c02> 
+  		<c02 level="file">	
+  			<did> <container id="d6d3ea7a-78c5-41c0-8527-0360961a5d31" type="box">10</container> 
+  				<container parent="d6d3ea7a-78c5-41c0-8527-0360961a5d31" type="folder">21</container> 
+  				<unittitle>Howells, William Dean</unittitle>	
+  					<unitdate normal="1894/1910">1894-1910</unitdate> 		
+  			</did></c02>
+  		<c02 level="file">	
+  			<did> <container id="ff23ca1b-0423-4586-a045-80cbd38a24ff" type="box">10</container> 
+  				<container parent="ff23ca1b-0423-4586-a045-80cbd38a24ff" type="folder">22</container> 
+  				<unittitle>Jefferson, Joseph</unittitle>
+  					<unitdate normal="1878">1878</unitdate> 		
+  			</did></c02>
+  		<c02 level="file">
+  			<did> <container id="d8bb24f3-6266-4efa-a330-212166e268e9" type="box">10</container> 
+  				<container parent="d8bb24f3-6266-4efa-a330-212166e268e9" type="folder">23</container> 
+  				<unittitle>King, Frank M.</unittitle>
+  					<unitdate normal="1938">1938</unitdate>	 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="072b4ed4-25b6-4f63-bb6c-5fe845cfbf8b" type="box">10</container> 
+  				<container parent="072b4ed4-25b6-4f63-bb6c-5fe845cfbf8b" type="folder">24</container> 
+  				<unittitle>Knowles, James S.</unittitle>	
+  					<unitdate normal="1835">1835</unitdate> 		
+  			</did></c02>
+  		<c02 level="file">
+  			<did> <container id="0bfb082f-934f-4f22-b4e2-890336120415" type="box">10</container> 
+  				<container parent="0bfb082f-934f-4f22-b4e2-890336120415" type="folder">25</container> 
+  				<unittitle>Landor, Walter Savage, 1775-1864</unittitle>
+  					<unitdate normal="1847">1847</unitdate>	 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="08346b65-0bbb-4670-a91e-076f720517b1" type="box">10</container> 
+  				<container parent="08346b65-0bbb-4670-a91e-076f720517b1" type="folder">26</container> 
+  				<unittitle>MacDowell, Edward</unittitle>
+  					<unitdate normal="1904">1904</unitdate>	 		
+  			</did></c02>
+  				<c02 level="file">
+  			<did> <container id="60574ea9-2b72-4103-9d7f-365f57b7b58b" type="box">10</container> 
+  				<container parent="60574ea9-2b72-4103-9d7f-365f57b7b58b" type="folder">27</container> 
+  				<unittitle>Manna-Zucca</unittitle>	 	
+  					<unitdate>undated</unitdate>	
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="06ee0234-113b-4a28-aa7f-b594e5931b56" type="box">10</container> 
+  				<container parent="06ee0234-113b-4a28-aa7f-b594e5931b56" type="folder">28</container> 
+  				<unittitle>Masters, Edgar Lee</unittitle>	
+  					<unitdate normal="1914/1929">1914-1929</unitdate> 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="4fbec8a9-7faf-4905-a9bf-4d251da32914" type="box">10</container> 
+  				<container parent="4fbec8a9-7faf-4905-a9bf-4d251da32914" type="folder">29</container> 
+  				<unittitle>Moore, George, 1852-1933</unittitle>	 
+  					<unitdate certainty="approximate" normal="1916">1916?</unitdate>		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="78315d74-e52f-4c12-82e2-a9628b53d909" type="box">10</container> 
+  				<container parent="78315d74-e52f-4c12-82e2-a9628b53d909" type="folder">30</container> 
+  				<unittitle>Pape, Eric</unittitle>
+  					<unitdate normal="1927">1927</unitdate>	 		
+  			</did></c02>
+  		<c02 level="file">
+  			<did> <container id="8b1c1bdc-31f3-4325-b107-2a063efa7fd3" type="box">10</container> 
+  				<container parent="8b1c1bdc-31f3-4325-b107-2a063efa7fd3" type="folder">31</container> 
+  				<unittitle>Prescott, Mary N.</unittitle>	 
+  					<unitdate>undated</unitdate>		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="b878ced5-c991-4c0f-b5e7-7c41212d3fd8" type="box">10</container> 
+  				<container parent="b878ced5-c991-4c0f-b5e7-7c41212d3fd8" type="folder">32</container> 
+  				<unittitle>Proctor, Barry Cornwall</unittitle>	 
+  					<unitdate normal="1858">1858</unitdate>		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="39da9ccd-78c0-4a72-b93e-29c94cbc483d" type="box">10</container> 
+  				<container parent="39da9ccd-78c0-4a72-b93e-29c94cbc483d" type="folder">33</container> 
+  				<unittitle>Quincy, Edmund</unittitle>
+  					<unitdate normal="1843">1843</unitdate>	 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="49e74eae-5082-448b-97de-d79d9b4e5b15" type="box">10</container> 
+  				<container parent="49e74eae-5082-448b-97de-d79d9b4e5b15" type="folder">34</container> 
+  				<unittitle>Ruskin, John</unittitle>	
+  					<unitdate>undated</unitdate> 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="16a9efc2-805c-4916-94cb-0a5623fb9be0" type="box">10</container> 
+  				<container parent="16a9efc2-805c-4916-94cb-0a5623fb9be0" type="folder">35</container> 
+  				<unittitle>Saxe, John Godfrey</unittitle>	
+  					<unitdate normal="1863/1865">1863-1865</unitdate> 		
+  			</did></c02>
+  			<c02 level="file">
+  			<did> <container id="b23165a9-6846-42b0-aeee-2e7000889d7b" type="box">10</container> 
+  				<container parent="b23165a9-6846-42b0-aeee-2e7000889d7b" type="folder">36</container> 
+  				<unittitle>Schenck, Gen. R.C.</unittitle>
+  					<unitdate normal="1865">1865</unitdate>	 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="2d4713f2-bc31-4426-9009-670b82ba7a8f" type="box">10</container> 
+  				<container parent="2d4713f2-bc31-4426-9009-670b82ba7a8f" type="folder">37</container> 
+  				<unittitle>Scudder, Horace</unittitle>	
+  					<unitdate normal="1871/1882">1871-1882</unitdate> 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="4069bc6d-462f-4063-82d7-53c725b222a2" type="box">10</container> 
+  				<container parent="4069bc6d-462f-4063-82d7-53c725b222a2" type="folder">38</container> 
+  				<unittitle>Simigo, Chas</unittitle>
+  					<unitdate>undated</unitdate>	 		
+  			</did></c02>
+  		<c02 level="file">
+  			<did> <container id="64da2608-3779-4e78-b288-c3200ecb9c14" type="box">10</container> 
+  				<container parent="64da2608-3779-4e78-b288-c3200ecb9c14" type="folder">39</container> 
+  				<unittitle>Smith, Alfred</unittitle>	
+  					<unitdate normal="1919">1919</unitdate> 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="fbce9acc-b13d-4944-a8d8-cf5f2fac05d0" type="box">10</container> 
+  				<container parent="fbce9acc-b13d-4944-a8d8-cf5f2fac05d0" type="folder">40</container> 
+  				<unittitle>Stockton, Frank R.</unittitle>	 
+  					<unitdate normal="1891/1894">1891-1894</unitdate>		
+  			</did></c02>
+  		<c02 level="file">
+  			<did> <container id="6054e7db-59d1-4207-951a-2790ce574478" type="box">10</container> 
+  				<container parent="6054e7db-59d1-4207-951a-2790ce574478" type="folder">41</container> 
+  				<unittitle>Stoddard, R.H.</unittitle>	
+  					<unitdate normal="1872/1900">1872-1900</unitdate> 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="4ddab6cc-31fd-4cd2-b176-bb8987926a9e" type="box">10</container> 
+  				<container parent="4ddab6cc-31fd-4cd2-b176-bb8987926a9e" type="folder">42</container> 
+  				<unittitle>Symonds, John Addington</unittitle>	
+  					<unitdate normal="1890/1891">1890-1891</unitdate> 		
+  			</did></c02>
+  		<c02 level="file">
+  			<did> <container id="6730ec54-cd62-4390-ad71-545e6a53494f" type="box">10</container> 
+  				<container parent="6730ec54-cd62-4390-ad71-545e6a53494f" type="folder">43</container> 
+  				<unittitle>Vacarescu, Helene</unittitle>	 
+  					<unitdate>undated</unitdate>	
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="9b502cbf-311f-466f-8a95-4b2add271ffc" type="box">11</container> 
+  				<container parent="9b502cbf-311f-466f-8a95-4b2add271ffc" type="folder">1</container> 
+  				<unittitle>Ade, George, 1866-1944 (6 drafts of what appears to be a manuscript)</unittitle>	 
+  				<unitdate>undated</unitdate>		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="731a10fa-3266-4b55-98eb-43c7a9f0dd79" type="box">11</container> 
+  				<container parent="731a10fa-3266-4b55-98eb-43c7a9f0dd79" type="folder">2</container> 
+  				<unittitle>Auden, W.H. (Wystan Hugh) 13 page sonnet, paper entitled “In the time of War: Commentary,” and 1 manuscript entitled “Age of Anxiety”</unittitle>
+  					<unitdate normal="1907">1907</unitdate>	 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="f53834bf-009c-423f-9d5e-b998c5aa5c88" type="box">11</container> 
+  				<container parent="f53834bf-009c-423f-9d5e-b998c5aa5c88" type="folder">3</container> 
+  				<unittitle>Creely, Bunster letter to T.E. Hanley, and radio broadcast script entitled:“I was There.”</unittitle>
+  					<unitdate normal="1941">1941</unitdate>	 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="a0adccb3-8afc-41cf-9e48-d4a2fa869c23" type="box">11</container> 
+  				<container parent="a0adccb3-8afc-41cf-9e48-d4a2fa869c23" type="folder">4</container> 
+  				<unittitle>Dunsany, Edward John Moreton Drax Plunkett, Baron, 1878-1957</unittitle>	 
+  					<unitdate certainty="approximate" normal="1922">1922?</unitdate>		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="4d951c92-a204-45a2-8ec1-874c949592bc" type="box">11</container> 
+  				<container parent="4d951c92-a204-45a2-8ec1-874c949592bc" type="folder">5</container> 
+  				<unittitle>D’Wolff, John, 1779-1872</unittitle>	
+  					<unitdate normal="1843">1843</unitdate> 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="1baa82b7-0b18-4b59-99c2-2088fbcdf877" type="box">11</container> 
+  				<container parent="1baa82b7-0b18-4b59-99c2-2088fbcdf877" type="folder">6</container> 
+  				<unittitle>Forster, John, 1812-1876</unittitle>
+  					<unitdate normal="1872">1872</unitdate>	 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="ccce36ca-8e5b-4f4e-adcb-36fe358bc8c7" type="box">11</container> 
+  				<container parent="ccce36ca-8e5b-4f4e-adcb-36fe358bc8c7" type="folder">7</container> 
+  				<unittitle>Ford, Ford Maddox- manuscript</unittitle>	 
+  					<unitdate>undated</unitdate>		
+  			</did></c02>
+  			<c02 level="file">
+  			<did> <container id="d9b96770-69d3-4fdb-87e3-df2876a0b69f" type="box">11</container> 
+  				<container parent="d9b96770-69d3-4fdb-87e3-df2876a0b69f" type="folder">8</container> 
+  				<unittitle>Garrison, William Lloyd, 1805-1879</unittitle>
+  					<unitdate normal="1884">1842</unitdate>	 		
+  			</did></c02> 
+  			<c02 level="file">
+  			<did> <container id="9cb6e043-9673-4d64-be2c-616f5effb211" type="box">11</container> 
+  				<container parent="9cb6e043-9673-4d64-be2c-616f5effb211" type="folder">9</container> 
+  				<unittitle>Janvier, Thomas, 1889-1962</unittitle>	
+  					<unitdate normal="1892/1893">1892-1893</unitdate> 		
+  			</did></c02> 
+  			<c02 level="file">
+  			<did> <container id="29e0a4e5-f533-4282-bd61-94c64839da85" type="box">11</container> 
+  				<container parent="29e0a4e5-f533-4282-bd61-94c64839da85" type="folder">10</container> 
+  				<unittitle>Meyerbeer, Giacomo, 1791-1864</unittitle>
+  					<unitdate normal="1856">1856</unitdate>	 		
+  			</did></c02> 
+  			<c02 level="file">
+  			<did> <container id="543bc70a-0337-4368-945d-ff2e91917412" type="box">11</container> 
+  				<container parent="543bc70a-0337-4368-945d-ff2e91917412" type="folder">11</container> 
+  				<unittitle>Simigo, Chas</unittitle>	
+  					<unitdate>undated</unitdate> 		
+  			</did></c02> 
+  		<c02 level="file">
+  			<did> <container id="3bc4d0be-4bac-4c78-8f71-f263d4838a3d" type="box">11</container> 
+  				<container parent="3bc4d0be-4bac-4c78-8f71-f263d4838a3d" type="folder">12</container> 
+  				<unittitle>Wegetin, Oscar</unittitle>
+  					<unitdate normal="1931">1931</unitdate>	 		
+  			</did></c02> 
+  		</c01>			
+  </dsc> 
+</archdesc></ead>

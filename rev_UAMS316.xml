@@ -1,0 +1,3330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">UAMS316</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">William Neil Smith papers, 
+		  <date>1829-1975 (Bulk 1944-1970)</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Peter Steere, Tony
+		  Bucci, and Penny Whitten</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Inventory encoded by Jan Marie Payne 
+		<date>December 3, 2001</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-21">2017-06-21</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">William Neil Smith papers, 
+		<date>1829-1975</date></titleproper>
+	 <num>Collection Number: MS 316</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Peter Steere, Tony Bucci, and Penny Whitten</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>Fall 1994, revised May 1997</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Jan Marie Payne</item>
+		</defitem>
+	 </list>
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did>
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name">William
+		N. Smith papers, 
+		<unitdate normal="" type="inclusive">1829-1975 (Bulk
+		  1944-1970)</unitdate></unittitle>
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 316</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Smith, William Neil,
+		  1920-</persname></origination>
+	 <abstract label="Abstract">This collection is divided into seven series:
+		Biographical Information, General Correspondence, Writings and Publisher
+		Correspondence, Field Notebooks and Logs, Research Files, Audio-Visual Media,
+		and Supplemental Material. The collection includes biographical information,
+		correspondence, writings, publications, field notebooks, field research data
+		sheets, subject files, bibliography cards, photographs, negatives, color
+		slides, motion picture film, and sound recordings, chiefly from 1944-1970, of
+		William Neil Smith, relating to his anthropological field work amongst the Seri
+		Indians of Tiburon Island and the northwest coast of Sonora, Mexico.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">24 linear feet</extent></physdesc>
+	 <repository label="Repository">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p>Papers of William N. Smith(MS 316). Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head>
+	 <p>William Neil "Bill" Smith, Jr. was born May 5, 1920, at New York City
+		(Broad Street Hospital, Manhattan), New York, the son of William Neil Smith, an
+		architect, and Florence E. Derby. After his father died in 1934, Bill and his
+		mother moved to Arizona. He attended high school at the Southern Arizona School
+		(Sabino Canyon) in Tucson, 1934-1936 and the Palo Verde Ranch School in Mesa,
+		1937-1938. He attended the University of Arizona from 1939-42 and 1946-48,
+		studying under Byron Cummings(Kinishba Ruins-Fort Apache Reservation-University
+		of Arizona Summer School, Department of Archaeology) and Edward Spicer. He
+		worked in the summer of 1937 at the University of Arizona Archaeological Field
+		School held at the Kinishba Ruins on the White Mountain Apache Reservation. He
+		graduated in May 1948 with an A.B. in Anthropology. He took graduate course
+		work in 1950. He also served briefly in the Army in 1944-45.</p> 
+	 <p>From 1945-1967, Smith made many extended ethnographical field trips to
+		Sonora, Mexico, to study the Seri Indians at Desemboque and Tiburon Island. His
+		research included lifestyle, customs, language, genealogy, kinship, and
+		cultural changes due to the influence of outsiders. He assisted the Seris by
+		bringing much needed medicines and supplies to them. On four occasions, he
+		brought groups of Seris to the United States to experience different cultures.
+		He sought to educate people in the United States and Mexico about Seri culture
+		and the problem of cultural change affecting the Seris through numerous
+		lectures, publications, and film projects.</p>
+	 <p>After concluding his studies in Sonora, Smith during three trips to Asia
+		(1971-1972, 1975-1982, 1985-1993) carried out anthropological research in
+		Australia, Bali, Thailand, and the Maldive Islands where he completed a
+		research paper for the Republic of Maldives Department of Education on Islamic
+		Youth, Development from Birth to 20 Years in 1992. He also contributed four
+		detailed manuscripts to the Australian Department of Aboriginal Affairs - Alice
+		Springs, Northern Territory covering research and participant observer studies
+		of tribal problems in the Northern Territories (1988-1991) and lectures. Since
+		his return from third trip to Asia and Australia, Smith has lectured on Islamic
+		culture and worked on various articles related to Southwestern and Sonoran
+		archaelogical data from his earlier unpublished notes.</p>
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into seven series: </p> 
+	 <list> 
+		<item>Series I: Biographical Information, 
+		  <date>1946-1971</date></item>
+		<item>Series II: General Correspondence, 
+		  <date>1942-1975</date></item>
+		<item>Series III: Writings, 
+		  <date>1829-1974</date></item>
+		<item>Series IV: Field Notebooks and Logs, 
+		  <date>1945-1966</date></item>
+		<item>Series V: Research Files, 
+		  <date>1890-1975</date></item>
+		<item>Series VI: Audio-Visual Media, 
+		  <date>1922-1974</date></item>
+		<item>Series VII: Supplemental Material, 
+		  <date>1950-1960</date></item>
+	 </list> 
+  </arrangement>
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>This collection is divided into seven series: Biographical Information,
+		General Correspondence, Writings and Publisher Correspondence, Field Notebooks
+		and Logs, Research Files, Audio-Visual Media, and Supplemental Material. The
+		first series consists of William Neil Smith's resumes, educational records,
+		personal calendar records and biographical clippings, plus lists of materials
+		collected during his studies. The second series is Smith's correspondence with
+		archaeologists, colleagues, officials, publishers and friends regarding his
+		studies of the Seri Indians. </p> 
+	 <p>The third series is divided into two sub-series. The first sub-series
+		contains published and unpublished articles about the Seri by William Neil
+		Smith. The second sub-series contains published and unpublished articles by
+		other authors which were collected by Smith.</p>
+	 <p>The fourth series consists of William Neil Smith's personal notebooks
+		and field logs. These contain notes on each visit to Seri Country including
+		itineraries, purchases, mileage logs and names of contacts.</p>
+	 <p>The fifth series, Research Files, is divided into four sub-series. The
+		first sub-series, "Census and Genealogy," consists of Smith's detailed records
+		of the Seri population, including names, dates of birth, marriage and death,
+		and kinship. Smith's filing system of index cards using various color coding
+		has been preserved. The second sub-series is the Sea Turtle Figurine Study,
+		which includes drafts of a manuscript about the study, photographs and sketches
+		of the figurines, Smith's classification system, and related correspondence.
+		The third sub-series consists of documentation and notes regarding Smith's Seri
+		film projects, including correspondence with Walt Disney Studios. The fourth
+		sub-series consists of subject files dealing with various aspects of Seri
+		culture and outside contacts with the Seri. There are also miscellaneous
+		records of Smith's associations with various societies, schools and
+		museums.</p>
+	 <p>The sixth series is audio-visual materials and is divided into four
+		sub-series: photographs and negatives, color slides, motion picture film, and
+		sound recordings. All of these materials were produced by Smith during his
+		visits with the Seri Indians. Additional photographs can be found in the
+		series, Research Files.</p>
+	 <p>The last series is supplemental material consisting of posters
+		advertising his lectures, display cards and sketches.</p>
+  </scopecontent> 
+  <controlaccess>
+	 <persname>Smith, William Neil, 1920- --
+			 Archives</persname><persname>Cummings, Byron,
+			 1860-1954</persname><persname>Di Peso, Charles C. (Charles Corradino),
+			 b. 1920</persname><persname>Hodge, Frederick Webb,
+			 1864-1956</persname><persname>Moser, Edward</persname><persname>Moser, Mary Beck,
+			 1924-</persname><persname>Sauer, Carl Otwin,
+			 1889-1975</persname><persname>Spicer, Edward Holland,
+			 1906-1983</persname><famname>Montano family</famname><corpname>American Friends Service
+			 Committee</corpname><subject>Ethnohistory -- Mexico -- Sonora (State)</subject><subject>Face painting -- Mexico -- Sonora (State)</subject><subject>Indian baskets -- Mexico -- Sonora (State)</subject><subject>Puberty rites -- Mexico -- Sonora (State)</subject><subject>Seri Indians</subject><subject>Seri Indians -- Census</subject><subject>Seri Indians -- Cultural assimilation</subject><subject>Seri Indians -- Genealogy</subject><subject>Seri Indians -- Kinship</subject><subject>Seri Indians -- Music</subject><subject>Seri Indians -- Religion</subject><subject>Seri language</subject><subject>Bow and arrow making -- Mexico -- Sonora
+			 (State)</subject><subject>Fire-making </subject><subject>Indian wood-carving -- Mexico -- Sonora
+			 (State)</subject><subject>Indians of Mexico -- Social life and customs</subject><subject>Seri Indians -- Boats</subject><subject>Seri Indians -- Bone carving</subject><subject>Seri Indians -- Games</subject><subject> Seri Indians -- Pottery</subject><subject>Seri Indians -- Rites and ceremonies</subject><subject>Yuman Indians</subject><geogname>Infiernillo Straits (Mexico)</geogname><geogname>Desemboque (Sonora, Mexico)</geogname><geogname>Kino Bay (Mexico)</geogname><geogname>San Esteban Island (Mexico)</geogname><geogname>Sonora (Mexico: State) -- Description and
+			 travel</geogname><geogname>Tiburon Island (Mexico)</geogname><geogname>Tecomate (Sonora, Mexico)</geogname><geogname>Patos Island (Mexico)</geogname><genreform>Correspondence</genreform><genreform>Photographs</genreform><genreform>Notebooks</genreform></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head>
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series I: Biographical Information, 
+			 <unitdate normal="1946/1971" type="inclusive">1946-1971</unitdate></unittitle> 
+		</did> 
+		<c02 level="file">
+		  <did><container id="e8e8b605-b24b-4feb-ba60-a1a115a500b2" type="box">1</container><container parent="e8e8b605-b24b-4feb-ba60-a1a115a500b2" type="folder">1</container>
+			 <unittitle>Clippings. 
+				<unitdate normal="1947/1959" type="inclusive">1947-1959</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="b79096dc-fa07-4b70-9bfc-76df1db906a9" type="box">1</container><container parent="b79096dc-fa07-4b70-9bfc-76df1db906a9" type="folder">2</container>
+			 <unittitle>Education: Schools. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="c009f650-b838-41e3-8ba3-d28e5b025029" type="box">1</container><container parent="c009f650-b838-41e3-8ba3-d28e5b025029" type="folder">3</container>
+			 <unittitle>Education: Schools. Anthropology seminar: Social
+				Organization of Papago Indians / Ruth Underhill, (under direction of Edward
+				Spicer). 
+				<unitdate normal="1950" type="inclusive">1950</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="5be57ed6-06e3-4535-a932-ef87409ea9ae" type="box">1</container><container parent="5be57ed6-06e3-4535-a932-ef87409ea9ae" type="folder">4</container>
+			 <unittitle>General -- Miscellaneous. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="77ba912f-ddfd-46e3-a29e-41d5fefd3deb" type="box">1</container><container parent="77ba912f-ddfd-46e3-a29e-41d5fefd3deb" type="folder">5</container>
+			 <unittitle>Poems, philosophy, doodles. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="7667738d-1732-489b-8c1c-620f6c593d95" type="box">1</container><container parent="7667738d-1732-489b-8c1c-620f6c593d95" type="folder">6</container>
+			 <unittitle>Resumes and Seri field study chronology. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="25a911ec-79e2-46a5-b204-8e178d96d309" type="box">1</container><container parent="25a911ec-79e2-46a5-b204-8e178d96d309" type="folder">7</container>
+			 <unittitle>Calendar records of visits to Seri country: Desemboque and
+				Tiburon Island, (includes information on births). 
+				<unitdate normal="1946/1966" type="inclusive">1946-1966</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="27de9835-24d3-476c-a314-8656fb479b47" type="box">1</container><container parent="27de9835-24d3-476c-a314-8656fb479b47" type="folder">8</container>
+			 <unittitle>Desemboque robbery. 
+				<unitdate normal="1950" type="inclusive">November
+				  1950</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="638dbde6-e0a1-4866-9dcf-59c4224c2b99" type="box">1</container><container parent="638dbde6-e0a1-4866-9dcf-59c4224c2b99" type="folder">9</container>
+			 <unittitle>Grant proposals. 
+				<unitdate normal="1948/1965" type="inclusive">1948-1965</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="26e1b2fa-a3c4-449a-b7bd-ee7eb97dfe96" type="box">1</container><container parent="26e1b2fa-a3c4-449a-b7bd-ee7eb97dfe96" type="folder">10</container>
+			 <unittitle>Peace Corps, (application only). 
+				<unitdate normal="1962" type="inclusive">1962</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="b0540139-c886-46ff-bcf1-997769639df7" type="box">1</container><container parent="b0540139-c886-46ff-bcf1-997769639df7" type="folder">11</container>
+			 <unittitle>Southwest Museum - Description of Seri materials, (Smith
+				was an official collector for the Southwest Museum, appointment by Frederic W.
+				Hodge). 
+				<unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="deac4874-c535-4b46-b4fb-ab7b2fa1bc04" type="box">1</container><container parent="deac4874-c535-4b46-b4fb-ab7b2fa1bc04" type="folder">12</container>
+			 <unittitle>Hancock Foundation - Description of Seri materials
+				(proposed sale). 
+				<unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="45cc2a04-8587-4c9b-a983-9d6c64795f80" type="box">1</container><container parent="45cc2a04-8587-4c9b-a983-9d6c64795f80" type="folder">13</container>
+			 <unittitle>Amerind Foundation - Description of Seri materials, (for
+				Charles DiPeso). 
+				<unitdate normal="1954" type="inclusive">1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="a35b1774-2fb0-4a7a-89ce-9860b454b508" type="box">1</container><container parent="a35b1774-2fb0-4a7a-89ce-9860b454b508" type="folder">14</container>
+			 <unittitle>Arizona State Museum - Description of Seri materials,
+				(Bill Wasley, Bernard Fontana - exhibit on Seri Culture, under Bob Baker and
+				Ernie Leavitt). 
+				<unitdate normal="" type="inclusive">1960s, November 1970-Spring
+				  1971</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01> 
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series II: General Correspondence, 
+			 <unitdate normal="1942/1975" type="inclusive">1942-1975</unitdate></unittitle> 
+		</did> 
+		<c02 level="file">
+		  <did><container id="e2567372-414c-4c90-8d7d-fc59e1b74d6d" type="box">2</container><container parent="e2567372-414c-4c90-8d7d-fc59e1b74d6d" type="folder">1</container>
+			 <unittitle>Irvin Ashkenazy - Proposed article. 
+				<unitdate normal="1950/1955" type="inclusive">1950-1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="c4462926-0ab3-4876-8d5e-914fd59bd59e" type="box">2</container><container parent="c4462926-0ab3-4876-8d5e-914fd59bd59e" type="folder">2</container>
+			 <unittitle>Byron Cummings, (related to Apache studies). 
+				<unitdate normal="1942" type="inclusive">1942</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="fonds">
+		  <did><container id="5a854f08-3708-45d3-85d9-136fb7ae0b2e" type="box">2</container><container parent="5a854f08-3708-45d3-85d9-136fb7ae0b2e" type="folder">3</container>
+			 <unittitle>Leonora S. Curtin. 
+				<unitdate normal="1949/1951" type="inclusive">1949-1951</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="70f20503-0094-400b-91f4-07e2323ce474" type="box">2</container><container parent="70f20503-0094-400b-91f4-07e2323ce474" type="folder">4</container>
+			 <unittitle>Jack Danciger. 
+				<unitdate normal="1955" type="inclusive">1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="52c0b68b-cafe-4cad-91d3-c5f484c0dd55" type="box">2</container><container parent="52c0b68b-cafe-4cad-91d3-c5f484c0dd55" type="folder">5</container>
+			 <unittitle>Edward H. Davis. 
+				<unitdate normal="1947/1949" type="inclusive">1947-1949</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="f5db5bad-13f2-4e6a-a558-d5aa266e3e09" type="box">2</container><container parent="f5db5bad-13f2-4e6a-a558-d5aa266e3e09" type="folder">6</container>
+			 <unittitle>Charles C. Di Peso. 
+				<unitdate normal="1956/1969" type="inclusive">1956-1969</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="f70b0e3a-6e1e-40d8-9875-e4b0009f5424" type="box">2</container><container parent="f70b0e3a-6e1e-40d8-9875-e4b0009f5424" type="folder">7</container>
+			 <unittitle>Clark Field. 
+				<unitdate normal="1947/1953" type="inclusive">1947-1953</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="11227249-a87c-418c-bb50-f0d0199ad75c" type="box">2</container><container parent="11227249-a87c-418c-bb50-f0d0199ad75c" type="folder">8</container>
+			 <unittitle>John S. Garth. 
+				<unitdate normal="1951" type="inclusive">1951</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="c9baf336-176f-493e-af2f-0d45bd864ec0" type="box">2</container><container parent="c9baf336-176f-493e-af2f-0d45bd864ec0" type="folder">9</container>
+			 <unittitle>Howard S. Gentry. 
+				<unitdate normal="1951" type="inclusive">1951</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="43d062a8-d1ae-482f-8a58-68f345d01019" type="box">2</container><container parent="43d062a8-d1ae-482f-8a58-68f345d01019" type="folder">10</container>
+			 <unittitle>Frances Gillmor. 
+				<unitdate normal="1969" type="inclusive">1969</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="37f3b0de-8c19-454a-9087-e5f75fbfba6f" type="box">2</container><container parent="37f3b0de-8c19-454a-9087-e5f75fbfba6f" type="folder">11</container>
+			 <unittitle>Frederick W. Hodge, Southwest Museum. 
+				<unitdate normal="1947/1955" type="inclusive">1947-1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="4abfeece-cb72-47b9-a1f0-9d1c1bca24b5" type="box">2</container><container parent="4abfeece-cb72-47b9-a1f0-9d1c1bca24b5" type="folder">12</container>
+			 <unittitle>Otis S. Marston. 
+				<unitdate normal="1949" type="inclusive">1949</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="c2ef1561-dad3-4014-8024-5bba352447b1" type="box">2</container><container parent="c2ef1561-dad3-4014-8024-5bba352447b1" type="folder">13</container>
+			 <unittitle>Edward and Mary Beck Moser. 
+				<unitdate normal="1953/1965" type="inclusive">1953-1965</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="4791e025-7dd1-44cb-9292-c68e3da539a4" type="box">2</container><container parent="4791e025-7dd1-44cb-9292-c68e3da539a4" type="folder">14</container>
+			 <unittitle>Stuart H. Perry. 
+				<unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="ff923529-06b6-4c10-a175-0dff837bb973" type="box">2</container><container parent="ff923529-06b6-4c10-a175-0dff837bb973" type="folder">15</container>
+			 <unittitle>Carl Sauer. 
+				<unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="9814eacd-86b2-4659-be04-c4a7b2e58ee8" type="box">2</container><container parent="9814eacd-86b2-4659-be04-c4a7b2e58ee8" type="folder">16</container>
+			 <unittitle>Carl Schuster. 
+				<unitdate normal="1955/1964" type="inclusive">1955-1964</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container id="9ecfba06-b582-42f9-9c4c-8155f7eb3e8f" type="box">2</container><container parent="9ecfba06-b582-42f9-9c4c-8155f7eb3e8f" type="folder">17</container>
+			 <unittitle>Edward Spicer. 
+				<unitdate normal="1951/1965" type="inclusive">1951-1965</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="bcf99920-fefc-45a6-8453-4205619d97cb" type="box">2</container><container parent="bcf99920-fefc-45a6-8453-4205619d97cb" type="folder">18</container>
+			 <unittitle>Charles and Patricia Vaurie, American Museum of Natural
+				History. 
+				<unitdate normal="1952" type="inclusive">1952</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="dde53018-8668-4f7d-a845-cbb5e5a1dba5" type="box">2</container><container parent="dde53018-8668-4f7d-a845-cbb5e5a1dba5" type="folder">19</container>
+			 <unittitle>W. N. Smith to his mother, Florence Smith. 
+				<unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="8c7afba3-7eea-428b-9f9a-685c7ab441a7" type="box">2</container><container parent="8c7afba3-7eea-428b-9f9a-685c7ab441a7" type="folder">20</container>
+			 <unittitle>Miscellaneous. 
+				<unitdate normal="1945/1975" type="inclusive">1945-1975</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="5eecb689-304d-446e-9226-2b436ebb269b" type="box">2</container><container parent="5eecb689-304d-446e-9226-2b436ebb269b" type="folder">21</container>
+			 <unittitle>Miscellaneous, regarding Seri and other topics. 
+				<unitdate normal="1943/1967" type="inclusive">1943-1967</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="cf300d62-97d0-4763-9128-b63a4a631acc" type="box">2</container><container parent="cf300d62-97d0-4763-9128-b63a4a631acc" type="folder">22</container>
+			 <unittitle>Publishers, regarding Seri articles by W. N. Smith. 
+				<unitdate normal="1949/1961" type="inclusive">1949-1961</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="93680704-7a7c-476e-a63f-a75cac8ff3ac" type="box">2</container><container parent="93680704-7a7c-476e-a63f-a75cac8ff3ac" type="folder">23</container>
+			 <unittitle>Mexican anthropologists. 
+				<unitdate normal="1947/1954" type="inclusive">1947-1954</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="d5d58339-985b-44b7-a010-f4d9721749e1" type="box">2</container><container parent="d5d58339-985b-44b7-a010-f4d9721749e1" type="folder">24</container>
+			 <unittitle>Mexican government agencies and officials. 
+				<unitdate normal="1946/1960" type="inclusive">1946-1960</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="6586b0f8-d461-4065-ba85-55e75741faa8" type="box">2</container><container parent="6586b0f8-d461-4065-ba85-55e75741faa8" type="folder">25</container>
+			 <unittitle>Letters of recommendation for W. N. Smith. 
+				<unitdate normal="1947/1955" type="inclusive">1947-1955</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series III: Writings, 
+			 <unitdate normal="1829/1974" type="inclusive">1829-1974</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Writings by William Neil Smith -- published</unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container id="a3403cd8-62be-4e68-b74f-8717930b9370" type="box">3</container><container parent="a3403cd8-62be-4e68-b74f-8717930b9370" type="folder">1</container>
+				<unittitle>The Papago Game of "Gince Goot," (
+				  <title>Masterkey</title>). 
+				  <unitdate normal="1945" type="inclusive">1945</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="a36b617b-12b0-4f11-8761-3ceea789ca96" type="box">3</container><container parent="a36b617b-12b0-4f11-8761-3ceea789ca96" type="folder">2</container>
+				<unittitle>"Seri Photographs, 1948," (
+				  <title>Masterkey</title>). 
+				  <unitdate normal="1951" type="inclusive">1951</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="725cd0ca-1030-4e7b-ae3b-996b17a02f8d" type="box">3</container><container parent="725cd0ca-1030-4e7b-ae3b-996b17a02f8d" type="folder">3</container>
+				<unittitle>"Island That Time Forgot," (
+				  <title>Colliers</title>). 
+				  <unitdate normal="1951" type="inclusive">1951</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="c9a60636-7549-40fe-b60f-e082e9607bb5" type="box">3</container><container parent="c9a60636-7549-40fe-b60f-e082e9607bb5" type="folder">4</container>
+				<unittitle>"Why Bring Seri Indians From Tiburón Island to
+				  Visit the United States," (
+				  <title>Masterkey</title>). 
+				  <unitdate normal="1951" type="inclusive">1951</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="db1b9470-93d9-4207-adc4-1f05f6311f65" type="box">3</container><container parent="db1b9470-93d9-4207-adc4-1f05f6311f65" type="folder">5</container>
+				<unittitle>"Origin of Seri Indian Legends, the Sea-horse Story," (
+				  <title>Masterkey</title>). 
+				  <unitdate normal="1958" type="inclusive">1958</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="8753487f-10bc-443d-a45e-ba56b5cb7076" type="box">3</container><container parent="8753487f-10bc-443d-a45e-ba56b5cb7076" type="folder">6</container>
+				<unittitle>"Observations Regarding Seri Indian Basketry," (
+				  <title>Kiva</title>). 
+				  <unitdate normal="1959" type="inclusive">1959</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="8450badb-2b73-416f-a618-5ede2705e9d0" type="box">3</container><container parent="8450badb-2b73-416f-a618-5ede2705e9d0" type="folder">7</container>
+				<unittitle>
+				  <title>The Seri Indians</title>, by Ted De Grazia and W. N. Smith
+				  (manuscript draft of preface &amp; introduction). 
+				  <unitdate normal="1970" type="inclusive">1970</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="c35375a6-a939-487f-bffc-54209abac7b9" type="box">3</container><container parent="c35375a6-a939-487f-bffc-54209abac7b9" type="folder">8</container>
+				<unittitle>
+				  <title>The Seri Indians: A Primitive People of Tiburón
+					 Island</title>, by Ted De Grazia with William Neil Smith. 
+				  <unitdate normal="1970" type="inclusive">1970</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="86421793-8fc4-47e6-a446-efe964d3d30f" type="box">3</container><container parent="86421793-8fc4-47e6-a446-efe964d3d30f" type="folder">9</container>
+				<unittitle>"The Seri Indians and the Sea Turtles," (
+				  <title>Journal of Arizona History</title>). 
+				  <unitdate normal="1974" type="inclusive">1974</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Writings by William Neil Smith -- unpublished</unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container id="98da99a8-9d07-452f-bffd-ae07233c9f12" type="box">3</container><container parent="98da99a8-9d07-452f-bffd-ae07233c9f12" type="folder">10</container>
+				<unittitle>Report on Seris from Visit to Tiburón Island. 
+				  <unitdate normal="" type="inclusive">September 10-11,
+					 1944</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="70d23d4b-13ca-40af-afc3-7ce5047b0d1c" type="box">3</container><container parent="70d23d4b-13ca-40af-afc3-7ce5047b0d1c" type="folder">11</container>
+				<unittitle>Outlines and notes. 
+				  <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="eff714b7-1592-4af0-b734-6b7c55797585" type="box">3</container><container parent="eff714b7-1592-4af0-b734-6b7c55797585" type="folder">12</container>
+				<unittitle>History of the Seri Indians. 
+				  <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="61e8f530-9fc8-45ba-978c-6a2182a62489" type="box">3</container><container parent="61e8f530-9fc8-45ba-978c-6a2182a62489" type="folder">13</container>
+				<unittitle>Papago-Seri Chronology. 
+				  <unitdate normal="1945/1955" type="inclusive">ca.
+					 1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="abe24bc5-bf2c-4854-b407-4db7b719bc80" type="box">3</container><container parent="abe24bc5-bf2c-4854-b407-4db7b719bc80" type="folder">14</container>
+				<unittitle>Field Ethnology - Letter report to Carl Sauer,
+				  University of California - Berkeley. 
+				  <unitdate normal="1950" type="inclusive">1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="722333f2-a773-4089-ac5b-0207d00ab710" type="box">3</container><container parent="722333f2-a773-4089-ac5b-0207d00ab710" type="folder">15</container>
+				<unittitle>Why Study Seri Indians. 
+				  <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="c7f15dd2-c666-405a-be10-8803ff3fe024" type="box">3</container><container parent="c7f15dd2-c666-405a-be10-8803ff3fe024" type="folder">16</container>
+				<unittitle>Report on Seri film plan. 
+				  <unitdate normal="1946/1956" type="inclusive">ca.
+					 1951</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="cdd2f120-fffb-4f62-8bea-0b178780fb91" type="box">3</container><container parent="cdd2f120-fffb-4f62-8bea-0b178780fb91" type="folder">17</container>
+				<unittitle>
+				  <title>Seri Ethnohistory, 1890-1953</title> (1); also,
+				  conclusions, addenda and short version presented at American Anthropological
+				  Association (A.A.A.) meeting, Tucson. 
+				  <unitdate normal="1953" type="inclusive">1953</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="46e6613a-42ec-40b8-8d7a-57794d8441f2" type="box">3</container><container parent="46e6613a-42ec-40b8-8d7a-57794d8441f2" type="folder">18</container>
+				<unittitle>
+				  <title>Seri Ethnohistory, 1890-1953</title> (2). 
+				  <unitdate normal="1953" type="inclusive">1953</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="87ca7b8d-d324-4955-afcb-e75ce9f469c3" type="box">3</container><container parent="87ca7b8d-d324-4955-afcb-e75ce9f469c3" type="folder">19</container>
+				<unittitle>
+				  <title>Seri Ethnohistory, 1890-1953</title> (3) - short version
+				  presented at A.A.A. meeting, Tucson. 
+				  <unitdate normal="1953" type="inclusive">1953</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="6b592ee1-21c1-483f-bf79-7d01d8476f24" type="box">3</container><container parent="6b592ee1-21c1-483f-bf79-7d01d8476f24" type="folder">20</container>
+				<unittitle>
+				  <title>Seri Ethnohistory, 1890-1953</title> (4) - version sent to
+				  American Anthropologist. 
+				  <unitdate normal="1954" type="inclusive">1954</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="afd0bea0-8a37-4bf7-a81c-182fd7daa7b5" type="box">3</container><container parent="afd0bea0-8a37-4bf7-a81c-182fd7daa7b5" type="folder">21</container>
+				<unittitle>
+				  <title>Seri Ethnohistory, 1890-1953</title> (5) - version sent to
+				  Charles H. Lowe, Jr., Zoology Department, University of Arizona. 
+				  <unitdate normal="1954" type="inclusive">1954</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="1fa5919f-f109-43a0-9040-4b379a631126" type="box">3</container><container parent="1fa5919f-f109-43a0-9040-4b379a631126" type="folder">22</container>
+				<unittitle>Research report sent to Manuel Gamio, Instituto
+				  Indigenista Interamericano. 
+				  <unitdate normal="1954" type="inclusive">1954</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="dfc92f17-4595-4843-a64e-cbe932c288f1" type="box">3</container><container parent="dfc92f17-4595-4843-a64e-cbe932c288f1" type="folder">23</container>
+				<unittitle>Culture change - Letter report to Ned Spicer, University
+				  of Arizona. 
+				  <unitdate normal="1962" type="inclusive">1962</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e0bc56f4-96a1-4ee1-982b-66d60e2b9103" type="box">3</container><container parent="e0bc56f4-96a1-4ee1-982b-66d60e2b9103" type="folder">24</container>
+				<unittitle>Apache-Seri Contacts in the Seri Area, 19th Cen. 
+				  <unitdate normal="1965" type="inclusive">1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="d7367dd3-bcf7-49a8-ae5f-862392037c5a" type="box">4</container><container parent="d7367dd3-bcf7-49a8-ae5f-862392037c5a" type="folder">1</container>
+				<unittitle>
+				  <title>Culture change, 1950-1965</title>; The Advent of
+				  Christianity Among the Seri, by W.N. Smith and Zip Dobyns, 1966
+				  <unitdate normal="1966" type="inclusive">1966</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="3a4beb1a-7e55-402d-a48f-afd2702906c1" type="box">4</container><container parent="3a4beb1a-7e55-402d-a48f-afd2702906c1" type="folder">2</container>
+				<unittitle>Research on Seri - Letter report to Howard Baldwin,
+				  Sensory Systems Laboratory, Tucson, (C-14 data). 
+				  <unitdate normal="1966" type="inclusive">1966</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e022c5e5-0cfd-472c-b975-40219a18a6ca" type="box">4</container><container parent="e022c5e5-0cfd-472c-b975-40219a18a6ca" type="folder">3</container>
+				<unittitle>
+				  <title>The Seri Indians, A Coastal and Desert Island
+					 People</title> by W. N. Smith and Ernest Leavitt (in association with exhibit
+				  at Arizona State Museum, Nov. 1970-May 1971). 
+				  <unitdate normal="1970" type="inclusive">1970</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Writings by other authors -- published</unittitle>
+		  </did>
+		  <c03 level="fonds">
+			 <did><container id="f697be71-a591-4a2b-9f79-dd1dae31a376" type="box">4</container><container parent="f697be71-a591-4a2b-9f79-dd1dae31a376" type="folder">4</container>
+				<unittitle>
+				  <title render="italic">Travels in the Interior of Mexico in 1825,
+					 1826, 1827, 1828</title>, by Lieut. R.W.H. Hardy [chapters on Seri]. 
+				  <unitdate normal="1829" type="inclusive">1829</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="0d39ed85-abde-4a58-a57b-973b5bc278b7" type="box">4</container><container parent="0d39ed85-abde-4a58-a57b-973b5bc278b7" type="folder">5</container>
+				<unittitle>
+				  <title render="italic">The Most Primitive American
+					 Savages</title>, by Waldon Fawcett. 
+				  <unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="e223c161-7665-4f39-b474-20575170d6e6" type="box">4</container><container parent="e223c161-7665-4f39-b474-20575170d6e6" type="folder">6</container>
+				<unittitle>
+				  <title>The Wildest of Our Tribes - Seriland and the Seri</title>,
+				  by W.J. McGee. 
+				  <unitdate normal="1901" type="inclusive">1901</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="0e7b75b6-82aa-4790-ad33-fdedc2a94afc" type="box">4</container><container parent="0e7b75b6-82aa-4790-ad33-fdedc2a94afc" type="folder">7</container>
+				<unittitle>
+				  <title render="italic">Notes on the Indians of Sonora,
+					 Mexico</title>, by Aleš Hrdli_ka. 
+				  <unitdate normal="1904" type="inclusive">1904</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="46aee9f4-4e04-4691-8f83-15ec3abe3654" type="box">4</container><container parent="46aee9f4-4e04-4691-8f83-15ec3abe3654" type="folder">8</container>
+				<unittitle>
+				  <title>Serian, Tequistlatecan, and Hokan</title>, by A.L.
+				  Kroeber. 
+				  <unitdate normal="1915" type="inclusive">1915</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="67ca4024-0216-4db6-8d71-fa9025e80164" type="box">4</container><container parent="67ca4024-0216-4db6-8d71-fa9025e80164" type="folder">9</container>
+				<unittitle>
+				  <title>A Mexican Land of Canaan</title>, by Frederick Simpich. 
+				  <unitdate normal="1919" type="inclusive">1919</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="5aec4a24-3181-42fa-9e99-0211bbc521a6" type="box">4</container><container parent="5aec4a24-3181-42fa-9e99-0211bbc521a6" type="folder">10</container>
+				<unittitle>
+				  <title>Our Indian Neighbors in Mexico</title>, by M.E. Edwards. 
+				  <unitdate normal="1919" type="inclusive">1919</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="9bfb7ded-a289-43f5-996f-d2de1cfb07bd" type="box">4</container><container parent="9bfb7ded-a289-43f5-996f-d2de1cfb07bd" type="folder">11</container>
+				<unittitle>
+				  <title>Indians of the Sea</title>, by Alvin E. Moore. 
+				  <unitdate normal="1930" type="inclusive">1930</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="147a810a-88ee-4e43-a4bc-8efe11c20e8b" type="box">4</container><container parent="147a810a-88ee-4e43-a4bc-8efe11c20e8b" type="folder">12</container>
+				<unittitle>
+				  <title>Sons of the Stone Age - The Seri - Modern Mexico's Most
+					 Savage Indians</title>, by Roberto Thompson. 
+				  <unitdate normal="1931" type="inclusive">1931</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="df2175ec-2a96-4254-83c2-32a8057cb5cc" type="box">4</container><container parent="df2175ec-2a96-4254-83c2-32a8057cb5cc" type="folder">13</container>
+				<unittitle>
+				  <title>Region de los Seris Situacion Geographica</title>, by
+				  Baltasar Samped. 
+				  <unitdate normal="1933" type="inclusive">1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="b24074ba-145a-4d0b-9c4d-2acc14d9e413" type="box">4</container><container parent="b24074ba-145a-4d0b-9c4d-2acc14d9e413" type="folder">14</container>
+				<unittitle>
+				  <title>Juan Tomas, War Chief of the Seris</title>, by Edward H.
+				  Davis. 
+				  <unitdate normal="1933" type="inclusive">1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="e609e56f-2fbc-447b-9a5a-a3f03abda826" type="box">4</container><container parent="e609e56f-2fbc-447b-9a5a-a3f03abda826" type="folder">15</container>
+				<unittitle>
+				  <title>Missione per lo Studio delle Popolazioni Indigene del
+					 Messico</title>, by Giuseppe E. Genna. 
+				  <unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="0768bf42-1e85-4eb9-9670-b1e485f1fd23" type="box">4</container><container parent="0768bf42-1e85-4eb9-9670-b1e485f1fd23" type="folder">16</container>
+				<unittitle>
+				  <title>Una Expedicion a la Isla del Tiburon - Vida, Costumbres y
+					 Tradiciones de los Indios Seris</title>, by Giovanni Masturzi. 
+				  <unitdate normal="1934" type="inclusive">1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="b1df09d5-7e58-4851-a116-c65185c2ef15" type="box">4</container><container parent="b1df09d5-7e58-4851-a116-c65185c2ef15" type="folder">17</container>
+				<unittitle>
+				  <title>Premiers résultats d'une expédition
+					 italo-mexicaine parmi les populations indigènes et métisses du
+					 Mexique</title>, by Corrado Gini. 
+				  <unitdate normal="1934" type="inclusive">1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="04b05b13-b888-4156-83e0-7e8a0f686152" type="box">4</container><container parent="04b05b13-b888-4156-83e0-7e8a0f686152" type="folder">18</container>
+				<unittitle>
+				  <title>Savages in Uncle Sam's Back Yard</title>, by Richard
+				  Hallibuton. 
+				  <unitdate normal="1934" type="inclusive">1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="8e64dd1d-020d-4372-b6d3-5dd19169d56e" type="box">4</container><container parent="8e64dd1d-020d-4372-b6d3-5dd19169d56e" type="folder">19</container>
+				<unittitle>
+				  <title>Race Suicide Threat of Seris Disclosed</title>, by Ernest
+				  B. Ehrke. 
+				  <unitdate normal="1936" type="inclusive">1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="d2d69296-146f-49bc-b1fe-13bdca0a7ead" type="box">4</container><container parent="d2d69296-146f-49bc-b1fe-13bdca0a7ead" type="folder">20</container>
+				<unittitle>
+				  <title>200 Miles to the Stone Age</title>, by Robert M. Hyatt. 
+				  <unitdate normal="1936" type="inclusive">1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="502c3204-b287-479e-8223-33fe339fcecb" type="box">4</container><container parent="502c3204-b287-479e-8223-33fe339fcecb" type="folder">21</container>
+				<unittitle>
+				  <title>Children of the Ancients in Pacific Mexico</title>, by
+				  Phil Hanna. 
+				  <unitdate normal="1936" type="inclusive">1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="389185f4-2047-46a6-b1ed-64db7350c5ea" type="box">4</container><container parent="389185f4-2047-46a6-b1ed-64db7350c5ea" type="folder">22</container>
+				<unittitle>
+				  <title>North America's Most Primitive Savages</title>, by Sydney
+				  H. Parsons. 
+				  <unitdate normal="1937" type="inclusive">1937</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="1632ff45-6d1d-4e77-8254-8baf943bfc4c" type="box">4</container><container parent="1632ff45-6d1d-4e77-8254-8baf943bfc4c" type="folder">23</container>
+				<unittitle>
+				  <title render="italic">Face Painting is Art to Seri Indian
+					 Girl</title>. 
+				  <unitdate normal="1939" type="inclusive">1939</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="6cf6a878-c02e-40af-9040-f071e995bc80" type="box">4</container><container parent="6cf6a878-c02e-40af-9040-f071e995bc80" type="folder">24</container>
+				<unittitle>
+				  <title render="italic">Seris O Kunkak</title>, by Francisco Rojas
+				  Gonzalez. 
+				  <unitdate normal="1941" type="inclusive">1941</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="779012a8-6d05-42a5-9bfa-0ebd67c60f3d" type="box">4</container><container parent="779012a8-6d05-42a5-9bfa-0ebd67c60f3d" type="folder">25</container>
+				<unittitle>
+				  <title>Los Seris</title>, by Luis Arturo Gonzalez Bonilla. 
+				  <unitdate normal="1941" type="inclusive">1941</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="90b01f89-c3f0-47ab-ba7f-09f2037c09f8" type="box">4</container><container parent="90b01f89-c3f0-47ab-ba7f-09f2037c09f8" type="folder">26</container>
+				<unittitle>
+				  <title>Seri Indians on Tiburon Island</title>, by Julian D.
+				  Hayden. 
+				  <unitdate normal="1942" type="inclusive">1942</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="ff0aeb1b-1ba1-4ff6-bd17-f744f855ac8b" type="box">4</container><container parent="ff0aeb1b-1ba1-4ff6-bd17-f744f855ac8b" type="folder">27</container>
+				<unittitle>
+				  <title>Memorial de su jira placer y de observación por la
+					 Península de la Baja California, durante el mes de abril de
+					 1943</title>, by Jack Danciger. 
+				  <unitdate normal="1943" type="inclusive">1943</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="39eefb19-3aeb-40ae-ae85-c99c659c7fc9" type="box">4</container><container parent="39eefb19-3aeb-40ae-ae85-c99c659c7fc9" type="folder">28</container>
+				<unittitle>
+				  <title>Some Ethnobotanical Notes on the Seri Indians</title>, by
+				  E. Yale Dawson. 
+				  <unitdate normal="1944" type="inclusive">1944</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="c1176a35-0cae-441c-a51e-97118d81c5eb" type="box">4</container><container parent="c1176a35-0cae-441c-a51e-97118d81c5eb" type="folder">29</container>
+				<unittitle>
+				  <title>I Seri Contributo alla conoscenza delle razze indigene del
+					 Messico</title>, by Giuseppe Genna. 
+				  <unitdate normal="1944" type="inclusive">1944</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="c3664909-1901-4c85-af9c-4780a2cd1695" type="box">4</container><container parent="c3664909-1901-4c85-af9c-4780a2cd1695" type="folder">30</container>
+				<unittitle>
+				  <title>The Savage Seris of Sonora</title>, by Edward Davis and E.
+				  Yale Dawson. 
+				  <unitdate normal="1945" type="inclusive">1945</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="492eca81-3a40-42f1-9fb0-6dd41892206b" type="box">4</container><container parent="492eca81-3a40-42f1-9fb0-6dd41892206b" type="folder">31</container>
+				<unittitle>
+				  <title>Mis Amigos Los Seris</title>, by Roberto Thomson. 
+				  <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="d9516725-3519-4582-ab28-76b4cd3fda1a" type="box">4</container><container parent="d9516725-3519-4582-ab28-76b4cd3fda1a" type="folder">32</container>
+				<unittitle>
+				  <title>The Stone-Age Men of 1947</title>, by Cameron Shipp. 
+				  <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="f64a61ab-7dd5-4124-8735-fae05b2b111e" type="box">4</container><container parent="f64a61ab-7dd5-4124-8735-fae05b2b111e" type="folder">33</container>
+				<unittitle>
+				  <title>Seri's Last Stand</title>, by Grancel Fitz, (color
+				  photographs/W.N.Smith). 
+				  <unitdate normal="1948" type="inclusive">1948</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="cba61e12-6c64-43a7-9847-f6044d764466" type="box">4</container><container parent="cba61e12-6c64-43a7-9847-f6044d764466" type="folder">34</container>
+				<unittitle>
+				  <title>Throwback to Stone Age Man is Found on Island near Los
+					 Angeles</title>, by Gray Willson. 
+				  <unitdate normal="1949" type="inclusive">1949</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="6028a751-ad62-462b-9ae4-fbe46616b4e1" type="box">4</container><container parent="6028a751-ad62-462b-9ae4-fbe46616b4e1" type="folder">35</container>
+				<unittitle>
+				  <title>Primitivos del Norte</title>, by I.N.A.H., Museo Nacional
+				  de Antropologia. 
+				  <unitdate normal="1945/1955" type="inclusive">ca.
+					 1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="321dd4cb-c077-4e25-abdd-3483fdf5a51e" type="box">4</container><container parent="321dd4cb-c077-4e25-abdd-3483fdf5a51e" type="folder">36</container>
+				<unittitle>
+				  <title render="italic">America Indigena</title>. 
+				  <unitdate normal="1950" type="inclusive">1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="83c1774b-f467-4c08-ab65-91de00d1a4a1" type="box">4</container><container parent="83c1774b-f467-4c08-ab65-91de00d1a4a1" type="folder">37</container>
+				<unittitle>
+				  <title>The Seris: Tribe of the North of Mexico</title>, by Otilia
+				  Meza Soto. 
+				  <unitdate normal="1951" type="inclusive">1951</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="ce3ab8c8-68c2-47c1-848f-971c72bb1bb6" type="box">4</container><container parent="ce3ab8c8-68c2-47c1-848f-971c72bb1bb6" type="folder">38</container>
+				<unittitle>
+				  <title>La Resurreción de los Seris</title>, by Cesar
+				  Lizardi Ramos. 
+				  <unitdate normal="1952" type="inclusive">1952</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="c03ffed1-dcbf-4bf3-976a-bcdeab240c11" type="box">4</container><container parent="c03ffed1-dcbf-4bf3-976a-bcdeab240c11" type="folder">39</container>
+				<unittitle>Articles and brief notes in Boltin Indigenista. 
+				  <unitdate normal="1952/1961" type="inclusive">1952-1961</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="1c633abe-324e-4ecd-b8a8-63e9868113e0" type="box">4</container><container parent="1c633abe-324e-4ecd-b8a8-63e9868113e0" type="folder">40</container>
+				<unittitle>
+				  <title>Una Tribu Perdida en la Isla de Tiburón</title>, de
+				  Felipe Bustamante, 1953
+				  <unitdate normal="1953" type="inclusive">1953</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="26acb66e-35eb-4777-8db9-0f07210eeb4e" type="box">4</container><container parent="26acb66e-35eb-4777-8db9-0f07210eeb4e" type="folder">41</container>
+				<unittitle>
+				  <title>Los Seris</title>, Antes y Hoy, by Carmen Cook de Leonard.
+				  
+				  <unitdate normal="1953" type="inclusive">1953</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="8211eb31-96e0-4e73-8869-3af785258dc7" type="box">4</container><container parent="8211eb31-96e0-4e73-8869-3af785258dc7" type="folder">42</container>
+				<unittitle>
+				  <title>Trouble Over Tiburon</title>, by Franz Kurth. 
+				  <unitdate normal="1953" type="inclusive">1953</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="70fd9d48-5dca-43f5-9938-b921ef68a6f1" type="box">4</container><container parent="70fd9d48-5dca-43f5-9938-b921ef68a6f1" type="folder">43</container>
+				<unittitle>
+				  <title>America's Most Depraved Tribe</title>, by George Spencer. 
+				  <unitdate normal="1954" type="inclusive">1954</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="74d60489-ceda-49b1-8e9e-ebef472e7170" type="box">4</container><container parent="74d60489-ceda-49b1-8e9e-ebef472e7170" type="folder">44</container>
+				<unittitle>
+				  <title>Mexico Struggles to Save a People</title>, by Victor Alba.
+				  
+				  <unitdate normal="1954" type="inclusive">1954</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="dd99eba2-716a-4011-a6e6-eca05f240657" type="box">4</container><container parent="dd99eba2-716a-4011-a6e6-eca05f240657" type="folder">45</container>
+				<unittitle>
+				  <title>They Wouldn't Be Civilized</title>, by Clifford L.
+				  Burdick. 
+				  <unitdate normal="1954" type="inclusive">1954</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="9fc90b62-8ef4-4e20-83f9-32f5755d62fe" type="box">4</container><container parent="9fc90b62-8ef4-4e20-83f9-32f5755d62fe" type="folder">46</container>
+				<unittitle>
+				  <title>Occurence (sic) of Zalophus californianus in the Gulf of
+					 California</title>, by Robert B. Chiasson. 
+				  <unitdate normal="1954" type="inclusive">1954</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="9fa6e9f1-add7-4028-add4-3a7803c5565d" type="box">4</container><container parent="9fa6e9f1-add7-4028-add4-3a7803c5565d" type="folder">47</container>
+				<unittitle>
+				  <title>I Faced Death in the Lost World</title>, by Gerald
+				  Kendrick. 
+				  <unitdate normal="1955" type="inclusive">1955</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="86681998-61d9-4df1-a0e7-3726a51cf5d6" type="box">4</container><container parent="86681998-61d9-4df1-a0e7-3726a51cf5d6" type="folder">48</container>
+				<unittitle>
+				  <title render="italic">Some Clay Figurines and Seri Dolls from
+					 Coastal Sonora, Mexico</title>, by Roger C. Owen; A Seri Fertility Figurine
+				  from Bahia Kino, Sonora, by George E. Fay; Artifacts from Estero Tastiota,
+				  Sonora, Mexico, by Frank M. Holzkamper; Notes on the Archaeology of the Central
+				  Coast of Sonora, Mexico, by Julian D. Hayden. 
+				  <unitdate normal="1956" type="inclusive">1956</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="32373541-a901-4323-b4c3-3c99766073e1" type="box">4</container><container parent="32373541-a901-4323-b4c3-3c99766073e1" type="folder">49</container>
+				<unittitle>Articles from 
+				  <title>Acción Indigenista</title>. 
+				  <unitdate normal="1957/1959" type="inclusive">1957-1959</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="28ddfa64-c0db-4bdd-814c-2f3e338ed0b7" type="box">4</container><container parent="28ddfa64-c0db-4bdd-814c-2f3e338ed0b7" type="folder">50</container>
+				<unittitle>
+				  <title>Demografia de los Seris</title>, by Ricardo Pozas. 
+				  <unitdate normal="1958" type="inclusive">1958</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="389e2967-43fe-4be9-935b-530945de8e6a" type="box">4</container><container parent="389e2967-43fe-4be9-935b-530945de8e6a" type="folder">51</container>
+				<unittitle>
+				  <title>Expedition for Seri Gold is Epic Story of
+					 Hardship</title>, by Roscoe G. Willson. 
+				  <unitdate normal="1958" type="inclusive">1958</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="78289fe3-96fd-45a4-836e-fdea9bbd8106" type="box">4</container><container parent="78289fe3-96fd-45a4-836e-fdea9bbd8106" type="folder">52</container>
+				<unittitle>
+				  <title>The Seris - Indians That Time Forgot</title>, by Robert M.
+				  Hyatt. 
+				  <unitdate normal="1958" type="inclusive">1958</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="2eaaa43f-e881-4935-ad5d-d445cdbfbd01" type="box">4</container><container parent="2eaaa43f-e881-4935-ad5d-d445cdbfbd01" type="folder">53</container>
+				<unittitle>The Seri Indians - The People That Time Passed By. 
+				  <unitdate normal="1958" type="inclusive">1958</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="83783bd2-5a7b-4d33-98a6-2d079d7b8012" type="box">4</container><container parent="83783bd2-5a7b-4d33-98a6-2d079d7b8012" type="folder">54</container>
+				<unittitle>
+				  <title>Nature and Origin of the "Seri Boot"</title>, by Ronald L.
+				  Ives. 
+				  <unitdate normal="1959" type="inclusive">1959</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="b1e384a1-ae3a-44b4-8c9b-ba1ef56d0797" type="box">4</container><container parent="b1e384a1-ae3a-44b4-8c9b-ba1ef56d0797" type="folder">55</container>
+				<unittitle>
+				  <title>La Tribu Seri</title>, by Horacio Sobarzo. 
+				  <unitdate normal="1960" type="inclusive">1960</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="fonds">
+			 <did><container id="b0bb806d-585c-4fe8-b423-845b42aeae38" type="box">4</container><container parent="b0bb806d-585c-4fe8-b423-845b42aeae38" type="folder">56</container>
+				<unittitle>
+				  <unitdate normal="1829/1975" type="inclusive" /></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="54c622dd-0034-4686-a864-e8ceb553848d" type="box">5</container><container parent="54c622dd-0034-4686-a864-e8ceb553848d" type="folder">1</container>
+				<unittitle>
+				  <title>Seri Indian Figurines</title>, by James Manson. 
+				  <unitdate normal="1961" type="inclusive">1961</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="fa330bb1-059a-478f-a502-7b9ef18d1805" type="box">5</container><container parent="fa330bb1-059a-478f-a502-7b9ef18d1805" type="folder">2</container>
+				<unittitle>
+				  <title>Treasure of Tiburon</title>, by Myron Brenton. 
+				  <unitdate normal="1962" type="inclusive">1962</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="10e9dbba-c1ff-4df6-92f3-564af4c97c8c" type="box">5</container><container parent="10e9dbba-c1ff-4df6-92f3-564af4c97c8c" type="folder">3</container>
+				<unittitle>
+				  <title>The Dictionary of Anthropology</title>, by Wolfgang H.
+				  Lindig. 
+				  <unitdate normal="1962" type="inclusive">1962</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="37ad7638-4777-4a36-991e-96bff26060ac" type="box">5</container><container parent="37ad7638-4777-4a36-991e-96bff26060ac" type="folder">4</container>
+				<unittitle>
+				  <title>Über die Bestattung bei den Seri in Sonora,
+					 Mexiko</title>, by Wolfgang Lindig. 
+				  <unitdate normal="1958/1968" type="inclusive">ca.
+					 1963</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="d63c2148-4a84-46fc-8830-7e4baca38d15" type="box">5</container><container parent="d63c2148-4a84-46fc-8830-7e4baca38d15" type="folder">5</container>
+				<unittitle> The Collective Suicide of the Seri Nation. 
+				  <unitdate normal="1963" type="inclusive">1963</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="557bb2e6-c101-4d6e-90f8-c2ad2a82b46c" type="box">5</container><container parent="557bb2e6-c101-4d6e-90f8-c2ad2a82b46c" type="folder">6</container>
+				<unittitle>
+				  <title>Seri Bands</title>, by Edward Moser. 
+				  <unitdate normal="1963" type="inclusive">1963</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="66dbb6fe-8581-4962-9618-eec4ca949b85" type="box">5</container><container parent="66dbb6fe-8581-4962-9618-eec4ca949b85" type="folder">7</container>
+				<unittitle>
+				  <title render="italic">I Can Never Go Back to Tiburon</title>, by
+				  Al P. Yorick. 
+				  <unitdate normal="1963" type="inclusive">1963</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="b753103c-ffe4-458d-a42a-0c9f99d59aa3" type="box">5</container><container parent="b753103c-ffe4-458d-a42a-0c9f99d59aa3" type="folder">8</container>
+				<unittitle>
+				  <title>Tree Burial Among the Seri Indians</title>, by Wolfgang H.
+				  Lindig. 
+				  <unitdate normal="1964" type="inclusive">1964</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="0538b9aa-742d-424c-9f1a-046ef05a29da" type="box">5</container><container parent="0538b9aa-742d-424c-9f1a-046ef05a29da" type="folder">9</container>
+				<unittitle>
+				  <title>Seri Blue, by Mary Beck Moser; Seri Blue - An
+					 Explanation</title>, by H. Wesley Peirce. 
+				  <unitdate normal="1964" type="inclusive">1964</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="3fbe7ef2-f416-4024-9bab-22060a165259" type="box">5</container><container parent="3fbe7ef2-f416-4024-9bab-22060a165259" type="folder">10</container>
+				<unittitle>
+				  <title render="italic">The Seri Indians in 1692 as Described by
+					 Adamo Gilg, S.J.</title>, translated &amp; edited by Charles Di Peso and Daniel
+				  S. Matson. 
+				  <unitdate normal="1965" type="inclusive">1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="a743756b-cc97-43d6-b164-1fa76e5c551e" type="box">5</container><container parent="a743756b-cc97-43d6-b164-1fa76e5c551e" type="folder">11</container>
+				<unittitle>
+				  <title>The Seri Indians</title>, Museum Exhibit, Bowers Memorial
+				  Museum. 
+				  <unitdate normal="1965" type="inclusive">1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="a3817df8-20e6-433e-80c6-51d18b38ddb5" type="box">5</container><container parent="a3817df8-20e6-433e-80c6-51d18b38ddb5" type="folder">12</container>
+				<unittitle>
+				  <title>Seri Country Today</title>, by Ted Trevor. 
+				  <unitdate normal="1965" type="inclusive">1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="c918dda0-3418-4af0-b619-2b96472059b8" type="box">5</container><container parent="c918dda0-3418-4af0-b619-2b96472059b8" type="folder">13</container>
+				<unittitle>
+				  <title>Segunda Cartilla Seri and Cuarta Cartilla Seri</title>, by
+				  Instituto Linguistico de Verano. 
+				  <unitdate normal="1966" type="inclusive">1966</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="78a9c8fc-2c09-4aaa-9eba-6beb3ebf5cb1" type="box">5</container><container parent="78a9c8fc-2c09-4aaa-9eba-6beb3ebf5cb1" type="folder">14</container>
+				<unittitle>
+				  <title>Recent Seri Culture Change</title>, by John A. Woodward. 
+				  <unitdate normal="1966" type="inclusive">1966</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="d5fde422-2288-490b-a159-607d290858b7" type="box">5</container><container parent="d5fde422-2288-490b-a159-607d290858b7" type="folder">15</container>
+				<unittitle>
+				  <title>Seri Pottery</title>, by Thomas Bowen and Edward Moser; 
+				  <title>Seri Clay Figurines</title>, by E. Moser and Richard S.
+				  White; 
+				  <title>Seri Ironwood Carving</title>, by Bernice Johnston. 
+				  <unitdate normal="1968" type="inclusive">1968</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="babdb561-b440-4ba5-8e9c-e82790b8f2a7" type="box">5</container><container parent="babdb561-b440-4ba5-8e9c-e82790b8f2a7" type="folder">16</container>
+				<unittitle>"Seri Studies," (7 articles in 
+				  <title>The Kiva</title>). 
+				  <unitdate normal="1970" type="inclusive">1970</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Writings by other authors -- unpublished</unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container id="f886acc1-415d-462a-a016-9a47e95aeb41" type="box">5</container><container parent="f886acc1-415d-462a-a016-9a47e95aeb41" type="folder">17</container>
+				<unittitle>
+				  <title>Informe del Intendente de Sonora acerca de la ilegitimidad
+					 del Monasterio de Monserrat, para reclamar derecho de propiedad sobre las
+					 tierras repartidas a los Seris en el Pueblo de Seris</title>. 
+				  <unitdate normal="1772" type="inclusive">1772</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="8400f1f2-10b9-41d3-a514-b0912db00ec4" type="box">5</container><container parent="8400f1f2-10b9-41d3-a514-b0912db00ec4" type="folder">18</container>
+				<unittitle>
+				  <title>Diario de operaciones y novedades ocurridas en la marcha
+					 sobre la isla del Tiburon</title>, by Francisco Andrade. 
+				  <unitdate normal="1844" type="inclusive">1844</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="66c94d81-4d14-430c-aa23-7bdd994dbc94" type="box">5</container><container parent="66c94d81-4d14-430c-aa23-7bdd994dbc94" type="folder">19</container>
+				<unittitle>Portion of a Typed Diary, written by George F. Flavell. 
+				  <unitdate normal="1894" type="inclusive">1894</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="881a7c37-d5a8-47ea-8425-755a4e1014c4" type="box">5</container><container parent="881a7c37-d5a8-47ea-8425-755a4e1014c4" type="folder">20</container>
+				<unittitle>
+				  <title render="italic">The Tribe of Seri Indians</title>, by C.M.
+				  Ginther. 
+				  <unitdate normal="1907" type="inclusive">1907</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="a654c504-c848-4b04-aaa3-ac407d7c01eb" type="box">5</container><container parent="a654c504-c848-4b04-aaa3-ac407d7c01eb" type="folder">21</container>
+				<unittitle>Makes Study of the Seris on Tiburon Island - Michael
+				  Williams Declares Indians are not Canibals (sic). 
+				  <unitdate normal="1925/1935" type="inclusive">ca.
+					 1930</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="a2e27ead-1d8c-4d96-add1-17064b7c2f7d" type="box">5</container><container parent="a2e27ead-1d8c-4d96-add1-17064b7c2f7d" type="folder">22</container>
+				<unittitle>
+				  <title render="italic">Isla del Tiburon</title>. 
+				  <unitdate normal="1943" type="inclusive">1943</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="747c6a4d-ea84-4468-83e1-89a4d6de4710" type="box">5</container><container parent="747c6a4d-ea84-4468-83e1-89a4d6de4710" type="folder">23</container>
+				<unittitle>
+				  <title render="italic">Report to American Friends Service
+					 Committee on Seri Indians</title>, by Norman Krekler. 
+				  <unitdate normal="1949" type="inclusive">1949</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e62c570d-d3af-476e-9a67-91f1906e52cf" type="box">5</container><container parent="e62c570d-d3af-476e-9a67-91f1906e52cf" type="folder">24</container>
+				<unittitle>
+				  <title>Los Indios Seris</title>, by M. Bernal Huetomu. 
+				  <unitdate normal="1950" type="inclusive">1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="eebb859e-e0ea-4a8c-b1bc-3064dce4be42" type="box">5</container><container parent="eebb859e-e0ea-4a8c-b1bc-3064dce4be42" type="folder">25</container>
+				<unittitle>
+				  <title>The Significance of Baja California for Anthropological
+					 Research</title>, by Ralph Beals. 
+				  <unitdate normal="1952" type="inclusive">1952</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="4b4cb37d-17f7-4378-8059-73af2ac3e6e0" type="box">5</container><container parent="4b4cb37d-17f7-4378-8059-73af2ac3e6e0" type="folder">26</container>
+				<unittitle>
+				  <title render="italic">La Resurreción de los
+					 Seris</title>, by Cesar Ramos. 
+				  <unitdate normal="1952" type="inclusive">1952</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="6d294fcc-5952-44ed-9860-09024edd255a" type="box">5</container><container parent="6d294fcc-5952-44ed-9860-09024edd255a" type="folder">27</container>
+				<unittitle>
+				  <title>The Papagos and Seris</title>, by Bonaventure Oblasser. 
+				  <unitdate normal="1957" type="inclusive">1957</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="3210cf33-5a99-4f66-b906-15ebe6e5bdcb" type="box">5</container><container parent="3210cf33-5a99-4f66-b906-15ebe6e5bdcb" type="folder">28</container>
+				<unittitle>
+				  <title>Mexican Trip - 1957</title>, by Frederic C. Alexander. 
+				  <unitdate normal="1957" type="inclusive">1957</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="c0f2f5d3-4618-4a87-8da1-2544264d1fd0" type="box">5</container><container parent="c0f2f5d3-4618-4a87-8da1-2544264d1fd0" type="folder">29</container>
+				<unittitle>
+				  <title>Informe de la prima brigada de exploracion sanitaria a la
+					 Tribu Seri en el ano de 1959</title>, by Ramiro Quezada et al. 
+				  <unitdate normal="1959" type="inclusive">1959</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="cb4b1522-030c-46fb-a3dc-7511bec5576b" type="box">5</container><container parent="cb4b1522-030c-46fb-a3dc-7511bec5576b" type="folder">30</container>
+				<unittitle>
+				  <title render="italic">Bandas Seri</title>, by Eduardo Moser. 
+				  <unitdate normal="1955/1965" type="inclusive">ca.
+					 1960</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="6f748cb0-9c46-47f6-a82d-a60e2d13917d" type="box">5</container><container parent="6f748cb0-9c46-47f6-a82d-a60e2d13917d" type="folder">31</container>
+				<unittitle>
+				  <title render="italic">Los Seris</title>, by Ricardo Pozas,
+				  I.N.A.H. 
+				  <unitdate normal="1961" type="inclusive">1961</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e37d3196-32ef-47f2-bf4b-c352f68ca48e" type="box">5</container><container parent="e37d3196-32ef-47f2-bf4b-c352f68ca48e" type="folder">32</container>
+				<unittitle>
+				  <title>Demographic Analysis of Four Small Ethnic Groups in the
+					 West</title>, by Henry Pang. 
+				  <unitdate normal="1967" type="inclusive">1967</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="fc94708b-f8c0-41fd-89d9-e3a3717b24a9" type="box">5</container><container parent="fc94708b-f8c0-41fd-89d9-e3a3717b24a9" type="folder">33</container>
+				<unittitle>Miscellaneous articles and notes on the Seri. 
+				  <unitdate normal="1935/1961" type="inclusive">1935-1961</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="374d224a-32e6-4fa4-aff5-c05f654f614b" type="box">5</container><container parent="374d224a-32e6-4fa4-aff5-c05f654f614b" type="folder">34</container>
+				<unittitle>Miscellaneous articles on Sonoran archaeology. 
+				  <unitdate normal="1908/1967" type="inclusive">1908-1967</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="25d24d50-4a37-4d0e-9638-c776162dbdfb" type="box">5</container><container parent="25d24d50-4a37-4d0e-9638-c776162dbdfb" type="folder">35</container>
+				<unittitle>
+				  <title>Western State Bulletin</title> of the American
+				  Anthropological Association. 
+				  <unitdate normal="1949/1952" type="inclusive">1949-1952</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series IV: Field Notebooks and Logs, 
+			 <unitdate normal="1945/1966" type="inclusive">1945-1966</unitdate></unittitle> 
+		</did> 
+		<c02 level="file">
+		  <did><container id="4221df23-426b-4568-b030-cc6a0b9a84e7" type="box">6</container><container parent="4221df23-426b-4568-b030-cc6a0b9a84e7" type="folder">1</container>
+			 <unittitle>Seri Field Notes. 
+				<unitdate normal="1946" type="inclusive">1946</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="b2afc120-798a-4df2-a969-1e7abe6f52cb" type="box">6</container><container parent="b2afc120-798a-4df2-a969-1e7abe6f52cb" type="folder">2-4</container>
+			 <unittitle>Seri Field Notes. 
+				<unitdate normal="1947" type="inclusive">1947</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="be8ae8a5-a241-473a-9eae-cb1738f3bf7d" type="box">6</container><container parent="be8ae8a5-a241-473a-9eae-cb1738f3bf7d" type="folder">5</container>
+			 <unittitle>Seri Field Notes. 
+				<unitdate normal="1948" type="inclusive">1948</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="fe84ebb8-88e0-4d74-bcdf-bd47bbb53505" type="box">6</container><container parent="fe84ebb8-88e0-4d74-bcdf-bd47bbb53505" type="folder">6</container>
+			 <unittitle>Seri Field Notes. 
+				<unitdate normal="1949" type="inclusive">1949</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="74109008-4e1b-4775-91fa-eccd0cb58a4f" type="box">6</container><container parent="74109008-4e1b-4775-91fa-eccd0cb58a4f" type="folder">7</container>
+			 <unittitle>Seri Field Notes. 
+				<unitdate normal="1950" type="inclusive">1950</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="ea7633a2-a1f8-4d5f-94cb-56586e16150e" type="box">6</container><container parent="ea7633a2-a1f8-4d5f-94cb-56586e16150e" type="folder">8</container>
+			 <unittitle>Seri Field Notes. 
+				<unitdate normal="1951" type="inclusive">1951</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="6d8fb41d-fd35-4281-8369-98ec03fadeda" type="box">6</container><container parent="6d8fb41d-fd35-4281-8369-98ec03fadeda" type="folder">9</container>
+			 <unittitle>Seri Field Notes. 
+				<unitdate normal="1952" type="inclusive">1952</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="80347e99-132a-4781-8ed7-5631d05aee20" type="box">6</container><container parent="80347e99-132a-4781-8ed7-5631d05aee20" type="folder">10</container>
+			 <unittitle>Seri Field Notes of Alfred F. Whiting. 
+				<unitdate normal="1951" type="inclusive">1951</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="e453e8cd-1b9b-424b-880a-781e53562cc9" type="box">7</container><container parent="e453e8cd-1b9b-424b-880a-781e53562cc9" type="folder">1</container>
+			 <unittitle>Seri Field Logs. 
+				<unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="b1a7ac2d-8516-46b9-be44-946b2ce60d4e" type="box">7</container><container parent="b1a7ac2d-8516-46b9-be44-946b2ce60d4e" type="folder">2</container>
+			 <unittitle>Seri Field Logs. 
+				<unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="0e4cdc80-0fd9-436d-8421-3cb70a4a4b87" type="box">7</container><container parent="0e4cdc80-0fd9-436d-8421-3cb70a4a4b87" type="folder">3</container>
+			 <unittitle>Seri Field Logs. 
+				<unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="6abaeb87-cea2-46d8-89ba-05bcf2d7f8a4" type="box">7</container><container parent="6abaeb87-cea2-46d8-89ba-05bcf2d7f8a4" type="folder">4</container>
+			 <unittitle>Seri Field Logs. 
+				<unitdate normal="1950/1952" type="inclusive">1950-1952</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="a2260443-064f-44c5-b04f-6e081557d947" type="box">7</container><container parent="a2260443-064f-44c5-b04f-6e081557d947" type="folder">5</container>
+			 <unittitle>Seri Field Logs. 
+				<unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="f88f0676-3634-480c-a60b-8c51a820db61" type="box">7</container><container parent="f88f0676-3634-480c-a60b-8c51a820db61" type="folder">6</container>
+			 <unittitle>Seri Field Logs. 
+				<unitdate normal="1954/1956" type="inclusive">1954-1956</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="30ad7f55-9ea8-4f3d-8b47-1714cb28152b" type="box">7</container><container parent="30ad7f55-9ea8-4f3d-8b47-1714cb28152b" type="folder">7</container>
+			 <unittitle>Seri Field Logs. 
+				<unitdate normal="1956/1959" type="inclusive">1956-1959</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="69e1a0ab-0cf5-46c3-977a-04f1d06b49a2" type="box">7</container><container parent="69e1a0ab-0cf5-46c3-977a-04f1d06b49a2" type="folder">8</container>
+			 <unittitle>Seri Field Logs. 
+				<unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series V: Research Files, 
+			 <unitdate normal="1890/1975" type="inclusive">1890-1975</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Census and Genealogy</unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container id="cff9907e-8301-4f39-b396-f07b7787f855" type="box">8</container><container parent="cff9907e-8301-4f39-b396-f07b7787f855" type="folder">1</container>
+				<unittitle>Census data -- Explanation of color code used for
+				  recording Seri genealogies. 
+				  <unitdate normal="1947/1953" type="inclusive">1947-1953</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="6e639628-1c06-427e-b57f-be5bbc665746" type="box">8</container><container parent="6e639628-1c06-427e-b57f-be5bbc665746" type="folder">2</container>
+				<unittitle>Census data -- Index to genealogies. 
+				  <unitdate normal="1945/1955" type="inclusive">ca.
+					 1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="7131b9eb-6007-4f6c-abf8-67b6d79787b3" type="box">8</container><container parent="7131b9eb-6007-4f6c-abf8-67b6d79787b3" type="folder">3</container>
+				<unittitle>Census data -- Notes regarding forms to be used for
+				  recording observations of Seri individuals (living). 
+				  <unitdate normal="1951" type="inclusive">1951</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="6bbd02d6-5731-4f16-8a2e-6831490bbeb1" type="box">8</container><container parent="6bbd02d6-5731-4f16-8a2e-6831490bbeb1" type="folder">4</container>
+				<unittitle>Census data. 
+				  <unitdate normal="" type="inclusive">1960-1965 [includes some
+					 1966-1970]</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="516c0096-42b2-4978-9da1-3f952090c7d6" type="box">8</container><container parent="516c0096-42b2-4978-9da1-3f952090c7d6" type="folder">5</container>
+				<unittitle>Census data -- Copies of data cards. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="089724ba-0138-41fd-98f6-6668d25be5f8" type="box">8</container><container parent="089724ba-0138-41fd-98f6-6668d25be5f8" type="folder">6</container>
+				<unittitle>Census data -- Miscellaneous notes
+				  <unitdate normal="1947" type="inclusive">Deaths before December
+					 31, 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e1afbc24-7486-448c-8f07-fb644b3a36f6" type="box">8</container><container parent="e1afbc24-7486-448c-8f07-fb644b3a36f6" type="folder">7-8</container>
+				<unittitle>Census data. 
+				  <unitdate normal="1947" type="inclusive">December 31,
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="67617588-0249-478a-8d70-1a0feb3f5db9" type="box">8</container><container parent="67617588-0249-478a-8d70-1a0feb3f5db9" type="folder">9</container>
+				<unittitle>Census data, annotated. 
+				  <unitdate normal="1947" type="inclusive">December 31,
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="5816350f-183e-4931-ba61-8f7de34c7adb" type="box">9</container><container parent="5816350f-183e-4931-ba61-8f7de34c7adb" type="folder">1</container>
+				<unittitle>Census data -- Notes. 
+				  <unitdate normal="1947" type="inclusive">December 31,
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="fba0ab4c-8526-4f59-8f1a-4a47ad9c87a3" type="box">9</container><container parent="fba0ab4c-8526-4f59-8f1a-4a47ad9c87a3" type="folder">2</container>
+				<unittitle>Census data -- Genealogical charts. 
+				  <unitdate normal="1942/1952" type="inclusive">ca.
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="ec24c65a-1214-419f-835e-eadf6ead3e67" type="box">9</container><container parent="ec24c65a-1214-419f-835e-eadf6ead3e67" type="folder">3</container>
+				<unittitle>Census data -- Graphs and tables. 
+				  <unitdate normal="1948/1967" type="inclusive">1948-1967</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="1b09b028-e19f-4219-9314-2604c9f78f7f" type="box">9</container><container parent="1b09b028-e19f-4219-9314-2604c9f78f7f" type="folder">4</container>
+				<unittitle>Census data -- Individual record sheets. 
+				  <unitdate normal="1950" type="inclusive">1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="f2bf428b-7899-4b30-847e-af825b18d1ec" type="box">9</container><container parent="f2bf428b-7899-4b30-847e-af825b18d1ec" type="folder">5</container>
+				<unittitle>Census data -- Miscellaneous notes. 
+				  <unitdate normal="1947/1955" type="inclusive">1947-1955</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="40a098fe-ce86-483f-a139-df46ead81647" type="box">10</container><container parent="40a098fe-ce86-483f-a139-df46ead81647" type="folder">1</container>
+				<unittitle>Census data -- Miscellaneous notes. 
+				  <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="57d795b1-9601-4210-b4f6-8e8785aeab73" type="box">10</container><container parent="57d795b1-9601-4210-b4f6-8e8785aeab73" type="folder">2</container>
+				<unittitle>Census data -- Miscellaneous notes. 
+				  <unitdate normal="1950/1952" type="inclusive">1950-1952</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="15af9c35-8d67-47d7-8b02-71deda779d85" type="box">10</container><container parent="15af9c35-8d67-47d7-8b02-71deda779d85" type="folder">3</container>
+				<unittitle>Census data -- Miscellaneous notes. 
+				  <unitdate normal="1958/1964" type="inclusive">1958-1964</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="a92ac78a-4cfb-46ff-b93a-152a9ab9ae8c" type="box">10</container><container parent="a92ac78a-4cfb-46ff-b93a-152a9ab9ae8c" type="folder">4</container>
+				<unittitle>Census data (Material for proposed monograph on 5-year
+				  population study of Seri 1948-1952). 
+				  <unitdate normal="1948/1954" type="inclusive">1948-1954</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="4ed428b2-1d20-4038-bab5-62fa2dcf47dd" type="box">10</container><container parent="4ed428b2-1d20-4038-bab5-62fa2dcf47dd" type="folder">5</container>
+				<unittitle>Census data -- Notebooks. 
+				  <unitdate normal="1948/1960" type="inclusive">1948-1960</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="640dadef-506b-404f-87bb-e2d69d05d3b2" type="box">10</container><container parent="640dadef-506b-404f-87bb-e2d69d05d3b2" type="folder">6</container>
+				<unittitle>Census data -- Observation and notes -- Males born prior
+				  to January 1930. 
+				  <unitdate normal="1950" type="inclusive">1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="7e0c76f2-5bfc-4fe0-9d80-50e80d8091da" type="box">11</container>
+				<unittitle>Census data -- Birth and death records, 1948-1960;
+				  families; records of descendants; Kinship linguistic records [on index cards]. 
+				  <unitdate normal="1948/1960" type="inclusive">1948-1960</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e4804098-39ab-4ccf-86b2-960c2e4d59c0" type="box">12</container>
+				<unittitle>Census data -- All Seris living December 31, 1947, or
+				  born after that date (includes Key to Cross-Index File) [on index cards]. 
+				  <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="6630305b-bcb2-4fd9-a245-6211199d2b5b" type="box">13</container>
+				<unittitle>Census data, 1890-1947 [on index cards]. 
+				  <unitdate normal="1890/1947" type="inclusive">1890-1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Sea Turtle Figurine Study</unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container id="3e94acac-f38e-4bd2-ac46-1f5df81890dc" type="box">14</container><container parent="3e94acac-f38e-4bd2-ac46-1f5df81890dc" type="folder">1</container>
+				<unittitle>Figurines: Correspondence. 
+				  <unitdate normal="1954/1970" type="inclusive">1954-1970</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="131925b9-7d3e-4021-9dee-0e329a2625f2" type="box">14</container><container parent="131925b9-7d3e-4021-9dee-0e329a2625f2" type="folder">2</container>
+				<unittitle>Correspondence with Carl L. Hubbs, Scripps Institute. 
+				  <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="59a2e8fd-a63f-4b18-83c8-d5058c026cc8" type="box">14</container><container parent="59a2e8fd-a63f-4b18-83c8-d5058c026cc8" type="folder">3</container>
+				<unittitle>Correspondence with Carl Schuster. 
+				  <unitdate normal="1963/1970" type="inclusive">1963-1970</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="5a132fdb-e291-4352-8a12-e226dcc7ee7f" type="box">14</container><container parent="5a132fdb-e291-4352-8a12-e226dcc7ee7f" type="folder">4</container>
+				<unittitle>Miscellaneous notes, sketches, references. 
+				  <unitdate normal="1960/1970" type="inclusive">ca.
+					 1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="13f432dc-1696-4a66-9fb9-996c764acd88" type="box">14</container><container parent="13f432dc-1696-4a66-9fb9-996c764acd88" type="folder">5</container>
+				<unittitle>Manuscript draft with annotations by Bernard Fontana. 
+				  <unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="93462501-79b1-479f-bf21-9db322057c7d" type="box">14</container><container parent="93462501-79b1-479f-bf21-9db322057c7d" type="folder">6</container>
+				<unittitle>Manuscript draft. 
+				  <unitdate normal="1967" type="inclusive">1967</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="c12bd5fa-9ddd-45c0-9247-37214c127751" type="box">14</container><container parent="c12bd5fa-9ddd-45c0-9247-37214c127751" type="folder">7</container>
+				<unittitle>Abstract of paper presented at American Association for
+				  Advancement of Science Annual Meeting. 
+				  <unitdate normal="1967" type="inclusive">1967</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="093e67fc-6e99-4342-9cdf-2fe6bfc1bfce" type="box">14</container><container parent="093e67fc-6e99-4342-9cdf-2fe6bfc1bfce" type="folder">8</container>
+				<unittitle>Notes and observations, questions. 
+				  <unitdate normal="1967/1969" type="inclusive">1967-1969</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="ddb9ae86-fc7b-47cb-bbc9-a5a8556f0cc0" type="box">14</container><container parent="ddb9ae86-fc7b-47cb-bbc9-a5a8556f0cc0" type="folder">9</container>
+				<unittitle>Kunkaak Culture - Tiburon Island, manuscript draft with
+				  comments by Charles Di Peso, Director, Amerind Foundation. 
+				  <unitdate normal="1969" type="inclusive">1969</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="0f610d9b-5de0-4360-a771-d22c8304bd1b" type="box">14</container><container parent="0f610d9b-5de0-4360-a771-d22c8304bd1b" type="folder">10</container>
+				<unittitle>Notes - Journal articles. 
+				  <unitdate normal="NaN/NaN" type="inclusive">ca.
+					 1960s</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="07b8dfcf-aa25-4a8f-b15a-1794423dc48d" type="box">14</container><container parent="07b8dfcf-aa25-4a8f-b15a-1794423dc48d" type="folder">11</container>
+				<unittitle>Photographs of types I-IV, caches, brands and other
+				  miscellaneous figurine photographs, by Carl Schuster. 
+				  <unitdate normal="NaN/NaN" type="inclusive">ca.
+					 1960s</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="b7887d81-94de-4f57-baf2-b891d6bfd362" type="box">15</container><container parent="b7887d81-94de-4f57-baf2-b891d6bfd362" type="folder">1</container>
+				<unittitle>Figurines: Types and geographic ranges. 
+				  <unitdate normal="1963" type="inclusive">1963</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e3cb53b4-ff50-4b6a-a9b4-503e57f30ae8" type="box">15</container><container parent="e3cb53b4-ff50-4b6a-a9b4-503e57f30ae8" type="folder">2</container>
+				<unittitle>Types -- Smith classification. 
+				  <unitdate normal="NaN/NaN" type="inclusive">ca.
+					 1960s</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="0684f44f-91ad-4a42-9215-f93888408827" type="box">15</container><container parent="0684f44f-91ad-4a42-9215-f93888408827" type="folder">3</container>
+				<unittitle>Photographs from other sites, museum. 
+				  <unitdate normal="1967" type="inclusive">1967</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="4d4c449f-17db-4d2e-84b0-b2b11e50786f" type="box">15</container><container parent="4d4c449f-17db-4d2e-84b0-b2b11e50786f" type="folder">4</container>
+				<unittitle>Specimens from Arizona State Museum -- Photographs. 
+				  <unitdate normal="NaN/NaN" type="inclusive">ca.
+					 1960s</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="422eb044-be4f-41e1-a2cf-61bb512d1b01" type="box">15</container><container parent="422eb044-be4f-41e1-a2cf-61bb512d1b01" type="folder">5</container>
+				<unittitle>Specimens from Mexico, Collection of the University of
+				  Pennsylvania Museum -- Photographs. 
+				  <unitdate normal="NaN/NaN" type="inclusive">ca.
+					 1960s</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e90f127b-eda1-4253-ad22-7662f3b5c102" type="box">15</container><container parent="e90f127b-eda1-4253-ad22-7662f3b5c102" type="folder">6</container>
+				<unittitle>Figurines and "Estrellas" - Photographs by Carl
+				  Schuster. 
+				  <unitdate normal="NaN/NaN" type="inclusive">ca.
+					 1960s</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="49065f7a-c597-4d42-9996-20d7d2c0f148" type="box">15</container><container parent="49065f7a-c597-4d42-9996-20d7d2c0f148" type="folder">7-8</container>
+				<unittitle>Photographs by Carl Schuster, in package sent to Bernard
+				  Fontana, Arizona State Museum. 
+				  <unitdate normal="NaN/NaN" type="inclusive">ca.
+					 1960s</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="77690261-6942-44d1-8481-83609f16f307" type="box">16</container><container parent="77690261-6942-44d1-8481-83609f16f307" type="folder">1-2</container>
+				<unittitle>Figurines: Photographs by Carl Schuster. 
+				  <unitdate normal="NaN/NaN" type="inclusive">ca.
+					 1960s</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="c98f91f6-3985-4836-aa49-bb724b6367e8" type="box">16</container><container parent="c98f91f6-3985-4836-aa49-bb724b6367e8" type="folder">3</container>
+				<unittitle>Miscellaneous photographs. 
+				  <unitdate normal="NaN/NaN" type="inclusive">ca.
+					 1960s</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="06e1f2a8-c259-4f4c-8ef0-bdd92ab6d812" type="box">16</container><container parent="06e1f2a8-c259-4f4c-8ef0-bdd92ab6d812" type="folder">4</container>
+				<unittitle>Cruciform object study (prehistoric). 
+				  <unitdate normal="NaN" type="inclusive">1960s</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Film Projects</unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container id="f3bbbeef-d40e-412d-a716-316b1d060f1a" type="box">17</container><container parent="f3bbbeef-d40e-412d-a716-316b1d060f1a" type="folder">1</container>
+				<unittitle>Seri film -- Viking fund grant. 
+				  <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="8ceda190-067f-4ba0-bb71-2cc9a8d402f2" type="box">17</container><container parent="8ceda190-067f-4ba0-bb71-2cc9a8d402f2" type="folder">2</container>
+				<unittitle>Mickey Mouse Club Television Program, "Seri Children's
+				  Activities," ("Peoples and Places in the World," T.V., spring 1955). 
+				  <unitdate normal="1955" type="inclusive">1955</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="da0bb8c9-2d53-4574-9635-d27cb73e1fac" type="box">17</container><container parent="da0bb8c9-2d53-4574-9635-d27cb73e1fac" type="folder">3</container>
+				<unittitle>Clippings. 
+				  <unitdate normal="1955" type="inclusive">1955</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="54eff408-4ed0-41cd-a2a1-a11835c7bfdc" type="box">17</container><container parent="54eff408-4ed0-41cd-a2a1-a11835c7bfdc" type="folder">4</container>
+				<unittitle>Disney Studios. 
+				  <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="98673b48-a581-4bbf-a757-7bec7d925eca" type="box">17</container><container parent="98673b48-a581-4bbf-a757-7bec7d925eca" type="folder">5</container>
+				<unittitle>Seri film -- Plan and organization used in shooting
+				  film, Tiburon Island, 1950-1954. 
+				  <unitdate normal="1955/1965" type="inclusive">ca.
+					 1960</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="22b088f8-e47d-46a1-9d7e-0a9d131963f4" type="box">17</container><container parent="22b088f8-e47d-46a1-9d7e-0a9d131963f4" type="folder">6</container>
+				<unittitle>Seri film -- Map data, organization of titles,
+				  introduction and plan for organization of reels I and II. 
+				  <unitdate normal="1955/1965" type="inclusive">ca.
+					 1960</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="a8e419fd-1e98-4fdd-931a-e0b008daf13b" type="box">17</container><container parent="a8e419fd-1e98-4fdd-931a-e0b008daf13b" type="folder">7</container>
+				<unittitle>Seri film -- Notes and data -- Cutting records, footage
+				  records. 
+				  <unitdate normal="" type="inclusive">July-September
+					 1960</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="c32e6514-813e-4ac7-baf5-8263a0a1dc18" type="box">17</container><container parent="c32e6514-813e-4ac7-baf5-8263a0a1dc18" type="folder">8</container>
+				<unittitle>Seri film -- Notes -- Sequence organization. 
+				  <unitdate normal="1960" type="inclusive">1960</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="390393ec-8691-489f-9cfb-3ed0396b00f7" type="box">17</container><container parent="390393ec-8691-489f-9cfb-3ed0396b00f7" type="folder">9</container>
+				<unittitle>Seri film - Notes on grants, correspondence, other film
+				  projects. 
+				  <unitdate normal="1960/1962" type="inclusive">1960-1962</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="c3b75253-16bd-4357-bd55-f99ec9aa7635" type="box">17</container><container parent="c3b75253-16bd-4357-bd55-f99ec9aa7635" type="folder">10</container>
+				<unittitle>Seri film -- Data on University of Arizona project. 
+				  <unitdate normal="1961" type="inclusive">1961</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="3eb3c5df-7dad-41b1-81f3-cb02756716e4" type="box">17</container><container parent="3eb3c5df-7dad-41b1-81f3-cb02756716e4" type="folder">11</container>
+				<unittitle>Introduction to Accompany the Moving Picture "The Seri
+				  Indians of Tiburon Island," by W. N. Smith (text for film). 
+				  <unitdate normal="1966" type="inclusive">1966</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="f6d16e1a-ca8a-48b4-95c1-2437450bcdb7" type="box">17</container><container parent="f6d16e1a-ca8a-48b4-95c1-2437450bcdb7" type="folder">12</container>
+				<unittitle>Correspondence -- Patos Island film. 
+				  <unitdate normal="1966/1969" type="inclusive">1966-1969</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="65446cfc-bec9-436b-8c86-6f4a1d154e65" type="box">17</container><container parent="65446cfc-bec9-436b-8c86-6f4a1d154e65" type="folder">13</container>
+				<unittitle>Four Seasonal Coverage of the Ecological Aspects of
+				  Survival in a Sub-marginal Marine-Desert Environment, by W. N. Smith (film
+				  notes). 
+				  <unitdate normal="1968" type="inclusive">1968</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Subject Files</unittitle>
+		  </did>
+		  <c03 otherlevel="subsubseries">
+			 <did>
+				<unittitle>Seri subject files</unittitle>
+			 </did>
+			 <c04 level="file">
+				<did><container id="0fb88d22-a37f-4a68-929b-41778954ce41" type="box">18</container><container parent="0fb88d22-a37f-4a68-929b-41778954ce41" type="folder">1</container>
+				  <unittitle>Balsa boats. 
+					 <unitdate normal="1955" type="inclusive">1955</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="fa14680d-c517-4824-9f77-d00e4acd3406" type="box">18</container><container parent="fa14680d-c517-4824-9f77-d00e4acd3406" type="folder">2</container>
+				  <unittitle>Band distribution -- Notes and maps. 
+					 <unitdate normal="1956" type="inclusive">1956</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="a2becddc-8086-4404-9296-e1afeb0f27e6" type="box">18</container><container parent="a2becddc-8086-4404-9296-e1afeb0f27e6" type="folder">3</container>
+				  <unittitle>Basketry. 
+					 <unitdate normal="1952" type="inclusive">1952</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="2804fa88-8149-43f8-bc46-064f78839489" type="box">18</container><container parent="2804fa88-8149-43f8-bc46-064f78839489" type="folder">4-8</container>
+				  <unittitle>Bibliography. </unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="9899ba63-8a33-43a6-976d-1a54aa7f5365" type="box">18</container><container parent="9899ba63-8a33-43a6-976d-1a54aa7f5365" type="folder">9</container>
+				  <unittitle>Birth control practices. </unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="49504511-0edc-4977-8377-d469bbcaf0d7" type="box">18</container><container parent="49504511-0edc-4977-8377-d469bbcaf0d7" type="folder">10</container>
+				  <unittitle>Blanket drive. 
+					 <unitdate normal="1948" type="inclusive">1948</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="2c1c037f-3df3-4581-818a-b6d69e029431" type="box">18</container><container parent="2c1c037f-3df3-4581-818a-b6d69e029431" type="folder">11</container>
+				  <unittitle>Boat project (to raise funds for purchase of lumber to
+					 make boat for Montano Family). 
+					 <unitdate normal="1950" type="inclusive">1950</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="5f8bc8f4-0efc-46b5-94f4-f0aafa614e6b" type="box">19</container><container parent="5f8bc8f4-0efc-46b5-94f4-f0aafa614e6b" type="folder">1</container>
+				  <unittitle>Camps -- Household composition. 
+					 <unitdate normal="1949/1953" type="inclusive">1949-1953</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="756ce39b-6809-4ff2-9bf2-21ccbd2b0e19" type="box">19</container><container parent="756ce39b-6809-4ff2-9bf2-21ccbd2b0e19" type="folder">2</container>
+				  <unittitle>Clippings. 
+					 <unitdate normal="1950/1956" type="inclusive">1950-1956</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="c850a44a-86c1-4388-9c9c-c4a048d86804" type="box">19</container><container parent="c850a44a-86c1-4388-9c9c-c4a048d86804" type="folder">3-4</container>
+				  <unittitle>Clippings. 
+					 <unitdate normal="1952/1975" type="inclusive">1952-1975</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="0f90a734-a0f4-4ba6-a9a0-59ca4e9c7572" type="box">19</container><container parent="0f90a734-a0f4-4ba6-a9a0-59ca4e9c7572" type="folder">5</container>
+				  <unittitle>Clippings -- Seri political movement. 
+					 <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="58c756b6-17f2-493b-9777-a3c5f4fab80e" type="box">19</container><container parent="58c756b6-17f2-493b-9777-a3c5f4fab80e" type="folder">6</container>
+				  <unittitle>Clippings -- Native American and other miscellaneous. 
+					 <unitdate normal="1943/1975" type="inclusive">1943-1975</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="3f37e95c-e722-4000-b168-9c78c17e01e3" type="box">19</container><container parent="3f37e95c-e722-4000-b168-9c78c17e01e3" type="folder">7</container>
+				  <unittitle>Culture change. 
+					 <unitdate normal="1950/1960" type="inclusive">1950-1960</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="05ae0e2f-c1eb-4f3d-bd5f-a523fbbe1114" type="box">19</container><container parent="05ae0e2f-c1eb-4f3d-bd5f-a523fbbe1114" type="folder">8</container>
+				  <unittitle>Ethnography. 
+					 <unitdate normal="1949" type="inclusive">1949</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="4d200013-b5f4-47fb-873d-0039787feb3f" type="box">19</container><container parent="4d200013-b5f4-47fb-873d-0039787feb3f" type="folder">9</container>
+				  <unittitle>Ethnography (Tiburon Island). 
+					 <unitdate normal="1949" type="inclusive">1949</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="8b2303b7-a269-44f6-b028-1d6356058981" type="box">19</container><container parent="8b2303b7-a269-44f6-b028-1d6356058981" type="folder">10</container>
+				  <unittitle>Ethnography (Tiburon, San Esteban Islands, etc.). 
+					 <unitdate normal="1947/1952" type="inclusive">1947-1952</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="4add4842-16e9-46e4-a6ea-6cdaa2c74548" type="box">19</container><container parent="4add4842-16e9-46e4-a6ea-6cdaa2c74548" type="folder">11</container>
+				  <unittitle>Exhibit -- Arizona State Museum. 
+					 <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="734a1527-c66a-42d0-b71f-327d49d1e893" type="box">20</container><container parent="734a1527-c66a-42d0-b71f-327d49d1e893" type="folder">1</container>
+				  <unittitle>Exhibit in Harold Porter's window. 
+					 <unitdate normal="1951" type="inclusive">1951</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="01f76499-5c5b-40fe-9d3d-ae76ade0181b" type="box">20</container><container parent="01f76499-5c5b-40fe-9d3d-ae76ade0181b" type="folder">2</container>
+				  <unittitle>Exhibit -- Tucson Festival of the Arts. 
+					 <unitdate normal="1951" type="inclusive">1951</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="a78e933b-c2ed-46e3-b757-8e8c3fd5ed08" type="box">20</container><container parent="a78e933b-c2ed-46e3-b757-8e8c3fd5ed08" type="folder">3</container>
+				  <unittitle>Face paintings and miscellaneous drawings. 
+					 <unitdate normal="1946/1949" type="inclusive">1946-1949</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="a0e10554-e935-44d1-bc3f-59defd11dbc8" type="box">20</container><container parent="a0e10554-e935-44d1-bc3f-59defd11dbc8" type="folder">4</container>
+				  <unittitle>Fishing cooperative, (original formation at Bahia
+					 Kino--1934--Lazero Cardenas--Cooperativa de la Tribu Seri--Vaguero was orignal
+					 head). 
+					 <unitdate normal="1949" type="inclusive">1949</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="5d8dc273-d5c9-4704-8f6c-c228fc7f659a" type="box">20</container><container parent="5d8dc273-d5c9-4704-8f6c-c228fc7f659a" type="folder">5</container>
+				  <unittitle>Fund/expenses. 
+					 <unitdate normal="1952" type="inclusive">1952</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="7c4b23f5-344e-4b3a-965c-4eda45a5ada2" type="box">20</container><container parent="7c4b23f5-344e-4b3a-965c-4eda45a5ada2" type="folder">6</container>
+				  <unittitle>History -- Spanish period. 
+					 <unitdate normal="1600/1800" type="inclusive">1600-1800</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="aca73d59-457c-4b71-ab26-deaf7babb510" type="box">20</container><container parent="aca73d59-457c-4b71-ab26-deaf7babb510" type="folder">7</container>
+				  <unittitle>History -- 19th century. 
+					 <unitdate normal="1800/1900" type="inclusive">1800-1900</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="87440d5d-9c7d-4a7c-a492-c29395ab9cf4" type="box">20</container><container parent="87440d5d-9c7d-4a7c-a492-c29395ab9cf4" type="folder">8</container>
+				  <unittitle>Historical records. 
+					 <unitdate normal="1900/1920" type="inclusive">1900-1920</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="8dcd6781-54fc-496f-9112-c7e484c4d52f" type="box">20</container><container parent="8dcd6781-54fc-496f-9112-c7e484c4d52f" type="folder">9</container>
+				  <unittitle>Historical records. 
+					 <unitdate normal="1920/1930" type="inclusive">1920-1930</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="58d052f2-50ed-40e4-a7c3-0cd4b914a9f8" type="box">20</container><container parent="58d052f2-50ed-40e4-a7c3-0cd4b914a9f8" type="folder">10</container>
+				  <unittitle>Historical records. 
+					 <unitdate normal="1930/1940" type="inclusive">1930-1940</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="50c0bbb5-74de-4955-a8f8-64eaf77ecb5b" type="box">20</container><container parent="50c0bbb5-74de-4955-a8f8-64eaf77ecb5b" type="folder">11</container>
+				  <unittitle>Historical records. 
+					 <unitdate normal="1940/1950" type="inclusive">1940-1950</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="1764810d-91d2-41bc-b71c-1b677fa2d59b" type="box">20</container><container parent="1764810d-91d2-41bc-b71c-1b677fa2d59b" type="folder">12</container>
+				  <unittitle>Historical records. 
+					 <unitdate normal="" type="inclusive">1950-</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="b7cc9c53-b69b-4082-aee3-7b3e1ec8c1af" type="box">20</container><container parent="b7cc9c53-b69b-4082-aee3-7b3e1ec8c1af" type="folder">13</container>
+				  <unittitle>Influenza vaccine for Seri. 
+					 <unitdate normal="1956" type="inclusive">1956</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="ab4e922a-ea3c-42cc-8ff9-2e8f541aa081" type="box">20</container><container parent="ab4e922a-ea3c-42cc-8ff9-2e8f541aa081" type="folder">14</container>
+				  <unittitle>Ironwood carvings. 
+					 <unitdate normal="1969" type="inclusive">1969</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04>
+				<did><container id="c458ec39-d956-41eb-aefd-37efeda6e1fa" type="box">20</container><container parent="c458ec39-d956-41eb-aefd-37efeda6e1fa" type="folder">15</container>
+				  <unittitle>Kinship. 
+					 <unitdate normal="1945/1955" type="inclusive">ca.
+						1950</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="007b2ec0-59cf-4956-a09c-64a3e965ff81" type="box">21</container><container parent="007b2ec0-59cf-4956-a09c-64a3e965ff81" type="folder">1-2</container>
+				  <unittitle>Language. 
+					 <unitdate normal="1947/1952" type="inclusive">1947-1952</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="686710fa-589c-4404-9173-dfe7c8d9335c" type="box">21</container><container parent="686710fa-589c-4404-9173-dfe7c8d9335c" type="folder">3</container>
+				  <unittitle>Lecture: Heard Museum, Phoenix. 
+					 <unitdate normal="" type="inclusive">January 15-16,
+						1948</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="43c26c31-b3a5-486b-83ce-daf987e689b9" type="box">21</container><container parent="43c26c31-b3a5-486b-83ce-daf987e689b9" type="folder">4</container>
+				  <unittitle>Heard Museum, Phoenix. 
+					 <unitdate normal="" type="inclusive">January 26-27,
+						1950</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="2f97e8dc-0c76-471c-9e78-ad8462107adb" type="box">21</container><container parent="2f97e8dc-0c76-471c-9e78-ad8462107adb" type="folder">5</container>
+				  <unittitle>Heard Museum, Phoenix. 
+					 <unitdate normal="" type="inclusive">February 7-8,
+						1952</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="b2fa9f00-b287-42d3-b407-e013c5bb9cdf" type="box">21</container><container parent="b2fa9f00-b287-42d3-b407-e013c5bb9cdf" type="folder">6</container>
+				  <unittitle>Hermosillo, Sonora. 
+					 <unitdate normal="1952" type="inclusive">February 16,
+						1952</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="1d2f224e-9ed6-492f-a666-2527e3edd4e2" type="box">21</container><container parent="1d2f224e-9ed6-492f-a666-2527e3edd4e2" type="folder">7</container>
+				  <unittitle>Kiwanis, Scottsdale, Arizona. 
+					 <unitdate normal="1950" type="inclusive">March 24,
+						1950</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="0255d82a-71a5-4239-b093-e2a048bb823a" type="box">21</container><container parent="0255d82a-71a5-4239-b093-e2a048bb823a" type="folder">8</container>
+				  <unittitle>Santa Barbara Museum of Natural History. 
+					 <unitdate normal="1949" type="inclusive">February
+						1949</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="441e9c61-f988-4a14-99d7-beb1f8999556" type="box">21</container><container parent="441e9c61-f988-4a14-99d7-beb1f8999556" type="folder">9</container>
+				  <unittitle>Lectures -- Miscellaneous records. 
+					 <unitdate normal="1944/1965" type="inclusive">1944-1965</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="1fd2552d-c5e8-4f4e-89ef-780f76ed0223" type="box">21</container><container parent="1fd2552d-c5e8-4f4e-89ef-780f76ed0223" type="folder">10</container>
+				  <unittitle>Maps (annotated by W.N. Smith). 
+					 <unitdate normal="1944/1952" type="inclusive">1944-1952</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="37558447-23eb-431e-88b8-17d667591c6d" type="box">21</container><container parent="37558447-23eb-431e-88b8-17d667591c6d" type="folder">11-12</container>
+				  <unittitle>Maps. 
+					 <unitdate normal="1947/1952" type="inclusive">1947-1952</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="7ad631a3-2608-4a1c-bd34-e7a0f9e625d9" type="box">21</container><container parent="7ad631a3-2608-4a1c-bd34-e7a0f9e625d9" type="folder">13</container>
+				  <unittitle>Maps. 
+					 <unitdate normal="1945/1955" type="inclusive">ca.
+						1950</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="67f62a1c-ce9a-4499-87cb-0300377bdbf3" type="box">21</container><container parent="67f62a1c-ce9a-4499-87cb-0300377bdbf3" type="folder">14</container>
+				  <unittitle>Maps. 
+					 <unitdate normal="1947/1957" type="inclusive">ca.
+						1952</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="35dd2f7e-f826-4058-8438-17b72d43e1a0" type="box">22</container><container parent="35dd2f7e-f826-4058-8438-17b72d43e1a0" type="folder">1</container>
+				  <unittitle>Materials collected for Seri by W.N. Smith. 
+					 <unitdate normal="1947/1963" type="inclusive">1947-1963</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="0f11033b-92be-442d-8ee9-8403b0970d12" type="box">22</container><container parent="0f11033b-92be-442d-8ee9-8403b0970d12" type="folder">2</container>
+				  <unittitle>Measles epidemic. 
+					 <unitdate normal="1955" type="inclusive">Spring
+						1955</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="0da35b81-4e66-4424-9c6c-37b923297e86" type="box">22</container><container parent="0da35b81-4e66-4424-9c6c-37b923297e86" type="folder">3</container>
+				  <unittitle>Miscellaneous notes -- Seri lifeway. 
+					 <unitdate normal="NaN" type="inclusive">1950s</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="dda0d0ac-ff14-4339-a388-374f79c05387" type="box">22</container><container parent="dda0d0ac-ff14-4339-a388-374f79c05387" type="folder">4</container>
+				  <unittitle>Notes on field methods. </unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="38202c4c-49f6-49e0-ba77-b762bb9dad9c" type="box">22</container><container parent="38202c4c-49f6-49e0-ba77-b762bb9dad9c" type="folder">5</container>
+				  <unittitle>Preparations for trips to Seri country. 
+					 <unitdate normal="1947/1952" type="inclusive">1947-1952</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="fe003a1e-3094-4ad5-9cfe-3f7ae65176c6" type="box">22</container><container parent="fe003a1e-3094-4ad5-9cfe-3f7ae65176c6" type="folder">6</container>
+				  <unittitle>Puberty ceremony songs. 
+					 <unitdate normal="1958" type="inclusive">1958</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="26e7bed5-8087-4684-ab65-44d676a55cb4" type="box">22</container><container parent="26e7bed5-8087-4684-ab65-44d676a55cb4" type="folder">7</container>
+				  <unittitle>Puberty records. 
+					 <unitdate normal="1950/1955" type="inclusive">1950-1955</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="17a4ad82-e1c3-4ce5-bdc6-bf1c97d5fe0c" type="box">22</container><container parent="17a4ad82-e1c3-4ce5-bdc6-bf1c97d5fe0c" type="folder">8</container>
+				  <unittitle>Quakers-American Friends Service Committee (A.F.S.C.).
+					 
+					 <unitdate normal="1947/1954" type="inclusive">1947-1954</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="0f0ffd5a-b813-488e-a3c5-50b6bef06b15" type="box">22</container><container parent="0f0ffd5a-b813-488e-a3c5-50b6bef06b15" type="folder">9</container>
+				  <unittitle>Quakers -- Notes/correspondence -- W.N. Smith. 
+					 <unitdate normal="1948/1953" type="inclusive">1948-1953</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="93e6f63f-0ae1-4643-9b73-d999ea3d00bc" type="box">22</container><container parent="93e6f63f-0ae1-4643-9b73-d999ea3d00bc" type="folder">10</container>
+				  <unittitle>Quakers -- A.F.S.C. -- Norman Krekler letter (also L.
+					 Warren, J. Collins, and D. Spence). 
+					 <unitdate normal="1949/1951" type="inclusive">1949-1951</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="378e59d8-cc64-4477-963e-49ad7be38c1c" type="box">22</container><container parent="378e59d8-cc64-4477-963e-49ad7be38c1c" type="folder">11</container>
+				  <unittitle>Quakers -- A.F.S.C. 
+					 <unitdate normal="1950" type="inclusive">1950</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="69e6a045-32c5-4803-b78f-15bbe7081256" type="box">22</container><container parent="69e6a045-32c5-4803-b78f-15bbe7081256" type="folder">12</container>
+				  <unittitle>Quakers -- A.F.S.C. project. 
+					 <unitdate normal="1950/1955" type="inclusive">1950-1955</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="a30eb122-002e-4eff-9f2d-816899dbbcd1" type="box">22</container><container parent="a30eb122-002e-4eff-9f2d-816899dbbcd1" type="folder">13</container>
+				  <unittitle>Quakers -- A.F.S.C. project -- Sandoval-Scholl data. 
+					 <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="e28b05fe-8a03-48cd-8fd3-b32342eced40" type="box">22</container><container parent="e28b05fe-8a03-48cd-8fd3-b32342eced40" type="folder">14</container>
+				  <unittitle>Quakers -- A.F.S.C. project. 
+					 <unitdate normal="1955/1961" type="inclusive">1955-1961</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="9855d086-cef9-4890-a59d-3e6300a1783f" type="box">22</container><container parent="9855d086-cef9-4890-a59d-3e6300a1783f" type="folder">15</container>
+				  <unittitle>Religion. 
+					 <unitdate normal="1966" type="inclusive">1966</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="4639e784-25d5-41a8-a980-7e3478301878" type="box">22</container><container parent="4639e784-25d5-41a8-a980-7e3478301878" type="folder">16</container>
+				  <unittitle>Seri Fund records. 
+					 <unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="d13c9433-4201-4e73-8dfb-316a6ad65585" type="box">23</container><container parent="d13c9433-4201-4e73-8dfb-316a6ad65585" type="folder">1</container>
+				  <unittitle>Visit to Arizona. 
+					 <unitdate normal="" type="inclusive">September-October
+						1948</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="1aceb6fa-28a1-4d4b-9e7d-31deb810bd3b" type="box">23</container><container parent="1aceb6fa-28a1-4d4b-9e7d-31deb810bd3b" type="folder">2</container>
+				  <unittitle>Visit to Arizona and California. 
+					 <unitdate normal="1950" type="inclusive">1950</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="95585c80-a39d-49e0-b99f-6529143da341" type="box">23</container><container parent="95585c80-a39d-49e0-b99f-6529143da341" type="folder">3</container>
+				  <unittitle>Visit to Tucson, northern Arizona. 
+					 <unitdate normal="" type="inclusive">September-November
+						1951</unitdate></unittitle>
+				</did>
+			 </c04>
+		  </c03>
+		  <c03 otherlevel="subsubseries">
+			 <did>
+				<unittitle>Miscellaneous subject files</unittitle>
+			 </did>
+			 <c04 level="file">
+				<did><container id="30c26efe-9f74-4e17-923a-537bf0670d35" type="box">23</container><container parent="30c26efe-9f74-4e17-923a-537bf0670d35" type="folder">4</container>
+				  <unittitle>American Anthropological Association. 
+					 <unitdate normal="1946" type="inclusive">1946</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="062edbcd-e3d1-4533-80bd-4e9aaef5a713" type="box">23</container><container parent="062edbcd-e3d1-4533-80bd-4e9aaef5a713" type="folder">5</container>
+				  <unittitle>American Anthropological Association, 52nd annual
+					 meeting. 
+					 <unitdate normal="1953" type="inclusive">1953</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="7526d7cc-f9d8-4d87-80e6-642c677389fd" type="box">23</container><container parent="7526d7cc-f9d8-4d87-80e6-642c677389fd" type="folder">6</container>
+				  <unittitle>American Ethnological Society Meeting, Tucson. 
+					 <unitdate normal="1953" type="inclusive">1953</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="13863990-21f6-4506-8fb8-1968e50c18b5" type="box">23</container><container parent="13863990-21f6-4506-8fb8-1968e50c18b5" type="folder">7</container>
+				  <unittitle>American Folklore Society. 
+					 <unitdate normal="1945/1955" type="inclusive">ca.
+						1950</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="f0848791-c586-4ee9-8a5d-3ef9dba49eb3" type="box">23</container><container parent="f0848791-c586-4ee9-8a5d-3ef9dba49eb3" type="folder">8</container>
+				  <unittitle>American Indian Ethnohistoric Conference, Tucson. 
+					 <unitdate normal="1965" type="inclusive">1965</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="c95a323c-abd1-4c9b-bc17-41fed06753ca" type="box">23</container><container parent="c95a323c-abd1-4c9b-bc17-41fed06753ca" type="folder">9</container>
+				  <unittitle>Congress of Mexican Historians, La Paz, Lower
+					 California. 
+					 <unitdate normal="" type="inclusive">January-February
+						1952</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="0bc3e300-806f-4f72-adf4-c758169290fb" type="box">23</container><container parent="0bc3e300-806f-4f72-adf4-c758169290fb" type="folder">10</container>
+				  <unittitle>IX Congreso Nacional de Sociologia, Hermosillo,
+					 Sonora. 
+					 <unitdate normal="1962" type="inclusive">1962</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="3e8f82bb-8df7-4c5f-bd1e-41d86efa7d6a" type="box">23</container><container parent="3e8f82bb-8df7-4c5f-bd1e-41d86efa7d6a" type="folder">11</container>
+				  <unittitle>Southern Arizona School for boys, Tucson. 
+					 <unitdate normal="" type="inclusive">1934-1960s</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container id="0eb5100c-e4a4-4dcf-953a-4cb55fdb13c1" type="box">23</container><container parent="0eb5100c-e4a4-4dcf-953a-4cb55fdb13c1" type="folder">12</container>
+				  <unittitle>Verde Valley School, Sedona, Arizona. 
+					 <unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate></unittitle>
+				</did>
+			 </c04>
+		  </c03>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series VI: Audio-Visual Media, 
+			 <unitdate normal="1922/1974" type="inclusive">1922-1974</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Photographs and Negatives</unittitle>
+		  </did>
+		  <c03>
+			 <did><container id="e6048fb1-ba42-4634-9201-4ce6c4ff3c55" type="box">24</container><container parent="e6048fb1-ba42-4634-9201-4ce6c4ff3c55" type="folder">1</container>
+				<unittitle>Miscellaneous photograph notes. </unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="d7ea8ce1-bd2f-415a-88e7-c233b64d8f30" type="box">24</container><container parent="d7ea8ce1-bd2f-415a-88e7-c233b64d8f30" type="folder">2</container>
+				<unittitle>Scenes at "An-desh-ee-oh-tumm," basket making, bee cave.
+				  
+				  <unitdate normal="1947" type="inclusive">November
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="97ebcbca-49d3-40ed-8719-5cc8dc7432bf" type="box">24</container><container parent="97ebcbca-49d3-40ed-8719-5cc8dc7432bf" type="folder">3</container>
+				<unittitle>
+				  <title>Arizona Daily Star</title> article. </unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="5ddd9b22-dfe5-40fd-90dd-c65c7456cb67" type="box">24</container><container parent="5ddd9b22-dfe5-40fd-90dd-c65c7456cb67" type="folder">4</container>
+				<unittitle>Arizona State Museum Exhibit. </unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="41b86f1c-b074-45a0-b9f9-342614e9e0d3" type="box">24</container><container parent="41b86f1c-b074-45a0-b9f9-342614e9e0d3" type="folder">5</container>
+				<unittitle>Bahia Kino area, Tiburon Island, Rancho Santa Cruz -
+				  photographs from Sonora Museum, Hermosillo. 
+				  <unitdate normal="" type="inclusive">1920s-1930s</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="9daf9bf5-9611-487f-b19d-29c6eab218d7" type="box">24</container><container parent="9daf9bf5-9611-487f-b19d-29c6eab218d7" type="folder">6</container>
+				<unittitle>Bahia Kino: by Otis H. Chidester. 
+				  <unitdate normal="1935" type="inclusive">1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="6ff0250c-436b-489b-bc4d-c0f15096572b" type="box">24</container><container parent="6ff0250c-436b-489b-bc4d-c0f15096572b" type="folder">7</container>
+				<unittitle>Bahia Kino: by Otis H. Chidester. 
+				  <unitdate normal="1936" type="inclusive">1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="8398fc61-f7ba-4e62-b190-d5d19ecf0463" type="box">24</container><container parent="8398fc61-f7ba-4e62-b190-d5d19ecf0463" type="folder">8</container>
+				<unittitle>Bahia Kino, Punta de la Cruz: by Edward H. Davis. 
+				  <unitdate normal="1929" type="inclusive">1929</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="d6e81758-b5b7-4804-8c3d-a15f55f38ca6" type="box">24</container><container parent="d6e81758-b5b7-4804-8c3d-a15f55f38ca6" type="folder">9</container>
+				<unittitle>Bahia Kino: by Edward H. Davis. 
+				  <unitdate normal="1939" type="inclusive">1939</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="8eeaa929-42b3-4f9c-ab9b-d732d6528fd8" type="box">24</container><container parent="8eeaa929-42b3-4f9c-ab9b-d732d6528fd8" type="folder">10</container>
+				<unittitle>Bahia Kino: by Lynn Hodgson. 
+				  <unitdate normal="" type="inclusive">April-May
+					 1938</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="5d304501-49d5-4212-ad1a-cc19d07191ad" type="box">24</container><container parent="5d304501-49d5-4212-ad1a-cc19d07191ad" type="folder">11</container>
+				<unittitle>Bahia Kino, including Kino Bay Club: by Monte Mansfield.
+				  
+				  <unitdate normal="1929/1931" type="inclusive">1929-1931</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="3dafd473-7206-482e-8b0c-0c2e0a942665" type="box">24</container><container parent="3dafd473-7206-482e-8b0c-0c2e0a942665" type="folder">12</container>
+				<unittitle>Bahia Kino: by John Murphey. 
+				  <unitdate normal="1931" type="inclusive">1931</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="08e5b484-a9c9-4ec3-b082-68bbc1499bdb" type="box">24</container><container parent="08e5b484-a9c9-4ec3-b082-68bbc1499bdb" type="folder">13</container>
+				<unittitle>Bahia Kino and Isla Alcatraz: by Tad Nichols. 
+				  <unitdate normal="1932/1933" type="inclusive">1932-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="dd07254b-d58a-4a32-8036-29a6d028c5aa" type="box">24</container><container parent="dd07254b-d58a-4a32-8036-29a6d028c5aa" type="folder">14</container>
+				<unittitle>Bahia Kino: by Frank Putter. 
+				  <unitdate normal="1928/1929" type="inclusive">1928-1929</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="6ebd1a2a-1e61-4e3d-a37d-9fa486a298a5" type="box">24</container><container parent="6ebd1a2a-1e61-4e3d-a37d-9fa486a298a5" type="folder">15</container>
+				<unittitle>Bahia Kino: by Robert Scott. 
+				  <unitdate normal="1940" type="inclusive">1940</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="1ebd32d8-76a8-4f0f-85af-e2c55b2d6639" type="box">24</container><container parent="1ebd32d8-76a8-4f0f-85af-e2c55b2d6639" type="folder">16</container>
+				<unittitle>Balsa Boat at Desemboque: by Luis Hammond. 
+				  <unitdate normal="1954" type="inclusive">July
+					 1954</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="6fac895e-88e9-40c7-b7c8-425acfe88309" type="box">24</container><container parent="6fac895e-88e9-40c7-b7c8-425acfe88309" type="folder">17</container>
+				<unittitle>Basket collection of W. N. Smith (negatives).
+				  </unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container id="37e4344d-c8ca-4670-ae13-ed5970e02416" type="box">24</container><container parent="37e4344d-c8ca-4670-ae13-ed5970e02416" type="folder">18</container>
+				<unittitle>Basket collection of W. N. Smith, #1-100. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="4b8c2892-b97e-4dbc-9ba8-1af73b4cbb9e" type="box">25</container><container parent="4b8c2892-b97e-4dbc-9ba8-1af73b4cbb9e" type="folder">1</container>
+				<unittitle>Basket collection of W. N. Smith, #101-275. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="c723e446-6b52-4019-9edb-02b0624f04fe" type="box">25</container><container parent="c723e446-6b52-4019-9edb-02b0624f04fe" type="folder">2</container>
+				<unittitle>Basket collection of W. N. Smith, #276-300. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="8e3c191c-04ba-4526-8474-4d6fabe09faa" type="box">25</container><container parent="8e3c191c-04ba-4526-8474-4d6fabe09faa" type="folder">3</container>
+				<unittitle>Basket making. 
+				  <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="1472155d-7671-4a25-bedd-eaf444e512a5" type="box">25</container><container parent="1472155d-7671-4a25-bedd-eaf444e512a5" type="folder">4</container>
+				<unittitle>Basket making - photographs used in article by W. N.
+				  Smith in 
+				  <title>Kiva</title> (Oct. 1959). 
+				  <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="1b06b7b0-5dcb-4e68-9815-e0d54a136d02" type="box">25</container><container parent="1b06b7b0-5dcb-4e68-9815-e0d54a136d02" type="folder">5</container>
+				<unittitle>Basket manufacture at "Hactoe," Pozo Caracol, Tiburon
+				  Island [Amelia Montaño]. 
+				  <unitdate normal="1947" type="inclusive">October
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="ce0a2920-0855-4fbb-8d18-87c3c665a23b" type="box">25</container><container parent="ce0a2920-0855-4fbb-8d18-87c3c665a23b" type="folder">6</container>
+				<unittitle>Boat purchased for Seri tribe, Guaymas, Sonora: by
+				  Beltran Photo. 
+				  <unitdate normal="1928" type="inclusive">1928</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e3b52164-28d6-4a90-9367-c42cee8a44d6" type="box">25</container><container parent="e3b52164-28d6-4a90-9367-c42cee8a44d6" type="folder">7</container>
+				<unittitle>Bow making from cats caw -- "Hactoe," Pozo Caracol,
+				  Tiburon Island [Jesus Cayetano, Joses Montano]; sketch map of "Hactoe." 
+				  <unitdate normal="1947" type="inclusive">October
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="ad78471b-a3e3-4946-bbe2-f9bac11966e7" type="box">25</container><container parent="ad78471b-a3e3-4946-bbe2-f9bac11966e7" type="folder">8</container>
+				<unittitle>Camp at Ann-Kluh - "Boca del Infiernillo." 
+				  <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="88241054-3b61-4017-a468-6b88367831fb" type="box">25</container><container parent="88241054-3b61-4017-a468-6b88367831fb" type="folder">9</container>
+				<unittitle>Camps, south shore, Tiburon Island: by Dr. John S.
+				  Garth, Hancock Expedition. 
+				  <unitdate normal="1936" type="inclusive">March
+					 1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="286cab6d-b48d-4d7f-812c-5f7c34d32879" type="box">25</container><container parent="286cab6d-b48d-4d7f-812c-5f7c34d32879" type="folder">10</container>
+				<unittitle>Desemboque and Tiburon Island (Ach-Aach, Tecomate): by
+				  W.N. Smith. 
+				  <unitdate normal="1946" type="inclusive">January and Summer
+					 1946</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="48f464a0-0b7f-4d2d-be97-6dd83ef2b200" type="box">25</container><container parent="48f464a0-0b7f-4d2d-be97-6dd83ef2b200" type="folder">11</container>
+				<unittitle>Desemboque. 
+				  <unitdate normal="1942/1952" type="inclusive">ca.
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="9661eee0-cc46-46e8-bfd0-b210910ec4c0" type="box">25</container><container parent="9661eee0-cc46-46e8-bfd0-b210910ec4c0" type="folder">12</container>
+				<unittitle>Desemboque: by Art Pollard. 
+				  <unitdate normal="1947" type="inclusive">November
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="eee67b17-0b4b-41df-86d9-5bcaa616e66b" type="box">25</container><container parent="eee67b17-0b4b-41df-86d9-5bcaa616e66b" type="folder">13</container>
+				<unittitle>Face painting. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="ecf5bdf1-5b83-4681-9698-c1c6cdbeeddb" type="box">25</container><container parent="ecf5bdf1-5b83-4681-9698-c1c6cdbeeddb" type="folder">14</container>
+				<unittitle>Face paints - from Torote. 
+				  <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="231fae6a-4463-4110-a237-eca42a863803" type="box">25</container><container parent="231fae6a-4463-4110-a237-eca42a863803" type="folder">15</container>
+				<unittitle>Field notebook photographs. 
+				  <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="2f4a1f8d-04b9-4b80-a78f-03b8ac9ddb56" type="box">26</container><container parent="2f4a1f8d-04b9-4b80-a78f-03b8ac9ddb56" type="folder">1</container>
+				<unittitle>Fire-making. 
+				  <unitdate normal="1945/1955" type="inclusive">ca.
+					 1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e95be185-5c2d-4191-bb8b-3ef72a7b0ad8" type="box">26</container><container parent="e95be185-5c2d-4191-bb8b-3ef72a7b0ad8" type="folder">2</container>
+				<unittitle>Group photographs. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="59d19dd1-0bee-45ba-a920-c7fac3af5761" type="box">26</container><container parent="59d19dd1-0bee-45ba-a920-c7fac3af5761" type="folder">3</container>
+				<unittitle>Guaymas, Sonora: by Roberto Thompson. 
+				  <unitdate normal="1930" type="inclusive">1930</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="820a4b88-196e-4a52-927e-4b763fd02e30" type="box">26</container><container parent="820a4b88-196e-4a52-927e-4b763fd02e30" type="folder">4</container>
+				<unittitle>Historic photographs. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="3cfa0228-e365-4d9a-8e30-91aab9cbd853" type="box">26</container><container parent="3cfa0228-e365-4d9a-8e30-91aab9cbd853" type="folder">5</container>
+				<unittitle>Hactoe "Pozo Caracol," hunting honey, scenes in camp at
+				  "Hactoe." 
+				  <unitdate normal="1947" type="inclusive">October
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="31706787-f5db-484c-abfa-6d968145a1fa" type="box">26</container><container parent="31706787-f5db-484c-abfa-6d968145a1fa" type="folder">6</container>
+				<unittitle>Individual photographs. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="50f212cb-1cea-4a22-a7ea-7e4f57dff743" type="box">26</container><container parent="50f212cb-1cea-4a22-a7ea-7e4f57dff743" type="folder">7</container>
+				<unittitle>Mexican Sonoran ranch families -- 1. Girls at Las Pozas
+				  de San Ignazio, 2. Boys from La Gloria and Las Estrellas Ranches; Seri
+				  frontier, north of Desemboque (negatives). 
+				  <unitdate normal="1946" type="inclusive">1946</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="89bcb874-8f1d-4088-ba37-52d623d4537e" type="box">26</container><container parent="89bcb874-8f1d-4088-ba37-52d623d4537e" type="folder">8</container>
+				<unittitle>Notes and description of 20 (4 x 5) Kodachromes, 38 (4 x
+				  5) black and white prints - preparation for magazine article. 
+				  <unitdate normal="1953" type="inclusive">1953</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="6c2d2cac-51f3-4036-b8dc-bc63b78108e3" type="box">26</container><container parent="6c2d2cac-51f3-4036-b8dc-bc63b78108e3" type="folder">9</container>
+				<unittitle>Montaño Family. 
+				  <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="0ee613fc-ae9a-48e5-9080-b44f1738cab2" type="box">26</container><container parent="0ee613fc-ae9a-48e5-9080-b44f1738cab2" type="folder">10</container>
+				<unittitle>With Montaño Family on east coast, Tiburon Island
+				  and at inland camps: by W. N. Smith (negatives). 
+				  <unitdate normal="" type="inclusive">October-November
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="ee0fa58f-70fd-4448-85c6-1e524316eb91" type="box">26</container><container parent="ee0fa58f-70fd-4448-85c6-1e524316eb91" type="folder">11</container>
+				<unittitle>Montaño Family and other Seris camped at
+				  "Shoshonee Gweem-pluh" and later at "Ahnkluh," mouth of Infiernillo, Tiburon
+				  Island. 
+				  <unitdate normal="1947" type="inclusive">October
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="fc585e30-5f68-4b78-93a5-496da72cbfcb" type="box">26</container><container parent="fc585e30-5f68-4b78-93a5-496da72cbfcb" type="folder">12</container>
+				<unittitle>Montaño Family - trail from Ast Hoen-nih-huh
+				  (Honieh) camp to "Shosh-nee Gweeum-pluh" Infiernillo mouth, Tiburon Island. 
+				  <unitdate normal="1947" type="inclusive">October
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="d2a8aed0-7fd1-46ff-a86f-65a5bbc0ee8f" type="box">26</container><container parent="d2a8aed0-7fd1-46ff-a86f-65a5bbc0ee8f" type="folder">13</container>
+				<unittitle>Pottery making. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e390c75f-efc5-4bf8-a422-04c01a0ab02c" type="box">26</container><container parent="e390c75f-efc5-4bf8-a422-04c01a0ab02c" type="folder">14</container>
+				<unittitle>Quaker-built school house inauguration, Desemboque,
+				  including students from University of Sonora, Hermosillo. 
+				  <unitdate normal="1953" type="inclusive">Fall
+					 1953</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e23a1f38-58bf-4be5-8ca0-af9ce8511720" type="box">26</container><container parent="e23a1f38-58bf-4be5-8ca0-af9ce8511720" type="folder">15</container>
+				<unittitle>Rancho Providencia, 3 miles east of Bahia Kino: by J.A.
+				  Ivey. 
+				  <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="276acc6f-9c37-4cc7-b366-d1203536999b" type="box">26</container><container parent="276acc6f-9c37-4cc7-b366-d1203536999b" type="folder">16</container>
+				<unittitle>San Esteban Island: by Ike Russell. 
+				  <unitdate normal="1968" type="inclusive">1968</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="7c51d367-077d-4423-b85f-2ff17482e83a" type="box">26</container><container parent="7c51d367-077d-4423-b85f-2ff17482e83a" type="folder">17</container>
+				<unittitle>Seri: by Jack M. Barrow. 
+				  <unitdate normal="1949" type="inclusive">1949</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="066f02ec-b8ea-4a20-8ce5-4cd6284d93b7" type="box">26</container><container parent="066f02ec-b8ea-4a20-8ce5-4cd6284d93b7" type="folder">18</container>
+				<unittitle>Seri: by Gordon Gordon. 
+				  <unitdate normal="NaN/1934" type="inclusive">ca.
+					 1933-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="9e6043f3-efcf-44c9-9a09-696bfa118161" type="box">26</container><container parent="9e6043f3-efcf-44c9-9a09-696bfa118161" type="folder">19</container>
+				<unittitle>Seri: by Hugh Holub. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="84c020bb-43b0-4fc4-87ed-ac0733c0a2f5" type="box">26</container><container parent="84c020bb-43b0-4fc4-87ed-ac0733c0a2f5" type="folder">20</container>
+				<unittitle>Seri: by Franz Kurth. 
+				  <unitdate normal="1952" type="inclusive">June
+					 1952</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="7820d42b-68fc-4ba3-b88d-656752b23704" type="box">27</container><container parent="7820d42b-68fc-4ba3-b88d-656752b23704" type="folder">1</container>
+				<unittitle>Seri: by F.C. Roberts and Woolsey. 
+				  <unitdate normal="1931" type="inclusive">1931</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e639304a-4281-46ea-8466-e51372712dc2" type="box">27</container><container parent="e639304a-4281-46ea-8466-e51372712dc2" type="folder">2</container>
+				<unittitle>Seri: by Gilbert Sykes. 
+				  <unitdate normal="NaN/NaN" type="inclusive">ca.
+					 1930s</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="672ee130-017c-4316-86c5-281da0e9f0a9" type="box">27</container><container parent="672ee130-017c-4316-86c5-281da0e9f0a9" type="folder">3-4</container>
+				<unittitle>Seri: by Mrs. Juan Harrington Xavier and Julian Hayden. 
+				  <unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="939a062e-b8c2-4f25-8bd7-5aa0bfc13727" type="box">27</container><container parent="939a062e-b8c2-4f25-8bd7-5aa0bfc13727" type="folder">5-6</container>
+				<unittitle>Seri book (proposed) using 478 color slides. 
+				  <unitdate normal="1974" type="inclusive">1974</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="fc989587-5699-4502-a988-7b4585a9b76a" type="box">27</container><container parent="fc989587-5699-4502-a988-7b4585a9b76a" type="folder">7</container>
+				<unittitle>William Neil Smith. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="bf9f237a-f361-46fb-9f67-35961a11d1e3" type="box">27</container><container parent="bf9f237a-f361-46fb-9f67-35961a11d1e3" type="folder">8</container>
+				<unittitle>W. N. Smith with Seris: by G.M. Daetz. 
+				  <unitdate normal="1960" type="inclusive">1960</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="33c16ece-9f49-4560-befa-6606654a617d" type="box">27</container><container parent="33c16ece-9f49-4560-befa-6606654a617d" type="folder">9</container>
+				<unittitle>W. N. Smith - house at Desemboque. 
+				  <unitdate normal="1965" type="inclusive">April
+					 1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="abecc158-3f10-438e-bf7c-d89af1c99811" type="box">27</container><container parent="abecc158-3f10-438e-bf7c-d89af1c99811" type="folder">10</container>
+				<unittitle>Stick game. 
+				  <unitdate normal="1945/1955" type="inclusive">ca.
+					 1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="a80cf7a2-169a-4722-817a-c1d6346e490b" type="box">27</container><container parent="a80cf7a2-169a-4722-817a-c1d6346e490b" type="folder">11</container>
+				<unittitle>Tecomate, Tiburon Island: by Bernice E. Brand. 
+				  <unitdate normal="1949" type="inclusive">1949</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="1069aa0e-36ea-45ee-a5b3-e3ab7619614d" type="box">27</container><container parent="1069aa0e-36ea-45ee-a5b3-e3ab7619614d" type="folder">12</container>
+				<unittitle>Tiburon Island and Desemboque: by W. N. Smith
+				  (negatives). 
+				  <unitdate normal="" type="inclusive">Summer-Fall
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="a05c0a77-32af-4aa7-b3b4-be71b93626c5" type="box">27</container><container parent="a05c0a77-32af-4aa7-b3b4-be71b93626c5" type="folder">13</container>
+				<unittitle>Trip to Arizona with William Neil Smith. 
+				  <unitdate normal="1947/1957" type="inclusive">ca.
+					 1952</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="08b0a866-9d73-4432-b142-c629c902ad27" type="box">27</container><container parent="08b0a866-9d73-4432-b142-c629c902ad27" type="folder">14</container>
+				<unittitle>Trip to San Esteban Island - traveling by ponga from
+				  Punta La Cruz to the middle of Infiernillo Straits following Tiburon Island
+				  shore. 
+				  <unitdate normal="" type="inclusive">September 15-25,
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="df90bf45-4eaa-4b55-a897-b159eb3fd290" type="box">27</container><container parent="df90bf45-4eaa-4b55-a897-b159eb3fd290" type="folder">15</container>
+				<unittitle>Trip to San Esteban Island - leaving San Esteban and
+				  landing at "Gyah-hoe," south coast, Tiburon Island. 
+				  <unitdate normal="1947" type="inclusive">September
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="284b9a91-0705-442b-9cd1-f97898722092" type="box">27</container><container parent="284b9a91-0705-442b-9cd1-f97898722092" type="folder">16</container>
+				<unittitle>Trip to San Esteban Island - roasting mescal heads at
+				  "Gyah-hoe," south coast, Tiburon Is. 
+				  <unitdate normal="1947" type="inclusive">September
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e8d4d8ff-5deb-4d15-a453-ddb82813ec18" type="box">28</container><container parent="e8d4d8ff-5deb-4d15-a453-ddb82813ec18" type="folder">1</container>
+				<unittitle>Trip to San Esteban, Tiburon - Sausal, Punta de la Luz,
+				  Tineja Cave sites, deer. 
+				  <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="12238478-8428-4fbd-8aae-226e498e44e3" type="box">28</container><container parent="12238478-8428-4fbd-8aae-226e498e44e3" type="folder">2</container>
+				<unittitle>Trip to Tiburon Island, mouth of Arroyo Gyah-hac south
+				  coast - also Hactoe, Pozo Caracol and "Andesh-ee-oh-tumm" [Seri groups with
+				  Montaño Family]. 
+				  <unitdate normal="" type="inclusive">October-November
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="1583c663-e03d-4c96-a36f-9dda9d7c6200" type="box">28</container><container parent="1583c663-e03d-4c96-a36f-9dda9d7c6200" type="folder">3</container>
+				<unittitle>Trip inland from Infiernillo coast at "Hactoe," Pozo
+				  Caracol and "Andesh-ee-ah-tumm," Tiburon Island. 
+				  <unitdate normal="" type="inclusive">October-November
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e2b39e87-f107-4958-b035-15758071d8bc" type="box">28</container><container parent="e2b39e87-f107-4958-b035-15758071d8bc" type="folder">4</container>
+				<unittitle>Trip in rubber raft from Tiburon Island to Bahia
+				  Sarjento on Sonora coast. 
+				  <unitdate normal="1947" type="inclusive">November
+					 1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="df7daafe-84e3-42bf-85b7-858a88b9b66c" type="box">28</container><container parent="df7daafe-84e3-42bf-85b7-858a88b9b66c" type="folder">5</container>
+				<unittitle>Trip from Tucson to Desemboque by way of Hermosillo;
+				  Seri scenes at Desemboque. 
+				  <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="d3e28aa9-799c-4a76-a00d-09c6b89b032d" type="box">28</container><container parent="d3e28aa9-799c-4a76-a00d-09c6b89b032d" type="folder">6</container>
+				<unittitle>Trip to United States by four Seri men, sponsored by
+				  Quakers. 
+				  <unitdate normal="1950" type="inclusive">Fall
+					 1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="b7ffa931-4787-4fcb-86d8-ada1899000a9" type="box">28</container><container parent="b7ffa931-4787-4fcb-86d8-ada1899000a9" type="folder">7</container>
+				<unittitle>Miscellaneous photographs. </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="0b968ed9-5de9-493b-9bdc-1b2d3a0f9443" type="box">29</container>
+				<unittitle>Negatives and contact prints of photographs by William
+				  Neil Smith - 22 rolls of film; one sleeve, Desemboque; one folder of
+				  miscellaneous negatives (The contact sheets made by Doug Bullock in 1996).
+				  <unitdate normal="1947/1952" type="inclusive">1947-1952</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="8b7f3d12-878f-47d6-a119-abbcba3402ef" type="box">29A-29B</container>
+				<unittitle> Contains contact sheets made from negatives in Box 29,
+				  and prints from other folders with extensive annotations made by William N.
+				  Smith. Photographs cover a four month period from September-December 1947, when
+				  Mr. Smith was traveling with a Seri family,(Montano) on their fall daily round
+				  on the mainland and out to Tiburon Island. 
+				  <unitdate normal="1996/1997" type="inclusive">1996-1997</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="f9d3e866-4552-4ed0-995e-6171d4c49b21" type="box">30</container>
+				<unittitle>Negatives of photographs by Hugh Holub -- Seri ironwood
+				  carvings. 
+				  <unitdate normal="NaN/1955" type="inclusive">ca.
+					 1947-1955</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Color Slides</unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container id="6129eff4-c8c0-4928-8f8b-d9c3e7592833" type="box">31</container>
+				<unittitle>Slide box 1. </unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes the following: </p>
+				<list>
+				  <item>Sunsets. </item>
+				  <item>Marine desert environment: Geography &amp; flora; camps;
+					 people; boats. </item>
+				  <item>Use of environment: Ach-aach; turtle hunting; gathering
+					 activities; winter hunting camps/hunting inland. </item>
+				  <item>Cultural Life: children &amp; their activities; personal
+					 adornment - hair braiding/face painting, religion.</item>
+				  <item>Crafts: pottery, basketry, balsa boat manufacture.</item>
+				  <item>Acculturation: Desemboque, Seri-Mexican fish
+					 economy.</item>
+				  <item>Addenda</item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="0ca43f27-05c0-438c-8def-37f6fb841e1a" type="box">31</container>
+				<unittitle>Slide box 2. 
+				  <unitdate normal="1945/1947" type="inclusive">1945-1947</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes the following: </p>
+				<list>
+				  <item>Puerto Kino, Buenos Aires Ranch, Desemboque. 
+					 <date>December 1945-January 1946</date></item>
+				  <item>Tiburon Island. 
+					 <date>January 1946</date></item>
+				  <item>Desemboque, Sonora. 
+					 <date>June-July 1946</date></item>
+				  <item>Tiburon Island. 
+					 <date>July-August 1946</date></item>
+				  <item>Desemboque, Sonora. 
+					 <date>August 1946</date></item>
+				  <item>Desemboque, Sonora. 
+					 <date>October 1946-January 1947</date></item>
+				  <item>Tucson, Ariz.-Desemboque, Sonora. 
+					 <date>June-July 1947</date></item>
+				  <item>Desemboque, Sonora. 
+					 <date>July 1947</date></item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="3ec34b88-2d56-4546-9471-ca6840193a04" type="box">31</container>
+				<unittitle>Slide box 3. 
+				  <unitdate normal="1947/1949" type="inclusive">1947-1949</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes the following: </p>
+				<list>
+				  <item>Tiburon Island trip. 
+					 <date>August 1947</date></item>
+				  <item>Desemboque. 
+					 <date>August-September 1947</date></item>
+				  <item>San Esteban Island trip. 
+					 <date>September 15-25, 1947</date></item>
+				  <item>Tiburon Island. 
+					 <date> September-November 1947</date></item>
+				  <item>Campo Dollar. 
+					 <date>February 1948</date></item>
+				  <item>Desemboque and Isla Patos. 
+					 <date>August-September 1948</date></item>
+				  <item>Tiburon Island trip. 
+					 <date>September 1948</date></item>
+				  <item>Seri trip to U.S.A. 
+					 <date> September-October 1948</date></item>
+				  <item>Desemboque/Tiburon Island? 
+					 <date>ca. 1948</date></item>
+				  <item>Trip inland, Tiburon Island. 
+					 <date>November 1948-January 1949</date></item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="63010f8d-3fb5-4ab1-b415-bef2fa062ddb" type="box">31</container>
+				<unittitle>Slide box 4. 
+				  <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes the following: </p>
+				<list>
+				  <item>Miscellaneous [unmounted]. 
+					 <date>ca. 1949?</date></item>
+				  <item>Seri maps, baskets and santos -- Tucson. 
+					 <date>May 1949</date></item>
+				  <item>Desemboque. 
+					 <date>June and December 1949</date></item>
+				  <item>San Esteban Island trip. 
+					 <date>June 1949</date></item>
+				  <item>Desemboque. 
+					 <date>June 1949</date></item>
+				  <item>Tecomate camp (Ach-aach), Tiburon Island. 
+					 <date>July-October 1949</date></item>
+				  <item>Desemboque. 
+					 <date>November 1949</date></item>
+				  <item>Desemboque -- Lynd Warren duplicates. 
+					 <date>November 1949</date> </item>
+				  <item>Desemboque. 
+					 <date>November-December 1949</date></item>
+				  <item>Winter camp, Infiernillo Strait, Tiburon Island. 
+					 <date>1950</date></item>
+				  <item>Tiburon Island. 
+					 <date>June-July 1950</date></item>
+				  <item>Tecomate camp, Tiburon Island. 
+					 <date>August-September 1950</date></item>
+				  <item>Seri trip to U.S.A. 
+					 <date>September-October 1950</date></item>
+				  <item>Desemboque. 
+					 <date>October-December 1950</date></item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="f89acfef-dca6-4fdc-9fe0-516cf76683f0" type="box">32</container>
+				<unittitle>Slide box 5. 
+				  <unitdate normal="1951/1956" type="inclusive">1951-1956</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes the following: </p>
+				<list>
+				  <item>Campo Dollar. 
+					 <date>January 1951</date></item>
+				  <item>Winter camp, Infiernillo Strait, Tiburon Island. 
+					 <date>January 1951</date></item>
+				  <item>Sonora Desert. 
+					 <date>March 1951</date></item>
+				  <item>Tecomate camp, Tiburon Island. 
+					 <date>June 1951</date></item>
+				  <item>Air views: Punta Antiguilla, Bahia Kino. 
+					 <date>June 1951</date></item>
+				  <item>Tecomate camp, Tiburon Island. 
+					 <date>August-September 1951</date></item>
+				  <item>Seri trip to U.S.A. 
+					 <date>September-November 1951</date></item>
+				  <item>Mazatlan-La Paz trip. 
+					 <date>January-February 1952</date></item>
+				  <item>Guaymas, Sonora &amp; Hermosillo. 
+					 <date>February 1952</date></item>
+				  <item>Air views: Tiburon Island area. 
+					 <date>June 1952</date></item>
+				  <item>Seri trip to U.S.A. 
+					 <date>October-December 1952</date></item>
+				  <item>Miscellaneous. 
+					 <date> December 1952-June 1953</date></item>
+				  <item>Tiburon Island. 
+					 <date>ca. 1954</date></item>
+				  <item>Seri measles epidemic, Tiburon Island landing strip. 
+					 <date> April 1955</date></item>
+				  <item>Air views: Tiburon Island, Desemboque. 
+					 <date>March 1956</date></item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="80939968-2ded-4bed-8d20-b2ad7ef31fbe" type="box">32</container>
+				<unittitle>Slide box 6. 
+				  <unitdate normal="1960/1969" type="inclusive">1960-1969</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes the following: </p>
+				<list>
+				  <item>Maps, October 1960; Baskets, by David Brugge
+					 <date> ca. 1965</date></item>
+				  <item>Tiburon Island, Punta Chueca. 
+					 <date>February-March 1965</date></item>
+				  <item>Desemboque, Sonora &amp; Tucson, Ariz. 
+					 <date>April-November 1965</date></item>
+				  <item>Desemboque, Patos Island, Pond Island, Angel de la Guarda
+					 Island. 
+					 <date>April-May 1966</date></item>
+				  <item>Patos Island trip: Los Angeles Bay, Isla Partida, Isla
+					 Raza, Isla Salsipuedes, Isla San Lorenzo. 
+					 <date>May 1966</date></item>
+				  <item>Punta Chueca, [noted: "last roll of Seri Kodachromes]. 
+					 <date>May 1966</date></item>
+				  <item>Patos Island trip: Bahia de Los Angeles. 
+					 <date>1966</date></item>
+				  <item>Seri trip with Conrad Bahre. 
+					 <date>March-April 1966</date></item>
+				  <item>Muleje, Baja Calif. (flight across Gulf of Calif. to
+					 Hermosillo). 
+					 <date>May 1966</date></item>
+				  <item>Ironwood carvings, baskets: by Hugh Holub. 
+					 <date>1969</date></item>
+				  <item>Seri figurine study, Series I-VII. 
+					 <date>ca. 1966</date></item>
+				  <item>Figurines - Kino Bay area: by Claire Brey. 
+					 <date>1967</date></item>
+				  <item>Shell midden prehistoric sites. 
+					 <date>No date</date></item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Motion Picture Film</unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container id="a4aba80b-61f1-49ee-9b52-7cc2dac33a12" type="box">33</container>
+				<unittitle>Reel of 16 mm film, "Seri Workprint." </unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="2616c90e-502c-49af-ba13-8d11cadd65b4" type="box">33</container>
+				<unittitle>Reel of 16 mm film, "Seri Indians on Trips to Northern
+				  Arizona, (1200 feet) - original Kodachrome film, Not a duplicate."
+				  <unitdate normal="1952" type="inclusive">1951,
+					 1952</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="f4094629-ec14-4292-ba40-ecb1a2c3228f" type="box">33</container>
+				<unittitle>Miscellaneous film clips. Scenes include: maps,
+				  landscapes, birds in the sky, man rowing, and people. 
+				  <unitdate normal="1951/1961" type="inclusive">ca.
+					 1956</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="f7f449b4-7750-474b-b41f-71f72bf90133" type="box">34</container>
+				<unittitle>12-1/2 inch reels of 16 mm. film. 
+				  <unitdate normal="1950/1956" type="inclusive">1950-1956</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes the following: </p>
+				<list>
+				  <item>Seri film - reel II - duplicate work print - various
+					 scenes. 
+					 <date>1950-1956</date></item>
+				  <item>Seri film - reel IV - duplicate work print - various
+					 scenes, youth at Tiburon, Seri youth at Grand Canyon and Ach-aach. 
+					 <date>1950-1953</date></item>
+				  <item>Seri film -- Viking duplicate -- mostly Tecomate. 
+					 <date>Summer 1951 and 1952</date></item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="e92e86f1-caa3-47e4-8115-6f9fbd3d6c77" type="box">34</container>
+				<unittitle>7 inch reels of 16 mm. film. 
+				  <unitdate normal="" type="inclusive">1950-1960s</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes the following: </p>
+				<list>
+				  <item>Seri trip to the States. 
+					 <date>Fall 1950</date></item>
+				  <item>Cut of Seri movies of trips to States. 
+					 <date>1950-1952</date></item>
+				  <item>Seri film - reel V (incomplete) - duplicate work print. 
+					 <date>No date</date></item>
+				  <item>San Fernando Valley State College-E. Carpenter Project --
+					 duplicate of all map sequences from original Seri film project - work print
+					 duplicate. 
+					 <date>1960s</date></item>
+				  <item>San Fernando Valley State College -- Carpenter Project --
+					 work print duplicate - shots from Kodachrome stills loaned for film project. 
+					 <date>1960s</date></item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="677dda27-cdc5-4868-bfbb-bd10d756152f" type="box">34</container>
+				<unittitle>3 inch and 3 1/2 inch reels of 16 mm. film. 
+				  <unitdate normal="" type="inclusive">1955-1960s</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes the following: </p>
+				<list>
+				  <item>Ed Carpenter's Project Fiasco. 
+					 <date>1960s</date></item>
+				  <item>Seri Indians - Tecomate cuts - original film. 
+					 <date>No date</date></item>
+				  <item>Maps of Seri Area cuts - 3 reels in boxes labeled I, II,
+					 III. 
+					 <date>No date</date></item>
+				  <item>Seri Measles Epidemic Aid -- 2 reels in boxes. 
+					 <date>Spring 1955</date></item>
+				  <item>Cuts from original film -- Seri Trips to States (?) or sea
+					 turtle feast. 
+					 <date>No date</date></item>
+				  <item>Pieces of movie film for Seris. 
+					 <date>No date</date></item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Sound Recordings</unittitle>
+		  </did>
+		  <scopecontent>
+			 <p> The condition of the tapes is very poor. Please consult with a
+				librarian before requesting access.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container id="8d3fcea9-c020-4420-a8bc-1fca28fa7614" type="box">35</container>
+				<unittitle>Seri recording -- 7 inch reels of tape. 
+				  <unitdate normal="1950/1958" type="inclusive">1950-1958</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes the following: </p>
+				<list>
+				  <item>Seri violin and linguistics (labeled "Reel #1")(Ned
+					 Spicer's house-Tucson). 
+					 <date>October 9, 1950</date></item>
+				  <item>Seri violin and linguistics (labeled "Reel #2")(Ned
+					 Spicer's house, Tucson). 
+					 <date>October 25, 1950</date></item>
+				  <item>Seri linguistics (word lists) -- (labeled "Reel #3")(Ned
+					 Spicer's house-Tucson). 
+					 <date>October 25, 1950</date></item>
+				  <item>Seri linguistics (word lists): sky, water, sea, land terms
+				  	(labeled "Reel #4"). 
+					 <date>October 30, 1951</date></item>
+				  <item>Seri word lists: land terms, land animals, fire terms --
+					 (labeled "Reel #5"), (UA Anthropology Department, Tucson). 
+					 <date>October 31, 1950</date></item>
+				  <item>Seri word lists: kinship terms -- (labeled "Reel #6"), (Ned
+					 Spicer's house, Tucson). 
+					 <date>October 31, 1950</date></item>
+				  <item>Seri word lists and sentences: colors, colors in combination, 
+				  	coffee drinking, raining, plurals -- (labeled "Reel #7"). 
+					 <date>November 3, 1951</date></item>
+				  <item>Seri word lists: plurals -- Jose Angel Montano --
+				  	(labeled "Reel #8"), (Ned Spicer's house, Tucson). 
+					 <date>November 3, 1951</date></item>
+				  <item>Seri music, words (side I only) (labeled "Reel #9-A") [side
+					 II: Cantonese counting and kinship terms]. 
+					 <date>November 3, 1951</date></item>
+				  <item>Seri word lists: material culture -- (labeled "Reel #9-B"),
+				  	(UA Anthropology Department, Tucson).
+					 <date>November 7, 1950</date></item>
+				  <item>Southwest and Seri Indian songs: side I: Southwest songs,
+					 (recorded by Odd Halsete; Pueblo Grande, Phoenix); 
+					 track 1) Apache, 2) Pima, 3) Jemez, 4) Hopi, 5) Cochiti, 6) Walapai.
+				  	<date>1958</date>
+					 side II: Seri harmonica, violin and songs (recorded by W.H.S.).
+					 Jose Montano (Halone) harmonica solo, Jose Juan Moreno (Hutt) violin and song.
+					 (Tucson, 1950-1951). <date>Fall 1950 </date></item>
+				  <item>Soundtrack from "Disneyland" program, "Peoples and Places."	 
+					 <date>October 1955</date></item>
+				  <item>Seri Puberty Fiesta for Lidia Ibarra, Desemboque, (4
+					 reels)(songs and foot drums). 
+					 <date>June 11, 1958</date></item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="26b24feb-8064-4a79-8303-4903a225e318" type="box">35</container>
+				<unittitle>Seri recordings -- 5 inch reels of tape. 
+				  <unitdate normal="1956/1964" type="inclusive">1956-1964</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes the following: </p>
+				<list>
+				  <item>Seri conversation and joking, Punta Chueca, (songs and foot
+					 drums). 
+					 <date>August-September 1956</date></item>
+				  <item>Archivo de Folklore - INBA: Huichal music, songs for peyote
+					 festival, holy week, etc. -- (gift from Mexico City). 
+					 <date>May 4, 1964</date></item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="74b77d6d-1e56-4f54-99af-c63bf204d6ba" type="box">35</container>
+				<unittitle>Other Native and Spanish recordings -- 7 inch reels.
+				  </unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes the following: </p>
+				<list>
+				  <item>Native music of North and South America and of West Africa,
+					 including Hopi war chant, Upper Amazon tribes (Iawa, Bora), and 
+					 West African tribes (Cacule, Malinke). 
+					 <date>December 1957 - January 1958</date></item>
+				  <item>Haitian rhythms, Spanish music, miscellaneous. Side 1: 
+				  	track 1) Haitian music, 2) Mexican music "La Bamba," 3) Spanish music.
+				  	Side 2: track 1) Spanish music, 2) Music of the Danube (Hungarian, 
+				  	Romanian, and Viennese), 3) The Blue Danube (J. Strauss Jr.), and 
+				  	4) Pizzicato Polka (J. Strauss) [Tales of the Vienna Woods finale].
+					 <date>No date</date></item>
+				  <item>Spanish music, miscellaneous. 
+					 <date>No date</date></item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="8202c717-c513-4371-81fb-eed395e48a07" type="box">35A</container>
+				<unittitle>Recordings -- reel to reel. 
+				  <unitdate normal="1956/1958" type="inclusive">1956-1958</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes the following: </p>
+				<list>
+				  <item>I-VI Lidia Ibarra (Seri girl) puberty ceremony (songs and
+					 foot drum). Desemboque, Sonora.
+					 <date>June 10-13, 1958</date></item>
+				  <item>VII Tarahumara music. Alta Taraheu (licensed by W. Disney).
+					 <date>summer 1956</date></item>
+				  <item>VIII Mestizo and Anglos of Panalachi, Chihuahua music. 
+				  	Mountains of southwest Chihuahua, Rio Concho, and Village of Panalachi.
+					 <date>June 1956</date></item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container id="3f2002f4-3258-4385-9403-63e418c46f1f" type="box">36</container>
+				<unittitle>Seri recordings -- on disks. 
+				  <unitdate normal="1944/1952" type="inclusive">1944-1952</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes the following: </p>
+				<list>
+				  <item>Seri at Kino Bay, Sonora, [one 12 inch disk]. 
+					 <date>ca. 1944-1945</date></item>
+				  <item>Jesus Montaño (Seri man), songs - recorded at
+					 Tucson, [one 12 inch disk]. 
+					 <date>September 29, 1948</date></item>
+				  <item>Seri trip to States, Interview with Ben Slack, KVOA, Tucson
+					 [two 12 inch disks]. 
+					 <date>October 6, 1948</date></item>
+				  <item>Seri trip to States, Interview with Ben Slack, Town Crier
+					 program, KVOA, Tucson [two 10 inch disks]. 
+					 <date>October 17, 1952</date></item>
+				  <item>"Mexican Indian music - audition" [Seri?], [one 7 inch
+					 disk]. 
+					 <date>No date</date></item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series VII: Supplemental Material, 
+			 <unitdate normal="1950/1960" type="inclusive">1950-1960</unitdate></unittitle> 
+		</did> 
+		<c02 level="file">
+		  <did><container id="1e4296ea-614c-40e4-b581-8a71d6bf7f8f" type="box">37</container><container parent="1e4296ea-614c-40e4-b581-8a71d6bf7f8f" type="folder">1</container>
+			 <unittitle>Miscellaneous lecture posters, display cards. 
+				<unitdate normal="NaN/1960" type="inclusive">ca.
+				  1950s-1960</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="78e803c3-745d-4ef3-86e2-5e8a2e47c368" type="box">37</container><container parent="78e803c3-745d-4ef3-86e2-5e8a2e47c368" type="folder">2</container>
+			 <unittitle>Sketches of Seri designs and objects. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container id="9e895cdc-87e3-416e-83a2-618d8fb6beab" type="box">37</container><container parent="9e895cdc-87e3-416e-83a2-618d8fb6beab" type="folder">3</container>
+			 <unittitle>Pencil sketch: "Seri shrine, Kino Bay," by H. Arden
+				Edwards. 
+				<unitdate normal="1950" type="inclusive">1950</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

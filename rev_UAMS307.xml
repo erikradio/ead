@@ -1,0 +1,692 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">UAMS307</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Mines and Mining Companies In Arizona
+		  and the Southwest Collection, 
+		  <date>1855-1934</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Jan Davis and Roger
+		  Myers.</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Inventory encoded by Linda A. Whitaker.
+		<date>January 14, 2002</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-21">2017-06-21</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">Mines and Mining Companies In Arizona
+		and the Southwest Collection, 
+		<date>1855-1934</date></titleproper>
+	 <num>Collection Number: MS 307</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Jan Davis and Roger Myers</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>December 1993</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Linda A. Whitaker</item>
+		</defitem>
+	 </list>
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did>
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name">Mines and Mining
+		Companies In Arizona and the Southwest Collection, 
+		<unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 307</unitid> 
+	 <abstract label="Abstract">The bulk of the collection consist of prospectuses, reports, and
+		correspondence, relating to Arizona mines and mining activity from 1855 - 1934.
+		Also contains clippings, maps, some financial records, ledgers. Some of the
+		printed materials contain photographs of the mines and environments.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">2 linear feet</extent></physdesc>
+	 <repository label="Repository">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p> Mines and Mining Companies In Arizona and the Southwest Collection(MS 307). Special Collections, University of Arizona Libraries.</p>
+  </prefercite> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>The bulk of the collection consist of prospectuses, reports, and
+		correspondence, relating to Arizona mines and mining activity from 1855 - 1934.
+		Also contains clippings, maps, some financial records, ledgers. Some of the
+		printed materials contain photographs of the mines and environments.</p> 
+  </scopecontent> 
+  <controlaccess>
+	 <corpname>American Copper Company
+			 </corpname><corpname> Arizona Consolidated Mines Company
+			 </corpname><corpname> Copper Queen Mining Company
+			 </corpname><corpname> Crown King Mines Company
+			 </corpname><corpname> Harqua-Hala Gold Mine Company
+			 </corpname><corpname>Yaqui Copper Company </corpname><subject>Mines and mineral resources -- Southwest, New -- History --
+			 Sources </subject><subject> Mines and mineral resources -- Arizona -- History -- Sources
+			 </subject><subject> Mines and mineral resources -- Arizona -- Prospectus writing
+			 </subject><geogname>Josefa and Brave Alice Mines </geogname><genreform>Prospectuses </genreform><genreform>Maps</genreform><genreform>Reports</genreform><genreform>Photographs</genreform></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head>
+	 <c01 level="file">
+		<did><container id="25526e68-4440-41b9-9fa0-01151a59a78f" type="box">1</container><container parent="25526e68-4440-41b9-9fa0-01151a59a78f" type="folder">1</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Acme Smelting and Refining Company</item>
+			 <item>Agassiz Mining Company</item>
+			 <item>Amalgamated Gold and Copper Company</item>
+			 <item>Amargoso Mill &amp; Mining Company </item>
+			 <item>Anita Consolidated Copper Company</item>
+		  </list>
+		</scopecontent>
+	 </c01> 
+	 <c01 level="file">
+		<did><container id="c367078d-cc34-48bc-afce-896340651dc3" type="box">1</container><container parent="c367078d-cc34-48bc-afce-896340651dc3" type="folder">2</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>American Copper Company</item>
+		  </list>
+		</scopecontent>
+	 </c01> 
+	 <c01 level="file">
+		<did><container id="1443d899-b5dc-4812-99a9-cc2fc5ec5a47" type="box">1</container><container parent="1443d899-b5dc-4812-99a9-cc2fc5ec5a47" type="folder">3</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Arizona and New Mexico Prospecting, Developing and Mining
+				Co.</item>
+			 <item>Arizona Blue Bell Copper Company </item>
+			 <item>Arizona, Eastern and Montana Smelting, Ore Purchasing and
+				Development Company </item>
+			 <item>Arizona Gold and Copper Company </item>
+			 <item>Arizona Gold Mining and Milling Company </item>
+			 <item>Arizona Mining and Trading Company (George Kippen Diary)</item>
+			 <item>Arizona Reduction Company Ltd. </item>
+			 <item>Arizona United Copper Company </item>
+			 <item>Arizona United Mining Company </item>
+			 <item>Atlanta Mine (see also Oversize)</item>
+			 <item>Aztec and Tyndall Gold and Silver Mining Districts</item>
+		  </list>
+		</scopecontent>
+	 </c01> 
+	 <c01 level="file">
+		<did><container id="2d4034f1-97cc-49fc-aa31-48fbe44f4d00" type="box">1</container><container parent="2d4034f1-97cc-49fc-aa31-48fbe44f4d00" type="folder">4</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Arizona Consolidated Mines Company</item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="a95b3ec9-53dd-46a4-a2a3-c738fa22526e" type="box">1</container><container parent="a95b3ec9-53dd-46a4-a2a3-c738fa22526e" type="folder">5</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Bannie Gold Mining and Milling Company</item>
+			 <item>Baumann Copper Company </item>
+			 <item>Belcher Mine Company </item>
+			 <item>Black Diamond Copper Mining Company </item>
+			 <item>Boston and Texas Copper Company </item>
+			 <item>Boston-Arizona Mining Company </item>
+			 <item>Boston Gold-Copper Mining Company </item>
+			 <item>Bradshaw Mountain Copper Mining and Smelter Company </item>
+			 <item>Braganza Gold Mining Company </item>
+			 <item>Bullwhacker Gold and Copper Company </item>
+			 <item>Bunker Hill Gold Mining Company </item>
+			 <item>Bunker Hill Group of Mines </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="85f93163-a0da-4aa4-afdf-ee083aeac571" type="box">1</container><container parent="85f93163-a0da-4aa4-afdf-ee083aeac571" type="folder">6</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>C.O.D. Consolidated Mines Company </item>
+			 <item>Calumet and Arizona Mining Company </item>
+			 <item>Canada del Oro </item>
+			 <item>Capital Copper Company </item>
+			 <item>Castle Dome Exploration and Reduction Company </item>
+			 <item>Cave Mine </item>
+			 <item>Cochise Copper Mining Company </item>
+			 <item>Cochise Mining and Milling Company </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="ec925ad8-eb88-45be-abbd-8a56b430a799" type="box">1</container><container parent="ec925ad8-eb88-45be-abbd-8a56b430a799" type="folder">7</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Consolidated Arizona Smelting Company </item>
+			 <item>Consolidated Gold &amp; Copper Company </item>
+			 <item>Consolidated Junior Mining Company </item>
+			 <item>Consolidated King Development and Columbia Copper Co. </item>
+			 <item>Continental Consolidated Mining Company </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="0f6f1cbe-4516-4efb-81d9-6cda5e2ba112" type="box">1</container><container parent="0f6f1cbe-4516-4efb-81d9-6cda5e2ba112" type="folder">8</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Copper Belle Mining Company </item>
+			 <item>Copper Bullion Mining Company </item>
+			 <item>Copper Crown of Arizona Mining Company</item>
+			 <item> Copper King of Arizona </item>
+			 <item>Copper Queen Mining Company (see also Oversize) </item>
+			 <item>Corona Consolidated Gold and Copper Company </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="5de150ca-1159-424e-9c98-4ffdb368474f" type="box">1</container><container parent="5de150ca-1159-424e-9c98-4ffdb368474f" type="folder">9</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Crown King Mines Company </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="8f593ad6-fc19-4e61-b08a-0c5edbf3cbf0" type="box">1</container><container parent="8f593ad6-fc19-4e61-b08a-0c5edbf3cbf0" type="folder">10</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>David Harum Copper Company </item>
+			 <item>Decatur Copper Mining Company </item>
+			 <item>Douglas Copper Company </item>
+			 <item>El Magistral Copper Company </item>
+			 <item>Electra Mining and Milling Company </item>
+			 <item>Esperanza Group of Gold &amp; Copper Mines </item>
+			 <item>Eugenie Mine Federal Mining Company </item>
+			 <item>Crown King Mines Company </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="52306cfb-a6d1-4352-93d9-c7c69a148477" type="box">1</container><container parent="52306cfb-a6d1-4352-93d9-c7c69a148477" type="folder">11</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>George A. Treadwell Mining Company </item>
+			 <item>Gillespie Mine </item>
+			 <item>Globe-Boston Copper Mining Company </item>
+			 <item>Gold Boulder Mining Company </item>
+			 <item>Gold Creek Mining Company </item>
+			 <item>Gold Exploiting Company of America </item>
+			 <item>Gold Hills Mining Company </item>
+			 <item>Gold Run Mining &amp; Tunnel Company </item>
+			 <item>Golden Era Gold Mining Company </item>
+			 <item>Golden Rule Copper Company </item>
+			 <item>Graham County Mining Company </item>
+			 <item>Great Peck Mine of Arizona </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="e9fef0c0-e3c0-4ce0-bd45-fc936be4e715" type="box">1</container><container parent="e9fef0c0-e3c0-4ce0-bd45-fc936be4e715" type="folder">12</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="" type="inclusive">January 11 - May 15,
+				1916</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Correspondence: John to Nora Ferris, Activities at the Gillepie
+				Mine, Canon, AZ. 
+				<date>January 11 - May 15, 1916</date> </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="9cd2ecfe-13a4-4005-89a4-46bfd09cdace" type="box">2</container><container parent="9cd2ecfe-13a4-4005-89a4-46bfd09cdace" type="folder">1-2</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Harquahala Gold Mine Company </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="08b6ba0c-5bac-4f65-a4ae-6c2f26dcc76e" type="box">3</container><container parent="08b6ba0c-5bac-4f65-a4ae-6c2f26dcc76e" type="folder">1
+			 </container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Harcuar Mines </item>
+			 <item>Hassayamp Gold Dredging Company </item>
+			 <item> Helena Gold Mines Company </item>
+			 <item>Holbrook Mine </item>
+			 <item>Horse Shoe Copper Mining Company </item>
+			 <item>Huachuca Consolidated Development Company </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="b950f761-50f6-4884-9daa-7dda35451140" type="box">3</container><container parent="b950f761-50f6-4884-9daa-7dda35451140" type="folder">2</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Ida Waite Mine </item>
+			 <item>Illizona Mining and Development Company </item>
+			 <item>Imperial Copper Company </item>
+			 <item>Independence Consolidated Gold and Silver Mining Company
+				</item>
+			 <item>Inspiration Consolidated Copper Company </item>
+			 <item>International Exploitation Company </item>
+			 <item>Jerome Silver-Copper Mines Corporation</item>
+			 <item> King Placer Consolidated (see Yuma Consolidated) </item>
+			 <item>King Verde Gold &amp; Copper Company </item>
+			 <item>Kingman Gold-Silver-Lead Merger Mines CompanyHarcuar Mines
+				</item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="1c1aa296-a887-46e0-bfdc-5bc910a844c3" type="box">3</container><container parent="1c1aa296-a887-46e0-bfdc-5bc910a844c3" type="folder">3-4</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Josefa and Brave Alice Mines </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="bdd9ed2c-8045-493c-bf94-80aeac985d94" type="box">3</container><container parent="bdd9ed2c-8045-493c-bf94-80aeac985d94" type="folder">5</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Lida Goldfield Mining Company </item>
+			 <item>Lime Creek Copper Company </item>
+			 <item>Lincoln Copper Mining Company </item>
+			 <item>Little Jessie Gold Mining Company </item>
+			 <item>Live Oak Copper Mining and Smelting Company </item>
+			 <item>Loma Prieta Mines Company </item>
+			 <item>Lone Pine Mining Company </item>
+			 <item>Lucky Verde Copper Company </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="a0451a5e-a37f-4563-8283-dd4b9860649e" type="box">3</container><container parent="a0451a5e-a37f-4563-8283-dd4b9860649e" type="folder">6</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Mammoth Copper Company </item>
+			 <item>Mammoth Gold Company </item>
+			 <item>Marquette &amp; Arizona Mining Company </item>
+			 <item>McCabe Gold Mining Company </item>
+			 <item>McKinley Mining and Development Company </item>
+			 <item>McLeod Mine Metals Milling Company </item>
+		  	 <item>Metals Milling Company</item>
+			 <item>Midway Consolidated Mining Company </item>
+			 <item>Mitchell Mining Company </item>
+			 <item>Model Gold Mining Company</item>
+			 <item> Morenci Copper Company</item>
+			 <item> Mormon Girl Mining Company </item>
+			 <item>Mountain Lion Mine </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="b67f28a7-fc84-4dbd-bfbd-48aee93effa9" type="box">3</container><container parent="b67f28a7-fc84-4dbd-bfbd-48aee93effa9" type="folder">7</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+			 <item>Montizona Copper Company Minsutes, Vol. 1, 1818-1929</item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="563fcb44-a642-4954-abdf-b44ab1923aec" type="box">3</container><container parent="563fcb44-a642-4954-abdf-b44ab1923aec" type="folder">8</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+		  	 <item>New York and Arizona Copper Mining and Smelting Company</item>
+		  	 <item>Oceanic Gold Mining Company </item>
+		  	 <item>Ohio and Arizona Copper Mining and Smelting Company </item>
+		  	 <item>Old Dominion Mining and Smelting Company </item>
+		  	 <item>Old Terrible Mining Company </item>
+		  	 <item>Ora Cobra Mining Company </item>
+		  	 <item> Oro Grande Mine </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="99ca8cbc-91c7-44d4-bc82-2df6b19a787b" type="box">3</container><container parent="99ca8cbc-91c7-44d4-bc82-2df6b19a787b" type="folder">9</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+		  	 <item>Oro Grande Mine</item>
+		  	 <item>Oxford gold Mines (see Oversize)</item>
+		  	 
+			
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="3fd91c21-a588-4804-959f-1c7df39c32ad" type="box">4</container><container parent="3fd91c21-a588-4804-959f-1c7df39c32ad" type="folder">1</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+		  	 <item>Palace Gold &amp; Copper Company </item>
+		  	 <item>Phoenix Gold Mining Company </item>
+		  	 <item>Picacho Blanco Mining Company</item>
+		  	 <item> Piles Peak Gold and Copper Mining Company </item>
+		  	 <item>Pittsburgh Copper Mining and Reduction Company </item>
+		  	 <item>Plata-Cobre Mining &amp; Transportation Company </item>
+		  	 <item>Poland Extension Gold Mining &amp; Milling Company </item>
+		  	 <item>Pride of Arizona Copper Company </item>
+		  	 <item>Princeton Copper Mining &amp; Smelting Company </item>
+		  	 <item>Producer Mining &amp; Smelting Company </item>
+		  	 <item>Promontorio Mining Company </item>
+		  	 <item>Prosperity Mining Company, Ltd. </item>
+		  	 <item>Pyramid Gold and Copper Mining Company </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="f89b0960-68cd-4032-9c4c-ee287e24f0ef" type="box">4</container><container parent="f89b0960-68cd-4032-9c4c-ee287e24f0ef" type="folder">2</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+		  	 <item>Queen of Arizona Copper Company </item>
+		  	 <item>Quincy &amp; Arizona Development Company </item>
+		  	 <item>Ray Mines </item>
+		  	 <item>Reliance Gold and Copper Mining Company </item>
+		  	 <item>Relief Gold Mining Company </item>
+		  	 <item>Riverside Copper Company </item>
+		  	
+			 
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="ea65a15c-c03e-4423-a909-3a0d1b4708b6" type="box">4</container><container parent="ea65a15c-c03e-4423-a909-3a0d1b4708b6" type="folder">3</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+		  	
+		  	 <item>Saddle Mountain Mining Company </item>
+		  	 <item>San Remo Copper Mining Company </item>
+		  	 <item>San Xavier Mining and Smelting Company</item>
+		  	 <item>Santa Rita Copper and Smelting Company </item>
+		  	 <item>Santa Rosa Copper Company </item>
+		  	 <item>Satisfaction Mine </item>
+		  	 <item>Sequin Gold Mining Company </item>
+		  	 <item>Sierra Prieta Mines Company </item>
+		  	 <item>Smuggler Placer Group </item>
+		  	 <item>Snyder Group of Copper Mines </item>
+		  	 <item>Standard Consolidated Copper Company </item>
+		  	 <item>Standard Smelting &amp; Refining Company </item>
+		  	 <item>St. John Gold and Copper Co. </item>
+		  	 <item>South Western Mining Bureau </item>
+		  	
+			 
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="e1571e79-7c08-43c2-9b44-7c1456884764" type="box">4</container><container parent="e1571e79-7c08-43c2-9b44-7c1456884764" type="folder">4</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+		  	 <item>San Xavier Mines Ledger, February-December 1900</item>
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="54940718-6478-414b-bea1-846828e2d196" type="box">4</container><container parent="54940718-6478-414b-bea1-846828e2d196" type="folder">5</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+		  	 <item>Tom Reed, Goldroad District </item>
+		  	 <item>Tombstone Consolidated Mines Company, Ltd. </item>
+		  	 <item>Tombstone Mining Syndicate </item>
+		  	 <item>Treasure Hill Mining Company </item>
+		  	 <item>Tri-Bullion Smelting and Development Company </item>
+		  	 <item>Trinity Gold Mining Company </item>
+		  	 <item>Troy-Manhattan Copper Company </item>
+		  	 <item>Turkey Creek Mining Company</item>
+		  	 <item>Tyndall Mining Company </item>
+		  	 <item>Tyndall Gold and Silver Mining District (see Aztec and Tyndall
+		  		Gold and Silver Mining Districts) </item>
+		  	 <item>Uncle Sam Copper Company </item>
+		  	 <item>United Mining and Exploration Company </item>
+		  	 <item>United Verde Copper Company</item>
+		  	
+			 
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="0015127d-3a92-4630-9a9e-e1286f5bbf12" type="box">4</container><container parent="0015127d-3a92-4630-9a9e-e1286f5bbf12" type="folder">6</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+		  	 <item>Val Verde Copper Company, Ltd. </item>
+		  	 <item>Veiled Prophet Copper Company, Ltd. </item>
+		  	 <item>Vekol Mines </item>
+		  	 <item>Verde Chief Copper Mining Company </item>
+		  	 <item>Verde King Mining Company </item>
+		  	 
+			
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="769c9d13-fd86-4fcf-b3c6-402f642c8df7" type="box">5</container><container parent="769c9d13-fd86-4fcf-b3c6-402f642c8df7" type="folder">1</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+		  	 <item>Virginia Belle Gold and Copper Mining Company </item>
+		  	 <item>Vulture Mine </item>
+		  	 <item>West Mining &amp; Milling Company </item>
+		  	 <item>White Gold Mining Company </item>
+		  	 <item>White Hills Mines </item>
+		  	 <item>White Horse Mining Company </item>
+		  	 <item>Yellow Jacket Mines Company </item>
+		  	 <item>Yucca Cyanide Mining &amp; Milling Co. Gold Mines </item>
+		  	 <item>Yuma Consolidated Mines and Mill Company</item>
+		  	 
+			 
+		  </list>
+		</scopecontent>
+	 </c01>
+	 <c01 level="file">
+		<did><container id="dc3bc303-9ca5-4074-acdd-38fa1cd3039d" type="box">5</container><container parent="dc3bc303-9ca5-4074-acdd-38fa1cd3039d" type="folder">2</container>
+		  <unittitle>Arizona mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+		  	 <item>Yuma Consolidated </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+  	<c01 level="file">
+  		<did><container id="f2e696b5-d44c-477a-998b-facaaae33d16" type="box">5</container><container parent="f2e696b5-d44c-477a-998b-facaaae33d16" type="folder">3</container>
+  			<unittitle>Oversize. 
+  				<unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+  		</did>
+  		<scopecontent>
+  		  <p>Includes:</p>
+  			<list>
+  			 <item>Yacqui Copper Company </item>
+  			</list>
+  		</scopecontent>
+  		</c01>
+	 <c01 level="file">
+		<did><container id="db00db26-e3dd-4b4b-9456-fcb1ddb3f82d" type="box">5</container><container parent="db00db26-e3dd-4b4b-9456-fcb1ddb3f82d" type="folder">4</container>
+		  <unittitle>Mexico Mines. 
+			 <unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Includes:</p>
+		  <list>
+		  	 <item>Arizpe Mines (Sonora, Mexico) </item>
+		  	 <item>Barranca Mine </item>
+		  	 <item>Guaynopita Copper Co. (Guarrero, Chihuahua, Mexico) </item>
+		  	 <item>Huacayvo Copper Mine (Chihuahua, Mexico) </item>
+		  	 <item>"Old Mines in Sonora and its Mineral Lands (1845)" Yacqui
+		  		Copper Company </item>
+		  </list>
+		</scopecontent>
+	 </c01>
+  	<c01 level="file">
+  		<did><container id="1cf61f13-8eac-4ef7-b308-51f79b624164" type="box">5</container><container parent="1cf61f13-8eac-4ef7-b308-51f79b624164" type="folder">5</container>
+  		<unittitle>Miscellaneous
+  		<unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+  		</did>
+  	</c01>
+  	<c01 level="file">
+  		<did><container id="c90d6968-5984-4032-94e9-7d42caa6fc11" type="box">6</container><container parent="c90d6968-5984-4032-94e9-7d42caa6fc11" type="folder">1</container>
+  			<unittitle>Oversize. 
+  				<unitdate normal="1855/1934" type="inclusive">1855-1934</unitdate></unittitle>
+  		</did>
+  		<scopecontent>
+  			<p>Includes:</p>
+  			<list>
+  				<item>Atlanta Mine </item>
+  				<item>Copper Queen Mining Company </item>
+  				<item>Oxford Gold Mines </item>
+  				<item>Tom Reed, Goldroad District </item>
+  				<item>Tyro Gold Mine Company</item>
+  			</list>
+  		</scopecontent>
+  	</c01>
+  </dsc> 
+</archdesc></ead>

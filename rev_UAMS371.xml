@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+		<eadid encodinganalog="856$u">UAMS371</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="245$a">Planned Parenthood of Southern Arizona
+					Collection, <date>1938-1987</date></titleproper>
+				<author encodinganalog="245$c">Inventory prepared by Jan Kathy Davis and Chrystal
+					Carpenter.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+					Collections</publisher>
+				<address>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+				</address>
+				<date>2006</date>
+				<p>Arizona Board of Regents. All Rights Reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation encodinganalog="500">Inventory encoded by Steven Lyle Phalen. <date>February
+					2006</date></creation>
+			<langusage>Inventory is in<language encodinganalog="546" langcode="eng">
+					English.</language></langusage>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date normal="2017-06-21">2017-06-21</date>
+				<item>This finding aid was updated in alignment with LC EAD 2.0 specifications using
+					a python script created by Erik Radio.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<titleproper encodinganalog="245$a">Planned Parenthood of Southern Arizona Collection,
+					<date>1938-1987</date></titleproper>
+			<num>Collection Number: MS 371</num>
+			<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+				Collections</publisher>
+			<list>
+				<defitem>
+					<label>Processed by:</label>
+					<item>Jan Kathy Davis and Chrystal Carpenter</item>
+				</defitem>
+				<defitem>
+					<label>Date completed:</label>
+					<item>
+						<date>June 2002</date></item>
+				</defitem>
+				<defitem>
+					<label>Encoded by:</label>
+					<item>Steven Lyle Phalen</item>
+				</defitem>
+			</list>
+			<p>© 2006. Arizona Board of Regents. All rights reserved.</p>
+		</titlepage>
+	</frontmatter>
+	<archdesc encodinganalog="351$c" level="collection">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle encodinganalog="245" label="Collection Name">The Planned Parenthood of
+				Southern Arizona Collection, <unitdate normal="1938/1987" type="inclusive"
+					>1938-1987</unitdate></unittitle>
+			<unitid countrycode="US" encodinganalog="099" label="Collection Number"
+				repositorycode="US-azu">MS 371</unitid>
+			<origination label="Creator">
+				<corpname encodinganalog="100">Planned Parenthood of Southern
+				Arizona</corpname></origination>
+			<abstract label="Abstract">The Planned Parenthood of Southern Arizona collection
+				contains newspaper clippings, printed ephemera, and photographs, including materials
+				by and about Margaret Sanger.</abstract>
+			<physdesc encodinganalog="300$a" label="Physical Description"><extent
+					encodinganalog="300">1 linear feet (2 boxes)</extent></physdesc>
+			<repository label="Repository">
+				<corpname encodinganalog="110"> University of Arizona Libraries, Special
+					Collections</corpname>
+				<address>
+					<addressline>University of Arizona</addressline>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+				</address></repository>
+		</did>
+		<accessrestrict encodinganalog="506">
+			<head>Restrictions</head>
+			<p>None.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Copyright</head>
+			<p>It is the responsibility of the user to obtain permission to publish from the owner
+				of the copyright (the institution, the creator of the record, the author or his/her
+				transferees, heirs, legates, or literary executors). The user agrees to indemnify
+				and hold harmless the Arizona Board of Regents for the University of Arizona, its
+				officers, employees, and agents from and against all claims made by any person
+				asserting that he or she is an owner of copyright.</p>
+		</userestrict>
+		<prefercite encodinganalog="524">
+			<head>Credit Line</head>
+			<p>Planned Parenthood of Southern Arizona Collection (MS 371). Special Collections,
+				University of Arizona Libraries.</p>
+		</prefercite>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>A small Tucson birth control clinic, known as Clinica para Madres or Mother's Clinic,
+				located at 28 E. Corral Street opened in December 1934. Margaret Sanger, pioneer of
+				the birth control movement, offered her support in the establishment of the clinic
+				and its purpose to provide birth control information, products and services for
+				woman. The Tucson birth control clinic changed names and location thru the decades -
+				Planned Parenthood of Tucson, Inc., 1950s to Planned Parenthood Center of Tucson,
+				1970s and finally to Planned Parenthood of Southern Arizona, serving two locations.
+				This collection contains newspaper clippings, printed ephemera and photographs from
+				the scrapbooks of Planned Parenthood of Tucson, which documents some of the history
+				and people of the organization plus local and world events from 1938 to 1987. </p>
+		</bioghist>
+		<arrangement>
+			<head>Organization</head>
+			<p>This collection is organized into two series.</p>
+			<list>
+				<item>Series I: Scrapbooks, <unitdate normal="1955/1987" type="inclusive"
+						>1955-1987</unitdate></item>
+				<item>Series II: Margaret Sanger Materials, <unitdate normal="1938/1961"
+						type="inclusive">1938-1961</unitdate></item>
+			</list>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>This collection is organized into two series, Series I: Scrapbooks. Series II:
+				Margaret Sanger Materials, contains chiefly correspondence with Christine A. Bloom
+				concerning the establishment of the clinic in Tucson; and miscellaneous materials by
+				or about Margaret Sanger.</p>
+		</scopecontent>
+		<controlaccess>
+			<persname>Sanger, Margaret, 1879-1966 -- Correspondence.</persname>
+			<persname>Gardner, B. Delworth, 1928- </persname>
+			<persname>Murphy, Lew.</persname>
+			<persname>Green, Ruth.</persname>
+			<persname>Wattleton, Faye.</persname>
+			<persname>Bloom, Christine A.</persname>
+			<subject>Birth control clinics -- Arizona -- Tucson -- History.</subject>
+			<subject>Birth control clinics -- Arizona -- Douglas -- History.</subject>
+		</controlaccess>
+		<dsc type="combined">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>Series 1: Scrapbooks, <unitdate normal="1955/1987" type="inclusive"
+							>1955-1987</unitdate></unittitle>
+				</did>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Scrapbook #1, <unitdate normal="1955/1966" type="inclusive"
+								>1955-1966</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="1ded5b3f-e78c-4c5c-b8ce-cf3fc3667674" type="box"
+								>1</container>
+							<container parent="1ded5b3f-e78c-4c5c-b8ce-cf3fc3667674" type="folder"
+								>1</container>
+							<unittitle>Newspaper Clippings,1955 - 1960.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="3907950f-d271-40fb-8339-16b134eff471" type="box"
+								>1</container>
+							<container parent="3907950f-d271-40fb-8339-16b134eff471" type="folder"
+								>2</container>
+							<unittitle>Photographs and Program, 1955 - 1966.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Scrapbook #2, <unitdate normal="1959/1979" type="inclusive"
+								>1959-1979</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="1a20ccca-6612-4c4f-80f4-c93c09725da7" type="box"
+								>1</container>
+							<container parent="1a20ccca-6612-4c4f-80f4-c93c09725da7" type="folder"
+								>3</container>
+							<unittitle>Newspaper Clippings,1959 - 1966.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="0753220a-f63e-4b20-8479-7bc73c77e9b9" type="box"
+								>1</container>
+							<container parent="0753220a-f63e-4b20-8479-7bc73c77e9b9" type="folder"
+								>4</container>
+							<unittitle>Newspaper Clippings, 1967 - 1977.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="4ac74cbd-a8aa-4e4f-a657-0514ebf40347" type="box"
+								>1</container>
+							<container parent="4ac74cbd-a8aa-4e4f-a657-0514ebf40347" type="folder"
+								>5</container>
+							<unittitle>Pamphlets and Reports, 1966 - 1979.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="2714df8c-3640-41fb-8ebf-de82d50121d1" type="box"
+								>1</container>
+							<container parent="2714df8c-3640-41fb-8ebf-de82d50121d1" type="folder"
+								>6</container>
+							<unittitle>Photograph, ca. 1970.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Scrapbook #3, <unitdate normal="1962/1965" type="inclusive"
+								>1962-1965</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="ebd45e1a-16a5-4552-8c1d-a591e025b73c" type="box"
+								>1</container>
+							<container parent="ebd45e1a-16a5-4552-8c1d-a591e025b73c" type="folder"
+								>7</container>
+							<unittitle>Newspaper Clippings,1962 - 1963.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e1865927-0a84-4810-b6f4-5be093e515f6" type="box"
+								>1</container>
+							<container parent="e1865927-0a84-4810-b6f4-5be093e515f6" type="folder"
+								>8</container>
+							<unittitle>Newspaper Clippings, 1964.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="6c080dc1-0658-44ca-af3a-3803854880d2" type="box"
+								>1</container>
+							<container parent="6c080dc1-0658-44ca-af3a-3803854880d2" type="folder"
+								>9</container>
+							<unittitle>Pamphlets and Reports, 1965.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Scrapbook #4, <unitdate normal="1964/1969" type="inclusive"
+								>1964-1969</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="11f17853-2934-4a25-94e3-cebf65c45614" type="box"
+								>1</container>
+							<container parent="11f17853-2934-4a25-94e3-cebf65c45614" type="folder"
+								>10</container>
+							<unittitle>Newspaper Clippings, 1966.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="fdbe74b7-7330-4f58-88a2-1b0b95742441" type="box"
+								>1</container>
+							<container parent="fdbe74b7-7330-4f58-88a2-1b0b95742441" type="folder"
+								>11</container>
+							<unittitle>Newspaper Clippings, 1967.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f06cede1-3705-4189-93fe-714087796ade" type="box"
+								>1</container>
+							<container parent="f06cede1-3705-4189-93fe-714087796ade" type="folder"
+								>12</container>
+							<unittitle>Newspaper Clippings, 1967.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="317d5ef7-4818-4d04-adbd-d742cc503364" type="box"
+								>1</container>
+							<container parent="317d5ef7-4818-4d04-adbd-d742cc503364" type="folder"
+								>13</container>
+							<unittitle>Newspaper Clippings, 1968 - 1969.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="a4d219a9-dc79-4639-b3ce-81ead1d0fe12" type="box"
+								>1</container>
+							<container parent="a4d219a9-dc79-4639-b3ce-81ead1d0fe12" type="folder"
+								>14</container>
+							<unittitle>Printed Ephemera.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Scrapbook #5, <unitdate normal="1965/1987" type="inclusive"
+								>1965-1987</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="32e2d809-6626-47d6-827d-37ae23a2b1cf" type="box"
+								>1</container>
+							<container parent="32e2d809-6626-47d6-827d-37ae23a2b1cf" type="folder"
+								>15</container>
+							<unittitle>Newspaper Clippings, 1965 - 1966.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Scrapbook #6, <unitdate normal="1959/1979" type="inclusive"
+								>1959-1979</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="ac547cd8-4f1d-456a-9dbe-12db88fb0520" type="box"
+								>2</container>
+							<container parent="ac547cd8-4f1d-456a-9dbe-12db88fb0520" type="folder"
+								>1</container>
+							<unittitle>Newspaper Clippings, 1965 - 1971.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Scrapbook #7, <unitdate normal="1976/1980" type="inclusive"
+								>1976-1980</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="0007c52a-5034-4dfe-8a33-e1cd8d5f749c" type="box"
+								>2</container>
+							<container parent="0007c52a-5034-4dfe-8a33-e1cd8d5f749c" type="folder"
+								>2</container>
+							<unittitle>Newspaper Clippings, 1976 - 1980.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="aad5ba93-a07d-4c7c-8d9e-2c05440f6103" type="box"
+								>2</container>
+							<container parent="aad5ba93-a07d-4c7c-8d9e-2c05440f6103" type="folder"
+								>3</container>
+							<unittitle>Photographs and Printed Ephemera, 1977 - 1978.</unittitle>
+
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="2c870890-7fe9-439b-ac20-77f5e5be56da" type="box"
+								>2</container>
+							<container parent="2c870890-7fe9-439b-ac20-77f5e5be56da" type="folder"
+								>4</container>
+							<unittitle>Photographs and Printed Ephemera, 1978 - 1979.</unittitle>
+
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="34da716b-80ac-46cc-8033-832aa16e4dda" type="box"
+								>2</container>
+							<container parent="34da716b-80ac-46cc-8033-832aa16e4dda" type="folder"
+								>5</container>
+							<unittitle>Photograph, 1979.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="084990d4-f7c7-49e9-80da-041f1f7535f0" type="box"
+								>2</container>
+							<container parent="084990d4-f7c7-49e9-80da-041f1f7535f0" type="folder"
+								>6</container>
+							<unittitle>Photographs and Printed Ephemera, 1978.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Scrapbook #8, <unitdate normal="1981/1982" type="inclusive"
+								>1981-1982</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="e4105159-634f-4337-b186-a5cf24059ccd" type="box"
+								>2</container>
+							<container parent="e4105159-634f-4337-b186-a5cf24059ccd" type="folder"
+								>7</container>
+							<unittitle>Newspaper Clippings, 1981 - 1982.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="ed2a05cc-8eeb-4474-8f57-82e326a32468" type="box"
+								>2</container>
+							<container parent="ed2a05cc-8eeb-4474-8f57-82e326a32468" type="folder"
+								>8</container>
+							<unittitle>Photographs and Printed Ephemera, 1981.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unittitle>Scrapbook #9, <unitdate normal="1982/1985" type="inclusive"
+								>1982-1985</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="b6905653-847e-4bf6-8c73-785e5f2b4f93" type="box"
+								>2</container>
+							<container parent="b6905653-847e-4bf6-8c73-785e5f2b4f93" type="folder"
+								>9</container>
+							<unittitle>Photographs, ca. 1981 - 1983.</unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="7867e1a9-df41-4afa-9fe5-2f18a29c4948" type="box"
+								>2</container>
+							<container parent="7867e1a9-df41-4afa-9fe5-2f18a29c4948" type="folder"
+								>10</container>
+							<unittitle>Photographs, ca. 1982 - 1985.</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series 2: Margaret Sanger Materials, <unitdate normal="1961"
+							type="inclusive">1938 to 1961</unitdate></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container id="1bbafe08-acc7-42fd-b992-915f1d8023fb" type="box"
+							>2</container>
+						<container parent="1bbafe08-acc7-42fd-b992-915f1d8023fb" type="folder"
+							>11</container>
+						<unittitle>Correspondence and photographs, ca. 1938 - 1961.</unittitle>
+
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

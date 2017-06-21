@@ -1,0 +1,965 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">UAMS363</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Charles Jesse Jones collection, 
+		  <date>1872-1990 (bulk 1872-1936)</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Staff.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline> 
+		</address> 
+		<date>2006</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by C.Wommack. 
+		<date>February 2006</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">
+		English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-21">2017-06-21</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Charles Jesse Jones collection, 
+		<date>1872-1990 (bulk 1872-1936)</date></titleproper> 
+	 <num>Collection Number: MS 363</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>January 2006</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>C. Wommack</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2006. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Charles Jesse
+		Jones collection, 
+		<unitdate normal="" type="inclusive">1872-1990 (bulk
+		  1872-1936)</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 363</unitid> 
+	 <origination label="Creator"> 
+		<corpname encodinganalog="110">University of Arizona.</corpname>; 
+		<corpname encodinganalog="110">Guidon Books</corpname>; 
+		<corpname encodinganalog="110">The Finney County Kansas Historical
+		  Society</corpname></origination> 
+	 <abstract label="Abstract">This collection consists of correspondence,
+		photographs, publications, and articles detailing the life of quintessential
+		pioneer cowboy Charles Jesse "Buffalo" Jones.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">.6 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline></address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Charles Jesse Jones collection (MS 363). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Charles Jesse Jones, known as "Buffalo" Jones, born January 31, 1844 in
+		Tazewell County, Illinois to Noah and Jane Jones, lead the life of the
+		quintessential pioneer cowboy. From his early childhood in Illinois where his
+		father once hired Attorney Abraham Lincoln, to his experience as a buffalo
+		hunter on the Great Plains in the 1870's, and later his friendship and rivalry
+		with Theodore Roosevelt, Jones' life story serves as an allegory for the
+		experience of American expansionism on the western frontier. Charles J. Jones'
+		unique role in this westward movement was his effort to save the American Bison
+		from extinction, and subsequently to hybridize them with domestic cattle.</p> 
+	 <p>His early experience as a buffalo hunter lead Jones to respect the
+		rugged, adaptive qualities of bison, simultaneously lamenting their demise and
+		his own role in their slaughter. In the process of trying to save the bison
+		from extinction Jones became famous for the live capture of wild animals. His
+		reputation lead him on a series of adventures including the live capture
+		African big game, which was filmed with both still and moving photography; the
+		live capture of the arctic musk ox, and the capture and "spanking" of bears in
+		Yellowstone National Park after being appointed Park Warden by President
+		Theodore Roosevelt. The writer Zane Grey, who became friends with Jones and had
+		accompanied him on mountain lion captures, acknowledged that Jones was the
+		inspiration for many of his fictional characters, as well as the subject of two
+		non fiction books, The Last of the Plainsmen, 1911 and Roping Lions in the
+		Grand Canyon, 1924.</p> 
+	 <p>Charles J. Jones married Martha J. Walton (a descendent of naturalist,
+		Isaac Walton) on January 20, 1869. They had four children, two boys died in
+		childhood. Throughout his life Jones maintained close correspondence with his
+		daughters, Jessie and Olive. Suffering from a chronic illness contracted while
+		in Africa, Jones died at his daughter Olive's house in Topeka, Kansas on March
+		18, 1919. He is buried alongside his wife Martha and their two sons in the
+		Valley View Cemetery, Garden City, Kansas.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>The collection has been organized into the following subgroups: </p> 
+	 <list> 
+		<item>Subgroup 1: Papers, 
+		  <unitdate normal="1881/1928" type="inclusive">1881-1928</unitdate></item> 
+		<item>Subgroup 2: Photographs, 
+		  <unitdate normal="NaN/1916" type="inclusive">ca.1872-1916</unitdate></item> 
+		<item>Subgroup 3: Scrapbook, 
+		  <unitdate normal="1890/1979" type="inclusive">1890-1979</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The collection is contained in one manuscript box and one scrapbook.</p>
+	 <p>The correspondence is mostly between family members from 1907 to 1928.
+		The bulk of the correspondence is between C. J. Jones and his youngest daughter
+		Olive Jones Whitmer. There is also correspondence between Olive Jones Whitmer
+		and other family members as well as business partners of her father. There is
+		some correspondence between C. J. Jones and business partners and others
+		interested in his business ventures including, James Wilson, United States
+		Secretary of Agriculture; John A. Dix, Governor of New York; and Charles
+		Goodnight, livestock breeder.</p> 
+	 <p>The publications are mostly articles regarding C. J. Jones (often
+		photocopies); broadsides and other advertising publications, some original
+		copies; an old Yellowstone National Park brochure; an original copy of the 
+	 <title>American Bison Society Report</title>, 1924-1926, and a dinner
+	 program for Canadian Camp, New York, 1911.</p> 
+	 <p>The financial and biographical records in this collection are limited to
+		three stock certificates and a photocopy of Jones' death certificate. The
+		scrapbook is comprised of photographic images from magazines and photocopies of
+		articles regarding C. J. Jones' various activities.</p> 
+	 <p>The collection is an interesting glimpse into the personal life of C. J.
+		Jones and his relationship with family members, and to a lesser degree his
+		business and professional interactions.</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <persname>Jones, Charles Jesse,
+			 1844-1919.</persname><persname> Whitmer, Olive Jones.</persname><corpname> American Bison
+			 Society.</corpname><corpname> Buffalo Jones Catalo
+			 Company.</corpname><subject> American bison.</subject><subject> American bison -- Hybridization.</subject><subject>Bison farming -- Experiments.</subject></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="subgrp"> 
+		<did> 
+		  <unittitle>Subgroup 1: Papers, 
+			 <unitdate normal="" type="inclusive">1881-1928
+				(Bulk)</unitdate></unittitle> 
+		</did> 
+		<c02 level="series"> 
+		  <did> 
+			 <unittitle>Series 1: Correspondence, 
+				<unitdate normal="1904/1928" type="inclusive">1904-1928
+				  </unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <head>Description:</head> 
+			 <p>Correspondence of Charles Jesse Jones and family, 1904 1928. Also
+				correspondence with James Wilson, U.S. Secretary of Agriculture; New York
+				Governor John A. Dix; Lina Elise (Mrs. Zane) Grey; as well as business related
+				correspondence.</p>
+			 <arrangement> 
+				<head>Arrangement: </head> 
+				<p>By family, then general; thereafter, chronological.</p> 
+			 </arrangement> 
+		  </scopecontent>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Correspondence, family. 
+				  <unitdate normal="1904/1917" type="inclusive">1904-1917</unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="6c39ae80-5ee9-4f38-9b4c-4eb6ae6f8213" type="box">1</container> <container parent="6c39ae80-5ee9-4f38-9b4c-4eb6ae6f8213" type="folder">1</container> 
+				  <unittitle>48 letters from C. J. Jones to Olive Jones Whitmer, 
+					 <unitdate normal="1904/1917" type="inclusive">1904-1917</unitdate></unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Correspondence from C. J. Jones to Martha
+				  "Mattie" Walton Jones (wife), 
+				  <unitdate normal="-4.8093/5.1907" type="inclusive">ca.1907</unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="2436270e-cd94-4157-8b81-fd9e38cc1c7f" type="box">1</container> <container parent="2436270e-cd94-4157-8b81-fd9e38cc1c7f" type="folder">2</container> 
+				  <unittitle>New York, 
+					 <unitdate normal="NaN" type="inclusive">January
+						21,1907</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="736be536-4713-4e71-8960-22ca54ccc72a" type="box">1</container> <container parent="736be536-4713-4e71-8960-22ca54ccc72a" type="folder">2</container> 
+				  <unittitle>New York, 
+					 <unitdate normal="0.1907" type="inclusive">January 10,
+						ca.1907</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="1f35670d-5c7e-4a42-a57a-b8bfec715a05" type="box">1</container> <container parent="1f35670d-5c7e-4a42-a57a-b8bfec715a05" type="folder">2</container> 
+				  <unittitle>Salt Lake City, 
+					 <unitdate normal="1907" type="inclusive">June 24,
+						1907</unitdate></unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Correspondence from C. J. Jones to Jessie
+				  Phillips Jones: 
+				  <unitdate normal="1910/1914" type="inclusive">1910-1914</unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="5b949d8f-ddb3-429e-9775-620a5f3000a1" type="box">1</container> <container parent="5b949d8f-ddb3-429e-9775-620a5f3000a1" type="folder">2</container> 
+				  <unittitle> 
+					 <unitdate normal="1910" type="inclusive">October 25,
+						1910</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="4c898cfb-1f88-4197-895f-f5eb5d31239a" type="box">1</container> <container parent="4c898cfb-1f88-4197-895f-f5eb5d31239a" type="folder">2</container> 
+				  <unittitle> 
+					 <unitdate normal="1911" type="inclusive">July 28,
+						1911</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="d6ff6d3e-95de-4169-82bf-34fcbc8ce54d" type="box">1</container> <container parent="d6ff6d3e-95de-4169-82bf-34fcbc8ce54d" type="folder">2</container> 
+				  <unittitle> 
+					 <unitdate normal="1914" type="inclusive">February 24,
+						1914</unitdate></unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle> Subseries: Correspondence, family, general, 
+				  <unitdate normal="1906/1936" type="inclusive">1906-1936</unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="24385517-f820-4ff2-a604-b92521bbe25e" type="box">1</container> <container parent="24385517-f820-4ff2-a604-b92521bbe25e" type="folder">3</container> 
+				  <unittitle>Draft of legal agreement of Buffalo Jones Catalo Co.
+					 by C.J Jones and Martha J. Jones, 
+					 <unitdate normal="1906" type="inclusive">September 16,
+						1906</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="07dd635f-cabf-422e-9b2a-e8a6e7215a77" type="box">1</container> <container parent="07dd635f-cabf-422e-9b2a-e8a6e7215a77" type="folder">3</container> 
+				  <unittitle>To Mrs.Whitmer, from J. F. Jones [business partner of
+					 C. J. Jones?], 
+					 <unitdate normal="1914" type="inclusive">September 18,
+						1914</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="9be7dbb3-65a0-4400-ad8a-e4a5cc2f405b" type="box">1</container> <container parent="9be7dbb3-65a0-4400-ad8a-e4a5cc2f405b" type="folder">3</container> 
+				  <unittitle>Aunt K. to Jessie P. Jones, 
+					 <unitdate normal="1936" type="inclusive">1936</unitdate></unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle> Subseries: Correspondence of Olive Jones Whitmer, 
+				  <unitdate normal="NaN/1928" type="inclusive">ca.1911-1928</unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="32dabbe5-0541-4f8d-918f-0918379e5059" type="box">1</container> <container parent="32dabbe5-0541-4f8d-918f-0918379e5059" type="folder">3</container> 
+				  <unittitle>From J. F. Jones, 
+					 <unitdate normal="NaN" type="inclusive">November 19, 1911,
+						</unitdate> 
+					 <unitdate normal="1914" type="inclusive"> March 28,
+						1914</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="a827efd5-ca46-49c4-b45d-1370e8fcb2d9" type="box">1</container> <container parent="a827efd5-ca46-49c4-b45d-1370e8fcb2d9" type="folder">3</container> 
+				  <unittitle>From J. F. Jones, 
+					 <unitdate normal="1914" type="inclusive">September 17,
+						1914</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="bddf65ab-ba44-4d82-b7ac-268a64d750f8" type="box">1</container> <container parent="bddf65ab-ba44-4d82-b7ac-268a64d750f8" type="folder">3</container> 
+				  <unittitle>From J. F. Jones, 
+					 <unitdate normal="1916" type="inclusive">January 22,
+						1916</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="91d00160-d751-4010-ba44-e006fd37d67d" type="box">1</container> <container parent="91d00160-d751-4010-ba44-e006fd37d67d" type="folder">3</container> 
+				  <unittitle>From Lina Elise (Mrs. Zane) Grey, 
+					 <unitdate normal="1919" type="inclusive">March 21,
+						1919</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="44da3e6f-efc1-4c31-aa45-4fb34c093819" type="box">1</container> <container parent="44da3e6f-efc1-4c31-aa45-4fb34c093819" type="folder">3</container> 
+				  <unittitle>From Lenox Curtis of Canadian Camp, 
+					 <unitdate normal="1923" type="inclusive">April 5,
+						1923</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="f463eb8a-ba1a-4991-8b2b-0dbe2aabde5e" type="box">1</container> <container parent="f463eb8a-ba1a-4991-8b2b-0dbe2aabde5e" type="folder">3</container> 
+				  <unittitle>From J. D. Hand, 
+					 <unitdate normal="1927" type="inclusive">February 4,
+						1927</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="77f176de-73e4-4cb4-9971-48a936081f05" type="box">1</container> <container parent="77f176de-73e4-4cb4-9971-48a936081f05" type="folder">3</container> 
+				  <unittitle>Eight letters from Jim Owens (Uncle?) to Jessie Jones
+					 Phillips(?), 
+					 <unitdate normal="1923/1928" type="inclusive">1923-1928</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="f1acd881-2453-41be-9d8e-194c0376fa74" type="box">1</container> <container parent="f1acd881-2453-41be-9d8e-194c0376fa74" type="folder">3</container> 
+				  <unittitle>From "Katie" (sister) to C.J. Jones, </unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle> Subseries: Correspondence, photocopies of originals in
+				  folder 5, 
+				  <unitdate normal="1908/1918" type="inclusive">1908-1918</unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="e90db863-4709-40dd-9e43-e03dfbe9de89" type="box">1</container> <container parent="e90db863-4709-40dd-9e43-e03dfbe9de89" type="folder">4</container> 
+				  <unittitle>[same as folder 5]</unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle> Subseries: Correspondence, originals [fragile], 
+				  <unitdate normal="1908/1918" type="inclusive">1908-1918</unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="b3c05e34-e1b6-4e61-9405-11fb967ac629" type="box">1</container> <container parent="b3c05e34-e1b6-4e61-9405-11fb967ac629" type="folder">5</container> 
+				  <unittitle>From C. J. Jones to James Wilson, Secretary of
+					 Agriculture, Washington, D.C., regarding hybridized sheep and cattle, Fredonia,
+					 AZ. [6 pages], 
+					 <unitdate normal="1908" type="inclusive">January 27,
+						1908</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="216484bf-e23a-4f2d-b0c4-53d5afe0bd88" type="box">1</container> <container parent="216484bf-e23a-4f2d-b0c4-53d5afe0bd88" type="folder">5</container> 
+				  <unittitle>Letter to C. J. Jones from The American Bison Society
+					 President Edmund Seymour [2 pages], 
+					 <unitdate normal="1917" type="inclusive">September 18,
+						1917</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="209bc1cf-95bf-47f4-9e94-faff42942d5d" type="box">1</container> <container parent="209bc1cf-95bf-47f4-9e94-faff42942d5d" type="folder">5</container> 
+				  <unittitle>Letter to C. J. Jones from The American Bison Society
+					 Secretary M. S. Garretson [2 pages], 
+					 <unitdate normal="1918" type="inclusive">January 19,
+						1918</unitdate></unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle> Subseries: Correspondence, general. C. J. Jones, 
+				  <unitdate normal="1907/1917" type="inclusive">1907-1917
+					 </unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="72e38de3-094e-415e-9b84-08dc16cf0435" type="box">1</container> <container parent="72e38de3-094e-415e-9b84-08dc16cf0435" type="folder">6</container> 
+				  <unittitle>From Frank Onstatt and James T. Owens (2) handwritten
+					 copies (written draft and final copy) recounting Zane Grey's Grand Canyon trip
+					 with C. J. Jones, Fredonia, AZ., 
+					 <unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="ed7bc189-a259-46c3-9c3c-95c752ec8fe8" type="box">1</container> <container parent="ed7bc189-a259-46c3-9c3c-95c752ec8fe8" type="folder">6</container> 
+				  <unittitle>From New York Governor John A, Dix, 
+					 <unitdate normal="1911" type="inclusive">April 18,
+						1911</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="39a2026f-5eae-435a-9d72-9416796d9b5a" type="box">1</container> <container parent="39a2026f-5eae-435a-9d72-9416796d9b5a" type="folder">6</container> 
+				  <unittitle>From C. J. Jones in France, 
+					 <unitdate normal="1914" type="inclusive">April 1,
+						1914</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="bf29272b-20a2-4cea-8532-aeb1b1655d6c" type="box">1</container> <container parent="bf29272b-20a2-4cea-8532-aeb1b1655d6c" type="folder">6</container> 
+				  <unittitle>From C. J. Jones [London], 
+					 <unitdate normal="1914" type="inclusive">1914</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="30094948-6222-4bd2-9edd-677ed868478a" type="box">1</container> <container parent="30094948-6222-4bd2-9edd-677ed868478a" type="folder">6</container> 
+				  <unittitle>C. J. Jones, London (to whom?), 
+					 <unitdate normal="1914" type="inclusive">September 20,
+						1914</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="03d229a7-5e85-44c3-a995-c88401eed78a" type="box">1</container> <container parent="03d229a7-5e85-44c3-a995-c88401eed78a" type="folder">6</container> 
+				  <unittitle>From C. J. Jones(?) to James Coddington, 
+					 <unitdate normal="1916" type="inclusive">September 5,
+						1916</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="2a7067ae-4b84-445a-8395-e7ab08a80de8" type="box">1</container> <container parent="2a7067ae-4b84-445a-8395-e7ab08a80de8" type="folder">6</container> 
+				  <unittitle>From "Buffalo" Jones to Progressive Party, 
+					 <unitdate normal="1916" type="inclusive">October 25,
+						1916</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="e12b6b2b-46e7-4d79-88bd-572368a6fd43" type="box">1</container> <container parent="e12b6b2b-46e7-4d79-88bd-572368a6fd43" type="folder">6</container> 
+				  <unittitle>From Jim Owens, 
+					 <unitdate normal="1917" type="inclusive">January 7,
+						1917</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="31815e92-b556-4b3f-8f8c-b2b51d097f55" type="box">1</container> <container parent="31815e92-b556-4b3f-8f8c-b2b51d097f55" type="folder">6</container> 
+				  <unittitle>From C.T. Jones to Edmund Seymour, San Antonio, 
+					 <unitdate normal="1917" type="inclusive">April 1,
+						1917</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="7bb61ab3-8d36-49ec-b7fd-904323981dfd" type="box">1</container> <container parent="7bb61ab3-8d36-49ec-b7fd-904323981dfd" type="folder">6</container> 
+				  <unittitle>From C. Goodnight to C.T. Jones, Goodnight, Texas, 
+					 <unitdate normal="1917" type="inclusive">April 9,
+						1917</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="fcdc5070-0e9c-4739-96ec-9c3263dcf42c" type="box">1</container> <container parent="fcdc5070-0e9c-4739-96ec-9c3263dcf42c" type="folder">6</container> 
+				  <unittitle>From C.T. Jones to C. Goodnight, San Antonio, 
+					 <unitdate normal="1917" type="inclusive">April 16,
+						1917</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="ec228e58-a8b6-4474-9c6d-8b9c54f2e2d5" type="box">1</container> <container parent="ec228e58-a8b6-4474-9c6d-8b9c54f2e2d5" type="folder">6</container> 
+				  <unittitle>From J. F. Jones to Col. Jones, 
+					 <unitdate normal="1917" type="inclusive">September 5,
+						1917</unitdate></unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		</c02> 
+		<c02 level="series"> 
+		  <did> 
+			 <unittitle>Series 2: Publications, 
+				<unitdate normal="1901/1990" type="inclusive">1901-1990</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <head>Description: </head> 
+			 <p>Includes articles about C. J. Jones, flyers regarding various
+				events, advertising brochures, promotional materials for Jones' financial
+				activities, and American Bison Society publications 
+				<date>1912, 1924 and 1926.</date> </p> 
+		  </scopecontent>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle> Subseries: Publications, 
+				  <unitdate normal="NaN/1926" type="inclusive">ca.1901-1926</unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="4f628840-44d7-43a2-8a8f-65c5efe97000" type="box">1</container> <container parent="4f628840-44d7-43a2-8a8f-65c5efe97000" type="folder">7</container> 
+				  <unittitle>Report of the American Bison Society [in envelope], 
+					 <unitdate normal="1924/1926" type="inclusive">1924-1926</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="56f7fd35-ddb2-4cd6-8654-f602576ff2ca" type="box">1</container> <container parent="56f7fd35-ddb2-4cd6-8654-f602576ff2ca" type="folder">7</container> 
+				  <unittitle>Denver Post advertisement regarding "Buffalo,"
+					 </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="e1d88f9b-4735-4d8b-b552-9150870594d5" type="box">1</container> <container parent="e1d88f9b-4735-4d8b-b552-9150870594d5" type="folder">7</container> 
+				  <unittitle>Jones show [2 photocopies], 
+					 <unitdate normal="1916" type="inclusive">1916</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="9899874b-c395-490e-bfeb-72e3a773c323" type="box">1</container> <container parent="9899874b-c395-490e-bfeb-72e3a773c323" type="folder">7</container> 
+				  <unittitle>Glacier National Park brochure, </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="eabd5413-0552-4229-beb4-9c2d3fbfdec5" type="box">1</container> <container parent="eabd5413-0552-4229-beb4-9c2d3fbfdec5" type="folder">7</container> 
+				  <unittitle>Kansas City Times article [photocopy], 
+					 <unitdate normal="1919" type="inclusive">October 7,
+						1919</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="f757f51e-de17-44d6-ae72-c32cb19f757d" type="box">1</container> <container parent="f757f51e-de17-44d6-ae72-c32cb19f757d" type="folder">7</container> 
+				  <unittitle>Lecture bulletin for "Buffalo" Jones, 
+					 <unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="ce3017a2-8d12-489d-ae17-3b20947aa4b0" type="box">1</container> <container parent="ce3017a2-8d12-489d-ae17-3b20947aa4b0" type="folder">7</container> 
+				  <unittitle>Article 
+					 <title>The Real Conquest of the West</title>, 
+					 <unitdate normal="1907" type="inclusive">1907</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="6011c656-baf3-4d46-8445-95bc383187d6" type="box">1</container> <container parent="6011c656-baf3-4d46-8445-95bc383187d6" type="folder">7</container> 
+				  <unittitle> C. J. Jones article 
+					 <title>The Capture of Mountain Sheep</title>[photocopy], 
+					 <unitdate normal="-4.8099/5.1901" type="inclusive">ca.1901</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="a9c57f40-dcdd-401b-8711-c8d4ee64791b" type="box">1</container> <container parent="a9c57f40-dcdd-401b-8711-c8d4ee64791b" type="folder">7</container> 
+				  <unittitle>Advertising bulletin proof page, </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="8e9f585a-dec1-4710-9a3a-6daedf1d3921" type="box">1</container> <container parent="8e9f585a-dec1-4710-9a3a-6daedf1d3921" type="folder">7</container> 
+				  <unittitle> Advertising bulletin for "Buffalo" Jones film of live
+					 animal captures in Africa, 
+					 <unitdate normal="-4.8084/5.1916" type="inclusive">ca.1916</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="0867a7c2-e9d1-4e07-8f18-d8eeae4a45ef" type="box">1</container> <container parent="0867a7c2-e9d1-4e07-8f18-d8eeae4a45ef" type="folder">7</container> 
+				  <unittitle>Book excerpt from 
+					 <title>Charles Goodnight : cowman and plainsman</title> by J.
+					 Evetts Haley, page 453, </unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle> Subseries: Publications, 
+				  <unitdate normal="NaN/1990" type="inclusive">ca.1911-1990</unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="003392a4-7387-4ccb-9ad1-37561f2094d6" type="box">1</container> <container parent="003392a4-7387-4ccb-9ad1-37561f2094d6" type="folder">8</container> 
+				  <unittitle>Advertising flyers(3) for Persiarino lamb from the
+					 Buffalo Jones Hybridizing Station, Las Vegas and Portales, New Mexico,
+					 </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="9589a9bd-9291-438d-92f7-e23aba22001e" type="box">1</container> <container parent="9589a9bd-9291-438d-92f7-e23aba22001e" type="folder">8</container> 
+				  <unittitle>C. J. Jones (1) page biography from 
+					 <title>Arctic</title> vol. 37, no. 2; 
+					 <unitdate normal="1984" type="inclusive">June,
+						1984</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="957bf13f-5eac-4be5-a8b1-0888dde6a572" type="box">1</container> <container parent="957bf13f-5eac-4be5-a8b1-0888dde6a572" type="folder">8</container> 
+				  <unittitle>Full page magazine photo on reverse side (by Cherry
+					 Kearton), 
+					 <unitdate normal="NaN/NaN" type="inclusive">ca.191l</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="0871f568-17c0-4f4a-aae1-9eeef3e36098" type="box">1</container> <container parent="0871f568-17c0-4f4a-aae1-9eeef3e36098" type="folder">8</container> 
+				  <unittitle>Canadian Camp Ninth Annual Dinner Announcement;
+					 drawing on cover of guest of honor, C. J. Jones, 
+					 <unitdate normal="1911" type="inclusive">March 6,
+						1911</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="cd9531d5-0385-4e90-9372-f0add084b9fb" type="box">1</container> <container parent="cd9531d5-0385-4e90-9372-f0add084b9fb" type="folder">8</container> 
+				  <unittitle>American Bison Society dinner announcement at
+					 Delmonico's, 
+					 <unitdate normal="1912" type="inclusive">February 23,
+						1912</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="ccb1e240-dad0-43c4-91fc-55768e13957c" type="box">1</container> <container parent="ccb1e240-dad0-43c4-91fc-55768e13957c" type="folder">8</container> 
+				  <unittitle> 
+					 <title>U.S. News and World Report</title>, with cover photo of
+					 Buffalo Bill Cody, Pawnee Bill and Buffalo Jones, 
+					 <unitdate normal="1990" type="inclusive">May 21,
+						1990</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="f8f549bc-0ea1-4f2f-9d7a-313216d34afd" type="box">1</container> <container parent="f8f549bc-0ea1-4f2f-9d7a-313216d34afd" type="folder">8</container> 
+				  <unittitle> 
+					 <title>Arizona Highways Magazine</title>article about C. J.
+					 Jones, with cover photo of Buffalo Bill Cody, Pawnee Bill and Buffalo Jones, 
+					 <unitdate normal="NaN" type="inclusive">September
+						,1978</unitdate></unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		</c02>
+		<c02 level="series"> 
+		  <did> 
+			 <unittitle>Series 3: Certificates, 
+				<unitdate normal="1905/1919" type="inclusive">1905-1919</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <head>Description: </head> 
+			 <list> 
+				<item>Three Stock Certificates, 
+				  <date>1881-1916. </date></item> 
+				<item>One Death Certificate, 
+				  <date>1919.</date></item> 
+			 </list>
+			 <arrangement> 
+				<head>Arrangement: </head> 
+				<p>Chronological.</p> 
+			 </arrangement> 
+		  </scopecontent>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle> Subseries: Financial Records, 
+				  <unitdate normal="1881/1916" type="inclusive">1881-1916</unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="34f5627d-efc3-46af-b505-751a2dc232dd" type="box">1</container> <container parent="34f5627d-efc3-46af-b505-751a2dc232dd" type="folder">9</container> 
+				  <unittitle>Stock certificate of The McPherson Mining and Milling
+					 Co., Colorado, in the Name of Mrs. R.Whitmer, 
+					 <unitdate normal="1881" type="inclusive">March
+						1881</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="08e7c48d-34de-4312-972d-d3d6b4a107ac" type="box">1</container> <container parent="08e7c48d-34de-4312-972d-d3d6b4a107ac" type="folder">9</container> 
+				  <unittitle>Stock certificate of The Buffalo Jones Catalo Co. in
+					 the name of Jesse P. Jones, 
+					 <unitdate normal="1905" type="inclusive">October 25,
+						1905</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="b3fe15d2-82ef-49ed-947b-5218b90d94b7" type="box">1</container> <container parent="b3fe15d2-82ef-49ed-947b-5218b90d94b7" type="folder">9</container> 
+				  <unittitle>Stock certificate of The National Irrigation and Power
+					 Company in the name of Charles R. Whitmer, 
+					 <unitdate normal="1916" type="inclusive">1916</unitdate></unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle> Subseries: Personal records, 
+				  <unitdate normal="1919/1958" type="inclusive">1919-1958</unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="0f3fc5a8-91c3-4c7e-985d-fbcbb0f8c6ef" type="box">1</container> <container parent="0f3fc5a8-91c3-4c7e-985d-fbcbb0f8c6ef" type="folder">9</container> 
+				  <unittitle>Death Certificate for C. J. Jones, 
+					 <unitdate normal="1919" type="inclusive">March 18,
+						1919</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="2650756e-3f37-4d1b-aec3-4390136cb63c" type="box">1</container> <container parent="2650756e-3f37-4d1b-aec3-4390136cb63c" type="folder">9</container> 
+				  <unittitle> [photocopy of death certificate] 
+					 <unitdate normal="1958" type="inclusive">September 23,
+						1958</unitdate></unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		</c02>
+	 </c01> 
+	 <c01 level="subgrp"> 
+		<did> 
+		  <unittitle> Subgroup 2: Photographs, 
+			 <unitdate normal="NaN/1916" type="inclusive">ca.1872-1916</unitdate></unittitle> 
+		</did> 
+		<c02 level="series"> 
+		  <did> 
+			 <unittitle> Photographs, 
+				<unitdate normal="NaN/NaN" type="inclusive">ca.1872
+				  1920's</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <head>Description: </head> 
+			 <p>Portraits of Charles Jones; Jesse Jones; Buffalo Bill, Pawnee Bill
+				and Buffalo Jones together; photographs of bison herds; sheep flocks; and
+				African animal capture. Some original photographs, some copy photographs, and
+				some photocopies of original photographs.</p>
+			 <arrangement> 
+				<head>Arrangement: </head> 
+				<p>Dimension (small to large)</p> 
+			 </arrangement> 
+		  </scopecontent>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle> Subseries: Photographs 
+				  <unitdate normal="1872/1941" type="inclusive">1872-1941</unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="35f46c51-43ac-4d7f-99b4-2eb61245677e" type="box">1</container> <container parent="35f46c51-43ac-4d7f-99b4-2eb61245677e" type="folder">10</container> 
+				  <unittitle> C. J. Jones, 1872; 4x2" New York Gallery Print,
+					 St.Joseph MO., by W.T. Duer Buffalo herd with Cowboy, on 4x5" matte board,
+					 </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="78b8de23-252a-4fd6-b0be-a50fbd4573ce" type="box">1</container> <container parent="78b8de23-252a-4fd6-b0be-a50fbd4573ce" type="folder">10</container> 
+				  <unittitle>Man with two "Persiarino Sheep," </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="a47a0adc-d8c7-4649-aa3b-229bf98cb861" type="box">1</container> <container parent="a47a0adc-d8c7-4649-aa3b-229bf98cb861" type="folder">10</container> 
+				  <unittitle>Three tents in woods, </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="c36476f4-6281-44e7-ac9e-6e172e56d2c3" type="box">1</container> <container parent="c36476f4-6281-44e7-ac9e-6e172e56d2c3" type="folder">10</container> 
+				  <unittitle>C. J. Jones in Stetson hat, signed [photo from
+					 magazine], </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="e8abeb80-671a-4451-82ef-bf66131954bb" type="box">1</container> <container parent="e8abeb80-671a-4451-82ef-bf66131954bb" type="folder">10</container> 
+				  <unittitle>Cowboy and five cattle, </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="5f69bb53-c43b-41d7-a222-4653970dca2e" type="box">1</container> <container parent="5f69bb53-c43b-41d7-a222-4653970dca2e" type="folder">10</container> 
+				  <unittitle>Mountain Lion on chain in barn loft. Inscription:
+					 "Captured Mountain Lion Yellowstone Park" </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="b1860fba-3570-4dd6-a419-f6b318cf9335" type="box">1</container> <container parent="b1860fba-3570-4dd6-a419-f6b318cf9335" type="folder">10</container> 
+				  <unittitle>Small Buffalo herd (20) on grassland, </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="c3cefd58-db4c-45db-bb25-8c91a947676b" type="box">1</container> <container parent="c3cefd58-db4c-45db-bb25-8c91a947676b" type="folder">10</container> 
+				  <unittitle>C. J. Jones portrait with hat and necktie,
+					 </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="d2386418-8f00-43b2-93b8-91d8ce1ad649" type="box">1</container> <container parent="d2386418-8f00-43b2-93b8-91d8ce1ad649" type="folder">10</container> 
+				  <unittitle>Buffalo along fence in gullied area, McCook, Nebraska
+					 ; inscription reads: "1881 Compliments R. E. Stotts 1941, " 
+					 <unitdate normal="1881" type="inclusive">1881</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="979628e0-af5c-429d-be09-cf6728c6cbf2" type="box">1</container> <container parent="979628e0-af5c-429d-be09-cf6728c6cbf2" type="folder">10</container> 
+				  <unittitle>C. J. Jones, montage of cutout photographs with inset
+					 of rhinoceros, </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="0786cfef-55ea-416e-b69f-d30a14bcfbeb" type="box">1</container> <container parent="0786cfef-55ea-416e-b69f-d30a14bcfbeb" type="folder">10</container> 
+				  <unittitle>Jessie Jones Phillips [center], youngest daughter of
+					 C. J. Jones, in 1920's era clothes with Chief Turtle and Chief Eagle, both in
+					 Plains Indian (Blackfeet?) headdress, "She's an Indian Princess" written on
+					 back of photo, </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="d4a651c5-3495-4a36-a3f9-e6a729500c25" type="box">1</container> <container parent="d4a651c5-3495-4a36-a3f9-e6a729500c25" type="folder">10</container> 
+				  <unittitle>Jim Owens next to a tree, "The Denver and Rio Grande
+					 Western R.R. Co." stamp on back of photograph, </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="ffcf4611-4fbf-4363-a3c2-55a0e98a6776" type="box">1</container> <container parent="ffcf4611-4fbf-4363-a3c2-55a0e98a6776" type="folder">10</container> 
+				  <unittitle>Two lambs balanced on plank, </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="cc08160b-8bf3-46e0-8305-9aca54258d65" type="box">1</container> <container parent="cc08160b-8bf3-46e0-8305-9aca54258d65" type="folder">10</container> 
+				  <unittitle>C. J. Jones photo, (2) signed copy photographs,
+					 </unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle> Subseries: Photograph / Postcard, </unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="ca72dfc3-4f74-4715-b990-390f6e25830e" type="box">1</container> <container parent="ca72dfc3-4f74-4715-b990-390f6e25830e" type="folder">10</container> 
+				  <unittitle>Persiarino Sheep Postcard advertising C. J. Jones
+					 breeding business, </unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle> Subseries: Photocopies of photographs, 
+				  <unitdate normal="NaN/NaN" type="inclusive">ca.1890-1920's</unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="3d22625a-c204-4bc1-8d4e-c9c90c7a7187" type="box">1</container> <container parent="3d22625a-c204-4bc1-8d4e-c9c90c7a7187" type="folder">11</container> 
+				  <unittitle>Buffalo Bill, Pawnee Bill and Buffalo Jones; 2
+					 different poses; 3 photocopies total, </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="f1ec4f7e-c4b1-40c6-8102-89b22ee234b5" type="box">1</container> <container parent="f1ec4f7e-c4b1-40c6-8102-89b22ee234b5" type="folder">11</container> 
+				  <unittitle>Jessie Jones Phillips with Chief Turtle and Chief
+					 Eagle, 
+					 <unitdate normal="NaN/NaN" type="inclusive">ca.1920's</unitdate></unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle> Subseries: Photocopies of photographs and etchings, 
+				  <unitdate normal="NaN/NaN" type="inclusive">ca.1902-1920's</unitdate></unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="0a0a7f4f-64ae-4a6f-8faa-a18061b50542" type="box">1</container> <container parent="0a0a7f4f-64ae-4a6f-8faa-a18061b50542" type="folder">11</container> 
+				  <unittitle>C. J. Jones standing by irrigation flume </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="820e0315-a055-4813-becc-598ecd6734a9" type="box">1</container> <container parent="820e0315-a055-4813-becc-598ecd6734a9" type="folder">11</container> 
+				  <unittitle>Child in stagecoach, man standing outside,
+					 </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="ab121d88-1730-4535-8e4d-5f9e29a6b26c" type="box">1</container> <container parent="ab121d88-1730-4535-8e4d-5f9e29a6b26c" type="folder">11</container> 
+				  <unittitle>Cowboys (3) in woods by lake, </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="921a8411-ee66-41d7-ac56-f94362ca8dda" type="box">1</container> <container parent="921a8411-ee66-41d7-ac56-f94362ca8dda" type="folder">11</container> 
+				  <unittitle>Pack trip w/ 15 people, trees in background,
+					 </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="a7b8d903-9650-4ae0-ba29-eb652be4bffa" type="box">1</container> <container parent="a7b8d903-9650-4ae0-ba29-eb652be4bffa" type="folder">11</container> 
+				  <unittitle>Cowboys in mountains taking in scenic views,
+					 </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="8a8dc18d-14e9-4b0e-948a-312bf8bfc489" type="box">1</container> <container parent="8a8dc18d-14e9-4b0e-948a-312bf8bfc489" type="folder">11</container> 
+				  <unittitle>Fred Harvey Corporation postcard of Indian farmers,
+					 [photocopy of etching], </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="3ea44382-344c-437b-8672-437eb505da23" type="box">1</container> <container parent="3ea44382-344c-437b-8672-437eb505da23" type="folder">11</container> 
+				  <unittitle>Grand Canyon view [Detroit Photography Company], 
+					 <unitdate normal="1902" type="inclusive">1902</unitdate></unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		  <c03 level="subseries"> 
+			 <did> 
+				<unittitle> Subseries: Photocopies, </unittitle> 
+			 </did> 
+			 <c04 level="file"> 
+				<did> <container id="b3c6eecf-bce1-4408-8ef3-39bf54db7859" type="box">1</container> <container parent="b3c6eecf-bce1-4408-8ef3-39bf54db7859" type="folder">11</container> 
+				  <unittitle>Persiarino Sheep on grassland</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="4f4e158f-5709-4e2a-b70a-464f2a9e5ec7" type="box">1</container> <container parent="4f4e158f-5709-4e2a-b70a-464f2a9e5ec7" type="folder">11</container> 
+				  <unittitle>Two Buffalo in yolk pulling sled</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="a99e9e3f-f243-4e71-900d-ca5600804f0b" type="box">1</container> <container parent="a99e9e3f-f243-4e71-900d-ca5600804f0b" type="folder">11</container> 
+				  <unittitle>Yellowstone Park stagecoach </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="473d8d33-1757-449c-b9a4-352bb135dd9e" type="box">1</container> <container parent="473d8d33-1757-449c-b9a4-352bb135dd9e" type="folder">11</container> 
+				  <unittitle>Drawing of (2) Cowboys trying to lasso African lion
+					 </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="030fe7df-93ca-40df-bfd7-8080dc12978a" type="box">1</container> <container parent="030fe7df-93ca-40df-bfd7-8080dc12978a" type="folder">11</container> 
+				  <unittitle>Man seated next to Gorilla </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="dc233872-ba0f-427c-8d60-20769e91efbb" type="box">1</container> <container parent="dc233872-ba0f-427c-8d60-20769e91efbb" type="folder">11</container> 
+				  <unittitle>Three men holding Chimpanzee; [on same page] cartoon
+					 of C. J. Jones in Africa </unittitle> 
+				</did> 
+			 </c04> 
+			 <c04 level="file"> 
+				<did> <container id="f03e465d-e99e-49a9-af87-76f992ddbadd" type="box">1</container> <container parent="f03e465d-e99e-49a9-af87-76f992ddbadd" type="folder">11</container> 
+				  <unittitle>Buffalo Jones Broadsides (2) advertising motion
+					 pictures of African live animal captures </unittitle> 
+				</did> 
+			 </c04>
+		  </c03>
+		</c02> 
+	 </c01>
+	 <c01 level="subgrp"> 
+		<did> 
+		  <unittitle> Subgroup 3: Scrapbook, 
+			 <unitdate normal="1890/1979" type="inclusive">1890-1979</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <head>Description: </head> 
+		  <p>Scrapbook with articles, correspondence and photographs regarding C.
+			 J. Jones activities ranging from buffalo raising; to Warden of Yellowstone; to
+			 African animal capture. Scrapbook photographs (from magazines) are thought to
+			 have been compiled by his daughter, Olive.</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container id="19311701-7339-4fec-a3df-1be4de20736d" type="box">2</container> <container parent="19311701-7339-4fec-a3df-1be4de20736d" type="folder">1</container> 
+			 <unittitle>Scrapbook of C.J. Jones Activities and History, 
+				<unitdate normal="1890/1979" type="inclusive">1890-1979</unitdate></unittitle> 
+		  </did>
+		</c02>
+	 </c01> 
+  </dsc> 
+</archdesc></ead>
