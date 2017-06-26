@@ -1,0 +1,892 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+  <eadid encodinganalog="852">UAMS469</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper>Theatre Programs collection, 
+		  <date normal="1881/1968" type="inclusive">1881-1968</date>
+			<date normal="1920/1940" type="bulk">(bulk 1920-1940)</date></titleproper> 
+	 			<author>Inventory prepared by Lena Grijalva.</author>
+		
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  		</address> 
+		<date normal="2011">2011</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation>Inventory encoded in Oxygen XML editor by Lena Grijalva. 
+		<date>July 11, 2011 </date></creation> 
+	 <langusage>Inventory is in<language langcode="eng"> English.</language></langusage>
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-22">2017-06-22</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper>Theatre Programs collection, 
+	 	<date normal="1881/1968" type="inclusive">1881-1968,</date>
+	 	<date normal="1920/1940" type="bulk">(bulk 1920-1940)</date></titleproper> 
+	 <num>Collection Number: MS 469</num> 
+	 <publisher>University of Arizona Library Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Lena Grijalva</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>July 11, 2011</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Lena Grijalva</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2011. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name"> Theatre Progams collection
+		<unitdate label="Dates" normal="1881/1968" type="inclusive">1881-1968</unitdate>
+	 	<unitdate label="Dates" normal="1920/1940" type="bulk">(bulk 1920-1940)</unitdate></unittitle>
+	 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 469</unitid> 
+	 <origination label="Creator"> 
+	 	<corpname encodinganalog="110">University of Arizona. Library. Special Collections</corpname> </origination> 
+  	<unittitle encodinganalog="245$a">Theatre Programs collection</unittitle>
+  	<abstract label="Abstract">This collection entails programs of plays at various theatres. Plays are compiled by alphabetical order.  Some programs have ticket stubs attached.
+  		
+  	</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent>6 linear feet</extent></physdesc>
+	 
+	 <repository label="Repository"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address></repository> 
+  </did> 
+	<accessrestrict> 
+	<head>Restrictions</head> 
+	<p>None</p> 
+	</accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p> Theatre Programs collection (MS 469). Special Collections, University of Arizona Libraries</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>The Theatre Programs collection was compiled by Special Collections over the years in order to provide access to miscellaneous theatre programs and related ephemera located with Special Collections holdings.</p> 
+  </bioghist> 
+  <arrangement encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into one series. 	</p>	 
+	 <list> 
+	 	<item>Series I: Theatre programs, 1881-1968</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>This collection consists of programs of plays at various theatres starting as far back in 1881.  All plays are in alphabetical order showing title of play, cast of characters, the director/s, date of opening show, with number of scenes.  Some programs have actual ticket stubs attached to the programs.There are also playbills that were shown in England, France, and other foreign countries.  There’s also plays from the Carolina Playmakers.  Programs from the circus, . German language theater, some from individual performers, motion pictures, also one-act plays, the Pasadena community playhouse, U.S misc., various ballet companies. Included are playbills from Arizona, Arizona civic Theatre in Tucson, some from Arizona theatre company, Arizona Corral theatre, Chautauqua, motion pictures, the Play box, Rialto theatre, the Tucson Little theatre, Tucson Opera House, and there are misc. and various playbill from Tucson, Arizona.</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <subject>Theaters -- United States</subject><subject>Actors -- United States</subject><subject>Comedy -- Theatre</subject><subject>Musical Comedy</subject><subject>Operetta -- United States</subject><subject>Playbills</subject><subject>Theatre Programs</subject></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+			<unittitle> Series I: Theatre programs,
+			</unittitle> 
+			<unitdate normal="1881/1968" type="inclusive">1881-1968</unitdate>
+		</did> 
+	 	<arrangement><p>This series is arranged alphabetically by play title</p></arrangement>
+	 	<c02 level="file"> 
+	 		<did> <container id="6edc301d-60b3-4655-af26-87d0a8541b87" type="box">1</container> 
+	 			<container parent="6edc301d-60b3-4655-af26-87d0a8541b87" type="folder">1</container> 
+	 			<unittitle>A-AE</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 	<did> <container id="9e66af27-cf2c-42ea-94d6-ec32c6764082" type="box">1</container> 
+	 		<container parent="9e66af27-cf2c-42ea-94d6-ec32c6764082" type="folder">2</container> 
+	 		<unittitle>AF-AM</unittitle> 
+	 	</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 	<did> <container id="a265a09a-3916-4003-96d7-d856c029319d" type="box">1</container> 
+	 		<container parent="a265a09a-3916-4003-96d7-d856c029319d" type="folder">3</container> 
+	 		<unittitle>AN-AO</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="0319db77-aa4b-44c6-aa3d-8563e534e6c6" type="box">1</container> 
+	 			<container parent="0319db77-aa4b-44c6-aa3d-8563e534e6c6" type="folder">4&gt;</container> 
+	 			<unittitle>AP-AR</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="f4bce542-26f5-4168-aeb2-4bb05a9f6b98" type="box">1</container> 
+	 			<container parent="f4bce542-26f5-4168-aeb2-4bb05a9f6b98" type="folder">5</container> 
+	 			<unittitle>AS-AZ</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="ac1396b2-30ee-43e5-89dd-9aa0c8f51fa5" type="box">1</container> 
+	 			<container parent="ac1396b2-30ee-43e5-89dd-9aa0c8f51fa5" type="folder">6</container> 
+	 			<unittitle>BA-BAS</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="152f9ef0-e869-4a43-84db-059b9c685732" type="box">1</container> 
+	 			<container parent="152f9ef0-e869-4a43-84db-059b9c685732" type="folder">7</container> 
+	 			<unittitle>BAT-BEG</unittitle> 
+	 	</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="edb4e53a-9c8c-416f-a192-28ffa911fb56" type="box">1</container> 
+	 			<container parent="edb4e53a-9c8c-416f-a192-28ffa911fb56" type="folder">8</container> 
+	 			<unittitle>BEH-BIK</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="0b9e0480-6121-413e-8bfd-e6934b7ea2bc" type="box">1</container> 
+	 			<container parent="0b9e0480-6121-413e-8bfd-e6934b7ea2bc" type="folder">9</container> 
+	 			<unittitle>BIL-BLIS</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="599840c6-a938-4eac-8a89-e28bfb9fde23" type="box">1</container> 
+	 			<container parent="599840c6-a938-4eac-8a89-e28bfb9fde23" type="folder">10</container> 
+	 			<unittitle>BLIT-BRIC</unittitle> 
+	 	</did> 
+	 	</c02><c02 level="file"> 
+	 		<did> <container id="375577d3-c81a-45a5-8a41-156b96254174" type="box">1</container> 
+	 			<container parent="375577d3-c81a-45a5-8a41-156b96254174" type="folder">11</container> 
+	 			<unittitle>BRID-BUM</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="51d19145-dce5-42fd-aa32-fca36701cf0f" type="box">1</container> 
+	 			<container parent="51d19145-dce5-42fd-aa32-fca36701cf0f" type="folder">12</container> 
+	 			<unittitle>BUN-BZ</unittitle> 
+	 	</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="3f4ee689-7b74-458f-b5ae-d477785ce6d2" type="box">1</container> 
+	 			<container parent="3f4ee689-7b74-458f-b5ae-d477785ce6d2" type="folder">13</container> 
+	 			<unittitle>BALIEFF'S CHAUVE-SOURIS</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="d1f37a9f-e5bb-49c8-ac10-5d0bcaee5dcd" type="box">1</container> 
+	 			<container parent="d1f37a9f-e5bb-49c8-ac10-5d0bcaee5dcd" type="folder">14</container> 
+	 			<unittitle>IRVING BERLIN'S MUSIC BOX REVUE</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="2344436a-ff64-4dd3-a27e-625bff608061" type="box">1</container> 
+	 			<container parent="2344436a-ff64-4dd3-a27e-625bff608061" type="folder">15</container> 
+	 			<unittitle>CA-CAM</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="e819c799-9775-48e3-89a4-37df47170f6a" type="box">1</container> 
+	 			<container parent="e819c799-9775-48e3-89a4-37df47170f6a" type="folder">16</container> 
+	 			<unittitle>CAN-CAS</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="d0497e41-20cd-431f-a044-212c0e5524bd" type="box">1</container> 
+	 			<container parent="d0497e41-20cd-431f-a044-212c0e5524bd" type="folder">17</container> 
+	 			<unittitle>CAT-CHIB</unittitle> 
+	 	</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="4464195a-3120-422a-af66-c61415fd0ce4" type="box">1</container> 
+	 			<container parent="4464195a-3120-422a-af66-c61415fd0ce4" type="folder">18</container> 
+	 			<unittitle>CHIC-CIS</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="1ebbacf8-b3f1-4bee-9459-a07870b42a7c" type="box">1</container> 
+	 			<container parent="1ebbacf8-b3f1-4bee-9459-a07870b42a7c" type="folder">19</container> 
+	 			<unittitle>CIT-COM</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="4e6bbf84-ced1-452d-a6bc-ade77b5bff76" type="box">1</container> 
+	 			<container parent="4e6bbf84-ced1-452d-a6bc-ade77b5bff76" type="folder">20</container> 
+	 			<unittitle>CON-COT</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="f65831f3-d370-4713-a248-8f9d60d2377f" type="box">1</container> 
+	 			<container parent="f65831f3-d370-4713-a248-8f9d60d2377f" type="folder">21</container> 
+	 			<unittitle>COU-CZ</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="4dc8dcbb-99a0-4433-b822-d270bd34f0a6" type="box">1</container> 
+	 			<container parent="4dc8dcbb-99a0-4433-b822-d270bd34f0a6" type="folder">22</container> 
+	 			<unittitle>CYRANO DE BERGERAC</unittitle> 
+	 	</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="19980aeb-531c-482e-bf66-a24f0bf243db" type="box">2</container> 
+	 			<container parent="19980aeb-531c-482e-bf66-a24f0bf243db" type="folder">1</container> 
+	 			<unittitle>DA-DEB</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="a3571416-7741-428e-aaed-702c4fa1c24c" type="box">2</container> 
+	 			<container parent="a3571416-7741-428e-aaed-702c4fa1c24c" type="folder">2</container> 
+	 			<unittitle>DEC-DIB</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="a1d6215a-7269-47fd-bfba-68b6ac5f107c" type="box">2</container> 
+	 			<container parent="a1d6215a-7269-47fd-bfba-68b6ac5f107c" type="folder">3</container> 
+	 			<unittitle>DIC-DOC</unittitle> 
+	 	 </did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="808cf2d0-8c80-4b6f-ad4a-3225ec1bb9a7" type="box">2</container> 
+	 			<container parent="808cf2d0-8c80-4b6f-ad4a-3225ec1bb9a7" type="folder">4</container> 
+	 			<unittitle>DOD-DZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="e95441ad-4651-4887-8cb8-f64f6507fe7b" type="box">2</container> 
+	 			<container parent="e95441ad-4651-4887-8cb8-f64f6507fe7b" type="folder">5</container> 
+	 			<unittitle>EA-ER</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="796ced93-8c23-4a68-b18e-5d9f70e8f037" type="box">2</container> 
+	 			<container parent="796ced93-8c23-4a68-b18e-5d9f70e8f037" type="folder">6</container> 
+	 			<unittitle>ES-EZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="eafcea42-3b24-4d6a-b731-12e52a1f9dad" type="box">2</container> 
+	 			<container parent="eafcea42-3b24-4d6a-b731-12e52a1f9dad" type="folder">7</container> 
+	 			<unittitle>EARL CARROLL VANITIES, ETC.</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="d125ac56-beec-40e4-b3e1-3ebcc5bade1d" type="box">2</container> 
+	 			<container parent="d125ac56-beec-40e4-b3e1-3ebcc5bade1d" type="folder">8</container> 
+	 			<unittitle>FA-FEC</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="d872cd8b-ea87-4edc-af74-11ceef3b2efa" type="box">2</container> 
+	 			<container parent="d872cd8b-ea87-4edc-af74-11ceef3b2efa" type="folder">9</container> 
+	 			<unittitle>FED-FIU</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="a5289126-a390-44ab-8e6b-1a423bfe0e6c" type="box">2</container> 
+	 			<container parent="a5289126-a390-44ab-8e6b-1a423bfe0e6c" type="folder">10</container> 
+	 			<unittitle>FIV-FORS</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="e9e9ea74-99ba-4e8e-97fc-2448f49fe035" type="box">2</container> 
+	 			<container parent="e9e9ea74-99ba-4e8e-97fc-2448f49fe035" type="folder">11</container> 
+	 			<unittitle>FORT-FZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="3de12645-508b-4492-b595-d164cc540bb7" type="box">2</container> 
+	 			<container parent="3de12645-508b-4492-b595-d164cc540bb7" type="folder">12</container> 
+	 			<unittitle>GA-GH</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="c57c6b45-2a97-4694-9820-95b704fbccd2" type="box">2</container> 
+	 			<container parent="c57c6b45-2a97-4694-9820-95b704fbccd2" type="folder">13</container> 
+	 			<unittitle>GI-GON</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="febd2396-abae-4deb-ab70-470b266d78e4" type="box">2</container> 
+	 			<container parent="febd2396-abae-4deb-ab70-470b266d78e4" type="folder">14</container> 
+	 			<unittitle>GOO-GRAM</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="260488e6-899e-452b-aac0-0aaf41d8f991" type="box">2</container> 
+	 			<container parent="260488e6-899e-452b-aac0-0aaf41d8f991" type="folder">15</container> 
+	 			<unittitle>GRAN-GREEN G</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="10d3c0b4-4ec4-41bc-a077-4091d04f8448" type="box">2</container> 
+	 			<container parent="10d3c0b4-4ec4-41bc-a077-4091d04f8448" type="folder">16</container> 
+	 			<unittitle>GREEN H-GZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="a7ae308b-9f75-49cb-b241-2d7bc4f859f4" type="box">2</container> 
+	 			<container parent="a7ae308b-9f75-49cb-b241-2d7bc4f859f4" type="folder">17</container> 
+	 			<unittitle>GEORGE WHITE'S FOLLIES</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="9b6d2023-38ce-4ca9-82cb-1e36c9d0262e" type="box">2</container> 
+	 			<container parent="9b6d2023-38ce-4ca9-82cb-1e36c9d0262e" type="folder">18</container> 
+	 			<unittitle>GREENWICH VILLAGE FOLLIES</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="d40751c2-14c2-45da-8ee4-620a4870ccfa" type="box">2</container> 
+	 			<container parent="d40751c2-14c2-45da-8ee4-620a4870ccfa" type="folder">19</container> 
+	 			<unittitle>HA-HAT</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="dbc65469-fb7b-4494-8a82-c547aaaa1245" type="box">2</container> 
+	 			<container parent="dbc65469-fb7b-4494-8a82-c547aaaa1245" type="folder">20</container> 
+	 			<unittitle>HAU-HEK</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="2830ccd6-cf58-4ef3-a9a5-562b10d91cf6" type="box">2</container> 
+	 			<container parent="2830ccd6-cf58-4ef3-a9a5-562b10d91cf6" type="folder">21</container> 
+	 			<unittitle>HEL-HEQ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="c8d48c3f-32d6-4f59-a77f-6da0117fbb28" type="box">2</container> 
+	 			<container parent="c8d48c3f-32d6-4f59-a77f-6da0117fbb28" type="folder">22</container> 
+	 			<unittitle>HER-HIGH R</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="9ae9fa6f-a326-4f92-a4e7-e4e588b778a7" type="box">2</container> 
+	 			<container parent="9ae9fa6f-a326-4f92-a4e7-e4e588b778a7" type="folder">23</container> 
+	 			<unittitle>HIGH S-HOM</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="5d62cc05-0293-4a05-b845-ca98c508a7b0" type="box">2</container> 
+	 			<container parent="5d62cc05-0293-4a05-b845-ca98c508a7b0" type="folder">24</container> 
+	 			<unittitle>HON-HZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="a0bcf2ca-caa2-44aa-aee3-7570e7230ee7" type="box">2</container> 
+	 			<container parent="a0bcf2ca-caa2-44aa-aee3-7570e7230ee7" type="folder">25</container> 
+	 	 	    <unittitle>HAMLET</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="a17617f5-214c-4a31-9d7f-fe67d76109f6" type="box">2</container> 
+	 			<container parent="a17617f5-214c-4a31-9d7f-fe67d76109f6" type="folder">26</container> 
+	 			<unittitle>HARRIET</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="fae8154a-507d-444d-b5fb-8365b18d625b" type="box">3</container> 
+	 			<container parent="fae8154a-507d-444d-b5fb-8365b18d625b" type="folder">1</container> 
+	 			<unittitle>I-INR</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="20e0f025-d472-4f29-9b37-6c763a92c881" type="box">3</container> 
+	 			<container parent="20e0f025-d472-4f29-9b37-6c763a92c881" type="folder">2</container> 
+	 			<unittitle>INS-IZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="4bb8c8e2-9c74-43b6-8f14-43e609df07c9" type="box">3</container> 
+	 			<container parent="4bb8c8e2-9c74-43b6-8f14-43e609df07c9" type="folder">3</container> 
+	 			<unittitle>JA-JIL</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="63a4e79a-8a9e-4013-ad23-d08077d487dd" type="box">3</container> 
+	 			<container parent="63a4e79a-8a9e-4013-ad23-d08077d487dd" type="folder">4</container> 
+	 			<unittitle>JIM-JZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="0f31935d-08a2-4c8e-8665-50e91611ff0c" type="box">3</container> 
+	 			<container parent="0f31935d-08a2-4c8e-8665-50e91611ff0c" type="folder">5</container> 
+	 			<unittitle>JULIUS CAESAR</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="a7262a2b-2d11-406f-9614-fb0cde132243" type="box">3</container> 
+	 			<container parent="a7262a2b-2d11-406f-9614-fb0cde132243" type="folder">6</container> 
+	 			<unittitle>KA-KIN</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="baf2e479-7487-4f62-af13-fd99c97414a6" type="box">3</container> 
+	 			<container parent="baf2e479-7487-4f62-af13-fd99c97414a6" type="folder">7</container> 
+	 			<unittitle>KIO-KZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="71cf4a54-887a-452c-ba93-8ca8278aa488" type="box">3</container> 
+	 			<container parent="71cf4a54-887a-452c-ba93-8ca8278aa488" type="folder">8</container> 
+	 			<unittitle>LA-LAE</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="46cd8093-bcfa-497b-a1a0-db068b0a69fb" type="box">3</container> 
+	 			<container parent="46cd8093-bcfa-497b-a1a0-db068b0a69fb" type="folder">9</container> 
+	 			<unittitle>LAF-LEO</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="eabe76d2-3a4c-44a4-9989-b6c40b3eb1be" type="box">3</container> 
+	 			<container parent="eabe76d2-3a4c-44a4-9989-b6c40b3eb1be" type="folder">10</container> 
+	 			<unittitle>LEP-LIK</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="07585174-255c-4b57-8b78-9db069380600" type="box">3</container> 
+	 			<container parent="07585174-255c-4b57-8b78-9db069380600" type="folder">11</container> 
+	 			<unittitle>LIL-LOR</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="4941378f-b2bf-4391-b7f1-034148f1afca" type="box">3</container> 
+	 			<container parent="4941378f-b2bf-4391-b7f1-034148f1afca" type="folder">12</container> 
+	 			<unittitle>LOS-LZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="f17c5f93-ed28-467b-919d-a86ded656087" type="box">3</container> 
+	 			<container parent="f17c5f93-ed28-467b-919d-a86ded656087" type="folder">13</container> 
+	 			<unittitle>LYSISTRATA</unittitle>
+	 	</did>		
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="275fcc04-d242-4821-b924-d3149e0e37f0" type="box">3</container> 
+	 			<container parent="275fcc04-d242-4821-b924-d3149e0e37f0" type="folder">14</container> 
+	 			<unittitle>MA-MAM</unittitle>
+	 	</did>		
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="0a29445d-dd82-4956-a724-10c3c0b347b1" type="box">3</container> 
+	 			<container parent="0a29445d-dd82-4956-a724-10c3c0b347b1" type="folder">15</container> 
+	 			<unittitle>MAN-MAQ</unittitle></did>
+	
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="db8c08ae-de36-4abc-9638-62615979fc45" type="box">3</container> 
+	 			<container parent="db8c08ae-de36-4abc-9638-62615979fc45" type="folder">16</container> 
+	 			<unittitle>MAR-MASS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="8ac410f5-e81b-463c-ac63-5f712f5602d0" type="box">3</container> 
+	 			<container parent="8ac410f5-e81b-463c-ac63-5f712f5602d0" type="folder">17</container> 
+	 			<unittitle>MAST-MEQ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="9c4e26db-9cd9-4191-8eee-8131d8d6ae28" type="box">3</container> 
+	 			<container parent="9c4e26db-9cd9-4191-8eee-8131d8d6ae28" type="folder">18</container> 
+	 			<unittitle>MER-MES</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="5ce184e2-cf61-4a08-a57f-dfb80c9f2336" type="box">3</container> 
+	 			<container parent="5ce184e2-cf61-4a08-a57f-dfb80c9f2336" type="folder">19</container> 
+	 			<unittitle>MET-MIR</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="a0ccc3cd-a010-42ca-a736-1525dcbce19e" type="box">3</container> 
+	 			<container parent="a0ccc3cd-a010-42ca-a736-1525dcbce19e" type="folder">20</container> 
+	 			<unittitle>MIS-MOC</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="128e541f-3699-4924-a52c-bb5436df5ebf" type="box">3</container> 
+	 			<container parent="128e541f-3699-4924-a52c-bb5436df5ebf" type="folder">21</container> 
+	 			<unittitle>MOD-MOT</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="31c56e27-2fe3-4d08-9092-4067dbfb56f0" type="box">3</container> 
+	 			<container parent="31c56e27-2fe3-4d08-9092-4067dbfb56f0" type="folder">22</container> 
+	 			<unittitle>MOU-MUR</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="0af9bdd6-8cb4-46c1-aedb-59d8f23231a5" type="box">4</container> 
+	 			<container parent="0af9bdd6-8cb4-46c1-aedb-59d8f23231a5" type="folder">1</container> 
+	 			<unittitle>MUS-MZ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="e42d530e-20d0-43a4-a8cb-2842db48f273" type="box">4</container> 
+	 			<container parent="e42d530e-20d0-43a4-a8cb-2842db48f273" type="folder">2</container> 
+	 			<unittitle>THE MERCHANT OF VENICE</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="ca1ab63c-db6e-4f29-8da0-a06dcad0314f" type="box">4</container> 
+	 			<container parent="ca1ab63c-db6e-4f29-8da0-a06dcad0314f" type="folder">3</container> 
+	 			<unittitle>NA-NIB</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="2f7ea76a-4c90-42b2-add5-5948deaa3579" type="box">4</container> 
+	 			<container parent="2f7ea76a-4c90-42b2-add5-5948deaa3579" type="folder">4</container> 
+	 			<unittitle>NIC-NZ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="eb7aa6e7-9d29-4a09-90cc-86c2f2352824" type="box">4</container> 
+	 			<container parent="eb7aa6e7-9d29-4a09-90cc-86c2f2352824" type="folder">5</container> 
+	 			<unittitle>O-OK</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="df478b33-81a2-4b64-a263-6243b5f0e756" type="box">4</container> 
+	 			<container parent="df478b33-81a2-4b64-a263-6243b5f0e756" type="folder">6</container> 
+	 			<unittitle>OL-OM</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="a1fe6137-aa01-42a1-bc49-e87aeb3d1a6a" type="box">4</container> 
+	 			<container parent="a1fe6137-aa01-42a1-bc49-e87aeb3d1a6a" type="folder">7</container> 
+	 			<unittitle>ON-OR</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="596ccf1a-2132-4edf-be28-0ae829266755" type="box">4</container> 
+	 			<container parent="596ccf1a-2132-4edf-be28-0ae829266755" type="folder">8</container> 
+	 			<unittitle>OS-OZ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b71b976a-c28b-46e8-9297-328d5dba7605" type="box">4</container> 
+	 			<container parent="b71b976a-c28b-46e8-9297-328d5dba7605" type="folder">9</container> 
+	 			<unittitle>PA-PAR</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f9ff909f-36f4-45e5-8f7e-6eb34d28c5f2" type="box">4</container> 
+	 			<container parent="f9ff909f-36f4-45e5-8f7e-6eb34d28c5f2" type="folder">10</container> 
+	 			<unittitle>PAS-PEL</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="1231c391-a420-4ffe-b101-79573d4010d8" type="box">4</container> 
+	 			<container parent="1231c391-a420-4ffe-b101-79573d4010d8" type="folder">11</container> 
+	 			<unittitle>PEM-PH</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="a47f4323-dc12-405e-b212-ba5dbde087c0" type="box">4</container> 
+	 			<container parent="a47f4323-dc12-405e-b212-ba5dbde087c0" type="folder">12</container> 
+	 			<unittitle>PI-PL</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="0a46e5a2-39b1-4d1b-9d45-f8b6583f62ba" type="box">4</container> 
+	 			<container parent="0a46e5a2-39b1-4d1b-9d45-f8b6583f62ba" type="folder">13</container> 
+	 			<unittitle>PM-PREC</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="534f4bb7-d9c0-4571-86bd-eade3781cbbc" type="box">4</container> 
+	 			<container parent="534f4bb7-d9c0-4571-86bd-eade3781cbbc" type="folder">14</container> 
+	 			<unittitle>PRED-PRIR</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="ece84591-433c-4157-9b28-4b2f4811ae35" type="box">4</container> 
+	 			<container parent="ece84591-433c-4157-9b28-4b2f4811ae35" type="folder">15</container> 
+	 			<unittitle>PRIS-PZ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="31e12dd0-43c3-4088-a743-2349d7dc99d5" type="box">4</container> 
+	 			<container parent="31e12dd0-43c3-4088-a743-2349d7dc99d5" type="folder">16</container> 
+	 			<unittitle>PYGMALION</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="0c618bca-7484-46d5-9b21-0a0034aaf499" type="box">4</container> 
+	 			<container parent="0c618bca-7484-46d5-9b21-0a0034aaf499" type="folder">17</container> 
+	 			<unittitle>Q</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="1cc21997-4839-4862-ac0e-be40ad9cafec" type="box">4</container> 
+	 			<container parent="1cc21997-4839-4862-ac0e-be40ad9cafec" type="folder">18</container> 
+	 			<unittitle>RA-REC</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="a73d314d-61b6-4286-a2ac-69d25b12d379" type="box">4</container> 
+	 			<container parent="a73d314d-61b6-4286-a2ac-69d25b12d379" type="folder">19</container> 
+	 			<unittitle>RED-RIF</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="ff6b7a32-4031-4cb8-b7a8-09060d710195" type="box">4</container> 
+	 			<container parent="ff6b7a32-4031-4cb8-b7a8-09060d710195" type="folder">20</container> 
+	 			<unittitle>RIG-ROL</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="1ff5dc28-ddc6-4d38-b932-c9d5d2765c39" type="box">4</container> 
+	 			<container parent="1ff5dc28-ddc6-4d38-b932-c9d5d2765c39" type="folder">21</container> 
+	 			<unittitle>ROM-ROX</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="6f7db310-c4a1-4aee-8446-efb1a4c80fd4" type="box">4</container> 
+	 			<container parent="6f7db310-c4a1-4aee-8446-efb1a4c80fd4" type="folder">22</container> 
+	 			<unittitle>ROPY-RZ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="a4fc8079-a04f-47f0-8a97-97bc154eda75" type="box">4</container> 
+	 			<container parent="a4fc8079-a04f-47f0-8a97-97bc154eda75" type="folder">23</container> 
+	 			<unittitle>THE RIVALS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="90c9d94d-625c-4997-8f4a-19457ad84fba" type="box">4</container> 
+	 			<container parent="90c9d94d-625c-4997-8f4a-19457ad84fba" type="folder">24</container> 
+	 			<unittitle>ROMEO AND JULIET</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="944bda68-e1b8-4558-a81b-52b4b3cee4c7" type="box">4</container> 
+	 			<container parent="944bda68-e1b8-4558-a81b-52b4b3cee4c7" type="folder">25</container> 
+	 			<unittitle>SA-SB</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="eb49b335-9b07-4aa0-a9e7-85d8a3fc94a0" type="box">4</container> 
+	 			<container parent="eb49b335-9b07-4aa0-a9e7-85d8a3fc94a0" type="folder">26</container> 
+	 			<unittitle>SC-SED</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="528dee07-6622-4c91-b96c-ffa2d940d30e" type="box">4</container> 
+	 			<container parent="528dee07-6622-4c91-b96c-ffa2d940d30e" type="folder">27</container> 
+	 			<unittitle>SEE-SHAL</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="34ddef32-5b70-42e7-b5f3-c8bfdeda78b3" type="box">4</container> 
+	 			<container parent="34ddef32-5b70-42e7-b5f3-c8bfdeda78b3" type="folder">28</container> 
+	 			<unittitle>SHAM-SHOW R</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="076874df-dcaf-4978-8e54-1d92521cf8e0" type="box">5</container> 
+	 			<container parent="076874df-dcaf-4978-8e54-1d92521cf8e0" type="folder">1</container> 
+	 			<unittitle>SHOW S-SIS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="9f663e04-63d5-4ab9-80fe-4f2c0383c75c" type="box">5</container> 
+	 			<container parent="9f663e04-63d5-4ab9-80fe-4f2c0383c75c" type="folder">2</container> 
+	 			<unittitle>SIT-SN</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="de5c2ab7-0d4b-46ea-96c2-6af227a65fe6" type="box">5</container> 
+	 			<container parent="de5c2ab7-0d4b-46ea-96c2-6af227a65fe6" type="folder">3</container> 
+	 			<unittitle>SO-SON</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="3347fffd-5891-4f03-b32d-4015925ee989" type="box">5</container> 
+	 			<container parent="3347fffd-5891-4f03-b32d-4015925ee989" type="folder">4</container> 
+	 			<unittitle>SOO-STAG</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f06718e4-3f47-4895-b9b7-221c44b85370" type="box">5</container> 
+	 			<container parent="f06718e4-3f47-4895-b9b7-221c44b85370" type="folder">5</container> 
+	 			<unittitle>STAH-STRAW</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b397bd20-6dc8-42b6-a6c6-9c619986c530" type="box">5</container> 
+	 			<container parent="b397bd20-6dc8-42b6-a6c6-9c619986c530" type="folder">6</container> 
+	 			<unittitle>STRAX-SUM</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="89980339-c67b-4595-8c93-f320d278d8e1" type="box">5</container> 
+	 			<container parent="89980339-c67b-4595-8c93-f320d278d8e1" type="folder">7</container> 
+	 			<unittitle>SUN-SZ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="2e4ca2c1-40cb-475c-b9ae-6c9cf0fc8f10" type="box">5</container> 
+	 			<container parent="2e4ca2c1-40cb-475c-b9ae-6c9cf0fc8f10" type="folder">8</container> 
+	 			<unittitle>SHERLOCK HOLMES</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="3f7d7cca-f7b3-4bf6-8934-66974a01c511" type="box">5</container> 
+	 			<container parent="3f7d7cca-f7b3-4bf6-8934-66974a01c511" type="folder">9</container> 
+	 			<unittitle>SHOW BOAT</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="69bf73f5-8cf0-47d9-8181-bdee0ee76f80" type="box">5</container> 
+	 			<container parent="69bf73f5-8cf0-47d9-8181-bdee0ee76f80" type="folder">10</container> 
+	 			<unittitle>STREET SCENE</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c5e83084-1a88-4d6b-9a98-68110ed70151" type="box">5</container> 
+	 			<container parent="c5e83084-1a88-4d6b-9a98-68110ed70151" type="folder">11</container> 
+	 			<unittitle>SUMURUN</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="369b5948-b70d-4788-9ca1-b5f8fcee8c52" type="box">5</container> 
+	 			<container parent="369b5948-b70d-4788-9ca1-b5f8fcee8c52" type="folder">12</container> 
+	 			<unittitle>TA-TEX</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c58eba91-ad79-4366-b8c6-1721b027c12b" type="box">5</container> 
+	 			<container parent="c58eba91-ad79-4366-b8c6-1721b027c12b" type="folder">13</container> 
+	 			<unittitle>TEY-THIS T</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="e5851946-725c-43a2-9ee6-96efe93f70ea" type="box">6</container> 
+	 			<container parent="e5851946-725c-43a2-9ee6-96efe93f70ea" type="folder">1</container> 
+	 			<unittitle>THIS U - THREE S</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c1449dd3-fb42-4571-8c51-320c50f18551" type="box">6</container> 
+	 			<container parent="c1449dd3-fb42-4571-8c51-320c50f18551" type="folder">2</container> 
+	 			<unittitle>THREE T - TOM</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="175d46f2-1ffd-48e8-b1fa-e531f18526cf" type="box">6</container> 
+	 			<container parent="175d46f2-1ffd-48e8-b1fa-e531f18526cf" type="folder">3</container> 
+	 			<unittitle>TON-TRIAL LT</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b143be86-d0ff-45dc-b3c3-6eb92764616e" type="box">6</container> 
+	 			<container parent="b143be86-d0ff-45dc-b3c3-6eb92764616e" type="folder">4</container> 
+	 			<unittitle>TRIAL M – TZ</unittitle></did></c02> 	
+	 	<c02 level="file"> 
+	 		<did> <container id="725f1840-42c7-4a12-b31a-24cfd0e31d15" type="box">6</container> 
+	 			<container parent="725f1840-42c7-4a12-b31a-24cfd0e31d15" type="folder">5</container> 
+	 			<unittitle>“TAMING OF THE SHREW”</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="48d30cf6-7c10-45c2-9b45-01744ddbf8d5" type="box">6</container> 
+	 			<container parent="48d30cf6-7c10-45c2-9b45-01744ddbf8d5" type="folder">6</container> 
+	 			<unittitle>“TRELAWNY OF THE ‘WELLS’”</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="d14ff4e7-e564-47f1-8d81-7df3a071709c" type="box">6</container> 
+	 			<container parent="d14ff4e7-e564-47f1-8d81-7df3a071709c" type="folder">7</container> 
+	 			<unittitle>U’s</unittitle></did></c02>
+	  	<c02 level="file"> 
+	 		<did> <container id="a7a3a725-5c6c-467a-b9be-5d980c7d186f" type="box">6</container> 
+	 			<container parent="a7a3a725-5c6c-467a-b9be-5d980c7d186f" type="folder">8</container> 
+	 			<unittitle>V’s</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="be914fa5-d0eb-4156-9ebf-418546ae189e" type="box">6</container> 
+	 			<container parent="be914fa5-d0eb-4156-9ebf-418546ae189e" type="folder">9</container> 
+	 			<unittitle>VAUDEVILLE 1890-1899</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="84d20d8a-85fd-47bd-af5c-215915c59ea1" type="box">6</container> 
+	 			<container parent="84d20d8a-85fd-47bd-af5c-215915c59ea1" type="folder">10</container> 
+	 			<unittitle>VAUDEVILLE 1900-1935</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c5337505-ba7e-48a7-ae31-af52823993f7" type="box">6</container> 
+	 			<container parent="c5337505-ba7e-48a7-ae31-af52823993f7" type="folder">11</container> 
+	 			<unittitle>WA – WHAS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="9d863417-c73f-4a19-873b-853af4b5010b" type="box">6</container> 
+	 			<container parent="9d863417-c73f-4a19-873b-853af4b5010b" type="folder">12</container> 
+	 			<unittitle>WHAT – WHOL</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f46b4b34-54ff-45f6-b52a-922ba300f94d" type="box">6</container> 
+	 			<container parent="f46b4b34-54ff-45f6-b52a-922ba300f94d" type="folder">13</container> 
+	 			<unittitle>WHOM – WIR</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="05f4930d-d30e-4fc1-bda2-54b2829b07b3" type="box">6</container> 
+	 			<container parent="05f4930d-d30e-4fc1-bda2-54b2829b07b3" type="folder">14</container> 
+	 			<unittitle>WIS – WZ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="90199e00-c5f1-402a-8d01-3f8406938ffa" type="box">6</container> 
+	 			<container parent="90199e00-c5f1-402a-8d01-3f8406938ffa" type="folder">15</container> 
+	 			<unittitle>Y’S</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="fcdbba0e-0aab-422a-8020-cac90c69641c" type="box">6</container> 
+	 			<container parent="fcdbba0e-0aab-422a-8020-cac90c69641c" type="folder">16</container> 
+	 			<unittitle>“THE YELLOW JACKET”</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c8cc37c8-8af3-43ee-9b3b-679b1fffe87e" type="box">6</container> 
+	 			<container parent="c8cc37c8-8af3-43ee-9b3b-679b1fffe87e" type="folder">17</container> 
+	 			<unittitle>Z”s</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="04b88e8c-ed0f-42b5-83bb-20cef86a5745" type="box">6</container> 
+	 			<container parent="04b88e8c-ed0f-42b5-83bb-20cef86a5745" type="folder">18</container> 
+	 			<unittitle>ENGLAND (VARIOUS GROUPS)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="9fad1264-b452-46fd-9a30-20a77d76fc56" type="box">6</container> 
+	 			<container parent="9fad1264-b452-46fd-9a30-20a77d76fc56" type="folder">19</container> 
+	 			<unittitle>FRANCE I</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="630f4956-200a-47c2-8688-8723c5cc3d27" type="box">6</container> 
+	 			<container parent="630f4956-200a-47c2-8688-8723c5cc3d27" type="folder">20</container> 
+	 			<unittitle>FRANCE II</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="fc3a68d9-9563-4bb3-92b1-f12f3fdb52b6" type="box">6</container> 
+	 			<container parent="fc3a68d9-9563-4bb3-92b1-f12f3fdb52b6" type="folder">21</container> 
+	 			<unittitle>GERMANY</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="9b52348b-dd63-4551-9ff6-cf3486f55e5c" type="box">6</container> 
+	 			<container parent="9b52348b-dd63-4551-9ff6-cf3486f55e5c" type="folder">22</container> 
+	 			<unittitle>FOREIGN COUNTRIES (Misc.)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="da248349-b4c8-4935-b7a9-c1dbfd732e83" type="box">6</container> 
+	 			<container parent="da248349-b4c8-4935-b7a9-c1dbfd732e83" type="folder">23</container> 
+	 			<unittitle>CAROLINA PLAYMAKERS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="6c35923f-3e8a-4d88-a07e-7ac136a6de3d" type="box">6</container> 
+	 			<container parent="6c35923f-3e8a-4d88-a07e-7ac136a6de3d" type="folder">24</container> 
+	 			<unittitle>CIRCUS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="ded75325-438a-4eb2-a5af-b19da2831801" type="box">7</container> 
+	 			<container parent="ded75325-438a-4eb2-a5af-b19da2831801" type="folder">1</container> 
+	 			<unittitle>“FAMOUS FOOTLIGHT FAVORITES”</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c2a8fb6d-1297-4c1f-82b0-5525fd0cd3d3" type="box">7</container> 
+	 			<container parent="c2a8fb6d-1297-4c1f-82b0-5525fd0cd3d3" type="folder">2</container> 
+	 			<unittitle>GERMAN LANGUAGE THEATER (N.Y)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="3feb6430-e058-423d-a819-cd0a54794240" type="box">7</container> 
+	 			<container parent="3feb6430-e058-423d-a819-cd0a54794240" type="folder">3</container> 
+	 			<unittitle>INDIVIDUAL PERFORMERS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="70b5bec2-d178-4daf-a5c5-2a8e78ef13e1" type="box">7</container> 
+	 			<container parent="70b5bec2-d178-4daf-a5c5-2a8e78ef13e1" type="folder">4</container> 
+	 			<unittitle>MOTION PICTURES</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="55cc8f41-fd7d-47e1-81e5-a0e7a38d5d10" type="box">7</container> 
+	 			<container parent="55cc8f41-fd7d-47e1-81e5-a0e7a38d5d10" type="folder">5</container> 
+	 			<unittitle>ONE-ACT PLAYS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="ee115c33-e9cb-4c4c-bf14-7e49c4cc280d" type="box">7</container> 
+	 			<container parent="ee115c33-e9cb-4c4c-bf14-7e49c4cc280d" type="folder">6</container> 
+	 			<unittitle>PASADENA COMMUNITY PLAYHOUSE</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="9179c007-7bc0-486d-b7dd-0cf9a817e978" type="box">7</container> 
+	 			<container parent="9179c007-7bc0-486d-b7dd-0cf9a817e978" type="folder">7</container> 
+	 			<unittitle>U.S. (MISC.)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f569b3f5-4649-4e08-975b-b8afd84b5035" type="box">7</container> 
+	 			<container parent="f569b3f5-4649-4e08-975b-b8afd84b5035" type="folder">8</container> 
+	 			<unittitle>VARIOUS BALLET COMPANIES</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="94378acb-e12e-4e5c-bce7-b0a4e17e67a2" type="box">7</container> 
+	 			<container parent="94378acb-e12e-4e5c-bce7-b0a4e17e67a2" type="folder">9</container> 
+	 			<unittitle>ARIZONA (ALL EXCEPT TUCSON)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="7caefa8f-0000-4837-b5ff-308585104895" type="box">7</container> 
+	 			<container parent="7caefa8f-0000-4837-b5ff-308585104895" type="folder">10</container> 
+	 			<unittitle>TUCSON: ARIZONA CIVIC THEATRE</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="25e1d970-799d-418b-9610-43bbe4308e67" type="box">8</container> 
+	 			<container parent="25e1d970-799d-418b-9610-43bbe4308e67" type="folder">1</container> 
+	 			<unittitle>TUCSON: ARIZONA THEATRE COMPANY</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="7bb292b9-25ed-4b86-9925-eab6ce5e28e8" type="box">8</container> 
+	 			<container parent="7bb292b9-25ed-4b86-9925-eab6ce5e28e8" type="folder">2</container> 
+	 			<unittitle>TUCSON: ARIZONA CORRAL THEATRE</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="30a685a7-2e73-4a86-bbb4-8af5d030e06e" type="box">8</container> 
+	 			<container parent="30a685a7-2e73-4a86-bbb4-8af5d030e06e" type="folder">3</container> 
+	 			<unittitle>TUCSON: CHAUTAUQUA</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="07d6f541-ec41-4e0d-97aa-a98c1b03dee4" type="box">8</container> 
+	 			<container parent="07d6f541-ec41-4e0d-97aa-a98c1b03dee4" type="folder">4</container> 
+	 			<unittitle>TUCSON: MOTION PICTURES</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="013e76f5-7254-4876-bdbd-77d77e8001de" type="box">8</container> 
+	 			<container parent="013e76f5-7254-4876-bdbd-77d77e8001de" type="folder">5</container> 
+	 			<unittitle>TUCSON: PLAY BOX</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="0d451d1a-955e-4d0d-bb84-f20f0983ad05" type="box">8</container> 
+	 			<container parent="0d451d1a-955e-4d0d-bb84-f20f0983ad05" type="folder">6</container> 
+	 			<unittitle>TUCSON: RIALTO THEATRE</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="4485ef7e-5972-458c-9e2e-6a31191fd893" type="box">8</container> 
+	 			<container parent="4485ef7e-5972-458c-9e2e-6a31191fd893" type="folder">7</container> 
+	 			<unittitle>TUCSON: TUCSON LITTLE THEATRE (A-D)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="34596002-2177-4fb5-9a4d-777fa82d2d0d" type="box">8</container> 
+	 			<container parent="34596002-2177-4fb5-9a4d-777fa82d2d0d" type="folder">8</container> 
+	 			<unittitle>TUCSON: TUCSON LITTLE THEATRE (E-J)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f2620824-7ba1-4802-9ff4-01ecd403bda7" type="box">8</container> 
+	 			<container parent="f2620824-7ba1-4802-9ff4-01ecd403bda7" type="folder">9</container> 
+	 			<unittitle>TUCSON: TUCSON LITTLE THEATRE (K-O)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="617f3695-d153-43e4-9dc2-b9aa92496c7d" type="box">8</container> 
+	 			<container parent="617f3695-d153-43e4-9dc2-b9aa92496c7d" type="folder">10</container> 
+	 			<unittitle>TUCSON: TUCSON LITTLE THEATRE (P-Z)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b062752e-ebf9-48bf-9eb4-1b508bb96927" type="box">8</container> 
+	 			<container parent="b062752e-ebf9-48bf-9eb4-1b508bb96927" type="folder">11</container> 
+	 			<unittitle>TUCSON: TUCSON OPERA HOUSE</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f74ecdc4-5d5d-4dbd-b7f7-6125a33a44ab" type="box">8</container> 
+	 			<container parent="f74ecdc4-5d5d-4dbd-b7f7-6125a33a44ab" type="folder">12</container> 
+	 			<unittitle>TUCSON: BALLET PROGRAMS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="8244bab9-9dd3-446b-ad73-04ae050918be" type="box">8</container> 
+	 			<container parent="8244bab9-9dd3-446b-ad73-04ae050918be" type="folder">13</container> 
+	 			<unittitle>TUCSON: MISC. AND VARIOUS I</unittitle></did></c02> 	
+	 	<c02 level="file"> 
+	 		<did> <container id="42dfee93-b828-4f13-a2d5-3658637763cf" type="box">8</container> 
+	 			<container parent="42dfee93-b828-4f13-a2d5-3658637763cf" type="folder">14</container> 
+	 			<unittitle>TUCSON: MISC. AND VARIOUS II</unittitle></did></c02>	
+		 </c01>
+  </dsc> 
+</archdesc></ead>

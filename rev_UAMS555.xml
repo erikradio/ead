@@ -1,0 +1,791 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid encodinganalog="852">UAMS555</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title"> University of Arizona Women's Athletics and Physical Education Papers,
+	 		<date calendar="gregorian" certainty="approximate" era="ce" normal="1917/1981" type="inclusive">1917-1981</date>
+	 		<date normal="1921/1954" type="bulk">(bulk 1921-1954)</date></titleproper>
+	 	<titleproper altrender="nodisplay" type="filing">University of Arizona Women's Athletics and Physical Education Papers,
+	 		</titleproper>
+	 	<author>Processed by Vanessa Nava.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		</address> 
+		<date calendar="gregorian" era="ce" normal="2015">2015</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Vanessa Nava. 
+  		<date encodinganalog="date" era="ce" normal="20151022">October 22, 2015</date></creation>
+	 <langusage>Finding aid is in<language langcode="eng"> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+	
+<revisiondesc><change><date normal="2017-06-23">2017-06-23</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+
+	<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name">University of Arizona Women's Athletics and Physical Education Papers,
+  		<unitdate label="Dates" normal="1917/1981" type="inclusive">1917-1981</unitdate>
+  		<unitdate label="Dates" normal="1921/1954" type="bulk">(bulk 1921-1954)</unitdate>
+  	</unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 555</unitid>
+	 <origination label="Creator"> 
+	 	<corpname encodinganalog="110" source="lcnaf">University of Arizona, Department of Physical Education for Women</corpname> </origination>
+  	<abstract label="Abstract">University of Arizona Women's Athletics and Physical Education Papers (1917-1981) contain documents detailing the history of women’s physical education and athletics at the University. These records were generated primarily by the Department of Physical Education for Women, led by Ina Gittings from 1920-1955. The records include documents, correspondence and photographs pertaining to physical education and varsity intramural sports. National, regional, and university level athletic organizations for college women and administrators are also documented. A small segment of records detail intercollegiate athletic organizations and newspaper clippings of women’s sports competitions under the leadership of athletics administrator, Mary Roby, from 1959-1981.     </abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description"><extent>2.5 linear feet</extent></physdesc>	 
+	 <repository label="Repository"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		</address></repository>
+  	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>none</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>University of Arizona Women's Athletics and Physical Education Papers (UAMS 555). Special
+  		Collections, University of Arizona Libraries.</p>
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>In 1920, Ina Gittings joined the faculty at the University and was named the first Director of Physical Education for Women. Prior to 1920, the only college-sponsored activity for women at the University of Arizona was dance. Gittings pioneered the development of the women’s undergraduate physical education program and varsity athletics for women. Both varsity intramural athletics and physical education courses were overseen by Gittings in her role as Director of Physical Education for Women. Under the leadership of Gittings, University of Arizona women were introduced to a variety of intramural sports, including horseback riding, track and field, basketball and archery, among others. Ina Gittings was a lifelong advocate of women’s physical education and athletic competition during a time when women’s athletics was discouraged and perceived as masculinizing women. With her guidance and with the support of University administrators, the University of Arizona saw its intramural athletic program for women increase in size. When Gittings retired in 1955, the University had expanded sponsorship to thirteen varsity sports for female participants. </p> <p>In 1959, when Mary Pavlich Roby began her career as a Physical Education Instructor, Director of the Women’s Recreation Association, and athletics coach at the University of Arizona, female athletes were participating in only intramural competition. Roby not only served as an athletics administrator at the University of Arizona for 30 years, she helped propel women’s athletics at the University from intramural competition to a well-regarded intercollegiate women’s athletics program.  </p>
+  </bioghist> 
+  <arrangement encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into four series:</p>	 
+  	<list>
+  		<item>Series I: Department of Physical Education for Women,
+  			<unitdate>1917-1965</unitdate></item>
+  		<item>Series II: Athletic Organizations and Physical Education Legislation,
+  			<unitdate>1921-1974</unitdate></item>
+ 
+  		<item>Series III: Physical Education Student Papers,
+  			<unitdate>1943-1958</unitdate></item>
+  		<item>Series IV: Articles, Secretary’s Book, and Clippings,
+  			<unitdate>1921-1981</unitdate></item>
+  	</list>
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>University of Arizona Women's Athletics and Physical Education Papers (1919-1981) document the history of women’s physical education and athletics at the University of Arizona and women’s athletics in general, in the early to mid-twentieth century. These records were generated primarily by the Department of Physical Education for Women and contain detailed information regarding the history of women’s physical education classes, coursework, and intramural sports from 1920-1955. Materials written by Director of Physical Education for Women, Ina Gittings, and others are also included as well as a history of national physical education legislation. National, regional, and university level athletic organizations for college women and administrators are also documented. A small section of records also detail intercollegiate athletic organizations and clippings from women’s sports under the leadership of Mary Roby, athletics administrator until 1989. </p> 
+  </scopecontent> 
+		<relatedmaterial encodinganalog="544"><p>Ina E. Gittings Collection (1890-1985), MS 283</p><p>Mary Roby Papers (1926-2012), MS 553</p></relatedmaterial> 
+  	<controlaccess>
+  		<persname>Gittings, Ina E., 1885-1966.</persname><persname>Roby, Mary (Pavlich), 1926-2012.</persname><corpname>University of Arizona -- Department of Physical Education for Women.</corpname><corpname>University of Arizona –- Faculty.</corpname><corpname>University of Arizona –- Sports.</corpname><subject>College Sports – Arizona -- Tucson.</subject><subject>Physical education for women -- Arizona.</subject><subject>Physical Education and Training -- Administration.</subject><subject>Physical Education Teachers –- Arizona.</subject><subject>Sports for Women – Arizona – Tucson.</subject><genreform>Articles</genreform><genreform>Photographs</genreform></controlaccess>
+  
+<dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+			<unittitle>Series I: Department of Physical Education for Women,</unittitle> 
+			<unitdate type="inclusive">1917-1965</unitdate>
+		</did>
+	 	<scopecontent><p>This section is grouped by sport and includes materials from university sponsored high school tournaments, physical education courses and varsity athletics.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="ef405db8-e233-434e-a6b5-bec1dfe46a5e" type="box">1</container> 
+				<container parent="ef405db8-e233-434e-a6b5-bec1dfe46a5e" type="folder">1</container> 
+				<unittitle>Annual High School Archery-Badminton Tournament,</unittitle>
+				<unitdate>1959-1965</unitdate>
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="baf5f2e2-ac58-4ae0-adef-32264bced765" type="box">1</container> 
+	 			<container parent="baf5f2e2-ac58-4ae0-adef-32264bced765" type="folder">2</container> 
+	 			<unittitle>Gittings Honor Cup – Winners,</unittitle>
+	 			<unitdate>1931-1937</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b8f848a0-4b0b-4ea3-876a-d626486d45f8" type="box">1</container> 
+	 			<container parent="b8f848a0-4b0b-4ea3-876a-d626486d45f8" type="folder">3</container> 
+	 			<unittitle>University of Arizona Bulletin,</unittitle>
+	 			<unitdate>1944</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="49cc8abe-6b7e-4438-8f8c-3ac8986d9214" type="box">1</container> 
+	 			<container parent="49cc8abe-6b7e-4438-8f8c-3ac8986d9214" type="folder">4</container> 
+	 			<unittitle>Women’s Archery – Intercollegiate Tournaments,</unittitle>
+	 			<unitdate>1931-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6e70e276-d386-4de3-8dc3-6550251364f9" type="box">1</container> 
+	 			<container parent="6e70e276-d386-4de3-8dc3-6550251364f9" type="folder">5</container> 
+	 			<unittitle>Women’s Archery - Publicity,</unittitle>
+	 			<unitdate>1933-1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="8ed7216e-6b67-4bdc-9404-db28e763ebe9" type="box">1</container> 
+	 			<container parent="8ed7216e-6b67-4bdc-9404-db28e763ebe9" type="folder">6</container> 
+	 			<unittitle>Women’s Archery - State Tournaments,</unittitle>
+	 			<unitdate>1933-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d6f76f96-ff15-47a8-bc91-a2c9883b5f5d" type="box">1</container> 
+	 			<container parent="d6f76f96-ff15-47a8-bc91-a2c9883b5f5d" type="folder">7</container> 
+	 			<unittitle>Women’s Archery – Correspondence,</unittitle>
+	 			<unitdate>1935-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="380384d8-fe50-4a1e-82f9-3a0ae434c4a5" type="box">1</container> 
+	 			<container parent="380384d8-fe50-4a1e-82f9-3a0ae434c4a5" type="folder">8</container> 
+	 			<unittitle>Women’s Archery – Women’s Athletic Association Reports,</unittitle>
+	 			<unitdate>1936-1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="46133f27-6ec5-4967-a633-1267bce7a5d1" type="box">1</container> 
+	 			<container parent="46133f27-6ec5-4967-a633-1267bce7a5d1" type="folder">9</container> 
+	 			<unittitle>Women’s Archery – Club,</unittitle>
+	 			<unitdate>1937-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2f43401a-981f-4157-a6fb-25c6374d9897" type="box">1</container> 
+	 			<container parent="2f43401a-981f-4157-a6fb-25c6374d9897" type="folder">10</container> 
+	 			<unittitle>Women’s Archery – Tri-Collegiate Tournaments,</unittitle>
+	 			<unitdate>1951-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="957bf4de-3e7f-4502-a9ff-7c0adbc1ef19" type="box">1</container> 
+	 			<container parent="957bf4de-3e7f-4502-a9ff-7c0adbc1ef19" type="folder">11</container> 
+	 			<unittitle>Women’s Archery – Historical Summary,</unittitle>
+	 			<unitdate>1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="1df3e851-eee6-41fa-87b2-6325dd3d1d59" type="box">1</container> 
+	 			<container parent="1df3e851-eee6-41fa-87b2-6325dd3d1d59" type="folder">12</container> 
+	 			<unittitle>Women’s Basketball – State Tournaments for High School Girls,</unittitle>
+	 			<unitdate>1921-1927, 1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6e3a0ec6-790a-4604-80ce-ee47eaead3e0" type="box">1</container> 
+	 			<container parent="6e3a0ec6-790a-4604-80ce-ee47eaead3e0" type="folder">13</container> 
+	 			<unittitle>Women’s Basketball – Correspondence,</unittitle>
+	 			<unitdate>1922-1937</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3737cf5f-3355-4025-90ff-487051192f3b" type="box">1</container> 
+	 			<container parent="3737cf5f-3355-4025-90ff-487051192f3b" type="folder">14</container> 
+	 			<unittitle>Women’s Basketball – Publicity,</unittitle>
+	 			<unitdate>1926-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="be9191de-6d31-482c-9105-2e829f5113f8" type="box">1</container> 
+	 			<container parent="be9191de-6d31-482c-9105-2e829f5113f8" type="folder">15</container> 
+	 			<unittitle>Women’s Basketball – Women’s Athletic Association,</unittitle>
+	 			<unitdate>1926-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2a019162-bf50-41f6-b447-5198facc4a14" type="box">1</container> 
+	 			<container parent="2a019162-bf50-41f6-b447-5198facc4a14" type="folder">16</container> 
+	 			<unittitle>Women’s Basketball – Historical Summary,</unittitle>
+	 			<unitdate>1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="982d9c72-d24b-4ef6-9cbb-58edfc714cab" type="box">1</container> 
+	 			<container parent="982d9c72-d24b-4ef6-9cbb-58edfc714cab" type="folder">17</container> 
+	 			<unittitle>Women’s Dance – Historical Material,</unittitle>
+	 			<unitdate>1936-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="94e2ba65-6a8e-4705-9962-9b4889ae67e8" type="box">1</container> 
+	 			<container parent="94e2ba65-6a8e-4705-9962-9b4889ae67e8" type="folder">18</container> 
+	 			<unittitle>Women’s Dance – Historical Summary,</unittitle>
+	 			<unitdate>1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="920398fe-e34b-4757-b071-92f3a451ff2f" type="box">1</container> 
+	 			<container parent="920398fe-e34b-4757-b071-92f3a451ff2f" type="folder">19</container> 
+	 			<unittitle>Women’s Golf – Historical Material,</unittitle>
+	 			<unitdate>1935-1950, 1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3a22969b-8e4b-4239-b192-449b9c0a7607" type="box">1</container> 
+	 			<container parent="3a22969b-8e4b-4239-b192-449b9c0a7607" type="folder">20</container> 
+	 			<unittitle>Women’s Golf – Publicity,</unittitle>
+	 			<unitdate>1937-1941</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="aafafd3d-1024-40cb-b81b-cf0a456306a7" type="box">1</container> 
+	 			<container parent="aafafd3d-1024-40cb-b81b-cf0a456306a7" type="folder">21</container> 
+	 			<unittitle>Women’s Marksmanship – Historical Materials,</unittitle>
+	 			<unitdate>1923-1944</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9b358d0d-1ae4-4b0b-8f84-2fa1300f6585" type="box">1</container> 
+	 			<container parent="9b358d0d-1ae4-4b0b-8f84-2fa1300f6585" type="folder">22</container> 
+	 			<unittitle>Women’s Marksmanship – Historical Summary,</unittitle>
+	 			<unitdate>1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c87b6466-4016-45fa-8e50-0658cee0e708" type="box">1</container> 
+	 			<container parent="c87b6466-4016-45fa-8e50-0658cee0e708" type="folder">23</container> 
+	 			<unittitle>Women’s Minor Sports – Women’s Athletic Association,</unittitle>
+	 			<unitdate>1935-1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="fc77a749-e8e1-44ff-906c-9ba9e63279b6" type="box">1</container> 
+	 			<container parent="fc77a749-e8e1-44ff-906c-9ba9e63279b6" type="folder">24</container> 
+	 			<unittitle>Women’s Minor Sports – Historical Summary,</unittitle>
+	 			<unitdate>1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a4571ffc-fa1e-4dd4-8b19-b27439baa416" type="box">1</container> 
+	 			<container parent="a4571ffc-fa1e-4dd4-8b19-b27439baa416" type="folder">25</container> 
+	 			<unittitle>Women’s Minor Sports – Publicity and Photographs,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3b58dc63-f0aa-4a29-8a57-4f5d5b3ef1d8" type="box">1</container> 
+	 			<container parent="3b58dc63-f0aa-4a29-8a57-4f5d5b3ef1d8" type="folder">26</container> 
+	 			<unittitle>Women’s Riding – Class Material,</unittitle>
+	 			<unitdate>1919, 1921-1945</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="57d4e6a7-e3f3-451f-846f-84497ea42f2d" type="box">1</container> 
+	 			<container parent="57d4e6a7-e3f3-451f-846f-84497ea42f2d" type="folder">27</container> 
+	 			<unittitle>Women’s Riding – Photographs,</unittitle>
+	 			<unitdate>1921, 1924</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9132c4c1-5571-478f-aa03-54d4cb1a5ff6" type="box">1</container> 
+	 			<container parent="9132c4c1-5571-478f-aa03-54d4cb1a5ff6" type="folder">28</container> 
+	 			<unittitle>Women’s Riding – Photographs,</unittitle>
+	 			<unitdate>1921, 1924</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5fe21da6-837a-431d-b732-4d68f8a3376c" type="box">1</container> 
+	 			<container parent="5fe21da6-837a-431d-b732-4d68f8a3376c" type="folder">29</container> 
+	 			<unittitle>Women’s Riding – Desert Riders,</unittitle>
+	 			<unitdate>1921-1945</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d347f97f-0147-49b4-a17a-01add80df0dc" type="box">1</container> 
+	 			<container parent="d347f97f-0147-49b4-a17a-01add80df0dc" type="folder">30</container> 
+	 			<unittitle>Women’s Riding – Horseshows,</unittitle>
+	 			<unitdate>1921-1945</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="93485ab4-b86e-4cd0-90a2-825f4eca13cf" type="box">1</container> 
+	 			<container parent="93485ab4-b86e-4cd0-90a2-825f4eca13cf" type="folder">31</container> 
+	 			<unittitle>Women’s Riding – Correspondence and Articles,</unittitle>
+	 			<unitdate>1925-1938, 1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e92054e2-987c-40e7-9d9b-5437cacf4f1c" type="box">1</container> 
+	 			<container parent="e92054e2-987c-40e7-9d9b-5437cacf4f1c" type="folder">32</container> 
+	 			<unittitle>Women’s Riding – Polo,</unittitle>
+	 			<unitdate>1927-1937, 1945</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d4f4c927-33d7-48da-bcc3-7424e651268c" type="box">1</container> 
+	 			<container parent="d4f4c927-33d7-48da-bcc3-7424e651268c" type="folder">33</container> 
+	 			<unittitle>Women’s Riding – Historical Summary,</unittitle>
+	 			<unitdate>1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="11411eea-b7ca-43c4-a436-7c56080750f9" type="box">1</container> 
+	 			<container parent="11411eea-b7ca-43c4-a436-7c56080750f9" type="folder">34</container> 
+	 			<unittitle>Women’s Softball – Women’s Athletic Association,</unittitle>
+	 			<unitdate>1922-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a8261442-2401-4484-b6c1-e405068803d6" type="box">1</container> 
+	 			<container parent="a8261442-2401-4484-b6c1-e405068803d6" type="folder">35</container> 
+	 			<unittitle>Women’s Softball – Publicity,</unittitle>
+	 			<unitdate>1925,1942, 1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="1ec42e0a-dbd2-490a-a5da-de5dc49d1447" type="box">1</container> 
+	 			<container parent="1ec42e0a-dbd2-490a-a5da-de5dc49d1447" type="folder">36</container> 
+	 			<unittitle>Women’s Softball – Correspondence,</unittitle>
+	 			<unitdate>1927</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="90002e13-36db-45f2-8a46-46e6a626b955" type="box">1</container> 
+	 			<container parent="90002e13-36db-45f2-8a46-46e6a626b955" type="folder">37</container> 
+	 			<unittitle>Women’s Swimming – Historical Materials,</unittitle>
+	 			<unitdate>1921-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b73af4eb-4f3d-4907-8e6c-a56b00e43d9e" type="box">1</container> 
+	 			<container parent="b73af4eb-4f3d-4907-8e6c-a56b00e43d9e" type="folder">38</container> 
+	 			<unittitle>Women’s Swimming – Photographs,</unittitle>
+	 			<unitdate>1931-1937, undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="210735d2-223c-4edd-82e5-30e4f2fb1708" type="box">1</container> 
+	 			<container parent="210735d2-223c-4edd-82e5-30e4f2fb1708" type="folder">39</container> 
+	 			<unittitle>Women’s Swimming – Historical Data and Summary,</unittitle>
+	 			<unitdate>1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b7eb432a-f3cc-4f92-85ec-faca3e1c4308" type="box">1</container> 
+	 			<container parent="b7eb432a-f3cc-4f92-85ec-faca3e1c4308" type="folder">40</container> 
+	 			<unittitle>Women’s Track – Historical Material,</unittitle>
+	 			<unitdate>1917-1925, 1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2136f84e-9beb-4402-bb59-58dbfedfd840" type="box">1</container> 
+	 			<container parent="2136f84e-9beb-4402-bb59-58dbfedfd840" type="folder">41</container> 
+	 			<unittitle>Women’s Track – Historical Data and Summary,</unittitle>
+	 			<unitdate>1922-1923, 1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 </c01> 
+	<c01 level="series"> 
+		<did> 
+			<unittitle>Series II: Athletic Organizations and Physical Education Legislation,</unittitle> 
+			<unitdate type="inclusive">1921-1974</unitdate>
+		</did>
+		<scopecontent><p>This section contains materials relating to athletic organization for students and administrators at the national, regional, and university level. It also contains a history of national physical education legislation. </p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="34a6c56f-98ea-4c8b-bc0a-62eb9af8df86" type="box">2</container> 
+				<container parent="34a6c56f-98ea-4c8b-bc0a-62eb9af8df86" type="folder">1</container> 
+				<unittitle>American Association for Health, Physical Education and 
+					Recreation – Reports and Correspondence,</unittitle>
+				<unitdate>1922-1945</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="abb70558-ce4e-4c6e-92e3-f5c24a90b6cc" type="box">2</container> 
+				<container parent="abb70558-ce4e-4c6e-92e3-f5c24a90b6cc" type="folder">2</container> 
+				<unittitle>American Association for Health, Physical Education and 
+					Recreation – Correspondence,</unittitle>
+				<unitdate>1946-1947, 1952</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="c0e290b9-5ee0-405f-87d1-0e7765a44dde" type="box">2</container> 
+				<container parent="c0e290b9-5ee0-405f-87d1-0e7765a44dde" type="folder">3</container> 
+				<unittitle>American Association for Health, Physical Education and 
+					Recreation – Convention Report,</unittitle>
+				<unitdate>1961</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="ca3bfbe7-cad0-4a2a-ad26-339ac9039071" type="box">2</container> 
+				<container parent="ca3bfbe7-cad0-4a2a-ad26-339ac9039071" type="folder">4</container> 
+				<unittitle>Arizona Association for Health, Physical Education and Recreation 
+					– Journal,</unittitle>
+				<unitdate>1960</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="1cfd2e1c-77ee-4fb5-a47c-d9cd9239ac98" type="box">2</container> 
+				<container parent="1cfd2e1c-77ee-4fb5-a47c-d9cd9239ac98" type="folder">5</container> 
+				<unittitle>Arizona Athletic Federation of College Women – Convention 
+					Materials,</unittitle>
+				<unitdate>1954-1957</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="e7b04a6f-b7df-496e-bcc5-1fe6dca56934" type="box">2</container> 
+				<container parent="e7b04a6f-b7df-496e-bcc5-1fe6dca56934" type="folder">6</container> 
+				<unittitle>Arizona Athletic Federation of College Women – History and 
+					Photographs,</unittitle>
+				<unitdate>1947-1956</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="384ccac9-9675-49aa-8703-671fc7853ba4" type="box">2</container> 
+				<container parent="384ccac9-9675-49aa-8703-671fc7853ba4" type="folder">7</container> 
+				<unittitle>Athletic and Recreation Federation of College Women – 
+					Correspondence,</unittitle>
+				<unitdate>1958-1959</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="239fda99-1fd8-48cc-ab9d-f43fb462eb02" type="box">2</container> 
+				<container parent="239fda99-1fd8-48cc-ab9d-f43fb462eb02" type="folder">8</container> 
+				<unittitle>Athletic and Recreation Federation of College Women – 
+					Handbooks,</unittitle>
+				<unitdate>1961-1971</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="69aebdd9-c384-4d59-a4cb-604a64e338aa" type="box">2</container> 
+				<container parent="69aebdd9-c384-4d59-a4cb-604a64e338aa" type="folder">9</container> 
+				<unittitle>Athletic Conference of American College Women – Report,</unittitle>
+				<unitdate>1921, 1928</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="ced54189-fc16-4bc9-a8bf-d0a42048e3f5" type="box">2</container> 
+				<container parent="ced54189-fc16-4bc9-a8bf-d0a42048e3f5" type="folder">10</container> 
+				<unittitle>Athletic Conference of American College Women – 
+					Newsletters,</unittitle>
+				<unitdate>1923-1931</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="9bc42147-d0d6-4716-a0be-c08473a1623a" type="box">2</container> 
+				<container parent="9bc42147-d0d6-4716-a0be-c08473a1623a" type="folder">11</container> 
+				<unittitle>Athletic Federation of College Women – History (Folder 1 of 2),</unittitle>
+				<unitdate>1933-1949</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="7177119f-ded2-4512-a23b-6d8d8b286348" type="box">2</container> 
+				<container parent="7177119f-ded2-4512-a23b-6d8d8b286348" type="folder">12</container> 
+				<unittitle>Athletic Federation of College Women – History (Folder 2 of 2),</unittitle>
+				<unitdate>1933-1949</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="97071999-32f5-4834-b6d7-f995481989a8" type="box">2</container> 
+				<container parent="97071999-32f5-4834-b6d7-f995481989a8" type="folder">13</container> 
+				<unittitle>Athletic Federation of College Women – Handbooks,</unittitle>
+				<unitdate>1933-1957</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="89ea1336-0f94-4a49-9cff-c3e6fe660f74" type="box">2</container> 
+				<container parent="89ea1336-0f94-4a49-9cff-c3e6fe660f74" type="folder">14</container> 
+				<unittitle>Athletic Federation of College Women – Handbook,</unittitle>
+				<unitdate>1935</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="a9ddb78b-1f37-424b-955e-396038134c92" type="box">2</container> 
+				<container parent="a9ddb78b-1f37-424b-955e-396038134c92" type="folder">15</container> 
+				<unittitle>Athletic Federation of College Women – Reports,</unittitle>
+				<unitdate>1946, 1954, 1956</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="ac0b4a04-2b82-4032-ae83-334ab0bae07a" type="box">2</container> 
+				<container parent="ac0b4a04-2b82-4032-ae83-334ab0bae07a" type="folder">16</container> 
+				<unittitle>Athletic Federation of College Women – Handbook,</unittitle>
+				<unitdate>1957</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="35746933-97ff-428a-8e80-d1adf9142846" type="box">2</container> 
+				<container parent="35746933-97ff-428a-8e80-d1adf9142846" type="folder">17</container> 
+				<unittitle>Athletic Federation of College Women – Handbook,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="6f975aaf-bc63-459c-a2e7-9b9f717dfe97" type="box">2</container> 
+				<container parent="6f975aaf-bc63-459c-a2e7-9b9f717dfe97" type="folder">18</container> 
+				<unittitle>College Women’s Sports Association – Platform,</unittitle>
+				<unitdate>1969</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="d8beb76c-35f8-4b5e-9b25-9deb7d9e34f7" type="box">2</container> 
+				<container parent="d8beb76c-35f8-4b5e-9b25-9deb7d9e34f7" type="folder">19</container> 
+				<unittitle>National Association of Directors of Physical Education for 
+					College Women – Correspondence, Newsletters and Programs,</unittitle>
+				<unitdate>1928-1941</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="c14b337e-ff24-4ac0-ab91-c10bc3375d05" type="box">2</container> 
+				<container parent="c14b337e-ff24-4ac0-ab91-c10bc3375d05" type="folder">20</container> 
+				<unittitle>National Association for Physical Education for College 
+					Women – Democratic Process Project,</unittitle>
+				<unitdate>1948-1950</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="73751f86-87ae-4991-91d0-f8c7194217a1" type="box">2</container> 
+				<container parent="73751f86-87ae-4991-91d0-f8c7194217a1" type="folder">21</container> 
+				<unittitle>National Association for Physical Education for College 
+					Women – Democratic Process Supplement,</unittitle>
+				<unitdate>1949</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="8a1e50b3-07f0-4780-b3e6-ffc3ad70c60a" type="box">2</container> 
+				<container parent="8a1e50b3-07f0-4780-b3e6-ffc3ad70c60a" type="folder">22</container> 
+				<unittitle>Women’s Athletic Association – History,</unittitle>
+				<unitdate>1930-1932, 1935</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="0e551d3e-f9f5-494a-b4c2-e7f1d03c1279" type="box">2</container> 
+				<container parent="0e551d3e-f9f5-494a-b4c2-e7f1d03c1279" type="folder">23</container> 
+				<unittitle>Women’s Recreation Association – Newsletters,</unittitle>
+				<unitdate>1962-1974</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="5074b7d7-dba8-4849-9f11-e931d2df7d20" type="box">2</container> 
+				<container parent="5074b7d7-dba8-4849-9f11-e931d2df7d20" type="folder">24</container> 
+				<unittitle>Women’s Weekend and Social Recreation Programs – Correspondence,</unittitle>
+				<unitdate>1945, 1951</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="2f508dc3-d857-4821-ae07-f2ba5c07f2b3" type="box">3</container> 
+				<container parent="2f508dc3-d857-4821-ae07-f2ba5c07f2b3" type="folder">1</container> 
+				<unittitle>Legislation: HR 10606 National Physical Education Bill -Correspondence and Bill Document,</unittitle>
+				<unitdate>1927-1933, 1940</unitdate>
+			</did> 
+		</c02> 
+	</c01>
+	<c01 level="series"> 
+		<did> 
+			<unittitle>Series III: Physical Education Student Papers,</unittitle> 
+			<unitdate type="inclusive">1943-1958</unitdate>
+		</did>
+		<scopecontent><p>This series contains student papers written to fulfill course requirements for Ina Gittings, Director of Physical Education. It also contains information on the Physical Education major in the early 1950’s. </p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="c1a6ddf2-dd40-4e37-ad12-004f7d5f4608" type="box">3</container> 
+				<container parent="c1a6ddf2-dd40-4e37-ad12-004f7d5f4608" type="folder">2</container> 
+				<unittitle>Physical Education Student Papers (Folder 1 of 2),</unittitle>
+				<unitdate>1943-1958</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="94a4712e-8e63-456c-b5c3-e58fb5d8a71d" type="box">3</container> 
+				<container parent="94a4712e-8e63-456c-b5c3-e58fb5d8a71d" type="folder">3</container> 
+				<unittitle>Physical Education Student Papers (Folder 2 of 2),</unittitle>
+				<unitdate>1943-1958</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="044ffa57-04ec-4bfd-96f7-49272baf723f" type="box">3</container> 
+				<container parent="044ffa57-04ec-4bfd-96f7-49272baf723f" type="folder">4</container> 
+				<unittitle>Women’s Physical Education Major – Newsletter,</unittitle>
+				<unitdate>1950-1952</unitdate>
+			</did> 
+		</c02> 
+	</c01>
+	<c01 level="series"> 
+		<did> 
+			<unittitle>Series IV: Articles, Secretary’s Book, and Newspaper Clippings,</unittitle> 
+			<unitdate type="inclusive">1921-1981</unitdate>
+		</did>
+		<scopecontent><p>This series is comprised of clippings and articles. Clippings are from the Women’s Athletic Association and include intramural and intercollegiate athletics. This series also contains articles written by University faculty and students. </p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="1a1800e7-72fd-4ad8-be65-f4e98a2a244d" type="box">3</container> 
+				<container parent="1a1800e7-72fd-4ad8-be65-f4e98a2a244d" type="folder">5</container> 
+				<unittitle>Women’s Athletic Association – Clippings,</unittitle>
+				<unitdate>circa 1921-1924</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="59dd0b0f-774b-49d6-9ade-72c7e7a86448" type="box">3</container> 
+				<container parent="59dd0b0f-774b-49d6-9ade-72c7e7a86448" type="folder">6</container> 
+				<unittitle>Women’s Athletic Association – Secretary’s Book,</unittitle>
+				<unitdate>circa 1921-1923</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="8a17f991-6fc4-473f-9297-bbc33f2a8a24" type="box">4</container> 
+				<container parent="8a17f991-6fc4-473f-9297-bbc33f2a8a24" type="folder">1</container> 
+				<unittitle>Intercollegiate Athletics Cuts – Clippings,</unittitle>
+				<unitdate>circa 1981</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="ab945f05-8e51-4ffe-9e73-d4c93788c41e" type="box">4</container> 
+				<container parent="ab945f05-8e51-4ffe-9e73-d4c93788c41e" type="folder">2</container> 
+				<unittitle>Women’s Athletics - Clippings,</unittitle>
+				<unitdate>1978-1979</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="387020d3-d98e-443d-b8a0-47ae404aac41" type="box">4</container> 
+				<container parent="387020d3-d98e-443d-b8a0-47ae404aac41" type="folder">3</container> 
+				<unittitle>Physical Education Programs and Public Relations - Articles,</unittitle>
+				<unitdate>1961, undated</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="9af77414-f3ef-4055-84db-53c579905519" type="box">4</container> 
+				<container parent="9af77414-f3ef-4055-84db-53c579905519" type="folder">4</container> 
+				<unittitle><title render="doublequote">Correlation of Mental and Physical Traits in University of Arizona Freshmen Women</title> – Condensed Thesis by Ina Gittings,</unittitle>
+				<unitdate>1927</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="89423237-da65-4696-92da-e77dbbeb4615" type="box">4</container> 
+				<container parent="89423237-da65-4696-92da-e77dbbeb4615" type="folder">5</container> 
+				<unittitle><title render="doublequote">Why Cramp Competition?</title>– Article by Ina Gittings,</unittitle>
+				<unitdate>1931, 1936</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="b98e1283-9b0b-4e19-8784-51e6c8d4c269" type="box">4</container> 
+				<container parent="b98e1283-9b0b-4e19-8784-51e6c8d4c269" type="folder">6</container> 
+				<unittitle><title render="doublequote">A Study of the Scholarship of Participants and Non-Participants in the Extra-Curricular Program as Set Up by the Department of Physical Education for Women, University of Arizona</title>- Thesis by Mildred Samuelson,</unittitle>
+				<unitdate>1937</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="c766e1da-3714-480f-8193-cffbc53b36aa" type="box">4</container> 
+				<container parent="c766e1da-3714-480f-8193-cffbc53b36aa" type="folder">7</container> 
+				<unittitle><title render="doublequote">Some Health Problems of College Women</title>– Article by Eleanor Metheny,</unittitle>
+				<unitdate>1946</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="f101227f-ded4-4105-adde-3e7686a8ffc6" type="box">4</container> 
+				<container parent="f101227f-ded4-4105-adde-3e7686a8ffc6" type="folder">8</container> 
+				<unittitle><title render="doublequote">The New Menace</title> – Article by Ina Gittings,</unittitle>
+				<unitdate>1952</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="d677bc99-c888-4a6a-abbf-f1b049610d84" type="box">4</container> 
+				<container parent="d677bc99-c888-4a6a-abbf-f1b049610d84" type="folder">9</container> 
+				<unittitle><title render="doublequote">Why I Make Susie Run</title>Article by Pat Anderson,</unittitle>
+				<unitdate>1954</unitdate>
+			</did> 
+		</c02> 
+	</c01>
+</dsc> 
+</archdesc></ead>

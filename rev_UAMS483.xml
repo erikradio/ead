@@ -1,0 +1,538 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+
+    <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="complete"
+        langencoding="iso639-2b" relatedencoding="dc" repositoryencoding="iso15511"
+        scriptencoding="iso15924">
+        <eadid encodinganalog="852">UAMS483</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>W.J. McGee Photograph Collection <date calendar="gregorian" era="ce"
+                        normal="1894/1895">1894-1895</date></titleproper>
+                <author>Inventory prepared by Kim Frontz.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>University of Arizona Library Special Collections</publisher>
+                <address>
+                    <addressline>PO Box 210055</addressline>
+                    <addressline>Tucson, AZ 85721-0055</addressline>
+                    <addressline>Phone: 520-621-6423</addressline>
+                    <addressline>Fax: 520-621-9733</addressline>
+                    <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+                </address>
+                <date calendar="gregorian" era="ce" normal="2012">2012</date>
+                <p>Arizona Board of Regents. All Rights Reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Inventory encoded in Oxygen XML editor by Anne Martinez. <date
+                    encodinganalog="" era="ce" normal="20120308">March 8, 2012</date></creation>
+            <langusage>Inventory is in<language langcode="eng"> English.</language></langusage>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date normal="2017-06-22">2017-06-22</date>
+                <item>This finding aid was updated in alignment with LC EAD 2.0 specifications using
+                    a python script created by Erik Radio.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <frontmatter>
+        <titlepage>
+            <titleproper>W.J. McGee Photograph Collection, <date calendar="gregorian" era="ce"
+                    >1894-1895</date></titleproper>
+            <num>Collection Number: MS 483</num>
+            <publisher>University of Arizona Library Special Collections</publisher>
+            <list>
+                <defitem>
+                    <label>Processed by:</label>
+                    <item>Kim Frontz</item>
+                </defitem>
+                <defitem>
+                    <label>Date completed:</label>
+                    <item>
+                        <date>October 2011</date></item>
+                </defitem>
+                <defitem>
+                    <label>Encoded by:</label>
+                    <item>Anne Martinez</item>
+                </defitem>
+            </list>
+            <p>© 2007. Arizona Board of Regents. All rights reserved.</p>
+        </titlepage>
+    </frontmatter>
+    <archdesc encodinganalog="351$c" level="collection" type="inventory">
+        <did>
+            <head>Collection Summary</head>
+            <unittitle encodinganalog="245" label="Collection Name"> W.J. McGee Photograph
+                Collection <unitdate label="Dates" type="inclusive">1894-1895</unitdate></unittitle>
+
+            <unitid countrycode="US" encodinganalog="099" label="Collection Number"
+                repositorycode="US-azu">MS 483</unitid>
+            <origination label="Creator">
+                <persname encodinganalog="100" source="lcnaf">McGee, W. J. 1853-1912</persname>
+                <persname encodinganalog="100" source="lcnaf">Dinwiddie,
+                William</persname></origination>
+            <abstract label="Abstract">Photographs, 1894-1895, originals and copy prints, mostly
+                taken by William Dinwiddie (1894-1895), with some taken by J. W. Mitchell (1895) of
+                two expeditions, led by W. J. McGee, to study the Tohono O’odham Indians of southern
+                Arizona and northern Sonora, Mexico, and the Seri Indians of Mexico. The images
+                document homes, people, and household and work activities including pottery and
+                basket making.</abstract>
+            <physdesc encodinganalog="300$a" label="Physical Description"><extent>2 linear
+                    feet</extent></physdesc>
+            <repository label="Repository">
+                <corpname>University of Arizona Libraries, Special Collections</corpname>
+                <address>
+                    <addressline>University of Arizona</addressline>
+                    <addressline>PO Box 210055</addressline>
+                    <addressline>Tucson, AZ 85721-0055</addressline>
+                    <addressline>Phone: 520-621-6423</addressline>
+                    <addressline>Fax: 520-621-9733</addressline>
+                    <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+                </address></repository>
+        </did>
+        <accessrestrict>
+            <head>Restrictions</head>
+            <p>There are no restrictions on this collection</p>
+        </accessrestrict>
+        <userestrict>
+            <head>Copyright</head>
+            <p>It is the responsibility of the user to obtain permission to publish from the owner
+                of the copyright (the institution, the creator of the record, the author or his/her
+                transferees, heirs, legates, or literary executors). The user agrees to indemnify
+                and hold harmless the Arizona Board of Regents for the University of Arizona, its
+                officers, employees, and agents from and against all claims made by any person
+                asserting that he or she is an owner of copyright.</p>
+        </userestrict>
+        <prefercite>
+            <head>Credit Line</head>
+            <p>W.J. McGee Photograph Collection (MS 483). University of Arizona Library Special
+                Collections.</p>
+        </prefercite>
+        <relatedmaterial>
+            <p>The National Anthropological Archives of the Smithsonian Institution holds glass
+                plate negatives of the McGee expeditions. </p>
+        </relatedmaterial>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note</head>
+            <p>Born in Iowa in 1853, anthropologist, ethnologist, and geologist William J. McGee
+                worked for the U.S. Geological Survey from 1881 until 1893 when the Bureau of
+                American Ethnology was formed. He was in charge of the Bureau from 1893 to 1903.
+                During that time, he conducted field expeditions to study the Tohono O’odham Indians
+                in southern Arizona and Seri Indians in Sonora, Mexico in late 1894 and late 1895.
+                He held various other prominent scientific positions until his death in 1912.</p>
+            <p>Photographer William Dinwiddie, born in Virginia in 1867, worked for the Bureau of
+                American Ethnology from 1886 to 1895, then became a journalist and war
+                correspondent.</p>
+        </bioghist>
+        <arrangement encodinganalog="351$a">
+            <head>Arrangement</head>
+            <p>This collection is organized into two series:</p>
+            <list>
+                <item>Series I: William Dinwiddie, Photographer, <unitdate calendar="gregorian"
+                        era="ce">1894-1895</unitdate></item>
+                <item>Series II: J. W. Mitchell, Photographer, <unitdate calendar="gregorian"
+                        era="ce">1895</unitdate></item>
+            </list>
+        </arrangement>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content Note</head>
+            <p>Photographs, taken during anthropological and ethnographical expeditions in late 1894
+                and late 1895, mostly by photographer William Dinwiddie, of Tohono O’odham Indians,
+                Seri Indians, Mexico scenes, and expedition members. Many of the individuals are
+                identified and activities are described on the photographs.</p>
+            <p>Images of Tohono O’odham Indians include individuals and family groups, homes, and
+                village views as well as activities such as placer mining, pottery making, hair
+                washing, tortilla making, basket making, and grinding flour. There are also
+                photographs documenting artifacts and structures including baskets, ollas, metates,
+                women’s seclusion huts, chicken coops, and a bee hive oven. There are portraits of
+                identified individuals including Tohono O’odham leaders Francis Rios, Carlos Rios,
+                and Jose Juan Cristobal. Highlights include a series of step-by-step photographs of
+                men building a brush house, men playing a wah-pe-ta game, and the Sisters of St.
+                Joseph of Carondelet with schoolchildren. The images were mostly taken on the San
+                Xavier Indian Reservation at locations such as Vamori, Cienega, Pitiquito, Fresnal,
+                Little Tucson, Sycamore Canyon, and San Xavier.</p>
+            <p>Portraits of Seri Indians were mostly taken at their camp at Pascual Encinas’ Rancho
+                de Costa Rica near Hermosillo, Mexico. These include identified individuals and
+                family groups and their homes. On one image it was noted that “the girl declined to
+                remove her shirt when asked.” There are also photographs present of Seri homes, a
+                few artifacts and the expedition camp on Tiburon Island, Sonora, Mexico. A small
+                amount of photographs are also present of Mexican scenes in Sonora including a
+                blacksmith shop, churches, townspeople and adobe homes.</p>
+        </scopecontent>
+        <controlaccess>
+            <persname>McGee, W. J., 1853-1912 – Photographs</persname>
+            <subject>Tohono O’odham Indians – Photographs – 19th century</subject>
+            <subject>Seri Indians – Photographs – 19th century</subject>
+            <geogname>Hermosillo (Mexico) – Photographs</geogname>
+            <geogname>Tohono O’odham Reservation (Ariz.) – Photographs</geogname>
+            <subject>Tohono O’odham women – Photographs – 19th century</subject>
+            <subject>Tohono O’odham Indians – Social life and customs – Photographs – 19th
+                century</subject>
+            <subject>Tohono O’odham Indians – Games - Photographs</subject>
+        </controlaccess>
+        <dsc type="combined">
+            <head>Container List</head>
+            <c01 level="series">
+                <did>
+                    <unittitle>Series I: William Dinwiddie, Photographer </unittitle>
+                    <unitdate calendar="gregorian" era="ce" type="inclusive">1894-1895</unitdate>
+                </did>
+                <arrangement>
+                    <p>This series is arranged by location, and previously assigned numbers
+                        corresponding to location, possibly following the sequence of the
+                        expeditions. This organization was retained for the convenience of
+                        researchers who many have used the collection in the past when it was housed
+                        with the Arizona Southwest Photo files.</p>
+                </arrangement>
+                <c02 level="file">
+                    <did>
+                        <container id="ea709927-78c8-4de6-8ea8-d15e482a87a6" type="box"
+                            >1</container>
+                        <container parent="ea709927-78c8-4de6-8ea8-d15e482a87a6" type="folder"
+                            >1</container>
+                        <unittitle>Sonora, Mexico (Magdalena, San Ignacio, Nogales).</unittitle>
+                        <note>
+                            <p>Mexican blacksmith shop, Nogales building, women washing clothes in
+                                acequia, adobe house, church, No. 1-9.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="a46fedea-d3d8-4112-8b3e-415a26bca479" type="box"
+                            >1</container>
+                        <container parent="a46fedea-d3d8-4112-8b3e-415a26bca479" type="folder"
+                            >2</container>
+                        <unittitle>Querobabi, Hermosillo.</unittitle>
+                        <note>
+                            <p>Tohono O’odham home, cradle, people, Hermosillo church, cemetery,
+                                market scene, No. 10-23.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="9dac568a-2fd9-4377-8395-faec57ea21f9" type="box"
+                            >1</container>
+                        <container parent="9dac568a-2fd9-4377-8395-faec57ea21f9" type="folder"
+                            >3</container>
+                        <unittitle>Rancho de Costa Rica.</unittitle>
+                        <note>
+                            <p>Seri individuals and family groups, No. 24-28, 30-37.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="016f6e11-f849-4519-aef9-c6e2f3497460" type="box"
+                            >1</container>
+                        <container parent="016f6e11-f849-4519-aef9-c6e2f3497460" type="folder"
+                            >4</container>
+                        <unittitle>Rancho de Costa Rica.</unittitle>
+                        <note>
+                            <p>Seri individuals and family groups, No. 38-50.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="770dc5e6-db61-4d05-9094-d8f99571763e" type="box"
+                            >1</container>
+                        <container parent="770dc5e6-db61-4d05-9094-d8f99571763e" type="folder"
+                            >5</container>
+                        <unittitle>Rancho de Costa Rica. Seri individuals and family groups, No.
+                            51-56, 58-64.</unittitle>
+                        <note>
+                            <p>Seri individuals and family groups, No. 51-56, 58-64.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="ec226896-fc99-4c8e-a40f-657d13db15c7" type="box"
+                            >1</container>
+                        <container parent="ec226896-fc99-4c8e-a40f-657d13db15c7" type="folder"
+                            >6</container>
+                        <unittitle>Rancho de Costa Rica, Hermosillo.</unittitle>
+                        <note>
+                            <p>Adobe ranch home, Encinas family, arrastra, No. 65-66, 68-71.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="9ad502cf-581d-42f0-a4a4-ec4590f43da4" type="box"
+                            >2</container>
+                        <container parent="9ad502cf-581d-42f0-a4a4-ec4590f43da4" type="folder"
+                            >1</container>
+                        <unittitle>Poso Nueva, Poso Noriego, Santa Rosa.</unittitle>
+                        <note>
+                            <p>Tohono O’odham home, Interpreter Jose Lewis, flour mill,
+                                blacksmith,expedition camp, No. 72-75.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="f130a0cd-9fbc-4e9e-8a93-a4b13bd9772e" type="box"
+                            >2</container>
+                        <container parent="f130a0cd-9fbc-4e9e-8a93-a4b13bd9772e" type="folder"
+                            >2</container>
+                        <unittitle>Cienega (Cieneguella), Caborca.</unittitle>
+                        <note>
+                            <p>Tohono O’odham homes, placer mining, pottery making, mission church,
+                                No. 75-88.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="69ffa949-ea98-43af-bbef-792ca97a461c" type="box"
+                            >2</container>
+                        <container parent="69ffa949-ea98-43af-bbef-792ca97a461c" type="folder"
+                            >3</container>
+                        <unittitle>Pitiquito.</unittitle>
+                        <note>
+                            <p>Tohono O’odham home, women and children, tortilla making, oven, No.
+                                88a-c, 90-100.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="9ee629c3-8d18-48bb-be2a-d0081a4e9456" type="box"
+                            >2</container>
+                        <container parent="9ee629c3-8d18-48bb-be2a-d0081a4e9456" type="folder"
+                            >4</container>
+                        <unittitle>Altar, Ventana (Vamori), San Juaquin.</unittitle>
+                        <note>
+                            <p>Mexican Rancheria, horse branding, expedition camp, wagon and meal,
+                                Tohono O’odham home, Baboquivari Peak, cattle, horse branding, No.
+                                100-105.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="3a5c8c52-04f2-46f5-9ffc-82bc85bcc1b5" type="box"
+                            >2</container>
+                        <container parent="3a5c8c52-04f2-46f5-9ffc-82bc85bcc1b5" type="folder"
+                            >5</container>
+                        <unittitle>Fresnal, Pitoikam.</unittitle>
+                        <note>
+                            <p>Tohono O’odham homes, families, children, cooking, granary basket,
+                                olla, burden basket, hair washing, cowboys, No. 106-126.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="f6913522-cd75-478c-8d15-d33c5a073b89" type="box"
+                            >2</container>
+                        <container parent="f6913522-cd75-478c-8d15-d33c5a073b89" type="folder"
+                            >6</container>
+                        <unittitle>Upper Fresnal, Kohi Kug.</unittitle>
+                        <note>
+                            <p>Tohono O’odham homes, people, cheese making, cattle, cowboy, No.
+                                127-143.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="ee53bd42-e7f7-4801-9f75-ea273c811c05" type="box"
+                            >2</container>
+                        <container parent="ee53bd42-e7f7-4801-9f75-ea273c811c05" type="folder"
+                            >7</container>
+                        <unittitle>Bosque (Sycamore Canyon), LittleTucson,
+                            CoyoteVillage.</unittitle>
+                        <note>
+                            <p>Tohono O’odham groups, camp, village view of Coyote Village (Pan
+                                Tak), granary, cradle board, womens seclusion hut, metate, No.
+                                144-160.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="b29a59fa-39b3-4be8-8348-3a208ead7294" type="box"
+                            >3</container>
+                        <container parent="b29a59fa-39b3-4be8-8348-3a208ead7294" type="folder"
+                            >1</container>
+                        <unittitle>San Xavier Indian Reservation.</unittitle>
+                        <note>
+                            <p>Tohono O’odham village views, San Xavier Mission exterior and
+                                interior views, Sisters of St. Joseph of Carondelet with school
+                                children, men building a brush house step-by-step, womens seclusion
+                                hut, burden basket, granary, No. 161-187.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="c5cb307e-3610-4411-8a19-af361888a379" type="box"
+                            >3</container>
+                        <container parent="c5cb307e-3610-4411-8a19-af361888a379" type="folder"
+                            >2</container>
+                        <unittitle>San Xavier Indian Reservation.</unittitle>
+                        <note>
+                            <p>Tohono O’odham homes, people, village, Hugh Norris home and store,
+                                chicken coops, bee hive oven, granary basket, burden basket,
+                                baskets, pottery, basket making, grinding flour, No. 187-207.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="a2e6124a-0b58-4e67-a85c-a44e42fb2473" type="box"
+                            >3</container>
+                        <container parent="a2e6124a-0b58-4e67-a85c-a44e42fb2473" type="folder"
+                            >3</container>
+                        <unittitle>San Xavier Indian Reservation.</unittitle>
+                        <note>
+                            <p>Tohono O’odham ball player, men playing wah-pe-ta game, pottery
+                                making, burden baskets filled with black-on-red water jars, woman
+                                demonstrating carrying water jar, No. 208-231.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="b2dab8de-5189-48ff-a2b6-c3629bd2e20b" type="box"
+                            >3</container>
+                        <container parent="b2dab8de-5189-48ff-a2b6-c3629bd2e20b" type="folder"
+                            >4</container>
+                        <unittitle>San Xavier Indian Reservation. Tohono O’odham Indians meeting to
+                            plan Feast of St. Francis Xavier, portraits of leaders Francis Rios,
+                            Carlos Rios, Jose Juan Cristobal, and other identified men and women,
+                            No. 232-248, 250-259.</unittitle>
+                        <note>
+                            <p/>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="e6df8430-18a9-40c8-b10d-37bf41473aba" type="box"
+                            >3</container>
+                        <container parent="e6df8430-18a9-40c8-b10d-37bf41473aba" type="folder"
+                            >5</container>
+                        <unittitle>San Xavier Indian Reservation.</unittitle>
+                        <note>
+                            <p>Portraits of identified Tohono O’odham men and women, No.
+                                260-278.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="cae00575-f341-4002-a1af-738afb683a5f" type="box"
+                            >3</container>
+                        <container parent="cae00575-f341-4002-a1af-738afb683a5f" type="folder"
+                            >6</container>
+                        <unittitle>San Xavier Indian Reservation, Tucson,Phoenix.</unittitle>
+                        <note>
+                            <p>Portraits of identified individuals, class group of Tucson Indian
+                                Training school students, exterior and interior of Phoenix Indian
+                                Industrial School and student groups, No. 279-288, 290-299.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="84a341fc-99cd-4f0e-a211-4b40f8154baa" type="box"
+                            >4</container>
+                        <container parent="84a341fc-99cd-4f0e-a211-4b40f8154baa" type="folder"
+                            >1</container>
+                        <unittitle>Bacoachi, Tiburon Island.</unittitle>
+                        <note>
+                            <p>Expedition members, abandoned Seri camps (J. W. Mitchell,
+                                Photographer), No. 300-320.</p>
+                        </note>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="0aa20da3-7fd8-4728-a27d-76da4bde56ae" type="box"
+                            >4</container>
+                        <container parent="0aa20da3-7fd8-4728-a27d-76da4bde56ae" type="folder"
+                            >2</container>
+                        <unittitle>Tiburon Island, Fresnal, Los Reales, Sasabe.</unittitle>
+                        <note>
+                            <p>Tohono O’odham women making pottery, tortilla making, homes, Sasabe,
+                                Ariz. Custom house, Los Reales settlement near San Xavier
+                                (Dinwiddie), Seri artifacts (Mitchell), No. 321-333.</p>
+                        </note>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle>Series II: J.W. Mitchell, Photographer <unitdate calendar="gregorian"
+                            era="ce">1895</unitdate></unittitle>
+                </did>
+                <arrangement>
+                    <p>This series is unnumbered and consists of landscapes and cacti.</p>
+                </arrangement>
+                <c02 level="file">
+                    <did>
+                        <container id="1006a724-388a-44ab-a947-8ca45c2f9903" type="box"
+                            >4</container>
+                        <container parent="1006a724-388a-44ab-a947-8ca45c2f9903" type="folder"
+                            >3</container>
+                        <unittitle>Poso Noriego, Altar</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="9d0443aa-f66e-46ff-98d0-9398cfcab013" type="box"
+                            >4</container>
+                        <container parent="9d0443aa-f66e-46ff-98d0-9398cfcab013" type="folder"
+                            >4</container>
+                        <unittitle>Las Trincheras, Sonora</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="bb25784f-a0a2-4a6a-b916-ef5aad44667c" type="box"
+                            >4</container>
+                        <container parent="bb25784f-a0a2-4a6a-b916-ef5aad44667c" type="folder"
+                            >5</container>
+                        <unittitle>Hermosillo, Sonora</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="92ea40bf-4f47-49ed-a6c4-932e7b1edf14" type="box"
+                            >4</container>
+                        <container parent="92ea40bf-4f47-49ed-a6c4-932e7b1edf14" type="folder"
+                            >6</container>
+                        <unittitle>Thompson’s Ranch, Perez Ranch, Encinas Ranch</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="d676f3df-6793-4d8b-8b31-3e71777184ce" type="box"
+                            >4</container>
+                        <container parent="d676f3df-6793-4d8b-8b31-3e71777184ce" type="folder"
+                            >7</container>
+                        <unittitle>Tiburon Island</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container id="316fa17d-408e-4478-9a30-313b46760957" type="box"
+                            >4</container>
+                        <container parent="316fa17d-408e-4478-9a30-313b46760957" type="folder"
+                            >8</container>
+                        <unittitle>Rancho Costa Rica, Sonora</unittitle>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

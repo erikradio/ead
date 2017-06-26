@@ -1,0 +1,643 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="complete" langencoding="iso639-2b" relatedencoding="dc" repositoryencoding="iso15511" scriptencoding="iso15924">
+  <eadid encodinganalog="852">UAMS476</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Jill Corey Collection
+	 		<date calendar="gregorian" era="ce" normal="1953/2004" type="inclusive">1953-2004</date>
+	 	<date calendar="gregorian" era="ce" normal="1953/1989" type="bulk">(bulk 1953-1989)</date></titleproper> 
+	 	<author>Processed by Vanessa Cancio and Irlanda Jacinto.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date calendar="gregorian" era="ce" normal="2011">2011</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Irlanda Jacinto. 
+		<date encodinganalog="date" era="ce" normal="20111220">December 20, 2011</date></creation> 
+	 <langusage>Finding aid is in<language langcode="eng"> English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-22">2017-06-22</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Jill Corey Collection,<date calendar="gregorian" era="ce" type="inclusive">1953-2004</date>
+  	<date normal="1953/1989" type="bulk">(bulk 1953-1989)</date></titleproper> 
+	 <num>Collection Number: MS 476</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Venessa Cancio and Irlanda Jacinto</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>September 14,2011</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Irlanda Jacinto</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 20011. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Jill Corey Collection
+		<unitdate label="Dates" type="inclusive">1953-2004</unitdate>
+	 <unitdate label="Dates" type="bulk">(bulk 1953-1989)</unitdate></unittitle>	 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 476</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Corey, Jill</persname> </origination> 
+  	<abstract label="Abstract">This collection contains magazines, newspapers, sheet music, photographs, DVDs, CDs, records, and other documents relating to the life of Jill Corey. Jill Corey was a famous singer, television star, film actress, and radio personality in the 1950s and 1960s. In the latter half of the twentieth century she made a name for herself in musical theatre. Materials pertaining to both careers are found in the collection.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent>5.5 linear feet</extent></physdesc>	 
+	 <repository label="Repository"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>No restrictions</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Jill Corey Collection (MS 476). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Jill Corey was born Norma Jean Speranza in Avonmore, Pennsylvania. She was the youngest of five children born to Clara and Bernard Speranza. At the age of four, she lost her mother to a serious infection. Alice, her older sister, became the dominant female presence in Jill’s life. Her father and four older brothers worked in a small, private coal mine in order to support the family. Jill started singing at the age of four. From a young age, Jill would perform at family gatherings, local talent contests, and at school. At age thirteen, she won her first competition. The contest was sponsored by a local chapter of the Lion’s Club and the prize was an opportunity to sing on a local radio station. She was an instant hit and as a result, she was given her own local weekly radio show, Dream Time.</p> 
+  	<p>In the spring of 1953, Jill graduated from Bell-Avon High School. That same year she was signed by Mitch Miller, the director of artists at Columbia Records in New York. Mitch Miller had Jill audition for Arthur Godfrey, and Dave Garroway. Miller contacted LIFE magazine, who decided to feature Jill Corey in the November 9, 1953 issue. She was offered television contracts and she decided to sign with Garroway.  She debuted on prime time television as the lead singer for the Dave Garroway Show. With the help of the Manhattan telephone directory and Garroway’s influence, Norma Jean Speranza became Jill Corey. During this time, Jill Corey recorded her first studio single, the “Robe of Calvary” for Colombia Records. This began a long and fruitful career as a recording artist. Other major hits from Jill Corey include “I Love My Baby”, “Love Me to Pieces”, “Big Daddy”, and “Sometimes I’m Happy, Sometimes I’m Blue”.</p>
+  	<p>In 1954, Jill was a regular on Stop the Music, the Robert Q. Lewis Show with Merv Griffen, and the Johnny Carson Show. In 1957, Jill became a member of the cast of the long-running staple of 50s television, Your Hit Parade. Between 1957 and 1960, Jill appeared on the Ed Sullivan Show. </p>
+  	<p>In 1958, Jill became the youngest performer to ever headline at New York’s famed Copacabana. In the same year she filmed the motion picture, Senior Prom, co-starring Paul Hampton and James Komack. At this height in her career, she met Don Hoak, the third baseman for the Pittsburgh Pirates. They married in Pittsburgh in 1961, and Jill retired. In 1965, they had a daughter and named her Clare. In 1969, Don Hoak died of a heart attack, propelling Jill Corey to return to the spotlight. During her second career, she starred in many plays, both off-Broadway and on tour. Some of her plays include Annie Get Your Gun, Sweet Charity, Promises, Promises, and Gypsy at the Carousal Dinner Theater. In 1989, she played at Carnegie Hall to a sold out crowd.</p></bioghist> 
+  <arrangement encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into 6 series.</p>	 
+	 <list> 
+	 	<item>Series I: Personal, 1957-1989</item> 
+	 	<item>Series II: Publications, 1954-2004</item> 
+	 	<item>Subseries 1: Magazines, - 1954-2004</item> 
+	 	<item>Subseries 2: Newspaper Clippings, - 1954-1990s</item> 
+	 	<item>Subseries 3: Programs, - 1954-1993</item>	
+	 	<item>Subseries 4: Publicity Materials, 1950s-1990s</item> 
+	 	<item>Series III: Sheet Music, 1955-1958</item>
+	 	<item>Series IV: Fan Memorabilia and Oversized Materials, 1950-1990</item>
+	 	<item>Series V: Photographs, circa. 1940-2000s</item>
+	 	<item>Series VI: Audio Visual Materials</item> 
+	 	<item>Subseries 1: CDs</item>
+	 	<item>Subseries 2: Data CDs</item>
+	 	<item>Subseries 3: DVDs</item>
+	 	<item>Subseries 4: Records</item></list>
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>The inclusive dates for this collection are circa 1950s through 2000s. The collection includes materials spanning Jill Corey’s first and second careers. In 1953, Jill Corey was signed by Columbia Records and recorded her first single “Robe of Calvary”. This was the first of many hit singles that Jill Corey would produce. These first records, among others, are housed within this collection. Magazines, recordings, and telegrams highlight important milestones in her early career. Publicity materials, photographs, posters, and a DVD of Senior Prom can be found in the collection as well. This collection also includes the LIFE magazine spread, DVDs of the Ed Sullivan and the Johnny Carson Show, in which she was a regular guest star. Materials from her hit musical play Meet Me in Saint Louis are also found in the collection. Images of the Hoak family can be found in the Audio Visual Materials. After Don Hoak’s death, Jill Corey returned for her second career, making a new name for herself in musical theatre. Publicity materials and newspaper reviews from her second career are represented in the collection as well. In 1989, Jill Corey performed in Carnegie Hall to a sold out crowd. The program and audio recording for this event are found in the collection.   </p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <persname>Correy, Jill</persname><persname>Nachman, Gerald</persname><persname>Hoak, Donald Albert</persname><corpname>Colombia Records, Inc.</corpname><subject>Television and Popular Music</subject><subject>Television and Women--United States</subject><subject>Popular music radio stations --United States </subject><subject>Popular music--United States--1951-1960</subject></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Personal</unittitle> 
+		</did><arrangement><p>This series is arranged alphabetically and then chronologically. It contains essays written about Jill Corey, résumés, correspondence and financial information. </p></arrangement> 
+		<c02 level="file"> 
+		  <did> <container id="785e1d62-d03d-427c-9d0a-f01b1474f825" type="box">1</container> 
+			 <container parent="785e1d62-d03d-427c-9d0a-f01b1474f825" type="folder">1</container> 
+		  	<unittitle>Biographies and Résumés</unittitle> 
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="0b31e641-86a7-435d-8646-5b4fd7ae64b9" type="box">1</container> 
+	 			<container parent="0b31e641-86a7-435d-8646-5b4fd7ae64b9" type="folder">2</container> 
+	 			<unittitle>Correspondence Business,  
+	 				<unitdate>1972-1975</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="9da7cc4d-f69c-4aed-b883-e06e244fa0df" type="box">1</container> 
+	 			<container parent="9da7cc4d-f69c-4aed-b883-e06e244fa0df" type="folder">3</container> 
+	 			<unittitle>Correspondence Business,  
+	 				<unitdate>1976,1989</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="f76ca1cf-da51-4719-86e1-a44cf9d9428e" type="box">1</container> 
+	 			<container parent="f76ca1cf-da51-4719-86e1-a44cf9d9428e" type="folder">4</container> 
+	 			<unittitle>Correspondence Gerry Nachman,   
+	 				<unitdate>1972-1973</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> <c02 level="file"> 
+	 		<did> <container id="d4899673-ac6b-4150-a6e0-712690f428f9" type="box">1</container> 
+	 			<container parent="d4899673-ac6b-4150-a6e0-712690f428f9" type="folder">5</container> 
+	 			<unittitle>Correspondence Gerry Nachman,   
+	 				<unitdate>1974,1976,1977</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> <c02 level="file"> 
+	 		<did> <container id="534b0467-4662-4114-8a72-41585e2ce24c" type="box">1</container> 
+	 			<container parent="534b0467-4662-4114-8a72-41585e2ce24c" type="folder">6</container> 
+	 			<unittitle>Correspondence Gerry Nachman,  
+	 				<unitdate>1978-1979</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> <c02 level="file"> 
+	 		<did> <container id="72727abc-b3d9-4240-9470-dc2a449106f4" type="box">1</container> 
+	 			<container parent="72727abc-b3d9-4240-9470-dc2a449106f4" type="folder">7</container> 
+	 			<unittitle>Financial Documents,   
+	 				<unitdate>January- September 1958, 1989</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> <c02 level="file"> 
+	 		<did> <container id="94ec0c7c-279a-428e-8d55-c9631178be9c" type="box">1</container> 
+	 			<container parent="94ec0c7c-279a-428e-8d55-c9631178be9c" type="folder">8</container> 
+	 			<unittitle>Sets Lists  
+	 				</unittitle> 
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="f3478b07-196c-4947-9b8f-df2b68f77d6a" type="box">1</container> 
+	 			<container parent="f3478b07-196c-4947-9b8f-df2b68f77d6a" type="folder">9</container> 
+	 			<unittitle>Telegrams,   
+	 				<unitdate>1957</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="bcc61acf-a1d1-49e0-8f38-336c5d34c040" type="box">1</container> 
+	 			<container parent="bcc61acf-a1d1-49e0-8f38-336c5d34c040" type="folder">10</container> 
+	 			<unittitle>Telegrams, 
+	 				<unitdate>11957</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> 
+	 </c01> 
+  	<c01 level="series"><did><unittitle>Series II: Publications </unittitle></did><arrangement><p>This series is arranged chronologically. It contains magazines, newspaper clippings, programs, and publicity materials about Jill Corey or her performances. Some items are oversized and can be found in Box 7. </p></arrangement>
+  		<c02 level="subseries"><did><unittitle>Subseries 1: Magazines</unittitle></did>
+ <c03 level="file">
+ 	<did><container id="1f9a7b44-78fb-4296-8bf5-f5264666f5a9" type="box">1</container>
+ 		<container parent="1f9a7b44-78fb-4296-8bf5-f5264666f5a9" type="folder">11</container> 
+ 		<unittitle>January- June 1954</unittitle></did>
+ </c03>
+  			<c03 level="file">
+  				<did><container id="51b89079-a5fc-4b57-87a7-87d8e7a6e8e8" type="box">1</container>
+  					<container parent="51b89079-a5fc-4b57-87a7-87d8e7a6e8e8" type="folder">12</container> 
+  					<unittitle>July 1954- 1955</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="5d27f78d-6a22-4d77-900b-e66b07729134" type="box">1</container>
+  					<container parent="5d27f78d-6a22-4d77-900b-e66b07729134" type="folder">13</container> 
+  					<unittitle>February- May 1956</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="eedb825f-d9ae-48d7-a33b-4e5f028414be" type="box">1</container>
+  					<container parent="eedb825f-d9ae-48d7-a33b-4e5f028414be" type="folder">14</container> 
+  					<unittitle>July- September 1956</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="008ca77c-0b38-4374-9bef-ce2e27408fa7" type="box">1</container>
+  					<container parent="008ca77c-0b38-4374-9bef-ce2e27408fa7" type="folder">15</container> 
+  					<unittitle>January- August 1957</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="e9bdcf29-6756-4a15-a060-5c1167f1933f" type="box">1</container>
+  					<container parent="e9bdcf29-6756-4a15-a060-5c1167f1933f" type="folder">16</container> 
+  					<unittitle>September- October 1957</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="285ffebf-7d44-4e4b-a7e0-fe678f7ed742" type="box">1</container>
+  					<container parent="285ffebf-7d44-4e4b-a7e0-fe678f7ed742" type="folder">17</container> 
+  					<unittitle>November- December 1957</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="4e0f9d64-2314-4eeb-a6cf-37ab09816ce1" type="box">1</container>
+  					<container parent="4e0f9d64-2314-4eeb-a6cf-37ab09816ce1" type="folder">18</container> 
+  					<unittitle>January- April 1958</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="61f4d14e-dc89-46f6-8022-bdeb48121015" type="box">1</container>
+  					<container parent="61f4d14e-dc89-46f6-8022-bdeb48121015" type="folder">19</container> 
+  					<unittitle>June- October 1958</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="83fd39a1-2566-43ee-be4e-4ab67664dd60" type="box">1</container>
+  					<container parent="83fd39a1-2566-43ee-be4e-4ab67664dd60" type="folder">20</container> 
+  					<unittitle>1959-2004</unittitle></did>
+  			</c03>
+  		</c02>
+  	<c02 level="subseries">
+  		<did><unittitle>Subseries 2: Newspaper Clippings </unittitle></did>
+  		<c03 level="file">
+  			<did><container id="4e8a0be6-66b8-4fb5-aa97-0bf11ea52be0" type="box">1</container>
+  				<container parent="4e8a0be6-66b8-4fb5-aa97-0bf11ea52be0" type="folder">21</container><unittitle>1954-1964</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="bc69e79a-f969-447d-9af9-c6e926e963ca" type="box">1</container>
+  				<container parent="bc69e79a-f969-447d-9af9-c6e926e963ca" type="folder">22</container><unittitle>1971-1976</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="2cc03ad6-b221-40a4-9b81-4abf7c72dd0f" type="box">1</container>
+  				<container parent="2cc03ad6-b221-40a4-9b81-4abf7c72dd0f" type="folder">23</container><unittitle>1977-1979</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="3f9cb42d-1541-4b8f-a23c-d031598d97ee" type="box">1&gt;</container>
+  				<container parent="3f9cb42d-1541-4b8f-a23c-d031598d97ee" type="folder">24</container><unittitle>1980-1989</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="39170249-249d-46b6-b229-2f4daa6479c1" type="box">1</container>
+  				<container parent="39170249-249d-46b6-b229-2f4daa6479c1" type="folder">25</container><unittitle>1990s</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="6158f666-0330-4573-97b5-5eb60666721c" type="box">1</container>
+  				<container parent="6158f666-0330-4573-97b5-5eb60666721c" type="folder">26</container><unittitle>Unknown Dates</unittitle></did>
+  		</c03>
+  	</c02>
+  		<c02 level="subseries">
+  			<did><unittitle>Subseries 3: Programs </unittitle></did>
+  		<c03 level="file">
+  			<did><container id="12319ba8-1ee9-4379-b4df-de469342e8e3" type="box">1</container>
+  				<container parent="12319ba8-1ee9-4379-b4df-de469342e8e3" type="folder">27</container><unittitle>1954-1961</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="375d7ada-7132-4274-87c6-9ce0071f3424" type="box">1</container>
+  				<container parent="375d7ada-7132-4274-87c6-9ce0071f3424" type="folder">28</container><unittitle>1973-1977</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="31a0809f-3cf9-4a8a-bc11-2a9fc35c730d" type="box">1</container>
+  				<container parent="31a0809f-3cf9-4a8a-bc11-2a9fc35c730d" type="folder">29</container><unittitle>1985-1986</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="06de5f0b-55a0-485e-a353-c9cbc6118629" type="box">1</container>
+  				<container parent="06de5f0b-55a0-485e-a353-c9cbc6118629" type="folder">30</container><unittitle>1989-1994</unittitle></did>
+  		</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did><unittitle>Subseries 4:Publicity Materials</unittitle></did>
+  			<c03 level="file">
+  				<did><container id="ae88edb7-17d4-4ebf-a2d0-6d64d681d6a4" type="box">1</container>
+  					<container parent="ae88edb7-17d4-4ebf-a2d0-6d64d681d6a4" type="folder">31</container><unittitle>Publicity Materials</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="7fb816dc-7f76-43a5-ba78-1d4c7fe8cdec" type="oversize">drawer 6</container>
+  					<container parent="7fb816dc-7f76-43a5-ba78-1d4c7fe8cdec" type="folder">4</container><unittitle>Publicity Materials</unittitle></did>
+  			</c03>
+  		</c02>		
+  	</c01>
+  	<c01 level="series">
+  		<did><unittitle>Series III: Sheet Music</unittitle></did><arrangement><p>This series is arranged alphabetically. Folders are organized alphabetically by title of the song. This series contains sheet music of popular songs performed by Jill Corey.</p></arrangement>
+  	<c02 level="file">
+  		<did><container id="b30e2e6d-b312-4716-b118-a463ed8f31e3" type="box">2</container>
+  			<container parent="b30e2e6d-b312-4716-b118-a463ed8f31e3" type="folder">1</container><unittitle>A</unittitle></did>
+  	</c02>
+  		<c02 level="file">
+  			<did><container id="9590e064-7d25-468b-b108-2c884666bbd7" type="box">2</container>
+  				<container parent="9590e064-7d25-468b-b108-2c884666bbd7" type="folder">2</container><unittitle>Bewitched, Bothered and Bewildered</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="99a3c2e6-45c9-4da6-bb4c-64bb87f96877" type="box">2</container>
+  				<container parent="99a3c2e6-45c9-4da6-bb4c-64bb87f96877" type="folder">3</container><unittitle>Big City 4am (1)</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="411588e3-99a4-4581-bd25-67d025f04b8c" type="box">2</container>
+  				<container parent="411588e3-99a4-4581-bd25-67d025f04b8c" type="folder">4</container><unittitle>Big City 4am (2)</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="c05ca006-059b-4723-9eb4-f8dd897a3b5e" type="box">2</container>
+  				<container parent="c05ca006-059b-4723-9eb4-f8dd897a3b5e" type="folder">5</container><unittitle>Big Daddy-Big Time</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="742f9917-9ba9-4fea-b178-1f87288477f3" type="box">2</container>
+  				<container parent="742f9917-9ba9-4fea-b178-1f87288477f3" type="folder">6</container><unittitle>Bows-Bye Bye Blackbird</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="362b7c53-66b5-46cf-8783-2e3b41973c5d" type="box">3</container>
+  				<container parent="362b7c53-66b5-46cf-8783-2e3b41973c5d" type="folder">1</container><unittitle>C</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="cc2263b9-db27-42e6-855d-58305905d17d" type="box">3</container>
+  				<container parent="cc2263b9-db27-42e6-855d-58305905d17d" type="folder">2</container><unittitle>E</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="bb9481ae-a409-47f2-9873-f1530465b2e8" type="box">3</container>
+  				<container parent="bb9481ae-a409-47f2-9873-f1530465b2e8" type="folder">3</container><unittitle>D</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="843221bb-91af-4409-a645-4fe3971985c4" type="box">3</container>
+  				<container parent="843221bb-91af-4409-a645-4fe3971985c4" type="folder">4</container><unittitle>H</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="e65781dc-ea40-4409-9e8a-3de57bbf827d" type="box">3</container>
+  				<container parent="e65781dc-ea40-4409-9e8a-3de57bbf827d" type="folder">5</container><unittitle>I Am What I Am</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="1b944839-efff-472a-8fc0-916ac9f493ea" type="box">3</container>
+  				<container parent="1b944839-efff-472a-8fc0-916ac9f493ea" type="folder">6</container><unittitle>I Am Still Here-If I Ruled the World</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="08bdf0ea-b960-443b-a255-3fdb76aa3501" type="box">3</container>
+  				<container parent="08bdf0ea-b960-443b-a255-3fdb76aa3501" type="folder">7</container><unittitle>I Got the Music in Me- I’ve Got a Crush on You</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="5c05cead-5e74-44e0-9ea7-245085bc8175" type="box">4</container>
+  				<container parent="5c05cead-5e74-44e0-9ea7-245085bc8175" type="folder">1</container><unittitle>I Love My Baby-It Had to Be You</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="4b2f9b0a-5aa7-4789-965d-305f13a66d0f" type="box">4</container>
+  				<container parent="4b2f9b0a-5aa7-4789-965d-305f13a66d0f" type="folder">2</container><unittitle>J</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="221bac77-08e0-4739-b2de-750d4967ad7c" type="box">4</container>
+  				<container parent="221bac77-08e0-4739-b2de-750d4967ad7c" type="folder">3</container><unittitle>The Last Blues Song-Love Me to Pieces</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="98193562-21dc-4de7-a209-d95ba1c5bfc8" type="box">4</container>
+  				<container parent="98193562-21dc-4de7-a209-d95ba1c5bfc8" type="folder">4</container><unittitle>Love What You’re Doing</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="08757799-74fa-4afb-bbc3-8f113e6aa03e" type="box">4</container>
+  				<container parent="08757799-74fa-4afb-bbc3-8f113e6aa03e" type="folder">5</container><unittitle>M</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="6fe1542b-1dc8-48aa-9a7e-be60a09b0ede" type="box">5</container>
+  				<container parent="6fe1542b-1dc8-48aa-9a7e-be60a09b0ede" type="folder">1</container><unittitle>N</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="989ea82e-9da2-4b8f-998e-14d531b66628" type="box">5</container>
+  				<container parent="989ea82e-9da2-4b8f-998e-14d531b66628" type="folder">2</container><unittitle>O</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="4c5ef451-3823-4208-87cc-8a52640c28aa" type="box">5</container>
+  				<container parent="4c5ef451-3823-4208-87cc-8a52640c28aa" type="folder">3</container><unittitle>R</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="b87554a5-283a-4f78-a577-3e661e050103" type="box">5</container>
+  				<container parent="b87554a5-283a-4f78-a577-3e661e050103" type="folder">4</container><unittitle>Say You Say Me-Sing Me</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="9e77632f-2038-4398-b920-28b1c4448b5e" type="box">5</container>
+  				<container parent="9e77632f-2038-4398-b920-28b1c4448b5e" type="folder">5</container><unittitle>Some People</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="1953c7cc-2366-4d8d-b500-f1306cd46d01" type="box">5</container>
+  				<container parent="1953c7cc-2366-4d8d-b500-f1306cd46d01" type="folder">6</container><unittitle>Something-Somewhere</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="98bf073e-9212-4cb2-b33e-299ae02125ad" type="box">5</container>
+  				<container parent="98bf073e-9212-4cb2-b33e-299ae02125ad" type="folder">7</container><unittitle>A Song For You-Sweet Man ‘O Mine</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="5920aec4-4420-4a26-a3f2-8d531283e059" type="box">6</container>
+  				<container parent="5920aec4-4420-4a26-a3f2-8d531283e059" type="folder">1</container><unittitle>Taking a Chance on Love-This Girl Is a Woman Now</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="8aa8eb40-3c91-4814-82e9-2dd95c622de2" type="box">6</container>
+  				<container parent="8aa8eb40-3c91-4814-82e9-2dd95c622de2" type="folder">2</container><unittitle>Today, I Love Ev’rybody</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="2d22fefd-d45d-4002-9bd5-8606ea82e593" type="box">6</container>
+  				<container parent="2d22fefd-d45d-4002-9bd5-8606ea82e593" type="folder">3</container><unittitle>W</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="e0793aff-0369-42f9-ad2b-2237c5489604" type="box">6</container>
+  				<container parent="e0793aff-0369-42f9-ad2b-2237c5489604" type="folder">4</container><unittitle>Y</unittitle></did>
+  		</c02>
+  	</c01>
+  	<c01 level="series">
+  		<did><unittitle>Series IV: Fan,Memorabilia and Oversized Materials </unittitle></did><arrangement><p>This series is arranged according to the size and the fragility of the materials. It is composed of fan made scrapbooks and art, along with oversized magazines, photographs, and publicity materials.</p></arrangement>
+  	<c02 level="file">
+  		<did><container id="4869b2b9-74d5-4d1f-a48d-a0b4a0b470ce" type="box">7</container>
+  			<container parent="4869b2b9-74d5-4d1f-a48d-a0b4a0b470ce" type="folder">1</container><unittitle>Small Scrapbook</unittitle></did>
+  	</c02>
+  		<c02 level="file">
+  			<did><container id="7cab3a1b-8af9-46bc-990c-41ff0e0cf7aa" type="box">7</container>
+  				<container parent="7cab3a1b-8af9-46bc-990c-41ff0e0cf7aa" type="folder">2</container><unittitle>Magazines Life,</unittitle><unitdate>1953</unitdate></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="9b0f3f7f-f7ce-4493-9331-319540e6f3cb" type="box">7</container>
+  				<container parent="9b0f3f7f-f7ce-4493-9331-319540e6f3cb" type="folder">3</container><unittitle>Magazines Companion,</unittitle><unitdate>1955</unitdate></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="0d19ac39-1447-464a-aaaa-4b21408fd74f" type="box">7</container>
+  				<container parent="0d19ac39-1447-464a-aaaa-4b21408fd74f" type="folder">4</container><unittitle>Magazines,</unittitle><unitdate>1955-1957</unitdate></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="7c1760b6-dc10-430c-9653-819c6147c1b0" type="box">7</container>
+  				<container parent="7c1760b6-dc10-430c-9653-819c6147c1b0" type="folder">5</container><unittitle>Magazine Esquire,</unittitle><unitdate>1958</unitdate></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="24e4ad9e-a580-4ea5-83f4-7e80a4b5ba33" type="box">7</container>
+  				<container parent="24e4ad9e-a580-4ea5-83f4-7e80a4b5ba33" type="folder">6</container><unittitle>Magazines,</unittitle><unitdate>1958-1960</unitdate></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="6f2f4859-41bd-4822-b511-6a85cf5359fa" type="box">7</container>
+  				<container parent="6f2f4859-41bd-4822-b511-6a85cf5359fa" type="folder">7</container><unittitle>Magazines,</unittitle><unitdate>1975,1979</unitdate></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="8f33f68e-f6c0-42db-bcad-0b6b5fc71715" type="box">7</container>
+  				<container parent="8f33f68e-f6c0-42db-bcad-0b6b5fc71715" type="folder">8</container><unittitle>Large Scrapbook</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="e90750eb-8469-4f10-bbb8-f9e852cfe9dc" type="box">7</container>
+  				<container parent="e90750eb-8469-4f10-bbb8-f9e852cfe9dc" type="folder">9</container><unittitle>Gordon Parks Proofs For Life Magazine</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="7525e0ab-6613-4cb8-a756-96006b8372f3" type="box">7</container>
+  				<container parent="7525e0ab-6613-4cb8-a756-96006b8372f3" type="folder">10</container><unittitle>Head Shot</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="240d1df5-6195-4d8f-8aca-b53bd0279b2d" type="box">7</container>
+  				<container parent="240d1df5-6195-4d8f-8aca-b53bd0279b2d" type="folder">11</container><unittitle>Senior Prom Publicity Prints</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="74c54417-07c4-40b5-b5d5-1caa6f834832" type="box">7</container>
+  				<container parent="74c54417-07c4-40b5-b5d5-1caa6f834832" type="folder">12</container><unittitle>Publicity Materials</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="aff89429-fe45-4eb9-aa8f-6b116ff530de" type="box">7</container>
+  				<container parent="aff89429-fe45-4eb9-aa8f-6b116ff530de" type="folder">13</container><unittitle>Drawing of Jill Corey</unittitle></did>
+  		</c02>
+  	</c01>
+  	<c01 level="series">
+  		<did><unittitle>Series V: Photographs</unittitle></did><arrangement><p>This series is arranged by subject and then alphabetically. It contains photographs of Jill Corey in the different stages of her career.</p></arrangement>
+  	<c02 level="file">
+  		<did><container id="8f722fe2-02e0-4772-b086-dfa84af2e7f0" type="box">8</container>
+  			<container parent="8f722fe2-02e0-4772-b086-dfa84af2e7f0" type="folder">1</container><unittitle>Assorted Publicity Stills</unittitle></did>
+  	</c02>
+  		<c02 level="file">
+  			<did><container id="7ea10803-b35a-4c74-8a79-7aafc3cacb95" type="box">8</container>
+  				<container parent="7ea10803-b35a-4c74-8a79-7aafc3cacb95" type="folder">2</container><unittitle>Gordon Parks Proofs For Life Magazine</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="17a7dac9-f9a6-439f-9ce0-8ecccaba15f8" type="box">8</container>
+  				<container parent="17a7dac9-f9a6-439f-9ce0-8ecccaba15f8" type="folder">3</container><unittitle>Magazine Publicity Stills</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="e4591629-8b99-43f4-b6fe-cdfcd8cf77b6" type="box">8</container>
+  				<container parent="e4591629-8b99-43f4-b6fe-cdfcd8cf77b6" type="folder">4</container><unittitle>Photo Album Assorted Headshots and Stills (1)</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="4a768144-dff8-4398-a560-b31af24cdf2f" type="box">8</container>
+  				<container parent="4a768144-dff8-4398-a560-b31af24cdf2f" type="folder">5</container><unittitle>Photo Album Assorted Headshots and Stills (2)</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="e405d460-e4fe-45a8-bf83-0ad942b1f6c9" type="box">8</container>
+  				<container parent="e405d460-e4fe-45a8-bf83-0ad942b1f6c9" type="folder">6</container><unittitle>Photo Album Assorted Headshots and Stills (3)</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="84eb7495-2f38-4aeb-97c6-f97ff97bfbc7" type="box">8</container>
+  				<container parent="84eb7495-2f38-4aeb-97c6-f97ff97bfbc7" type="folder">7</container><unittitle>Photo Album Assorted Headshots and Stills (4)</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="f57fe054-3898-44f8-9b20-c2750f96927d" type="box">9</container>
+  				<container parent="f57fe054-3898-44f8-9b20-c2750f96927d" type="folder">1</container><unittitle>Photo Album Family Made (1)</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="ea7f80a2-aa53-4450-8b38-40b0828c6294" type="box">9</container>
+  				<container parent="ea7f80a2-aa53-4450-8b38-40b0828c6294" type="folder">2</container><unittitle>Photo Album Family Made (2)</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="84f4d350-c0ea-47d1-9b2f-d0868d21a416" type="box">9</container>
+  				<container parent="84f4d350-c0ea-47d1-9b2f-d0868d21a416" type="folder">3</container><unittitle>Photo Album Family Made (3)</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container id="8b6fa9de-9019-45f3-a6d3-7b64c3a4ffaa" type="box">9</container>
+  				<container parent="8b6fa9de-9019-45f3-a6d3-7b64c3a4ffaa" type="folder">4</container><unittitle>Senior Prom</unittitle></did>
+  		</c02>
+  	</c01>
+  	<c01 level="series">
+  		<did><unittitle>Series VI: Audio Visual Materials</unittitle></did><arrangement><p>This series is arranged by format and then alphabetically. It contains compiled CDs, Data CDs, DVDs, and records spanning Jill Corey’s career. Some of these materials were created by Albert Kopek. This includes television show appearances on the Ed Sullivan show and the Johnny Carson show.</p></arrangement>
+  	<c02 level="subseries">
+  		<did><unittitle>Subseries 1: CDs</unittitle></did>
+  		<c03 level="file">
+  			<did><container id="8abe4e4f-0edc-4ee6-919b-e0e013d2718c" type="box">9</container>
+  				<container parent="8abe4e4f-0edc-4ee6-919b-e0e013d2718c" type="folder">5</container><unittitle>Compilations</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="a90e6a55-ab13-49cb-bc91-9b5d4ea4e7bb" type="box">9</container>
+  				<container parent="a90e6a55-ab13-49cb-bc91-9b5d4ea4e7bb" type="folder">6</container><unittitle>Fan Restoration Compilations</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="9bbef394-a704-4a58-857f-44da6bf8ddf3" type="box">9</container>
+  				<container parent="9bbef394-a704-4a58-857f-44da6bf8ddf3" type="folder">7</container><unittitle>Jill Corey program</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="b0d2b197-9fc5-49dc-a083-8c0db3516158" type="box">9</container>
+  				<container parent="b0d2b197-9fc5-49dc-a083-8c0db3516158" type="folder">8</container><unittitle>Live Performances</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="0efa349e-cd7e-4b6e-97d9-be6468736561" type="box">9</container>
+  				<container parent="0efa349e-cd7e-4b6e-97d9-be6468736561" type="folder">9</container><unittitle>National Guard and Ralph Flanagan</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="7edb824c-7b04-4184-bfbf-bc1adf48767b" type="box">9</container>
+  				<container parent="7edb824c-7b04-4184-bfbf-bc1adf48767b" type="folder">10</container><unittitle>Radio Recordings</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="2113ea28-79ba-4698-b8ab-b6fc62cb2f71" type="box">9</container>
+  				<container parent="2113ea28-79ba-4698-b8ab-b6fc62cb2f71" type="folder">11</container><unittitle>Radio Recordings</unittitle></did>
+  		</c03>
+  		<c03 level="file">
+  			<did><container id="a4c0d0ad-ab25-4e7d-922c-1709d7b22429" type="box">9</container>
+  				<container parent="a4c0d0ad-ab25-4e7d-922c-1709d7b22429" type="folder">12</container><unittitle>Studio Recordings</unittitle></did>
+  		</c03>
+  	</c02>
+  		<c02 level="subseries">
+  			<did><unittitle>Subseries 2: Data CDs</unittitle></did>
+  			<c03 level="file">
+  				<did><container id="d190aa00-6fe2-443c-9d76-8bfc8b07a087" type="box">9</container>
+  				<container parent="d190aa00-6fe2-443c-9d76-8bfc8b07a087" type="folder">13</container><unittitle>Scanned Images</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="7c3c3f5c-9c81-4481-b479-ab21a5d3e8da" type="box">9</container>
+  					<container parent="7c3c3f5c-9c81-4481-b479-ab21a5d3e8da" type="folder">14</container><unittitle>Website</unittitle></did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did><unittitle>Subseries 3: DVDs</unittitle></did>
+  			<c03 level="file">
+  				<did><container id="82a3c027-45a5-4a92-af33-c49d7df72673" type="box">9</container>
+  					<container parent="82a3c027-45a5-4a92-af33-c49d7df72673" type="folder">15</container><unittitle>Assorted Jill Corey Appearances,</unittitle><unitdate>1950-2004</unitdate></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="43902d65-cfa0-45f4-8b48-c34ae51302c1" type="box">9</container>
+  					<container parent="43902d65-cfa0-45f4-8b48-c34ae51302c1" type="folder">16</container><unittitle>Clare Hoak, History of Avonmore, Pa</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="10f370ea-d1b8-454c-baf3-1f3fb08b9622" type="box">9</container>
+  					<container parent="10f370ea-d1b8-454c-baf3-1f3fb08b9622" type="folder">17</container><unittitle>Ed Sullivan TV Appearances, Jill Corey Show</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="4ea97ffc-2be0-427a-8bcc-8d5b078ac0fc" type="box">9</container>
+  					<container parent="4ea97ffc-2be0-427a-8bcc-8d5b078ac0fc" type="folder">18</container><unittitle>Johnny Carson TV Appearance</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="54585201-d5f7-44b3-9581-c4e4496b5487" type="box">9</container>
+  					<container parent="54585201-d5f7-44b3-9581-c4e4496b5487" type="folder">19</container><unittitle>Senior Prom </unittitle><unitdate>(1958)</unitdate></did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did><unittitle>Subseries 4: Records</unittitle></did>
+  			<c03 level="file">
+  				<did><container id="91ef1be6-8dea-4d07-8dbf-9e9d505f6b55" type="box">10</container>
+  					<unittitle>1985 March of Dimes</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="9c76cac3-62c8-4634-8e97-77f95711f065" type="box">10</container>
+  					<unittitle>Ching-A-Ling</unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="248aeb9b-e76b-40b3-9df4-f00ab530bc45" type="box">10</container>
+  					<unittitle>I love My Baby </unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="8349e3e3-b80d-4f4e-86e3-bf9b56c5f5f4" type="box">10</container>
+  					<unittitle>Let’s Go to Town The National Guard Show </unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="63d8d5e6-ed32-4f59-934b-8c7d3654dd6f" type="box">10</container>
+  					<unittitle>Office of Civil and Defense Mobilization “Stars for Defense” </unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="af7ed1bd-4939-4ed2-92e1-6ca9bf53ba97" type="box">10</container>
+  					<unittitle>Robe of Calvary </unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="ad81da09-4908-465f-b43f-fcc422c7393b" type="box">10</container>
+  					<unittitle>Sometimes I’m Happy Sometimes I’m Blue  </unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="2ec12ab9-9a9f-42ea-9aa9-114f9a8f5880" type="box">10</container>
+  					<unittitle>Treasury Department “Guest Star” Jill Corey </unittitle></did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container id="9977deac-7105-4012-b50c-cf01fff8440c" type="box">10</container>
+  					<unittitle>The National Guard Show Programs 1-14</unittitle></did>
+  			</c03>
+  			</c02>
+  </c01>
+  	</dsc> 
+</archdesc></ead>

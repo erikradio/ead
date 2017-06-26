@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+    <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+        <eadid encodinganalog="852">UAMS554</eadid> 
+        <filedesc> 
+            <titlestmt> 
+                <titleproper encodinganalog="title">Arizona Commission of Affairs Records,
+                    <date calendar="gregorian" certainty="approximate" era="ce" normal="1954/1976" type="inclusive">1954-1976</date>                                    
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing">Arizona Commission of Affairs Records</titleproper>
+                <author>Processed by Hannivett D. Nabahe.</author> 
+            </titlestmt> 
+            <publicationstmt> 
+                <publisher>University of Arizona Libraries, Special Collections</publisher> 
+                <address> 
+                    <addressline>PO Box 210055</addressline> 
+                    <addressline>Tucson, AZ 85721-0055</addressline> 
+                    <addressline>Phone: 520-621-6423</addressline> 
+                    <addressline>Fax: 520-621-9733</addressline> 
+                    <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+                    <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+                </address> 
+                <date calendar="gregorian" era="ce" normal="2015">2015</date> 
+                <p>Arizona Board of Regents. All Rights Reserved.</p> 
+            </publicationstmt> 
+        </filedesc> 
+        <profiledesc> 
+            <creation>Inventory encoded in Oxygen XML editor by Hannivett Nabahe. 
+                <date encodinganalog="date" era="ce" normal="20151112">November 12, 2015</date>
+            </creation>
+            <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+            <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+        </profiledesc> 
+     <revisiondesc><change><date normal="2017-06-23">2017-06-23</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+    
+    <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+        <did> 
+            <head>Collection Summary</head> 
+            <unittitle encodinganalog="245" label="Collection Name">Arizona Commission of Affairs Records,
+                <unitdate label="Dates" normal="1954/1976" type="inclusive">1954-1976</unitdate>
+            </unittitle>	 
+            <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 554</unitid>
+            <origination label="Creator"> 
+                <corpname encodinganalog="110" source="lcnaf">Arizona Commission of Indian Affairs</corpname> </origination>
+            <abstract label="Abstract">The Arizona Commission of Indian Affairs Records contain correspondence, minutes, records of appropriation hearings, memos and other communications by this American Indian-led organization aimed at making recommendations to the governor and legislators in regards to issues faced by Arizona tribes.</abstract> 
+            <physdesc encodinganalog="300$a" label="Physical Description"><extent>1.5 linear feet</extent></physdesc>	 
+            <repository label="Repository"> 
+                <corpname>University of Arizona Libraries, Special Collections</corpname> 
+                <address> 
+                    <addressline>University of Arizona</addressline> 
+                    <addressline>PO Box 210055</addressline> 
+                    <addressline>Tucson, AZ 85721-0055</addressline> 
+                    <addressline>Phone: 520-621-6423</addressline> 
+                    <addressline>Fax: 520-621-9733</addressline> 
+                    <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+                    <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+                </address>
+            </repository>
+            <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+        </did> 
+        <accessrestrict> 
+            <head>Restrictions</head> 
+            <p>There are no restrictions on this collection.</p> 
+        </accessrestrict> 
+        <userestrict> 
+            <head>Copyright</head> 
+            <p>It is the responsibility of the user to obtain permission to publish
+                from the owner of the copyright (the institution, the creator of the record,
+                the author or his/her transferees, heirs, legates, or literary executors). The
+                user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+                University of Arizona, its officers, employees, and agents from and against all
+                claims made by any person asserting that he or she is an owner of
+                copyright.
+            </p> 
+        </userestrict> 
+        <prefercite> 
+            <head>Credit Line</head> 
+            <p>Arizona Commission of Indian Affairs Records (MS 554). Special Collections, University of Arizona Libraries.</p>
+        </prefercite> 
+        <processinfo>
+            <head>Processing History</head>
+            <p>Processed by Hannivett Nabahe.</p>
+        </processinfo>
+        <bioghist encodinganalog="545"> 
+            <head>Historical Note</head> 
+            <p>Established in 1953 by the Arizona Legislature, the Arizona Commission of Indian Affairs had as its original mission to study the condition of American Indian residing in the state. Comprised of 15 members, the Commission includes 7 Indian and 2 non-Indians appointed by the Governor, and 6 others approved according to their office within the state government. The Executive Director for the Commission is also appointed by the Governor. Starting in 1986, the Commission changed mission and became the State’s liaison with Indian tribes.</p> 
+        </bioghist> 
+        <scopecontent encodinganalog="520"> 
+            <head>Scope and Content Note</head> 
+            <p>About half of the documents are bound by year and include correspondence to tribal council members and state politicians like Senator Barry Goldwater. The records include administrative documents like memos, budgets and minutes from their annual meetings and documentation on appropriation hearings, a list of members appointed by Governor Pyle, and newspaper clippings.</p> 
+        </scopecontent> 
+        <relatedmaterial encodinganalog="544"><p>Materials related to the Arizona Commission on Indian Affairs can be found in the Labriola Center (Inter Tribal Council of Arizona) and as part of the Arizona Collection (Charles F. Gritzner Papers) in the Arizona State University Libraries.at </p></relatedmaterial>
+        <controlaccess>
+            <corpname>Arizona Commission of Indian Affairs.</corpname><geogname>Arizona.</geogname><subject>Indians of North America – Arizona – Government relations.</subject><subject>Indians of North America – Arizona – History.</subject><subject>Indians of North America – Legal status, laws, etc. – Arizona .</subject><subject>Indians of North America – Politics and government.</subject></controlaccess>
+        
+        <dsc type="combined"> 
+            <head>Container List</head> 
+            <c01 level="file"> 
+               <did> 
+                  <container id="009a4faf-b7e1-466b-8ade-4a76aaf0cdc3" type="box">1</container> 
+                  <container parent="009a4faf-b7e1-466b-8ade-4a76aaf0cdc3" type="folder">1</container> 
+                   <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                   <unitdate>1954-1957</unitdate>
+               </did>
+            </c01>
+            <c01 level="file">
+               <did> 
+                  <container id="0be8fa75-fd75-4469-b4c2-677ae4a45f67" type="box">1</container> 
+                  <container parent="0be8fa75-fd75-4469-b4c2-677ae4a45f67" type="folder">2</container> 
+                   <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                  <unitdate>1958</unitdate>
+               </did>  
+            </c01>
+            <c01 level="file">
+                <did> 
+                   <container id="3ddcf65a-edc6-4320-a28d-a9467208c159" type="box">1</container> 
+                   <container parent="3ddcf65a-edc6-4320-a28d-a9467208c159" type="folder">3</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                   <unitdate>1959</unitdate>
+                </did> 
+             </c01> 
+             <c01 level="file"> 
+                <did> 
+                    <container id="ef15f6c3-1aa1-4190-956f-d65f692b7c6e" type="box">1</container> 
+                    <container parent="ef15f6c3-1aa1-4190-956f-d65f692b7c6e" type="folder">4</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1960</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did> 
+                    <container id="cff4cb48-5daa-4eab-81a0-a71573ce4d2e" type="box">1</container> 
+                    <container parent="cff4cb48-5daa-4eab-81a0-a71573ce4d2e" type="folder">5</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1961-1965</unitdate>
+                </did>  
+            </c01>
+            <c01 level="file">
+                <did> 
+                    <container id="eaf67581-1062-4544-9d37-34e3bce00333" type="box">1</container> 
+                    <container parent="eaf67581-1062-4544-9d37-34e3bce00333" type="folder">6</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1961</unitdate>
+                </did> 
+            </c01>
+            <c01 level="file"> 
+                <did> 
+                    <container id="90d6dd96-ff99-4a6a-a057-7e378358afd7" type="box">1</container> 
+                    <container parent="90d6dd96-ff99-4a6a-a057-7e378358afd7" type="folder">7</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1962</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did> 
+                    <container id="e5a51806-fa3d-4b2a-a7c4-bd6abf5086f0" type="box">1</container> 
+                    <container parent="e5a51806-fa3d-4b2a-a7c4-bd6abf5086f0" type="folder">8</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1963</unitdate>
+                </did>  
+            </c01>
+            <c01 level="file">
+                <did> 
+                    <container id="26fde1d0-21fc-41f8-9065-87becae683b4" type="box">1</container> 
+                    <container parent="26fde1d0-21fc-41f8-9065-87becae683b4" type="folder">9</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1964</unitdate>
+                </did> 
+            </c01> 
+            <c01 level="file"> 
+                <did> 
+                    <container id="9abd8a27-ed7c-49ab-9adb-a655fb37f8da" type="box">2</container> 
+                    <container parent="9abd8a27-ed7c-49ab-9adb-a655fb37f8da" type="folder">1</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1965</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did> 
+                    <container id="80d334e3-0285-4348-973d-87d954dd5f57" type="box">2</container> 
+                    <container parent="80d334e3-0285-4348-973d-87d954dd5f57" type="folder">2</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1966</unitdate>
+                </did>  
+            </c01>
+           <c01 level="file">
+                <did> 
+                    <container id="70d64f6d-0f45-4c7f-b0e7-0b607442f2d8" type="box">2</container> 
+                    <container parent="70d64f6d-0f45-4c7f-b0e7-0b607442f2d8" type="folder">3</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records</unittitle>
+                    <unitdate>1967</unitdate>
+                </did> 
+            </c01>
+            <c01 level="file"> 
+                <did> 
+                    <container id="88b7a0bf-3766-4c80-bec9-de281612fc4a" type="box">2</container> 
+                    <container parent="88b7a0bf-3766-4c80-bec9-de281612fc4a" type="folder">4</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1968</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did> 
+                    <container id="ea12178b-ce0a-4604-8a62-2585d015e8ab" type="box">2</container> 
+                    <container parent="ea12178b-ce0a-4604-8a62-2585d015e8ab" type="folder">5</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1969</unitdate>
+                </did>  
+            </c01>
+            <c01 level="file">
+                <did> 
+                    <container id="af1406eb-cc9e-4683-aebb-76e4da795998" type="box">2</container> 
+                    <container parent="af1406eb-cc9e-4683-aebb-76e4da795998" type="folder">6</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1970</unitdate>
+                </did> 
+            </c01> 
+            <c01 level="file"> 
+                <did> 
+                    <container id="a5030c2b-4a5d-4c92-ad7a-94d87dc8712b" type="box">2</container> 
+                    <container parent="a5030c2b-4a5d-4c92-ad7a-94d87dc8712b" type="folder">7</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1971</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did> 
+                    <container id="a9b024ab-6536-44ba-a769-2cc32ab09637" type="box">3</container> 
+                    <container parent="a9b024ab-6536-44ba-a769-2cc32ab09637" type="folder">1</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1972</unitdate>
+                </did>  
+            </c01>
+            <c01 level="file">
+                <did> 
+                    <container id="391e81dc-76fa-4a0e-a808-2616914bc27b" type="box">3</container> 
+                    <container parent="391e81dc-76fa-4a0e-a808-2616914bc27b" type="folder">2</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1973</unitdate>
+                </did> 
+            </c01>
+            <c01 level="file"> 
+                <did> 
+                    <container id="c3a7d999-1c1f-455c-91c5-c551f0fa7b03" type="box">3</container> 
+                    <container parent="c3a7d999-1c1f-455c-91c5-c551f0fa7b03" type="folder">3</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1974</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did> 
+                    <container id="3a9cfa89-6cab-4d89-ab37-5f780e6a40c0" type="box">3</container> 
+                    <container parent="3a9cfa89-6cab-4d89-ab37-5f780e6a40c0" type="folder">4</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1975</unitdate>
+                </did>  
+            </c01>
+            <c01 level="file">
+                <did> 
+                    <container id="ea070e91-8e6d-4f66-ab7a-f7e3926f3940" type="box">3</container> 
+                    <container parent="ea070e91-8e6d-4f66-ab7a-f7e3926f3940" type="folder">5</container> 
+                    <unittitle>Arizona Commission of Indian Affairs Records,</unittitle>
+                    <unitdate>1976</unitdate>
+                </did> 
+            </c01> 
+        </dsc> 
+    </archdesc>
+</ead>

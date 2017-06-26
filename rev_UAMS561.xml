@@ -1,0 +1,969 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+   <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+      <eadid encodinganalog="852">UAMS561</eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">TusCon Records Collection
+         		<date calendar="gregorian" certainty="approximate" era="ce" normal="1974/2014" type="inclusive">1974-2014</date>
+	 	      
+	 	       
+	 	    </titleproper>
+         	<titleproper altrender="nodisplay" type="filing"> TusCon Records Collection
+	 	   
+            </titleproper>
+	        <author>Processed by Randi Johnson.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date calendar="gregorian" era="ce" normal="2016">2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Randi Johnson. 
+            <date encodinganalog="date" era="ce" normal="20160315"> March 15, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+ 
+   <revisiondesc><change><date normal="2017-06-23">2017-06-23</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+
+   <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+      <did> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name"> TusCon Records Collection
+      		<unitdate label="Dates" normal="1974/2014" type="inclusive">1974 – 2014</unitdate>
+            
+  	     </unittitle>
+	     <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 561</unitid>
+	     <origination label="Creator"> 
+	     	<persname encodinganalog="100" source="lcnaf">De Priest, Carol</persname> </origination> 
+      	<abstract label="Abstract">The TusCon Records contains materials related to the TusCon Science Fiction Convention from its beginnings with the first convention held in 1974 up to 2014. The collection also contains materials and ephemera from various other science fiction conventions that TusCon co-founder Carol De Priest (1943 - 2015) attended. The collection is divided into two series: TusCon Convention Materials and Other Science Fiction Convention Materials.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description"><extent>6 linear feet</extent></physdesc>	 
+	     <repository label="Repository"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+   	      
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+      	<p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>TusCon Records Collection (MS 561). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Randi Johnson.</p>
+      </processinfo>
+      <bioghist encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>TusCon is an annual regional science fiction and fantasy convention held in Tucson, Arizona. Beginning in 1974, TusCon  has had a convention every year except during the years of 1977 - 1978 (referred to as TusCon 5), as both cofounders, Carol De Priest and Jim Corrick, took that time to work on IguanaCon/WorldCon in Phoenix, Arizona, The convention considers itself to be fan-oriented and has been able to bring in big names in the science fiction and fantasy community, such as Jim Butcher, Diana Gabaldon, and George R. R. Martin.</p> 
+      </bioghist> 
+      <arrangement encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into 2 series</p>	 
+         <list>
+         	<item>Series I:TusCon Materials,
+  			   <unitdate>1974-2014</unitdate></item>
+         	<item>Series II: Other Science Fiction Convention Materials,
+         		<unitdate>1972-2011</unitdate></item>
+  		   
+         </list>
+      </arrangement> 
+      <scopecontent encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>The collection (1974-2014), contains materials including convention programs, agendas, badges, pins, newspaper clippings, and correspondence related to the convention as well as other nearby science fiction conventions including IguanaCon, LepreCon, and L.A. Con.</p> 
+      </scopecontent> 
+    
+      <controlaccess>
+         <persname>De Priest, Carol.</persname><subject>Science Fiction.</subject><subject>Fantasy.</subject><subject>Conventions.</subject><geogname>Tucson -- Arizona.</geogname></controlaccess>
+  
+      <dsc type="combined"> 
+         <head>Container List</head> 
+         <c01 level="series"> 
+            <did> 
+            	<unitid>Series 1</unitid>
+            	<unittitle>TusCon Materials,</unittitle> 
+            	<unitdate type="inclusive"> 1974 - 2014</unitdate>
+		    </did>
+         	<scopecontent><p>Arranged chronologically, this series contains the programs, schedules, administrative paperwork, and ephemera that was collected during TusCon until 2014. Though it started out as bi-annual for the first three conventions, it eventually turned into annual conventions after TusCon 3. The majority of folders provide materials on each of these yearly conventions. However, not every convention has a folder; those conventions lacking folders still have materials for those years in Box 2, within the binders of TusCon ephemera.</p></scopecontent>
+		    <c02 level="file"> 
+               <did> 
+			      <container id="2b9c0eb0-27ef-4399-b52b-309bb5c10857" type="box">1</container> 
+			      <container parent="2b9c0eb0-27ef-4399-b52b-309bb5c10857" type="folder">1</container> 
+			      <unittitle>TusCon 1,</unittitle>
+               	<unitdate>October 25, 1974 - October 27, 1975</unitdate>
+		       </did> 
+		    </c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="75646d5c-7600-40da-bf9b-9e8c62d34643" type="box">1</container> 
+         			<container parent="75646d5c-7600-40da-bf9b-9e8c62d34643" type="folder">2</container> 
+         			<unittitle>TusCon 2,</unittitle>
+         			<unitdate>April 4, 1975 - April 6, 1975</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="806241eb-8b6f-4753-ba41-bc14f556fbec" type="box">1</container> 
+         			<container parent="806241eb-8b6f-4753-ba41-bc14f556fbec" type="folder">3</container> 
+         			<unittitle>TusCon 3,</unittitle>
+         			<unitdate>November 7, 1975 - November 10, 1975</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="edb1c5d4-cc9b-41f0-aad5-8fb89167ac31" type="box">1</container> 
+         			<container parent="edb1c5d4-cc9b-41f0-aad5-8fb89167ac31" type="folder">4</container> 
+         			<unittitle>TusCon 4,</unittitle>
+         			<unitdate>November 5, 1976 - November 8, 1976</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="8e0c42cb-4d0a-465d-8fc4-6b1d3274e2a2" type="box">1</container> 
+         			<container parent="8e0c42cb-4d0a-465d-8fc4-6b1d3274e2a2" type="folder">5</container> 
+         			<unittitle>TusCon 6,</unittitle>
+         			<unitdate>November 6, 1979 - November 9, 1979</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="3bd2f909-d2e9-420c-ae8d-fce836447277" type="box">1</container> 
+         			<container parent="3bd2f909-d2e9-420c-ae8d-fce836447277" type="folder">6</container> 
+         			<unittitle>TusCon 7,</unittitle>
+         			<unitdate>November 7, 1980 - November 9, 1980</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="97875fb7-bc9b-43bd-a55a-831f48807e4c" type="box">1</container> 
+         			<container parent="97875fb7-bc9b-43bd-a55a-831f48807e4c" type="folder">7</container> 
+         			<unittitle>TusCon 8,</unittitle>
+         			<unitdate>November 13, 1981 - November 15, 1981</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="ec94f0e1-6fae-4bc0-b191-0e65e3503059" type="box">1</container> 
+         			<container parent="ec94f0e1-6fae-4bc0-b191-0e65e3503059" type="folder">8</container> 
+         			<unittitle>TusCon 9,</unittitle>
+         			<unitdate>November 12, 1982 - November 14, 1982</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="b65f337e-1324-43c3-a9fc-5548687801a6" type="box">1</container> 
+         			<container parent="b65f337e-1324-43c3-a9fc-5548687801a6" type="folder">9</container> 
+         			<unittitle>TusCon 10,</unittitle>
+         			<unitdate>November 18, 1983 - November 20, 1983</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="0b6ad931-5b6d-48fe-978c-b0c911aea439" type="box">1</container> 
+         			<container parent="0b6ad931-5b6d-48fe-978c-b0c911aea439" type="folder">10</container> 
+         			<unittitle>TusCon 11,</unittitle>
+         			<unitdate>November 9, 1984 - November 11, 1984</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="a75bb246-a26b-4c4f-ae49-d2b8f621ec03" type="box">1</container> 
+         			<container parent="a75bb246-a26b-4c4f-ae49-d2b8f621ec03" type="folder">11</container> 
+         			<unittitle>TusCon 12,</unittitle>
+         			<unitdate>November 8, 1985 - November 10, 1985</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="34f57fd8-6fc2-4659-913f-f2dcf6032713" type="box">1</container> 
+         			<container parent="34f57fd8-6fc2-4659-913f-f2dcf6032713" type="folder">12</container> 
+         			<unittitle>TusCon 13,</unittitle>
+         			<unitdate>October 3, 1986 - October 5, 1986</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="3ac27aae-087c-4a23-be46-c8b52bda1415" type="box">1</container> 
+         			<container parent="3ac27aae-087c-4a23-be46-c8b52bda1415" type="folder">13</container> 
+         			<unittitle>TusCon 14,</unittitle>
+         			<unitdate>October 2, 1987 - October 4, 1987</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="e7f306b1-341a-4311-a49c-363d1e9fd005" type="box">1</container> 
+         			<container parent="e7f306b1-341a-4311-a49c-363d1e9fd005" type="folder">14</container> 
+         			<unittitle>TusCon 15,</unittitle>
+         			<unitdate>October 7, 1988 - October 9, 1988</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="0ee1c031-4aa8-46bf-b436-3a673ae37283" type="box">1</container> 
+         			<container parent="0ee1c031-4aa8-46bf-b436-3a673ae37283" type="folder">15</container> 
+         			<unittitle>TusCon 19,</unittitle>
+         			<unitdate>November 13, 1992 - November 15, 1992</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="6d8721fe-3c76-4785-bda5-c6d422a82d0a" type="box">1</container> 
+         			<container parent="6d8721fe-3c76-4785-bda5-c6d422a82d0a" type="folder">16</container> 
+         			<unittitle>TusCon 20,</unittitle>
+         			<unitdate>November 13, 1993 - November 14, 1993</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="53d56607-bf1b-4d22-9f23-a64f782abf03" type="box">1</container> 
+         			<container parent="53d56607-bf1b-4d22-9f23-a64f782abf03" type="folder">17</container> 
+         			<unittitle>TusCon 21,</unittitle>
+         			<unitdate>November 11, 1994 - November 13, 1994</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="7ac84a79-7737-4095-828d-c2c9052d17f0" type="box">1</container> 
+         			<container parent="7ac84a79-7737-4095-828d-c2c9052d17f0" type="folder">18</container> 
+         			<unittitle>TusCon 22,</unittitle>
+         			<unitdate>November 3, 1995 - November 5, 1995</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="adcf8745-ccc4-41c5-94e4-0728a71b26a6" type="box">1</container> 
+         			<container parent="adcf8745-ccc4-41c5-94e4-0728a71b26a6" type="folder">19</container> 
+         			<unittitle>TusCon 23,</unittitle>
+         			<unitdate>November 15, 1996 - November 17. 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="85b43f7c-32fd-4396-8b46-cb6a56c11431" type="box">1</container> 
+         			<container parent="85b43f7c-32fd-4396-8b46-cb6a56c11431" type="folder">20</container> 
+         			<unittitle>TusCon 24,</unittitle>
+         			<unitdate>November 7, 1997 - November 9, 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="008ff76f-5890-40a6-a8d3-9b61a2032fd7" type="box">1</container> 
+         			<container parent="008ff76f-5890-40a6-a8d3-9b61a2032fd7" type="folder">21</container> 
+         			<unittitle>TusCon 25,</unittitle>
+         			<unitdate>November 6, 1998 - November 8, 1998</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="5ce38bec-1d94-426c-bcba-48e29512c8f9" type="box">1</container> 
+         			<container parent="5ce38bec-1d94-426c-bcba-48e29512c8f9" type="folder">22</container> 
+         			<unittitle>TusCon 26,</unittitle>
+         			<unitdate>October 22, 1999 - October 24, 1999</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="013fcb2e-29f1-4c18-b4ca-0240d8464146" type="box">1</container> 
+         			<container parent="013fcb2e-29f1-4c18-b4ca-0240d8464146" type="folder">23</container> 
+         			<unittitle>TusCon 27,</unittitle>
+         			<unitdate>November 10, 2000 - November 12, 2000</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="576deed5-4d5c-474e-97c3-1ecdcf17d55f" type="box">1</container> 
+         			<container parent="576deed5-4d5c-474e-97c3-1ecdcf17d55f" type="folder">24</container> 
+         			<unittitle>TusCon 29,</unittitle>
+         			<unitdate>November 15, 2002 - November 17, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="6efaeb49-4ca3-4431-a23d-e3e8862f2586" type="box">1</container> 
+         			<container parent="6efaeb49-4ca3-4431-a23d-e3e8862f2586" type="folder">25</container> 
+         			<unittitle>TusCon 30,</unittitle>
+         			<unitdate>November 14, 2003 - November 16, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="95e9dba1-0c3b-4294-be2a-895b8167169d" type="box">1</container> 
+         			<container parent="95e9dba1-0c3b-4294-be2a-895b8167169d" type="folder">26</container> 
+         			<unittitle>TusCon 31,</unittitle>
+         			<unitdate>November 5, 2004 - November 7, 2004</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="d398aebb-7ca5-4032-8bf7-0635d988d639" type="box">1</container> 
+         			<container parent="d398aebb-7ca5-4032-8bf7-0635d988d639" type="folder">27</container> 
+         			<unittitle>TusCon 32,</unittitle>
+         			<unitdate>November 10, 2005 - November 12, 2005</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="de201747-837d-44a0-9cdd-aaa33ce54ea1" type="box">1</container> 
+         			<container parent="de201747-837d-44a0-9cdd-aaa33ce54ea1" type="folder">28</container> 
+         			<unittitle>TusCon 33,</unittitle>
+         			<unitdate>November 18, 2006 - November 20, 2006</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="6e6e3e5e-0a0f-4208-b9f4-2af12b56c688" type="box">1</container> 
+         			<container parent="6e6e3e5e-0a0f-4208-b9f4-2af12b56c688" type="folder">29</container> 
+         			<unittitle>TusCon 34,</unittitle>
+         			<unitdate>November 9, 2007 - November 11, 2007</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="10e73f97-1cae-42c4-bdcc-1f043050bb74" type="box">1</container> 
+         			<container parent="10e73f97-1cae-42c4-bdcc-1f043050bb74" type="folder">30</container> 
+         			<unittitle>TusCon 35,</unittitle>
+         			<unitdate>November 7, 2008 - November 9, 2008</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="cf7c11bb-3144-4a65-80a2-b9119a76499d" type="box">1</container> 
+         			<container parent="cf7c11bb-3144-4a65-80a2-b9119a76499d" type="folder">31</container> 
+         			<unittitle>TusCon 36,</unittitle>
+         			<unitdate>November 13, 2009 - November 15, 2009</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="a9da28c3-b6f6-4d62-901d-fc5115a46295" type="box">1</container> 
+         			<container parent="a9da28c3-b6f6-4d62-901d-fc5115a46295" type="folder">32</container> 
+         			<unittitle>TusCon 37,</unittitle>
+         			<unitdate>November 12, 2010 - November 14, 2010</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="5eb0deb7-a0cd-4bb6-b103-c66b67103a7a" type="box">1</container> 
+         			<container parent="5eb0deb7-a0cd-4bb6-b103-c66b67103a7a" type="folder">33</container> 
+         			<unittitle>TusCon 38,</unittitle>
+         			<unitdate>November 11, 2011 - November 13, 2011</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="6b08cf5e-0e45-4faa-a1b8-0e1dd358ecd4" type="box">1</container> 
+         			<container parent="6b08cf5e-0e45-4faa-a1b8-0e1dd358ecd4" type="folder">34</container> 
+         			<unittitle>TusCon 39,</unittitle>
+         			<unitdate>November 9, 2012 - November 11, 2012</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="75269cf7-afee-413a-87c7-e2f51bfb749c" type="box">1</container> 
+         			<container parent="75269cf7-afee-413a-87c7-e2f51bfb749c" type="folder">35</container> 
+         			<unittitle>TusCon 40,</unittitle>
+         			<unitdate>November 8, 2013 - November 10, 2013</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="844678ae-527d-4cce-8fd9-c42cc0268c1e" type="box">1</container> 
+         			<container parent="844678ae-527d-4cce-8fd9-c42cc0268c1e" type="folder">36</container> 
+         			<unittitle>TusCon 41,</unittitle>
+         			<unitdate>October 31, 2014 - November 2, 2014</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="ae3b0d8a-11f7-455b-86df-070b3756028a" type="box">1</container> 
+         			<container parent="ae3b0d8a-11f7-455b-86df-070b3756028a" type="folder">37</container> 
+         			<unittitle>TusCon Advertisement Photos,</unittitle>
+         			<unitdate>undated</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="8dcbc590-9c4f-405a-a528-3bc79c203534" type="box">1</container> 
+         			<container parent="8dcbc590-9c4f-405a-a528-3bc79c203534" type="folder">38</container> 
+         			<unittitle>TusCon Correspondence,</unittitle>
+         			<unitdate>1977 - 2014</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="90597ce5-ae21-4318-8070-46bd77e47b4b" type="box">1</container> 
+         			<container parent="90597ce5-ae21-4318-8070-46bd77e47b4b" type="folder">39</container> 
+         			<unittitle>TusCon Registration,</unittitle>
+         			<unitdate>undated</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="7d698bf3-a665-496f-913e-a09cba520249" type="box">1</container> 
+         			<container parent="7d698bf3-a665-496f-913e-a09cba520249" type="folder">40</container> 
+         			<unittitle>History of TusCon,</unittitle>
+         			<unitdate>undated</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="9b75d27b-886b-4c03-82b5-867d9d4c2937" type="box">1</container> 
+         			<container parent="9b75d27b-886b-4c03-82b5-867d9d4c2937" type="folder">41</container> 
+         			<unittitle>Miscellaneous TusCon Materials,</unittitle>
+         			<unitdate>undated</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="4509f1b8-1c3c-435f-90bb-e53ece3a3bd1" type="box">2</container> 
+         			<unittitle>Binder of TusCon 1 - 19 ephemera,</unittitle>
+         			<unitdate>1974 - 1989</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="deb02af0-174c-41ba-85ba-93dbe36357b9" type="box">2</container> 
+         			<unittitle>Binder of TusCon 20 - 39 ephemera,</unittitle>
+         			<unitdate>1990 - 2012</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="dbca6094-2ca8-49ce-8798-97734bc58710" type="box">3</container> 
+         			<unittitle>TusCon Badges and Pins,</unittitle>
+         			<unitdate> 1976 - 2012</unitdate>
+         		</did> 
+         	</c02>
+	     </c01> 
+      	<c01 level="series"> 
+      		<did> 
+      			<unitid>Series 2</unitid>
+      			<unittitle>Other Science Fiction Convention Materials,</unittitle> 
+      			<unitdate type="inclusive"> 1972 - 2011</unitdate>
+      		</did>
+      		<scopecontent><p>This series is arranged alphabetically, containing the programs, flyers, administrative paperwork, and ephemera from IguanaCon/WorldCon, a convention that Carol De Priest worked on as well as ephemera from various other Arizona-based and regional-based Science Fiction conventions that she attended, including LepreCon, L.A. Con, and CopperCon.</p></scopecontent>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="1e57a29a-f662-4a75-b42d-94b06618e71b" type="box">1</container> 
+      				<container parent="1e57a29a-f662-4a75-b42d-94b06618e71b" type="folder">42</container> 
+      				<unittitle>Anizona,</unittitle>
+      				<unitdate>March 21, 2008 - March 23, 2008</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="140d9016-1788-440d-acca-349fd366b424" type="box">1</container> 
+      				<container parent="140d9016-1788-440d-acca-349fd366b424" type="folder">43</container> 
+      				<unittitle>APA-L 381,</unittitle>
+      				<unitdate>1972</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ee6c0810-da40-4a67-9ccd-49674f89f996" type="box">1</container> 
+      				<container parent="ee6c0810-da40-4a67-9ccd-49674f89f996" type="folder">44</container> 
+      				<unittitle>ARAMCO BRATS,</unittitle>
+      				<unitdate>1991</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="9c037a08-265a-4662-ab6d-e5637cd5a019" type="box">1</container> 
+      				<container parent="9c037a08-265a-4662-ab6d-e5637cd5a019" type="folder">45</container> 
+      				<unittitle>Arizona Amateur Press Organization - AZAPA 3,</unittitle>
+      				<unitdate>July 1975</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="24683341-fd2a-44d1-9f15-70271cc1ea63" type="box">1</container> 
+      				<container parent="24683341-fd2a-44d1-9f15-70271cc1ea63" type="folder">46</container> 
+      				<unittitle>Arizona Amateur Press Organization - AZAPA 8,</unittitle>
+      				<unitdate>December 1975</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="8ff25731-938f-48b4-b77d-6c708311bcda" type="box">1</container> 
+      				<container parent="8ff25731-938f-48b4-b77d-6c708311bcda" type="folder">47</container> 
+      				<unittitle>Arizona Amateur Press Organization - AZAPA 11,</unittitle>
+      				<unitdate>Spring 1976</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="8fa70bfc-3380-4d0b-870f-d312e34a3a2c" type="box">4</container> 
+      				<container parent="8fa70bfc-3380-4d0b-870f-d312e34a3a2c" type="folder">1</container> 
+      				<unittitle>Arizona Science Fiction and Fantasy Guide,</unittitle>
+      				<unitdate>2007</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="91cd477b-11ab-4b6f-9427-abca8e7b8e90" type="box">4</container> 
+      				<container parent="91cd477b-11ab-4b6f-9427-abca8e7b8e90" type="folder">2</container> 
+      				<unittitle>Author Summaries,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="76d10f37-365c-4005-aee8-27720632bf4c" type="box">4</container> 
+      				<container parent="76d10f37-365c-4005-aee8-27720632bf4c" type="folder">3</container> 
+      				<unittitle>Autoclave,</unittitle>
+      				<unitdate>May 28, 1976 - May 31, 1976</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="7cb6dd83-3427-4bee-a4e3-8533faa0ab7d" type="box">4</container> 
+      				<container parent="7cb6dd83-3427-4bee-a4e3-8533faa0ab7d" type="folder">4</container> 
+      				<unittitle>BASFA/SASFFA,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="42860578-27eb-4154-8e62-c3dd1f21fc06" type="box">4</container> 
+      				<container parent="42860578-27eb-4154-8e62-c3dd1f21fc06" type="folder">5</container> 
+      				<unittitle>Bubonicon,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="273342aa-be5e-40bb-93e8-10751c9a25fd" type="box">4</container> 
+      				<container parent="273342aa-be5e-40bb-93e8-10751c9a25fd" type="folder">6</container> 
+      				<unittitle>CactusCon,</unittitle>
+      				<unitdate>1987</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="de37a237-b7ec-42ec-9279-981f48dfe13f" type="box">4</container> 
+      				<container parent="de37a237-b7ec-42ec-9279-981f48dfe13f" type="folder">7</container> 
+      				<unittitle>Cascadia Con,</unittitle>
+      				<unitdate>September 1, 2005 - September 5, 2005</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="0c1ecc6d-8623-477e-8ed4-48f62fa1c48f" type="box">4</container> 
+      				<container parent="0c1ecc6d-8623-477e-8ed4-48f62fa1c48f" type="folder">8</container> 
+      				<unittitle>ConComCon,</unittitle>
+      				<unitdate>June 13, 2008 - June 15, 2008</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="70ec8248-0939-4740-87f1-0ec7e514c22e" type="box">4</container> 
+      				<container parent="70ec8248-0939-4740-87f1-0ec7e514c22e" type="folder">9</container> 
+      				<unittitle>ConNotations,</unittitle>
+      				<unitdate>1993 - 1995</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="401da2e2-2341-4d8e-a7af-56691d589c45" type="box">4</container> 
+      				<container parent="401da2e2-2341-4d8e-a7af-56691d589c45" type="folder">10</container> 
+      				<unittitle>ConNotations,</unittitle>
+      				<unitdate>1996 - 1999</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="0fea3567-8ec5-4eaf-852f-89272a3eb207" type="box">4</container> 
+      				<container parent="0fea3567-8ec5-4eaf-852f-89272a3eb207" type="folder">11</container> 
+      				<unittitle>ConNotations,</unittitle>
+      				<unitdate>2000 - 2004</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="09e754e9-9070-4753-bf57-6a642fcb7a53" type="box">4</container> 
+      				<container parent="09e754e9-9070-4753-bf57-6a642fcb7a53" type="folder">12</container> 
+      				<unittitle>ConNotations,</unittitle>
+      				<unitdate>2005 - 2006</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="2a1958ba-d8b7-4484-8178-767e830151b0" type="box">4</container> 
+      				<container parent="2a1958ba-d8b7-4484-8178-767e830151b0" type="folder">13</container> 
+      				<unittitle>ConNotations,</unittitle>
+      				<unitdate>2007 - 2010</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="9ad36811-e130-45db-b1aa-fbd4276c1d2e" type="box">4</container> 
+      				<container parent="9ad36811-e130-45db-b1aa-fbd4276c1d2e" type="folder">14</container> 
+      				<unittitle>CopperCon,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="aca628c5-9484-41a9-bab7-4b721976e426" type="box">4</container> 
+      				<container parent="aca628c5-9484-41a9-bab7-4b721976e426" type="folder">15</container> 
+      				<unittitle>CoyoteCon,</unittitle>
+      				<unitdate>1999</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="c501b0de-4d38-4343-aaa1-166065246009" type="box">4</container> 
+      				<container parent="c501b0de-4d38-4343-aaa1-166065246009" type="folder">16</container> 
+      				<unittitle>DarkCon,</unittitle>
+      				<unitdate>1999 - 2010</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ac49eee4-9616-4a43-be41-e30257c3b552" type="box">4</container> 
+      				<container parent="ac49eee4-9616-4a43-be41-e30257c3b552" type="folder">17</container> 
+      				<unittitle>DesertCon,</unittitle>
+      				<unitdate>1974 - 1977</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="a4f4355e-6bbd-491a-9b56-38a985459682" type="box">4</container> 
+      				<container parent="a4f4355e-6bbd-491a-9b56-38a985459682" type="folder">18</container> 
+      				<unittitle>DisCon,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="5b291f7c-28d8-4c38-8257-379c54f6a287" type="box">4</container> 
+      				<container parent="5b291f7c-28d8-4c38-8257-379c54f6a287" type="folder">19</container> 
+      				<unittitle>FiestaCon,</unittitle>
+      				<unitdate>July 2, 2009 - July 5, 2009</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="92d33490-d59f-489f-b720-692ccca8f9c7" type="box">4</container> 
+      				<container parent="92d33490-d59f-489f-b720-692ccca8f9c7" type="folder">20</container> 
+      				<unittitle>IguanaCon,</unittitle>
+      				<unitdate>1977 - 1978</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="31053232-effb-4b82-b8a7-30bfc0bcfc3d" type="box">4</container> 
+      				<container parent="31053232-effb-4b82-b8a7-30bfc0bcfc3d" type="folder">21</container> 
+      				<unittitle>IguanaCon Administration,</unittitle>
+      				<unitdate>1977 - 1978</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="5de9f8cd-c671-4392-acf9-21b64fc5a51f" type="box">4</container> 
+      				<container parent="5de9f8cd-c671-4392-acf9-21b64fc5a51f" type="folder">22</container> 
+      				<unittitle>IguanaCon Correspondence,</unittitle>
+      				<unitdate>1977 - 1978</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="c7ca6bbe-7f2d-44d7-a2b3-253ddd1d9f41" type="box">4</container> 
+      				<container parent="c7ca6bbe-7f2d-44d7-a2b3-253ddd1d9f41" type="folder">23</container> 
+      				<unittitle>IguanaCon Correspondence,</unittitle>
+      				<unitdate>1977 - 1978</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="e5b648ec-16e0-4f98-8b11-edef4cac8632" type="box">4</container> 
+      				<container parent="e5b648ec-16e0-4f98-8b11-edef4cac8632" type="folder">24</container> 
+      				<unittitle>IguanaCon Registration,</unittitle>
+      				<unitdate>1977 - 1978</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="90756ab8-5fea-4ff3-baa6-90664023d1d0" type="box">4</container> 
+      				<container parent="90756ab8-5fea-4ff3-baa6-90664023d1d0" type="folder">25</container> 
+      				<unittitle>LA Con,</unittitle>
+      				<unitdate>August 30, 1984 - September 3, 1984</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="1cfdb0a4-7522-44bc-aa37-63a6d438d017" type="box">4</container> 
+      				<container parent="1cfdb0a4-7522-44bc-aa37-63a6d438d017" type="folder">26</container> 
+      				<unittitle>LepreCon,</unittitle>
+      				<unitdate>1978 - 2010</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="bf97f8d4-fe47-4bbd-8e4b-be32dea28ba5" type="box">4</container> 
+      				<container parent="bf97f8d4-fe47-4bbd-8e4b-be32dea28ba5" type="folder">27</container> 
+      				<unittitle>LepreCon Programs,</unittitle>
+      				<unitdate>1978 - 1996</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="c3315f3b-0951-4a75-8af3-c5814fa7806d" type="box">5</container> 
+      				<container parent="c3315f3b-0951-4a75-8af3-c5814fa7806d" type="folder">1</container> 
+      				<unittitle>Local Tucson Papers,</unittitle>
+      				<unitdate>1974</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="d571b74e-9a1b-4fe1-9be0-3211691e8c75" type="box">5</container> 
+      				<container parent="d571b74e-9a1b-4fe1-9be0-3211691e8c75" type="folder">2</container> 
+      				<unittitle>LOCUS,</unittitle>
+      				<unitdate>December 1985</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="faa47fcf-794c-45d6-9ec7-a31a70c2f408" type="box">5</container> 
+      				<container parent="faa47fcf-794c-45d6-9ec7-a31a70c2f408" type="folder">3</container> 
+      				<unittitle> Lone Star Con,</unittitle>
+      				<unitdate>1985</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="37efd07e-47ac-4a68-94b0-cc4595084ada" type="box">5</container> 
+      				<container parent="37efd07e-47ac-4a68-94b0-cc4595084ada" type="folder">4</container> 
+      				<unittitle> LosCon,</unittitle>
+      				<unitdate>1978 - 2007</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="d8aa230d-65d4-462d-93d4-f9e3a2995d76" type="box">5</container> 
+      				<container parent="d8aa230d-65d4-462d-93d4-f9e3a2995d76" type="folder">5</container> 
+      				<unittitle> MAW,</unittitle>
+      				<unitdate>1985</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="9388bac5-86e3-4f14-8d93-087dfb1f190d" type="box">5</container> 
+      				<container parent="9388bac5-86e3-4f14-8d93-087dfb1f190d" type="folder">6</container> 
+      				<unittitle> Metatheatre,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="1ae99649-7716-48fd-97f3-fa40f7e7482b" type="box">5</container> 
+      				<container parent="1ae99649-7716-48fd-97f3-fa40f7e7482b" type="folder">7</container> 
+      				<unittitle> Miscellaneous Non-TusCon Materials,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="66ce22dd-8de6-41d7-a5fb-93e3f4195232" type="box">5</container> 
+      				<container parent="66ce22dd-8de6-41d7-a5fb-93e3f4195232" type="folder">8</container> 
+      				<unittitle> Missing White Girl,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="5f85de42-c02f-45c1-bb31-daa3f143f51f" type="box">5</container> 
+      				<container parent="5f85de42-c02f-45c1-bb31-daa3f143f51f" type="folder">9</container> 
+      				<unittitle> Mountain Newsreal,</unittitle>
+      				<unitdate>March 1977</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="63dca23d-0b00-4b24-9de2-3cfd28c79f22" type="box">5</container> 
+      				<container parent="63dca23d-0b00-4b24-9de2-3cfd28c79f22" type="folder">10</container> 
+      				<unittitle> NASFIC,</unittitle>
+      				<unitdate>1987</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="f117037a-52a8-46d9-bcf6-120f299e847f" type="box">5</container> 
+      				<container parent="f117037a-52a8-46d9-bcf6-120f299e847f" type="folder">11</container> 
+      				<unittitle> North American DiscWorld Convention,</unittitle>
+      				<unitdate>September 4, 2009 - September 7, 2009</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="a69fd236-d9df-48eb-b5c6-4cca9323d758" type="box">5</container> 
+      				<container parent="a69fd236-d9df-48eb-b5c6-4cca9323d758" type="folder">12</container> 
+      				<unittitle> Notes on Conventions,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="8ede668a-7b29-4567-bc89-a44e0a0e15b2" type="box">5</container> 
+      				<container parent="8ede668a-7b29-4567-bc89-a44e0a0e15b2" type="folder">13</container> 
+      				<unittitle> Once and Future Nimrod, The</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="d93cc435-05fd-4a61-9b6b-6ce2541cd431" type="box">5</container> 
+      				<container parent="d93cc435-05fd-4a61-9b6b-6ce2541cd431" type="folder">14</container> 
+      				<unittitle> Orycon</unittitle>
+      				<unitdate> November 11, 1983 - November 13, 1983</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="0e59b536-33ab-4ac4-8739-6df2d65bad51" type="box">5</container> 
+      				<container parent="0e59b536-33ab-4ac4-8739-6df2d65bad51" type="folder">15</container> 
+      				<unittitle> Publisher Marketing</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="50ea2e81-5932-4bc6-9a27-aa7d4e838333" type="box">5</container> 
+      				<container parent="50ea2e81-5932-4bc6-9a27-aa7d4e838333" type="folder">16</container> 
+      				<unittitle>RinCon</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="e3a66be3-51e5-4f13-b160-0af25cb97390" type="box">5</container> 
+      				<container parent="e3a66be3-51e5-4f13-b160-0af25cb97390" type="folder">17</container> 
+      				<unittitle>SF Convention Register</unittitle>
+      				<unitdate>October 31, 2008 - November 2, 2008</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="d77bd582-8261-4329-bdde-7ce23b12d41d" type="box">5</container> 
+      				<container parent="d77bd582-8261-4329-bdde-7ce23b12d41d" type="folder">18</container> 
+      				<unittitle>SMOFCON</unittitle>
+      				<unitdate>1988</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="cac2d7f9-5d51-4ca1-9fea-b5fec5bb2d25" type="box">5</container> 
+      				<container parent="cac2d7f9-5d51-4ca1-9fea-b5fec5bb2d25" type="folder">19</container> 
+      				<unittitle>SolarCon</unittitle>
+      				<unitdate>April 22, 1977 - April 24, 1977</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="c9bc9914-71a2-47fe-87cb-f65aaecb5282" type="box">5</container> 
+      				<container parent="c9bc9914-71a2-47fe-87cb-f65aaecb5282" type="folder">20</container> 
+      				<unittitle>Southern Arizona Fandom News</unittitle>
+      				<unitdate>1978</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="b56173cc-239b-44d3-a054-fc4bd38a66e5" type="box">5</container> 
+      				<container parent="b56173cc-239b-44d3-a054-fc4bd38a66e5" type="folder">21</container> 
+      				<unittitle>Speculations Newsletter</unittitle>
+      				<unitdate>Fall 1981</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="d5dd651e-ae72-49ba-a5af-a95e93851215" type="box">5</container> 
+      				<container parent="d5dd651e-ae72-49ba-a5af-a95e93851215" type="folder">22</container> 
+      				<unittitle>Tucson L5 Space Society</unittitle>
+      				<unitdate>2005</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="5d743283-f62a-489f-be5e-ebc9cca5ad23" type="box">5</container> 
+      				<container parent="5d743283-f62a-489f-be5e-ebc9cca5ad23" type="folder">23</container> 
+      				<unittitle>WesterCon</unittitle>
+      				<unitdate>1973 - 1992</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="37b69128-733e-4160-9860-aefd44947087" type="box">5</container> 
+      				<container parent="37b69128-733e-4160-9860-aefd44947087" type="folder">24</container> 
+      				<unittitle>World Fantasy Awards</unittitle>
+      				<unitdate>1985</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="3699ff26-07cf-4e1f-8f0a-e35a1e0108af" type="box">5</container> 
+      				<container parent="3699ff26-07cf-4e1f-8f0a-e35a1e0108af" type="folder">25</container> 
+      				<unittitle>World Fantasy Con</unittitle>
+      				<unitdate>1998</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="0b8414dd-1e12-4a42-9c20-2ed9c66213b2" type="box">5</container> 
+      				<container parent="0b8414dd-1e12-4a42-9c20-2ed9c66213b2" type="folder">26</container> 
+      				<unittitle>World Horror Con</unittitle>
+      				<unitdate>1994 - 2008</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="6c70f9f3-6e91-482d-bfd1-7eebd3edf646" type="box">6</container> 
+      				<unittitle>Non-TusCon Badges</unittitle>
+      				<unitdate>1978 - 2011</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="5796389b-9d45-4fc5-8e83-488601733d83" type="box">7</container> 
+      				<unittitle>Non-TusCon Pins</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      	</c01>
+      </dsc> 
+   </archdesc>
+</ead>

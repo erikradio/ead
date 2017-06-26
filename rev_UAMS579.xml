@@ -1,0 +1,2904 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+   <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+      <eadid encodinganalog="852">UAMS579</eadid> 
+      <filedesc> 
+         <titlestmt> 
+            <titleproper encodinganalog="title">Richard Wormser Papers
+	 	       <date calendar="gregorian" certainty="approximate" era="ce" normal="YYYY/YYYY" type="inclusive"> 1932-1977</date>
+	 	      
+	 	       <date normal="YYYY/YYYY" type="bulk">(bulk 1934-1973)</date>
+	 	    </titleproper>
+	 	    <titleproper altrender="nodisplay" type="filing"> 
+            Wormser, Richard</titleproper>
+	        <author>Processed by Doug Welch.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date calendar="gregorian" era="ce" normal="2016">2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Doug Welch. 
+            <date encodinganalog="date" era="ce" normal="YYYYMMDD">"December 5, 2016"</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+     
+     
+   <revisiondesc><change><date normal="2017-06-23">2017-06-23</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+
+   <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+      <did> 
+         <head>Collection Summary</head> 
+  	     <unittitle encodinganalog="245" label="Collection Name"> Richard Wormser Papers
+            <unitdate label="Dates" normal="yyyy/yyyy" type="inclusive">1932-1977</unitdate>
+            <unitdate label="Dates" normal="yyyy/yyyy" type="bulk">(bulk 1934-1973)</unitdate> 
+  	     </unittitle> 
+	     <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 579</unitid>
+	     <origination label="Creator"> 
+            <persname encodinganalog="100" source="lcnaf">Richard Wormser</persname> </origination> 
+      	<abstract label="Abstract">This collection contains manuscripts and published editions of short stories, novels, film and television screenplays and relevant correspondence covering the writing career of Richard Wormser who began his career as a pulp magazine story writer and ended up a novelist who wrote screenplays for Hollywood. The genres he mostly worked in were Westerns and Mysteries.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description"><extent>11.3 Linear Feet</extent></physdesc>	 
+	     <repository label="Repository"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+   	       
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>None</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+  	     <p>Richard Wormser Papers (MS 579). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Doug Welch, 2016.</p>
+      </processinfo>
+      <bioghist encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>This collection contains manuscripts of short stories, novels, film and television screenplays and relevant correspondence covering the writing career of Richard Wormser, who began his career as a pulp magazine story writer and ended up a novelist who wrote screenplays for Hollywood. The genres he mostly worked in were Westerns and Mysteries.</p> 
+      	<p>Wormser became a writer of short stories and serialized novels for a number of the better known pulp magazines of the day including Argosy, Blue Book and Detective Fiction Weekly. As Wormser became more successful, his stories were adapted as scripts for movies and television. Wormser colorfully describes his time with the pulp magazines in his autobiography, How to Become a Complete Nonentity.</p>
+      	<p>As the US entered the Second World War, Wormser moved out west where he worked as a horseback patrolman for the Forest Service in southern California while continuing to write for magazines and Hollywood during his evenings. After the war he moved in Santa Fe before finally settling in Tubac, Arizona.</p>
+      	<p>Wormser was also asked by editors to produce informative text for encyclopedias and he had an interest in writing about culinary topics as well as the history, culture and topography of the American Southwest. Richard Wormser died in Tubac, Arizona in 1977.</p>
+      </bioghist> 
+      <arrangement encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into three series</p>	 
+         <list>
+         	<item>Series I: Manuscripts,
+         		<unitdate>1934-1975</unitdate></item>
+         	<item>Subseries 1: Titled manuscripts of fictional works,
+         		<unitdate>1934-1973</unitdate></item>
+         	<item>Subseries 2: Untitled manuscripts, 
+         		<unitdate>Undated</unitdate></item>
+         	<item>Subseries 3: Nonfiction Manuscripts,
+         		<unitdate>1955-1975</unitdate></item>
+         	<item>Subseries 4: Manuscripts related to cooking,
+         		<unitdate>1955-1969</unitdate></item>
+  		    <item>Series II: Personal and business materials,
+  			   <unitdate>1951-1977</unitdate></item>
+  		    <item>Subseries 1: Autobigraphical material,
+  			   <unitdate>1957-1977</unitdate></item>
+  		    <item>Subseries 2: Correspondence,
+  			   <unitdate>1951-1977</unitdate></item>
+         	<item>Series III: Oversized materials,
+         		<unitdate>1936-1955</unitdate></item>
+         </list>
+      </arrangement> 
+      <scopecontent encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>This collection was donated by Wormser’s widow and covers most of his career (1934-1976).</p> 
+      	<p>Series One consists of his manuscripts. The first subseries, the bulk of the collection, is composed of titled fictional stories of various length ranging from short stories to novelettes to novels as well as screenplays for film and television. Many of the manuscripts are organized with published editions of the stories in pulp magazines, complete with characteristicly lurid covers and illustrations. Titles where Wormser contributed frequently include Argosy, Bluebook, Detective Fiction Weekly, and Saturday Evening Post. Many of these manuscripts are grouped with relevant correspondence between Wormser and his literary agents detailing the ins and outs of the publishing trade.</p>
+      	<p>The second subseries consists of Wormser’s untitled manuscripts.</p>
+      	<p>Series Two consists of Wormser’s personal and business materials. Subseries one is made up of several autobiographies written at different points in his career.  Subseries two is his correspondence, mostly professional with fan letters, it is preserved in his original order.</p>
+      	<p>Series Three consists of Wormser’s published stories in large format magazines.</p>
+      </scopecontent> 
+    
+      <controlaccess>
+         <persname>Richard Wormser.</persname><subject>Authors, American – 20th Century -- Sources.</subject><genreform>Short stories</genreform><genreform>Novels</genreform><genreform>Screenplays</genreform><genreform>Correspondence</genreform><occupation>Writer</occupation></controlaccess>
+  
+      <dsc type="combined"> 
+         <head>Container List</head> 
+         <c01 level="series"> 
+            <did> 
+            	<unitid>Series 1</unitid>
+               <unittitle>Manuscripts,</unittitle> 
+			   <unitdate type="inclusive">1934-1975</unitdate>
+		    </did>
+	 	    <scopecontent><p>Folders are described by title where available, genre, format, notes (if any) and date.</p></scopecontent>
+         	<c02 level="subseries">
+         		<did> 
+         			<unitid>Subseries 1</unitid>
+         			<unittitle>Titled manuscripts of fictional works,</unittitle> 
+         			<unitdate type="inclusive">1934-1975</unitdate>
+         		</did> 
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="e9d4eaa7-7bef-4670-bb2a-30b766cd63eb" type="box">1</container> 
+         				<container parent="e9d4eaa7-7bef-4670-bb2a-30b766cd63eb" type="folder">1</container> 
+         				<unittitle>All Cooks are Crazy, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1954</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ccafef69-ffa9-4486-a150-743348a9248e" type="box">1</container> 
+         				<container parent="ccafef69-ffa9-4486-a150-743348a9248e" type="folder">2</container> 
+         				<unittitle>Amber, Treatment, Typewritten MS,</unittitle>
+         				<unitdate>1957</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="48100403-05f7-4f3d-9b39-cbd2dcd493de" type="box">1</container> 
+         				<container parent="48100403-05f7-4f3d-9b39-cbd2dcd493de" type="folder">3</container> 
+         				<unittitle>Babbling Voice, Short story, Detective Ficton Weekly,</unittitle>
+         				<unitdate>1935</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7efa0ec5-f175-43b3-bbdd-44e0bbcd4e10" type="box">1</container> 
+         				<container parent="7efa0ec5-f175-43b3-bbdd-44e0bbcd4e10" type="folder">4</container> 
+         				<unittitle>Back to Paris, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1942</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="58400d3e-8299-41f5-8ad8-03c489c426eb" type="box">1</container> 
+         				<container parent="58400d3e-8299-41f5-8ad8-03c489c426eb" type="folder">5</container> 
+         				<unittitle>The Banker, TV treatment, Typewritten MS, Treatment for "Lawman" TV series,</unittitle>
+         				<unitdate>1959</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="23c83dc8-4f6a-4fc8-9ec5-ae5acf741dbe" type="box">1</container> 
+         				<container parent="23c83dc8-4f6a-4fc8-9ec5-ae5acf741dbe" type="folder">6</container> 
+         				<unittitle>Beals Mountain, Short story, Argosy Magazine, correspondence in folder,</unittitle>
+         				<unitdate>1956</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="e2cc288b-275e-42da-b627-36049d099b15" type="box">1</container> 
+         				<container parent="e2cc288b-275e-42da-b627-36049d099b15" type="folder">7</container> 
+         				<unittitle>Beat the Drums Slowly, Novel, Typewritten MS, Damaged MS,</unittitle>
+         				<unitdate>1954</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="3ccb817f-3985-4d21-ab5d-b66039e6dabf" type="box">1</container> 
+         				<container parent="3ccb817f-3985-4d21-ab5d-b66039e6dabf" type="folder">8</container> 
+         				<unittitle>The Big County,  Short Story, Typewritten MS,</unittitle>
+         				<unitdate>1954</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1f8c7836-533c-4653-84d6-b9b5503eb343" type="box">1</container> 
+         				<container parent="1f8c7836-533c-4653-84d6-b9b5503eb343" type="folder">9</container> 
+         				<unittitle>Bigshot From Alcatraz (1 of 2), Short story, Detective Fiction Weekly,</unittitle>
+         				<unitdate>1939</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ffff8567-7df7-481e-beb7-ff2dbfaec171" type="box">1</container> 
+         				<container parent="ffff8567-7df7-481e-beb7-ff2dbfaec171" type="folder">10</container> 
+         				<unittitle>Bigshot From Alcatraz (2 of 2), Short story, Detective Fiction Weekly,</unittitle>
+         				<unitdate>1939</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ce8d9aec-4389-4169-b746-19b359c85bbc" type="box">1</container> 
+         				<container parent="ce8d9aec-4389-4169-b746-19b359c85bbc" type="folder">11</container> 
+         				<unittitle>Birthday of a Stooge, Short story, Typewritten MS,</unittitle>
+         				<unitdate>Undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ff0e8b8a-8250-4c0c-a07a-a3edf653a1e7" type="box">1</container> 
+         				<container parent="ff0e8b8a-8250-4c0c-a07a-a3edf653a1e7" type="folder">12</container> 
+         				<unittitle>The Blanket Indian, Short story, Typewritten MS, Folder also contains incomplete MS called "Politico",</unittitle>
+         				<unitdate>1954</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="0960cb35-9bcb-46fb-ab06-32dec92fe709" type="box">1</container> 
+         				<container parent="0960cb35-9bcb-46fb-ab06-32dec92fe709" type="folder">13</container> 
+         				<unittitle>Blood Brother, Novel, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1953</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ae93265b-117b-4202-9746-baffbb65e4f7" type="box">1</container> 
+         				<container parent="ae93265b-117b-4202-9746-baffbb65e4f7" type="folder">14</container> 
+         				<unittitle>Blues for a Lonely Egghead (1 of 2), Screenplay, Typewritten MS,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="b6f207e4-61f1-4430-8938-69c343165f42" type="box">1</container> 
+         				<container parent="b6f207e4-61f1-4430-8938-69c343165f42" type="folder">15</container> 
+         				<unittitle>Blues for a Lonely Egghead (2 of 2), Screenplay, Typewritten MS,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="e753c0cd-7651-40a5-94d0-4fdb7e316896" type="box">1</container> 
+         				<container parent="e753c0cd-7651-40a5-94d0-4fdb7e316896" type="folder">16</container> 
+         				<unittitle>Body in the Rain, Short story, Star Detective Magazine,</unittitle>
+         				<unitdate>1935</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="59c4be1d-ce8a-4e17-8792-fbba8d466bc1" type="box">2</container> 
+         				<container parent="59c4be1d-ce8a-4e17-8792-fbba8d466bc1" type="folder">1</container> 
+         				<unittitle>The Body Looks Familiar, Novel, Typewritten MS,</unittitle>
+         				<unitdate> 1956</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="93a4eb76-a361-4700-ace7-b6a240b04477" type="box">2</container> 
+         				<container parent="93a4eb76-a361-4700-ace7-b6a240b04477" type="folder">2</container> 
+         				<unittitle>The Body Looks Familiar (Org. The Golden Frame), Drafts, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate> 1957</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="c1fdac33-ef53-48a3-a5ab-5d2ba3efdd17" type="box">2</container> 
+         				<container parent="c1fdac33-ef53-48a3-a5ab-5d2ba3efdd17" type="folder">3</container> 
+         				<unittitle>The Bouncing Chip,  Screenplay, Typewritten MS, "77 Sunset Strip",</unittitle>
+         				<unitdate> 1958</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="edeabd7e-4d8d-4bc9-8c0f-947d24a21e1c" type="box">2</container> 
+         				<container parent="edeabd7e-4d8d-4bc9-8c0f-947d24a21e1c" type="folder">4</container> 
+         				<unittitle>Brasada Story, Treatment, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate> 1952</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a1ea2869-07e0-4732-b8c2-834879b2999b" type="box">2</container> 
+         				<container parent="a1ea2869-07e0-4732-b8c2-834879b2999b" type="folder">5</container> 
+         				<unittitle>The Brass Legend, Screenplay, Shooting script,</unittitle>
+         				<unitdate> undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="8c4484b2-a77f-4e1b-9e6b-df3f7f65e138" type="box">2</container> 
+         				<container parent="8c4484b2-a77f-4e1b-9e6b-df3f7f65e138" type="folder">6</container> 
+         				<unittitle>Break in the Journey, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="fd87865d-89a9-458d-b6e2-fad3afdaaf7e" type="box">2</container> 
+         				<container parent="fd87865d-89a9-458d-b6e2-fad3afdaaf7e" type="folder">7</container> 
+         				<unittitle>The Breaks of the Humboldt (1 of 2), Novel, Typewritten MS, book-length MS with summary of uncompleted ending,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ceaf423c-9eff-437f-942c-45a9148cda35" type="box">2</container> 
+         				<container parent="ceaf423c-9eff-437f-942c-45a9148cda35" type="folder">8</container> 
+         				<unittitle>The Breaks of the Humboldt (2 of 2), Novel, Typewritten MS,  Later published as "Slattery's Range",</unittitle>
+         				<unitdate>1956</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1967dc6d-f95b-43ef-b029-3d692e0b89f6" type="box">2</container> 
+         				<container parent="1967dc6d-f95b-43ef-b029-3d692e0b89f6" type="folder">9</container> 
+         				<unittitle>Bring'em Back Dead, Short story, Argosy Magazine, Several drafts in folder,</unittitle>
+         				<unitdate>1942</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="f0db3c3f-1d72-42e3-bc59-23907632bcd8" type="box">2</container> 
+         				<container parent="f0db3c3f-1d72-42e3-bc59-23907632bcd8" type="folder">10</container> 
+         				<unittitle>Bringing in the Bandit, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="141c2db5-240a-46b5-ab06-289c5b17f729" type="box">2</container> 
+         				<container parent="141c2db5-240a-46b5-ab06-289c5b17f729" type="folder">11</container> 
+         				<unittitle>Brink of Fear, TV script, Shooting script, "Sugarfoot" TV series,</unittitle>
+         				<unitdate>1958</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="f4b1df38-f5af-4fbf-ae33-1e6bd4999b83" type="box">2</container> 
+         				<container parent="f4b1df38-f5af-4fbf-ae33-1e6bd4999b83" type="folder">12</container> 
+         				<unittitle>The Burning Herd, Short story, Typewritten MS, Written during his NYC years,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="00e9556a-54d8-44f1-8baf-46d078df1eb4" type="box">2</container> 
+         				<container parent="00e9556a-54d8-44f1-8baf-46d078df1eb4" type="folder">13</container> 
+         				<unittitle>Busy Day, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="6720a004-462f-4804-a079-8cad880bc74d" type="box">2</container> 
+         				<container parent="6720a004-462f-4804-a079-8cad880bc74d" type="folder">14</container> 
+         				<unittitle>Buzz Saw (1 of 2), Short story, Bluebook Magazine,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="4cb997a2-4f72-4ab3-ae01-e1a51d98de26" type="box">2</container> 
+         				<container parent="4cb997a2-4f72-4ab3-ae01-e1a51d98de26" type="folder">15</container> 
+         				<unittitle>Buzz Saw (2 of 2), Correspondence and Story,</unittitle>
+         				<unitdate>1954</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1448f2f0-615a-4ec1-a6f4-73ea3b7f49cf" type="box">2</container> 
+         				<container parent="1448f2f0-615a-4ec1-a6f4-73ea3b7f49cf" type="folder">16</container> 
+         				<unittitle>By Any Other Name, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="9bbe692d-4caa-47d3-a570-0e8d60425c72" type="box">3</container> 
+         				<container parent="9bbe692d-4caa-47d3-a570-0e8d60425c72" type="folder">1</container> 
+         				<unittitle>Camels on the Sage, Novelette, Argosy Magazine,</unittitle>
+         				<unitdate>1942</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="4d216aa7-d28c-4867-a4cc-2e1e4ecd6093" type="box">3</container> 
+         				<container parent="4d216aa7-d28c-4867-a4cc-2e1e4ecd6093" type="folder">2</container> 
+         				<unittitle>Captain Boss-buster, Short story, Detective Action Stories,</unittitle>
+         				<unitdate>1937</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ab324a4e-f786-49a3-94b0-05b7c3b6dbdb" type="box">3</container> 
+         				<container parent="ab324a4e-f786-49a3-94b0-05b7c3b6dbdb" type="folder">3</container> 
+         				<unittitle>Captain Retires, Short story, Bluebook Magazine,</unittitle>
+         				<unitdate>1938</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="25114cdf-1e66-4333-8793-3fef5c6e0d29" type="box">3</container> 
+         				<container parent="25114cdf-1e66-4333-8793-3fef5c6e0d29" type="folder">4</container> 
+         				<unittitle>Carnival Queen (1 of 2), Short story, Typewritten MS, SSs: Merry Go-Round Broke Down; McNally  &amp; the Executive Lion; Manhattan Quail; Gorilla Cargo,</unittitle>
+         				<unitdate>1936</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="59974d29-d6a0-4c3c-8c03-5c281bbaee66" type="box">3</container> 
+         				<container parent="59974d29-d6a0-4c3c-8c03-5c281bbaee66" type="folder">5</container> 
+         				<unittitle>Carnival Queen (2 of 2), Serialized Story, Argosy Magazine,</unittitle>
+         				<unitdate>1937</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="01106bb8-a822-4e68-a52e-3d20a4bf6cc4" type="box">3</container> 
+         				<container parent="01106bb8-a822-4e68-a52e-3d20a4bf6cc4" type="folder">6</container> 
+         				<unittitle>Change of Address, Novel, Typewritten MS,</unittitle>
+         				<unitdate>1973</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="f6a3380e-2864-4088-922e-eaaffb0af27f" type="box">3</container> 
+         				<container parent="f6a3380e-2864-4088-922e-eaaffb0af27f" type="folder">7</container> 
+         				<unittitle>Clew on the Cane, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="fb1997f2-8ee7-4ddb-b39a-2279d128d0e2" type="box">3</container> 
+         				<container parent="fb1997f2-8ee7-4ddb-b39a-2279d128d0e2" type="folder">8</container> 
+         				<unittitle>Cold Tropic Hell, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1938</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="f6fcdbc5-d6f4-44f3-9b17-b8043b7994ee" type="box">3</container> 
+         				<container parent="f6fcdbc5-d6f4-44f3-9b17-b8043b7994ee" type="folder">9</container> 
+         				<unittitle>Company Money, Short story, Saturday Evening Post, Contains several drafts as "Trouble Shooter",</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="0aa2b9c6-dc0c-455c-ac61-b60b56169620" type="box">3</container> 
+         				<container parent="0aa2b9c6-dc0c-455c-ac61-b60b56169620" type="folder">10</container> 
+         				<unittitle>Copper the Bet, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="b5d0ff9d-205b-4f72-a7e7-d313497355fd" type="box">4</container> 
+         				<container parent="b5d0ff9d-205b-4f72-a7e7-d313497355fd" type="folder">1</container> 
+         				<unittitle>Count the Dead, Screenplay, Typewritten MS,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="dfd73471-f097-4822-9592-4506f805f2ec" type="box">4</container> 
+         				<container parent="dfd73471-f097-4822-9592-4506f805f2ec" type="folder">2</container> 
+         				<unittitle>Counterpoint, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="d3781d24-947e-4b72-bc90-839c26cf9041" type="box">4</container> 
+         				<container parent="d3781d24-947e-4b72-bc90-839c26cf9041" type="folder">3</container> 
+         				<unittitle>Country Store, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1954</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="d4366039-18bf-4301-909b-309f85a45e34" type="box">4</container> 
+         				<container parent="d4366039-18bf-4301-909b-309f85a45e34" type="folder">4</container> 
+         				<unittitle>Courtship of Baptiste Brown, The, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="0825375d-74b1-4115-9a1e-2cb31c121702" type="box">4</container> 
+         				<container parent="0825375d-74b1-4115-9a1e-2cb31c121702" type="folder">5</container> 
+         				<unittitle>Crime's Tax, Short story, Detective Fiction Weekly,</unittitle>
+         				<unitdate>1936</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="3a6b754d-bc22-4c8e-ab4f-142811876c5d" type="box">4</container> 
+         				<container parent="3a6b754d-bc22-4c8e-ab4f-142811876c5d" type="folder">6</container> 
+         				<unittitle>Dark Canyon, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="0871189d-4de2-4266-a919-f977ef68f130" type="box">4</container> 
+         				<container parent="0871189d-4de2-4266-a919-f977ef68f130" type="folder">7</container> 
+         				<unittitle>The Dark Mustanger, Novel, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="dfe16762-0cdd-4f88-a015-9ed6d18a9d58" type="box">4</container> 
+         				<container parent="dfe16762-0cdd-4f88-a015-9ed6d18a9d58" type="folder">8</container> 
+         				<unittitle>The Dead Tycoon, Novel length work published in magazine,</unittitle>
+         				<unitdate>1950</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="88c7fed7-eec1-4596-be14-97c321b4f4c9" type="box">4</container> 
+         				<container parent="88c7fed7-eec1-4596-be14-97c321b4f4c9" type="folder">9</container> 
+         				<unittitle>Death Over the Riviera, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="b59c0401-36df-41db-a17d-e74ebdce6cbf" type="box">4</container> 
+         				<container parent="b59c0401-36df-41db-a17d-e74ebdce6cbf" type="folder">10</container> 
+         				<unittitle>The Deceptive Wife, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="86f78b84-13ed-4911-8663-e9c9af675c2f" type="box">4</container> 
+         				<container parent="86f78b84-13ed-4911-8663-e9c9af675c2f" type="folder">11</container> 
+         				<unittitle>Dinner Date, Short story, Typewritten MS, Several drafts in folder,</unittitle>
+         				<unitdate>1954</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="dad32474-7bf2-47e2-817f-315defee95d1" type="box">4</container> 
+         				<container parent="dad32474-7bf2-47e2-817f-315defee95d1" type="folder">12</container> 
+         				<unittitle>Double Justice, TV script, Typewritten MS, Screenplay. Treatments and multiple drafts,</unittitle>
+         				<unitdate>1956</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="c33b8407-5a7e-4141-a6b4-9fc43db6ab6a" type="box">4</container> 
+         				<container parent="c33b8407-5a7e-4141-a6b4-9fc43db6ab6a" type="folder">13</container> 
+         				<unittitle>Drought, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="f973c45b-a5ef-43fd-9954-87a76f3b337e" type="box">4</container> 
+         				<container parent="f973c45b-a5ef-43fd-9954-87a76f3b337e" type="folder">14</container> 
+         				<unittitle>Drums of Doom, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a3fc7dbd-9aaf-4800-ab33-615527191122" type="box">4</container> 
+         				<container parent="a3fc7dbd-9aaf-4800-ab33-615527191122" type="folder">15</container> 
+         				<unittitle>The Dumb Cowpoke (1 of 2), (TV), Screenplay, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ea04ab81-301f-4221-8f4f-602ed950b5df" type="box">4</container> 
+         				<container parent="ea04ab81-301f-4221-8f4f-602ed950b5df" type="folder">16</container> 
+         				<unittitle>The Dumb Cowpoke (2 of 2), Novelette, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1954</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="d695488c-8582-4bbd-9a3e-99b5647bb352" type="box">4</container> 
+         				<container parent="d695488c-8582-4bbd-9a3e-99b5647bb352" type="folder">17</container> 
+         				<unittitle>The Election at Nopal, TV script, Typewritten MS, "Cheyenne" TV show,</unittitle>
+         				<unitdate>1959</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="042b86a1-5765-4f23-b09d-84e6ec48af63" type="box">4</container> 
+         				<container parent="042b86a1-5765-4f23-b09d-84e6ec48af63" type="folder">18</container> 
+         				<unittitle>Drums of Doom, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="5df6a722-69c3-4b55-83d4-60b3acda70e1" type="box">5</container> 
+         				<container parent="5df6a722-69c3-4b55-83d4-60b3acda70e1" type="folder">1</container> 
+         				<unittitle>Elephants to Ride Upon, Short story, Typewritten MS, Multiple drafts in folder,</unittitle>
+         				<unitdate>1939</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1bd9e24f-5d68-472a-832d-673d9c760319" type="box">5</container> 
+         				<container parent="1bd9e24f-5d68-472a-832d-673d9c760319" type="folder">2</container> 
+         				<unittitle>The Fearful Heart, Novellette, Detective Fiction Weekly,</unittitle>
+         				<unitdate>1937</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="95ededdd-d3bb-45a6-a4ea-17770346ab17" type="box">5</container> 
+         				<container parent="95ededdd-d3bb-45a6-a4ea-17770346ab17" type="folder">3</container> 
+         				<unittitle>Featherfingers Takes a Drink, Film Script, Typewritten MS,</unittitle>
+         				<unitdate>1937</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="6de90036-c653-4f48-87a7-342e0e81e350" type="box">5</container> 
+         				<container parent="6de90036-c653-4f48-87a7-342e0e81e350" type="folder">4</container> 
+         				<unittitle>Fight City Hall, Story basis for TV movie, Typewritten MS, "Two-hour TV movie, possibly a series",</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="6b263b0b-4e25-4b75-8d17-5c47a6750640" type="box">5</container> 
+         				<container parent="6b263b0b-4e25-4b75-8d17-5c47a6750640" type="folder">5</container> 
+         				<unittitle>The Finger of the Law, Short story, Black Book Detective,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="c682dbf0-9af3-4ea2-be24-9bcdd1b2b084" type="box">5</container> 
+         				<container parent="c682dbf0-9af3-4ea2-be24-9bcdd1b2b084" type="folder">6</container> 
+         				<unittitle>The Fire Extinguisher, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1952</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="b6ecb5cf-e5e6-4348-9018-ff5abe788c91" type="box">5</container> 
+         				<container parent="b6ecb5cf-e5e6-4348-9018-ff5abe788c91" type="folder">7</container> 
+         				<unittitle>First Crush, Short story, Liberty Magazine,</unittitle>
+         				<unitdate>1936</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7f1264b3-2580-498d-8c60-43af36eb4b83" type="box">5</container> 
+         				<container parent="7f1264b3-2580-498d-8c60-43af36eb4b83" type="folder">8</container> 
+         				<unittitle>First Gun at the Wedding, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="388bbc4b-4909-4dad-996d-a6702a2f1d2c" type="box">5</container> 
+         				<container parent="388bbc4b-4909-4dad-996d-a6702a2f1d2c" type="folder">9</container> 
+         				<unittitle>First Lesson, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="13037dd1-4aaa-4780-9e93-0d196213203a" type="box">5</container> 
+         				<container parent="13037dd1-4aaa-4780-9e93-0d196213203a" type="folder">10</container> 
+         				<unittitle>The First Rung, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1954</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="6ae9cdc5-8d71-4203-8a01-e9959e6aee3c" type="box">5</container> 
+         				<container parent="6ae9cdc5-8d71-4203-8a01-e9959e6aee3c" type="folder">11</container> 
+         				<unittitle>Flash Flood, Short story, Cosmopolitan,</unittitle>
+         				<unitdate>1957</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="0047b423-b2dc-43f1-91fb-45233a1a1c19" type="box">5</container> 
+         				<container parent="0047b423-b2dc-43f1-91fb-45233a1a1c19" type="folder">12</container> 
+         				<unittitle>The Flowering Apricot, Short story, Typewritten MS, another untitled MS in folder,</unittitle>
+         				<unitdate>1959</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="e0c72a72-0c05-49fa-a686-906fcbeea3b5" type="box">5</container> 
+         				<container parent="e0c72a72-0c05-49fa-a686-906fcbeea3b5" type="folder">13</container> 
+         				<unittitle>Follow Your Heart, TV script, Shooting script, "The High Chaparral" TV show,</unittitle>
+         				<unitdate>1968</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="d776ea38-9f87-4db0-9d52-70136bd4f6a3" type="box">5</container> 
+         				<container parent="d776ea38-9f87-4db0-9d52-70136bd4f6a3" type="folder">14</container> 
+         				<unittitle>Fool in the Rendez-Vous, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1b40c5a2-8f98-4eae-bb1a-dae65d244933" type="box">5</container> 
+         				<container parent="1b40c5a2-8f98-4eae-bb1a-dae65d244933" type="folder">15</container> 
+         				<unittitle>Fort Dodge Stampede, Screenplay, Shooting script, Folder contains screenplay plus correspondence re: The "Half-Breed",</unittitle>
+         				<unitdate>1951</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a1bbd732-a572-4de1-b943-318a7e5b124e" type="box">5</container> 
+         				<container parent="a1bbd732-a572-4de1-b943-318a7e5b124e" type="folder">16</container> 
+         				<unittitle>Four O'Clock, Short Story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7af82b7e-30ce-40f9-81cc-ac6f279dd0db" type="box">6</container> 
+         				<container parent="7af82b7e-30ce-40f9-81cc-ac6f279dd0db" type="folder">1</container> 
+         				<unittitle>The Framed Fish, Unfinished Novel, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1954</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="92f93d68-3495-4cab-b03e-d514bdc52d6e" type="box">6</container> 
+         				<container parent="92f93d68-3495-4cab-b03e-d514bdc52d6e" type="folder">2</container> 
+         				<unittitle>The Friend, TV script, Shooting script, "The Lawman" TV series,</unittitle>
+         				<unitdate>1959</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="aefe5310-4de5-4c75-99fc-be60388baa7a" type="box">6</container> 
+         				<container parent="aefe5310-4de5-4c75-99fc-be60388baa7a" type="folder">3</container> 
+         				<unittitle>Frontier Fury, treatment, Typewritten MS, Bound in Universal Pictures folder,</unittitle>
+         				<unitdate>1952</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="8618dcf7-16ef-4466-b1cc-9d5c5037a39f" type="box">6</container> 
+         				<container parent="8618dcf7-16ef-4466-b1cc-9d5c5037a39f" type="folder">4</container> 
+         				<unittitle>The Gang, TV script, Shooting script, "The Lawman" TV series,</unittitle>
+         				<unitdate>1960</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="92dad78b-683f-445f-b923-7c7fa03c1e51" type="box">6</container> 
+         				<container parent="92dad78b-683f-445f-b923-7c7fa03c1e51" type="folder">5</container> 
+         				<unittitle>Gentlemen's Business (Unpublished), Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="53d71923-c6c3-457d-9cf2-1f0a4e49b946" type="box">6</container> 
+         				<container parent="53d71923-c6c3-457d-9cf2-1f0a4e49b946" type="folder">6</container> 
+         				<unittitle>Ghost Town, TV script, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="c63dd930-d895-48e7-b32d-10f7c1e86125" type="box">6</container> 
+         				<container parent="c63dd930-d895-48e7-b32d-10f7c1e86125" type="folder">7</container> 
+         				<unittitle>The Girl Was Bored, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="8432d0ce-933d-4716-a378-c156fa759618" type="box">6</container> 
+         				<container parent="8432d0ce-933d-4716-a378-c156fa759618" type="folder">8</container> 
+         				<unittitle>The Goats, TV Script, Typewritten MS, Correspondence in folder, "Lassie" TV show,</unittitle>
+         				<unitdate>1956</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="d0e0d769-9116-4826-abf2-a8885f9810d8" type="box">6</container> 
+         				<container parent="d0e0d769-9116-4826-abf2-a8885f9810d8" type="folder">9</container> 
+         				<unittitle>The Gold  Plated Years, TV show treatment, Typewritten MS, "A tale of restless retirees",</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="b74064cf-8325-477e-9a8e-0df59cf89243" type="box">6</container> 
+         				<container parent="b74064cf-8325-477e-9a8e-0df59cf89243" type="folder">10</container> 
+         				<unittitle>Gone to Texas, Novel, Typewritten MS, Draft of a Novel,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="3fa14023-697e-44b6-9d68-1e0ac29c2b9b" type="box">6</container> 
+         				<container parent="3fa14023-697e-44b6-9d68-1e0ac29c2b9b" type="folder">11</container> 
+         				<unittitle>The Graves at Brian's Bench, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="b0107f8a-36d1-4433-9a76-d2b5b239e81a" type="box">6</container> 
+         				<container parent="b0107f8a-36d1-4433-9a76-d2b5b239e81a" type="folder">12</container> 
+         				<unittitle>Gunslick, Short story, Typewritten MS, Originally titled "Johnny Ride the Prairie", Correspondence in folder,</unittitle>
+         				<unitdate>1953</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a5e50f79-cf52-4d45-aa20-bc9bdd9a9d0e" type="box">6</container> 
+         				<container parent="a5e50f79-cf52-4d45-aa20-bc9bdd9a9d0e" type="folder">13</container> 
+         				<unittitle>The Hair of  Brother, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1959</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="4fa4cd5c-0fd6-4eb1-a74b-1013cbc4b27e" type="box">6</container> 
+         				<container parent="4fa4cd5c-0fd6-4eb1-a74b-1013cbc4b27e" type="folder">14</container> 
+         				<unittitle>Havoc on the Hudson, Short story, Liberty Magazine,</unittitle>
+         				<unitdate>1935</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="73301b6c-3ddd-4247-afd7-55f5fac12572" type="box">6</container> 
+         				<container parent="73301b6c-3ddd-4247-afd7-55f5fac12572" type="folder">15</container> 
+         				<unittitle>Home from the Hills, Short story, Bluebook Magazine,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ccfc4d0a-7605-4924-8f8b-c395b0e34817" type="box">7</container> 
+         				<container parent="ccfc4d0a-7605-4924-8f8b-c395b0e34817" type="folder">1</container> 
+         				<unittitle>The Honeypot, Novel, Typewritten MS,</unittitle>
+         				<unitdate>1972</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="0ffe9c90-8050-44c6-9796-79b9a8bcf75d" type="box">7</container> 
+         				<container parent="0ffe9c90-8050-44c6-9796-79b9a8bcf75d" type="folder">2</container> 
+         				<unittitle>The Honeypot (1 of 2) Novel, Typewritten MS,</unittitle>
+         				<unitdate>1972</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a4da9eaa-cc03-4a96-8b42-16d5d924583e" type="box">7</container> 
+         				<container parent="a4da9eaa-cc03-4a96-8b42-16d5d924583e" type="folder">3</container> 
+         				<unittitle>The Honeypot (2 of 2), Novel, Typewritten MS,</unittitle>
+         				<unitdate>1972</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="66e53b3d-c1ce-4a16-8929-b7f53ce794b6" type="box">7</container> 
+         				<container parent="66e53b3d-c1ce-4a16-8929-b7f53ce794b6" type="folder">4</container> 
+         				<unittitle>Hong Kong Caper, TV script, Shooting script, "77 Sunset Strip" TV show,</unittitle>
+         				<unitdate>1959</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="410af658-97ec-480f-9e6f-61bc5bfc7e25" type="box">7</container> 
+         				<container parent="410af658-97ec-480f-9e6f-61bc5bfc7e25" type="folder">5</container> 
+         				<unittitle>Honky-Tonk Street, Novelette, Typewritten MS,</unittitle>
+         				<unitdate>1956</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="11975073-890c-4c5a-b898-2b6d68742580" type="box">7</container> 
+         				<container parent="11975073-890c-4c5a-b898-2b6d68742580" type="folder">6</container> 
+         				<unittitle>Honour, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="605947af-ac29-45de-8580-4f1ed84119e1" type="box">7</container> 
+         				<container parent="605947af-ac29-45de-8580-4f1ed84119e1" type="folder">7</container> 
+         				<unittitle>A Horse at Heart, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1ad3e760-a15b-4ca5-a0d9-b24b4e0ca1f9" type="box">7</container> 
+         				<container parent="1ad3e760-a15b-4ca5-a0d9-b24b4e0ca1f9" type="folder">8</container> 
+         				<unittitle>Horse Money, Novelette, Bluebook Magazine, MS also in folder,</unittitle>
+         				<unitdate>1938</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="598f61bf-71ef-4c10-acbb-cbaca88da634" type="box">7</container> 
+         				<container parent="598f61bf-71ef-4c10-acbb-cbaca88da634" type="folder">9</container> 
+         				<unittitle>Hosteen Yazzie, Synopsis for juvenile story, Typewritten MS,</unittitle>
+         				<unitdate>1963</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="35768061-115f-4211-bf0a-080833f48d33" type="box">7</container> 
+         				<container parent="35768061-115f-4211-bf0a-080833f48d33" type="folder">10</container> 
+         				<unittitle>Hot Enough, Novel, Typewritten MS,</unittitle>
+         				<unitdate>1964</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="4fbcb811-6f10-4424-ae13-5dc6446faae8" type="box">7</container> 
+         				<container parent="4fbcb811-6f10-4424-ae13-5dc6446faae8" type="folder">11</container> 
+         				<unittitle>House of Clay, Outline, Typewritten MS,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="8b1addd8-3de7-467d-af5d-6210ac411333" type="box">7</container> 
+         				<container parent="8b1addd8-3de7-467d-af5d-6210ac411333" type="folder">12</container> 
+         				<unittitle>How Good a Detective are You?, Prose puzzles, Detective Fiction Weekly, Puzzle of the Cornered Bandits &amp; Puzzle of the Dead Sheriff,</unittitle>
+         				<unitdate>1935-1936</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="aa54b822-91c5-43ce-894c-2f5ab92325b1" type="box">8</container> 
+         				<container parent="aa54b822-91c5-43ce-894c-2f5ab92325b1" type="folder">1</container> 
+         				<unittitle>Hunch Player, Short story, Detective Story Magazine,</unittitle>
+         				<unitdate>1938</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="08d89daf-e60e-4333-8f99-83d60f9a2aa1" type="box">8</container> 
+         				<container parent="08d89daf-e60e-4333-8f99-83d60f9a2aa1" type="folder">2</container> 
+         				<unittitle>The Hunter, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1957</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="bee847df-e991-4a36-b21a-c805728e996a" type="box">8</container> 
+         				<container parent="bee847df-e991-4a36-b21a-c805728e996a" type="folder">3</container> 
+         				<unittitle>I Sell Strikes, Short Novel, Detective Fiction Weekly, Correspondence in folder,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="9a5ebea8-dbea-41d5-ae74-c1dedb6e11d9" type="box">8</container> 
+         				<container parent="9a5ebea8-dbea-41d5-ae74-c1dedb6e11d9" type="folder">4</container> 
+         				<unittitle>I'll Show You the Town, Short story, Typewritten MS, Two drafts in folder,</unittitle>
+         				<unitdate>1937</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="fdd184f5-410c-4a1c-8bb5-b64c493e9532" type="box">8</container> 
+         				<container parent="fdd184f5-410c-4a1c-8bb5-b64c493e9532" type="folder">5</container> 
+         				<unittitle>I'm No Sucker, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1937</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="4d98b5c5-08dd-4579-bd12-508860674873" type="box">8</container> 
+         				<container parent="4d98b5c5-08dd-4579-bd12-508860674873" type="folder">6</container> 
+         				<unittitle>The Isle of Yellow Girls, Short story, Argosy Magazine,</unittitle>
+         				<unitdate>1937</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="29a0556f-2121-4df8-9253-de499911e6b3" type="box">8</container> 
+         				<container parent="29a0556f-2121-4df8-9253-de499911e6b3" type="folder">7</container> 
+         				<unittitle>It Takes an Artist, Short story, Typewritten MS,</unittitle>
+         				<unitdate>circa 1945-1950</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="b34919f3-395b-4066-b496-8d74200a5b4c" type="box">8</container> 
+         				<container parent="b34919f3-395b-4066-b496-8d74200a5b4c" type="folder">8</container> 
+         				<unittitle>Jack O' Diamonds, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1954</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="bd0a9b61-6eb1-4bcf-93d5-cb22f2c79c32" type="box">8</container> 
+         				<container parent="bd0a9b61-6eb1-4bcf-93d5-cb22f2c79c32" type="folder">9</container> 
+         				<unittitle>Jeff Duane &amp; The Lady, TV script, Typewritten MS, Script for "Zane Grey Theater" TV show,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="217d9ee7-aa4a-4ca8-947c-7694d910e1fd" type="box">8</container> 
+         				<container parent="217d9ee7-aa4a-4ca8-947c-7694d910e1fd" type="folder">10</container> 
+         				<unittitle>Joe Cafferty, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="34e7dfc1-780f-455a-b82c-f570d79204b3" type="box">8</container> 
+         				<container parent="34e7dfc1-780f-455a-b82c-f570d79204b3" type="folder">11</container> 
+         				<unittitle>John Gay Makes a Killing, Short story, Cavalcade, Three MSs for John Gay Stories in folder also includes: John Gay Dons the Hood and John Gay Sells a Frame,</unittitle>
+         				<unitdate>1937</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a027c9ae-c590-4950-8bb7-822f525b6e93" type="box">8</container> 
+         				<container parent="a027c9ae-c590-4950-8bb7-822f525b6e93" type="folder">12</container> 
+         				<unittitle>Johnny Ride the Prairie, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="f01b6eca-8a72-4806-9bc4-12428dfa2198" type="box">8</container> 
+         				<container parent="f01b6eca-8a72-4806-9bc4-12428dfa2198" type="folder">13</container> 
+         				<unittitle>Junk's Worth Money, Short Story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="4210adf8-2b20-4026-8fc1-aeb60ee18ccc" type="box">8</container> 
+         				<container parent="4210adf8-2b20-4026-8fc1-aeb60ee18ccc" type="folder">14</container> 
+         				<unittitle>The Killer's Pawn, Short story, Detective Fiction Weekly,</unittitle>
+         				<unitdate>1934</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ba979274-1c4a-4254-abd2-c0c61ecb3570" type="box">8</container> 
+         				<container parent="ba979274-1c4a-4254-abd2-c0c61ecb3570" type="folder">15</container> 
+         				<unittitle>King of the Mountain, Novel, Typewritten MS</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="75e7a115-21c1-4270-9e7f-66512d31a8d4" type="box">8</container> 
+         				<container parent="75e7a115-21c1-4270-9e7f-66512d31a8d4" type="folder">16</container> 
+         				<unittitle>Kingdom by the Sea, Novel, Bluebook Magazine,</unittitle>
+         				<unitdate>1934</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="21a181cf-9860-4ab0-99ee-14b02f047f3d" type="box">8</container> 
+         				<container parent="21a181cf-9860-4ab0-99ee-14b02f047f3d" type="folder">17</container> 
+         				<unittitle>The Lady from Hooliganville, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="603f9d85-0015-4e25-b107-de266c66fb42" type="box">8</container> 
+         				<container parent="603f9d85-0015-4e25-b107-de266c66fb42" type="folder">18</container> 
+         				<unittitle>Last Stage West, Film treatment, Typewritten MS,</unittitle>
+         				<unitdate>circa 1950</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7fe1d192-6c8d-43c8-8712-22c338bc9adb" type="box">8</container> 
+         				<container parent="7fe1d192-6c8d-43c8-8712-22c338bc9adb" type="folder">19</container> 
+         				<unittitle>Let the Young Men Smoke, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1943</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a4240d99-cf4c-463c-8260-9874f477899f" type="box">9</container> 
+         				<container parent="a4240d99-cf4c-463c-8260-9874f477899f" type="folder">1</container> 
+         				<unittitle>Life Follows Art, Short story, Typewritten MS,</unittitle>
+         				<unitdate>circa 1945-1950</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="c9a8b070-979f-40e4-9e65-0383f4d64a0d" type="box">9</container> 
+         				<container parent="c9a8b070-979f-40e4-9e65-0383f4d64a0d" type="folder">2</container> 
+         				<unittitle>Life of Vernon Hathaway, Short story, Typewritten MS,</unittitle>
+         				<unitdate>circa 1945-1950</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="9243e664-dcad-40df-9d07-bffd70087754" type="box">9</container> 
+         				<container parent="9243e664-dcad-40df-9d07-bffd70087754" type="folder">3</container> 
+         				<unittitle>Live Cargo, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="50125424-a00e-4885-a95f-f3cfe7359bce" type="box">9</container> 
+         				<container parent="50125424-a00e-4885-a95f-f3cfe7359bce" type="folder">4</container> 
+         				<unittitle>Locker 911, Novelette, Manhunt Magazine, Org. Title: Fresh Start,</unittitle>
+         				<unitdate>1957</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1642f4a8-7583-400e-a74f-7bfe8aad34d6" type="box">9</container> 
+         				<container parent="1642f4a8-7583-400e-a74f-7bfe8aad34d6" type="folder">5</container> 
+         				<unittitle>Loco Killer, The, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="d18949a0-5cfb-48f1-ae3c-5f0834863eb7" type="box">9</container> 
+         				<container parent="d18949a0-5cfb-48f1-ae3c-5f0834863eb7" type="folder">6</container> 
+         				<unittitle>Lonely Lady, Pity Me, TV script, Shooting script, "77 Sunset Strip" TV show,</unittitle>
+         				<unitdate>1958</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="b48ca486-1421-4be4-a50b-67f4d7fdc8c0" type="box">9</container> 
+         				<container parent="b48ca486-1421-4be4-a50b-67f4d7fdc8c0" type="folder">7</container> 
+         				<unittitle>Long Ago and Far Away, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1956</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="b1f85ad1-e94b-476b-908e-6b1f750dea09" type="box">9</container> 
+         				<container parent="b1f85ad1-e94b-476b-908e-6b1f750dea09" type="folder">8</container> 
+         				<unittitle>The Long Twilight, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1956</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="71e774f9-cf9d-4d7f-a5a8-95c179bbf931" type="box">9</container> 
+         				<container parent="71e774f9-cf9d-4d7f-a5a8-95c179bbf931" type="folder">9</container> 
+         				<unittitle>Low Pockets, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1953</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="9b1ec91d-4144-4691-bfe6-65f068be34a3" type="box">9</container> 
+         				<container parent="9b1ec91d-4144-4691-bfe6-65f068be34a3" type="folder">10</container> 
+         				<unittitle>Lucky McNally, Short story, Argosy Magazine,</unittitle>
+         				<unitdate>1938</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="44013637-084e-4d2b-ab8e-4f60e9c92e10" type="box">9</container> 
+         				<container parent="44013637-084e-4d2b-ab8e-4f60e9c92e10" type="folder">11</container> 
+         				<unittitle>The Mabra Pinch, Short story, Black Book Detective,</unittitle>
+         				<unitdate>1936</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="4bab7c94-bbf2-4af2-84fe-25963497d936" type="box">9</container> 
+         				<container parent="4bab7c94-bbf2-4af2-84fe-25963497d936" type="folder">12</container> 
+         				<unittitle>Macbeth, Screenplay, Shooting script, Screenplay for Orson Welles' film production,</unittitle>
+         				<unitdate>1947</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="0f7a2991-555e-4e25-ba47-77b3f68b934c" type="box">9</container> 
+         				<container parent="0f7a2991-555e-4e25-ba47-77b3f68b934c" type="folder">13</container> 
+         				<unittitle>The Madrona Tree, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1953</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="52928334-1158-43e9-80d0-4c407dfb715a" type="box">9</container> 
+         				<container parent="52928334-1158-43e9-80d0-4c407dfb715a" type="folder">14</container> 
+         				<unittitle>Magoffin, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1967</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="83e0cd72-7cec-4cc3-ab2e-0bee4ca5267f" type="box">9</container> 
+         				<container parent="83e0cd72-7cec-4cc3-ab2e-0bee4ca5267f" type="folder">15</container> 
+         				<unittitle>Make Your Bet, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1943</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="c232c5b7-16ea-4626-892c-b0d43e67451b" type="box">9</container> 
+         				<container parent="c232c5b7-16ea-4626-892c-b0d43e67451b" type="folder">16</container> 
+         				<unittitle>Man Power, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1944</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="4ba0afc3-775d-4163-bc27-7115c76a432c" type="box">9</container> 
+         				<container parent="4ba0afc3-775d-4163-bc27-7115c76a432c" type="folder">17</container> 
+         				<unittitle>Man With a Shiv, Novelette, Manhunt Magazine, Correspondence in folder,</unittitle>
+         				<unitdate>1956</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7e2ec836-03c5-4b6e-8eed-44062dcd9375" type="box">9</container> 
+         				<container parent="7e2ec836-03c5-4b6e-8eed-44062dcd9375" type="folder">18</container> 
+         				<unittitle>The Manbuster, Short story, This Week,</unittitle>
+         				<unitdate>1957</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="dacaf86b-3548-47a6-a571-ee34654a29dc" type="box">9</container> 
+         				<container parent="dacaf86b-3548-47a6-a571-ee34654a29dc" type="folder">19</container> 
+         				<unittitle>Man-Eater, Screenplay, Typewritten MS,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7d4986af-d41e-4136-a866-7efe42e5a267" type="box">9</container> 
+         				<container parent="7d4986af-d41e-4136-a866-7efe42e5a267" type="folder">20</container> 
+         				<unittitle>McGlusky's Lucky Day, Novelette, Argosy Magazine,</unittitle>
+         				<unitdate>1937</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="5ca07df3-0bb3-43db-9f79-7996bf34ad25" type="box">9</container> 
+         				<container parent="5ca07df3-0bb3-43db-9f79-7996bf34ad25" type="folder">21</container> 
+         				<unittitle>McNally, I'm Afraid, Novelette, Argosy Magazine,</unittitle>
+         				<unitdate>1941</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="356721c4-b1b0-4a82-b7c4-d491acedc2a8" type="box">9</container> 
+         				<container parent="356721c4-b1b0-4a82-b7c4-d491acedc2a8" type="folder">22</container> 
+         				<unittitle>McSmith Was Right, Short story, Bluebook Magazine,</unittitle>
+         				<unitdate>1941</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="b1c7f1e6-c1a6-463a-83ed-e32228d84747" type="box">9</container> 
+         				<container parent="b1c7f1e6-c1a6-463a-83ed-e32228d84747" type="folder">23</container> 
+         				<unittitle>The Meanest Racket, Short story, Typewritten MS, "for Detective Fiction magazine",</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="0587845b-e6c4-4415-a05a-685bc836604b" type="box">10</container> 
+         				<container parent="0587845b-e6c4-4415-a05a-685bc836604b" type="folder">1</container> 
+         				<unittitle>Medals for McNally, Short story, Argosy Magazine,</unittitle>
+         				<unitdate>1938</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ce1294cc-42bc-4a0f-9084-b0efdd362301" type="box">10</container> 
+         				<container parent="ce1294cc-42bc-4a0f-9084-b0efdd362301" type="folder">2</container> 
+         				<unittitle>Medicine Man, TV script, Shooting script, "Steve Donovan- Western Marshal" TV series,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="bb7da5b8-4bb7-41f5-b468-ea3b893cd0aa" type="box">10</container> 
+         				<container parent="bb7da5b8-4bb7-41f5-b468-ea3b893cd0aa" type="folder">3</container> 
+         				<unittitle>Melody Morgan, Short story, Typewritten MS, three drafts in folder,</unittitle>
+         				<unitdate>1938</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ae513e1f-b44f-4b24-89b0-87fdbc7569ba" type="box">10</container> 
+         				<container parent="ae513e1f-b44f-4b24-89b0-87fdbc7569ba" type="folder">4</container> 
+         				<unittitle>Microphone Masquerade, Serialized Story, Radio Mirror, Novel serialized over four issues,</unittitle>
+         				<unitdate>1936</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="dd182aee-8b19-4b31-b836-f52d4272569a" type="box">10</container> 
+         				<container parent="dd182aee-8b19-4b31-b836-f52d4272569a" type="folder">5</container> 
+         				<unittitle>Mister Murder Goes to Town, Novel, Detective Tales,</unittitle>
+         				<unitdate>1949</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="e82efffc-ba9a-495e-92ef-b9fcab8d1cee" type="box">10</container> 
+         				<container parent="e82efffc-ba9a-495e-92ef-b9fcab8d1cee" type="folder">6</container> 
+         				<unittitle>Money into Thin Air, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1964</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7d912bdf-53f4-4b1c-9e82-91f2b27ddac2" type="box">10</container> 
+         				<container parent="7d912bdf-53f4-4b1c-9e82-91f2b27ddac2" type="folder">7</container> 
+         				<unittitle>Mountain Doctor, Screenplay, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="2206c450-eb51-4993-902d-827133ee2574" type="box">10</container> 
+         				<container parent="2206c450-eb51-4993-902d-827133ee2574" type="folder">8</container> 
+         				<unittitle>The Mountains, the Plains and the Time (1 of 2), Novel, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="119b107f-a95d-4cb6-829c-ef5f6aaef7c6" type="box">10</container> 
+         				<container parent="119b107f-a95d-4cb6-829c-ef5f6aaef7c6" type="folder">9</container> 
+         				<unittitle>The Mountains, the Plains and the Time (2 of 2), Novel, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="78401bdf-6a86-418b-866b-bdc927030f5d" type="box">10</container> 
+         				<container parent="78401bdf-6a86-418b-866b-bdc927030f5d" type="folder">10</container> 
+         				<unittitle>My Friend Flicka, TV script treatment, Typewritten MS, Writer's Brief included in folder,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ebe5a1bb-5e74-4ae8-a894-83da5dded0ad" type="box">11</container> 
+         				<container parent="ebe5a1bb-5e74-4ae8-a894-83da5dded0ad" type="folder">1</container> 
+         				<unittitle>Navajo Country, Novel, Typewritten MS,</unittitle>
+         				<unitdate>1964</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7c37310d-8cce-46f4-affe-6b84766cc84c" type="box">11</container> 
+         				<container parent="7c37310d-8cce-46f4-affe-6b84766cc84c" type="folder">2</container> 
+         				<unittitle>Needle Nose Mac, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1964</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1e971193-44b6-4c68-b6b2-65a5ad0fe284" type="box">11</container> 
+         				<container parent="1e971193-44b6-4c68-b6b2-65a5ad0fe284" type="folder">3</container> 
+         				<unittitle>Neurotic, The, Novel, Typewritten MS, a.k.a. The Expanse of Fear, Novel by Mrs. Wormser/Judith Gordon,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a8aaacfe-dcf8-4064-baa3-ebe7b14e5284" type="box">11</container> 
+         				<container parent="a8aaacfe-dcf8-4064-baa3-ebe7b14e5284" type="folder">4</container> 
+         				<unittitle>The New Spurs, Short story, Bluebook Magazine, Correspondence in folder,</unittitle>
+         				<unitdate>1954</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="0eeb62aa-6814-4596-b83e-3267c3b2b41b" type="box">11</container> 
+         				<container parent="0eeb62aa-6814-4596-b83e-3267c3b2b41b" type="folder">5</container> 
+         				<unittitle>Nick Carter Magazine (1 of 2), Pulp Magazine edited by Wormser,</unittitle>
+         				<unitdate>circa 1934</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ce65070c-6ca0-4065-9afd-cd66f73fc493" type="box">11</container> 
+         				<container parent="ce65070c-6ca0-4065-9afd-cd66f73fc493" type="folder">6</container> 
+         				<unittitle>Nick Carter Magazine (2 of 2), Pulp Magazine edited by Wormser,</unittitle>
+         				<unitdate>circa 1934</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="be2fccfa-b055-4b95-b41d-4964f6b774d4" type="box">11</container> 
+         				<container parent="be2fccfa-b055-4b95-b41d-4964f6b774d4" type="folder">7</container> 
+         				<unittitle>The Night Beals Mountain Burned, Short story, Argosy Magazine,</unittitle>
+         				<unitdate>1962</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="23a42c37-37ed-481a-84ed-4c49db2ba36f" type="box">11</container> 
+         				<container parent="23a42c37-37ed-481a-84ed-4c49db2ba36f" type="folder">8</container> 
+         				<unittitle>Night Call, Short story, Bluebook Magazine, Correspondence in folder,</unittitle>
+         				<unitdate>1956</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1ffa4e27-09e1-4946-8975-846ef1db1363" type="box">11</container> 
+         				<container parent="1ffa4e27-09e1-4946-8975-846ef1db1363" type="folder">9</container> 
+         				<unittitle>No Dogs Allowed, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="843d00aa-41a9-4082-b034-b34cea0ed211" type="box">11</container> 
+         				<container parent="843d00aa-41a9-4082-b034-b34cea0ed211" type="folder">10</container> 
+         				<unittitle>Old Country, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1953</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="eddf45c9-189a-4171-b279-2034ef4ff30e" type="box">11</container> 
+         				<container parent="eddf45c9-189a-4171-b279-2034ef4ff30e" type="folder">11</container> 
+         				<unittitle>Old Pumprop (1 of 2), Novel, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="bf783faa-7c04-4941-827c-99db02dd4abe" type="box">11</container> 
+         				<container parent="bf783faa-7c04-4941-827c-99db02dd4abe" type="folder">12</container> 
+         				<unittitle>Old Pumprop (2 of 2), Novel, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="da42c00f-85f4-4a0a-b5b8-c2a74c2b1d28" type="box">12</container> 
+         				<container parent="da42c00f-85f4-4a0a-b5b8-c2a74c2b1d28" type="folder">1</container> 
+         				<unittitle>Once and Again, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="dc3ea4d3-db44-4f8b-8f27-c7d4591b8579" type="box">12</container> 
+         				<container parent="dc3ea4d3-db44-4f8b-8f27-c7d4591b8579" type="folder">2</container> 
+         				<unittitle>The Outlandish Mountain, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1953</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a709caec-f541-472c-9036-d54fce1b4a8b" type="box">12</container> 
+         				<container parent="a709caec-f541-472c-9036-d54fce1b4a8b" type="folder">3</container> 
+         				<unittitle>Outside the Law, Short story, Argosy Magazine, Correspondence in folder</unittitle>
+         				<unitdate>1954</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a94115ef-04cb-4ead-accd-aa71d72ea679" type="box">12</container> 
+         				<container parent="a94115ef-04cb-4ead-accd-aa71d72ea679" type="folder">4</container> 
+         				<unittitle>The Paper World,  Novel, Typewritten MS,</unittitle>
+         				<unitdate>1952</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="cc498dbd-602a-4878-a268-14c70c365817" type="box">12</container> 
+         				<container parent="cc498dbd-602a-4878-a268-14c70c365817" type="folder">5</container> 
+         				<unittitle>The Paper World, (Copy- Fragile), Novel, Typewritten MS,</unittitle>
+         				<unitdate>1952</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="98944740-0e54-4806-beba-c3df1396eacb" type="box">12</container> 
+         				<container parent="98944740-0e54-4806-beba-c3df1396eacb" type="folder">6</container> 
+         				<unittitle>Paradise for a Dime, TV script, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="78920820-84ae-4b05-bf0f-c357b4d4ba0e" type="box">12</container> 
+         				<container parent="78920820-84ae-4b05-bf0f-c357b4d4ba0e" type="folder">7</container> 
+         				<unittitle>Paradise for a Dime (teleplay), Screenplay, Typewritten MS,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="9f24f210-29b4-421c-b2eb-a0479db2e120" type="box">12</container> 
+         				<container parent="9f24f210-29b4-421c-b2eb-a0479db2e120" type="folder">8</container> 
+         				<unittitle>Parson From Boot Hill, Short story, Adventure Magazine,</unittitle>
+         				<unitdate>1957</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="8de64fa1-a32e-4d58-ab73-c632c762008b" type="box">12</container> 
+         				<container parent="8de64fa1-a32e-4d58-ab73-c632c762008b" type="folder">9</container> 
+         				<unittitle>Pass Through Manhattan (1 of 2), Novel, Typewritten MS,</unittitle>
+         				<unitdate>1940</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="61ea53a5-f92a-4fbc-a371-765f71d0e23f" type="box">13</container> 
+         				<container parent="61ea53a5-f92a-4fbc-a371-765f71d0e23f" type="folder">1</container> 
+         				<unittitle>Pass Through Manhattan (2 of 2), Novel, Typewritten MS,</unittitle>
+         				<unitdate>1940</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="e6998eb5-c9a7-4f69-a3eb-5978f9643d53" type="box">13</container> 
+         				<container parent="e6998eb5-c9a7-4f69-a3eb-5978f9643d53" type="folder">2</container> 
+         				<unittitle>Patrol (a.k.a. Man Hunt), Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="0c4f6790-f517-4560-93e3-87ffc375b2b1" type="box">13</container> 
+         				<container parent="0c4f6790-f517-4560-93e3-87ffc375b2b1" type="folder">3</container> 
+         				<unittitle>The Peace in Anderson, Screenplay, Shooting Script,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="b5bd0a27-d4af-4acb-95d4-4a45ec985b92" type="box">13</container> 
+         				<container parent="b5bd0a27-d4af-4acb-95d4-4a45ec985b92" type="folder">4</container> 
+         				<unittitle>The Peaceful Countryside, Mystery Novelette, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="43640cef-74c9-4e50-8f76-d1f8441b7790" type="box">13</container> 
+         				<container parent="43640cef-74c9-4e50-8f76-d1f8441b7790" type="folder">5</container> 
+         				<unittitle>The Pillroller, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="941833ba-bff0-44e6-bc20-2bf13a298567" type="box">13</container> 
+         				<container parent="941833ba-bff0-44e6-bc20-2bf13a298567" type="folder">6</container> 
+         				<unittitle>A Pinch From the Grave, Short story, Black Book Detective,</unittitle>
+         				<unitdate>1936</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="bd9451e8-d428-456b-b124-c2a10fdbbd28" type="box">13</container> 
+         				<container parent="bd9451e8-d428-456b-b124-c2a10fdbbd28" type="folder">7</container> 
+         				<unittitle>Procession, Short story, Bluebook Magazine,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ae0fefd4-b1ea-4044-9142-99bfe470d468" type="box">13</container> 
+         				<container parent="ae0fefd4-b1ea-4044-9142-99bfe470d468" type="folder">8</container> 
+         				<unittitle>Programmed for Death, TV script, Shooting script, Green Hornet TV show,</unittitle>
+         				<unitdate>1966</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="9781fb67-d353-4ed6-b304-34799673e181" type="box">13</container> 
+         				<container parent="9781fb67-d353-4ed6-b304-34799673e181" type="folder">9</container> 
+         				<unittitle>The Proud Sheriff, TV script, Typewritten MS, Episode from "Cheyenne" TV show,</unittitle>
+         				<unitdate>1959</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7f955894-61c5-467e-903c-f7def760a34d" type="box">13</container> 
+         				<container parent="7f955894-61c5-467e-903c-f7def760a34d" type="folder">10</container> 
+         				<unittitle>Push Your Luck, Short story, Typewritten MS, Formerly titled "Pigeon Money",</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="143401a9-ccae-40a7-a01d-311ff0c489ab" type="box">13</container> 
+         				<container parent="143401a9-ccae-40a7-a01d-311ff0c489ab" type="folder">11</container> 
+         				<unittitle>The Quest of Willie Hunter, Screenplay, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="893a114d-c781-420d-a855-7fe4ebf7b105" type="box">13</container> 
+         				<container parent="893a114d-c781-420d-a855-7fe4ebf7b105" type="folder">12</container> 
+         				<unittitle>The Quiet Guys,  Short story, Typewritten MS,</unittitle>
+         				<unitdate>1944</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="5eb7abd0-b087-46e9-9042-e309f3482895" type="box">13</container> 
+         				<container parent="5eb7abd0-b087-46e9-9042-e309f3482895" type="folder">13</container> 
+         				<unittitle>The Racket Smashers, (Parts 1, 2, and 4), Serialized Story, Detective Fiction Weekly,</unittitle>
+         				<unitdate>1936</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="5b152c73-da42-44fb-a1b7-695e04913579" type="box">14</container> 
+         				<container parent="5b152c73-da42-44fb-a1b7-695e04913579" type="folder">1</container> 
+         				<unittitle>The Racket Smashers, (Parts 5, 6, 7 and 8), Serialized Story, Detective Fiction Weekly, correspodence in folder,</unittitle>
+         				<unitdate>1936</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="d9c34962-95d8-44dd-aeb5-2547e1c59f18" type="box">14</container> 
+         				<container parent="d9c34962-95d8-44dd-aeb5-2547e1c59f18" type="folder">2</container> 
+         				<unittitle>The Racket Smashers, (Parts 5, 6, 7 and 8), Serialized Story, Detective Fiction Weekly, correspodence in folder,</unittitle>
+         				<unitdate>1936</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="d5878ad6-084d-4802-9bae-82b2d400e7b4" type="box">14</container> 
+         				<container parent="d5878ad6-084d-4802-9bae-82b2d400e7b4" type="folder">3</container> 
+         				<unittitle>The Ranch by the Sea, (short story), Short story, Typewritten MS, Includes published version as "Kingdom by the Sea",</unittitle>
+         				<unitdate>1970</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="83cf7fe5-5ee5-4b60-975d-fa5c1a23e909" type="box">14</container> 
+         				<container parent="83cf7fe5-5ee5-4b60-975d-fa5c1a23e909" type="folder">4</container> 
+         				<unittitle>The Ranch by the Sea (1 of 2), Short story, Typewritten MS,</unittitle>
+         				<unitdate>1970</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="787e881a-0dbc-42f3-9888-329216491620" type="box">14</container> 
+         				<container parent="787e881a-0dbc-42f3-9888-329216491620" type="folder">5</container> 
+         				<unittitle>Ranch by the Sea (2 of 2), Galley draft, Typewritten MS,</unittitle>
+         				<unitdate>1970</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="6f84274a-3215-4bb0-8ab4-0104089a6b82" type="box">14</container> 
+         				<container parent="6f84274a-3215-4bb0-8ab4-0104089a6b82" type="folder">6</container> 
+         				<unittitle>The Rare Wines of Manhattan, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1957</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="43d8de10-15c2-4b86-bd7d-bd50793bb80f" type="box">14</container> 
+         				<container parent="43d8de10-15c2-4b86-bd7d-bd50793bb80f" type="folder">7</container> 
+         				<unittitle>The Red Pony, Screenplay, Shooting script,</unittitle>
+         				<unitdate>1949</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="3e5369b1-e14c-4627-ac62-2cf14f3c375f" type="box">14</container> 
+         				<container parent="3e5369b1-e14c-4627-ac62-2cf14f3c375f" type="folder">8</container> 
+         				<unittitle>Red Skies of Montana, Screenplay, Shooting script,</unittitle>
+         				<unitdate>1950</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="3b29cb83-17ea-489b-a040-c5ee7f51091a" type="box">14</container> 
+         				<container parent="3b29cb83-17ea-489b-a040-c5ee7f51091a" type="folder">9</container> 
+         				<unittitle>Reporter at Large, Short Novel, Bluebook Magazine,</unittitle>
+         				<unitdate>1941</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="aa85a4ce-5e7b-473e-b8d7-69154fccd03c" type="box">15</container> 
+         				<container parent="aa85a4ce-5e7b-473e-b8d7-69154fccd03c" type="folder">1</container> 
+         				<unittitle>The Riddle of the Redhead, Novelette, Detective Fiction Weekly,</unittitle>
+         				<unitdate>1936</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="fc588eff-9322-4b5c-ad79-216a73fa48e0" type="box">15</container> 
+         				<container parent="fc588eff-9322-4b5c-ad79-216a73fa48e0" type="folder">2</container> 
+         				<unittitle>Ride a Northbound Horse, Novel, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1964</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1c06eae2-9154-4c16-8c5d-a730b5e5228e" type="box">15</container> 
+         				<container parent="1c06eae2-9154-4c16-8c5d-a730b5e5228e" type="folder">3</container> 
+         				<unittitle>Riot at Arroyo Seco, TV script, Typewritten MS, "Cheyenne" TV show, aired Feb. 1, 1960,</unittitle>
+         				<unitdate>1959</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a3ee051c-2b29-4798-bcd4-7d05b838ee8f" type="box">15</container> 
+         				<container parent="a3ee051c-2b29-4798-bcd4-7d05b838ee8f" type="folder">4</container> 
+         				<unittitle>The Road to Carmichael's, treatment, Typewritten MS,</unittitle>
+         				<unitdate>1947</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="9ac8ba6e-8528-4647-8cbe-a99e22b913de" type="box">15</container> 
+         				<container parent="9ac8ba6e-8528-4647-8cbe-a99e22b913de" type="folder">5</container> 
+         				<unittitle>The Road to Riches, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="b855c57c-fd3c-4cb7-958c-4f53b780c906" type="box">15</container> 
+         				<container parent="b855c57c-fd3c-4cb7-958c-4f53b780c906" type="folder">6</container> 
+         				<unittitle>The Rough Hand, Novelette, Argosy Magazine,</unittitle>
+         				<unitdate>1937</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="b6be6144-e274-4526-a4bd-02f9c37318a6" type="box">15</container> 
+         				<container parent="b6be6144-e274-4526-a4bd-02f9c37318a6" type="folder">7</container> 
+         				<unittitle>The Royal Bodyguard, Novelette, All Star Adventure Fiction,</unittitle>
+         				<unitdate>1936</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="3c4cf67a-1bb9-4669-8d6d-951207d16b3c" type="box">15</container> 
+         				<container parent="3c4cf67a-1bb9-4669-8d6d-951207d16b3c" type="folder">8</container> 
+         				<unittitle>Rustlers on Horseback, Film treatment, Typewritten MS,</unittitle>
+         				<unitdate>1950</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ace46c87-6676-4597-a8d2-7b7744a06ed2" type="box">15</container> 
+         				<container parent="ace46c87-6676-4597-a8d2-7b7744a06ed2" type="folder">9</container> 
+         				<unittitle>The Sagebrush Quarter, Novel, Typewritten MS, Published as "The Lonesome Quarter",</unittitle>
+         				<unitdate>1951</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7f689d00-30d4-4949-9833-2d57dc806cab" type="box">16</container> 
+         				<container parent="7f689d00-30d4-4949-9833-2d57dc806cab" type="folder">1</container> 
+         				<unittitle>The Scalphunters, Novel, Typewritten MS, MS is severely damaged,</unittitle>
+         				<unitdate>1967</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="69da4b1b-82f9-4017-a58c-4cb39b9fd1ed" type="box">16</container> 
+         				<container parent="69da4b1b-82f9-4017-a58c-4cb39b9fd1ed" type="folder">2</container> 
+         				<unittitle>Second Wind, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1961</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="c8dedaa8-c117-4943-98be-bd83870ad8c7" type="box">16</container> 
+         				<container parent="c8dedaa8-c117-4943-98be-bd83870ad8c7" type="folder">3</container> 
+         				<unittitle>Sewed Up, Short Novel, Detective Fiction Weekly,</unittitle>
+         				<unitdate>1935</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="e9592ea6-5af7-45a6-b6f9-ba17aecf431c" type="box">16</container> 
+         				<container parent="e9592ea6-5af7-45a6-b6f9-ba17aecf431c" type="folder">4</container> 
+         				<unittitle>Shadow in Blood, Short story, Star Detective Magazine,</unittitle>
+         				<unitdate>1936</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="79dd9aaa-17c3-4d3a-ba8c-b08d80101bfc" type="box">16</container> 
+         				<container parent="79dd9aaa-17c3-4d3a-ba8c-b08d80101bfc" type="folder">5</container> 
+         				<unittitle>Shadow of a Man (Screenplay), Screenplay, Typewritten MS,</unittitle>
+         				<unitdate>1950</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="81758e12-8acb-4e0d-bb93-ceb04f4e44e5" type="box">16</container> 
+         				<container parent="81758e12-8acb-4e0d-bb93-ceb04f4e44e5" type="folder">6</container> 
+         				<unittitle>Shadow of a Man, Script, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ca990472-9744-4f2a-9808-bd1cdb877ff5" type="box">16</container> 
+         				<container parent="ca990472-9744-4f2a-9808-bd1cdb877ff5" type="folder">7</container> 
+         				<unittitle>Shadowed, Short story, Manhunt Magazine,</unittitle>
+         				<unitdate>1957</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="3a196948-2f26-4bc9-969e-19c59e30161d" type="box">16</container> 
+         				<container parent="3a196948-2f26-4bc9-969e-19c59e30161d" type="folder">8</container> 
+         				<unittitle>She May Pass Me By, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="bdccae0f-2064-4c5d-829a-69a20a0afa95" type="box">16</container> 
+         				<container parent="bdccae0f-2064-4c5d-829a-69a20a0afa95" type="folder">9</container> 
+         				<unittitle>She Was No Fat Lady, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1954</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="98be50fc-95e3-4be9-b804-35d6a0323215" type="box">16</container> 
+         				<container parent="98be50fc-95e3-4be9-b804-35d6a0323215" type="folder">10</container> 
+         				<unittitle>The Sheriff Takes a Walk, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1959</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="c51804d0-56d8-425f-bb76-9bfeacab187f" type="box">16</container> 
+         				<container parent="c51804d0-56d8-425f-bb76-9bfeacab187f" type="folder">11</container> 
+         				<unittitle>The She-Stock Drive, (1 of 2) Novel, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1b49684e-d2a5-4dd8-8001-da9d1563bde6" type="box">16</container> 
+         				<container parent="1b49684e-d2a5-4dd8-8001-da9d1563bde6" type="folder">12</container> 
+         				<unittitle>The She-Stock Drive (2 of 2), Novel, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="718aca07-b4d7-4e1a-a994-7e45748bae9a" type="box">17</container> 
+         				<container parent="718aca07-b4d7-4e1a-a994-7e45748bae9a" type="folder">1</container> 
+         				<unittitle>The She-Stock Drive, unpublished, Rough Draft, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="f703fa56-c43c-4b23-9cb5-e04202fceb30" type="box">17</container> 
+         				<container parent="f703fa56-c43c-4b23-9cb5-e04202fceb30" type="folder">2</container> 
+         				<unittitle>The Ship of Old Men, Novel, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="951c1535-43e2-482c-8897-be8e440e6fb8" type="box">17</container> 
+         				<container parent="951c1535-43e2-482c-8897-be8e440e6fb8" type="folder">3</container> 
+         				<unittitle>Shirt Tail Rancher, Script, Typewritten MS,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="19834f1f-9150-47d1-877b-406ed294d4a2" type="box">17</container> 
+         				<container parent="19834f1f-9150-47d1-877b-406ed294d4a2" type="folder">4</container> 
+         				<unittitle>Showdown Creek, Screenplay, Shooting script,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="c60c8988-940e-439b-9426-4ed437afb182" type="box">17</container> 
+         				<container parent="c60c8988-940e-439b-9426-4ed437afb182" type="folder">5</container> 
+         				<unittitle>The Silent Arrow, Treatment, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="c61df596-776e-474e-ae23-c2e6a3dac348" type="box">17</container> 
+         				<container parent="c61df596-776e-474e-ae23-c2e6a3dac348" type="folder">6</container> 
+         				<unittitle>Silver Dollar, TV Script, Typewritten MS,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="13a9dac7-8c80-4ee9-8612-1bce092ecc76" type="box">17</container> 
+         				<container parent="13a9dac7-8c80-4ee9-8612-1bce092ecc76" type="folder">7</container> 
+         				<unittitle>The Singing Cats of Siam, Short story, Argosy Magazine,</unittitle>
+         				<unitdate>1938</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="d1c074d0-67fc-41ae-91e2-31ee5d6f6540" type="box">17</container> 
+         				<container parent="d1c074d0-67fc-41ae-91e2-31ee5d6f6540" type="folder">8</container> 
+         				<unittitle>Six Superior Skirts, TV Script, final draft and working drafts, "77 Sunset Strip",</unittitle>
+         				<unitdate>1959</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="844c47e8-3bf9-4e8e-9c26-b9505efe9498" type="box">17</container> 
+         				<container parent="844c47e8-3bf9-4e8e-9c26-b9505efe9498" type="folder">9</container> 
+         				<unittitle>Slattery's Range, Novel, Typewritten MS, Originally written as "The Breaks of the Humboldt",</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a21d650c-1e3c-4913-8645-0e5578283e34" type="box">17</container> 
+         				<container parent="a21d650c-1e3c-4913-8645-0e5578283e34" type="folder">10</container> 
+         				<unittitle>Smart Sucker, Short story, Manhunt Magazine, Correspondence in folder,</unittitle>
+         				<unitdate>1957</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="2f998af2-53d9-4d3a-9806-fe6719488cb3" type="box">17</container> 
+         				<container parent="2f998af2-53d9-4d3a-9806-fe6719488cb3" type="folder">11</container> 
+         				<unittitle>So Hard to Find, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="0cb3fe50-e3fa-4c5f-b80e-e932ef826b97" type="box">17</container> 
+         				<container parent="0cb3fe50-e3fa-4c5f-b80e-e932ef826b97" type="folder">12</container> 
+         				<unittitle>Sodom and Gomorrah (1 of 2), Screenplay, Typewritten MS,</unittitle>
+         				<unitdate>1961</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="bbdc491e-bc85-4ab7-9f61-78ef84bb4063" type="box">18</container> 
+         				<container parent="bbdc491e-bc85-4ab7-9f61-78ef84bb4063" type="folder">1</container> 
+         				<unittitle>Sodom and Gomorrah (2 of 2), Screenplay, Typewritten MS,</unittitle>
+         				<unitdate>1961</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a293224e-921c-438a-9474-e4cda09cc29e" type="box">18</container> 
+         				<container parent="a293224e-921c-438a-9474-e4cda09cc29e" type="folder">2</container> 
+         				<unittitle>Sonny Boy, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="5e806b8a-7b62-4f10-a6f4-06073c845aa2" type="box">18</container> 
+         				<container parent="5e806b8a-7b62-4f10-a6f4-06073c845aa2" type="folder">3</container> 
+         				<unittitle>South for a Killer, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="9db43950-d85e-4cae-83dc-f00589b0a31a" type="box">18</container> 
+         				<container parent="9db43950-d85e-4cae-83dc-f00589b0a31a" type="folder">4</container> 
+         				<unittitle>Spider on the Trail, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1956</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="4971e982-60ce-46c3-9837-7a9fdb7dc6c9" type="box">18</container> 
+         				<container parent="4971e982-60ce-46c3-9837-7a9fdb7dc6c9" type="folder">5</container> 
+         				<unittitle>Spirit of '76, The, Short Story, Typewritten MS,</unittitle>
+         				<unitdate>1956</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="641ca242-a3fa-408b-a917-057cfc6f8597" type="box">18</container> 
+         				<container parent="641ca242-a3fa-408b-a917-057cfc6f8597" type="folder">6</container> 
+         				<unittitle>A Square Gets Around, Novel, Typewritten MS, Partial draft with correspondence,</unittitle>
+         				<unitdate>1957</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="4dcc3cd8-badb-4397-acf7-c994388b86bf" type="box">18</container> 
+         				<container parent="4dcc3cd8-badb-4397-acf7-c994388b86bf" type="folder">7</container> 
+         				<unittitle>A Square Gets Around, (fragment), Novel, Typewritten MS,</unittitle>
+         				<unitdate>1961</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="3ae179a6-1dc1-4845-bdec-c1300ebe50fe" type="box">18</container> 
+         				<container parent="3ae179a6-1dc1-4845-bdec-c1300ebe50fe" type="folder">8</container> 
+         				<unittitle>State Monument, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ac780f9c-fdab-4fc4-aa00-26dc35754d2d" type="box">18</container> 
+         				<container parent="ac780f9c-fdab-4fc4-aa00-26dc35754d2d" type="folder">9</container> 
+         				<unittitle>The Stones Cry Out, Novel, Typewritten MS, Filmed as "Let Them Live",</unittitle>
+         				<unitdate>1937</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="594e5a6c-28ed-4308-85c5-0e1fb4c4ef0c" type="box">18</container> 
+         				<container parent="594e5a6c-28ed-4308-85c5-0e1fb4c4ef0c" type="folder">10</container> 
+         				<unittitle>Story in the Stars, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="33affb71-e6ab-4a15-92b8-45310786c7ab" type="box">18</container> 
+         				<container parent="33affb71-e6ab-4a15-92b8-45310786c7ab" type="folder">11</container> 
+         				<unittitle>Sunup, Treatment, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1952</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ae2d4bfb-8c29-4bc0-b843-1c365e4bb707" type="box">18</container> 
+         				<container parent="ae2d4bfb-8c29-4bc0-b843-1c365e4bb707" type="folder">12</container> 
+         				<unittitle>Sure Shot, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1957</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1ce9d46b-e005-4e4b-aa2c-b3250043cf52" type="box">18</container> 
+         				<container parent="1ce9d46b-e005-4e4b-aa2c-b3250043cf52" type="folder">13</container> 
+         				<unittitle>Surtee, TV script, Shooting script, "The High Chaparral" TV show,</unittitle>
+         				<unitdate>1958</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="c73f8e04-8573-445b-a554-cdb786358114" type="box">18</container> 
+         				<container parent="c73f8e04-8573-445b-a554-cdb786358114" type="folder">14</container> 
+         				<unittitle>Suspicion 480, Short story, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1952</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="72704360-a1a7-4717-83ce-465b6f5137dd" type="box">18</container> 
+         				<container parent="72704360-a1a7-4717-83ce-465b6f5137dd" type="folder">15</container> 
+         				<unittitle>The Sweet Horns of Mexico, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="23413ca1-7f55-4c95-b439-1af3b70ad6ba" type="box">18</container> 
+         				<container parent="23413ca1-7f55-4c95-b439-1af3b70ad6ba" type="folder">16</container> 
+         				<unittitle>The Tattooed Sheep, Short Story, Argosy Magazine,</unittitle>
+         				<unitdate>1938</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="6903919f-84fe-46be-b33a-22a6740360f1" type="box">18</container> 
+         				<container parent="6903919f-84fe-46be-b33a-22a6740360f1" type="folder">17</container> 
+         				<unittitle>Ten Dollars, Short story, Liberty Magazine,</unittitle>
+         				<unitdate>1935</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="6ec25a1e-67f1-47a6-b3c0-44b6408df03a" type="box">19</container> 
+         				<container parent="6ec25a1e-67f1-47a6-b3c0-44b6408df03a" type="folder">1</container> 
+         				<unittitle>Ten Little Indians, TV script, Shooting script, "The High Chaparral" TV show,</unittitle>
+         				<unitdate>1968</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ae9d28ee-5aba-42e6-8493-12fba437e4f8" type="box">19</container> 
+         				<container parent="ae9d28ee-5aba-42e6-8493-12fba437e4f8" type="folder">2</container> 
+         				<unittitle>Tequila, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1952</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1a796296-dd98-4a29-9301-6b45940156bc" type="box">19</container> 
+         				<container parent="1a796296-dd98-4a29-9301-6b45940156bc" type="folder">3</container> 
+         				<unittitle>The Texas Ranger Story, Screenplay, Shooting script,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="fbb9bc47-0cb0-4da6-9481-e18df865046e" type="box">19</container> 
+         				<container parent="fbb9bc47-0cb0-4da6-9481-e18df865046e" type="folder">4</container> 
+         				<unittitle>There's an Art in It, Short story, Typewritten MS,</unittitle>
+         				<unitdate>1941</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="76e27a86-9635-41e0-995b-8ffdf97f30bc" type="box">19</container> 
+         				<container parent="76e27a86-9635-41e0-995b-8ffdf97f30bc" type="folder">5</container> 
+         				<unittitle>The Thief of Bagdad, Screenplay, Shooting script,</unittitle>
+         				<unitdate>1940</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="6cc28ffd-9834-4b98-b966-400ceb5961e3" type="box">19</container> 
+         				<container parent="6cc28ffd-9834-4b98-b966-400ceb5961e3" type="folder">6</container> 
+         				<unittitle>Thunder, Treatment and script, Typewritten MS, "Thunder" TV show episode "Summer Pasture",</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1d6b18ac-2f5a-408a-a971-f88100da16e6" type="box">19</container> 
+         				<container parent="1d6b18ac-2f5a-408a-a971-f88100da16e6" type="folder">7</container> 
+         				<unittitle>Time to Do Business, Novel, Typewritten MS,</unittitle>
+         				<unitdate>1953</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="58c69fca-6977-4427-a545-9387433d2a5f" type="box">19</container> 
+         				<container parent="58c69fca-6977-4427-a545-9387433d2a5f" type="folder">8</container> 
+         				<unittitle>To Make a Ploughshare, Short story, Typewritten MS, Two versions in this folder,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="14c64690-90f7-44c7-9ce6-31815a7e0a28" type="box">19</container> 
+         				<container parent="14c64690-90f7-44c7-9ce6-31815a7e0a28" type="folder">9</container> 
+         				<unittitle>Tornado Frances, TV script, Shooting script, "The High Chaparral" TV show,</unittitle>
+         				<unitdate>1968</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="bd077a5a-7b21-46fe-9433-e79e3e80a0dc" type="box">19</container> 
+         				<container parent="bd077a5a-7b21-46fe-9433-e79e3e80a0dc" type="folder">10</container> 
+         				<unittitle>Turntable, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ee003f78-cbcb-4081-b769-0dc102ede14c" type="box">19</container> 
+         				<container parent="ee003f78-cbcb-4081-b769-0dc102ede14c" type="folder">11</container> 
+         				<unittitle>Twisted, Short story, Detective Fiction Weekly,</unittitle>
+         				<unitdate>1935</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="f6af304c-abd2-4560-8f9b-00ac0470b9ce" type="box">19</container> 
+         				<container parent="f6af304c-abd2-4560-8f9b-00ac0470b9ce" type="folder">12</container> 
+         				<unittitle>Two Pairs to Beat, Short story, Liberty Magazine,</unittitle>
+         				<unitdate>1935</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="cf929d66-7934-48ce-a0d7-9db1952d08a7" type="box">19</container> 
+         				<container parent="cf929d66-7934-48ce-a0d7-9db1952d08a7" type="folder">13</container> 
+         				<unittitle>Two Strangers Meet, Short story, Lariat Story magazine,</unittitle>
+         				<unitdate>1934</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="8f9bb81c-1a76-42e1-8374-abb00d73662b" type="box">19</container> 
+         				<container parent="8f9bb81c-1a76-42e1-8374-abb00d73662b" type="folder">14</container> 
+         				<unittitle>Under the Crooked Cross, Short story, Bluebook Magazine,</unittitle>
+         				<unitdate>1940</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="dce0b5a6-0248-4d17-92c8-4a340e65c4de" type="box">19</container> 
+         				<container parent="dce0b5a6-0248-4d17-92c8-4a340e65c4de" type="folder">15</container> 
+         				<unittitle>Undercover, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="d8560436-2792-4fb2-bf30-690a7f472c29" type="box">19</container> 
+         				<container parent="d8560436-2792-4fb2-bf30-690a7f472c29" type="folder">16</container> 
+         				<unittitle>The Valley of Magic Men, Short story, Typewritten MS, Argosy Magazine,</unittitle>
+         				<unitdate>1937</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="de61e20a-b7de-4702-ae79-e8d107d41ca2" type="box">19</container> 
+         				<container parent="de61e20a-b7de-4702-ae79-e8d107d41ca2" type="folder">17</container> 
+         				<unittitle>Vigilante Hideout, Short story, Comic Book,</unittitle>
+         				<unitdate>circa 1950</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="38578940-4240-4fa4-814e-c0cec1d4a143" type="box">20</container> 
+         				<container parent="38578940-4240-4fa4-814e-c0cec1d4a143" type="folder">1</container> 
+         				<unittitle>The Voodoo Eagle, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a3a9a1fa-9397-4768-ba12-553c73bf373a" type="box">20</container> 
+         				<container parent="a3a9a1fa-9397-4768-ba12-553c73bf373a" type="folder">2</container> 
+         				<unittitle>Walk Your Own Path, Novel, Typewritten MS, "Navajo Boy's Book",</unittitle>
+         				<unitdate>1972</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="44d25f55-cbab-42c5-afbd-8bdc8d8d2dd2" type="box">20</container> 
+         				<container parent="44d25f55-cbab-42c5-afbd-8bdc8d8d2dd2" type="folder">3</container> 
+         				<unittitle>Walk Your Own Road (Unpublished), Novel, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="abe8819a-ef36-4fbe-b43a-3663a50488ea" type="box">20</container> 
+         				<container parent="abe8819a-ef36-4fbe-b43a-3663a50488ea" type="folder">4</container> 
+         				<unittitle>Wasteland, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="480d97fe-2484-4e34-91a2-4b85eeceaeae" type="box">20</container> 
+         				<container parent="480d97fe-2484-4e34-91a2-4b85eeceaeae" type="folder">5</container> 
+         				<unittitle>The Web, Screenplay, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="2007464a-b648-4c96-a899-37495d4727ee" type="box">20</container> 
+         				<container parent="2007464a-b648-4c96-a899-37495d4727ee" type="folder">6</container> 
+         				<unittitle>Where Time Means Nothing, Short story, Typewritten MS, Two versions in this folder,</unittitle>
+         				<unitdate>1944</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="8adda847-d2a5-4992-881e-e8599ff40e3f" type="box">20</container> 
+         				<container parent="8adda847-d2a5-4992-881e-e8599ff40e3f" type="folder">7</container> 
+         				<unittitle>Wild, Wild West, Screenplay, Typewritten MS, incomplete screenplay, folder includes  a "77 Sunset Strip" script fragment,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="c5960699-8c9b-4206-a73a-dbb672fe2ef3" type="box">20</container> 
+         				<container parent="c5960699-8c9b-4206-a73a-dbb672fe2ef3" type="folder">8</container> 
+         				<unittitle>Window in the Night, A, Short story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="fabc8909-e432-4f21-88be-89c706408eb2" type="box">20</container> 
+         				<container parent="fabc8909-e432-4f21-88be-89c706408eb2" type="folder">9</container> 
+         				<unittitle>Wrap Up the Town (Screenplay), Short Story, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ca1ff957-c737-4e1b-8a55-3826c1bd3b3a" type="box">20</container> 
+         				<container parent="ca1ff957-c737-4e1b-8a55-3826c1bd3b3a" type="folder">10</container> 
+         				<unittitle>Wrap Up the Town (1 of 2), Novel, Completed MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="3934d30d-218a-4aac-a37a-c4e16a6d4d9f" type="box">21</container> 
+         				<container parent="3934d30d-218a-4aac-a37a-c4e16a6d4d9f" type="folder">1</container> 
+         				<unittitle>Wrap Up the Town (2 of 2), Novel, Completed MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="95e19b4f-c6e1-4589-85fb-65ebb988c394" type="box">21</container> 
+         				<container parent="95e19b4f-c6e1-4589-85fb-65ebb988c394" type="folder">2</container> 
+         				<unittitle>Wyoming, Screenplay, Typewritten MS, Also contains character sketch in folder,</unittitle>
+         				<unitdate>1949</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="6f7c62e1-932d-4ad8-962e-3a61e4bde46a" type="box">21</container> 
+         				<container parent="6f7c62e1-932d-4ad8-962e-3a61e4bde46a" type="folder">3</container> 
+         				<unittitle>You Have to Learn Sometime, Long Novellette, Argosy Magazine,</unittitle>
+         				<unitdate>1935</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="3a7ed58a-a821-42be-9139-b9bea04ff8d3" type="box">21</container> 
+         				<container parent="3a7ed58a-a821-42be-9139-b9bea04ff8d3" type="folder">4</container> 
+         				<unittitle>You're in the Circus Now, Serialized Story, Argosy Magazine,</unittitle>
+         				<unitdate>1938</unitdate>
+         			</did> 
+         		</c03>
+         	</c02>
+         	<c02 level="subseries">
+         		<did> 
+         			<unitid>Subseries 2</unitid>
+         			<unittitle>Untitled manuscripts,</unittitle> 
+         			<unitdate type="inclusive">Undated</unitdate>
+         		</did> 
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7ee2595e-b3d3-41b4-b210-754eba5ecce1" type="box">22</container> 
+         				<container parent="7ee2595e-b3d3-41b4-b210-754eba5ecce1" type="folder">1</container> 
+         				<unittitle>No Title, Novel, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="35c08be6-771a-4aab-bbaa-dcc1d242e9a7" type="box">22</container> 
+         				<container parent="35c08be6-771a-4aab-bbaa-dcc1d242e9a7" type="folder">2</container> 
+         				<unittitle>No Title (337 p., incomplete) (1 of 2), book length MS, Typewritten MS,</unittitle>
+         				<unitdate>1962</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7525f836-d477-4fbd-a6e8-91d7c1b47fcc" type="box">22</container> 
+         				<container parent="7525f836-d477-4fbd-a6e8-91d7c1b47fcc" type="folder">3</container> 
+         				<unittitle>No Title (337 p., incomplete) (2 of 2), book length MS, Typewritten MS,</unittitle>
+         				<unitdate>1962</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="17b4c3d9-da84-4f15-81d3-b90ad50c2c39" type="box">22</container> 
+         				<container parent="17b4c3d9-da84-4f15-81d3-b90ad50c2c39" type="folder">4</container> 
+         				<unittitle>Title Unknown A, Novel, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="0824f03f-91ca-4f32-8c67-afbc4c5c434b" type="box">22</container> 
+         				<container parent="0824f03f-91ca-4f32-8c67-afbc4c5c434b" type="folder">5</container> 
+         				<unittitle>Title Unknown B, Novel, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="bbfce69c-0395-42dc-a756-69977b091f72" type="box">22</container> 
+         				<container parent="bbfce69c-0395-42dc-a756-69977b091f72" type="folder">6</container> 
+         				<unittitle>Title Unknown (1 of 2), Novel, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="1437f423-1043-46eb-afba-70acaf08f40c" type="box">22</container> 
+         				<container parent="1437f423-1043-46eb-afba-70acaf08f40c" type="folder">7</container> 
+         				<unittitle>Title Unknown (2 of 2), Novel, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="293c593a-2090-41cc-b076-6be1f2b9dde7" type="box">22</container> 
+         				<container parent="293c593a-2090-41cc-b076-6be1f2b9dde7" type="folder">8</container> 
+         				<unittitle>Title Unknown (possibly Southwest: the Restless Sleeper), Novel, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="8cfa1272-285f-4c7a-8d28-471deb41bd24" type="box">23</container> 
+         				<container parent="8cfa1272-285f-4c7a-8d28-471deb41bd24" type="folder">1</container> 
+         				<unittitle>Untitled (Border Book), nonfiction, Typewritten MS, This is a draft of a Southwest history book,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="3b6eb18a-0c1c-411e-9022-1f40966aa1eb" type="box">23</container> 
+         				<container parent="3b6eb18a-0c1c-411e-9022-1f40966aa1eb" type="folder">2</container> 
+         				<unittitle>Boys' Book (Untitled), Juvenile Novel, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ac371240-083c-4c12-94c4-80bf3e2c2602" type="box">23</container> 
+         				<container parent="ac371240-083c-4c12-94c4-80bf3e2c2602" type="folder">3</container> 
+         				<unittitle>MS Fragments, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7e1a8976-3f7d-416e-84eb-39f618197d6b" type="box">23</container> 
+         				<container parent="7e1a8976-3f7d-416e-84eb-39f618197d6b" type="folder">4</container> 
+         				<unittitle>Miscellaneous, Short story, Typewritten MS, Contains "Cooking with a Yunnan Steamer" and two other stories,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="239a1b18-fa3e-4aa8-951b-85be51e4adef" type="box">23</container> 
+         				<container parent="239a1b18-fa3e-4aa8-951b-85be51e4adef" type="folder">5</container> 
+         				<unittitle>Two Untitled Copies (1 Incomplete), Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="d3a99b5b-8b17-4b69-b5e5-1727cb74e575" type="box">23</container> 
+         				<container parent="d3a99b5b-8b17-4b69-b5e5-1727cb74e575" type="folder">6</container> 
+         				<unittitle>TV Misc., TV scripts, Typewritten MS, Scripts from "Rawhide" and "Death Valley Days",</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         	</c02>
+         	<c02 level="subseries">
+         		<did> 
+         			<unitid>Subseries 3</unitid>
+         			<unittitle>Nonfiction manuscripts,</unittitle> 
+         			<unitdate type="inclusive">1955-1975</unitdate>
+         		</did> 
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7ce29f6c-73dc-46f7-ae21-eb90b4fafa23" type="box">24</container> 
+         				<container parent="7ce29f6c-73dc-46f7-ae21-eb90b4fafa23" type="folder">1</container> 
+         				<unittitle>Almanac Confederates, Photocopied material, research material on Confederate fugitives for the People's Almanac,</unittitle>
+         				<unitdate>circa 1975</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="a674c5d2-3628-42c1-8890-b0eb7279dae3" type="box">24</container> 
+         				<container parent="a674c5d2-3628-42c1-8890-b0eb7279dae3" type="folder">2</container> 
+         				<unittitle>Canyons for McGraw Hill, Encyclopedia articles, Typewritten MS,</unittitle>
+         				<unitdate>1964</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="492fdcb5-b511-400a-8dc7-ba007fcf68a2" type="box">24</container> 
+         				<container parent="492fdcb5-b511-400a-8dc7-ba007fcf68a2" type="folder">3</container> 
+         				<unittitle>Handbook of Horses, Encyclopedia articles, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1958</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="e8e632eb-cba3-423e-b11b-bac6e35adb5c" type="box">24</container> 
+         				<container parent="e8e632eb-cba3-423e-b11b-bac6e35adb5c" type="folder">4</container> 
+         				<unittitle>How to Enjoy an Art Museum or Gallery, Essay, Typewritten MS, Correspondence in folder,</unittitle>
+         				<unitdate>1957</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="005c6a7b-9592-4240-a502-70f3032873b9" type="box">24</container> 
+         				<container parent="005c6a7b-9592-4240-a502-70f3032873b9" type="folder">5</container> 
+         				<unittitle>Mormon Colonies in Mexico, Encyclopedia articles, Typewritten MS, research material on Mormon settlers for the People's Almanac. Some bio info on Junius Romney,</unittitle>
+         				<unitdate>circa 1975</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="e61e064c-c1c3-45f7-a709-b800293ebdea" type="box">24</container> 
+         				<container parent="e61e064c-c1c3-45f7-a709-b800293ebdea" type="folder">6</container> 
+         				<unittitle>New Mexico, Article, Typewritten MS,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="32d02838-a58c-45f8-83ae-2dc1d2930458" type="box">24</container> 
+         				<container parent="32d02838-a58c-45f8-83ae-2dc1d2930458" type="folder">7</container> 
+         				<unittitle>Outlines (states), Encyclopedia articles, Typewritten MS, Outlines for encyclopedia articles about California and New Mexico,</unittitle>
+         				<unitdate>1961</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="f8abdbc1-2834-4654-9e2b-3f270850c9c1" type="box">24</container> 
+         				<container parent="f8abdbc1-2834-4654-9e2b-3f270850c9c1" type="folder">8</container> 
+         				<unittitle>Southwest: The Restless Sleeper (1 of 3), Monograph, Typewritten MS,</unittitle>
+         				<unitdate>1967</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="28197beb-8379-4f1c-94a7-68975e336d5f" type="box">24</container> 
+         				<container parent="28197beb-8379-4f1c-94a7-68975e336d5f" type="folder">9</container> 
+         				<unittitle>Southwest: The Restless Sleeper (2 of 3), Monograph, Typewritten MS,</unittitle>
+         				<unitdate>1967</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="0d062aba-f292-4499-a348-96909f709e24" type="box">24</container> 
+         				<container parent="0d062aba-f292-4499-a348-96909f709e24" type="folder">10</container> 
+         				<unittitle>Southwest: The Restless Sleeper (3 of 3), Monograph, Typewritten MS,</unittitle>
+         				<unitdate>1967</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="60ff1e39-3d70-471d-b599-085811ff22db" type="box">24</container> 
+         				<container parent="60ff1e39-3d70-471d-b599-085811ff22db" type="folder">11</container> 
+         				<unittitle>Trip to the Magic Rugs, Article, Typewritten MS,</unittitle>
+         				<unitdate>1962</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="dbe168be-badc-4f7e-8ed0-1b411b3103a3" type="box">24</container> 
+         				<container parent="dbe168be-badc-4f7e-8ed0-1b411b3103a3" type="folder">12</container> 
+         				<unittitle>Tubac, non-fiction book, Typewritten MS, Historical survey of Tubac, AZ</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="4c7efa7e-85b3-408f-bb5e-b0a38e79c51c" type="box">24</container> 
+         				<container parent="4c7efa7e-85b3-408f-bb5e-b0a38e79c51c" type="folder">13</container> 
+         				<unittitle>Very West, Somewhat South, Monograph, Typewritten MS, An abbreviated version of Southwest: The Restless Sleeper, </unittitle>
+         				<unitdate>1963</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="d90ae53e-ae9e-4550-b35b-83da3835a9c7" type="box">24</container> 
+         				<container parent="d90ae53e-ae9e-4550-b35b-83da3835a9c7" type="folder">14</container> 
+         				<unittitle>World on Your Table, The, Monograph, Typewritten MS, Treatise on aquariums,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         	</c02>
+         	<c02 level="subseries">
+         		<did> 
+         			<unitid>Subseries 4</unitid>
+         			<unittitle>Manuscripts on Cooking,</unittitle> 
+         			<unitdate type="inclusive">1955-1969</unitdate>
+         		</did>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="46e144b7-0239-4753-a657-c334ddb52523" type="box">25</container> 
+         				<container parent="46e144b7-0239-4753-a657-c334ddb52523" type="folder">1</container> 
+         				<unittitle>Cooking With a Silver Spoon, Cook book, Typewritten MS, "by Rosalea,"</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="527ebb6e-f638-4489-bb45-d4c0dac98cee" type="box">25</container> 
+         				<container parent="527ebb6e-f638-4489-bb45-d4c0dac98cee" type="folder">2</container> 
+         				<unittitle>How to Cook a Running Dinner, Culinary article, Typewritten MS, Sold to Ford Times,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="fbe9f976-5630-4b00-a746-48e2ee8654ae" type="box">25</container> 
+         				<container parent="fbe9f976-5630-4b00-a746-48e2ee8654ae" type="folder">3</container> 
+         				<unittitle>Southwest Cookery, Cook book, Typewritten MS, Other drafts in folder,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7620b3d5-237d-4a84-a281-dd7a9d65fb07" type="box">25</container> 
+         				<container parent="7620b3d5-237d-4a84-a281-dd7a9d65fb07" type="folder">4</container> 
+         				<unittitle>Southwest Cookery, or At Home on the Range, Cook book, Typewritten MS, possibly gallery drafts,</unittitle>
+         				<unitdate>1969</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="671d5919-039f-414b-9924-ee3fa29e9d61" type="box">25</container> 
+         				<container parent="671d5919-039f-414b-9924-ee3fa29e9d61" type="folder">5</container> 
+         				<unittitle>Use Pluck in the Kitchen, Cooking article, Typewritten MS, submission to Gourmet Magazine,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="459a7d00-f3ef-4c39-9d3e-1e4c4aa75dc1" type="box">25</container> 
+         				<container parent="459a7d00-f3ef-4c39-9d3e-1e4c4aa75dc1" type="folder">6</container> 
+         				<unittitle>You Gotta Have Gout, Cooking article, Typewritten MS,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         	</c02>
+	     </c01> 
+         <c01 level="series"> 
+            <did> 
+            	<unitid>Series 2</unitid>
+            	<unittitle>Personal and Business Materials,</unittitle> 
+			   <unitdate type="inclusive">1951-1977</unitdate>
+		    </did>
+		    <scopecontent><p>These are the personal and business papers of Richard Wormser. They comprise his autobiographical material and his business correspondence.</p></scopecontent>
+		    <c02 level="subseries">
+		       <did> 
+		       	<unitid>Subseries 1</unitid>
+			      <unittitle>Autobiographical material,</unittitle> 
+			      <unitdate type="inclusive">1957-1967</unitdate>
+			   </did> 
+			   <scopecontent><p>This subseries is a group of autobiographies Wormser wrote at different points in his career as well as a few attempts at longer forms of autobiography. Among the latter are "How to become a Complete Nonentity" and "Worlds" which give a vivid portrait of life in the Jewish community of the Upper West Side in the early 20th Century and a colorful portrayal of the magazine trade during the Great Depression.</p></scopecontent>
+		       <c03 level="file"> 
+			      <did> 
+			         <container id="3071f638-a2d4-4507-b8f1-40b344aba080" type="box">26</container> 
+				     <container parent="3071f638-a2d4-4507-b8f1-40b344aba080" type="folder">1</container> 
+			      	<unittitle>Autobiography, Typewritten MS,</unittitle>
+				     <unitdate>1957</unitdate>
+                  </did> 
+		       </c03>
+		    	<c03 level="file"> 
+		    		<did> 
+		    			<container id="30013dab-a573-41de-8b80-38ccf7fbb652" type="box">26</container> 
+		    			<container parent="30013dab-a573-41de-8b80-38ccf7fbb652" type="folder">2</container> 
+		    			<unittitle>Biography, Autobiography, Typewritten MS,</unittitle>
+		    			<unitdate>circa 1967</unitdate>
+		    		</did> 
+		    	</c03>
+		    	<c03 level="file"> 
+		    		<did> 
+		    			<container id="76814339-20b1-4461-a1c9-f193f77dff14" type="box">26</container> 
+		    			<container parent="76814339-20b1-4461-a1c9-f193f77dff14" type="folder">3</container> 
+		    			<unittitle>How to Become a Complete Nonentity, Autobiography, Typewritten MS,</unittitle>
+		    			<unitdate>undated</unitdate>
+		    		</did> 
+		    	</c03>
+		    	<c03 level="file"> 
+		    		<did> 
+		    			<container id="f1512bdd-f995-40cd-9500-067557c6f0d1" type="box">26</container> 
+		    			<container parent="f1512bdd-f995-40cd-9500-067557c6f0d1" type="folder">4</container> 
+		    			<unittitle>One of My Lost Worlds, Autobiography, Typewritten MS, material about his childhood in NYC. An additional story is grouped into this folder,</unittitle>
+		    			<unitdate>undated</unitdate>
+		    		</did> 
+		    	</c03>
+		    	<c03 level="file"> 
+		    		<did> 
+		    			<container id="f748a31b-a13a-4b06-86e9-95c24fe74785" type="box">26</container> 
+		    			<container parent="f748a31b-a13a-4b06-86e9-95c24fe74785" type="folder">5</container> 
+		    			<unittitle>Worlds, Autobiography, Typewritten MS, three drafts of part of an autobiography,</unittitle>
+		    			<unitdate>undated</unitdate>
+		    		</did> 
+		    	</c03>
+		    </c02>
+         	<c02 level="subseries">
+         		<did> 
+         			<unitid>Subseries 2</unitid>
+         			<unittitle>Correspondence,</unittitle> 
+         			<unitdate type="inclusive">1951-1977</unitdate>
+         		</did> 
+         		<scopecontent><p>While most of the correspondence relating to individual manuscripts was grouped along with the manuscripts in question, Mr. Wormser himself separated out the larger collections of business and fan letters into their own folders. They are labeled by the name of the story they to which they pertain.</p></scopecontent>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="7829aff9-ba15-4d2b-89c8-f0baaec17e19" type="box">26</container> 
+         				<container parent="7829aff9-ba15-4d2b-89c8-f0baaec17e19" type="folder">6</container> 
+         				<unittitle>Correspondence/Contracts,</unittitle>
+         				<unitdate>1954-1977</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="6ef8b5af-0b20-4bb3-8250-34c29bb562e6" type="box">26</container> 
+         				<container parent="6ef8b5af-0b20-4bb3-8250-34c29bb562e6" type="folder">7</container> 
+         				<unittitle>Border Book Correspondence,</unittitle>
+         				<unitdate>1967</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="ea20e1cd-fa35-4cd1-acf3-63fbd381ad16" type="box">26</container> 
+         				<container parent="ea20e1cd-fa35-4cd1-acf3-63fbd381ad16" type="folder">8</container> 
+         				<unittitle>Cavalcade- Indians, Correspondence,</unittitle>
+         				<unitdate>1956</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="0433d3e6-eeed-4016-b56f-c8745cf7e4e4" type="box">26</container> 
+         				<container parent="0433d3e6-eeed-4016-b56f-c8745cf7e4e4" type="folder">9</container> 
+         				<unittitle>The Lonesome Quarter, Correspondence,</unittitle>
+         				<unitdate>1950-1955</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="c2a9a847-acb3-45ed-9538-3b2d011344e7" type="box">26</container> 
+         				<container parent="c2a9a847-acb3-45ed-9538-3b2d011344e7" type="folder">10</container> 
+         				<unittitle>Mapleson's Memoirs, Correspondence,</unittitle>
+         				<unitdate>1965</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="89488cac-d518-43a4-b9ce-1608da13161b" type="box">26</container> 
+         				<container parent="89488cac-d518-43a4-b9ce-1608da13161b" type="folder">11</container> 
+         				<unittitle>Mapleson's Memoirs, Correspondence,</unittitle>
+         				<unitdate>1957-1958</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="d03b0ac9-d656-466f-a895-01da8643b188" type="box">26</container> 
+         				<container parent="d03b0ac9-d656-466f-a895-01da8643b188" type="folder">12</container> 
+         				<unittitle>No Bad Peace Correspondence,</unittitle>
+         				<unitdate>1967</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container id="d07aec51-4ed2-4d6f-9f1f-0747ae889a31" type="box">26</container> 
+         				<container parent="d07aec51-4ed2-4d6f-9f1f-0747ae889a31" type="folder">13</container> 
+         				<unittitle>Ride a Northbound Horse Correspondence,</unittitle>
+         				<unitdate>1964</unitdate>
+         			</did> 
+         		</c03>
+         	</c02>
+         
+	     </c01> 
+      
+      		<c01 level="series"> 
+      			<did> 
+      				<unitid>Series III</unitid>
+      				<unittitle>Oversized Materials,</unittitle> 
+      				<unitdate type="inclusive">1936-1955</unitdate>
+      			</did>
+      			<scopecontent><p>These are stories published in larger format magazines and manuscripts written on legal-sized paper.</p></scopecontent>
+      			<c02 level="file"> 
+      				<did> 
+      					<container id="e374ef8d-26a1-4619-bfd1-04bf50df573b" type="box">27</container> 
+      					<container parent="e374ef8d-26a1-4619-bfd1-04bf50df573b" type="folder">1</container> 
+      					<unittitle>The Blackbird, Short story, Saturday Evening Post,</unittitle>
+      					<unitdate>1942</unitdate>
+      				</did> 
+      			</c02> 
+      			<c02 level="file"> 
+      				<did> 
+      					<container id="de83cc29-b12e-4224-8b3a-185e22f6c7ed" type="box">27</container> 
+      					<container parent="de83cc29-b12e-4224-8b3a-185e22f6c7ed" type="folder">2</container> 
+      					<unittitle>Come Home Not Marching, Short story, Collier's,</unittitle>
+      					<unitdate>1948</unitdate>
+      				</did> 
+      			</c02> 
+      			<c02 level="file"> 
+      				<did> 
+      					<container id="1b38b921-e9d2-44eb-988a-3011403f5a2d" type="box">27</container> 
+      					<container parent="1b38b921-e9d2-44eb-988a-3011403f5a2d" type="folder">3</container> 
+      					<unittitle>The Courtship of Baptiste Brown, Short Story, Saturday Evening Post,</unittitle>
+      					<unitdate>1941</unitdate>
+      				</did> 
+      			</c02>
+      			<c02 level="file"> 
+      				<did> 
+      					<container id="8cb0d1d4-70a6-450e-b9f8-068956e53442" type="box">27</container> 
+      					<container parent="8cb0d1d4-70a6-450e-b9f8-068956e53442" type="folder">4</container> 
+      					<unittitle>Golden Tide, Screenplay, Typewritten MS,</unittitle>
+      					<unitdate>1952</unitdate>
+      				</did> 
+      			</c02>
+      			<c02 level="file"> 
+      				<did> 
+      					<container id="ef5646e1-d3ea-454e-8da5-1d4a4df6ac1d" type="box">27</container> 
+      					<container parent="ef5646e1-d3ea-454e-8da5-1d4a4df6ac1d" type="folder">5</container> 
+      					<unittitle>High Iron, Screenplay, Typewritten MS,</unittitle>
+      					<unitdate>1953</unitdate>
+      				</did> 
+      			</c02>
+      			<c02 level="file"> 
+      				<did> 
+      					<container id="4f122d9a-6732-4121-8ce7-3ddf7125c62a" type="box">27</container> 
+      					<container parent="4f122d9a-6732-4121-8ce7-3ddf7125c62a" type="folder">6</container> 
+      					<unittitle>Let the Young Men Smoke, Short Story, Saturday Evening Post,</unittitle>
+      					<unitdate>1943</unitdate>
+      				</did> 
+      			</c02>
+      			<c02 level="file"> 
+      				<did> 
+      					<container id="0984c85d-3b07-48cb-85aa-7b771ce4b9cb" type="box">28</container> 
+      					<container parent="0984c85d-3b07-48cb-85aa-7b771ce4b9cb" type="folder">1</container> 
+      					<unittitle>Red Horizon, Screenplay, Typewritten MS,</unittitle>
+      					<unitdate>1953</unitdate>
+      				</did> 
+      			</c02>
+      			<c02 level="file"> 
+      				<did> 
+      					<container id="20091dd9-dd34-4d2a-8eed-d83dd371867d" type="box">28</container> 
+      					<container parent="20091dd9-dd34-4d2a-8eed-d83dd371867d" type="folder">2</container> 
+      					<unittitle>The Road to Carmichael's, Novel, Saturday Evening Post,</unittitle>
+      					<unitdate>1953</unitdate>
+      				</did> 
+      			</c02>
+      			<c02 level="file"> 
+      				<did> 
+      					<container id="e040700e-5934-4e81-8449-845d7c50bc8c" type="box">28</container> 
+      					<container parent="e040700e-5934-4e81-8449-845d7c50bc8c" type="folder">3</container> 
+      					<unittitle>Sleep All Winter, Screenplay (1 of 2),</unittitle>
+      					<unitdate>1949</unitdate>
+      				</did> 
+      			</c02>
+      			<c02 level="file"> 
+      				<did> 
+      					<container id="8a176c3b-1e72-4c60-987f-6755fed17b7a" type="box">28</container> 
+      					<container parent="8a176c3b-1e72-4c60-987f-6755fed17b7a" type="folder">5</container> 
+      					<unittitle>Sleep All Winter (2 of 2), Novel, Esquire Magazine,</unittitle>
+      					<unitdate>1949</unitdate>
+      				</did> 
+      			</c02>
+      			<c02 level="file"> 
+      				<did> 
+      					<container id="a65b1d8c-779a-4c90-a38c-f84cd8e25e8d" type="box">28</container> 
+      					<container parent="a65b1d8c-779a-4c90-a38c-f84cd8e25e8d" type="folder">6</container> 
+      					<unittitle>With Dignity, Short Story, Collier's</unittitle>
+      					<unitdate>1936</unitdate>
+      				</did> 
+      			</c02>
+      	</c01> 
+      </dsc> 
+   </archdesc>
+</ead>

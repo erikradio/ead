@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid encodinganalog="852">UAMS544</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title"> Lizarraga Family Papers,
+	 		<date calendar="gregorian" certainty="approximate" era="ce" normal="1849/1944" type="inclusive">1849-1944</date>
+	 		</titleproper>
+	 	<titleproper altrender="nodisplay" type="filing"> Lizarraga Family Papers,
+	 		</titleproper>
+	 	<author>Processed by Hannivett Nabahe.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date calendar="gregorian" era="ce" normal="2015">2015</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Leah Rios and Hannivett Nabahe&gt;. 
+  		<date encodinganalog="date" era="ce" normal="20150401">April 01, 2015</date></creation>
+	 <langusage>Finding aid is in<language langcode="eng"> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+	
+<revisiondesc><change><date normal="2017-06-23">2017-06-23</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+
+	<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name"> Lizarraga Family Papers,
+  		<unitdate label="Dates" normal="1849/1944" type="inclusive">1849-1944</unitdate></unittitle>
+	 <unitid countrycode="US" encodinganalog="MS544" label="Collection Number" repositorycode="US-azu">MS 544</unitid>
+	 <origination label="Creator"> 
+	 	<persname encodinganalog="100" source="lcnaf">Lizarraga Family</persname> </origination> 
+  	<abstract label="Abstract">This collection of legal documents belonged to the Lizarraga Family of Pitiquito, Sonora. La version en <extref actuate="onload" href="http://www.azarchivesonline.org/xtf/view?docId=ead/uoa/UAMS544Spanish.xml" linktype="simple" show="new" title="Español" />  de esta guia de colección está disponible.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description"><extent>0.5 linear ft.</extent></physdesc>	 
+	 <repository label="Repository"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng">Spanish.</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Lizarraga Family Papers (MS 544). Special
+  		Collections, University of Arizona Libraries.</p>
+  </prefercite> 
+		<processinfo>
+			<head>Processing History</head>
+			<p>Processed by Hannivett Nabahe.</p>
+		</processinfo>
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>The Lizarraga family maintained a lot of land in Pitiquito, Sonora. Named members of the family are Franciso, Felipa, Manuel, Rafael, Sixto and Trinidad. </p> 
+  </bioghist> 
+ 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Papers, 1849-1944: This collection consists of legal documents in Spanish, pertaining to a lot of land (cornfield) located in Pitiquito, Sonora (Mexico). The collection was entrusted to Adalberto Guerrero, Dean of Student Affairs at the University of Arizona, in the early 1970s by his student, Gloria Robles.</p> 
+  </scopecontent> 
+		<relatedmaterial encodinganalog="544">
+			<head>Related Material</head>
+			<p>La version en <extref actuate="onload" href="http://www.azarchivesonline.org/xtf/view?docId=ead/uoa/UAMS544Spanish.xml" linktype="simple" show="new" title="Español" /> de esta guia de colección está disponible.</p>
+		</relatedmaterial>	
+  	<controlaccess>
+  		<persname>Lizárraga, Francisco</persname><persname>Lizárraga, Felipa</persname><persname>Lizárraga, Manuel</persname><persname>Lizárraga, Rafael</persname><persname>Lizárraga, Sixto</persname><persname>Lizárraga, Trinidad</persname><subject>Land Titles</subject><geogname>Pitiquito, Sonora (Mexico)</geogname></controlaccess>
+  
+<dsc type="combined"> 
+	 <head>Container List</head> 
+		<c01 level="file"> 
+			<did> 
+				<container id="effb15f3-77aa-4783-ae0d-0fe4615147f1" type="box">1</container> 
+				<container parent="effb15f3-77aa-4783-ae0d-0fe4615147f1" type="folder">1</container> 
+				<unittitle>Land Documents</unittitle>
+				<unitdate>1848-1857</unitdate>
+		  </did> 	
+		</c01> 
+	 	<c01 level="file"> 
+	 		<did> 
+	 			<container id="888c20c7-b924-4177-8394-5ea3e0c2bd05" type="box">1</container> 
+	 			<container parent="888c20c7-b924-4177-8394-5ea3e0c2bd05" type="folder">2</container> 
+	 			<unittitle>Land Documents</unittitle>
+	 			<unitdate>1863-1875</unitdate>
+	 		</did> 	
+	 	</c01> 
+	 	<c01 level="file"> 
+	 		<did> 
+	 			<container id="b27ba1e9-26a5-473a-bbf5-543024ca48d1" type="box">1</container> 
+	 			<container parent="b27ba1e9-26a5-473a-bbf5-543024ca48d1" type="folder">3</container> 
+	 			<unittitle>Land Documents</unittitle>
+	 			<unitdate>1880-1887</unitdate>
+	 		</did> 	
+	 	</c01> 
+	 	<c01 level="file"> 
+	 		<did> 
+	 			<container id="98e01777-06fb-4bcd-95e8-1fdfa5e1c353" type="box">1</container> 
+	 			<container parent="98e01777-06fb-4bcd-95e8-1fdfa5e1c353" type="folder">4</container> 
+	 			<unittitle>Land Documents</unittitle>
+	 			<unitdate>1903-1904</unitdate>
+	 		</did> 	
+	 	</c01> 
+	 	<c01 level="file"> 
+	 		<did> 
+	 			<container id="b323cb3b-29d6-4452-be23-755d40503490" type="box">1</container> 
+	 			<container parent="b323cb3b-29d6-4452-be23-755d40503490" type="folder">5</container> 
+	 			<unittitle>Land Documents</unittitle>
+	 			<unitdate>1907-1909</unitdate>
+	 		</did> 	
+	 	</c01> 
+	 	<c01 level="file"> 
+	 		<did> 
+	 			<container id="3245eba3-5645-4b3e-986f-087d0ebbba36" type="box">1</container> 
+	 			<container parent="3245eba3-5645-4b3e-986f-087d0ebbba36" type="folder">6</container> 
+	 			<unittitle>Land Documents</unittitle>
+	 			<unitdate>1910-1918</unitdate>
+	 		</did> 	
+	 	</c01> 
+	 	<c01 level="file"> 
+	 		<did> 
+	 			<container id="b94ef7c8-f799-4e79-b768-21707fba5e93" type="box">1</container> 
+	 			<container parent="b94ef7c8-f799-4e79-b768-21707fba5e93" type="folder">7</container> 
+	 			<unittitle>Land Documents</unittitle>
+	 			<unitdate>1921-1927</unitdate>
+	 		</did> 	
+	 	</c01> 
+	 	<c01 level="file"> 
+	 		<did> 
+	 			<container id="fb523c9e-091f-4fcf-b58e-cf335ac7dc6c" type="box">1</container> 
+	 			<container parent="fb523c9e-091f-4fcf-b58e-cf335ac7dc6c" type="folder">8</container> 
+	 			<unittitle>Land Documents</unittitle>
+	 			<unitdate>1944</unitdate>
+	 		</did> 	
+	 	</c01> 
+	 	<c01 level="file"> 
+	 		<did> 
+	 			<container id="862b4003-ec29-4107-9ea1-817287932c8b" type="box">1</container> 
+	 			<container parent="862b4003-ec29-4107-9ea1-817287932c8b" type="folder">9</container> 
+	 			<unittitle>Novena (Incomplete) and Postage</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 	
+	 	</c01> 
+	
+  </dsc> 
+</archdesc></ead>

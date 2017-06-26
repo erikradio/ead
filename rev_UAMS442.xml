@@ -1,0 +1,2713 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601"
+      findaidstatus="complete" langencoding="ISO_639-2b" repositoryencoding="iso15511"
+      scriptencoding="iso15924">
+      <eadid encodinganalog="856$u">UAMS442</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="245">The Paul S. Martin papers, <date
+                >1910-2006</date>
+               <num>MS 442</num>
+            </titleproper>
+            <author audience="internal">Processed by C. Alexandria Caster</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>University of Arizona Libraries, Special Collections</publisher>
+            <date calendar="gregorian" era="ce">2010</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Machine-readable finding guide and skeletal markup derived via template; markup
+            checked and completed by C. Alexandria Caster, <date calendar="gregorian" era="ce">May
+               2010</date>
+         </creation>
+         <langusage>Finding guide is in <language langcode="eng">English</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2017-06-22">2017-06-22</date>
+            <item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a
+               python script created by Erik Radio.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc encodinganalog="351$c" level="collection">
+      <did>
+         <unittitle>The Paul S. Martin papers <unitdate normal="1910/2006" type="inclusive"
+               >1910-2006 </unitdate></unittitle>
+         <unitid countrycode="US" encodinganalog="099" repositorycode="US-azu">Collection Number: MS
+            442</unitid>
+         <origination label="Creator"><persname encodinganalog="100">Paul S.
+            Martin</persname></origination>
+         <abstract encodinganalog="520">This collection consists of professional correspondence,
+            research files and publication files of paleoecologist and geoscientist Dr. Paul S.
+            Martin, Emeritus Professor of Geosciences at the University of Arizona. Collection also
+            includes material relating to Tumamoc Hill Desert Laboratory, where Dr. Martin worked
+            and conducted research for more than 50 years. Completing the collection are nine
+            scrapbooks of newspaper clippings about ecological, social and political issues
+            collected by Paul S. Martin from 1951-1970.</abstract>
+         <physdesc><extent encodinganalog="300">16 linear feet</extent></physdesc>
+         <langmaterial>
+            <language encodinganalog="546" langcode="eng">English</language>
+         </langmaterial>
+         <repository label="Repository">
+            <corpname>University of Arizona Libraries, Special Collections</corpname>
+            <address>
+               <addressline>University of Arizona</addressline>
+               <addressline>PO Box 210055</addressline>
+               <addressline>Tucson, AZ 85721-0055</addressline>
+               <addressline>Phone: 520-621-6423</addressline>
+               <addressline>Fax: 520-621-9733</addressline>
+               <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+            </address></repository>
+      </did>
+      <descgrp type="admininfo">
+         <accessrestrict encodinganalog="506">
+            <p>None.</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>It is the responsibility of the user to obtain permission to publish from the owner
+               of the copyright (the institution, the creator of the record, the author or his/her
+               transferees, heirs, legates, or literary executors). The user agrees to indemnify and
+               hold harmless the Arizona Board of Regents for the University of Arizona, its
+               officers, employees, and agents from and against all claims made by any person
+               asserting that he or she is an owner of copyright.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <p>The Paul S. Martin papers (MS 442). Special Collections, University of Arizona
+               Libraries.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p>Paul Schultz Martin was born August 22, 1928 in Allentown, Pennsylvania. He received his
+            B.A. in Zoology from Cornell University in Ithaca, New York, in 1951. He then earned a
+            Master’s degree in Zoology in 1953, followed by a Ph.D. in Zoology in 1956, both from
+            University of Michigan in Ann Arbor. His early career aspiration to focus on collecting
+            and studying plant and fossil specimens from tropical rainforests was cut short when he
+            contracted polio at age 23 while in Mexico. After receiving his Ph.D., he conducted
+            postdoctoral research in Biogeography at Yale University from 1955-1956 and then at
+            Université de Montreal from 1956-1957. In 1957, he moved to Tucson to accept a position
+            as a Research Associate with University of Arizona’s Geochronology Laboratories, thus
+            beginning his long association with Tumamoc Hill Desert Laboratory. He was named
+            Assistant Professor in 1961 and Associate Professor in 1962. He held the position of
+            Professor in the Department of Geosciences from 1968 until 1989 when he was named
+            Emeritus Professor. He remained an active researcher and vital part of the Tumamoc Hill
+            Desert Laboratory for more than 50 years.</p>
+         <p>Dr. Martin is well-known as a primary developer and leading expert on the subject of
+            prehistoric overkill, a pattern of global extinction over the last 40,000 years which
+            coincided with human colonization spreading out of Africa and Asia. His theories have
+            been the subject of much debate since the 1960’s and have helped rejuvenate interest in
+            the study of prehistoric extinctions. His interest in the extinction chronology of late
+            Pleistocene large animals has taken him to fossil sites all around the world including
+            Chile, New Zealand and Australia. This fossil research led him to develop extinction
+            models based on human activity as the main cause of the rapid extinctions of large
+            animals such as the mammoth, mastodon and giant ground sloth. In addition, Dr. Martin
+            conducted research about Pleistocene biotic changes in arid regions. He studied the
+            biogeography of eastern Mexico, the Pleistocene fossil pollen record of Arizona, and the
+            ability of fossil packrat middens to reveal important information about climatic
+            changes. Dr. Martin is the author of numerous books and articles, including The Last
+            10,000 Years: A Fossil Pollen Study of the American Southwest, Pleistocene Extinctions:
+            The Search for a Cause, and Twilight of the Mammoths. Before his retirement, he was also
+            a highly regarded professor of Quaternary Biogeography for more than 30 years, well
+            known for his gentle nature, memorable quotes, and enthusiasm for facilitating discovery
+            and learning. His research gave him a unique, long range perspective on the mechanisms
+            and impact of species extinction and environmental destruction. His dedication to
+            ecological and social issues is reflected in his involvement with various efforts to
+            protect endangered flora and fauna of the Southwest from potential human
+            destruction.</p>
+      </bioghist>
+      <arrangement encodinganalog="351$a">
+         <p>This Collections is arranged into six series</p>
+         <list>
+            <item>Series I: Correspondence <unitdate>1975-1990]</unitdate></item>
+            <item>Series II: Publication Files <unitdate>1951-2006</unitdate></item>
+            <item>Series III: Research Files <unitdate>1910-2000</unitdate></item>
+            <item>Series IV: Newspaper Clippings <unitdate>1959-2000</unitdate></item>
+            <item>Series V: Tumamoc Hill Desert Laboratory <unitdate/>1960-2000</item>
+            <item>Series VI: Scrapbooks <unitdate/>1951-1970</item>
+         </list>
+      </arrangement>
+      <scopecontent encodinganalog="520">
+         <p>Correspondence, research files, publication files, newspaper clippings and scrapbooks.
+            The numerous boxes of correspondence files contain letters both written by and received
+            by Dr. Martin during of his professional career (principally covers the years
+            1975-1990). This material includes correspondence with various scientists, researchers,
+            publishers, students and others. The correspondence files are arranged alphabetically by
+            last name of correspondent. The first subseries of the research files consist of varied
+            material gathered in the course of scientific and professional research. This subseries
+            also contains copies of Dr. Martin’s National Science Foundation grant proposals, data
+            on Southwestern fauna, efforts to stop the controversial construction of a telescope on
+            Mount Graham, as well as other articles and newspaper clippings about varied topics. The
+            second subseries of the research files contains records detailing data collected by Dr.
+            Martin after the spraying of Agent Orange on the town of Globe, Arizona in 1969. The
+            publication files contain copies of articles written by Dr. Martin over the course of
+            his career, spanning from 1951-2006. Also included is correspondence to and from Dr.
+            Martin regarding his published books and articles. The publication files also contain
+            copies of reviews of Dr. Martin’s published works from various sources. The next series
+            compiles newspaper clippings written about Dr. Paul S. Martin and his research during
+            the years 1959-2000. The following series focuses on the Tumamoc Hill Desert Laboratory.
+            This series contains correspondence related to activities at the Desert Lab, as well as
+            fundraising materials, staff bibliographies and library information. Blueprints,
+            planning and policy documents and research files are also included. Materials about
+            flora and fauna of Tumamoc Hill are also present. Articles and photographs describing
+            the history of Tumamoc Hill Desert Lab form another part of this series. Lastly, the
+            various threats to the lab and its continued operation from the 1960’s through the early
+            2000’s are detailed through collected newspaper clippings. The final series of the
+            collection consists of nine scrapbooks of newspaper clippings collected by Dr. Martin
+            from 1951-1970 which detail political, social and ecological issues of the times.</p>
+      </scopecontent>
+      <relatedmaterial>
+         <p>Desert Botanical Laboratory of the Carnegie Institution records(AZ 356), 1903-1938,
+            Special Collections, University of Arizona Library.</p>
+      </relatedmaterial>
+      <controlaccess>
+         <persname encodinganalog="600" source="lcnaf">Martin, Paul S. (Paul Schultz), (1928-. </persname>
+         <corpname encodinganalog="610" source="lcnaf">Desert Botanical Laboratory of the Carnegie
+            Institution. </corpname>
+         <corpname encodinganalog="610" source="lcnaf">Botanical laboratories—Arizona—Tucson—History </corpname>
+         <subject encodinganalog="650" source="lcsh">Evolutionary paleoecology.</subject>
+         <subject encodinganalog="650" source="lcsh">Desert ecology—Sonoran desert.</subject>
+         <geogname encodinganalog="651" source="lcsh">Globe (Ariz.) - History. </geogname>
+      </controlaccess>
+      <dsc type="combined">
+         <c01 level="series">
+            <did>
+               <unittitle>Series I: Correspondence,</unittitle>
+               <unitdate normal="1975/1990">1975-1990</unitdate>
+            </did>
+            <arrangement>
+               <p>This series is arranged alphabetically by last name of the correspondent.</p>
+            </arrangement>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--A</unittitle>
+                  <container id="dc528e4d-ce9a-48dc-8be5-7c446b453124" type="Box">1</container>
+                  <container parent="dc528e4d-ce9a-48dc-8be5-7c446b453124" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--A</unittitle>
+                  <container id="52d9984f-eed4-4b01-9229-b2fe984715ea" type="Box">1</container>
+                  <container parent="52d9984f-eed4-4b01-9229-b2fe984715ea" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--A</unittitle>
+                  <container id="c92229b1-a314-464b-8b53-542faadf4b4d" type="Box">1</container>
+                  <container parent="c92229b1-a314-464b-8b53-542faadf4b4d" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Agenbroad, Larry</unittitle>
+                  <container id="ca48f7b2-2143-4ab6-adae-16c89ebdd458" type="Box">1</container>
+                  <container parent="ca48f7b2-2143-4ab6-adae-16c89ebdd458" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Australia</unittitle>
+                  <container id="ac8ab7ff-5a68-4ae3-af0a-44b02a4c8f75" type="Box">1</container>
+                  <container parent="ac8ab7ff-5a68-4ae3-af0a-44b02a4c8f75" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--B</unittitle>
+                  <container id="a597c934-c583-4be9-b910-5ab462334c30" type="Box">1</container>
+                  <container parent="a597c934-c583-4be9-b910-5ab462334c30" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--B</unittitle>
+                  <container id="106ec740-22f6-4bfc-8526-11a1810cc2cb" type="Box">1</container>
+                  <container parent="106ec740-22f6-4bfc-8526-11a1810cc2cb" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--B</unittitle>
+                  <container id="42640c3f-f847-4f94-bd47-d4d66fb8a35e" type="Box">1</container>
+                  <container parent="42640c3f-f847-4f94-bd47-d4d66fb8a35e" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--B</unittitle>
+                  <container id="756fe0b1-4c54-46c6-b1a7-c3e2c21058f5" type="Box">1</container>
+                  <container parent="756fe0b1-4c54-46c6-b1a7-c3e2c21058f5" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--B</unittitle>
+                  <container id="11015c3b-18f3-4777-a9da-23cc13bae1ed" type="Box">1</container>
+                  <container parent="11015c3b-18f3-4777-a9da-23cc13bae1ed" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--B</unittitle>
+                  <container id="9b3c0b74-55c1-464b-9000-00393a72c4c7" type="Box">1</container>
+                  <container parent="9b3c0b74-55c1-464b-9000-00393a72c4c7" type="Folder"
+                     >11</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--B</unittitle>
+                  <container id="dba8ad10-3c59-48ff-8dc3-143f71e17fdf" type="Box">1</container>
+                  <container parent="dba8ad10-3c59-48ff-8dc3-143f71e17fdf" type="Folder"
+                     >12</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--B</unittitle>
+                  <container id="a75a735b-75f6-454d-8c2e-ef942c56d77f" type="Box">2</container>
+                  <container parent="a75a735b-75f6-454d-8c2e-ef942c56d77f" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--B</unittitle>
+                  <container id="001dd57a-c62a-4917-9055-2affb88fc19e" type="Box">2</container>
+                  <container parent="001dd57a-c62a-4917-9055-2affb88fc19e" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Barlow, Connie</unittitle>
+                  <container id="7b93b1dc-ca81-4a4a-9f69-79b53cad00fb" type="Box">2</container>
+                  <container parent="7b93b1dc-ca81-4a4a-9f69-79b53cad00fb" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Betancourt, Julio</unittitle>
+                  <container id="7c01f10f-15e8-4905-bf46-069bab1c392c" type="Box">2</container>
+                  <container parent="7c01f10f-15e8-4905-bf46-069bab1c392c" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--C</unittitle>
+                  <container id="9bc9ab54-1ee3-4eb5-8488-ab9a68085efb" type="Box">2</container>
+                  <container parent="9bc9ab54-1ee3-4eb5-8488-ab9a68085efb" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--C</unittitle>
+                  <container id="9256b0a8-6b32-47ba-b464-4bda783b57c8" type="Box">2</container>
+                  <container parent="9256b0a8-6b32-47ba-b464-4bda783b57c8" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--C</unittitle>
+                  <container id="36de9737-34b3-4c9a-ab69-a1cc79c36b68" type="Box">2</container>
+                  <container parent="36de9737-34b3-4c9a-ab69-a1cc79c36b68" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--C</unittitle>
+                  <container id="788a9dac-bf48-4571-aaa9-f29a2ae0c0f7" type="Box">2</container>
+                  <container parent="788a9dac-bf48-4571-aaa9-f29a2ae0c0f7" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--C</unittitle>
+                  <container id="8097b73c-9706-49a9-acb5-6ef2952eadfb" type="Box">2</container>
+                  <container parent="8097b73c-9706-49a9-acb5-6ef2952eadfb" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--C</unittitle>
+                  <container id="56fe651b-fc44-4437-9e83-726e7f1ae73d" type="Box">2</container>
+                  <container parent="56fe651b-fc44-4437-9e83-726e7f1ae73d" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--D</unittitle>
+                  <container id="ab2c7c79-779c-4039-a68d-e08f63a203cf" type="Box">2</container>
+                  <container parent="ab2c7c79-779c-4039-a68d-e08f63a203cf" type="Folder"
+                     >11</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--D</unittitle>
+                  <container id="ccf510d3-9615-44a1-8cfe-4abe6d6d57c6" type="Box">3</container>
+                  <container parent="ccf510d3-9615-44a1-8cfe-4abe6d6d57c6" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--D</unittitle>
+                  <container id="920ba414-100c-4cb8-890e-d8ebc0b7abe4" type="Box">3</container>
+                  <container parent="920ba414-100c-4cb8-890e-d8ebc0b7abe4" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--D</unittitle>
+                  <container id="8d586b45-7fd7-43e4-9b1c-eab55fdeb3ad" type="Box">3</container>
+                  <container parent="8d586b45-7fd7-43e4-9b1c-eab55fdeb3ad" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--D</unittitle>
+                  <container id="123ff072-ac41-46b9-90aa-6551189ad882" type="Box">3</container>
+                  <container parent="123ff072-ac41-46b9-90aa-6551189ad882" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--D</unittitle>
+                  <container id="78172b04-9bae-4308-97e2-0d946b1159a8" type="Box">3</container>
+                  <container parent="78172b04-9bae-4308-97e2-0d946b1159a8" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Davis, George</unittitle>
+                  <container id="a0d3ff4c-2ea0-4a54-bf90-661fe8c14b21" type="Box">3</container>
+                  <container parent="a0d3ff4c-2ea0-4a54-bf90-661fe8c14b21" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Diamond, Jared</unittitle>
+                  <container id="f1ed986e-9444-4a19-9471-3245cb9115f4" type="Box">3</container>
+                  <container parent="f1ed986e-9444-4a19-9471-3245cb9115f4" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Dickinson, William</unittitle>
+                  <container id="101951e8-70b6-4e75-8ec3-c03bd45fd3dd" type="Box">3</container>
+                  <container parent="101951e8-70b6-4e75-8ec3-c03bd45fd3dd" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--E</unittitle>
+                  <container id="d5535d52-4cb5-4e30-8325-0e09da12ecb4" type="Box">3</container>
+                  <container parent="d5535d52-4cb5-4e30-8325-0e09da12ecb4" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--E</unittitle>
+                  <container id="fafbd516-f649-4849-988a-80917262e3bd" type="Box">3</container>
+                  <container parent="fafbd516-f649-4849-988a-80917262e3bd" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--E</unittitle>
+                  <container id="fc36b946-7bec-4d02-ab6c-ffd678ec75e9" type="Box">3</container>
+                  <container parent="fc36b946-7bec-4d02-ab6c-ffd678ec75e9" type="Folder"
+                     >11</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Euler, Robert</unittitle>
+                  <container id="ebf8eaf2-a871-4558-bb6b-00ac3ee46cee" type="Box">3</container>
+                  <container parent="ebf8eaf2-a871-4558-bb6b-00ac3ee46cee" type="Folder"
+                     >12</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--F</unittitle>
+                  <container id="d5ee85ad-4c67-409a-a9ba-ab052c11e04c" type="Box">4</container>
+                  <container parent="d5ee85ad-4c67-409a-a9ba-ab052c11e04c" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--F</unittitle>
+                  <container id="f7dfca0e-cede-4acb-956d-f1b3cab9fff5" type="Box">4</container>
+                  <container parent="f7dfca0e-cede-4acb-956d-f1b3cab9fff5" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--F</unittitle>
+                  <container id="b70c7b80-529e-4a1d-9134-e2a7f59c6b09" type="Box">4</container>
+                  <container parent="b70c7b80-529e-4a1d-9134-e2a7f59c6b09" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--F</unittitle>
+                  <container id="9d51e12d-ac16-4491-b945-b659aaa71541" type="Box">4</container>
+                  <container parent="9d51e12d-ac16-4491-b945-b659aaa71541" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Fisher, Donald</unittitle>
+                  <container id="7913c475-8ea9-49fc-ba2e-2ff56261f44a" type="Box">4</container>
+                  <container parent="7913c475-8ea9-49fc-ba2e-2ff56261f44a" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Francis, Kevin</unittitle>
+                  <container id="3d4cb44c-f718-4075-804b-e84cfb63d847" type="Box">4</container>
+                  <container parent="3d4cb44c-f718-4075-804b-e84cfb63d847" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--G</unittitle>
+                  <container id="918371ad-6cb9-4b3e-8606-82fbdb067608" type="Box">4</container>
+                  <container parent="918371ad-6cb9-4b3e-8606-82fbdb067608" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--G</unittitle>
+                  <container id="a17c0959-26ef-4363-a206-909ab314ae43" type="Box">4</container>
+                  <container parent="a17c0959-26ef-4363-a206-909ab314ae43" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--G</unittitle>
+                  <container id="b91c9230-3b60-4051-a3a8-c61ca2da2f90" type="Box">4</container>
+                  <container parent="b91c9230-3b60-4051-a3a8-c61ca2da2f90" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--G</unittitle>
+                  <container id="d1ccb6e0-a2c7-4bfc-95d4-2c90052167ae" type="Box">4</container>
+                  <container parent="d1ccb6e0-a2c7-4bfc-95d4-2c90052167ae" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--G</unittitle>
+                  <container id="588181ee-291c-441f-8f4f-d979648d4575" type="Box">4</container>
+                  <container parent="588181ee-291c-441f-8f4f-d979648d4575" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--G</unittitle>
+                  <container id="0bb32cb7-f72f-4f6e-9f6b-39971d63e4c5" type="Box">5</container>
+                  <container parent="0bb32cb7-f72f-4f6e-9f6b-39971d63e4c5" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--G</unittitle>
+                  <container id="895e1f9c-5b27-4ad7-b9f0-34f1c9f86281" type="Box">5</container>
+                  <container parent="895e1f9c-5b27-4ad7-b9f0-34f1c9f86281" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--G</unittitle>
+                  <container id="862ff653-8a79-4536-a035-5786c5b5d0b5" type="Box">5</container>
+                  <container parent="862ff653-8a79-4536-a035-5786c5b5d0b5" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--G</unittitle>
+                  <container id="664b4222-2b92-4b2b-9bbb-f7f1e8ba522c" type="Box">5</container>
+                  <container parent="664b4222-2b92-4b2b-9bbb-f7f1e8ba522c" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Gentry, Howard S</unittitle>
+                  <container id="3c6e7ea6-4eda-493f-b5e8-a31635772178" type="Box">5</container>
+                  <container parent="3c6e7ea6-4eda-493f-b5e8-a31635772178" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Goldberg, Deborah</unittitle>
+                  <container id="a3e53856-7e65-4de4-8edf-18677eba51f1" type="Box">5</container>
+                  <container parent="a3e53856-7e65-4de4-8edf-18677eba51f1" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Grayson, Deborah</unittitle>
+                  <container id="0759bd74-71d5-4244-a503-29b793ac2988" type="Box">5</container>
+                  <container parent="0759bd74-71d5-4244-a503-29b793ac2988" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--H</unittitle>
+                  <container id="8067a0b8-f3c0-4e82-9856-61b8f59116aa" type="Box">5</container>
+                  <container parent="8067a0b8-f3c0-4e82-9856-61b8f59116aa" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--H</unittitle>
+                  <container id="9604ae9b-d83c-42c6-9c8e-2e151f6b86db" type="Box">5</container>
+                  <container parent="9604ae9b-d83c-42c6-9c8e-2e151f6b86db" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--H</unittitle>
+                  <container id="8065eb82-c47a-47ea-8dfd-91f34f5fb5fa" type="Box">5</container>
+                  <container parent="8065eb82-c47a-47ea-8dfd-91f34f5fb5fa" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--H</unittitle>
+                  <container id="02118a51-edb2-482a-a1a7-e54f765c4b34" type="Box">5</container>
+                  <container parent="02118a51-edb2-482a-a1a7-e54f765c4b34" type="Folder"
+                     >11</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--H</unittitle>
+                  <container id="a289c67a-dc9f-4a3d-814c-c2f01eb50b27" type="Box">6</container>
+                  <container parent="a289c67a-dc9f-4a3d-814c-c2f01eb50b27" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--H</unittitle>
+                  <container id="15764320-e477-4d21-99d5-dbc11994bf67" type="Box">6</container>
+                  <container parent="15764320-e477-4d21-99d5-dbc11994bf67" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--H</unittitle>
+                  <container id="927130e4-4580-48ee-9af0-b1e005925f62" type="Box">6</container>
+                  <container parent="927130e4-4580-48ee-9af0-b1e005925f62" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Hope, Jeannette</unittitle>
+                  <container id="d12b35d7-2c58-47a9-a7c2-f34f70d66bfd" type="Box">6</container>
+                  <container parent="d12b35d7-2c58-47a9-a7c2-f34f70d66bfd" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--I</unittitle>
+                  <container id="ebf0f5a3-8fad-44a8-9b9a-18b6a1057730" type="Box">6</container>
+                  <container parent="ebf0f5a3-8fad-44a8-9b9a-18b6a1057730" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Igarashi, Kyohei</unittitle>
+                  <container id="a7b5b19b-ae06-4ae0-a238-2a416d5ae889" type="Box">6</container>
+                  <container parent="a7b5b19b-ae06-4ae0-a238-2a416d5ae889" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--J</unittitle>
+                  <container id="a34e5f51-0422-4764-b6a8-c257aac77d9f" type="Box">6</container>
+                  <container parent="a34e5f51-0422-4764-b6a8-c257aac77d9f" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--J</unittitle>
+                  <container id="ae425597-3c75-4d8f-a2b6-495484f7b1ce" type="Box">6</container>
+                  <container parent="ae425597-3c75-4d8f-a2b6-495484f7b1ce" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Jansen, Daniel</unittitle>
+                  <container id="b1ce9e02-7efa-419a-bcc7-b6764a775485" type="Box">6</container>
+                  <container parent="b1ce9e02-7efa-419a-bcc7-b6764a775485" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Judge, W. James</unittitle>
+                  <container id="faeff132-237f-42bc-a310-e17446d3f62a" type="Box">6</container>
+                  <container parent="faeff132-237f-42bc-a310-e17446d3f62a" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--K</unittitle>
+                  <container id="77631ad7-75a6-4bba-97a1-785e64f92d14" type="Box">6</container>
+                  <container parent="77631ad7-75a6-4bba-97a1-785e64f92d14" type="Folder"
+                     >11</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--K</unittitle>
+                  <container id="fce099ff-8db2-4e77-a1ed-1de3537f2dad" type="Box">7</container>
+                  <container parent="fce099ff-8db2-4e77-a1ed-1de3537f2dad" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--K</unittitle>
+                  <container id="2565d589-10c2-405d-9ee9-43fea391fa65" type="Box">7</container>
+                  <container parent="2565d589-10c2-405d-9ee9-43fea391fa65" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--K</unittitle>
+                  <container id="230f183c-0449-4728-b560-89df69def510" type="Box">7</container>
+                  <container parent="230f183c-0449-4728-b560-89df69def510" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--K</unittitle>
+                  <container id="960200ed-6b03-4e13-a956-ef490fd3b622" type="Box">7</container>
+                  <container parent="960200ed-6b03-4e13-a956-ef490fd3b622" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--K</unittitle>
+                  <container id="0370b7df-284f-4d5a-a12c-ef0f3dfea2d9" type="Box">7</container>
+                  <container parent="0370b7df-284f-4d5a-a12c-ef0f3dfea2d9" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Kay, Charles</unittitle>
+                  <container id="e0a74308-a0d5-4954-9b26-7fe81cf9eabd" type="Box">7</container>
+                  <container parent="e0a74308-a0d5-4954-9b26-7fe81cf9eabd" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--L</unittitle>
+                  <container id="6a66aac2-9c6e-44d5-bbde-aa508817d993" type="Box">7</container>
+                  <container parent="6a66aac2-9c6e-44d5-bbde-aa508817d993" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--L</unittitle>
+                  <container id="17683eae-6e1b-4436-aa34-03105f54e0ff" type="Box">7</container>
+                  <container parent="17683eae-6e1b-4436-aa34-03105f54e0ff" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--L</unittitle>
+                  <container id="962f6a94-6251-425a-832f-a61efe763ede" type="Box">7</container>
+                  <container parent="962f6a94-6251-425a-832f-a61efe763ede" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--L</unittitle>
+                  <container id="266637b6-e716-443a-b003-48a1d65c01bf" type="Box">7</container>
+                  <container parent="266637b6-e716-443a-b003-48a1d65c01bf" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--L</unittitle>
+                  <container id="cabd3a5a-5022-4fa5-aa7c-b3764a4f567f" type="Box">8</container>
+                  <container parent="cabd3a5a-5022-4fa5-aa7c-b3764a4f567f" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Long, Austin</unittitle>
+                  <container id="8b698a7c-e046-4bcd-99d5-dc565226c627" type="Box">8</container>
+                  <container parent="8b698a7c-e046-4bcd-99d5-dc565226c627" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Lagiglia, Humberto</unittitle>
+                  <container id="dcc8da8d-5970-42c0-bae6-ef9f72abefab" type="Box">8</container>
+                  <container parent="dcc8da8d-5970-42c0-bae6-ef9f72abefab" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Mc</unittitle>
+                  <container id="7eee3208-46a3-400a-8337-9e738ba3ccc7" type="Box">8</container>
+                  <container parent="7eee3208-46a3-400a-8337-9e738ba3ccc7" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Mc</unittitle>
+                  <container id="38ac6b7c-1c3a-4da3-a2f6-fb1252fe0f0c" type="Box">8</container>
+                  <container parent="38ac6b7c-1c3a-4da3-a2f6-fb1252fe0f0c" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Mc</unittitle>
+                  <container id="797a5db0-954a-4f20-a18e-e225fe6acd5b" type="Box">8</container>
+                  <container parent="797a5db0-954a-4f20-a18e-e225fe6acd5b" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--McCullough, Ed</unittitle>
+                  <container id="0ed8508f-8447-468d-b393-30b5dbc53c01" type="Box">8</container>
+                  <container parent="0ed8508f-8447-468d-b393-30b5dbc53c01" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--McCullough, Ed</unittitle>
+                  <container id="5588b094-98f4-4ccd-aefe-1d9b05263ed0" type="Box">8</container>
+                  <container parent="5588b094-98f4-4ccd-aefe-1d9b05263ed0" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--McDonald, Greg</unittitle>
+                  <container id="b17164c1-0255-4d2a-a8b2-9cbb55829cd9" type="Box">8</container>
+                  <container parent="b17164c1-0255-4d2a-a8b2-9cbb55829cd9" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--M</unittitle>
+                  <container id="56fa1ea5-8dcc-413b-90ae-2b552cb91a6c" type="Box">8</container>
+                  <container parent="56fa1ea5-8dcc-413b-90ae-2b552cb91a6c" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--M</unittitle>
+                  <container id="0132fec2-2e4c-4d01-ad77-ad7c44e41087" type="Box">8</container>
+                  <container parent="0132fec2-2e4c-4d01-ad77-ad7c44e41087" type="Folder"
+                     >11</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--M</unittitle>
+                  <container id="c51c1696-5776-41e7-8bc3-88c139b9210a" type="Box">9</container>
+                  <container parent="c51c1696-5776-41e7-8bc3-88c139b9210a" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--M</unittitle>
+                  <container id="5cd01366-cc2c-495f-be30-b116381c32d1" type="Box">9</container>
+                  <container parent="5cd01366-cc2c-495f-be30-b116381c32d1" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--M</unittitle>
+                  <container id="523cde33-4b24-4e11-ad9c-f8a72d1b4792" type="Box">9</container>
+                  <container parent="523cde33-4b24-4e11-ad9c-f8a72d1b4792" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--M</unittitle>
+                  <container id="9b85a4f2-ffbd-47b1-98c1-a76657d9d45c" type="Box">9</container>
+                  <container parent="9b85a4f2-ffbd-47b1-98c1-a76657d9d45c" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--M</unittitle>
+                  <container id="4b410b39-a975-48d9-954d-6303c2762277" type="Box">9</container>
+                  <container parent="4b410b39-a975-48d9-954d-6303c2762277" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--M</unittitle>
+                  <container id="dd4942f6-803a-4787-b615-9ff45770b8a6" type="Box">9</container>
+                  <container parent="dd4942f6-803a-4787-b615-9ff45770b8a6" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--MacPhee, Ross</unittitle>
+                  <container id="f22641c4-20b4-43f0-b044-3ea558dd500c" type="Box">9</container>
+                  <container parent="f22641c4-20b4-43f0-b044-3ea558dd500c" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Meadowcroft Rockshelter</unittitle>
+                  <container id="f0a77a62-8701-4f2c-811f-478faf9eced2" type="Box">9</container>
+                  <container parent="f0a77a62-8701-4f2c-811f-478faf9eced2" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Mehringer, Pete</unittitle>
+                  <container id="a7223e09-a02b-4bd9-9a82-cc62d868e0ff" type="Box">9</container>
+                  <container parent="a7223e09-a02b-4bd9-9a82-cc62d868e0ff" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Mosimann, James</unittitle>
+                  <container id="d8abaa57-320b-4f57-ac83-e94bb4cd2fcc" type="Box">9</container>
+                  <container parent="d8abaa57-320b-4f57-ac83-e94bb4cd2fcc" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Mosimann, James</unittitle>
+                  <container id="6b9b1f99-f33e-41a5-aab0-2cf0206e71b9" type="Box">9</container>
+                  <container parent="6b9b1f99-f33e-41a5-aab0-2cf0206e71b9" type="Folder"
+                     >11</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--O</unittitle>
+                  <container id="f9139e8b-b10c-47f4-9028-062f5fda9aaf" type="Box">10</container>
+                  <container parent="f9139e8b-b10c-47f4-9028-062f5fda9aaf" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--O</unittitle>
+                  <container id="67b473e2-4011-46c6-ad60-c3bd849fdcc1" type="Box">10</container>
+                  <container parent="67b473e2-4011-46c6-ad60-c3bd849fdcc1" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--O</unittitle>
+                  <container id="683028e2-963d-44a0-ada8-371dc0a128da" type="Box">10</container>
+                  <container parent="683028e2-963d-44a0-ada8-371dc0a128da" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--P</unittitle>
+                  <container id="cbfa0feb-c32c-461b-ad89-b3263ee212a1" type="Box">10</container>
+                  <container parent="cbfa0feb-c32c-461b-ad89-b3263ee212a1" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--P</unittitle>
+                  <container id="ddbdc068-929a-4383-9a7f-f8a5771841ac" type="Box">10</container>
+                  <container parent="ddbdc068-929a-4383-9a7f-f8a5771841ac" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Q</unittitle>
+                  <container id="0e2f2948-688c-48ce-acdf-2d9f6c0e8b4b" type="Box">10</container>
+                  <container parent="0e2f2948-688c-48ce-acdf-2d9f6c0e8b4b" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--R</unittitle>
+                  <container id="5425b24a-2a55-4446-9a20-c18ff14681cc" type="Box">10</container>
+                  <container parent="5425b24a-2a55-4446-9a20-c18ff14681cc" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--R</unittitle>
+                  <container id="208c543a-5685-4504-add7-5639ba24c7dd" type="Box">10</container>
+                  <container parent="208c543a-5685-4504-add7-5639ba24c7dd" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--R</unittitle>
+                  <container id="8309eb7d-5e76-4fb4-999a-9b69fc0c2960" type="Box">10</container>
+                  <container parent="8309eb7d-5e76-4fb4-999a-9b69fc0c2960" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--R</unittitle>
+                  <container id="8a80f16b-a905-4498-84b6-c97d5f18b2b1" type="Box">11</container>
+                  <container parent="8a80f16b-a905-4498-84b6-c97d5f18b2b1" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Ray, Clayton</unittitle>
+                  <container id="a164d068-2523-4592-b7ad-46a165c47645" type="Box">11</container>
+                  <container parent="a164d068-2523-4592-b7ad-46a165c47645" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--S</unittitle>
+                  <container id="d98bcc76-16cc-4b72-8641-3ec02954d476" type="Box">11</container>
+                  <container parent="d98bcc76-16cc-4b72-8641-3ec02954d476" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--S</unittitle>
+                  <container id="80d4a6f7-715f-4382-9b8b-52fb1ef683b1" type="Box">11</container>
+                  <container parent="80d4a6f7-715f-4382-9b8b-52fb1ef683b1" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--S</unittitle>
+                  <container id="884513f6-4a4e-4918-87e5-a4eb1860678e" type="Box">11</container>
+                  <container parent="884513f6-4a4e-4918-87e5-a4eb1860678e" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--S</unittitle>
+                  <container id="c14f730f-5f8b-42e0-9d14-dfa209d868b0" type="Box">11</container>
+                  <container parent="c14f730f-5f8b-42e0-9d14-dfa209d868b0" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--S</unittitle>
+                  <container id="a1d3fdde-0be3-4abb-b887-acc3a2094e07" type="Box">11</container>
+                  <container parent="a1d3fdde-0be3-4abb-b887-acc3a2094e07" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--S</unittitle>
+                  <container id="61c30d50-9e8c-4d06-b9c9-70415aaa66e0" type="Box">11</container>
+                  <container parent="61c30d50-9e8c-4d06-b9c9-70415aaa66e0" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--S</unittitle>
+                  <container id="dc98ac12-80e2-4bf3-8f43-7982b1bed209" type="Box">11</container>
+                  <container parent="dc98ac12-80e2-4bf3-8f43-7982b1bed209" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--S</unittitle>
+                  <container id="92a43404-5d17-40d0-ab8f-8ba5ab9febda" type="Box">11</container>
+                  <container parent="92a43404-5d17-40d0-ab8f-8ba5ab9febda" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--S</unittitle>
+                  <container id="710ff419-41e8-43fd-b4e8-f64f499c4d0b" type="Box">11</container>
+                  <container parent="710ff419-41e8-43fd-b4e8-f64f499c4d0b" type="Folder"
+                     >11</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--S</unittitle>
+                  <container id="d421e46d-fa2d-43ee-b3f6-e1a7fa95b4b5" type="Box">12</container>
+                  <container parent="d421e46d-fa2d-43ee-b3f6-e1a7fa95b4b5" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--S</unittitle>
+                  <container id="3c96f6c8-d4fb-4da2-b81f-02180ff1ee32" type="Box">12</container>
+                  <container parent="3c96f6c8-d4fb-4da2-b81f-02180ff1ee32" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--S</unittitle>
+                  <container id="78b98f75-3b8d-4b86-bf8e-7ea1b5f68694" type="Box">12</container>
+                  <container parent="78b98f75-3b8d-4b86-bf8e-7ea1b5f68694" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Sanders, Andrew</unittitle>
+                  <container id="6596ba91-cee7-4aef-ad5f-ca896e8eb2e9" type="Box">12</container>
+                  <container parent="6596ba91-cee7-4aef-ad5f-ca896e8eb2e9" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Sher, Andrei</unittitle>
+                  <container id="2eb634d6-10d5-40e6-bc5f-b38531630eb0" type="Box">12</container>
+                  <container parent="2eb634d6-10d5-40e6-bc5f-b38531630eb0" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Smiley, Terah</unittitle>
+                  <container id="e8709fff-fa4f-4f0e-a230-49a7e90b2223" type="Box">12</container>
+                  <container parent="e8709fff-fa4f-4f0e-a230-49a7e90b2223" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Spellenburg, Richard</unittitle>
+                  <container id="22b531ba-fd3f-4622-849b-92123471a3e8" type="Box">12</container>
+                  <container parent="22b531ba-fd3f-4622-849b-92123471a3e8" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Spellenburg, Richard</unittitle>
+                  <container id="6d4535de-15e4-4fba-91d9-6e136632f2e1" type="Box">12</container>
+                  <container parent="6d4535de-15e4-4fba-91d9-6e136632f2e1" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Stafford, Thomas</unittitle>
+                  <container id="06125abe-8fad-4bf5-ae48-dd87e86fc601" type="Box">12</container>
+                  <container parent="06125abe-8fad-4bf5-ae48-dd87e86fc601" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Steadman, David</unittitle>
+                  <container id="18d44907-d469-410d-b2a2-f62b64ccb319" type="Box">12</container>
+                  <container parent="18d44907-d469-410d-b2a2-f62b64ccb319" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Stuart, Anthony</unittitle>
+                  <container id="6f050cc4-e3a6-4354-9349-b335d757143f" type="Box">13</container>
+                  <container parent="6f050cc4-e3a6-4354-9349-b335d757143f" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Stuart, Anthony</unittitle>
+                  <container id="430194df-3a1c-4129-8c40-1b441f155242" type="Box">13</container>
+                  <container parent="430194df-3a1c-4129-8c40-1b441f155242" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--T</unittitle>
+                  <container id="ef6b3c53-338f-463f-a6b3-7bfe737d7833" type="Box">13</container>
+                  <container parent="ef6b3c53-338f-463f-a6b3-7bfe737d7833" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--T</unittitle>
+                  <container id="22c745a3-9006-4fcc-977c-1d6d1e3a24cb" type="Box">13</container>
+                  <container parent="22c745a3-9006-4fcc-977c-1d6d1e3a24cb" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--T</unittitle>
+                  <container id="13718911-b9da-4ea1-aaf3-fd6d1f5ce8f7" type="Box">13</container>
+                  <container parent="13718911-b9da-4ea1-aaf3-fd6d1f5ce8f7" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--T</unittitle>
+                  <container id="808d563e-ebd5-4cb5-8e20-b6aa15694b5d" type="Box">13</container>
+                  <container parent="808d563e-ebd5-4cb5-8e20-b6aa15694b5d" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--U</unittitle>
+                  <container id="559ee6b4-5d6a-4334-8751-4f23091d7539" type="Box">13</container>
+                  <container parent="559ee6b4-5d6a-4334-8751-4f23091d7539" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--V</unittitle>
+                  <container id="77b5fcc9-8d48-4326-a48e-68d4be274202" type="Box">13</container>
+                  <container parent="77b5fcc9-8d48-4326-a48e-68d4be274202" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--W</unittitle>
+                  <container id="e7c2bfdf-4348-4522-b5b0-3415d65db377" type="Box">13</container>
+                  <container parent="e7c2bfdf-4348-4522-b5b0-3415d65db377" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--W</unittitle>
+                  <container id="5f4cd134-0719-4c0c-a713-f31094fb8a82" type="Box">14</container>
+                  <container parent="5f4cd134-0719-4c0c-a713-f31094fb8a82" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--W</unittitle>
+                  <container id="3c3c1174-023a-494c-84db-91869873d9f3" type="Box">14</container>
+                  <container parent="3c3c1174-023a-494c-84db-91869873d9f3" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--W</unittitle>
+                  <container id="52b04eb6-7a80-47ff-9cb1-ee37794e2691" type="Box">14</container>
+                  <container parent="52b04eb6-7a80-47ff-9cb1-ee37794e2691" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--W</unittitle>
+                  <container id="d2ca574a-6694-4f01-bfa6-9d56ce4ced26" type="Box">14</container>
+                  <container parent="d2ca574a-6694-4f01-bfa6-9d56ce4ced26" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--W</unittitle>
+                  <container id="ea1ea06c-61fa-41a9-a8f0-b346ddc184ee" type="Box">14</container>
+                  <container parent="ea1ea06c-61fa-41a9-a8f0-b346ddc184ee" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--X, Y, Z</unittitle>
+                  <container id="b2e8d4e1-0fb1-40b6-b72b-c4704146d943" type="Box">14</container>
+                  <container parent="b2e8d4e1-0fb1-40b6-b72b-c4704146d943" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Correspondence--Unidentified</unittitle>
+                  <container id="acd8ccce-bf5b-4abf-9d86-0ce351674412" type="Box">14</container>
+                  <container parent="acd8ccce-bf5b-4abf-9d86-0ce351674412" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series II: Publication Files</unittitle>
+            </did>
+            <scopecontent>
+               <p>This series consists of Dr. Paul S. Martin’s published works and related
+                  materials. The first part of this series containing published articles is arranged
+                  chronologically. The remaining files of correspondence and reviews are arranged
+                  alphabetically by the title of the published work to which the material
+                  refers.</p>
+            </scopecontent>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Articles</unittitle>
+                  <unitdate normal="1951/1959">1951-1959</unitdate>
+                  <container id="e065e48e-0ae5-4f33-9d34-1776ddc9a3a3" type="Box">14</container>
+                  <container parent="e065e48e-0ae5-4f33-9d34-1776ddc9a3a3" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Articles</unittitle>
+                  <unitdate normal="1960/1964">1960-1964</unitdate>
+                  <container id="5e0593da-e74e-4465-99a7-b31bee380887" type="Box">14</container>
+                  <container parent="5e0593da-e74e-4465-99a7-b31bee380887" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Articles</unittitle>
+                  <unitdate normal="1965/1967">1965-1967</unitdate>
+                  <container id="410e70a1-82f7-4358-8e42-b347c4d3a78f" type="Box">14</container>
+                  <container parent="410e70a1-82f7-4358-8e42-b347c4d3a78f" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Articles</unittitle>
+                  <unitdate normal="1968/1980">1968-1980</unitdate>
+                  <container id="2a79e9dd-b6aa-4097-98c0-f5a02c06bda8" type="Box">15</container>
+                  <container parent="2a79e9dd-b6aa-4097-98c0-f5a02c06bda8" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Articles</unittitle>
+                  <unitdate normal="1981/1986">1981-1986</unitdate>
+                  <container id="b903afa4-b634-4136-b712-9b507a5f248f" type="Box">15</container>
+                  <container parent="b903afa4-b634-4136-b712-9b507a5f248f" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Articles</unittitle>
+                  <unitdate normal="1987/1990">1987-1990</unitdate>
+                  <container id="451afffc-d234-42cc-b604-7500d7ee6157" type="Box">15</container>
+                  <container parent="451afffc-d234-42cc-b604-7500d7ee6157" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Articles</unittitle>
+                  <unitdate normal="1995">1995</unitdate>
+                  <container id="13081c19-3d81-4953-b617-5df9f81bac30" type="Box">15</container>
+                  <container parent="13081c19-3d81-4953-b617-5df9f81bac30" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Articles</unittitle>
+                  <unitdate normal="1998/1999">1998-1999</unitdate>
+                  <container id="34655620-171d-4105-9537-283878436236" type="Box">15</container>
+                  <container parent="34655620-171d-4105-9537-283878436236" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Articles</unittitle>
+                  <unitdate normal="2000/2006">2000-2006</unitdate>
+                  <container id="f0e86732-d2ff-42dc-947b-7c976b824f17" type="Box">15</container>
+                  <container parent="f0e86732-d2ff-42dc-947b-7c976b824f17" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Articles</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <container id="df7a1cda-69e4-494e-b416-2e19bc5c1c5d" type="Box">15</container>
+                  <container parent="df7a1cda-69e4-494e-b416-2e19bc5c1c5d" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Articles</unittitle>
+                  <unitdate>Undated</unitdate>
+                  <container id="39012ff3-02c5-4d26-9324-da92852d4227" type="Box">15</container>
+                  <container parent="39012ff3-02c5-4d26-9324-da92852d4227" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Correspondence--Gentry’s Rio Mayo Plants</unittitle>
+                  <container id="f0bb345e-08cc-4fc5-a4d5-a5bfdd51dd31" type="Box">15</container>
+                  <container parent="f0bb345e-08cc-4fc5-a4d5-a5bfdd51dd31" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Correspondence--Paleolithic Players on the American
+                     Stage </unittitle>
+                  <container id="f5acf3ea-3e35-4543-bbd2-a4af938c819a" type="Box">15</container>
+                  <container parent="f5acf3ea-3e35-4543-bbd2-a4af938c819a" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Correspondence--Pleistocene Extinctions: The Search
+                     for a Cause </unittitle>
+                  <container id="bcbc9398-d53f-41e0-87db-8fe1362a3218" type="Box">15</container>
+                  <container parent="bcbc9398-d53f-41e0-87db-8fe1362a3218" type="Folder"
+                     >11</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Correspondence--Quaternary Extinctions: A
+                     Prehistoric Revolution </unittitle>
+                  <container id="41a7fa08-8557-4ccd-bf30-723493b94b58" type="Box">15</container>
+                  <container parent="41a7fa08-8557-4ccd-bf30-723493b94b58" type="Folder"
+                     >12</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Correspondence--Quaternary Extinctions: A
+                     Prehistoric Revolution </unittitle>
+                  <container id="45fb5e35-f7ad-45a1-8d5b-04ebcdff2dcc" type="Box">16</container>
+                  <container parent="45fb5e35-f7ad-45a1-8d5b-04ebcdff2dcc" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Correspondence--Quaternary Extinctions: A
+                     Prehistoric Revolution </unittitle>
+                  <container id="47241162-eb54-4333-9600-24b1759c0dbf" type="Box">16</container>
+                  <container parent="47241162-eb54-4333-9600-24b1759c0dbf" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Correspondence--Twilight of the Mammoths: Ice Age
+                     Extinctions and the Rewilding of America </unittitle>
+                  <container id="6166c6a0-dca9-40d5-a80a-133447c68200" type="Box">16</container>
+                  <container parent="6166c6a0-dca9-40d5-a80a-133447c68200" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Correspondence--Twilight of the Mammoths: Ice Age
+                     Extinctions and the Rewilding of America </unittitle>
+                  <container id="b1f6244d-52c0-4d1f-b271-106d2d69c25d" type="Box">16</container>
+                  <container parent="b1f6244d-52c0-4d1f-b271-106d2d69c25d" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Resumes--Reports and Conferences America </unittitle>
+                  <container id="9a862299-5e3d-4941-9b6d-cc37a81e3fef" type="Box">16</container>
+                  <container parent="9a862299-5e3d-4941-9b6d-cc37a81e3fef" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Reviews--Gentry’s Rio Mayo Plants</unittitle>
+                  <unitdate normal="1998">1998</unitdate>
+                  <container id="31a303d3-f22e-4981-ac31-b433da3e2de7" type="Box">16</container>
+                  <container parent="31a303d3-f22e-4981-ac31-b433da3e2de7" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Reviews--The Last 10,000 Years: A Fossil Pollen
+                     Study of the American Southwest</unittitle>
+                  <unitdate normal="1963">1963</unitdate>
+                  <container id="2b906251-b778-405f-9e73-750d5b64c9ca" type="Box">16</container>
+                  <container parent="2b906251-b778-405f-9e73-750d5b64c9ca" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Reviews--Packrat Middens: The Last 40,000 Years of
+                     Biotic Change</unittitle>
+                  <unitdate normal="1990">1990</unitdate>
+                  <container id="37da2ae3-0042-4239-8603-a55aaaf62e69" type="Box">16</container>
+                  <container parent="37da2ae3-0042-4239-8603-a55aaaf62e69" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Reviews--Pleistocene Extinctions: The Search for a
+                     Cause</unittitle>
+                  <unitdate normal="1967">1967</unitdate>
+                  <container id="db86a2a1-c326-48ea-9e74-ad8feb3c3809" type="Box">16</container>
+                  <container parent="db86a2a1-c326-48ea-9e74-ad8feb3c3809" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Reviews--Quaternary Extinctions: A Prehistoric
+                     Revolution </unittitle>
+                  <unitdate normal="1984">1984</unitdate>
+                  <container id="9b3a361a-3c03-4202-aa0a-caa00513ea0e" type="Box">16</container>
+                  <container parent="9b3a361a-3c03-4202-aa0a-caa00513ea0e" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--Reviews--Twilight of the Mammoths: Ice Age
+                     Extinctions and the Rewilding of America </unittitle>
+                  <unitdate normal="2006">2006</unitdate>
+                  <container id="1e13ad51-a5fc-40f3-9799-dfec05df729a" type="Box">16</container>
+                  <container parent="1e13ad51-a5fc-40f3-9799-dfec05df729a" type="Folder"
+                     >11</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Publication Files--A Survey of Potential Natural Landmarks, Biotic
+                     Themes of the Mojave-Sonoran Desert Region</unittitle>
+                  <unitdate normal="1979">1979</unitdate>
+                  <container id="a3926cc8-ec30-4eba-b161-02e7e5a4fa1d" type="Box">17</container>
+                  <container parent="a3926cc8-ec30-4eba-b161-02e7e5a4fa1d" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series III: Research Files,</unittitle>
+            </did>
+            <arrangement>
+               <p>Series note: This series is arranged alphabetically in two subseries: Subseries 1:
+                  General files and Subseries 2: Agent Orange spray, Globe, Arizona, 1969</p>
+            </arrangement>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Subseries 1: General files,</unittitle>
+                  <unitdate normal="1910/2000" type="inclusive">1910-2000</unitdate>
+               </did>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Accelerator for Radioisotope Analysis</unittitle>
+                     <container id="9974c715-6e7f-41ca-87bf-86e9daf82156" type="box"> 17 </container>
+                     <container parent="9974c715-6e7f-41ca-87bf-86e9daf82156" type="folder"> 2
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Australia</unittitle>
+                     <container id="2341012c-0d06-40de-9a90-2378d91c0a98" type="box"> 17 </container>
+                     <container parent="2341012c-0d06-40de-9a90-2378d91c0a98" type="folder"> 3
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--“Changes in Frost Frequency and Desert Vegetation
+                        Assemblages in Grand Canyon, Arizona” by Robert H. Webb &amp; Janice E.
+                        Bowers</unittitle>
+                     <container id="33a9ab73-2dc4-4228-a907-ad6ffc54a395" type="box"> 17 </container>
+                     <container parent="33a9ab73-2dc4-4228-a907-ad6ffc54a395" type="folder"> 4
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--D’Autremont, Hugh</unittitle>
+                     <container id="3d643290-9e2a-44d3-b6fc-1632e8463cc6" type="box"> 17 </container>
+                     <container parent="3d643290-9e2a-44d3-b6fc-1632e8463cc6" type="folder"> 5
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Evolution of Terpenes</unittitle>
+                     <container id="2e5a7f1b-6cbd-45ea-ba9a-592f2a9d8af7" type="box"> 17 </container>
+                     <container parent="2e5a7f1b-6cbd-45ea-ba9a-592f2a9d8af7" type="folder"> 6
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--“Govenia in Mexico” by E.W. Greenwood</unittitle>
+                     <unitdate normal="1981">(1981)</unitdate>
+                     <container id="37c9bf20-9132-47bf-b3e1-a22c2581ebf8" type="box"> 17 </container>
+                     <container parent="37c9bf20-9132-47bf-b3e1-a22c2581ebf8" type="folder"> 7
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Grant proposals</unittitle>
+                     <unitdate normal="1970/1975">1970-1975</unitdate>
+                     <container id="f71f2796-178a-4fc1-a5f3-600ad2cafe8f" type="box"> 17 </container>
+                     <container parent="f71f2796-178a-4fc1-a5f3-600ad2cafe8f" type="folder"> 8
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Grant proposals</unittitle>
+                     <unitdate normal="1975/1979">1975-1979</unitdate>
+                     <container id="126e1abb-5fb7-456f-b709-01d347ca1086" type="box"> 17 </container>
+                     <container parent="126e1abb-5fb7-456f-b709-01d347ca1086" type="folder"> 9
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Grant proposals</unittitle>
+                     <unitdate normal="1980/1985">1980-1985</unitdate>
+                     <container id="c1a2b180-cc57-4d29-afd1-463c80319d6a" type="box"> 17 </container>
+                     <container parent="c1a2b180-cc57-4d29-afd1-463c80319d6a" type="folder"> 10
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Grant proposals</unittitle>
+                     <container id="a63fc1f7-ae3f-4f23-8d09-09166a3a3a2f" type="box"> 18 </container>
+                     <container parent="a63fc1f7-ae3f-4f23-8d09-09166a3a3a2f" type="folder"> 1
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--“Grazing Ranges of Arizona” by J.J.
+                           Thornber<unitdate>(1910)</unitdate></unittitle>
+                     <container id="d559d57d-8a57-4b99-8376-af8b89913d50" type="box"> 18 </container>
+                     <container parent="d559d57d-8a57-4b99-8376-af8b89913d50" type="folder"> 2
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Mammoth dates</unittitle>
+                     <container id="7cb9f7e2-c1be-4b0e-b175-b10b5620d6ad" type="box"> 18 </container>
+                     <container parent="7cb9f7e2-c1be-4b0e-b175-b10b5620d6ad" type="folder"> 3
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Marmota bones, Palomas Cave, New Mexico</unittitle>
+                     <container id="b19d0c94-2f80-477a-8181-6056773c96e7" type="box"> 18 </container>
+                     <container parent="b19d0c94-2f80-477a-8181-6056773c96e7" type="folder"> 4
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Mastodons</unittitle>
+                     <container id="b9d1c7e0-f99f-4f9f-97e0-d7755c1252ca" type="box"> 18 </container>
+                     <container parent="b9d1c7e0-f99f-4f9f-97e0-d7755c1252ca" type="folder"> 5
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Miscellaneous</unittitle>
+                     <container id="b83d5e02-429e-4d2c-b913-8ecbca95e1fa" type="box"> 18 </container>
+                     <container parent="b83d5e02-429e-4d2c-b913-8ecbca95e1fa" type="folder"> 6
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Mount Graham</unittitle>
+                     <container id="dbcd3a70-bea9-45ec-b0bc-c8a86e79382c" type="box"> 18 </container>
+                     <container parent="dbcd3a70-bea9-45ec-b0bc-c8a86e79382c" type="folder"> 7
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Mount Graham</unittitle>
+                     <container id="9aab11ec-9a07-4561-80d0-1ebde56b83c3" type="box"> 18 </container>
+                     <container parent="9aab11ec-9a07-4561-80d0-1ebde56b83c3" type="folder"> 8
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Mount Graham</unittitle>
+                     <container id="6c7af726-379d-4f7f-ae12-25dd86a0363e" type="box"> 18 </container>
+                     <container parent="6c7af726-379d-4f7f-ae12-25dd86a0363e" type="folder"> 9
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Newspaper clippings</unittitle>
+                     <container id="8bf7d92f-ebdd-49b7-9141-f8198265519c" type="box"> 18 </container>
+                     <container parent="8bf7d92f-ebdd-49b7-9141-f8198265519c" type="folder"> 10
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Page Ranch</unittitle>
+                     <container id="48289470-a766-4a31-92b3-4a7387d3aef7" type="box"> 18 </container>
+                     <container parent="48289470-a766-4a31-92b3-4a7387d3aef7" type="folder"> 11
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Research Ranch/Audubon Appleton-Whittel Research
+                        Ranch</unittitle>
+                     <container id="4a563d0b-9c26-487a-bc91-6ad42bae73ed" type="box"> 18 </container>
+                     <container parent="4a563d0b-9c26-487a-bc91-6ad42bae73ed" type="folder"> 12
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Research Ranch/Audubon Appleton-Whittel Research
+                        Ranch</unittitle>
+                     <container id="e59c90d3-d494-4809-ba7e-d74577b0ca6b" type="box"> 19 </container>
+                     <container parent="e59c90d3-d494-4809-ba7e-d74577b0ca6b" type="folder"> 1
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Santa Rita Research Station</unittitle>
+                     <container id="d6d60280-ef50-4c1e-bb0f-bc621ad5a376" type="box"> 19 </container>
+                     <container parent="d6d60280-ef50-4c1e-bb0f-bc621ad5a376" type="folder"> 2
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Santa Rita Research Station</unittitle>
+                     <container id="fa9fc695-1de9-4338-a80f-b8a95b426188" type="box"> 19 </container>
+                     <container parent="fa9fc695-1de9-4338-a80f-b8a95b426188" type="folder"> 3
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Santa Rita Research Station</unittitle>
+                     <container id="8d9d5a4f-9c72-45c3-94d4-0c66b1a0a1c0" type="box"> 19 </container>
+                     <container parent="8d9d5a4f-9c72-45c3-94d4-0c66b1a0a1c0" type="folder"> 4
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Sierra de Alamos, Sonora, Mexico</unittitle>
+                     <container id="f7618569-a77a-45f5-9ce5-72860b7fb2e1" type="box"> 19 </container>
+                     <container parent="f7618569-a77a-45f5-9ce5-72860b7fb2e1" type="folder"> 5
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Southwestern flora and fauna</unittitle>
+                     <container id="5eba0253-ad77-4f6d-bc56-76b928358109" type="box"> 19 </container>
+                     <container parent="5eba0253-ad77-4f6d-bc56-76b928358109" type="folder"> 6
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Van Devender, Thomas</unittitle>
+                     <container id="972c2e8d-87d7-4f14-8242-a970478e40a0" type="box"> 19 </container>
+                     <container parent="972c2e8d-87d7-4f14-8242-a970478e40a0" type="folder"> 7
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Plant List (1)</unittitle>
+                     <container id="6eec7e42-86e3-4a5e-bd96-09b1643254bc" type="box"> 19 </container>
+                     <container parent="6eec7e42-86e3-4a5e-bd96-09b1643254bc" type="folder"> 8
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Plant List (2)</unittitle>
+                     <container id="0f4d31d0-579a-4157-bab0-0cf79a63e7d5" type="box"> 19 </container>
+                     <container parent="0f4d31d0-579a-4157-bab0-0cf79a63e7d5" type="folder"> 9
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Plant List (3)</unittitle>
+                     <container id="7b113119-3513-4c4a-89eb-8b7e29861a86" type="box"> 19 </container>
+                     <container parent="7b113119-3513-4c4a-89eb-8b7e29861a86" type="folder"> 10
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Research Files--Plant List (4)</unittitle>
+                     <container id="2f923c80-a7ea-4dd2-8a12-8a8dbac26032" type="box"> 19 </container>
+                     <container parent="2f923c80-a7ea-4dd2-8a12-8a8dbac26032" type="folder"> 11
+                     </container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Subseries 2: Agent Orange Spray, Globe, Arizona,</unittitle>
+                  <unitdate normal="1969" type="inclusive">1969</unitdate>
+               </did>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe,
+                        Arizona,<title>--Correspondence</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="9a313f67-72e6-499e-9967-1e305cae3aed" type="box"> 20 </container>
+                     <container parent="9a313f67-72e6-499e-9967-1e305cae3aed" type="folder"> 1
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe,
+                        Arizona,<title>--Correspondence</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="499e0910-425c-4730-a17f-ef681a138174" type="box"> 20 </container>
+                     <container parent="499e0910-425c-4730-a17f-ef681a138174" type="folder"> 2
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe,
+                        Arizona,<title>--Correspondence</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="3d72becb-1625-4223-a0e8-c7bdb787a6b6" type="box"> 20 </container>
+                     <container parent="3d72becb-1625-4223-a0e8-c7bdb787a6b6" type="folder"> 3
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Herbicide
+                           Information</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="cee726ac-680e-4c03-97dc-0ac2fb0ac902" type="box"> 20 </container>
+                     <container parent="cee726ac-680e-4c03-97dc-0ac2fb0ac902" type="folder"> 4
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Herbicide
+                           Reports</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="ff794b1d-5ef9-4d2d-822a-618f557e0e9c" type="box"> 20 </container>
+                     <container parent="ff794b1d-5ef9-4d2d-822a-618f557e0e9c" type="folder"> 5
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Laboratory
+                           Reports</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="13778be0-b35f-4b3b-90f1-7cf79dd86711" type="box"> 20 </container>
+                     <container parent="13778be0-b35f-4b3b-90f1-7cf79dd86711" type="folder"> 6
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--McKusick,
+                        Robert</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="94983d94-9291-42ea-8a62-76c144a38e9f" type="box"> 20 </container>
+                     <container parent="94983d94-9291-42ea-8a62-76c144a38e9f" type="folder"> 7
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Miscellaneous and
+                           notes</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="307c7e4c-64ce-4b3c-806f-bb2ce4a643d6" type="box"> 20 </container>
+                     <container parent="307c7e4c-64ce-4b3c-806f-bb2ce4a643d6" type="folder"> 8
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Miscellaneous and
+                           notes</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="eb42d9dc-1177-4b98-ba14-763fb873914c" type="box"> 20 </container>
+                     <container parent="eb42d9dc-1177-4b98-ba14-763fb873914c" type="folder"> 9
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Newspaper
+                           clippings</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="b3ae8865-f74a-41b1-a2eb-060fee6e746c" type="box"> 20 </container>
+                     <container parent="b3ae8865-f74a-41b1-a2eb-060fee6e746c" type="folder"> 10
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Newspaper
+                           clippings</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="ff737738-d020-4bd9-ba9c-40b71d2d33cb" type="box"> 21 </container>
+                     <container parent="ff737738-d020-4bd9-ba9c-40b71d2d33cb" type="folder"> 1
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Newspaper
+                           clippings</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="a2849381-4416-42cc-bc65-9df3aec8cb29" type="box"> 21 </container>
+                     <container parent="a2849381-4416-42cc-bc65-9df3aec8cb29" type="folder"> 2
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Newspaper
+                           clippings</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="3a976b80-ba94-4880-889b-021366bb3042" type="box"> 21 </container>
+                     <container parent="3a976b80-ba94-4880-889b-021366bb3042" type="folder"> 3
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe,
+                        Arizona,<title>--Questionnaires</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="178c14dc-7fdb-4715-ab80-76e003246cd4" type="box"> 21 </container>
+                     <container parent="178c14dc-7fdb-4715-ab80-76e003246cd4" type="folder"> 4
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe,
+                           Arizona,<title>--Questionnaires--Crestwood</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="7b8a65dc-53fe-4ea8-aa31-1a361e27a946" type="box"> 21 </container>
+                     <container parent="7b8a65dc-53fe-4ea8-aa31-1a361e27a946" type="folder"> 5
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe,
+                           Arizona,<title>--Questionnaires--Crestwood</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="f360c057-61ff-490d-8f7f-92300bb0923f" type="box"> 21 </container>
+                     <container parent="f360c057-61ff-490d-8f7f-92300bb0923f" type="folder"> 6
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe,
+                           Arizona,<title>--Questionnaires--Crestwood</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="48c3363b-3b4a-49a3-ae1d-1e3b79b6ac90" type="box"> 21 </container>
+                     <container parent="48c3363b-3b4a-49a3-ae1d-1e3b79b6ac90" type="folder"> 7
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Questionnaires--Ice
+                           House Canyon</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="4721ed53-bd3a-4e57-838c-c8c9c7532d12" type="box"> 21 </container>
+                     <container parent="4721ed53-bd3a-4e57-838c-c8c9c7532d12" type="folder"> 8
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Questionnaires--Kellver
+                           Canyon</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="236e0acf-d147-4748-a9c4-4ea8fc86ac90" type="box"> 21 </container>
+                     <container parent="236e0acf-d147-4748-a9c4-4ea8fc86ac90" type="folder"> 9
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Questionnaires--Russel
+                           Gulch</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="79c02ec2-ed7c-4377-8da4-316b42e4021a" type="box"> 21 </container>
+                     <container parent="79c02ec2-ed7c-4377-8da4-316b42e4021a" type="folder"> 10
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Questionnaires--Six
+                           Shooters</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="fdfd2e8d-6312-42cb-98c7-09dc2721409e" type="box"> 21 </container>
+                     <container parent="fdfd2e8d-6312-42cb-98c7-09dc2721409e" type="folder"> 11
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Reports of
+                           investigations</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="ed439421-a93b-4499-a19c-ce6cbaa4da55" type="box"> 21 </container>
+                     <container parent="ed439421-a93b-4499-a19c-ce6cbaa4da55" type="folder"> 12
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Shoecraft, Willard and
+                           Billie</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="5d888f32-7bce-4a3e-a588-3a9f041f844d" type="box"> 21 </container>
+                     <container parent="5d888f32-7bce-4a3e-a588-3a9f041f844d" type="folder"> 13
+                     </container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did>
+                     <unittitle>Agent Orange spray, Globe, Arizona,<title>--Shoecraft et al. vs. Dow
+                           Chemical</title></unittitle>
+                     <unitdate normal="1969">1969</unitdate>
+                     <container id="cdcd086c-7925-4009-aba7-50e227af7d16" type="box"> 21 </container>
+                     <container parent="cdcd086c-7925-4009-aba7-50e227af7d16" type="folder"> 14
+                     </container>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series IV: Newspaper Clippings,<unitdate>1959-2000</unitdate></unittitle>
+            </did>
+            <arrangement>
+               <p>Series note: These collected articles focus on the career and research of Dr. Paul
+                  S. Martin. This series is arranged chronologically. </p>
+            </arrangement>
+            <c02 level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate normal="1959/1964">1959-1964</unitdate>
+                  <container id="32b187ad-d1ac-4bba-9ba7-0302caba5b7a" type="Box">22</container>
+                  <container parent="32b187ad-d1ac-4bba-9ba7-0302caba5b7a" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate normal="1965/1969">1965-1969</unitdate>
+                  <container id="7898d404-e8d1-4141-8d81-ad298a28b068" type="Box">22</container>
+                  <container parent="7898d404-e8d1-4141-8d81-ad298a28b068" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate normal="1970/1974">1970-1974</unitdate>
+                  <container id="7ab3102e-faad-4bea-adc0-0afa82f11b39" type="Box">22</container>
+                  <container parent="7ab3102e-faad-4bea-adc0-0afa82f11b39" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate normal="1975/1977">1975-1977</unitdate>
+                  <container id="13063b50-0889-4d73-9832-18cc3d616148" type="Box">22</container>
+                  <container parent="13063b50-0889-4d73-9832-18cc3d616148" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate normal="1978/1979">1978-1979</unitdate>
+                  <container id="d3f4b4e8-fa7b-4c0d-90f5-abbeeb9048cb" type="Box">22</container>
+                  <container parent="d3f4b4e8-fa7b-4c0d-90f5-abbeeb9048cb" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate normal="1980/1984">1980-1984</unitdate>
+                  <container id="a90874cb-99a4-4dbf-9791-324187ee176b" type="Box">22</container>
+                  <container parent="a90874cb-99a4-4dbf-9791-324187ee176b" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate normal="1985/1987">1985-1987</unitdate>
+                  <container id="f5cea436-c7df-45b6-9149-572182b6d414" type="Box">22</container>
+                  <container parent="f5cea436-c7df-45b6-9149-572182b6d414" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate normal="1988/1989">1988-1989</unitdate>
+                  <container id="57f43b00-3ea4-4f09-b783-1d74c4a200cd" type="Box">22</container>
+                  <container parent="57f43b00-3ea4-4f09-b783-1d74c4a200cd" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Newspaper clippings<unitdate>1990-1993</unitdate></unittitle>
+                  <container id="b3543241-2344-4d5c-9079-954cfe57858f" type="Box">22</container>
+                  <container parent="b3543241-2344-4d5c-9079-954cfe57858f" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate normal="1993/1994">1993-1994</unitdate>
+                  <container id="c96709c3-0642-427f-95c1-e9d62e1264d0" type="Box">22</container>
+                  <container parent="c96709c3-0642-427f-95c1-e9d62e1264d0" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate normal="1995">1995</unitdate>
+                  <container id="c61fe1ed-358c-4e76-b396-1d5e521c0dcf" type="Box">23</container>
+                  <container parent="c61fe1ed-358c-4e76-b396-1d5e521c0dcf" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate normal="1996/1999">1996-1999</unitdate>
+                  <container id="2f672eeb-3bab-439e-926d-6e8e7ce146a9" type="Box">23</container>
+                  <container parent="2f672eeb-3bab-439e-926d-6e8e7ce146a9" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate normal="1999/2000">1999-2000</unitdate>
+                  <container id="9e24f2e6-063b-42e8-9532-9ddfc1428b93" type="Box">23</container>
+                  <container parent="9e24f2e6-063b-42e8-9532-9ddfc1428b93" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series V: Tumamoc Hill Desert
+                  Laboratory,<unitdate>1960-2000</unitdate></unittitle>
+            </did>
+            <arrangement>
+               <p>Series note: This series is arranged alphabetically. </p>
+            </arrangement>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Bibliography lists of Desert Lab
+                        Researchers</title></unittitle>
+                  <container id="76db3f3f-9db7-4ca3-a3a9-8cface059109" type="Box">23</container>
+                  <container parent="76db3f3f-9db7-4ca3-a3a9-8cface059109" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Bibliography lists of Desert Lab
+                        Researchers</title></unittitle>
+                  <container id="22c1f2b9-27d8-44c3-b2c7-07e4fa4e2c37" type="Box">23</container>
+                  <container parent="22c1f2b9-27d8-44c3-b2c7-07e4fa4e2c37" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Blueprints and
+                     maps</title></unittitle>
+                  <container id="44134a6a-022d-409a-bf77-472b85ccfd66" type="Box">23</container>
+                  <container parent="44134a6a-022d-409a-bf77-472b85ccfd66" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert
+                     Laboratory<title>--Correspondence</title></unittitle>
+                  <container id="e4c77848-0459-43f0-87fa-4e9fee1a816d" type="Box">23</container>
+                  <container parent="e4c77848-0459-43f0-87fa-4e9fee1a816d" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert
+                     Laboratory<title>--Correspondence</title></unittitle>
+                  <container id="a7e78afd-ac8d-434c-8b37-173fe3e98717" type="Box">23</container>
+                  <container parent="a7e78afd-ac8d-434c-8b37-173fe3e98717" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Events</title></unittitle>
+                  <container id="ca30ef22-c375-4305-83f1-af5ed2f4d1b6" type="Box">23</container>
+                  <container parent="ca30ef22-c375-4305-83f1-af5ed2f4d1b6" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Faculty, Researchers and
+                        Staff</title></unittitle>
+                  <container id="77f79b01-e4b0-4cc7-987f-935d3969ac19" type="Box">23</container>
+                  <container parent="77f79b01-e4b0-4cc7-987f-935d3969ac19" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Fauna</title></unittitle>
+                  <container id="1c164129-0dff-4d95-88d0-9b9b92910fde" type="Box">23</container>
+                  <container parent="1c164129-0dff-4d95-88d0-9b9b92910fde" type="Folder"
+                     >11</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Flora</title></unittitle>
+                  <container id="6b17db24-7c1b-4337-9f73-00c8498e25c8" type="Box">24</container>
+                  <container parent="6b17db24-7c1b-4337-9f73-00c8498e25c8" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Flora</title></unittitle>
+                  <container id="78744b2b-0ee9-4c28-9433-e71ff15dc53d" type="Box">24</container>
+                  <container parent="78744b2b-0ee9-4c28-9433-e71ff15dc53d" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Flora--Tumamoca
+                        macdouglaii</title></unittitle>
+                  <container id="a6498a94-b713-4fc4-9e03-45dfffc81b10" type="Box">24</container>
+                  <container parent="a6498a94-b713-4fc4-9e03-45dfffc81b10" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Fundraising
+                        correspondence</title></unittitle>
+                  <container id="c8350403-a2db-41c7-a7fa-b91d2a92aa1f" type="Box">24</container>
+                  <container parent="c8350403-a2db-41c7-a7fa-b91d2a92aa1f" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Fundraising
+                        correspondence</title></unittitle>
+                  <container id="fc74ac4a-31b7-45fb-a8d0-bbdc9e46d1aa" type="Box">24</container>
+                  <container parent="fc74ac4a-31b7-45fb-a8d0-bbdc9e46d1aa" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Fundraising
+                        correspondence</title></unittitle>
+                  <container id="89574d57-ac0f-4737-8ce3-dbffd643c2f8" type="Box">24</container>
+                  <container parent="89574d57-ac0f-4737-8ce3-dbffd643c2f8" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Fundraising
+                     materials</title></unittitle>
+                  <container id="4fbb9213-19ad-4813-944d-53887a62bdb5" type="Box">24</container>
+                  <container parent="4fbb9213-19ad-4813-944d-53887a62bdb5" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Fundraising
+                     materials</title></unittitle>
+                  <container id="96a139f4-e95f-4ff1-b23d-e7afc91a8f84" type="Box">24</container>
+                  <container parent="96a139f4-e95f-4ff1-b23d-e7afc91a8f84" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Fundraising
+                     materials</title></unittitle>
+                  <container id="cb375bc6-f17a-4a13-9139-941488485a14" type="Box">24</container>
+                  <container parent="cb375bc6-f17a-4a13-9139-941488485a14" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--History</title></unittitle>
+                  <container id="eb292690-6dff-4d8b-8b4f-cec9acb4431f" type="Box">24</container>
+                  <container parent="eb292690-6dff-4d8b-8b4f-cec9acb4431f" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--History</title></unittitle>
+                  <container id="a502bfa5-9054-474e-aaee-314e217d9cc8" type="Box">24</container>
+                  <container parent="a502bfa5-9054-474e-aaee-314e217d9cc8" type="Folder"
+                     >11</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Library</title></unittitle>
+                  <container id="e895dc0b-23ac-49cc-a82a-b764692abd23" type="Box">24</container>
+                  <container parent="e895dc0b-23ac-49cc-a82a-b764692abd23" type="Folder"
+                     >12</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Negatives</title></unittitle>
+                  <container id="006276ec-2681-46f7-a219-bd277d664d5f" type="Box">25</container>
+                  <container parent="006276ec-2681-46f7-a219-bd277d664d5f" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Newspaper
+                     clippings</title></unittitle>
+                  <container id="fdb99270-c838-43d5-b1e8-b0eae32713cc" type="Box">25</container>
+                  <container parent="fdb99270-c838-43d5-b1e8-b0eae32713cc" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Newspaper
+                     clippings</title></unittitle>
+                  <container id="8411d9db-353d-49e8-8d25-7ca5cb0865b7" type="Box">25</container>
+                  <container parent="8411d9db-353d-49e8-8d25-7ca5cb0865b7" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Photographs</title></unittitle>
+                  <container id="41d253c1-30aa-4e74-82d0-34482171a917" type="Box">25</container>
+                  <container parent="41d253c1-30aa-4e74-82d0-34482171a917" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Photographs</title></unittitle>
+                  <container id="2b2eb590-9b18-42a6-83e2-bb252d6d1521" type="Box">25</container>
+                  <container parent="2b2eb590-9b18-42a6-83e2-bb252d6d1521" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Planning and
+                     policy</title></unittitle>
+                  <container id="502bd21c-0e06-4e6d-bf11-79ebc9dd3f71" type="Box">25</container>
+                  <container parent="502bd21c-0e06-4e6d-bf11-79ebc9dd3f71" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Planning and
+                     policy</title></unittitle>
+                  <container id="304e5bcb-ca40-4a4d-a606-f87fc7e5f2ed" type="Box">25</container>
+                  <container parent="304e5bcb-ca40-4a4d-a606-f87fc7e5f2ed" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Planning and
+                     policy</title></unittitle>
+                  <container id="7c107f81-d696-4598-b105-e7b651af5001" type="Box">25</container>
+                  <container parent="7c107f81-d696-4598-b105-e7b651af5001" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Planning and
+                     policy</title></unittitle>
+                  <container id="d4514a17-fdeb-49ba-bc48-03bedb11b045" type="Box">25</container>
+                  <container parent="d4514a17-fdeb-49ba-bc48-03bedb11b045" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Plant
+                     phenology</title></unittitle>
+                  <container id="560282c1-e0b6-4eab-b461-9a25bdecfe0e" type="Box">25</container>
+                  <container parent="560282c1-e0b6-4eab-b461-9a25bdecfe0e" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Research
+                     files</title></unittitle>
+                  <container id="f8143a85-541f-400f-9174-0aa81d206414" type="Box">25</container>
+                  <container parent="f8143a85-541f-400f-9174-0aa81d206414" type="Folder"
+                     >11</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Research
+                     files</title></unittitle>
+                  <container id="86d31edb-b8c8-4e94-8fcd-dbeb04ce15d4" type="Box">26</container>
+                  <container parent="86d31edb-b8c8-4e94-8fcd-dbeb04ce15d4" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Research
+                     files</title></unittitle>
+                  <container id="69e7fbf5-1f9f-433b-9f17-91e9a05e2f95" type="Box">26</container>
+                  <container parent="69e7fbf5-1f9f-433b-9f17-91e9a05e2f95" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Research files--“Comparative
+                        Collection Plants of the Southwest”, </title></unittitle>
+                  <unitdate normal="1986">1986</unitdate>
+                  <container id="fc64e3e3-2048-40c6-93c6-45913cdd1e4a" type="Box">26</container>
+                  <container parent="fc64e3e3-2048-40c6-93c6-45913cdd1e4a" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Research
+                     files--Notes</title></unittitle>
+                  <container id="19c4cd98-a640-4d9a-bff6-a739e0ca2a8a" type="Box">26</container>
+                  <container parent="19c4cd98-a640-4d9a-bff6-a739e0ca2a8a" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Smiley,
+                     Terah</title></unittitle>
+                  <container id="ae98f6c3-e77b-4a00-80a2-cf40d43ded3f" type="Box">26</container>
+                  <container parent="ae98f6c3-e77b-4a00-80a2-cf40d43ded3f" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Threats to Tumamoc Hill Desert
+                        Lab,</title></unittitle>
+                  <unitdate certainty="approximate" normal="1960/1980">1960’s-1980</unitdate>
+                  <container id="657bce71-2178-4574-8afb-5822c1f7330c" type="Box">26</container>
+                  <container parent="657bce71-2178-4574-8afb-5822c1f7330c" type="Folder"
+                     >6</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Threats to Tumamoc Hill Desert
+                        Lab,</title></unittitle>
+                  <unitdate certainty="approximate" normal="1980/1990">1980’s-1990</unitdate>
+                  <container id="6080ea0d-66b1-4523-9b40-a6e50b572496" type="Box">26</container>
+                  <container parent="6080ea0d-66b1-4523-9b40-a6e50b572496" type="Folder"
+                     >7</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Threats to Tumamoc Hill Desert
+                        Lab,</title></unittitle>
+                  <unitdate certainty="approximate" normal="1980/1990">1980's-1990</unitdate>
+                  <container id="c45fa144-88e9-4b05-bfeb-d2044550a961" type="Box">26</container>
+                  <container parent="c45fa144-88e9-4b05-bfeb-d2044550a961" type="Folder"
+                     >8</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Threats to Tumamoc Hill Desert
+                        Lab--Newspaper clippings</title></unittitle>
+                  <container id="90e20fbd-59d0-4ce8-9826-f80e1aad1029" type="Box">26</container>
+                  <container parent="90e20fbd-59d0-4ce8-9826-f80e1aad1029" type="Folder"
+                     >9</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Threats to Tumamoc Hill Desert
+                        Lab--Newspaper clippings</title></unittitle>
+                  <container id="97021a18-d4e7-4591-8678-a719faf609fc" type="Box">26</container>
+                  <container parent="97021a18-d4e7-4591-8678-a719faf609fc" type="Folder"
+                     >10</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Tumamoc Hill Desert Lab Advisory
+                        Committee</title></unittitle>
+                  <container id="63c5bb55-5223-4e25-b2f6-7dd685708ccc" type="Box">27</container>
+                  <container parent="63c5bb55-5223-4e25-b2f6-7dd685708ccc" type="Folder"
+                     >1</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Tumamoc Hill Desert Lab Advisory
+                        Committee</title></unittitle>
+                  <container id="aaecfe19-2580-42a3-a19b-1e7e2be49b6e" type="Box">27</container>
+                  <container parent="aaecfe19-2580-42a3-a19b-1e7e2be49b6e" type="Folder"
+                     >2</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Tumamoc Hill Desert Lab Advisory
+                        Committee</title></unittitle>
+                  <container id="03ba363e-98fb-400e-946a-44275bc7f9af" type="Box">27</container>
+                  <container parent="03ba363e-98fb-400e-946a-44275bc7f9af" type="Folder"
+                     >3</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Tumamoc Hill Desert Lab Advisory
+                        Committee</title></unittitle>
+                  <container id="56e58f30-1a5b-4ba6-8e27-10ef6d46df6b" type="Box">27</container>
+                  <container parent="56e58f30-1a5b-4ba6-8e27-10ef6d46df6b" type="Folder"
+                     >4</container>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <unittitle>Tumamoc Hill Desert Laboratory<title>--Tumamoc Hill Desert Lab Advisory
+                        Committee</title></unittitle>
+                  <container id="629b722e-baf4-4ddc-9e72-da9a58e7ec47" type="Box">27</container>
+                  <container parent="629b722e-baf4-4ddc-9e72-da9a58e7ec47" type="Folder"
+                     >5</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series VI: Scrapbooks,<unitdate>1951-1970</unitdate></unittitle>
+            </did>
+            <arrangement>
+               <p>Series note: This series is arranged chronologically. </p>
+            </arrangement>
+            <c02 level="file">
+               <did>
+                  <container id="0d0d586d-52b0-4585-8945-f218c5a07adf" type="Box">28</container>
+                  <unittitle>Three scrapbooks,</unittitle>
+                  <unitdate normal="1951/1970">1951-1960</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="6aa543c4-866b-4313-80eb-7e47e56428e5" type="Box">29</container>
+                  <unittitle>Three scrapbooks,</unittitle>
+                  <unitdate normal="1960/1961">1960-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="bee867f0-7e20-40e6-9615-b6c9a3d9ff0a" type="Box">30</container>
+                  <unittitle>Three scrapbooks,</unittitle>
+                  <unitdate normal="1962/1970">1962-1970</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

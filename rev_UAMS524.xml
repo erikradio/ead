@@ -1,0 +1,968 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+		<eadid encodinganalog="852">UAMS524</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="title">Lawrence Gipe Operation Streamline Sketches,
+						<date calendar="gregorian" certainty="approximate" era="ce"
+						normal="2012/2014" type="inclusive">circa 2012-2014</date>
+				</titleproper>
+				<titleproper altrender="nodisplay" type="filing">Gipe, Lawrence Operation Streamline
+					Sketches </titleproper>
+				<author>Processed by Trent S. Purdy.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>University of Arizona Libraries, Special Collections</publisher>
+				<address>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+				</address>
+				<date calendar="gregorian" era="ce" normal="2014">2014</date>
+				<p>Arizona Board of Regents. All Rights Reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Inventory encoded in Oxygen XML editor by Trent S. Purdy. <date
+					encodinganalog="date" era="ce" normal="20141112">November 12,
+				2014</date></creation>
+			<langusage>Finding aid is in<language langcode="eng"> English.</language></langusage>
+			<descrules>Finding aid based on DACS (Describing Archives: A Content
+				Standard).</descrules>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date normal="2017-06-23">2017-06-23</date>
+				<item>This finding aid was updated in alignment with LC EAD 2.0 specifications using
+					a python script created by Erik Radio.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+
+	<archdesc encodinganalog="351$c" level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle encodinganalog="245" label="Collection Name">Lawrence Gipe Operation
+				Streamline Sketches, <unitdate label="Dates" normal="2012/2014"
+					type="inclusive">circa 2012-2014</unitdate></unittitle>
+			<unitid countrycode="US" encodinganalog="099" label="Collection Number"
+				repositorycode="US-azu">MS 524</unitid>
+			<origination label="Creator">
+				<persname encodinganalog="100" source="lcnaf">Gipe, Lawrence, 1962-</persname>
+			</origination>
+			<abstract label="Abstract">This collection contains sketches by Lawrence Gipe created in
+				pencil on paper. The materials document trials of detainees who are accused of
+				illegal immigration into the United States as part of the Operation Streamline
+				program.</abstract>
+			<physdesc encodinganalog="300$a" label="Physical Description"><extent>1 linear
+					feet</extent></physdesc>
+			<repository label="Repository">
+				<corpname>University of Arizona Libraries, Special Collections</corpname>
+				<address>
+					<addressline>University of Arizona</addressline>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+				</address></repository>
+			<langmaterial>Materials are in <language encodinganalog="546" langcode="eng"
+					>English.</language></langmaterial>
+		</did>
+		<accessrestrict>
+			<head>Restrictions</head>
+			<p>There are no restrictions on this collection.</p>
+		</accessrestrict>
+		<userestrict>
+			<head>Copyright</head>
+			<p>It is the responsibility of the user to obtain permission to publish from the owner
+				of the copyright (the institution, the creator of the record, the author or his/her
+				transferees, heirs, legates, or literary executors). The user agrees to indemnify
+				and hold harmless the Arizona Board of Regents for the University of Arizona, its
+				officers, employees, and agents from and against all claims made by any person
+				asserting that he or she is an owner of copyright.</p>
+		</userestrict>
+		<prefercite>
+			<head>Credit Line</head>
+			<p>Lawrence Gipe Operation Streamline Sketches (MS 524). Special Collections, University
+				of Arizona Libraries.</p>
+		</prefercite>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Lawrence Gipe is an American painter and Assistant Professor of 2D Studies at the
+				University of Arizona School Of Art. Gipe also works closely with the End Streamline
+				Coalition which is a group of organizations, community groups, and individuals
+				dedicated to ending the Operation Streamline program in Tucson, AZ. This program
+				began in the United States Border Patrol's Del Rio sector in west Texas and spread
+				across the United States – Mexico border. Operation Streamline mandates that
+				undocumented immigrants crossing the border be prosecuted through the federal
+				criminal justice system rather than the civil immigration system as had been the
+				previous procedure. Trials under the Operation Streamline program have been
+				criticized for their expediency, excessive prison sentences, and for prosecuting
+				detainees en masse. This project was funded in part by the Confluencenter for
+				Creative Inquiry at the University of Arizona.</p>
+		</bioghist>
+		<arrangement encodinganalog="351$a">
+			<head>Arrangement</head>
+			<p>This collection is organized into one series</p>
+			<list>
+				<item>Series I:Sketches, <unitdate>circa 2012-2014</unitdate></item>
+			</list>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>This collection is comprised of sketches done is pencil by Lawrence Gipe which
+				document trials of detainees accused of illegal immigration into the United States
+				as part of the Operation Streamline program. Items 11 and 19 have sketches on both
+				sides of the piece. The side that is signed by Lawrence Gipe is considered to be the
+				front of the item. Items 33-37 can be viewed in the Special Collections reading
+				Room.</p>
+		</scopecontent>
+		<relatedmaterial>
+			<p><extref 
+					xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/"
+					title="The Documented Border Digital Exhibit"/></p>
+			<p><extref 
+					xlink:href="http://speccoll.library.arizona.edu/collections/celeste-gonzalez-de-bustamante-and-jeannine-e-relly-oral-history-collection"
+				
+					title="The Celeste Gonzalez de Bustamante and Jeannine E. Relly Oral History Collection"
+				/></p>
+		</relatedmaterial>
+		<controlaccess>
+			<persname>Gipe, Lawrence, 1962-.</persname>
+			<subject>Illegal aliens – Arizona.</subject>
+			<subject>Illegal aliens – Government policy – United States.</subject>
+			<subject>Political activists – United States.</subject>
+			<genreform>Courtroom illustrations </genreform>
+		</controlaccess>
+
+		<dsc type="combined">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>Sketches,</unittitle>
+					<unitdate type="inclusive">circa 2012-2014</unitdate>
+				</did>
+				<scopecontent>
+					<p>Series contains courtroom sketches by Lawrence Gipe done in pencil on paper.
+						Titles have been derived from Lawrence Gipe's website and from inscriptions
+						on the works.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="b9a8bf40-de60-43e6-9d45-6339a210c554" type="box"
+							>1</container>
+						<container parent="b9a8bf40-de60-43e6-9d45-6339a210c554" type="item"
+							>1</container>
+						<unittitle>6 Children – All American Citizens,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/20669372c7ba8211528936eab7c6c3fb.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/135"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+
+
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6c4f89bc-8664-424f-858f-dc94ac980178" type="box"
+							>1</container>
+						<container parent="6c4f89bc-8664-424f-858f-dc94ac980178" type="item"
+							>2</container>
+						<unittitle>Caught Crossing in Douglas was Attempting to Visit His Newly-Born
+							Daughter,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/7f00d2f8a56dcc49927f0d381cd4d1ae.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/136"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="70b0a400-9a0c-4a57-8603-7df4e4bbb547" type="box"
+							>1</container>
+						<container parent="70b0a400-9a0c-4a57-8603-7df4e4bbb547" type="item"
+							>3</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/1f98273f1f44ed39834a9f2696dda2ae.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/137"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b995cc6f-2464-48ea-b2c1-e67302192f55" type="box"
+							>1</container>
+						<container parent="b995cc6f-2464-48ea-b2c1-e67302192f55" type="item"
+							>4</container>
+						<unittitle>Shackled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/5daa49c16637f64ee4f747aa41272f3b.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/138"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6010519b-c003-4192-b02b-da24d7fa8c1b" type="box"
+							>1</container>
+						<container parent="6010519b-c003-4192-b02b-da24d7fa8c1b" type="item"
+							>5</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/fdc434ccaf2cdd7b5e23b15691c262d8.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/139"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="eb541e1e-148a-48eb-a2a1-c3a60e7c72d1" type="box"
+							>1</container>
+						<container parent="eb541e1e-148a-48eb-a2a1-c3a60e7c72d1" type="item"
+							>6</container>
+						<unittitle>Given Your Criminal History, You're not Welcome Here –
+							Judge,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/4c9d3004d6203135ce450943f48b7086.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/140"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c98d0d76-0d87-4c77-8090-71f7973e3f50" type="box"
+							>1</container>
+						<container parent="c98d0d76-0d87-4c77-8090-71f7973e3f50" type="item"
+							>7</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/f5ba43a7eb9775a3ed8f15745a908ba7.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/141"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2db253cf-1e49-4600-ad81-d66c7901bc1b" type="box"
+							>1</container>
+						<container parent="2db253cf-1e49-4600-ad81-d66c7901bc1b" type="item"
+							>8</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/f720971279f7d36dcf5fb952b67db74c.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/142"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="80e9b05b-07aa-4f72-acaa-f2d6087f0064" type="box"
+							>1</container>
+						<container parent="80e9b05b-07aa-4f72-acaa-f2d6087f0064" type="item"
+							>9</container>
+						<unittitle>Citizen of Guatemala,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/b71a5bafb364e050e486fe56889738d0.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/143"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="70ca2e7d-30d2-4757-9ed4-de4fd0f563eb" type="box"
+							>1</container>
+						<container parent="70ca2e7d-30d2-4757-9ed4-de4fd0f563eb" type="item"
+							>10</container>
+						<unittitle>Six Legal Children in the U.S.,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/e4f962d83c0c89fd8f12ad37ec003f5d.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/144"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="90597ec8-70ad-4494-8253-aae8f623af41" type="box"
+							>1</container>
+						<container parent="90597ec8-70ad-4494-8253-aae8f623af41" type="item"
+							>11</container>
+						<unittitle>Recto - Untitled, Verso – Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/01af45bd02109ebb55ad03692ab7221c.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/145"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="955c9700-1615-42ce-87e1-36009759deee" type="box"
+							>1</container>
+						<container parent="955c9700-1615-42ce-87e1-36009759deee" type="item"
+							>12</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/e8011e7ea994826f3f8888818cc6f7ab.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/147"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="990ab02f-47ce-4fed-91ee-e7f1418c84ab" type="box"
+							>1</container>
+						<container parent="990ab02f-47ce-4fed-91ee-e7f1418c84ab" type="item"
+							>13</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="eebe50db-a9bb-43ee-927a-32639ed43261" type="box"
+							>1</container>
+						<container parent="eebe50db-a9bb-43ee-927a-32639ed43261" type="item"
+							>14</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/98c5d8e098897c8bb6cf58bd069734d1.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/149"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="668ecd1b-2cc8-4ec3-a64c-43385a9b0110" type="box"
+							>1</container>
+						<container parent="668ecd1b-2cc8-4ec3-a64c-43385a9b0110" type="item"
+							>15</container>
+						<unittitle>180 Days…You Can Quit Paying Attention Now,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/5f92ec85b8063fb69d20672bf0590567.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/150"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4642b456-3acd-43de-b058-9b32c65feca9" type="box"
+							>1</container>
+						<container parent="4642b456-3acd-43de-b058-9b32c65feca9" type="item"
+							>16</container>
+						<unittitle>Sentencing,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/3da758d4a64cbd5bce494173f68e8a78.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/151"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4a9c13b6-ef00-4af3-9460-4839e2fa5adf" type="box"
+							>1</container>
+						<container parent="4a9c13b6-ef00-4af3-9460-4839e2fa5adf" type="item"
+							>17</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/722c1e5544db350dae77e58eb3e15dcc.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/152"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c7e73eb7-051b-4fad-afba-e92dfc2dc02e" type="box"
+							>1</container>
+						<container parent="c7e73eb7-051b-4fad-afba-e92dfc2dc02e" type="item"
+							>18</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/c853b8a60fd0a5c8a1384d83c98984b2.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/153"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e7b1666b-1e3b-4b25-bc5a-f5330e7eaec4" type="box"
+							>1</container>
+						<container parent="e7b1666b-1e3b-4b25-bc5a-f5330e7eaec4" type="item"
+							>19</container>
+						<unittitle>Recto - Untitled, Verso – Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/c2c467216636dfe493b201092f70edd6.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/154"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5306b711-27cf-4d3c-9b38-ee362d7dd75e" type="box"
+							>1</container>
+						<container parent="5306b711-27cf-4d3c-9b38-ee362d7dd75e" type="item"
+							>20</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/4e3591758d663585e28414bb90c80c5b.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/157"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="dce663b0-d2d5-42ad-8b64-286acb216b14" type="box"
+							>1</container>
+						<container parent="dce663b0-d2d5-42ad-8b64-286acb216b14" type="item"
+							>21</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/49f0c27cd92346f874f29bf058d7cfa8.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/158"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4877d211-e485-49f3-b601-12f22910110a" type="box"
+							>1</container>
+						<container parent="4877d211-e485-49f3-b601-12f22910110a" type="item"
+							>22</container>
+						<unittitle>Lawyers,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/5b81a23e483ba26f0b78c56f4d9a8828.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/159"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c40836be-f729-4a83-8c90-ef1fa20126b7" type="box"
+							>1</container>
+						<container parent="c40836be-f729-4a83-8c90-ef1fa20126b7" type="item"
+							>23</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>2014 June 23</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/0117a77ec2894490ff76fc0418d70d26.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/160"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7777f92f-aeef-4d2a-be78-d64c887d3081" type="box"
+							>1</container>
+						<container parent="7777f92f-aeef-4d2a-be78-d64c887d3081" type="item"
+							>24</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/cd6bc9471370d466d573be6108788dc6.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/161"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c9a7a542-8c01-4026-8e89-00c671ac4fed" type="box"
+							>1</container>
+						<container parent="c9a7a542-8c01-4026-8e89-00c671ac4fed" type="item"
+							>25</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2012-2014</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/734f4737f34086093f1897da133d9d87.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/162"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8121da3b-1c04-4782-b91a-b968be5a4754" type="box"
+							>1</container>
+						<container parent="8121da3b-1c04-4782-b91a-b968be5a4754" type="item"
+							>26</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>2014 June 23</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/acd3492925ad253a2976e19705ddfcfb.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/163"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="66e70b4c-9419-460f-86f0-88d6f70525eb" type="box"
+							>1</container>
+						<container parent="66e70b4c-9419-460f-86f0-88d6f70525eb" type="item"
+							>27</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>2014 June 25</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/db8e7908e2c3cea0d86a4aff42bad22f.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/164"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="626e038d-8dc6-4c3c-8acf-0e739eeda9cc" type="box"
+							>1</container>
+						<container parent="626e038d-8dc6-4c3c-8acf-0e739eeda9cc" type="item"
+							>28</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>2014 June 23</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/12249964049d9b02948db70bd252ee51.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/165"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6ac14ed3-7fc6-4c1c-9ec5-f88b3c05ea91" type="box"
+							>1</container>
+						<container parent="6ac14ed3-7fc6-4c1c-9ec5-f88b3c05ea91" type="item"
+							>29</container>
+						<unittitle>I Don't Want to go to Jail for 60 Days… You Lost Control – Stay
+							out of the System – Stay Home… Why am I getting 60 Days When I've Only
+							Been Caught Twice?,</unittitle>
+						<unitdate>2014 June 25</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/464392a0a8aa3bff5057234000cbd07e.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/166"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="aaf2a399-3039-4374-8bcf-6427cf8b0848" type="box"
+							>1</container>
+						<container parent="aaf2a399-3039-4374-8bcf-6427cf8b0848" type="item"
+							>30</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>2014 June 25</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/9b450b663bd39306215e0a92bf235fb6.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/167"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="78554e5e-8e0c-4a5b-a1f7-d66b06a03cef" type="box"
+							>1</container>
+						<container parent="78554e5e-8e0c-4a5b-a1f7-d66b06a03cef" type="item"
+							>31</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>2014 June 23</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/a82614a75b2a41675307a2b5aa99c697.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/168"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2d40df6a-1322-4f91-9623-b1e2d8c36847" type="box"
+							>1</container>
+						<container parent="2d40df6a-1322-4f91-9623-b1e2d8c36847" type="item"
+							>32</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>2014 June 23</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/d3d47d7ff50c6a0e479b7a45a50de9e2.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/169"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="34b8ec52-5380-4121-93b2-815a6bb4d42b" type="box"
+							>1</container>
+						<container parent="34b8ec52-5380-4121-93b2-815a6bb4d42b" type="item"
+							>33</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2014 September</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/138fa00b15c05b30ad95c440093d3695.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/198"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f066f493-0f11-4cea-ad68-48206b4fbb39" type="box"
+							>1</container>
+						<container parent="f066f493-0f11-4cea-ad68-48206b4fbb39" type="item"
+							>34</container>
+						<unittitle>Dock (1),</unittitle>
+						<unitdate>circa 2014 September</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/634720ec37f4891b4225bce927976b88.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/199"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="72fe5f3b-3e8b-42b9-b0a8-153094bc923e" type="box"
+							>1</container>
+						<container parent="72fe5f3b-3e8b-42b9-b0a8-153094bc923e" type="item"
+							>35</container>
+						<unittitle>Leaving After Sentencing,</unittitle>
+						<unitdate>circa 2014 September</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbnails/6274a0ab3fde2ae16b6fbecde4cdc79b.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/200"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ba688a31-2065-41f3-aba8-c699cd610b7c" type="box"
+							>1</container>
+						<container parent="ba688a31-2065-41f3-aba8-c699cd610b7c" type="item"
+							>36</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>circa 2014 September</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumnails/d4b6af07c2c3af633c6cb2db725dd6f1.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/201"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="65e1e5b0-96a1-4523-8ba2-7896570a8fc0" type="box"
+							>1</container>
+						<container parent="65e1e5b0-96a1-4523-8ba2-7896570a8fc0" type="item"
+							>37</container>
+						<unittitle>Untitled,</unittitle>
+						<unitdate>2014 June 23</unitdate>
+						<daogrp>
+							<resource label="start" linktype="resource"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/files/thumbails/dcac17b1e47f10f4b88bb205f38608aa.jpg"
+								label="thumb" linktype="locator"/>
+							<daoloc
+								xlink:href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/202"
+								label="full" linktype="locator"/>
+							<arc actuate="onload" from="start" linktype="arc" show="embed"
+								to="thumb"/>
+							<arc actuate="onload" from="thumb" linktype="arc" show="new" to="full"/>
+						</daogrp>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

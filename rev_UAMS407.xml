@@ -1,0 +1,2297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+  <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	 <eadid encodinganalog="856$u">UAMS407</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="245$a">Ronstadt family collection , 
+			 <date>1802-1993 (bulk 1880-1960)</date></titleproper> 
+		  <author encodinganalog="245$c">Inventory prepared by Christina Bell</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>PO Box 210055</addressline> 
+			 <addressline>Tucson, AZ 85721-0055</addressline> 
+			 <addressline>Phone: 520-621-6423</addressline> 
+			 <addressline>Fax: 520-621-9733</addressline> 
+			 <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+			 
+		  </address> 
+		  <date>2007</date> 
+		  <p>Arizona Board of Regents. All Rights Reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation encodinganalog="500">Inventory encoded by C. Wommack 
+		  <date>March, 2007</date></creation> 
+		<langusage>Inventory is in<language encodinganalog="546" langcode="eng"> English.</language></langusage> 
+	 </profiledesc> 
+  <revisiondesc><change><date normal="2017-06-22">2017-06-22</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper encodinganalog="245$a">Ronstadt family collection, 
+		  <date> 1802-1993 (bulk 1880-1960)</date></titleproper> 
+		<num>Collection Number: MS 407</num> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<list> 
+		  <defitem> 
+			 <label>Processed by:</label> 
+			 <item>Christina Bell</item> 
+		  </defitem> 
+		  <defitem> 
+			 <label>Date completed:</label> 
+			 <item> 
+				<date>December, 2006</date></item> 
+		  </defitem> 
+		  <defitem> 
+			 <label>Encoded by:</label> 
+			 <item>C. Wommack</item> 
+		  </defitem> 
+		</list> 
+		<p> © 2007. Arizona Board of Regents. All rights reserved.</p> 
+	 </titlepage> 
+  </frontmatter> 
+  <archdesc encodinganalog="351$c" level="collection"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<unittitle encodinganalog="245" label="Collection Name"> Ronstadt family
+		  collection, 
+		  <unitdate normal="" type="inclusive">1802-1993 (bulk 1880-1960)
+			 </unitdate></unittitle> 
+		<unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 407</unitid> 
+		<origination label="Creator"> 
+		  <famname encodinganalog="100">Ronstadt family</famname></origination> 
+		<abstract label="Abstract">Collection 1802-1993 (bulk 1880-1960). The
+		  Ronstadt family collection contains family papers and material relating to the
+		  F. Ronstadt Co. hardware store. </abstract> 
+	 	<langmaterial>Materials in <language langcode="eng">English</language> and <language langcode="spa">Spanish</language></langmaterial>
+		<physdesc encodinganalog="300$a" label="Physical Description">
+		  <extent encodinganalog="300">24.7 linear feet </extent>(approximately 9500 items). </physdesc> 
+		<repository label="Repository"> 
+		  <corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
+		  <address> 
+			 <addressline>University of Arizona</addressline> 
+			 <addressline>PO Box 210055</addressline> 
+			 <addressline>Tucson, AZ 85721-0055</addressline> 
+			 <addressline>Phone: 520-621-6423</addressline> 
+			 <addressline>Fax: 520-621-9733</addressline> 
+			 <addressline>URL: http://speccoll.library.arizona.edu/</addressline> 
+		  </address></repository> 
+	 </did> 
+	 <accessrestrict encodinganalog="506"> 
+		<head>Restrictions</head> 
+		<p>None</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+		<head>Copyright</head> 
+		<p>It is the responsibility of the user to obtain permission to publish
+		  from the owner of the copyright (the institution, the creator of the record,
+		  the author or his/her transferees, heirs, legates, or literary executors). The
+		  user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		  University of Arizona, its officers, employees, and agents from and against all
+		  claims made by any person asserting that he or she is an owner of
+		  copyright.</p> 
+	 </userestrict> 
+	 <prefercite encodinganalog="524"> 
+		<head>Credit Line</head> 
+		<p>Ronstadt family collection (MS 407). Special Collections, University of Arizona Libraries.</p> 
+	 </prefercite> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>A prominent pioneer family of Tucson, AZ; the Ronstadts of Tucson
+		  originated with Frederick J.M. Ronstadt's arrival in Tucson from Mexico in 1882
+		  to work as an apprentice in the Dalton and Vasquez Wagon Shop. In 1888 he
+		  opened his own shop, serving as a blacksmith and custom wagon maker. The
+		  business grew to include leather goods, and eventually automobiles, farm
+		  machinery, and hardware goods. The F. Ronstadt Co. remained in business as a
+		  hardware store in Tucson until the 1980s, carried on by Ronstadt's sons Edward
+		  and Gilbert Ronstadt. </p> 
+		<p>Frederick J.M. Ronstadt was active in Tucson civic life, including the
+		  Elks, Rotary, and Knights of Columbus. He was an early member of the Tucson
+		  Pioneer Historical Society, now the Arizona Historical Society. The Ronstadts
+		  are also known for their contribution to the cultural growth of Tucson.
+		  Frederick Ronstadt founded the Club Filarmónico de Tucson in 1889, and that
+		  musical tradition was carried on by his daughter Luisa Espinel and
+		  granddaughter Linda Ronstadt. </p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351$a"> 
+		<head>Arrangement</head> 
+		<p>The collection is divided into four series: Business Records, Family
+		  Papers, Photographs, and Oversize. The Business Records are divided into three
+		  subseries. The Family Papers are divided into fifteen subseries. The
+		  Photographs are divided into three subseries. Oversize is divided into three
+		  subseries. In many cases original folder titles were retained. </p> 
+		<list> 
+		  <item>Series 1: Business Records 
+			 <unitdate normal="1895/1977" type="inclusive">1895-1977</unitdate></item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Finance</item> 
+		</list> 
+		<list> 
+		  <item> Subseries: Organizational History </item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Inventories</item> 
+		</list> 
+		<list> 
+		  <item>Series 2: Family Papers 
+			 <unitdate normal="1802/1993" type="inclusive">1802-1993</unitdate></item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Dalton, Henry</item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Dominquez, Martin </item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Lewis, Louise Dalton</item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Milich, Miodrag </item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Real Estate </item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Ronstadt, Alfred</item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Ronstadt, Alicia </item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Ronstadt, Edward</item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Ronstadt Family </item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Ronstadt, Frederick A</item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Ronstadt, II Frederick A</item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Ronstadt, Frederick JM </item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Ronstadt, Luisa</item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Ronstadt, Lupe Dalton </item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Zepada, José Maria</item> 
+		</list> 
+		<list> 
+		  <item>Series 3: Photographs 
+			 <unitdate normal="1870/1979" type="inclusive">1870-1979</unitdate></item> 
+		</list> 
+		<list> 
+		  <item>Subseries: Business</item> 
+		</list> 
+		<list> 
+		  <item> Subseries: Family </item> 
+		</list> 
+		<list> 
+		  <item>Subseries: General</item> 
+		</list> 
+		<list> 
+		  <item>Series 4: Oversize 
+			 <unitdate normal="1894/1958" type="inclusive">1894-1958</unitdate></item> 
+		</list> 
+		<list> 
+		  <item> Subseries: Business Records</item> 
+		</list> 
+		<list> 
+		  <item> Subseries: Family Papers</item> 
+		</list> 
+		<list> 
+		  <item> Subseries: Photographs </item> 
+		</list> 
+	 </arrangement> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The Ronstadt Family Collection contains family papers and material
+		  relating to the F. Ronstadt Co. hardware store. The Family Papers are organized
+		  by individual/subject and include biographical information, correspondence,
+		  diaries, personal notebooks, and publications. The Business Records consist of
+		  primarily financial and administrative documents, including store credit
+		  applications, merchandise inventories and ledgers, and organizational history
+		  of the Tucson hardware store. Photographs contain family and business images.
+		  </p> 
+	 </scopecontent> 
+	 <relatedmaterial encodinganalog="544"> 
+		<head>Related Materials</head> 
+		<p>The published edition of Frederick JM Ronstadt's memoir is catalogued
+		  separately. The Records of the Club Filarmónico Tucsonense, of which Frederick
+		  J.M. Ronstadt was a founding member, are a related but separate collection.
+		  </p> 
+		<list> 
+		  <item>Call # F819.T99 M56 1993 
+			 <title render="italic">Borderman : Memoirs of Federico José María
+				Ronstadt, </title>By Federico Jose Maria Ronstadt</item> 
+		</list> 
+		<list> 
+		  <item>MS 385: 
+			 <title render="italic">Records of the Club Filarmónico Tucsonense. 
+				<date>ca. 1890-1899</date> </title></item> 
+		</list> 
+	 </relatedmaterial> 
+	 <controlaccess> 
+		<famname>Rondstadt family -- Archives</famname><persname>Ronstadt, Federico José María </persname><persname>Ronstadt, Edward F., 1916- </persname><subject>Mexican Americans -- Social life and customs -- Arizona --
+				Tucson </subject></controlaccess> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series 1: Business Records 
+				<unitdate normal="1895/1977" type="inclusive"> 1895-1977</unitdate></unittitle> 
+			 <physdesc><extent encodinganalog="300">7 linear feet </extent><extent encodinganalog="300">(approximately 3485
+				items). </extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>The Business Records series is divided into three subseries. </p> 
+			 <p>Finance (1935-1949) contains financial records from the F.
+				Ronstadt Co. It is comprised of mostly store credit applications. </p> 
+			 <p>Organizational History (1895-1940) is comprised of various
+				documents related to the incorporation and administration of the company, as
+				well as marketing and advertising material. </p> 
+			 <p>Inventories (1971-1977) are large bound volumes of store
+				merchandise inventories from the Ronstadt hardware store. </p> 
+		  </scopecontent> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Finance, 
+				  <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="960b0c8d-52f3-4272-ba0f-0fba302a3c76" type="box">1</container>
+				  <container parent="960b0c8d-52f3-4272-ba0f-0fba302a3c76" type="folder">1 </container> 
+				  <unittitle>Corporate reorganization. 
+					 <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="3f95965d-1bab-4a28-911d-6a72d43c8ad2" type="box">1</container>
+				  <container parent="3f95965d-1bab-4a28-911d-6a72d43c8ad2" type="folder">2-4</container> 
+				  <unittitle> Credit applications A. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="9d1d8ae0-32d7-42fd-bdb7-ce5fada5831d" type="box">1</container>
+				  <container parent="9d1d8ae0-32d7-42fd-bdb7-ce5fada5831d" type="folder">5-8</container> 
+				  <unittitle> Credit applications B. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="dc1db11e-dc23-407a-b896-84e67d508a1b" type="box">1</container>
+				  <container parent="dc1db11e-dc23-407a-b896-84e67d508a1b" type="folder">9-12</container> 
+				  <unittitle> Credit applications C. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="4962b7d9-9170-4982-8cc3-6063752fbd67" type="box">1</container>
+				  <container parent="4962b7d9-9170-4982-8cc3-6063752fbd67" type="folder">13-15</container> 
+				  <unittitle> Credit applications D. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="fa038c8a-6ba6-4c6f-8998-66d5c0aadffa" type="box">1</container>
+				  <container parent="fa038c8a-6ba6-4c6f-8998-66d5c0aadffa" type="folder">16</container> 
+				  <unittitle> Credit applications E. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="c9c0ff32-2ff6-4d99-a4f5-26a20d6bc85c" type="box">1</container>
+				  <container parent="c9c0ff32-2ff6-4d99-a4f5-26a20d6bc85c" type="folder">17-18</container> 
+				  <unittitle> Credit applications F. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="f0c76b8e-0238-4bfc-9baa-29ea51f16e30" type="box">1</container>
+				  <container parent="f0c76b8e-0238-4bfc-9baa-29ea51f16e30" type="folder">19-21</container> 
+				  <unittitle> Credit applications G. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="dbd55b3b-59bb-40c9-b837-6f59d14b2154" type="box">1</container>
+				  <container parent="dbd55b3b-59bb-40c9-b837-6f59d14b2154" type="folder">22-25</container> 
+				  <unittitle> Credit applications H. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="67c87c42-a39a-487d-8eeb-c06f82b98361" type="box">1</container>
+				  <container parent="67c87c42-a39a-487d-8eeb-c06f82b98361" type="folder">26</container> 
+				  <unittitle> Credit applications I. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="6984bf3c-b8fd-44be-9c8c-2d0734f0cf1e" type="box">1</container>
+				  <container parent="6984bf3c-b8fd-44be-9c8c-2d0734f0cf1e" type="folder">27</container> 
+				  <unittitle> Credit applications J. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="5aaac5d1-7850-4fde-8700-18158f5eba96" type="box">2</container>
+				  <container parent="5aaac5d1-7850-4fde-8700-18158f5eba96" type="folder">1-2</container> 
+				  <unittitle> Credit applications K. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="af6afda0-3b58-4d01-a9ef-5babfe3f4365" type="box">2</container>
+				  <container parent="af6afda0-3b58-4d01-a9ef-5babfe3f4365" type="folder">3-6</container> 
+				  <unittitle> Credit applications L. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="2b6f6878-0b54-4cda-9f9d-d42db0663ecb" type="box">2</container>
+				  <container parent="2b6f6878-0b54-4cda-9f9d-d42db0663ecb" type="folder">7</container> 
+				  <unittitle> Credit applications Mc. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="1ce63c99-1ec0-407f-8869-df7c6d888e5b" type="box">2</container>
+				  <container parent="1ce63c99-1ec0-407f-8869-df7c6d888e5b" type="folder">8-12</container> 
+				  <unittitle> Credit applications M. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="12c73aaf-1db2-4f2c-8d87-0fd394e34a92" type="box">2</container>
+				  <container parent="12c73aaf-1db2-4f2c-8d87-0fd394e34a92" type="folder">13-14</container> 
+				  <unittitle> Credit applications N. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="e501e19e-2022-49a1-bb02-b409e5016812" type="box">2</container>
+				  <container parent="e501e19e-2022-49a1-bb02-b409e5016812" type="folder">15</container> 
+				  <unittitle> Credit applications O. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="f83d5892-8c0f-4b42-bfc4-5e5ae3824661" type="box">2</container>
+				  <container parent="f83d5892-8c0f-4b42-bfc4-5e5ae3824661" type="folder">16-18</container> 
+				  <unittitle> Credit applications P. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="f720a228-16f4-4487-9a82-1cf0e030b6c5" type="box">2</container>
+				  <container parent="f720a228-16f4-4487-9a82-1cf0e030b6c5" type="folder">19</container> 
+				  <unittitle> Credit applications Q. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="be08d80f-a5c1-4508-a9da-6fd0e1f02f37" type="box">2</container>
+				  <container parent="be08d80f-a5c1-4508-a9da-6fd0e1f02f37" type="folder">20-22</container> 
+				  <unittitle> Credit applications R. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="28df5280-6951-4924-bf80-7cd9d0105795" type="box">2</container>
+				  <container parent="28df5280-6951-4924-bf80-7cd9d0105795" type="folder">23-28</container> 
+				  <unittitle> Credit applications S. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="1db706ef-87be-425f-811b-18484dd70c3e" type="box">2</container>
+				  <container parent="1db706ef-87be-425f-811b-18484dd70c3e" type="folder">29-32</container> 
+				  <unittitle> Credit applications T. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="65db0b3b-938a-4f07-bb4a-41d4e1e74aa2" type="box">3</container>
+				  <container parent="65db0b3b-938a-4f07-bb4a-41d4e1e74aa2" type="folder">1</container> 
+				  <unittitle> Credit applications U. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="e3534e7d-a63e-425d-946d-74f4a32f5023" type="box">3</container>
+				  <container parent="e3534e7d-a63e-425d-946d-74f4a32f5023" type="folder">2</container> 
+				  <unittitle> Credit applications V. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="ead78793-424a-4ed5-94ec-cbe01a48fdcc" type="box">3</container>
+				  <container parent="ead78793-424a-4ed5-94ec-cbe01a48fdcc" type="folder">3-7</container> 
+				  <unittitle> Credit applications W. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="2770b128-efbe-41c2-8ef5-28698deecec3" type="box">3</container>
+				  <container parent="2770b128-efbe-41c2-8ef5-28698deecec3" type="folder">8</container> 
+				  <unittitle> Credit applications XYZ. 
+					 <unitdate normal="1935/1949" type="inclusive">1935-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="60020ea9-acaa-48ff-b41a-16e96b0cc7c5" type="box">3</container>
+				  <container parent="60020ea9-acaa-48ff-b41a-16e96b0cc7c5" type="folder">9</container> 
+				  <unittitle> General. 
+					 <unitdate normal="1903/1928" type="inclusive">1903-1928</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Organizational History, 
+				  <unitdate normal="1895/1940" type="inclusive">1895-1940</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a1c5a626-4db4-49e0-98dc-3133fe585268" type="box">3</container>
+				  <container parent="a1c5a626-4db4-49e0-98dc-3133fe585268" type="folder">10</container> 
+				  <unittitle> Articles of Incorporation. 
+					 <unitdate normal="1898/1899" type="inclusive">1898-1899</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="1b99c899-8f97-46de-a7de-96aa06914d62" type="box">3</container>
+				  <container parent="1b99c899-8f97-46de-a7de-96aa06914d62" type="folder">11</container> 
+				  <unittitle> Factbook. 
+					 <unitdate normal="1913" type="inclusive">1913</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="c1464b10-1fa4-4c5a-a32b-e3e2ef03cb52" type="box">3</container>
+				  <container parent="c1464b10-1fa4-4c5a-a32b-e3e2ef03cb52" type="folder">12</container> 
+				  <unittitle> Marketing and advertising material. 
+					 <unitdate normal="1895/1940" type="inclusive">1895-1940</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Inventories, 
+				  <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="16618537-8399-4190-adc0-1db51fc12ebc" type="box">3</container>
+				  <container parent="16618537-8399-4190-adc0-1db51fc12ebc" type="folder">13</container> 
+				  <unittitle> "M". 
+					 <unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="6fa89014-b0bc-428d-88a1-f3f908300821" type="box">3</container>
+				  <container parent="6fa89014-b0bc-428d-88a1-f3f908300821" type="folder">14</container> 
+				  <unittitle> "H" pp. 1-582. 
+					 <unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="8f268b35-9512-4780-8436-7ef62b40f4f8" type="box">3</container>
+				  <container parent="8f268b35-9512-4780-8436-7ef62b40f4f8" type="folder">15</container> 
+				  <unittitle> "H" pp. 583-705. 
+					 <unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="77ceec85-a1b5-4ef8-8fe5-159d06ffb275" type="box">3</container>
+				  <container parent="77ceec85-a1b5-4ef8-8fe5-159d06ffb275" type="folder">16</container> 
+				  <unittitle> Hardware pp. 1-489. 
+					 <unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="bd3b6340-27ab-46f3-bd75-8dacec9c5486" type="box">4</container>
+				  <container parent="bd3b6340-27ab-46f3-bd75-8dacec9c5486" type="folder">1</container> 
+				  <unittitle>Sporting goods pp. 490-556. 
+					 <unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="63b21695-7af4-456a-ab44-a582dc1c43df" type="box">4</container>
+				  <container parent="63b21695-7af4-456a-ab44-a582dc1c43df" type="folder">2</container> 
+				  <unittitle>Housewares pp. 557-671. 
+					 <unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="46e9e377-d2fc-44e4-bdca-49fb69495550" type="box">4</container>
+				  <container parent="46e9e377-d2fc-44e4-bdca-49fb69495550" type="folder">3</container> 
+				  <unittitle>Machinery. 
+					 <unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="0733f694-e1fa-4989-ac51-5dfd5f83a26b" type="box">4</container>
+				  <container parent="0733f694-e1fa-4989-ac51-5dfd5f83a26b" type="folder">4</container> 
+				  <unittitle>Machinery. 
+					 <unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="dc723338-d5f0-4877-aa1e-4ab83ff68308" type="box">4</container>
+				  <container parent="dc723338-d5f0-4877-aa1e-4ab83ff68308" type="folder">5</container> 
+				  <unittitle>Hardware- housewares. 
+					 <unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="82ca8583-13fa-4fe1-a136-bce75f69770f" type="box">4</container>
+				  <container parent="82ca8583-13fa-4fe1-a136-bce75f69770f" type="folder">6</container> 
+				  <unittitle>Parts. 
+					 <unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="f9003a10-1c0b-420e-85cf-4147d24b796e" type="box">5</container>
+				  <container parent="f9003a10-1c0b-420e-85cf-4147d24b796e" type="folder">1</container> 
+				  <unittitle>Hardware, housewares, sporting goods, paint. 
+					 <unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="bad00f46-c81d-42b3-bbae-899ea5c965ad" type="box">5</container>
+				  <container parent="bad00f46-c81d-42b3-bbae-899ea5c965ad" type="folder">2</container> 
+				  <unittitle> Machine pumps, plastic pipe. 
+					 <unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="5aeb31aa-687e-4dea-8e47-a9b55b36724a" type="box">5</container>
+				  <container parent="5aeb31aa-687e-4dea-8e47-a9b55b36724a" type="folder">3</container> 
+				  <unittitle> Hardware, housewares, sporting goods pp1-562. 
+					 <unitdate normal="1975" type="inclusive">1975</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a0aa1b52-5bba-4599-9037-dedf0a64ad2e" type="box">5</container>
+				  <container parent="a0aa1b52-5bba-4599-9037-dedf0a64ad2e" type="folder">4</container> 
+				  <unittitle> Pump, ind. machinery, farm machinery, plastic pipe
+					 pp. 1-32, parts pp. 1-335. 
+					 <unitdate normal="1975" type="inclusive">1975</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="fcf3ad5a-cfa4-4e46-8445-59e4cd27d751" type="box">5</container>
+				  <container parent="fcf3ad5a-cfa4-4e46-8445-59e4cd27d751" type="folder">5</container> 
+				  <unittitle> Parts, pump, ind. &amp; farm machinery, plastic pipe
+					 pp. 1-374 . 
+					 <unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="297a053b-7bf9-4446-af5d-6bd3e4c4cf43" type="box">6</container>
+				  <container parent="297a053b-7bf9-4446-af5d-6bd3e4c4cf43" type="folder">1</container> 
+				  <unittitle> Hardware, sporting goods, paint, housewares, pp.
+					 1-612. 
+					 <unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="32692718-8e89-4862-a257-da75bd2b2088" type="box">6</container>
+				  <container parent="32692718-8e89-4862-a257-da75bd2b2088" type="folder">2</container> 
+				  <unittitle> Machinery pp. 1-337, pp. 1-31. 
+					 <unitdate normal="1977" type="inclusive">1977</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="7880363a-95a9-489c-a03b-e61f68e09d6d" type="box">6</container>
+				  <container parent="7880363a-95a9-489c-a03b-e61f68e09d6d" type="folder">3</container> 
+				  <unittitle>Hardware pp. 1-628. 
+					 <unitdate normal="1977" type="inclusive"> 1977</unitdate></unittitle> 
+				</did>
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series 2: family papers, 
+				<unitdate normal="1802/1993" type="inclusive">1802-1993</unitdate></unittitle> 
+			 <physdesc><extent encodinganalog="300">4.2 linear feet </extent><extent encodinganalog="300">(approximately
+				5000 items).</extent></physdesc> 
+		  </did> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Dalton, Henry, 
+				  <unitdate normal="1802/1958" type="inclusive">1802-1958</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Grandfather of Lupe Dalton Ronstadt. Includes biographical
+				  information and a list of his descendants. </p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="2495b670-6d03-4d77-9492-bcb27fb01828" type="box">6</container>
+				  <container parent="2495b670-6d03-4d77-9492-bcb27fb01828" type="folder">4</container> 
+				  <unittitle> Biography and family history. 
+					 <unitdate normal="1802/1958" type="inclusive">1802-1958</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Dominguez, Martin. 
+				  <unitdate normal="1936/1951" type="inclusive">1936-1951</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>First husband of Alicia Ronstadt. They were married in Spain in
+				  the 1920s, but later divorced. For a time, Dominguez was trapped in Cuba
+				  attempting to return to the United States from Spain, as is reflected in his
+				  correspondence. </p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="24b9442b-5380-4b4c-b02d-15d3bba5c006" type="box">6</container>
+				  <container parent="24b9442b-5380-4b4c-b02d-15d3bba5c006" type="folder">5</container> 
+				  <unittitle> Correspondence. 
+					 <unitdate normal="1936/1951" type="inclusive">1936-1951</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Lewis, Louise Dalton, 
+				  <unitdate normal="1952" type="inclusive">1952</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Sister of Lupe Dalton Ronstadt. Interview by Edward Ronstadt
+				  about her life experiences.</p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="9b3ba102-6739-4be7-a49f-5f26caafcd5c" type="box">6</container>
+				  <container parent="9b3ba102-6739-4be7-a49f-5f26caafcd5c" type="folder">6</container> 
+				  <unittitle> Interview. 
+					 <unitdate normal="1952" type="inclusive">1952</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Milich, Miodrag, 
+				  <unitdate normal="1949/1958" type="inclusive">1949-1958</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Husband of Alicia Ronstadt, who fled to the United States as a
+				  refugee from Eastern Europe in the 1950s. His papers include documents
+				  legalizing his entry and stay in the US. </p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="fed6c425-3678-4cea-9b5b-b561b54e4fdc" type="box">6</container>
+				  <container parent="fed6c425-3678-4cea-9b5b-b561b54e4fdc" type="folder">7</container> 
+				  <unittitle> Official documents. 
+					 <unitdate normal="1949/1958" type="inclusive">1949-1958</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Real Estate, 
+				  <unitdate normal="1892/1963" type="inclusive">1892-1963</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Documents relating to specific property owned by the Ronstadt
+				  family, and real estate investments and companies they were involved in. </p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="71be658e-8347-47bb-8f85-195a94cb3719" type="box">6</container>
+				  <container parent="71be658e-8347-47bb-8f85-195a94cb3719" type="folder">8</container> 
+				  <unittitle> Arizona- Mexico Land co. 
+					 <unitdate normal="1903/1926" type="inclusive">1903-1926</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="69b7ea09-b381-417b-b859-7b0b8996f264" type="box">6</container>
+				  <container parent="69b7ea09-b381-417b-b859-7b0b8996f264" type="folder">9</container> 
+				  <unittitle> Las Delicias well. 
+					 <unitdate normal="1930/1938" type="inclusive">1930-1938</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="e5ad98c4-1a49-4b96-9bf3-df355a583e81" type="box">6</container>
+				  <container parent="e5ad98c4-1a49-4b96-9bf3-df355a583e81" type="folder">10</container> 
+				  <unittitle> Insurance title abstract. 
+					 <unitdate normal="1892/1931" type="inclusive">1892-1931</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="d3adcee4-3e23-417f-8ad0-ab38a8686ef0" type="box">6</container>
+				  <container parent="d3adcee4-3e23-417f-8ad0-ab38a8686ef0" type="folder">11</container> 
+				  <unittitle> Ranch properties. 
+					 <unitdate normal="1935/1963" type="inclusive">1935-1963</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Ronstadt, Alfred, 
+				  <unitdate normal="1940" type="inclusive">1940</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Son of Frederick J.M. Ronstadt. Includes biographical
+				  information.</p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="d1c8e229-eed3-42a4-ac0f-2822d712e5b1" type="box">6</container>
+				  <container parent="d1c8e229-eed3-42a4-ac0f-2822d712e5b1" type="folder">12</container> 
+				  <unittitle> Biographical File. 
+					 <unitdate normal="1940" type="inclusive"> 1940</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Ronstadt, Alicia, 
+				  <unitdate normal="1901/1979" type="inclusive">1901-1979</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Daughter of Frederick J.M. Ronstadt. Primarily includes
+				  correspondence, with material related to her careers as an art dealer and
+				  Spanish teacher, and personal mementos. </p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="ee8d5d08-f4cc-414c-a7c8-7f57e28aaf38" type="box">6</container>
+				  <container parent="ee8d5d08-f4cc-414c-a7c8-7f57e28aaf38" type="folder">13</container> 
+				  <unittitle> Address cards. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="29d6f10f-5e9c-4ff8-b04c-50ee3a5daba6" type="box">6</container>
+				  <container parent="29d6f10f-5e9c-4ff8-b04c-50ee3a5daba6" type="folder">14</container> 
+				  <unittitle> Autograph book- To Colette. 
+					 <unitdate normal="1923/1925" type="inclusive">1923-1925</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="6c32d3c1-1653-47d2-a7d2-7404a588bef5" type="box">6</container>
+				  <container parent="6c32d3c1-1653-47d2-a7d2-7404a588bef5" type="folder">15</container> 
+				  <unittitle> Autograph book- To Alicia (1 of 2). 
+					 <unitdate normal="1954" type="inclusive">1954</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="f1cc97af-7a0d-4933-a2c2-719614a0ea91" type="box">7</container>
+				  <container parent="f1cc97af-7a0d-4933-a2c2-719614a0ea91" type="folder">1</container> 
+				  <unittitle> Autograph book- To Alicia (2 of 2). 
+					 <unitdate normal="1944/1951" type="inclusive">1944-1951</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="94b8a5b3-27f1-40d4-9d4c-47746ebd680a" type="box">7</container>
+				  <container parent="94b8a5b3-27f1-40d4-9d4c-47746ebd680a" type="folder">2</container> 
+				  <unittitle> Biographical file. 
+					 <unitdate normal="1937/1968" type="inclusive">1937-1968</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a5d4df2b-bd37-45a5-8550-3ea018717853" type="box">7</container>
+				  <container parent="a5d4df2b-bd37-45a5-8550-3ea018717853" type="folder">3</container> 
+				  <unittitle> Business transactions. 
+					 <unitdate normal="1932/1934" type="inclusive">1932-1934</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="f561b56d-56c7-41b1-9b48-f07af390f446" type="box">7</container>
+				  <container parent="f561b56d-56c7-41b1-9b48-f07af390f446" type="folder">4-5</container> 
+				  <unittitle> Collected postcards. 
+					 <unitdate normal="1938/1955" type="inclusive">1938-1955</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="26dbd2d9-c779-4631-a9df-133bba6d35c6" type="box">7</container>
+				  <container parent="26dbd2d9-c779-4631-a9df-133bba6d35c6" type="folder">6</container> 
+				  <unittitle> Collected pamphlets. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="c2bd9037-68fc-4e99-bd09-4ab5df5b5cf6" type="box">7</container>
+				  <container parent="c2bd9037-68fc-4e99-bd09-4ab5df5b5cf6" type="folder">7</container> 
+				  <unittitle> Correspondence A-B. 
+					 <unitdate normal="1947/1972" type="inclusive">1947-1972</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="79dd56c5-693f-4d05-8c3b-f0a486ac9ba0" type="box">7</container>
+				  <container parent="79dd56c5-693f-4d05-8c3b-f0a486ac9ba0" type="folder">8</container> 
+				  <unittitle> Correspondence C. 
+					 <unitdate normal="1937/1967" type="inclusive">1937-1967</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="cf377028-2b33-49ae-bc2f-e23645ff483d" type="box">7</container>
+				  <container parent="cf377028-2b33-49ae-bc2f-e23645ff483d" type="folder">9</container> 
+				  <unittitle> Correspondence D-F. 
+					 <unitdate normal="1948/1972" type="inclusive">1948-1972</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="88e14f17-527a-4afa-9687-d5c2fd84b035" type="box">7</container>
+				  <container parent="88e14f17-527a-4afa-9687-d5c2fd84b035" type="folder">10</container> 
+				  <unittitle> Correspondence G-J. 
+					 <unitdate normal="1936/1975" type="inclusive">1936-1975</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="21753477-c9cd-4d99-b2b3-d733457de642" type="box">7</container>
+				  <container parent="21753477-c9cd-4d99-b2b3-d733457de642" type="folder">11</container> 
+				  <unittitle> Correspondence K-O. 
+					 <unitdate normal="1929/1976" type="inclusive">1929-1976</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a6d10f63-4347-41c0-ab97-ef5c5c794c94" type="box">7</container>
+				  <container parent="a6d10f63-4347-41c0-ab97-ef5c5c794c94" type="folder">12</container> 
+				  <unittitle> Correspondence P-Y. 
+					 <unitdate normal="1938/1977" type="inclusive">1938-1977</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="b34ec5c6-ecf8-4012-a10b-0fde67541c64" type="box">7</container>
+				  <container parent="b34ec5c6-ecf8-4012-a10b-0fde67541c64" type="folder">13</container> 
+				  <unittitle> Correspondence- death of Laudelino Moreno. 
+					 <unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="72e5055a-c0ea-4dc4-aad7-c4fa1bcea2c5" type="box">7</container>
+				  <container parent="72e5055a-c0ea-4dc4-aad7-c4fa1bcea2c5" type="folder">14</container> 
+				  <unittitle> Correspondence- death of Luisa. 
+					 <unitdate normal="1963" type="inclusive">1963</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="b401d191-3a1c-4dc4-a190-65d5b617c6b3" type="box">7</container>
+				  <container parent="b401d191-3a1c-4dc4-a190-65d5b617c6b3" type="folder">15-17</container> 
+				  <unittitle> Correspondence- postcards. 
+					 <unitdate normal="1925/1975" type="inclusive">1925-1975</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="36cd13c6-5386-497a-8ec5-d5402090bfde" type="box">7</container>
+				  <container parent="36cd13c6-5386-497a-8ec5-d5402090bfde" type="folder">18 </container> 
+				  <unittitle>Correspondence- 
+					 <title render="italic">Relaciones</title> book. 
+					 <unitdate normal="1966/1971" type="inclusive">1966-1971</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="4677ee3f-42b8-4b0c-8405-141c4e5a86e8" type="box">7</container>
+				  <container parent="4677ee3f-42b8-4b0c-8405-141c4e5a86e8" type="folder">19</container> 
+				  <unittitle> Correspondence- Ronstadt family. 
+					 <unitdate normal="1936/1979" type="inclusive">1936-1979</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a9625b4e-113d-410f-9ac4-1f4048f4ebda" type="box">7</container>
+				  <container parent="a9625b4e-113d-410f-9ac4-1f4048f4ebda" type="folder">20</container> 
+				  <unittitle> Correspondence- to siblings. 
+					 <unitdate normal="1927/1937" type="inclusive">1927-1937</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="2594a491-7b2b-47e2-8509-d6745d114fe2" type="box">7</container>
+				  <container parent="2594a491-7b2b-47e2-8509-d6745d114fe2" type="folder">21</container> 
+				  <unittitle> Education materials. 
+					 <unitdate normal="1942/1965" type="inclusive">1942-1965</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="db9ae124-f663-4e62-a57a-96166ec7cba3" type="box">7</container>
+				  <container parent="db9ae124-f663-4e62-a57a-96166ec7cba3" type="folder">22</container> 
+				  <unittitle> Programs. 
+					 <unitdate normal="1946/1963" type="inclusive">1946-1963</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="41365d03-4916-46dc-8bff-083de772a62d" type="box">7</container>
+				  <container parent="41365d03-4916-46dc-8bff-083de772a62d" type="folder">23</container> 
+				  <unittitle> Religious mementos. 
+					 <unitdate normal="1901/1979" type="inclusive">1901-1979</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="d4ab3c29-0923-42b6-b0cb-b4536ead68b6" type="box">7</container>
+				  <container parent="d4ab3c29-0923-42b6-b0cb-b4536ead68b6" type="folder">24</container> 
+				  <unittitle> Spanish report. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="47678488-3f04-4fbe-877b-936ffcf2f128" type="box">7</container>
+				  <container parent="47678488-3f04-4fbe-877b-936ffcf2f128" type="folder">25</container> 
+				  <unittitle> Stamps and postmarks. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Ronstadt, Edward, 
+				  <unitdate normal="1933/1976" type="inclusive">1933-1976</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Son of Frederick J.M. Ronstadt who succeeded his father in the
+				  family business. Primarily includes his research on the subject of his family
+				  and the Tucson area. Contains correspondence, speeches, and publications.</p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a4c2201b-f26f-449d-81ba-36da816ed863" type="box">7</container>
+				  <container parent="a4c2201b-f26f-449d-81ba-36da816ed863" type="folder">26</container> 
+				  <unittitle> Biographical file. 
+					 <unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="680b706b-27db-4bba-b74e-a9742062f307" type="box">7</container>
+				  <container parent="680b706b-27db-4bba-b74e-a9742062f307" type="folder">27</container> 
+				  <unittitle>Correspondence- research. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="368ba7fe-0b52-495d-a70a-a04ec37a93f4" type="box">7</container>
+				  <container parent="368ba7fe-0b52-495d-a70a-a04ec37a93f4" type="folder">28</container> 
+				  <unittitle> Family history. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="4081c2a1-00a3-4003-b495-af3956d538f0" type="box">7</container>
+				  <container parent="4081c2a1-00a3-4003-b495-af3956d538f0" type="folder">29</container> 
+				  <unittitle> Publications. 
+					 <unitdate normal="1933/1975" type="inclusive">1933-1975</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="c2ca65ed-4dfb-4cd0-9848-c5e25ef099de" type="box">7</container>
+				  <container parent="c2ca65ed-4dfb-4cd0-9848-c5e25ef099de" type="folder">30</container> 
+				  <unittitle> Spanish history research. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="e60a0b58-aedd-40a1-bbcd-7843d9cf3df0" type="box">7</container>
+				  <container parent="e60a0b58-aedd-40a1-bbcd-7843d9cf3df0" type="folder">31</container> 
+				  <unittitle> Speech file. 
+					 <unitdate normal="1964" type="inclusive">1964</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Ronstadt family, 
+				  <unitdate normal="1901/1981" type="inclusive">1901-1981</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes general biographical information about the history of
+				  the family as a whole, as well as key individuals. </p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="1657e10e-391d-4858-8490-76006cdd0177" type="box">7</container>
+				  <container parent="1657e10e-391d-4858-8490-76006cdd0177" type="folder">32</container> 
+				  <unittitle> Biographical file. 
+					 <unitdate normal="1901/1981" type="inclusive">1901-1981</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Ronstadt, Frederick A., 
+				  <unitdate normal="1855/1883" type="inclusive">1855-1883</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Father of Frederick J.M. Ronstadt. Born and raised in Germany,
+				  he immigrated to Mexico where he married and raised a family. Contains
+				  biographical information and correspondence. </p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="c02fdbf3-078f-48c5-b94d-b27e0428bcb2" type="box">7</container>
+				  <container parent="c02fdbf3-078f-48c5-b94d-b27e0428bcb2" type="folder">33</container> 
+				  <unittitle> Biographical file. 
+					 <unitdate normal="1855/1883" type="inclusive">1855-1883</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="f116ea3c-2328-441a-94fd-a0c6938921c6" type="box">7</container>
+				  <container parent="f116ea3c-2328-441a-94fd-a0c6938921c6" type="folder">34</container> 
+				  <unittitle> Correspondence. 
+					 <unitdate normal="1866/1881" type="inclusive">1866-1881</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Ronstadt II, Frederick A., 
+				  <unitdate normal="1917/1941" type="inclusive">1917-1941</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Son of Frederick J.M. Ronstadt. Includes correspondence and
+				  documents related to his business interests in Spain.</p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="4d6e1f1a-1790-40a0-8e76-ee9ffe08a007" type="box">7</container>
+				  <container parent="4d6e1f1a-1790-40a0-8e76-ee9ffe08a007" type="folder">35-36</container> 
+				  <unittitle> Correspondence. 
+					 <unitdate normal="1917/1942" type="inclusive">1917-1942</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="c196548d-0ed0-4c97-a0a1-a6c0f2800931" type="box">7</container>
+				  <container parent="c196548d-0ed0-4c97-a0a1-a6c0f2800931" type="folder">37</container> 
+				  <unittitle> Correspondence- Hills Bros. coffee. 
+					 <unitdate normal="1940" type="inclusive">1940</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="cbca6763-0a1b-40bf-a070-b4e38cf25cf4" type="box">7</container>
+				  <container parent="cbca6763-0a1b-40bf-a070-b4e38cf25cf4" type="folder">38</container> 
+				  <unittitle> Official document. 
+					 <unitdate normal="1927" type="inclusive">1927</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="97ada576-3576-4425-a37b-81115fc43054" type="box">7</container>
+				  <container parent="97ada576-3576-4425-a37b-81115fc43054" type="folder">39</container> 
+				  <unittitle> Spanish business receipts. 
+					 <unitdate normal="1932/1939" type="inclusive">1932-1939</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Ronstadt, Frederick J.M., 
+				  <unitdate normal="1879/1993" type="inclusive">1879-1993</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p> Papers comprise the bulk of this subseries, primarily
+				  consisting of correspondence, private ledgers, and drafts of his memoir 
+				<title render="italic">Borderman. </title></p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="886389c7-3258-467a-b6fb-349b1aac427d" type="box">7</container>
+				  <container parent="886389c7-3258-467a-b6fb-349b1aac427d" type="folder">40</container> 
+				  <unittitle> Address book. 
+					 <unitdate normal="1927" type="inclusive">1927</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="8acbc1bc-3f3d-4e34-b3d9-963ad51e353f" type="box">7</container>
+				  <container parent="8acbc1bc-3f3d-4e34-b3d9-963ad51e353f" type="folder">41</container> 
+				  <unittitle> Awards and certificates. 
+					 <unitdate normal="1883/1944" type="inclusive">1883-1944</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="40ad5a98-fea9-4835-9d75-1c30fb329fdb" type="box">7</container>
+				  <container parent="40ad5a98-fea9-4835-9d75-1c30fb329fdb" type="folder">42</container> 
+				  <unittitle> Biographical file. 
+					 <unitdate normal="1888/1971" type="inclusive">1888-1971</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="f5ecb09f-6969-49e6-a9d5-d7021b3fd13c" type="box">7</container>
+				  <container parent="f5ecb09f-6969-49e6-a9d5-d7021b3fd13c" type="folder">43-47</container> 
+				  <unittitle> 
+					 <title render="italic">Borderman </title>draft. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="905af8df-2da1-4256-93a1-7cd265cdfb36" type="box">8</container>
+				  <container parent="905af8df-2da1-4256-93a1-7cd265cdfb36" type="folder">1-2</container> 
+				  <unittitle> 
+					 <title render="italic">Borderman </title> draft. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="d932da9c-4987-4000-a67b-0d59c0c8efcf" type="box">8</container>
+				  <container parent="d932da9c-4987-4000-a67b-0d59c0c8efcf" type="folder">3-4</container> 
+				  <unittitle> 
+					 <title render="italic">Borderman </title> proof. 
+					 <unitdate normal="1993" type="inclusive">1993</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a8147be9-af63-497b-9544-6f2b19145dcf" type="box">8</container>
+				  <container parent="a8147be9-af63-497b-9544-6f2b19145dcf" type="folder">5</container> 
+				  <unittitle> Carriage Builders Technical School papers. 
+					 <unitdate normal="1901/1903" type="inclusive">1901-1903</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="c3bd0cac-3a92-496c-9c7e-1789f2abe364" type="box">8</container>
+				  <container parent="c3bd0cac-3a92-496c-9c7e-1789f2abe364" type="folder">6</container> 
+				  <unittitle> Correspondence- A. 
+					 <unitdate normal="1938/1952" type="inclusive">1938-1952</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="cdaf335e-6697-498d-a845-527d0d4a51a6" type="box">8</container>
+				  <container parent="cdaf335e-6697-498d-a845-527d0d4a51a6" type="folder">7</container> 
+				  <unittitle> Correspondence- B. 
+					 <unitdate normal="1937/1952" type="inclusive">1937-1952</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="93ed658a-93c6-4e19-a75a-8a756e32f831" type="box">8</container>
+				  <container parent="93ed658a-93c6-4e19-a75a-8a756e32f831" type="folder">8</container> 
+				  <unittitle>Correspondence- C. 
+					 <unitdate normal="1938/1953" type="inclusive"> 1938-1953</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="63bf1eca-eae5-4508-8995-bf8cf6c73b30" type="box">8</container>
+				  <container parent="63bf1eca-eae5-4508-8995-bf8cf6c73b30" type="folder">9</container> 
+				  <unittitle> Correspondence- D. 
+					 <unitdate normal="1936/1953" type="inclusive">1936-1953</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="049f5779-9b0d-48df-a48c-0cb161171628" type="box">8</container>
+				  <container parent="049f5779-9b0d-48df-a48c-0cb161171628" type="folder">10</container> 
+				  <unittitle> Correspondence- E-F. 
+					 <unitdate normal="1888/1953" type="inclusive">1888-1953</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="1722df70-ba40-4e4e-a942-fcf3d6c89e1a" type="box">8</container>
+				  <container parent="1722df70-ba40-4e4e-a942-fcf3d6c89e1a" type="folder">11</container> 
+				  <unittitle> Correspondence- G. 
+					 <unitdate normal="1889/1953" type="inclusive">1889-1953</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="16985eb3-6de6-443c-bf13-d737ecfd4b35" type="box">8</container>
+				  <container parent="16985eb3-6de6-443c-bf13-d737ecfd4b35" type="folder">12-13</container> 
+				  <unittitle> Correspondence- H. 
+					 <unitdate normal="1931/1953" type="inclusive">1931-1953</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="4f34a67b-b755-4747-a5b8-914e13653346" type="box">8</container>
+				  <container parent="4f34a67b-b755-4747-a5b8-914e13653346" type="folder">14</container> 
+				  <unittitle> Correspondence- I-K. 
+					 <unitdate normal="1933/1952" type="inclusive">1933-1952</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="2cf3e448-fb66-4d63-860a-91172d94f4b5" type="box">8</container>
+				  <container parent="2cf3e448-fb66-4d63-860a-91172d94f4b5" type="folder">15 </container> 
+				  <unittitle>Correspondence- L. 
+					 <unitdate normal="1932/1950" type="inclusive">1932-1950</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="52d8cb06-89df-44a5-85ca-8a78a0a0c89e" type="box">8</container>
+				  <container parent="52d8cb06-89df-44a5-85ca-8a78a0a0c89e" type="folder">16</container> 
+				  <unittitle> Correspondence- M. 
+					 <unitdate normal="1892/1951" type="inclusive">1892-1951</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a937247c-d67e-49fe-a39c-06287a81082e" type="box">8</container>
+				  <container parent="a937247c-d67e-49fe-a39c-06287a81082e" type="folder">17</container> 
+				  <unittitle> Correspondence- N-P. 
+					 <unitdate normal="1938/1952" type="inclusive">1938-1952</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="dd736689-58af-4efa-9e8e-8608d5259614" type="box">8</container>
+				  <container parent="dd736689-58af-4efa-9e8e-8608d5259614" type="folder">18</container> 
+				  <unittitle> Correspondence- R. 
+					 <unitdate normal="1886/1950" type="inclusive">1886-1950</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="115cc028-7126-40a1-a9e5-cd463ba504f0" type="box">8</container>
+				  <container parent="115cc028-7126-40a1-a9e5-cd463ba504f0" type="folder">19</container> 
+				  <unittitle> Correspondence- S. 
+					 <unitdate normal="1938/1952" type="inclusive">1938-1952</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="c8e4c9a1-b9f9-4e4e-9fa1-aaf2838df22f" type="box">8</container>
+				  <container parent="c8e4c9a1-b9f9-4e4e-9fa1-aaf2838df22f" type="folder">20</container> 
+				  <unittitle> Correspondence- T. 
+					 <unitdate normal="1932/1950" type="inclusive">1932-1950</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="4bb4a51e-7a31-4199-a29b-aed77f1fd295" type="box">8</container>
+				  <container parent="4bb4a51e-7a31-4199-a29b-aed77f1fd295" type="folder">21</container> 
+				  <unittitle> Correspondence- U-V. 
+					 <unitdate normal="1931/1946" type="inclusive">1931-1946</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="39430790-4e36-4311-b6f8-5eeaad2294b7" type="box">8</container>
+				  <container parent="39430790-4e36-4311-b6f8-5eeaad2294b7" type="folder">22</container> 
+				  <unittitle> Correspondence- W. 
+					 <unitdate normal="1938/1948" type="inclusive">1938-1948</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="d5e80579-0a8b-4423-8fa9-d22958078266" type="box">8</container>
+				  <container parent="d5e80579-0a8b-4423-8fa9-d22958078266" type="folder">23</container> 
+				  <unittitle> Correspondence- Z. 
+					 <unitdate normal="1935/1950" type="inclusive">1935-1950</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="e41ae41c-4c71-421c-a212-341d50fc75eb" type="box">8</container>
+				  <container parent="e41ae41c-4c71-421c-a212-341d50fc75eb" type="folder">24</container> 
+				  <unittitle> Correspondence, Redondo family. 
+					 <unitdate normal="1900/1922" type="inclusive">1900-1922</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="fba805c8-bb18-4588-ba10-d2a845e5f7fe" type="box">8</container>
+				  <container parent="fba805c8-bb18-4588-ba10-d2a845e5f7fe" type="folder">25</container> 
+				  <unittitle> Correspondence, Ronstadt, Alfred. 
+					 <unitdate normal="1938/1951" type="inclusive">1938-1951</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="b3838790-cec1-4e95-8ff8-cebf8c3aaa43" type="box">8</container>
+				  <container parent="b3838790-cec1-4e95-8ff8-cebf8c3aaa43" type="folder">26</container> 
+				  <unittitle>Correspondence, Ronstadt, Alicia. 
+					 <unitdate normal="1937/1953" type="inclusive">1937-1953</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="c4115a79-908d-43e5-840c-e7a700bce19c" type="box">8</container>
+				  <container parent="c4115a79-908d-43e5-840c-e7a700bce19c" type="folder">27</container> 
+				  <unittitle> Correspondence, Levin, Emily Ronstadt. 
+					 <unitdate normal="1902" type="inclusive">1902</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="be9f8741-d36b-4aa4-8bfb-c501635d04bf" type="box">8</container>
+				  <container parent="be9f8741-d36b-4aa4-8bfb-c501635d04bf" type="folder">28</container> 
+				  <unittitle> Correspondence, Ronstadt, Frederick A. 
+					 <unitdate normal="1883/1888" type="inclusive">1883-1888</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="4e6a231f-6401-468b-8f17-14c9e96b15af" type="box">8</container>
+				  <container parent="4e6a231f-6401-468b-8f17-14c9e96b15af" type="folder">29-31</container> 
+				  <unittitle> Correspondence, Ronstadt II, Frederick A. 
+					 <unitdate normal="1937/1947" type="inclusive">1937-1947</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="0fd7f23a-b885-4ced-800a-9e63cc79f385" type="box">8</container>
+				  <container parent="0fd7f23a-b885-4ced-800a-9e63cc79f385" type="folder">32</container> 
+				  <unittitle> Correspondence, Ronstadt Jr., Frederick A. 
+					 <unitdate normal="1938/1969" type="inclusive">1938-1969</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="6d5fe45e-7bd2-4421-82db-c71d906b1013" type="box">8</container>
+				  <container parent="6d5fe45e-7bd2-4421-82db-c71d906b1013" type="folder">33</container> 
+				  <unittitle> Correspondence, Ronstadt, Gilbert and Ruthmary. 
+					 <unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="9acd652b-f682-49db-a952-d55c1a40314b" type="box">8</container>
+				  <container parent="9acd652b-f682-49db-a952-d55c1a40314b" type="folder">34</container> 
+				  <unittitle> Correspondence, Ronstadt, Laura. 
+					 <unitdate normal="1938/1953" type="inclusive">1938-1953</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="cd98454b-e29e-4fff-bab3-a2e96e023fd2" type="box">8</container>
+				  <container parent="cd98454b-e29e-4fff-bab3-a2e96e023fd2" type="folder">35</container> 
+				  <unittitle> Correspondence, Ronstadt, Luisa. 
+					 <unitdate normal="1921/1952" type="inclusive">1921-1952</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="8116c834-d3e0-4c57-a46d-4bc76f3337fb" type="box">8</container>
+				  <container parent="8116c834-d3e0-4c57-a46d-4bc76f3337fb" type="folder">36</container> 
+				  <unittitle> Correspondence, Ronstadt, Lupe Dalton. 
+					 <unitdate normal="1903" type="inclusive">1903</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="c4c4a6aa-45ef-4566-b59e-249ea69f6a02" type="box">8</container>
+				  <container parent="c4c4a6aa-45ef-4566-b59e-249ea69f6a02" type="folder">37</container> 
+				  <unittitle> Correspondence, Ronstadt, Margarita Redondo. 
+					 <unitdate normal="1882/1901" type="inclusive">1882-1901</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="2b94566d-ba4b-4d0e-8afe-d270a3dc13e0" type="box">8</container>
+				  <container parent="2b94566d-ba4b-4d0e-8afe-d270a3dc13e0" type="folder">38</container> 
+				  <unittitle> Correspondence, Ronstadt, William. 
+					 <unitdate normal="1937/1953" type="inclusive">1937-1953</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="ed235763-cae2-4315-a913-6fd9cd53c0a2" type="box">8</container>
+				  <container parent="ed235763-cae2-4315-a913-6fd9cd53c0a2" type="folder">39</container> 
+				  <unittitle> Date book- honeymoon. 
+					 <unitdate normal="1904" type="inclusive">1904</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="9fdfc6eb-702d-4d3e-85c3-92021bd1c733" type="box">8</container>
+				  <container parent="9fdfc6eb-702d-4d3e-85c3-92021bd1c733" type="folder">40</container> 
+				  <unittitle> Family histories- Dalton. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="f8390584-dae1-431d-b417-e80195158306" type="box">8</container>
+				  <container parent="f8390584-dae1-431d-b417-e80195158306" type="folder">41</container> 
+				  <unittitle> Family histories- Levin. 
+					 <unitdate normal="1834/1902" type="inclusive">1834-1902</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="1ec9e4db-835d-4458-ac17-1824632bfa6f" type="box">8</container>
+				  <container parent="1ec9e4db-835d-4458-ac17-1824632bfa6f" type="folder">42</container> 
+				  <unittitle> Family histories- Redondo. 
+					 <unitdate normal="1852/1921" type="inclusive">1852-1921</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="42f5301b-ab78-4766-b941-da1c094f60df" type="box">8</container>
+				  <container parent="42f5301b-ab78-4766-b941-da1c094f60df" type="folder">43</container> 
+				  <unittitle> Family histories- Ronstadt. 
+					 <unitdate normal="1882/1980" type="inclusive">1882-1980</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="d552ccc1-30e1-46c6-a0ff-7a0b1cb6ad8c" type="box">8</container>
+				  <container parent="d552ccc1-30e1-46c6-a0ff-7a0b1cb6ad8c" type="folder">44</container> 
+				  <unittitle> Memorandum notebook. 
+					 <unitdate normal="1920" type="inclusive">1920</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="4bf0973c-4f28-46c8-acb1-896fb7acd208" type="box">8</container>
+				  <container parent="4bf0973c-4f28-46c8-acb1-896fb7acd208" type="folder">45</container> 
+				  <unittitle> Musical interest. 
+					 <unitdate normal="1890/1940" type="inclusive">1890-1940</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="84b0cc88-fc99-45ec-9af2-67e4b1a2b027" type="box">9</container>
+				  <container parent="84b0cc88-fc99-45ec-9af2-67e4b1a2b027" type="folder">1</container> 
+				  <unittitle> Notebooks, general. 
+					 <unitdate normal="1941/1952" type="inclusive">1941-1952</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a1f85be9-fe12-4270-abf0-7f348d93b79a" type="box">9</container>
+				  <container parent="a1f85be9-fe12-4270-abf0-7f348d93b79a" type="folder">2</container> 
+				  <unittitle> Notebook, personal. 
+					 <unitdate normal="1886/1888" type="inclusive">1886-1888</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="6bc9364b-f486-49e9-aed0-21d438871732" type="box">9</container>
+				  <container parent="6bc9364b-f486-49e9-aed0-21d438871732" type="folder">3</container> 
+				  <unittitle> Official documents. 
+					 <unitdate normal="1897/1919" type="inclusive">1897-1919</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="6890ab63-9ea9-4fa4-86f5-d7f9744d3a8b" type="box">9</container>
+				  <container parent="6890ab63-9ea9-4fa4-86f5-d7f9744d3a8b" type="folder">4</container> 
+				  <unittitle> Private accounts book #1. 
+					 <unitdate normal="1900/1920" type="inclusive">1900-1920</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a35a9e11-424e-4e02-bbd6-8cb29422160a" type="box">9</container>
+				  <container parent="a35a9e11-424e-4e02-bbd6-8cb29422160a" type="folder">5</container> 
+				  <unittitle> Private ledger #2. 
+					 <unitdate normal="1918/1929" type="inclusive">1918-1929</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="dda67a23-e16c-4700-ad2a-0ea85b485daf" type="box">9</container>
+				  <container parent="dda67a23-e16c-4700-ad2a-0ea85b485daf" type="folder">6</container> 
+				  <unittitle> Private ledger #3. 
+					 <unitdate normal="1921/1934" type="inclusive">1921-1934</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="325f525c-3820-4e7c-86ab-8fe8a323948f" type="box">9</container>
+				  <container parent="325f525c-3820-4e7c-86ab-8fe8a323948f" type="folder">7</container> 
+				  <unittitle> Richardson- Zepada matter. 
+					 <unitdate normal="1915/1950" type="inclusive">1915-1950</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="55faefca-a996-46cf-a7ca-6c312a03c42d" type="box">9</container>
+				  <container parent="55faefca-a996-46cf-a7ca-6c312a03c42d" type="folder">8</container> 
+				  <unittitle> Sketchbook- wagons. 
+					 <unitdate normal="1883" type="inclusive">1883</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="9652b6a7-01b1-4477-97a7-ebd609165e29" type="box">9</container>
+				  <container parent="9652b6a7-01b1-4477-97a7-ebd609165e29" type="folder">9</container> 
+				  <unittitle> Speeches and talks. 
+					 <unitdate normal="1884/1953" type="inclusive">1884-1953</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="930e3579-d45b-4053-80b2-d8cdb53c9b72" type="box">9</container>
+				  <container parent="930e3579-d45b-4053-80b2-d8cdb53c9b72" type="folder">10</container> 
+				  <unittitle> Store customer notebook. 
+					 <unitdate normal="1900/1912" type="inclusive">1900-1912</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a8890320-ab3b-485d-953a-bbdc3d69da5b" type="box">9</container>
+				  <container parent="a8890320-ab3b-485d-953a-bbdc3d69da5b" type="folder">11</container> 
+				  <unittitle> Things I remember. 
+					 <unitdate normal="1952" type="inclusive">1952</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="7c14c3f3-6ac4-42b3-8a50-b876c6dc57ff" type="box">9</container>
+				  <container parent="7c14c3f3-6ac4-42b3-8a50-b876c6dc57ff" type="folder">12</container> 
+				  <unittitle> Tucson history. 
+					 <unitdate normal="1879/1955" type="inclusive">1879-1955</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Ronstadt, Luisa, 
+				  <unitdate normal="1908/1961" type="inclusive">1908-1961</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Daughter of Frederick J.M. Ronstadt, also known as Luisa
+				  Espinel. Includes material related to her profession, as well as diaries and
+				  mementos from her school years. </p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="7bc440ba-d77c-4953-b5a5-861b2396af10" type="box">9</container>
+				  <container parent="7bc440ba-d77c-4953-b5a5-861b2396af10" type="folder">13</container> 
+				  <unittitle> Biographical file. 
+					 <unitdate normal="1918/1935" type="inclusive">1918-1935</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="29931785-b96e-4c0d-98fb-7fce367fd097" type="box">9</container>
+				  <container parent="29931785-b96e-4c0d-98fb-7fce367fd097" type="folder">14</container> 
+				  <unittitle> Casa de Adobe. 
+					 <unitdate normal="1954/1956" type="inclusive">1954-1956</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="7182d5c2-283c-4f35-9b2b-0ce53ec6335e" type="box">9</container>
+				  <container parent="7182d5c2-283c-4f35-9b2b-0ce53ec6335e" type="folder">15</container> 
+				  <unittitle> Diary excerpts. 
+					 <unitdate normal="1912/1918" type="inclusive">1912-1918</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="78aba4a0-aa50-4db1-9d7f-c1dd668fa35b" type="box">9</container>
+				  <container parent="78aba4a0-aa50-4db1-9d7f-c1dd668fa35b" type="folder">16</container> 
+				  <unittitle> Diary- retreat notes. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a31b3c59-8a87-4eeb-b135-942febe0572a" type="box">9</container>
+				  <container parent="a31b3c59-8a87-4eeb-b135-942febe0572a" type="folder">17</container> 
+				  <unittitle> Diary- school days. 
+					 <unitdate normal="1908/1911" type="inclusive">1908-1911</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="d7348550-c518-4475-bb21-2ab177cb2a4c" type="box">9</container>
+				  <container parent="d7348550-c518-4475-bb21-2ab177cb2a4c" type="folder">18</container> 
+				  <unittitle> Conversational Spanish class notes. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="fe1cdd5d-430b-4a48-b1af-e2a2a1ddf61d" type="box">9</container>
+				  <container parent="fe1cdd5d-430b-4a48-b1af-e2a2a1ddf61d" type="folder">19</container> 
+				  <unittitle> Correspondence- professional development. 
+					 <unitdate normal="1928/1961" type="inclusive">1928-1961</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="857cf856-af5d-4820-9cc2-a1996e008512" type="box">9</container>
+				  <container parent="857cf856-af5d-4820-9cc2-a1996e008512" type="folder">20</container> 
+				  <unittitle> Correspondence- scrapbook. 
+					 <unitdate normal="1927/1935" type="inclusive">1927-1935</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="109a984b-86e8-497c-981e-5f0696221315" type="box">9</container>
+				  <container parent="109a984b-86e8-497c-981e-5f0696221315" type="folder">21</container> 
+				  <unittitle> Cantos de Mi Padre note. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a17dc854-b949-4352-a0b8-006ec4f5eb9a" type="box">9</container>
+				  <container parent="a17dc854-b949-4352-a0b8-006ec4f5eb9a" type="folder">22</container> 
+				  <unittitle> Lucy Cobb Institute programs. 
+					 <unitdate normal="1923/1925" type="inclusive">1923-1925</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="33747093-f4e8-47d0-8acc-a1bd87e6b9b0" type="box">9</container>
+				  <container parent="33747093-f4e8-47d0-8acc-a1bd87e6b9b0" type="folder">23</container> 
+				  <unittitle> Mementos. 
+					 <unitdate normal="1910/1912" type="inclusive">1910-1912</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="1eb072db-e4b3-455f-83b7-925f81297a56" type="box">9</container>
+				  <container parent="1eb072db-e4b3-455f-83b7-925f81297a56" type="folder">24</container> 
+				  <unittitle> Mount Carmel Academy reunion. 
+					 <unitdate normal="1961" type="inclusive">1961</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a5d7caef-8064-4ba9-92d9-854dbe973a7d" type="box">9</container>
+				  <container parent="a5d7caef-8064-4ba9-92d9-854dbe973a7d" type="folder">25</container> 
+				  <unittitle> Professional research materials. 
+					 <unitdate normal="1934/1957" type="inclusive">1934-1957</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="21b15b41-764e-4cd0-9437-af0836d3974d" type="box">9</container>
+				  <container parent="21b15b41-764e-4cd0-9437-af0836d3974d" type="folder">26</container> 
+				  <unittitle> 
+					 <title render="italic">The Promise, </title>translation. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="871696b0-c601-4ecf-bc2f-56b517b2e7c5" type="box">9</container>
+				  <container parent="871696b0-c601-4ecf-bc2f-56b517b2e7c5" type="folder">27</container> 
+				  <unittitle> Publications and press releases. 
+					 <unitdate normal="1931/1945" type="inclusive">1931-1945</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="d2a0a16b-4884-4346-baf1-4746aee6ff73" type="box">9</container>
+				  <container parent="d2a0a16b-4884-4346-baf1-4746aee6ff73" type="folder">28-30</container> 
+				  <unittitle> Recital programs. 
+					 <unitdate normal="1916/1959" type="inclusive">1916-1959</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="bffe29a1-89ca-4008-8817-e9f0265bc5cb" type="box">9</container>
+				  <container parent="bffe29a1-89ca-4008-8817-e9f0265bc5cb" type="folder">31</container> 
+				  <unittitle> Recital programs- other artists. 
+					 <unitdate normal="1931/1954" type="inclusive">1931-1954</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="0ba8d837-6da7-490c-894d-05b5f4f31607" type="box">9</container>
+				  <container parent="0ba8d837-6da7-490c-894d-05b5f4f31607" type="folder">32</container> 
+				  <unittitle> Sheet Music- original compositions and arrangements. 
+					 <unitdate normal="1939/1961" type="inclusive">1939-1961</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Ronstadt, Lupe Dalton, 
+				  <unitdate normal="1921/1972" type="inclusive">1921-1972</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Second wife of Frederick J.M. Ronstadt and mother of sons
+				  Alfred, Edward, Gilbert, and William. Includes correspondence and publications.
+				  </p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="12d27773-f257-42f3-b48d-e9e9f65added" type="box">9</container>
+				  <container parent="12d27773-f257-42f3-b48d-e9e9f65added" type="folder">33</container> 
+				  <unittitle> Correspondence. 
+					 <unitdate normal="1921/1972" type="inclusive">1921-1972</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="3e9c7aba-a960-4aec-afb3-8e63af4bb58e" type="box">9</container>
+				  <container parent="3e9c7aba-a960-4aec-afb3-8e63af4bb58e" type="folder">34</container> 
+				  <unittitle> Publications. 
+					 <unitdate normal="1937" type="inclusive">1937</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Zepada, Jesus Maria, 
+				  <unitdate normal="1862/1939" type="inclusive">1862-1939</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Brother-in-law of Frederick J.M. Ronstadt . Includes
+				  biographical information. </p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="f77d6144-2c8e-4027-a4a1-d9e450c73288" type="box">9</container>
+				  <container parent="f77d6144-2c8e-4027-a4a1-d9e450c73288" type="folder">35</container> 
+				  <unittitle> Biographical File. 
+					 <unitdate normal="1862/1939" type="inclusive">1862-1939</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series 3: Photographs, 
+				<unitdate normal="1870/1979" type="inclusive">1870-1979</unitdate></unittitle> 
+			 <physdesc><extent encodinganalog="300">1 linear foot </extent><extent encodinganalog="300">(approximately 1000
+				items).</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>The Photographs series is divided into three subseries: </p> 
+			 <p>Business (1887-1950) consists of photos of various store locations
+				and merchandise sold. Including store interiors and exteriors, catalog goods,
+				and employees. </p> 
+			 <p>Family (1870-1979) primarily consists of photos of family and
+				friends of the Ronstadt family including candid and professional images, in
+				group and individual settings. Contains original daguerreotype and tintype
+				images. Also includes, images of interests related to the Ronstadt family, such
+				as their real estate holdings, special events, and publications. </p> 
+			 <p>General (1894-1977) includes images of the American Southwest,
+				Northern Mexico and the Baja Peninsula, and of United States Troops stationed
+				on the US-Mexico border. </p> 
+		  </scopecontent> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Business, 
+				  <unitdate normal="1887/1950" type="inclusive">1887-1950</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="c3de403a-478f-48ae-b28d-d40c6ae5ebf6" type="box">10</container>
+				  <container parent="c3de403a-478f-48ae-b28d-d40c6ae5ebf6" type="folder">1</container> 
+				  <unittitle> Automobiles. 
+					 <unitdate normal="1918/1920" type="inclusive">1918-1920</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a7013486-b9b3-4d51-b4b4-962490bccb66" type="box">10</container>
+				  <container parent="a7013486-b9b3-4d51-b4b4-962490bccb66" type="folder">2-3</container> 
+				  <unittitle> Catalog images- saddles and chaps. 
+					 <unitdate normal="1913" type="inclusive">1913</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="990a1fc7-9501-44c8-9e02-682b573682f5" type="box">10</container>
+				  <container parent="990a1fc7-9501-44c8-9e02-682b573682f5" type="folder">4</container> 
+				  <unittitle> F. Ronstadt Co. employees. 
+					 <unitdate normal="1900/1916" type="inclusive">1900-1916</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="dbf5c7e8-99d0-47bf-ac78-2c52ab156622" type="box">10</container>
+				  <container parent="dbf5c7e8-99d0-47bf-ac78-2c52ab156622" type="folder">5-8</container> 
+				  <unittitle> F. Ronstadt Co. store interiors. 
+					 <unitdate normal="1901/1928" type="inclusive">1901-1928</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="f3ec8c50-522c-4a44-98f3-6453cce15e61" type="box">10</container>
+				  <container parent="f3ec8c50-522c-4a44-98f3-6453cce15e61" type="folder">9-10</container> 
+				  <unittitle> F. Ronstadt Co. store exteriors. 
+					 <unitdate normal="1887/1950" type="inclusive">1887-1950</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="780e0f82-95b8-4ada-9e04-dfefdf2b92d5" type="box">10</container>
+				  <container parent="780e0f82-95b8-4ada-9e04-dfefdf2b92d5" type="folder">11-14</container> 
+				  <unittitle> Wagons. 
+					 <unitdate normal="1912" type="inclusive">1912</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="91de7dc4-f7bf-4c71-90ec-288a366f7c60" type="box">10</container>
+				  <container parent="91de7dc4-f7bf-4c71-90ec-288a366f7c60" type="folder">15</container> 
+				  <unittitle> Wagons scrapbook. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: Family, 
+				  <unitdate normal="1870/1979" type="inclusive">1870-1979</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="e912ab8c-27e3-4dee-8819-da24a3a0e25d" type="box">10</container>
+				  <container parent="e912ab8c-27e3-4dee-8819-da24a3a0e25d" type="folder">16</container> 
+				  <unittitle> Booklet- Daltons, Ronstadts, Smiths. 
+					 <unitdate normal="1904" type="inclusive">1904</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="d1581a90-4569-45d2-b145-3134f94386db" type="box">10</container>
+				  <container parent="d1581a90-4569-45d2-b145-3134f94386db" type="folder">17</container> 
+				  <unittitle> Colette album loose photos. 
+					 <unitdate normal="1948" type="inclusive">1948</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="0e62e54e-bb3f-46ea-aeab-b8787f8c90bb" type="box">10</container>
+				  <container parent="0e62e54e-bb3f-46ea-aeab-b8787f8c90bb" type="folder">18</container> 
+				  <unittitle> Dalton family. 
+					 <unitdate normal="1878/1890" type="inclusive">1878-1890</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="1cd2c000-dacb-4de1-ae96-62650428fa77" type="box">10</container>
+				  <container parent="1cd2c000-dacb-4de1-ae96-62650428fa77" type="folder"> 19</container> 
+				  <unittitle>Early family photos. 
+					 <unitdate normal="1864/1904" type="inclusive">1864-1904</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="21df1cc7-17f8-4654-9e76-4a035e1530c0" type="box">10</container>
+				  <container parent="21df1cc7-17f8-4654-9e76-4a035e1530c0" type="folder">20</container> 
+				  <unittitle> Newspaper article and photos. 
+					 <unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="d4655db0-d3a8-445e-93c6-bfe3eb5d63aa" type="box">10</container>
+				  <container parent="d4655db0-d3a8-445e-93c6-bfe3eb5d63aa" type="folder">21-23</container> 
+				  <unittitle> Party. 
+					 <unitdate normal="1954" type="inclusive">1954</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="30c01207-b96c-4070-8c88-90a082f05af0" type="box">10</container>
+				  <container parent="30c01207-b96c-4070-8c88-90a082f05af0" type="folder">24</container> 
+				  <unittitle> Real estate. 
+					 <unitdate normal="1903/1920" type="inclusive">1903-1920</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="02d79789-3ba5-4a8a-b5f6-8eeb32e20ada" type="box">10</container>
+				  <container parent="02d79789-3ba5-4a8a-b5f6-8eeb32e20ada" type="folder">25</container> 
+				  <unittitle> Redondo, Jose Maria. 
+					 <unitdate normal="1890/1899" type="inclusive">1890-1899</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="26ceab58-fd95-4118-bc93-f131906d6599" type="box">10</container>
+				  <container parent="26ceab58-fd95-4118-bc93-f131906d6599" type="folder">26</container> 
+				  <unittitle> Ronstadt, Alfred, Edward, Gilbert, and William. 
+					 <unitdate normal="1927/1972" type="inclusive">1927-1972</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="9be0a5c8-a4d0-48b4-89f6-d3ba793a096d" type="box">10</container>
+				  <container parent="9be0a5c8-a4d0-48b4-89f6-d3ba793a096d" type="folder">27</container> 
+				  <unittitle> Ronstadt, Alicia. 
+					 <unitdate normal="1900/1966" type="inclusive">1900-1966</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="4f06bbb3-b0ce-45aa-b81d-bbaba7df3b73" type="box">10</container>
+				  <container parent="4f06bbb3-b0ce-45aa-b81d-bbaba7df3b73" type="folder">28</container> 
+				  <unittitle> Ronstadt, Alfred. 
+					 <unitdate normal="1928" type="inclusive">1928</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="c3932093-3134-4d8e-bb88-24ba66c38c88" type="box">10</container>
+				  <container parent="c3932093-3134-4d8e-bb88-24ba66c38c88" type="folder"> 29</container> 
+				  <unittitle> Ronstadt, Edward and family. 
+					 <unitdate normal="1919/1979" type="inclusive">1919-1979</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="8c795372-ff87-4418-92f9-c8b52ac95970" type="box">10</container>
+				  <container parent="8c795372-ff87-4418-92f9-c8b52ac95970" type="folder">30</container> 
+				  <unittitle> Ronstadt, Frederick A. 
+					 <unitdate normal="1870/1879" type="inclusive">1870-1879</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="822c2172-cff7-4cb0-b682-dc466a8070af" type="box">10</container>
+				  <container parent="822c2172-cff7-4cb0-b682-dc466a8070af" type="folder">31</container> 
+				  <unittitle> Ronstadt, Frederick J.M. and family. 
+					 <unitdate normal="1920/1943" type="inclusive">1920-1943</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="0c0c824e-3e53-474a-90f4-f85a9af01de7" type="box">10</container>
+				  <container parent="0c0c824e-3e53-474a-90f4-f85a9af01de7" type="folder">32</container> 
+				  <unittitle> Ronstadt, Frederick J.M. 
+					 <unitdate normal="1873/1950" type="inclusive">1873-1950</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="988af5b3-07ff-46a7-8d5a-f319e968e666" type="box">10</container>
+				  <container parent="988af5b3-07ff-46a7-8d5a-f319e968e666" type="folder">33</container> 
+				  <unittitle> Ronstadt, Gilbert and family. 
+					 <unitdate normal="1922/1952" type="inclusive">1922-1952</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="f8356031-eb26-41f4-aec1-f2377bca0859" type="box">10</container>
+				  <container parent="f8356031-eb26-41f4-aec1-f2377bca0859" type="folder">34</container> 
+				  <unittitle> Ronstadt, Luisa. 
+					 <unitdate normal="1911/1955" type="inclusive">1911-1955</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="15109f8a-96af-43e3-a71b-75515b1248a0" type="box">10</container>
+				  <container parent="15109f8a-96af-43e3-a71b-75515b1248a0" type="folder">35</container> 
+				  <unittitle> Ronstadt, Lupe Dalton. 
+					 <unitdate normal="1895/1938" type="inclusive">1895-1938</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="61e67466-ed11-4172-a166-b412a42511ac" type="box">10</container>
+				  <container parent="61e67466-ed11-4172-a166-b412a42511ac" type="folder">36</container> 
+				  <unittitle> Smith, Harold and Marguerite Ronstadt. 
+					 <unitdate normal="1905/1928" type="inclusive">1905-1928</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="b1995984-e74a-44cc-bc51-86f4efe528bf" type="box">10</container>
+				  <container parent="b1995984-e74a-44cc-bc51-86f4efe528bf" type="folder">37</container> 
+				  <unittitle> Vasquez family. 
+					 <unitdate normal="1870/1879" type="inclusive">1870-1879</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: General, 
+				  <unitdate normal="1894/1977" type="inclusive">1894-1977</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="7854233f-5a4f-4fe0-923c-f7319230b701" type="box">10</container>
+				  <container parent="7854233f-5a4f-4fe0-923c-f7319230b701" type="folder">38</container> 
+				  <unittitle> Arizona- Mexico buildings. 
+					 <unitdate normal="1894/1977" type="inclusive">1894-1977</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="3e71c121-ab27-4067-be02-606593224c53" type="box">10</container>
+				  <container parent="3e71c121-ab27-4067-be02-606593224c53" type="folder">39</container> 
+				  <unittitle> Baja, California. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="67602d38-9b48-448d-80c1-d9fe6e90606e" type="box">10</container>
+				  <container parent="67602d38-9b48-448d-80c1-d9fe6e90606e" type="folder">40</container> 
+				  <unittitle> Miscellaneous places. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="37b6589c-5b7a-40fa-afb0-43e24a581047" type="box">10</container>
+				  <container parent="37b6589c-5b7a-40fa-afb0-43e24a581047" type="folder">41</container> 
+				  <unittitle> Tucson, Arizona. 
+					 <unitdate normal="1908/1972" type="inclusive">1908-1972</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="924eafc6-b3df-4a69-930c-91d04ea24fce" type="box">10</container>
+				  <container parent="924eafc6-b3df-4a69-930c-91d04ea24fce" type="folder">42</container> 
+				  <unittitle> United States troops on the border. 
+					 <unitdate normal="1922/1932" type="inclusive">1922-1932</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series 4: Oversize, 
+				<unitdate normal="1894/1958" type="inclusive">1894-1958</unitdate></unittitle> 
+			 <physdesc><extent encodinganalog="300">1 linear foot </extent><extent encodinganalog="300">(approximately 1000
+				items).</extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>The Oversize series is divided into three subseries. </p> 
+			 <p>Business (1894-1958) contains mostly large ledger and minute books
+				from both the store and the administrative bodies of the company. Includes
+				financial and organizational records. </p> 
+			 <p>Family (1927-1932) is comprised of material relating to Edward
+				Ronstadt's research into former family property and connections in California,
+				and scrapbooks of newspaper clippings for performer Luisa (Espinel) Ronstadt.
+				</p> 
+			 <p>Photographs (1904-1952) contains images of the store exterior in
+				the early twentieth century and catalog images of wagons for sale. Family
+				photos include large professional portraits of Frederick JM Ronstadt, and his
+				niece Marguerite, and an album compiled by family friend Colette. </p> 
+		  </scopecontent> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Business Records, 
+				  <unitdate normal="1894/1958" type="inclusive">1894-1958</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="6216a670-d00d-4992-b3a3-d89982ee759d" type="box">11</container>
+				  <container parent="6216a670-d00d-4992-b3a3-d89982ee759d" type="folder">1</container> 
+				  <unittitle> Board of Directors minute book. 
+					 <unitdate normal="1904/1930" type="inclusive">1904-1930</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="7f109367-a5ea-473c-8158-fca57070cfba" type="box">12</container>
+				  <container parent="7f109367-a5ea-473c-8158-fca57070cfba" type="folder">1</container> 
+				  <unittitle> Check register book. 
+					 <unitdate normal="1950/1955" type="inclusive">1950-1955</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="ab17ac84-61f5-4bd1-a608-3ff8f1ad5b09" type="box">12</container>
+				  <container parent="ab17ac84-61f5-4bd1-a608-3ff8f1ad5b09" type="folder">2</container> 
+				  <unittitle> Check register- salary records. 
+					 <unitdate normal="1956/1958" type="inclusive">1956-1958</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="3cd6eda1-bd44-4dbd-bf78-7595ef6065ca" type="box">13</container>
+				  <container parent="3cd6eda1-bd44-4dbd-bf78-7595ef6065ca" type="folder">1</container> 
+				  <unittitle> Stock certificate book. 
+					 <unitdate normal="1921/1930" type="inclusive">1921-1930</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="946ff323-a10e-4b44-8058-c414f279f7a5" type="box">14</container>
+				  <container parent="946ff323-a10e-4b44-8058-c414f279f7a5" type="folder">1</container> 
+				  <unittitle> Stockholders minute book. 
+					 <unitdate normal="1930/1935" type="inclusive">1930-1935</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="adad585f-beb2-405a-a86e-7395780204e7" type="box">15</container>
+				  <container parent="adad585f-beb2-405a-a86e-7395780204e7" type="folder">1</container> 
+				  <unittitle> Sales totals register. 
+					 <unitdate normal="1907/1935" type="inclusive">1907-1935</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="059dbee7-344c-49bb-9a56-f476e72a2fcd" type="box">15</container>
+				  <container parent="059dbee7-344c-49bb-9a56-f476e72a2fcd" type="folder">2</container> 
+				  <unittitle> Statements of loss and gain. 
+					 <unitdate normal="1913" type="inclusive">1913</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="89281897-01bc-4c06-8a80-612deec044dc" type="box">15</container>
+				  <container parent="89281897-01bc-4c06-8a80-612deec044dc" type="folder">3</container> 
+				  <unittitle> Store credit ledger. 
+					 <unitdate normal="1894/1898" type="inclusive">1894-1898</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="a727ea8c-e5d7-4414-810b-d75365b06d1c" type="box">16</container>
+				  <container parent="a727ea8c-e5d7-4414-810b-d75365b06d1c" type="folder">1</container> 
+				  <unittitle> Ronstadt, Edward, family history- California ranchos.
+					 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="c725db0a-40c7-4c87-9a96-ddcf15a5f1ae" type="box">17</container>
+				  <container parent="c725db0a-40c7-4c87-9a96-ddcf15a5f1ae" type="folder">1</container> 
+				  <unittitle> Ronstadt, Luisa, scrapbook- newspaper clippings. 
+					 <unitdate normal="1931/1932" type="inclusive">1931-1932</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="7993161f-ca39-49d1-a5bf-16ed6095711a" type="box">17</container>
+				  <container parent="7993161f-ca39-49d1-a5bf-16ed6095711a" type="folder">2</container> 
+				  <unittitle> Ronstadt, Luisa, scrapbook- newspaper clippings and
+					 programs. 
+					 <unitdate normal="1927/1932" type="inclusive">1927-1932</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Subseries: photographs, 
+				  <unitdate normal="1904/1952" type="inclusive">1904-1952</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="374fe30c-7654-424f-9ac2-eecb67d3bfc7" type="box">18</container>
+				  <container parent="374fe30c-7654-424f-9ac2-eecb67d3bfc7" type="folder">1</container> 
+				  <unittitle> Business records, store exterior. 
+					 <unitdate normal="1904" type="inclusive">1904</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="2a43f980-831a-4081-b6b1-dba5a3298aab" type="box">18</container>
+				  <container parent="2a43f980-831a-4081-b6b1-dba5a3298aab" type="folder">2</container> 
+				  <unittitle> Business records, wagons. 
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="0f561431-94d7-46aa-83b8-666d9a5397da" type="box">18</container>
+				  <container parent="0f561431-94d7-46aa-83b8-666d9a5397da" type="folder">3</container> 
+				  <unittitle> Family Papers, Ronstadt, Frederick J.M. 
+					 <unitdate normal="1952" type="inclusive">1952</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="68fa5f95-f46d-4ee3-a838-1cb9b87e052a" type="box">18</container>
+				  <container parent="68fa5f95-f46d-4ee3-a838-1cb9b87e052a" type="folder">4</container> 
+				  <unittitle> Family papers, Ronstadt, Marguerite (Smith). 
+					 <unitdate normal="1924" type="inclusive">1924</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did>
+				  <container id="da834099-0db2-4f21-abc8-15bb75ec1d5f" type="box">18</container>
+				  <container parent="da834099-0db2-4f21-abc8-15bb75ec1d5f" type="folder">5</container> 
+				  <unittitle> Family apers, Scrapbook- photos from Colette. 
+					 <unitdate normal="1948" type="inclusive">1948</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

@@ -1,0 +1,2977 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">UAMS400</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Louis A. Witzeman Collection of
+		  Rural/Metro Corporation Records, 
+		  <date>1947-2004</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Sean H.
+		  Crane.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address> 
+		<date>2006</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Sean H. Crane. 
+		<date>September 2006</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">
+		English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-22">2017-06-22</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Louis A. Witzeman Collection of
+		Rural/Metro Corporation Records, 
+		<date>1947-2004</date></titleproper> 
+	 <num>Collection Number: MS 400</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Sean H. Crane</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>June 2006</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Sean H. Crane</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2006. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Louis A. Witzeman
+		Collection of Rural/Metro Corporation Records 
+		<unitdate normal="1947/2004" type="inclusive">1947-2004</unitdate></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 400</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Rural/Metro Corporation</persname>
+		</origination> 
+	 <abstract label="Abstract">Records, 1947-2004. This collection includes
+		business files; company history materials; materials regarding Rural/Metro
+		founder Louis A. Witzeman; correspondence; photographs, negatives, and slides
+		(featuring images of fire fighting, fire damage, fire hazards, fire engines,
+		personnel, stations, and equipment); photocopies of scrapbooks and news
+		clippings; audiovisual materials; and memorabilia.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">12 linear feet (Approximately 15,000
+		items).</extent></physdesc> 
+	 <repository label="Repository"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Louis A. Witzeman Collection of Rural/Metro Corporation Records (MS 400). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Historical Note</head> 
+	 <p>Rural/Metro Corporation began in 1948 as the Rural Fire Protection
+		Company-a privately-run subscription fire service serving the unincorporated
+		area north of Phoenix, Arizona. Louis A. Witzeman founded the company after
+		watching a neighbor's home burn unchecked because there was no fire protection
+		available in the unincorporated area where the home was located. In 1951, the
+		Rural Fire Protection Company contracted to provide fire protection for the
+		newly-incorporated city of Scottsdale, Arizona. Rural Fire Protection Company
+		changed the name of its fire fighting operations to Rural/Metro Fire Department
+		after purchasing Phoenix's Metropolitan Fire Department in 1960. Over the years
+		the company expanded its activities significantly to include provision of fire
+		protection for several Arizona cities as well as for cities in several other
+		states. Additionally, the company expanded its range of operations to include
+		ambulance service, security patrol service, hazardous materials response
+		service, and emergency services consulting. The company changed its name to
+		Rural/Metro Corporation in 1972. Witzeman retired from Rural/Metro in 1978 and
+		sold the company to his employees through an employee stock ownership plan.
+		</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into eleven series. Two series contain
+		subseries: Business Files and Photographs.</p> 
+	 <list> 
+		<item>Series 1: Business Files, 
+		  <unitdate normal="1947/2004" type="inclusive">1947-2004</unitdate></item> 
+		<item>Subseries: Accounting and Finance, 
+		  <unitdate normal="1947/2004" type="inclusive">1947-2004</unitdate></item> 
+		<item>Subseries: Contracts, 
+		  <unitdate normal="1947/1984" type="inclusive">1947-1984</unitdate></item> 
+		<item>Subseries: Legal, 
+		  <unitdate normal="1947/1984" type="inclusive">1947-1984</unitdate></item> 
+		<item>Subseries: Real Estate, 
+		  <unitdate normal="1951/1983" type="inclusive">1951-1983</unitdate></item> 
+		<item>Subseries: Reports, 
+		  <unitdate normal="1961/2003" type="inclusive">1961-2003</unitdate></item> 
+		<item>Subseries: Sales, Marketing, and Advertising, 
+		  <unitdate normal="1948/2002" type="inclusive">1948-2002</unitdate></item> 
+		<item>Subseries: Speeches, 
+		  <unitdate normal="1969/1996" type="inclusive">1969-1996</unitdate></item> 
+		<item>Series 2: Company History, 
+		  <unitdate normal="1966/2002" type="inclusive">1966-2002</unitdate></item> 
+		<item>Series 3: Louis A. Witzeman, 
+		  <unitdate normal="1966/2004" type="inclusive">1966-2004</unitdate></item> 
+		<item>Series 4: Correspondence, 
+		  <unitdate normal="1949/2004" type="inclusive">1949-2004</unitdate></item> 
+		<item>Series 5: Photographs, 
+		  <unitdate normal="1948/1993" type="inclusive">1948-1993</unitdate></item> 
+		<item>Subseries: Community Outreach, 
+		  <unitdate normal="1963/1972" type="inclusive">1963-1972</unitdate></item> 
+		<item>Subseries: Equipment, 
+		  <unitdate normal="1963/1973" type="inclusive">1963-1973</unitdate></item> 
+		<item>Subseries: Fire Engines, 
+		  <unitdate normal="1950/1979" type="inclusive">1950-1979</unitdate></item> 
+		<item>Subseries: Fire Hazards, 
+		  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></item>
+		
+		<item>Subseries: Fire stations, 
+		  <unitdate normal="1950/1975" type="inclusive">1950-1975</unitdate></item> 
+		<item>Subseries: Fires, 
+		  <unitdate normal="1948/1990" type="inclusive">1948-1990</unitdate></item> 
+		<item>Subseries: Publicity, 
+		  <unitdate normal="1950/1993" type="inclusive">1950-1993</unitdate></item> 
+		<item>Series 6: Negatives and Slides, 
+		  <unitdate normal="1950/1982" type="inclusive">1950-1982</unitdate></item> 
+		<item>Series 7: Scrapbooks, 
+		  <unitdate normal="1948/1986" type="inclusive">1948-1986</unitdate></item> 
+		<item>Series 8: News Clippings, 
+		  <unitdate normal="1948/2004" type="inclusive">1948-2004</unitdate></item> 
+		<item>Series 9: Audiovisual, 
+		  <unitdate normal="1969/2001" type="inclusive">1969-2001</unitdate></item> 
+		<item>Series 10: Memorabilia, 
+		  <unitdate normal="1976/1988" type="inclusive">1976-1988</unitdate></item> 
+		<item>Series 11: Oversized Materials (contains memorabilia, photographs,
+		  and one scrapbook)</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This collection includes business files; company history materials;
+		materials regarding Rural/Metro founder Louis A. Witzeman; correspondence;
+		photographs, negatives, and slides (featuring images of fire fighting, fire
+		damage, fire hazards, fire engines, personnel, stations, and equipment);
+		photocopies of scrapbooks and news clippings; audiovisual materials; and
+		memorabilia. Rural/Metro Corporation often received national publicity,
+		particularly regarding the privatization of fire protection which traditionally
+		had been a public sector service. Articles appeared in major publications such
+		as Newsweek, U.S. News and World Report, Reader's Digest, Wall Street Journal,
+		New York Times, and Los Angeles Times. These articles, as well as many others,
+		are included in the collection. Additionally, Rural/Metro was featured on the
+		television programs "60 Minutes" (1978) and "Good Morning America" (2000).
+		While the "60 Minutes" broadcast is not in the collection, a Scottsdale
+		Quarterly magazine article describing it is included in the collection. Also,
+		the Rural/Metro History Project (located in Series 2: Company History) contains
+		a brief description of the broadcast. The "Good Morning America" broadcast (on
+		VHS) is included in the collection in the audiovisual series</p> 
+  </scopecontent> 
+  <controlaccess> 
+	 <persname>Witzeman, Louis A., 1924-2004</persname><subject>Rural/Metro Corporation--Records and
+			 Correspondence</subject><subject>Elections--Scottsdale,Arizona--2003</subject><subject>Fire Chiefs</subject><subject>Fire Departments</subject><subject>Fire Departments--Equipment and Supplies</subject><subject>Fire Departments--Officials and Employees</subject><subject>Fire Departments--Southwest</subject><subject>Fire Departments--Maricopa County, Arizona</subject><subject>Fire Departments--Pima County, Arizona</subject><subject>Fire Engines</subject><subject>Fire Fighters</subject><subject>Fire Fighters--Labor Unions</subject><subject>Fire Hose</subject><subject>Hydrants</subject><subject>Fire Prevention</subject><subject>Fire Protection Districts</subject><subject>Fire Sprinklers</subject><subject>Fire Stations</subject><subject>Mayors--Scottsdale, Arizona--Drinkwater, Herb, d.
+			 1997</subject><persname>Drinkwater, Herb, d.
+			 1997--Mayor--Scottsdale, Arizona</persname><subject>Privatization</subject><subject>Phoenix Fire
+			 Department</subject><subject>Scottsdale Fire
+			 Department</subject><subject>Tucson Fire Department</subject></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 1: Business Files, 
+			 <unitdate normal="1947/2004" type="inclusive">1947-2004</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>3.5 linear feet (Approximately 5,250 items)</p> 
+		  <p>Arrangement: Alphabetical</p> 
+		  <p>The Business Files Series is divided into seven subseries.
+			 Accounting and Finance (1947-1987), contains some balance sheets, bank
+			 documents, and board of directors meeting minutes. Contracts (1947-1984),
+			 contains copies of various fire protection and security patrol contracts made
+			 with cities, homeowners associations, and individuals. Legal (1947-1984),
+			 mainly contains legal materials pertaining to dealings with the Arizona
+			 Corporation Commission. Real Estate (1951-1983), contains documents concerning
+			 the company's property holdings. Reports (1961-2003), contains
+			 Rural/Metro Corporation and Scottsdale Fire Department annual reports, as well
+			 as other reports. Sales, Marketing, and Advertising (1948-2002), contains
+			 advertisements, brochures, and press books. Speeches (1969-1996), contains
+			 Louis A. Witzeman's speeches, including drafts, final versions, and
+			 published versions that he delivered to various fire fighting and
+			 privatization-related organizations.</p> 
+		</scopecontent> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Accounting and Finance. 
+				<unitdate normal="1947/1987" type="inclusive">1947-1987</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="eda040a7-8bdc-48f1-9b51-1eadb8350eda" type="box">1</container> <container parent="eda040a7-8bdc-48f1-9b51-1eadb8350eda" type="folder">1</container> 
+				<unittitle>Balance Sheets for AAA Fire Equipment Company. 
+				  <unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="56729e9f-b24a-46a5-b8bd-7b2dbeeb6e37" type="box">1</container> <container parent="56729e9f-b24a-46a5-b8bd-7b2dbeeb6e37" type="folder">2</container> 
+				<unittitle>Balance Sheets for Rural Fire Protection Company. 
+				  <unitdate normal="1949/1951" type="inclusive">1949-1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="8a28bad2-194f-46d8-838f-4d41d8859a68" type="box">1</container> <container parent="8a28bad2-194f-46d8-838f-4d41d8859a68" type="folder">3</container> 
+				<unittitle>Balance Sheets for Rural Fire Protection Company. 
+				  <unitdate normal="1952/1955" type="inclusive">1952-1955</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b7d6902b-f0f7-49be-99a4-3094ed3ad337" type="box">1</container> <container parent="b7d6902b-f0f7-49be-99a4-3094ed3ad337" type="folder">4</container> 
+				<unittitle>Bank Documents. 
+				  <unitdate normal="1948/1954" type="inclusive">1948-1954</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="71008445-f72d-4ff8-87e4-f06c1493a67c" type="box">1</container> <container parent="71008445-f72d-4ff8-87e4-f06c1493a67c" type="folder">5</container> 
+				<unittitle>Bank Documents. 
+				  <unitdate normal="1951/1961" type="inclusive">1951-1961</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="bdc1428f-ac49-40d4-8ffd-06f8a197616f" type="box">1</container> <container parent="bdc1428f-ac49-40d4-8ffd-06f8a197616f" type="folder">6</container> 
+				<unittitle>Bank Documents. 
+				  <unitdate normal="1960/1981" type="inclusive">1960-1981</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="463b797b-e5c6-4404-9e3c-6cef00e10087" type="box">1</container> <container parent="463b797b-e5c6-4404-9e3c-6cef00e10087" type="folder">7</container> 
+				<unittitle>Board of Directors Meeting Minutes. 
+				  <unitdate normal="1972/1974" type="inclusive">1972-1974</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="6fbb2d35-56de-4647-8da1-384cfb4c44a3" type="box">1</container> <container parent="6fbb2d35-56de-4647-8da1-384cfb4c44a3" type="folder">8</container> 
+				<unittitle>Board of Directors Meeting Minutes. 
+				  <unitdate normal="1975/1979" type="inclusive">1975-1979</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="bd4fb318-456b-4b79-b6d5-b9f036ee3548" type="box">1</container> <container parent="bd4fb318-456b-4b79-b6d5-b9f036ee3548" type="folder">9</container> 
+				<unittitle>Board of Directors Meeting Minutes. 
+				  <unitdate normal="1980/1987" type="inclusive">1980-1987</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a6a52f5f-ed5b-4f7c-979b-1a4566bf2393" type="box">1</container> <container parent="a6a52f5f-ed5b-4f7c-979b-1a4566bf2393" type="folder">10</container> 
+				<unittitle>Financial Growth Charts. 
+				  <unitdate normal="1975/1979" type="inclusive">1975-1979</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e40a24db-be09-4166-871a-68e70800e81a" type="box">1</container> <container parent="e40a24db-be09-4166-871a-68e70800e81a" type="folder">11</container> 
+				<unittitle>Invoices. 
+				  <unitdate normal="1947/1955" type="inclusive">1947-1955</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="501480bf-a85d-4fd1-a444-ed4b61df3dbf" type="box">1</container> <container parent="501480bf-a85d-4fd1-a444-ed4b61df3dbf" type="folder">12</container> 
+				<unittitle>Stock Certificates. 
+				  <unitdate normal="1948/1972" type="inclusive">1948-1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c2a13d9d-4a8f-43f2-a692-5daf83633283" type="box">1</container> <container parent="c2a13d9d-4a8f-43f2-a692-5daf83633283" type="folder">13</container> 
+				<unittitle>Stock Evaluation. 
+				  <unitdate normal="1980" type="inclusive">1980</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Contracts 
+				<unitdate normal="1947/1987" type="inclusive">1947-1987</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="5eb86632-f11e-4ca3-bb10-29f3eef10268" type="box">1</container> <container parent="5eb86632-f11e-4ca3-bb10-29f3eef10268" type="folder">14</container> 
+				<unittitle>Bank of Douglas, Arizona Escrow Contract. 
+				  <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="25bcc12b-342e-4ae9-9f1b-0efab6fbfc88" type="box">1</container> <container parent="25bcc12b-342e-4ae9-9f1b-0efab6fbfc88" type="folder">15</container> 
+				<unittitle>Carondelet Health Services Contract. 
+				  <unitdate normal="1984" type="inclusive">1984</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="97f9473d-b893-4536-a749-3a1cfcf18b3a" type="box">1</container> <container parent="97f9473d-b893-4536-a749-3a1cfcf18b3a" type="folder">16</container> 
+				<unittitle>Homeowner Fire Contracts. 
+				  <unitdate normal="1974/1979" type="inclusive">1974-1979</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="91b97a72-bcf6-44a5-9f93-ec0c0b185391" type="box">1</container> <container parent="91b97a72-bcf6-44a5-9f93-ec0c0b185391" type="folder">17</container> 
+				<unittitle>Mark Realty Development Contract. 
+				  <unitdate normal="1983" type="inclusive">1983</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="7db93042-f605-4715-97aa-855db31d0930" type="box">1</container> <container parent="7db93042-f605-4715-97aa-855db31d0930" type="folder">18</container> 
+				<unittitle>Sabino Vista Volunteer Fire District Contract. 
+				  <unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="400e0e4b-92b5-44dc-88d0-94aa83003f6b" type="box">1</container> <container parent="400e0e4b-92b5-44dc-88d0-94aa83003f6b" type="folder">19</container> 
+				<unittitle>Salt River Pima-Maricopa Indian Community Fire Contract.
+				  <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="39a5bda9-fb72-4677-90da-9f58663e274b" type="box">1</container> <container parent="39a5bda9-fb72-4677-90da-9f58663e274b" type="folder">20</container> 
+				<unittitle>San Luis Fire Contract. 
+				  <unitdate normal="1982" type="inclusive">1982</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="cdb23cab-4d6c-4413-bb7c-fabfadaa0756" type="box">1</container> <container parent="cdb23cab-4d6c-4413-bb7c-fabfadaa0756" type="folder">21</container> 
+				<unittitle>Scottsdale Fire Contract. 
+				  <unitdate normal="1951/1982" type="inclusive">1951-1982</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2d6a270d-6979-4b65-9474-ab1949a51ebe" type="box">1</container> <container parent="2d6a270d-6979-4b65-9474-ab1949a51ebe" type="folder">22</container> 
+				<unittitle>Sandpiper Scottsdale Homeowners Association Security
+				  Patrol Contract. 
+				  <unitdate normal="1982/1984" type="inclusive">1982-1984</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5f618022-3f78-4593-b888-042450abf6d7" type="box">2</container> <container parent="5f618022-3f78-4593-b888-042450abf6d7" type="folder">1</container> 
+				<unittitle>Scottsdale Memorial Hospital Contract. 
+				  <unitdate normal="1982" type="inclusive">1982</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="be83c8de-a4d6-41fd-9d68-35382727562e" type="box">2</container> <container parent="be83c8de-a4d6-41fd-9d68-35382727562e" type="folder">2</container> 
+				<unittitle>Sun City Volunteer Fire District Contract. 
+				  <unitdate normal="1980" type="inclusive">1980</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1678f71f-f94a-451f-a103-abb6ff0b83ac" type="box">2</container> <container parent="1678f71f-f94a-451f-a103-abb6ff0b83ac" type="folder">3</container> 
+				<unittitle>Sun City West Fire District Contract. 
+				  <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="af919e67-1207-441a-be29-e2a553c02f25" type="box">2</container> <container parent="af919e67-1207-441a-be29-e2a553c02f25" type="folder">4</container> 
+				<unittitle>Sun Tree Homeowners Association Security Patrol
+				  Contract. 
+				  <unitdate normal="1983" type="inclusive">1983</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d1c6341e-98fa-4983-baae-5f2c440868f0" type="box">2</container> <container parent="d1c6341e-98fa-4983-baae-5f2c440868f0" type="folder">5</container> 
+				<unittitle>Tolleson Fire Contract Addendum. 
+				  <unitdate normal="1982" type="inclusive">1982</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e7feb944-6c47-4460-baa3-6e157b5c3e53" type="box">2</container> <container parent="e7feb944-6c47-4460-baa3-6e157b5c3e53" type="folder">6</container> 
+				<unittitle>Tucson Estates Fire District Contract. 
+				  <unitdate normal="1980" type="inclusive">1980</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="60df0751-9457-4768-9e24-77e9e8f9d66a" type="box">2</container> <container parent="60df0751-9457-4768-9e24-77e9e8f9d66a" type="folder">7</container> 
+				<unittitle>Tucson General Hospital Contract. 
+				  <unitdate normal="1983" type="inclusive">1983</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="71416d29-130f-4391-b8f4-784abe1f2a6b" type="box">2</container> <container parent="71416d29-130f-4391-b8f4-784abe1f2a6b" type="folder">8</container> 
+				<unittitle>Union Oil Company Microwave Telecommunications Contract.
+				  
+				  <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a1f18230-0619-4472-9ba7-e5c3406d00bb" type="box">2</container> <container parent="a1f18230-0619-4472-9ba7-e5c3406d00bb" type="folder">9</container> 
+				<unittitle>Woodland Springs Homeowners Association Security Patrol
+				  Contract. 
+				  <unitdate normal="1983" type="inclusive">1983</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Legal, 
+				<unitdate normal="1947/1984" type="inclusive">1947-1984</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="dfd49f67-c96f-4b46-acac-19ea06769757" type="box">2</container> <container parent="dfd49f67-c96f-4b46-acac-19ea06769757" type="folder">10</container> 
+				<unittitle>Arizona Corporation Commission. 
+				  <unitdate normal="1947/1984" type="inclusive">1947-1984</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b1513327-1ae9-4c9e-95ad-303269c530dd" type="box">2</container> <container parent="b1513327-1ae9-4c9e-95ad-303269c530dd" type="folder">11</container> 
+				<unittitle>Arizona Revised Statutes Private Ambulance Insurance
+				  Exemption (Draft). 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ec38cdd4-78db-4815-8684-39f471eee5ea" type="box">2</container> <container parent="ec38cdd4-78db-4815-8684-39f471eee5ea" type="folder">12</container> 
+				<unittitle>Scottsdale Sprinkler Ordinance. 
+				  <unitdate normal="1974/1980" type="inclusive">1974-1980</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Real Estate. 
+				<unitdate normal="1951/1983" type="inclusive">1951-1983</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="56cc2291-544c-416e-b5df-d06977199a84" type="box">2</container> <container parent="56cc2291-544c-416e-b5df-d06977199a84" type="folder">13</container> 
+				<unittitle>Property Lists and Appraisal Reports. 
+				  <unitdate normal="1976/1983" type="inclusive">1976-1983</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="862153cb-523a-4891-b8c6-81eb56b82a0e" type="box">2</container> <container parent="862153cb-523a-4891-b8c6-81eb56b82a0e" type="folder">14</container> 
+				<unittitle>Title Insurance Policy. 
+				  <unitdate normal="1951" type="inclusive">1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Reports. 
+				<unitdate normal="1961/2003" type="inclusive">1961-2003</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="b4257f0e-176c-4721-bf18-80ab090c8ae3" type="box">2</container> <container parent="b4257f0e-176c-4721-bf18-80ab090c8ae3" type="folder">15</container> 
+				<unittitle>Adam Smith Institute, Re-Servicing Britain. 
+				  <unitdate normal="1981" type="inclusive">1981</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c37ad431-dcbc-4ac4-a428-8b4e9a8e2874" type="box">2</container> <container parent="c37ad431-dcbc-4ac4-a428-8b4e9a8e2874" type="folder">16</container> 
+				<unittitle>Bay Village, Ohio, Ohio Inspection Bureau Report. 
+				  <unitdate normal="1963" type="inclusive">1963</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="6994a467-43d2-41ef-90b5-805762a9fc21" type="box">2</container> <container parent="6994a467-43d2-41ef-90b5-805762a9fc21" type="folder">17</container> 
+				<unittitle>Dade County Fire Department, Emergency Medical Rescue
+				  Frequency of Alarms Reported. 
+				  <unitdate normal="1977" type="inclusive">1977</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="14eb11c0-5de5-47db-852a-c607768f454d" type="box">2</container> <container parent="14eb11c0-5de5-47db-852a-c607768f454d" type="folder">18</container> 
+				<unittitle>CEMA, Private Sector Fire Protection. 
+				  <unitdate normal="1983" type="inclusive">1983</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="43a97e40-f9ab-48c0-a31c-4f778289b131" type="box">2</container> <container parent="43a97e40-f9ab-48c0-a31c-4f778289b131" type="folder">19</container> 
+				<unittitle>Falck &amp; Zonen, Falck &amp; Zonen in Denmark. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d4e3a387-83c3-4356-bd37-9e90b03bfa53" type="box">2</container> <container parent="d4e3a387-83c3-4356-bd37-9e90b03bfa53" type="folder">20</container> 
+				<unittitle>FEMA, Indirect Costs of Residential Fires. 
+				  <unitdate normal="1979" type="inclusive">1979</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1dcabce2-31d4-416c-8fe5-f63ad15e9a36" type="box">2</container> <container parent="1dcabce2-31d4-416c-8fe5-f63ad15e9a36" type="folder">21</container> 
+				<unittitle>FEMA, Uniform Design for a Computer-Aided Dispatch
+				  System. 
+				  <unitdate normal="1979" type="inclusive">1979</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a0eba23a-b809-489f-b001-01255d6ca41d" type="box">2</container> <container parent="a0eba23a-b809-489f-b001-01255d6ca41d" type="folder">22</container> 
+				<unittitle>Goldwater Institute, Policy Report RE: Rural/Metro. 
+				  <unitdate normal="2003" type="inclusive">2003</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="93c7483e-c108-43fc-a974-7da741c30a61" type="box">2</container> <container parent="93c7483e-c108-43fc-a974-7da741c30a61" type="folder">23</container> 
+				<unittitle>Independent Cities of Los Angeles County, Fire Service
+				  Fiddlers on the Roof. 
+				  <unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="79e15022-4ada-4ab7-bb87-618a83596cb4" type="box">2</container> <container parent="79e15022-4ada-4ab7-bb87-618a83596cb4" type="folder">24</container> 
+				<unittitle>Institute for Economic Research, Efficiency in the
+				  Provision of Fire Services. 
+				  <unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="692cd5b9-388a-4642-956b-3e0064c48cf2" type="box">2</container> <container parent="692cd5b9-388a-4642-956b-3e0064c48cf2" type="folder">25</container> 
+				<unittitle>Institute for Local Self-Government, Alternatives to
+				  Traditional Public Safety Delivery Systems. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c9ecf1cd-876d-4400-b915-0879d1454f20" type="box">3</container> <container parent="c9ecf1cd-876d-4400-b915-0879d1454f20" type="folder">1</container> 
+				<unittitle>Institute for Local Self-Government, Modern Technology
+				  in Fire Service. 
+				  <unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="95c1a796-67cb-4faa-ad60-81bcfefdd417" type="box">3</container> <container parent="95c1a796-67cb-4faa-ad60-81bcfefdd417" type="folder">2</container> 
+				<unittitle>Insurance Services Office, Grading Schedule for
+				  Municipal Fire Protection. 
+				  <unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2444945a-d41f-4801-b1ed-4ec7d492c272" type="box">3</container> <container parent="2444945a-d41f-4801-b1ed-4ec7d492c272" type="folder">3</container> 
+				<unittitle>Johns Hopkins University, Soviet Abstract Journal
+				  Section 68 Fire Protection. 
+				  <unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="363ccd54-4d00-4639-9b00-88e76d582dbd" type="box">3</container> <container parent="363ccd54-4d00-4639-9b00-88e76d582dbd" type="folder">4</container> 
+				<unittitle>Maricopa Association of Governments, Pima Road Study. 
+				  <unitdate normal="1984" type="inclusive">1984</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c15a6060-ffbc-4667-8bd7-194f51011a27" type="box">3</container> <container parent="c15a6060-ffbc-4667-8bd7-194f51011a27" type="folder">5</container> 
+				<unittitle>National Association of State Foresters, Fire Protection
+				  in Rural America: A Challenge for the Future. 
+				  <unitdate normal="1994" type="inclusive">1994</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2c07e4b5-81b1-4ae1-b167-c26183dfb849" type="box">3</container> <container parent="2c07e4b5-81b1-4ae1-b167-c26183dfb849" type="folder">6</container> 
+				<unittitle>National Bureau of Standards, Factors Affecting
+				  Innovation in Fire Services. 
+				  <unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="dfff906b-944c-4c4b-84cc-717a6cc24da9" type="box">3</container> <container parent="dfff906b-944c-4c4b-84cc-717a6cc24da9" type="folder">7</container> 
+				<unittitle>National Fire Protection Association, Black Tiger Fire
+				  Case Study. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c9eec0b0-3a8e-4250-a9bd-bb412a1961e9" type="box">3</container> <container parent="c9eec0b0-3a8e-4250-a9bd-bb412a1961e9" type="folder">8</container> 
+				<unittitle>National Fire Protection Association, NFPA 25
+				  Water-Based Fire Protection Systems. 
+				  <unitdate normal="1992" type="inclusive">1992</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="263bf04b-a3e2-4c8c-8e29-b90be7f0e205" type="box">3</container> <container parent="263bf04b-a3e2-4c8c-8e29-b90be7f0e205" type="folder">9</container> 
+				<unittitle>National Fire Protection Association, NFPA Standard on
+				  Firefighting Foam Chemicals. 
+				  <unitdate normal="1994" type="inclusive">1994</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9ed48ef6-4e67-4312-9485-4a8b10155ad9" type="box">3</container> <container parent="9ed48ef6-4e67-4312-9485-4a8b10155ad9" type="folder">10</container> 
+				<unittitle>National Fire Protection Association, Operation Water. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f8a7e5c9-11a8-4796-a4c9-43f0c33b92d9" type="box">3</container> <container parent="f8a7e5c9-11a8-4796-a4c9-43f0c33b92d9" type="folder">11</container> 
+				<unittitle>National League of Cities, Grading of Municipal Fire
+				  Protection Facilities. 
+				  <unitdate normal="1967" type="inclusive">1967</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ab68dce8-bcee-4cc9-a01c-aea98a473bbe" type="box">3</container> <container parent="ab68dce8-bcee-4cc9-a01c-aea98a473bbe" type="folder">12</container> 
+				<unittitle>National League of Cities, Municipal Fire Prevention
+				  Programs and Legislation. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e123d230-bd9f-48e2-9854-7efb0bcc7a27" type="box">3</container> <container parent="e123d230-bd9f-48e2-9854-7efb0bcc7a27" type="folder">13</container> 
+				<unittitle>PESA, Privatization: The Future of Emergency Services. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="84a57140-254f-4aaa-ab6b-5b8d0c7bc35b" type="box">3</container> <container parent="84a57140-254f-4aaa-ab6b-5b8d0c7bc35b" type="folder">14</container> 
+				<unittitle>Rural/Metro, Annual Report. 
+				  <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5b75baed-f732-40cf-a096-23ea14ac32a9" type="box">3</container> <container parent="5b75baed-f732-40cf-a096-23ea14ac32a9" type="folder">15</container> 
+				<unittitle>Rural/Metro, Annual Report. 
+				  <unitdate normal="1997" type="inclusive">1997</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="7a83ee5a-3519-4602-a89e-7c6db8df7bca" type="box">3</container> <container parent="7a83ee5a-3519-4602-a89e-7c6db8df7bca" type="folder">16</container> 
+				<unittitle>Rural/Metro, Annual Report. 
+				  <unitdate normal="1999" type="inclusive">1999</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e2303eb9-3978-40f0-9534-933ede1ae4e0" type="box">3</container> <container parent="e2303eb9-3978-40f0-9534-933ede1ae4e0" type="folder">17</container> 
+				<unittitle>Rural/Metro, Annual Report. 
+				  <unitdate normal="2000" type="inclusive">2000</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="296faba3-b055-4018-babd-d7f2c2441784" type="box">4</container> <container parent="296faba3-b055-4018-babd-d7f2c2441784" type="folder">1</container> 
+				<unittitle>Rural/Metro, Brief Study of Water Consumed in
+				  Firefighting in Five Areas. 
+				  <unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1c331448-3505-4e70-8adb-d4bfc01cd4ee" type="box">4</container> <container parent="1c331448-3505-4e70-8adb-d4bfc01cd4ee" type="folder">2</container> 
+				<unittitle>Rural/Metro, Division 11 Yuma County/Pima County
+				  Operation Readiness Inspection Report (includes photographs). 
+				  <unitdate normal="1988" type="inclusive">1988</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1616b034-f4e0-47cb-aab4-984460b55d94" type="box">4</container> <container parent="1616b034-f4e0-47cb-aab4-984460b55d94" type="folder">3</container> 
+				<unittitle>Rural/Metro, Employee Stock Ownership Plan. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5b9bf949-e6c0-4357-a262-99b040ef830c" type="box">4</container> <container parent="5b9bf949-e6c0-4357-a262-99b040ef830c" type="folder">4-5</container> 
+				<unittitle>Rural/Metro, Harvard University Case Study on
+				  Rural/Metro. 
+				  <unitdate normal="1979/1996" type="inclusive">1979-1996</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="18481950-33d0-463b-adcd-fbef7fe351ef" type="box">4</container> <container parent="18481950-33d0-463b-adcd-fbef7fe351ef" type="folder">6</container> 
+				<unittitle>Rural/Metro, Managing Service Innovation: Rural/Metro
+				  Corporation Case Study. 
+				  <unitdate normal="1992" type="inclusive">1992</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9330e4df-292f-41e4-8592-fd935f1f185a" type="box">4</container> <container parent="9330e4df-292f-41e4-8592-fd935f1f185a" type="folder">7</container> 
+				<unittitle>Rural/Metro, Personnel Rules and Regulations. 
+				  <unitdate normal="1965/1978" type="inclusive">1965-1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="60d73751-33c6-410f-be56-1b2f058312f6" type="box">4</container> <container parent="60d73751-33c6-410f-be56-1b2f058312f6" type="folder">8</container> 
+				<unittitle>Rural/Metro, Planning and Status for Maricopa County
+				  Service Areas. 
+				  <unitdate normal="1977" type="inclusive">1977</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="657aea54-e85f-4bbe-8f87-ae42a1072e52" type="box">4</container> <container parent="657aea54-e85f-4bbe-8f87-ae42a1072e52" type="folder">9</container> 
+				<unittitle>Rural/Metro, Rebuttal to Flagstaff Fire Chief’s
+				  Fire Protection Analysis. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1f02933b-d191-468d-b403-19c6031d9b07" type="box">4</container> <container parent="1f02933b-d191-468d-b403-19c6031d9b07" type="folder">10</container> 
+				<unittitle>Rural/Metro; Rye Brook, New York Fire Services. 
+				  <unitdate normal="1996" type="inclusive">1996</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c7cdbf98-3950-4e7f-8685-b4b8947bd0d5" type="box">4</container> <container parent="c7cdbf98-3950-4e7f-8685-b4b8947bd0d5" type="folder">11</container> 
+				<unittitle>Rural/Metro, Scottsdale Annual Activities Report FY
+				  1999-2000. 
+				  <unitdate normal="2000" type="inclusive">2000</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f0fb927a-7f71-4d07-a3af-6181a3a6e4b8" type="box">4</container> <container parent="f0fb927a-7f71-4d07-a3af-6181a3a6e4b8" type="folder">12</container> 
+				<unittitle>Rural/Metro, Scottsdale Annual Activities Report FY
+				  2000-2001. 
+				  <unitdate normal="2001" type="inclusive">2001</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="abca4dc6-2277-4fc5-b255-aa1cafc338ac" type="box">4</container> <container parent="abca4dc6-2277-4fc5-b255-aa1cafc338ac" type="folder">13</container> 
+				<unittitle>Rural/Metro, Scottsdale Annual Activities Report FY
+				  2001-2002. 
+				  <unitdate normal="2002" type="inclusive">2002</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="3aa6796e-4031-46e5-89ab-aff911d18612" type="box">4</container> <container parent="3aa6796e-4031-46e5-89ab-aff911d18612" type="folder">14</container> 
+				<unittitle>Rural/Metro, Scottsdale Annual Activities Report FY
+				  2002-2003. 
+				  <unitdate normal="2003" type="inclusive">2003</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="25404a41-6c87-492e-a1fd-40b4ff8ca990" type="box">4</container> <container parent="25404a41-6c87-492e-a1fd-40b4ff8ca990" type="folder">15</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="28a6fa60-3c63-494d-a967-f8a0bd430c7e" type="box">4</container> <container parent="28a6fa60-3c63-494d-a967-f8a0bd430c7e" type="folder">16</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1960. 
+				  <unitdate normal="1961" type="inclusive">1961</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="dfaf2505-79c5-43bf-b115-6ec2d2ef5c84" type="box">5</container> <container parent="dfaf2505-79c5-43bf-b115-6ec2d2ef5c84" type="folder">1</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1961. 
+				  <unitdate normal="1962" type="inclusive">1962</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="7d1d3eb1-8415-4ab6-a07d-fb10287130b8" type="box">5</container> <container parent="7d1d3eb1-8415-4ab6-a07d-fb10287130b8" type="folder">2</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1963. 
+				  <unitdate normal="1964" type="inclusive">1964</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="cc215a22-8588-4b4a-ae88-ac78d5afad0c" type="box">5</container> <container parent="cc215a22-8588-4b4a-ae88-ac78d5afad0c" type="folder">3</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1965-1966.
+				  
+				  <unitdate normal="1966" type="inclusive">1966</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="740336bf-2fe8-4411-87a1-5d9f01b76390" type="box">5</container> <container parent="740336bf-2fe8-4411-87a1-5d9f01b76390" type="folder">4</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1967-1968.
+				  
+				  <unitdate normal="1968" type="inclusive">1968</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="624d3768-561c-4d41-b4b4-24cadaffcb3a" type="box">5</container> <container parent="624d3768-561c-4d41-b4b4-24cadaffcb3a" type="folder">5</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1968-1969.
+				  
+				  <unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9bf02528-4e6f-40b1-b335-f982a5330993" type="box">5</container> <container parent="9bf02528-4e6f-40b1-b335-f982a5330993" type="folder">6</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1969-1970.
+				  
+				  <unitdate normal="1970" type="inclusive">1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="17ad1643-3e7c-4fe0-b40c-9a341e15be5c" type="box">5</container> <container parent="17ad1643-3e7c-4fe0-b40c-9a341e15be5c" type="folder">7</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1970-1971.
+				  
+				  <unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ae8fe63b-cff7-46d1-af30-03c9c0ca3516" type="box">5</container> <container parent="ae8fe63b-cff7-46d1-af30-03c9c0ca3516" type="folder">8</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1971-1972.
+				  
+				  <unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c9d235b0-61d0-4e7c-82b6-603dccced35c" type="box">5</container> <container parent="c9d235b0-61d0-4e7c-82b6-603dccced35c" type="folder">9</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1972-1973.
+				  
+				  <unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d50d9927-dbf5-4b40-95dd-a0e1b1481afb" type="box">5</container> <container parent="d50d9927-dbf5-4b40-95dd-a0e1b1481afb" type="folder">10</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1973-1974.
+				  
+				  <unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9e192c2c-d460-47cf-ab49-4938d0b2a5bc" type="box">5</container> <container parent="9e192c2c-d460-47cf-ab49-4938d0b2a5bc" type="folder">11</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1974-1975.
+				  
+				  <unitdate normal="1975" type="inclusive">1975</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="132c462b-fe33-4f4f-bb0e-f9820e68adb8" type="box">5</container> <container parent="132c462b-fe33-4f4f-bb0e-f9820e68adb8" type="folder">12</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1975-1976.
+				  
+				  <unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="56be0231-3a32-4628-82f3-1bcffcf19ba7" type="box">5</container> <container parent="56be0231-3a32-4628-82f3-1bcffcf19ba7" type="folder">13</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report 1976. 
+				  <unitdate normal="1977" type="inclusive">1977</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="7c3e9866-3d80-47b9-877f-c6ed174a8206" type="box">5</container> <container parent="7c3e9866-3d80-47b9-877f-c6ed174a8206" type="folder">14</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1977-1978.
+				  
+				  <unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f39c53d9-da17-4a4b-b36b-6dc04339bbe9" type="box">5</container> <container parent="f39c53d9-da17-4a4b-b36b-6dc04339bbe9" type="folder">15</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Annual Report FY 1978-1979.
+				  
+				  <unitdate normal="1980" type="inclusive">1980</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2bbb8677-9570-4767-8fca-9873967be3a1" type="box">5</container> <container parent="2bbb8677-9570-4767-8fca-9873967be3a1" type="folder">16</container> 
+				<unittitle> Rural/Metro, Scottsdale F.D. Annual Report FY
+				  1979-1980. 
+				  <unitdate normal="1981" type="inclusive">1981</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="17f6f9cf-f116-4aa0-b7da-28d5f8e1c2e6" type="box">5</container> <container parent="17f6f9cf-f116-4aa0-b7da-28d5f8e1c2e6" type="folder">17</container> 
+				<unittitle>Rural/Metro, Scottsdale F.D. Commentary on the Jimenez
+				  Report. 
+				  <unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="36351397-bf61-4a0c-b89e-f0dc0b0aaaa5" type="box">5</container> <container parent="36351397-bf61-4a0c-b89e-f0dc0b0aaaa5" type="folder">18</container> 
+				<unittitle>Rural/Metro, Scottsdale Life Safety Ordinance (1 of 2). 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2c54ea95-2e40-43d6-b9f5-2a14b091d36e" type="box">6</container> <container parent="2c54ea95-2e40-43d6-b9f5-2a14b091d36e" type="folder">1</container> 
+				<unittitle>Rural/Metro, Scottsdale Life Safety Ordinance (2 of 2). 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a17854cd-6517-405f-85bb-5affc35b703c" type="box">6</container> <container parent="a17854cd-6517-405f-85bb-5affc35b703c" type="folder">2</container> 
+				<unittitle>Rural/Metro, Scottsdale Memorial Hospital Fire Brigade
+				  Class. 
+				  <unitdate normal="1975" type="inclusive">1975</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4ee5873e-12ea-4fec-9d6f-fceb699c9740" type="box">6</container> <container parent="4ee5873e-12ea-4fec-9d6f-fceb699c9740" type="folder">3</container> 
+				<unittitle>Rural/Metro; The Snail, Truck 21, and Hydrant Opening
+				  Device. 
+				  <unitdate normal="1975" type="inclusive">1975</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="3bec3cfe-e4fd-4021-9cd1-7a8dd3d7faee" type="box">6</container> <container parent="3bec3cfe-e4fd-4021-9cd1-7a8dd3d7faee" type="folder">4</container> 
+				<unittitle>Rural/Metro, Sprinkler Study and Model Ordinance. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="90d01bcd-9d15-434f-aaba-a34726d2260f" type="box">6</container> <container parent="90d01bcd-9d15-434f-aaba-a34726d2260f" type="folder">5</container> 
+				<unittitle>Rural/Metro, Structural Firefighting Water Use Study. 
+				  <unitdate normal="1981" type="inclusive">1981</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="16839165-fc4d-41b0-b52e-5b4ee4d3f714" type="box">6</container> <container parent="16839165-fc4d-41b0-b52e-5b4ee4d3f714" type="folder">6</container> 
+				<unittitle>Rural/Metro, Tennessee Rural/Metro Progress Report. 
+				  <unitdate normal="1977" type="inclusive">1977</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c3a10a50-81f1-4e96-a623-68bfadb517aa" type="box">6</container> <container parent="c3a10a50-81f1-4e96-a623-68bfadb517aa" type="folder">8</container> 
+				<unittitle>Tacoma Fire Department, Remote Hydrant Operator
+				  Acceptance Tests. 
+				  <unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f980e0f2-5ac7-4105-8583-b5d0a5f62e6b" type="box">6</container> <container parent="f980e0f2-5ac7-4105-8583-b5d0a5f62e6b" type="folder">9</container> 
+				<unittitle>Tacoma, Washington; Fire Service Demand Charge Study. 
+				  <unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="302f0091-9c0c-4fe8-8642-11d35256dcad" type="box">6</container> <container parent="302f0091-9c0c-4fe8-8642-11d35256dcad" type="folder">10</container> 
+				<unittitle>Tacoma, Washington; Technology Transfer: The Case of the
+				  Automatic Hydrant Valve. 
+				  <unitdate normal="1979" type="inclusive">1979</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ddcc96af-31c8-4640-ab79-c92fb9d2fa09" type="box">6</container> <container parent="ddcc96af-31c8-4640-ab79-c92fb9d2fa09" type="folder">11</container> 
+				<unittitle>U.S. Department of Commerce, Fire Research Publications
+				  1983. 
+				  <unitdate normal="1984" type="inclusive">1984</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="42273e50-3e63-487c-b70a-2edc1bbc1936" type="box">6</container> <container parent="42273e50-3e63-487c-b70a-2edc1bbc1936" type="folder">12</container> 
+				<unittitle>U.S. Department of Commerce, Impact of the Use of Smoke
+				  Detectors. 
+				  <unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5b965046-4f52-42f6-87a8-e2362155695c" type="box">6</container> <container parent="5b965046-4f52-42f6-87a8-e2362155695c" type="folder">13</container> 
+				<unittitle>U.S. Forest Service, Southwestern Region Fire Report. 
+				  <unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="e8db24dc-2778-4a55-8cd5-72932d7e2ed5" type="box">6</container> <container parent="e8db24dc-2778-4a55-8cd5-72932d7e2ed5" type="folder">14</container> 
+				<unittitle>Vanderbilt University, Research Proposal Submitted to
+				  National Science Foundation. 
+				  <unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5547518f-17cb-440c-9d14-41def3ce5dcd" type="box">6</container> <container parent="5547518f-17cb-440c-9d14-41def3ce5dcd" type="folder">15</container> 
+				<unittitle>Witzeman Center for Privatization, Privatization in
+				  Arizona’s Largest Cities. 
+				  <unitdate normal="1998" type="inclusive">1998</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Sales, Marketing, and Advertising. 
+				<unitdate normal="1948/2002" type="inclusive">1948-2002</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="da53d733-9550-4775-ab20-2b34737cfb68" type="box">6</container> <container parent="da53d733-9550-4775-ab20-2b34737cfb68" type="folder">16</container> 
+				<unittitle>Advertisements. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c37d40dd-5be7-40a7-8eb3-0706e40a65cf" type="box">6</container> <container parent="c37d40dd-5be7-40a7-8eb3-0706e40a65cf" type="folder">17</container> 
+				<unittitle>Advertisements. 
+				  <unitdate normal="1948/1993" type="inclusive">1948-1993</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="0eada3d2-8781-4974-9b42-69c629c14c0b" type="box">7</container> <container parent="0eada3d2-8781-4974-9b42-69c629c14c0b" type="folder">1-2</container> 
+				<unittitle>Brochures. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="009d6853-ab77-4a2b-a2ca-0ebf806e32aa" type="box">7</container> <container parent="009d6853-ab77-4a2b-a2ca-0ebf806e32aa" type="folder">3</container> 
+				<unittitle> Brochures. 
+				  <unitdate normal="1955/2002" type="inclusive">1955-2002</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b0053fce-9a3e-487c-97df-b61dfb789c91" type="box">7</container> <container parent="b0053fce-9a3e-487c-97df-b61dfb789c91" type="folder">4</container> 
+				<unittitle>Press Book. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d4684b08-54b1-4124-ac4b-986305293d1c" type="box">7</container> <container parent="d4684b08-54b1-4124-ac4b-986305293d1c" type="folder">5</container> 
+				<unittitle>Press Book. 
+				  <unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Speeches. 
+				<unitdate normal="1969/1996" type="inclusive">1969-1996</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="07e7a461-2a75-406d-b0c8-1c933edd3801" type="box">7</container> <container parent="07e7a461-2a75-406d-b0c8-1c933edd3801" type="folder">6</container> 
+				<unittitle>General (1 of 3). 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="fe134d3d-d6bd-4054-97cd-2d5c95f4c00e" type="box">8</container> <container parent="fe134d3d-d6bd-4054-97cd-2d5c95f4c00e" type="folder">1</container> 
+				<unittitle>General (2 of 3). 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="216d27a8-9217-4756-a600-e597ce816c34" type="box">8</container> <container parent="216d27a8-9217-4756-a600-e597ce816c34" type="folder">2</container> 
+				<unittitle>General (3 of 3). 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="6aa87b78-85fd-481c-96d4-8b48b3abe5ad" type="box">8</container> <container parent="6aa87b78-85fd-481c-96d4-8b48b3abe5ad" type="folder">3</container> 
+				<unittitle>General. 
+				  <unitdate normal="1969/1974" type="inclusive">1969-1974</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="0b01115e-408e-4a9f-89cb-b6f5dc55b726" type="box">8</container> <container parent="0b01115e-408e-4a9f-89cb-b6f5dc55b726" type="folder">4</container> 
+				<unittitle>General. 
+				  <unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f1443d53-d993-4445-b75a-cacd4d166e9d" type="box">8</container> <container parent="f1443d53-d993-4445-b75a-cacd4d166e9d" type="folder">5</container> 
+				<unittitle>General. 
+				  <unitdate normal="1979/1982" type="inclusive">1979-1982</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="82d9654b-c9ee-4df3-bd42-1129f2b0e5f4" type="box">9</container> <container parent="82d9654b-c9ee-4df3-bd42-1129f2b0e5f4" type="folder">1</container> 
+				<unittitle>General. 
+				  <unitdate normal="1983/1996" type="inclusive">1983-1996</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 2: Company History. 
+			 <unitdate normal="1966/2002" type="inclusive">1966-2002</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>.75 linear feet (Approximately 1,125 items)</p> 
+		  <p>Arrangement: Alphabetical</p> 
+		  <p>The Company History Series contains material regarding company
+			 anniversaries (twenty-fifth, thirtieth, fortieth, and fiftieth), magazine
+			 articles, company newsletters, and items of historical significance such as
+			 early company postcards and stationery.</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container id="341154a4-91c0-436a-b6cf-c134c0eeae67" type="box">9</container> <container parent="341154a4-91c0-436a-b6cf-c134c0eeae67" type="folder">2</container> 
+			 <unittitle>Anniversary—25th. 
+				<unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="465f5a29-1cba-40c4-8921-de03e0f9a1c2" type="box">9</container> <container parent="465f5a29-1cba-40c4-8921-de03e0f9a1c2" type="folder">3-4</container> 
+			 <unittitle>Anniversary—30th. 
+				<unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="76a973ac-c8bf-41f0-9eef-51d2d341b31e" type="box">9</container> <container parent="76a973ac-c8bf-41f0-9eef-51d2d341b31e" type="folder">5</container> 
+			 <unittitle>Anniversary—40th. 
+				<unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="293f30f8-8e4a-4f8e-8873-accc2d2f04c5" type="box">9</container> <container parent="293f30f8-8e4a-4f8e-8873-accc2d2f04c5" type="folder">6-7</container> 
+			 <unittitle>Anniversary—50th. 
+				<unitdate normal="1998" type="inclusive">1998</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b85121ed-8e2c-434b-b643-5d70b2a0e782" type="box">9</container> <container parent="b85121ed-8e2c-434b-b643-5d70b2a0e782" type="folder">8</container> 
+			 <unittitle>Elk Lodge Certificate of Appreciation to Scottsdale F.D. 
+				<unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6c08504e-0f24-467f-ad2a-7d1c0fbd5d95" type="box">9</container> <container parent="6c08504e-0f24-467f-ad2a-7d1c0fbd5d95" type="folder">9</container> 
+			 <unittitle>History Project (1 of 2). 
+				<unitdate normal="1996" type="inclusive">1996</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="53569a9b-8cb5-44d5-a559-6820319cd18e" type="box">10</container> <container parent="53569a9b-8cb5-44d5-a559-6820319cd18e" type="folder">1</container> 
+			 <unittitle>History Project (2 of 2). 
+				<unitdate normal="1996" type="inclusive">1996</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e1dfbb32-8016-4c1c-8b44-dc4eb893da7e" type="box">10</container> <container parent="e1dfbb32-8016-4c1c-8b44-dc4eb893da7e" type="folder">2</container> 
+			 <unittitle>Magazine Articles. 
+				<unitdate normal="1968/1979" type="inclusive">1968-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ed2ae64d-785c-4f65-9103-71290cb768ac" type="box">10</container> <container parent="ed2ae64d-785c-4f65-9103-71290cb768ac" type="folder">3</container> 
+			 <unittitle>Magazine Articles. 
+				<unitdate normal="1981/1989" type="inclusive">1981-1989</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="07255001-eeb1-46fa-8e9d-61a4ae07aa60" type="box">10</container> <container parent="07255001-eeb1-46fa-8e9d-61a4ae07aa60" type="folder">4</container> 
+			 <unittitle>Magazine Articles. 
+				<unitdate normal="1991/2002" type="inclusive">1991-2002</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a8d1dfc9-099e-4712-bc78-f7b25c7e6501" type="box">10</container> <container parent="a8d1dfc9-099e-4712-bc78-f7b25c7e6501" type="folder">5</container> 
+			 <unittitle>Newsletters. 
+				<unitdate normal="1968/1997" type="inclusive">1968-1997</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d9ad7a7e-1eab-48df-9cc3-ea5b9dc661ab" type="box">10</container> <container parent="d9ad7a7e-1eab-48df-9cc3-ea5b9dc661ab" type="folder">6</container> 
+			 <unittitle>Newsletters. 
+				<unitdate normal="1979/1998" type="inclusive">1979-1998</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7ec38e23-719d-4d17-89f8-a7893f1c221d" type="box">10</container> <container parent="7ec38e23-719d-4d17-89f8-a7893f1c221d" type="folder">7</container> 
+			 <unittitle>Organizational Charts. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cf5bb98b-4767-466d-8483-efd2b5570fa4" type="box">10</container> <container parent="cf5bb98b-4767-466d-8483-efd2b5570fa4" type="folder">8</container> 
+			 <unittitle>Pima County. 
+				<unitdate normal="1981" type="inclusive">1981</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b9113c38-ea90-4af0-9641-48dd5509a033" type="box">10</container> <container parent="b9113c38-ea90-4af0-9641-48dd5509a033" type="folder">9</container> 
+			 <unittitle>Post Cards. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="08d6f6b1-a3ea-4dab-8cf8-600d0853f2dd" type="box">10</container> <container parent="08d6f6b1-a3ea-4dab-8cf8-600d0853f2dd" type="folder">10</container> 
+			 <unittitle>Scottsdale: Jewel in the Desert. 
+				<unitdate normal="1984" type="inclusive">1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b7cfa26d-5838-42a2-b385-022eff77f5b4" type="box">10</container> <container parent="b7cfa26d-5838-42a2-b385-022eff77f5b4" type="folder">11</container> 
+			 <unittitle>Stationery. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 3: Louis A. Witzeman. 
+			 <unitdate normal="1966/2004" type="inclusive">1966-2004</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>.25 linear feet (Approximately 375 items)</p> 
+		  <p>Arrangement: Alphabetical</p> 
+		  <p>This series concerns Louis A. Witzeman, Rural/Metro founder and
+			 long-time company president. Contains material regarding honors bestowed on
+			 Witzeman (Arizona Fire Service Hall of Fame, Scottsdale Hall of Fame, the
+			 National Fire Protection Association Research Foundation Medal),
+			 Witzeman’s 1972 European trip, Witzeman’s 1981 retirement party,
+			 Witzeman’s autobiography, and tributes published upon Witzeman’s
+			 death in 2004.</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container id="afbc9aab-23e5-419e-a501-e719173612f5" type="box">10</container> <container parent="afbc9aab-23e5-419e-a501-e719173612f5" type="folder">12</container> 
+			 <unittitle>Arizona Fire Service Hall of Fame. 
+				<unitdate normal="2001" type="inclusive">2001</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fee983a5-950e-4289-a005-6d4c368f865c" type="box">10</container> <container parent="fee983a5-950e-4289-a005-6d4c368f865c" type="folder">13</container> 
+			 <unittitle>European Trip. 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="eff3551a-c6d1-4048-9888-6009ad528e46" type="box">10</container> <container parent="eff3551a-c6d1-4048-9888-6009ad528e46" type="folder">14</container> 
+			 <unittitle>General. 
+				<unitdate normal="1966/2004" type="inclusive">1966-2004</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="28dd4582-46ef-46c2-b4b6-2897c8055d99" type="box">10</container> <container parent="28dd4582-46ef-46c2-b4b6-2897c8055d99" type="folder">15</container> 
+			 <unittitle>National Fire Protection Association Research Foundation
+				Medal. 
+				<unitdate normal="2001" type="inclusive">2001</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="34d96de5-2b66-4183-a6d3-85da93743e6d" type="box">11</container> <container parent="34d96de5-2b66-4183-a6d3-85da93743e6d" type="folder">1</container> 
+			 <unittitle> 
+				<title>Rebel in Retrospect</title> (Autobiography). 
+				<unitdate normal="2004" type="inclusive">2004</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c264267a-f0a2-4900-81cd-0fa015db7c7d" type="box">11</container> <container parent="c264267a-f0a2-4900-81cd-0fa015db7c7d" type="folder">2-3</container> 
+			 <unittitle>Retirement. 
+				<unitdate normal="1981" type="inclusive">1981</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="563768cd-42b9-4c83-8481-ba378c1febe3" type="box">11</container> <container parent="563768cd-42b9-4c83-8481-ba378c1febe3" type="folder">4</container> 
+			 <unittitle>Scottsdale Hall of Fame. 
+				<unitdate normal="1994/2003" type="inclusive">1994-2003</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 4: Correspondence, 
+			 <unitdate normal="1949/2004" type="inclusive">1949-2004</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>.5 linear feet (Approximately 750 items)</p> 
+		  <p>Arrangement: Alphabetical</p> 
+		  <p>The bulk of the Correspondence Series is composed of general
+			 correspondence. The series also contains subject-related correspondence
+			 regarding such subjects as Scottsdale Mayor Herb Drinkwater, Mark Frazier
+			 (Director of the Local Government Center, the Taxpayer’s Foundation, and
+			 the Sabre Foundation), Station Orders, the Witzeman Center for Privatization,
+			 and the intensely-campaigned 2003 Scottsdale Election where Scottsdale citizens
+			 voted to retain the private fire protection services of Rural/Metro rather than
+			 switch to a municipally-run fire department.</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container id="cfdff598-ed30-404c-b478-0abb603d9a19" type="box">11</container> <container parent="cfdff598-ed30-404c-b478-0abb603d9a19" type="folder">5</container> 
+			 <unittitle>American Society of Local Officials. 
+				<unitdate normal="1983/1985" type="inclusive">1983-1985</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2ae32d33-14fe-441d-a32a-e1124654f630" type="box">11</container> <container parent="2ae32d33-14fe-441d-a32a-e1124654f630" type="folder">6</container> 
+			 <unittitle>Business. 
+				<unitdate normal="1949/1960" type="inclusive">1949-1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1554eca4-97d7-485c-8e83-7b9bd79704ca" type="box">11</container> <container parent="1554eca4-97d7-485c-8e83-7b9bd79704ca" type="folder">7</container> 
+			 <unittitle>Drinkwater, Herb. 
+				<unitdate normal="1981/1997" type="inclusive">1981-1997</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f5d573f3-3abe-4d6d-903b-6aaabc4c89af" type="box">11</container> <container parent="f5d573f3-3abe-4d6d-903b-6aaabc4c89af" type="folder">8</container> 
+			 <unittitle>Frazier, Mark. 
+				<unitdate normal="1978/1981" type="inclusive">1978-1981</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3a3b6ae4-b3a5-4fd1-aba1-95ac62b9017d" type="box">11</container> <container parent="3a3b6ae4-b3a5-4fd1-aba1-95ac62b9017d" type="folder">9</container> 
+			 <unittitle>General. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="808d20f1-ea00-4814-9546-f30348625903" type="box">11</container> <container parent="808d20f1-ea00-4814-9546-f30348625903" type="folder">10</container> 
+			 <unittitle>General. 
+				<unitdate normal="1949/1955" type="inclusive">1949-1955</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9ba98565-c145-4957-82b0-7d3648a36a47" type="box">11</container> <container parent="9ba98565-c145-4957-82b0-7d3648a36a47" type="folder">11</container> 
+			 <unittitle>General. 
+				<unitdate normal="1961/1968" type="inclusive">1961-1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b3d8023c-11a0-4b11-bbc5-c713b45063bb" type="box">11</container> <container parent="b3d8023c-11a0-4b11-bbc5-c713b45063bb" type="folder">12</container> 
+			 <unittitle>General. 
+				<unitdate normal="1970/1979" type="inclusive">1970-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="deb56cb6-66e2-415a-baa8-ce68675a867e" type="box">11</container> <container parent="deb56cb6-66e2-415a-baa8-ce68675a867e" type="folder">13</container> 
+			 <unittitle>General. 
+				<unitdate normal="1980/1984" type="inclusive">1980-1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="07bba78f-6175-48ca-a6c9-8872cfe37f66" type="box">12</container> <container parent="07bba78f-6175-48ca-a6c9-8872cfe37f66" type="folder">1</container> 
+			 <unittitle>General. 
+				<unitdate normal="1985/1989" type="inclusive">1985-1989</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="55eb0a5f-8fb9-4a88-80c4-60eedb2551c7" type="box">12</container> <container parent="55eb0a5f-8fb9-4a88-80c4-60eedb2551c7" type="folder">2</container> 
+			 <unittitle>General. 
+				<unitdate normal="1992/1999" type="inclusive">1992-1999</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a3c46a25-f098-43d4-aee1-2229e2fd1aa1" type="box">12</container> <container parent="a3c46a25-f098-43d4-aee1-2229e2fd1aa1" type="folder">3</container> 
+			 <unittitle>General. 
+				<unitdate normal="2001/2004" type="inclusive">2001-2004</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1a6060d4-e0d8-4038-99b0-9dfd2a4c98ea" type="box">12</container> <container parent="1a6060d4-e0d8-4038-99b0-9dfd2a4c98ea" type="folder">4</container> 
+			 <unittitle>Scottsdale Election. 
+				<unitdate normal="2001/2003" type="inclusive">2001-2003</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4a610d7d-69d2-4867-b969-4248c93be0e2" type="box">12</container> <container parent="4a610d7d-69d2-4867-b969-4248c93be0e2" type="folder">5</container> 
+			 <unittitle>Scottsdale Election. 
+				<unitdate normal="2003" type="inclusive">2003</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 5: Photographs, 
+			 <unitdate normal="1948/1993" type="inclusive">1948-1993</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>2.5 linear feet (Approximately 3,750 items)</p> 
+		  <p>Arrangement: Alphabetical</p> 
+		  <p>The Photographs Series is divided into eight subseries. Community
+			 Outreach (1963-1972), includes photographs of fire fighters visiting elementary
+			 schools, as well as team photographs of little league baseball teams sponsored
+			 by Rural/Metro. Equipment (1963-1973), contains photographs of basic equipment
+			 used by Rural/Metro fire fighters as well as technical innovations developed by
+			 Rural/Metro such as the “snail” and the “water
+			 tank” (remote-controlled fire fighting machines). Fire Engines
+			 (1950-1979), contains photographs of various fire engines, as well as some
+			 photographs of “plain janes”—new trucks with stripped down
+			 chassis assembled into full-fledged fire engines by Rural/Metro employees. Fire
+			 Hazards (undated), contains photographs of hazards such as piles of cardboard
+			 boxes and leaking chemical drums. Fire Stations (1950-1975), contains
+			 photographs of various stations as well as photographs of potential Paradise
+			 Valley Station sites. Fires (1948-1990), contains photographs of brush and hay
+			 fires, commercial and residential property fires, and vehicular fires.
+			 Miscellaneous (undated), contains miscellaneous photographs, including
+			 photographs of employees in the main office. Publicity (1950-1993), contains
+			 photographs of Fire Chief Robertson, Louis A. Witzeman, training exercises, and
+			 the Scottsdale Station groundbreaking. [Note: Additional oversized photographs
+			 are located in Series 11: Oversized Materials].</p> 
+		</scopecontent> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Community Outreach. 
+				<unitdate normal="1963/1972" type="inclusive">1963-1972</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="65fd1db5-5653-40f8-a389-c722408b367f" type="box">12</container> <container parent="65fd1db5-5653-40f8-a389-c722408b367f" type="folder">8</container> 
+				<unittitle>General. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9a4ba2c4-e49a-41ba-9eba-c4e38ddef020" type="box">12</container> <container parent="9a4ba2c4-e49a-41ba-9eba-c4e38ddef020" type="folder">9</container> 
+				<unittitle>Little League. 
+				  <unitdate normal="1963/1972" type="inclusive">1963-1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Equipment. 
+				<unitdate normal="1963/1973" type="inclusive">1963-1973</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="027cebfb-3911-432c-9bd9-19da099d4ae4" type="box">12</container> <container parent="027cebfb-3911-432c-9bd9-19da099d4ae4" type="folder">10</container> 
+				<unittitle>Communication Devices, Protective Clothing, and Rescue
+				  Equipment. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ae7f4753-cba2-4f16-8373-239d954549f3" type="box">12</container> <container parent="ae7f4753-cba2-4f16-8373-239d954549f3" type="folder">11</container> 
+				<unittitle>Communication Devices, Protective Clothing, and Rescue
+				  Equipment. 
+				  <unitdate normal="1963/1972" type="inclusive">1963-1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="cd3d128f-4c7d-4e51-8ce2-e042f40ad922" type="box">12</container> <container parent="cd3d128f-4c7d-4e51-8ce2-e042f40ad922" type="folder">12-13</container> 
+				<unittitle>Hydrants, the “Snail,” and the
+				  “Water Tank.” 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9c830631-fadb-4edb-b9b0-6c1f21aeb429" type="box">12</container> <container parent="9c830631-fadb-4edb-b9b0-6c1f21aeb429" type="folder">14</container> 
+				<unittitle>Hydrants, the “Snail,” and the
+				  “Water Tank.” 
+				  <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4ed53526-8c6d-4439-ac7a-62e3632747e8" type="box">13</container> <container parent="4ed53526-8c6d-4439-ac7a-62e3632747e8" type="folder">1</container> 
+				<unittitle>Pumps and Hoses. 
+				  <unitdate normal="1947/2004" type="inclusive">undated.
+					 </unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2787a1ca-08ea-4ad4-b8cc-01a1cead6108" type="box">13</container> <container parent="2787a1ca-08ea-4ad4-b8cc-01a1cead6108" type="folder">2</container> 
+				<unittitle>Pumps and Hoses. 
+				  <unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Fire Engines. 
+				<unitdate normal="1950/1979" type="inclusive">1950-1979</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="608ddc39-7987-4494-b91f-df554ada8f35" type="box">13</container> <container parent="608ddc39-7987-4494-b91f-df554ada8f35" type="folder">3</container> 
+				<unittitle>Central Yavapai F.D. 
+				  <unitdate normal="1966" type="inclusive">1966</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="cbc0e841-0345-4632-8b5e-25be56ee6e24" type="box">13</container> <container parent="cbc0e841-0345-4632-8b5e-25be56ee6e24" type="folder">4</container> 
+				<unittitle>Chautauqua, NY. 
+				  <unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="af6d9208-efa1-436c-82c9-6f63fc7566fa" type="box">13</container> <container parent="af6d9208-efa1-436c-82c9-6f63fc7566fa" type="folder">5</container> 
+				<unittitle>Clifton F.D. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="6fcd0a58-f73f-45b9-b8d0-91c555f455fe" type="box">13</container> <container parent="6fcd0a58-f73f-45b9-b8d0-91c555f455fe" type="folder">6</container> 
+				<unittitle>Edmonds F.D. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="975d4d2e-744c-4a59-b9a0-092b13483b11" type="box">13</container> <container parent="975d4d2e-744c-4a59-b9a0-092b13483b11" type="folder">7</container> 
+				<unittitle>Fairfield F.D. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4888250a-6c14-4708-bca7-91c122d1b387" type="box">13</container> <container parent="4888250a-6c14-4708-bca7-91c122d1b387" type="folder">8</container> 
+				<unittitle>Hawthorne, Nevada F.D. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ad06d932-0906-4be5-b639-3162a43dec7c" type="box">13</container> <container parent="ad06d932-0906-4be5-b639-3162a43dec7c" type="folder">9</container> 
+				<unittitle>Hermosillo, Mexico F.D. 
+				  <unitdate normal="1964/1966" type="inclusive">1964-1966</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="63334873-ca74-4259-a2c7-3724977adfa3" type="box">13</container> <container parent="63334873-ca74-4259-a2c7-3724977adfa3" type="folder">10</container> 
+				<unittitle>Horseshoe Bend F.D. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="8638b268-05dd-48ec-b475-98b788c0d2b2" type="box">13</container> <container parent="8638b268-05dd-48ec-b475-98b788c0d2b2" type="folder">11</container> 
+				<unittitle>Kaibeto-Shonto F.D. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c2797fd1-54f5-4fe5-957f-61d8d2192071" type="box">13</container> <container parent="c2797fd1-54f5-4fe5-957f-61d8d2192071" type="folder">12</container> 
+				<unittitle>Myers Flat F.D. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="728dbedb-6ace-4b6f-86d7-6038ecb14a5f" type="box">13</container> <container parent="728dbedb-6ace-4b6f-86d7-6038ecb14a5f" type="folder">13</container> 
+				<unittitle>NASA F.D. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1b5c095b-22ec-4418-9776-4ed8843b7693" type="box">13</container> <container parent="1b5c095b-22ec-4418-9776-4ed8843b7693" type="folder">14</container> 
+				<unittitle>Oracle F.D. 
+				  <unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="aed20921-3344-4388-badd-ddc1b08068b8" type="box">13</container> <container parent="aed20921-3344-4388-badd-ddc1b08068b8" type="folder">15</container> 
+				<unittitle>Phoenix F.D. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4497ce28-1ec0-46b8-999a-7fb9ef2a14d0" type="box">13</container> <container parent="4497ce28-1ec0-46b8-999a-7fb9ef2a14d0" type="folder">16</container> 
+				<unittitle>Pine-Strawberry F.D. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="3942d413-7779-4e1d-be5f-cf2ecd307671" type="box">13</container> <container parent="3942d413-7779-4e1d-be5f-cf2ecd307671" type="folder">17-18</container> 
+				<unittitle>"Plain Janes." 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="13020b47-e5e2-4ae7-a499-ddd99dcfb512" type="box">13</container> <container parent="13020b47-e5e2-4ae7-a499-ddd99dcfb512" type="folder">19</container> 
+				<unittitle>"Plain Janes." 
+				  <unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="f9720d11-2a20-4cf2-894d-3dea252ccf58" type="box">13</container> <container parent="f9720d11-2a20-4cf2-894d-3dea252ccf58" type="folder">20-22</container> 
+				<unittitle>Rural/Metro. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4808670d-8f45-4687-89ac-3661a06003ce" type="box">14</container> <container parent="4808670d-8f45-4687-89ac-3661a06003ce" type="folder">1</container> 
+				<unittitle>Rural/Metro. 
+				  <unitdate normal="1950/1979" type="inclusive">1950-1979</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2e0e87eb-38cb-4c58-abdb-0528ad8fbd24" type="box">14</container> <container parent="2e0e87eb-38cb-4c58-abdb-0528ad8fbd24" type="folder">2</container> 
+				<unittitle>Show Low F.D. 
+				  <unitdate normal="1966" type="inclusive">1966</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b531a324-ed58-4a1b-89ba-c97fffe80ccf" type="box">14</container> <container parent="b531a324-ed58-4a1b-89ba-c97fffe80ccf" type="folder">3</container> 
+				<unittitle>Sparks F.D. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="46ca407d-2cc1-43fe-b7cb-57c50cbc834d" type="box">14</container> <container parent="46ca407d-2cc1-43fe-b7cb-57c50cbc834d" type="folder">4</container> 
+				<unittitle>Tatum F.D. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="3bea69a8-c49b-4bdb-ab28-84575a87c95f" type="box">14</container> <container parent="3bea69a8-c49b-4bdb-ab28-84575a87c95f" type="folder">5-6</container> 
+				<unittitle>Unidentified. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="765a3af2-8e74-4353-9667-a723729bdacd" type="box">14</container> <container parent="765a3af2-8e74-4353-9667-a723729bdacd" type="folder">7</container> 
+				<unittitle>Unidentified. 
+				  <unitdate normal="1965/1974" type="inclusive">1965-1974</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="852ebbae-7382-46d0-b454-e045a4c97e95" type="box">14</container> <container parent="852ebbae-7382-46d0-b454-e045a4c97e95" type="folder">8</container> 
+				<unittitle>Wilson F.D. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Fire Hazards. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="e18f149a-cff3-4a28-aceb-c8a7f8f07685" type="box">14</container> <container parent="e18f149a-cff3-4a28-aceb-c8a7f8f07685" type="folder">9</container> 
+				<unittitle>General. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Fire Stations. 
+				<unitdate normal="1950/1975" type="inclusive">1950-1975</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="17274af7-aef0-40c9-9100-e3f1f94bab37" type="box">14</container> <container parent="17274af7-aef0-40c9-9100-e3f1f94bab37" type="folder">10</container> 
+				<unittitle>Apache Trail. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="61c84e6d-cce3-4d27-b7ac-2f05a2326775" type="box">14</container> <container parent="61c84e6d-cce3-4d27-b7ac-2f05a2326775" type="folder">11</container> 
+				<unittitle>Apache Trail. 
+				  <unitdate normal="1970" type="inclusive">1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="516e7a32-c027-44d1-92ff-8832e5b86004" type="box">14</container> <container parent="516e7a32-c027-44d1-92ff-8832e5b86004" type="folder">12</container> 
+				<unittitle>Bisbee. 
+				  <unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4eb1e925-8de4-4bc0-ae53-c0f8e57d0627" type="box">14</container> <container parent="4eb1e925-8de4-4bc0-ae53-c0f8e57d0627" type="folder">13</container> 
+				<unittitle>Cashion. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="bda21c13-578f-4087-8271-a233ca540d9e" type="box">14</container> <container parent="bda21c13-578f-4087-8271-a233ca540d9e" type="folder">14</container> 
+				<unittitle>Oracle. 
+				  <unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="0d6a3b79-729c-41e8-8816-431b95d3b879" type="box">14</container> <container parent="0d6a3b79-729c-41e8-8816-431b95d3b879" type="folder">15</container> 
+				<unittitle>Redningskorpsets. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="3eb04c31-1145-465f-a358-18fbefc76074" type="box">14</container> <container parent="3eb04c31-1145-465f-a358-18fbefc76074" type="folder">16-19</container> 
+				<unittitle>Rural/Metro. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="48b8426b-db95-4c52-91ee-a6fa246fe9b0" type="box">15</container> <container parent="48b8426b-db95-4c52-91ee-a6fa246fe9b0" type="folder">1</container> 
+				<unittitle>Scottsdale. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="5b31aed2-a792-446a-a7e4-3bd7332d540c" type="box">15</container> <container parent="5b31aed2-a792-446a-a7e4-3bd7332d540c" type="folder">2</container> 
+				<unittitle>Scottsdale. 
+				  <unitdate normal="1970/1974" type="inclusive">1970-1974</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="6ce61198-41af-4e71-99c5-ad9df3c458a0" type="box">15</container> <container parent="6ce61198-41af-4e71-99c5-ad9df3c458a0" type="folder">3</container> 
+				<unittitle>Thomas and 29th. 
+				  <unitdate normal="1950" type="inclusive">1950</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b34d734f-8ddf-4e1a-bf2a-06ce32e7b87f" type="box">15</container> <container parent="b34d734f-8ddf-4e1a-bf2a-06ce32e7b87f" type="folder">4</container> 
+				<unittitle>Tucson. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="95cb08f9-027c-4ea3-a458-e47782649ab7" type="box">15</container> <container parent="95cb08f9-027c-4ea3-a458-e47782649ab7" type="folder">5</container> 
+				<unittitle>Tucson. 
+				  <unitdate normal="1965" type="inclusive">1965</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="dda3b643-4e18-405d-bf6f-2da5fcc93c9a" type="box">15</container> <container parent="dda3b643-4e18-405d-bf6f-2da5fcc93c9a" type="folder">6</container> 
+				<unittitle>Unidentified. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="39b559eb-fda9-4f68-8642-dc88a03d3cab" type="box">15</container> <container parent="39b559eb-fda9-4f68-8642-dc88a03d3cab" type="folder">7</container> 
+				<unittitle>Unidentified. 
+				  <unitdate normal="1965/1970" type="inclusive">1965-1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d0e0c93b-b3aa-4786-afec-88bc56d72e2d" type="box">15</container> <container parent="d0e0c93b-b3aa-4786-afec-88bc56d72e2d" type="folder">8</container> 
+				<unittitle>West Side Headquarters. 
+				  <unitdate normal="1965/1975" type="inclusive">1965-1975</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="774140fc-357d-44b8-a063-2032ec2e50a5" type="box">15</container> <container parent="774140fc-357d-44b8-a063-2032ec2e50a5" type="folder">9</container> 
+				<unittitle>Woodmeade. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Fires. 
+				<unitdate normal="1948/1990" type="inclusive">1948-1990</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="35bf9968-d71e-4600-b3bc-a4b823706519" type="box">15</container> <container parent="35bf9968-d71e-4600-b3bc-a4b823706519" type="folder">10</container> 
+				<unittitle>Brush and Hay (Identified). 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="759b50e7-f803-474f-adf5-47de3c262513" type="box">15</container> <container parent="759b50e7-f803-474f-adf5-47de3c262513" type="folder">11</container> 
+				<unittitle>Brush and Hay (Identified). 
+				  <unitdate normal="1964/1974" type="inclusive">1964-1974</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="67810be1-2378-4c83-8030-7acdf4be2e6c" type="box">15</container> <container parent="67810be1-2378-4c83-8030-7acdf4be2e6c" type="folder">12</container> 
+				<unittitle>Brush and Hay (Unidentified). 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="555f4800-b191-4bc4-b038-944095a9816c" type="box">15</container> <container parent="555f4800-b191-4bc4-b038-944095a9816c" type="folder">13</container> 
+				<unittitle>Brush and Hay (Unidentified). 
+				  <unitdate normal="1963/1978" type="inclusive">1963-1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="c05a8a82-c6e5-497e-aec0-fde452f074d6" type="box">15</container> <container parent="c05a8a82-c6e5-497e-aec0-fde452f074d6" type="folder">14</container> 
+				<unittitle>Commercial Property (Identified). 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="3484b809-63fa-4ecc-9c97-c991dd602527" type="box">15</container> <container parent="3484b809-63fa-4ecc-9c97-c991dd602527" type="folder">15</container> 
+				<unittitle>Commercial Property (Identified). 
+				  <unitdate normal="1950/1975" type="inclusive">1950-1975</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="50851fa4-844b-4422-80de-a7bee8e91960" type="box">15</container> <container parent="50851fa4-844b-4422-80de-a7bee8e91960" type="folder">16</container> 
+				<unittitle>Commercial Property (Identified). 
+				  <unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a605b859-4a3a-404c-9a0b-08a671a7561d" type="box">15</container> <container parent="a605b859-4a3a-404c-9a0b-08a671a7561d" type="folder">17</container> 
+				<unittitle>Commercial Property (Identified). 
+				  <unitdate normal="1990" type="inclusive">1990</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="3ef5968d-aa7d-4129-ae0a-66c4a019f442" type="box">15</container> <container parent="3ef5968d-aa7d-4129-ae0a-66c4a019f442" type="folder">18</container> 
+				<unittitle>Commercial Property (Unidentified) (1 of 3). 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="43c84b23-8ebf-4486-9106-92a348841092" type="box">16</container> <container parent="43c84b23-8ebf-4486-9106-92a348841092" type="folder">1-2</container> 
+				<unittitle>Commercial Property (Unidentified. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d84579af-e6b7-42b5-ae28-3efe3bc6cad1" type="box">16</container> <container parent="d84579af-e6b7-42b5-ae28-3efe3bc6cad1" type="folder">3</container> 
+				<unittitle>Commercial Property (Unidentified). 
+				  <unitdate normal="1965/1974" type="inclusive">1965-1974</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a71406b9-e878-40ae-9853-89742b16cb22" type="box">16</container> <container parent="a71406b9-e878-40ae-9853-89742b16cb22" type="folder">4</container> 
+				<unittitle>Residential Property (Identified). 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="51d327ae-3ae4-459f-88a4-d721c40a5b47" type="box">16</container> <container parent="51d327ae-3ae4-459f-88a4-d721c40a5b47" type="folder">5</container> 
+				<unittitle>Residential Property (Identified). 
+				  <unitdate normal="1948/1973" type="inclusive">1948-1973</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="b9810bfc-5098-43ad-af39-5680aa2ec0be" type="box">16</container> <container parent="b9810bfc-5098-43ad-af39-5680aa2ec0be" type="folder">6-10</container> 
+				<unittitle>Residential Property (Unidentified). 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="1de329a3-7d53-4821-891b-99ec7c3455be" type="box">16</container> <container parent="1de329a3-7d53-4821-891b-99ec7c3455be" type="folder">11</container> 
+				<unittitle>Residential Property (Unidentified). 
+				  <unitdate normal="1967/1970" type="inclusive">1967-1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="ed77270f-1b65-452d-bf62-555197d2774b" type="box">16</container> <container parent="ed77270f-1b65-452d-bf62-555197d2774b" type="folder">12</container> 
+				<unittitle>Vehicle (Identified). 
+				  <unitdate normal="1960/1970" type="inclusive">1960-1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="d2455f4d-0b54-43dd-a966-aade1330b7dd" type="box">16</container> <container parent="d2455f4d-0b54-43dd-a966-aade1330b7dd" type="folder">13</container> 
+				<unittitle>Vehicle (Unidentified). 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="28016b89-2f7b-49e2-b762-c0a3e603248a" type="box">17</container> <container parent="28016b89-2f7b-49e2-b762-c0a3e603248a" type="folder">1</container> 
+				<unittitle>Vehicle (Unidentified). 
+				  <unitdate normal="1968" type="inclusive">1968</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Miscellaneous. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="dd1b7b57-24cb-4406-8b24-672ad3c349fc" type="box">17</container> <container parent="dd1b7b57-24cb-4406-8b24-672ad3c349fc" type="folder">2</container> 
+				<unittitle>Miscellaneous. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Publicity. 
+				<unitdate normal="1950/1993" type="inclusive">1950-1993</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container id="aa3ec17f-ac2c-4cc7-91be-77ff008ba410" type="box">17</container> <container parent="aa3ec17f-ac2c-4cc7-91be-77ff008ba410" type="folder">3</container> 
+				<unittitle>Captioned. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="260f7146-187c-43ac-a4aa-7d997e77c404" type="box">17</container> <container parent="260f7146-187c-43ac-a4aa-7d997e77c404" type="folder">4</container> 
+				<unittitle>Captioned. 
+				  <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="cc73eccf-51df-4052-be2f-7c691c8dd3ac" type="box">17</container> <container parent="cc73eccf-51df-4052-be2f-7c691c8dd3ac" type="folder">5</container> 
+				<unittitle>Dispatchers. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="4fce114e-1f9b-4197-9008-5d7426b59d4d" type="box">17</container> <container parent="4fce114e-1f9b-4197-9008-5d7426b59d4d" type="folder">6-8</container> 
+				<unittitle>General. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a22a2fc9-0f13-4584-8e62-f3f94006d70c" type="box">17</container> <container parent="a22a2fc9-0f13-4584-8e62-f3f94006d70c" type="folder">9</container> 
+				<unittitle>General. 
+				  <unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="fa670b50-8b3a-4c15-9120-b24c5d20c5a4" type="box">17</container> <container parent="fa670b50-8b3a-4c15-9120-b24c5d20c5a4" type="folder">10</container> 
+				<unittitle>Robertson, Fire Chief. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="72eecc6d-7bb0-44c5-b81e-68991d3d8918" type="box">17</container> <container parent="72eecc6d-7bb0-44c5-b81e-68991d3d8918" type="folder">11</container> 
+				<unittitle>Robertson, Fire Chief. 
+				  <unitdate normal="1966" type="inclusive">1966</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="a29f2aa9-45ab-40a7-93a5-78030e6167fc" type="box">17</container> <container parent="a29f2aa9-45ab-40a7-93a5-78030e6167fc" type="folder">12</container> 
+				<unittitle>Scottsdale Station Groundbreaking. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="89f3edc6-3c4f-4d5c-8a82-7eae2ddd1d8e" type="box">17</container> <container parent="89f3edc6-3c4f-4d5c-8a82-7eae2ddd1d8e" type="folder">13</container> 
+				<unittitle>Training Exercises. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="7c47d0dc-1990-41d3-ab0f-569224954c3b" type="box">17</container> <container parent="7c47d0dc-1990-41d3-ab0f-569224954c3b" type="folder">14</container> 
+				<unittitle>Training Exercises. 
+				  <unitdate normal="1950" type="inclusive">1950</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="2c1ab814-ce31-4928-a5c7-d5da6dd3adca" type="box">17</container> <container parent="2c1ab814-ce31-4928-a5c7-d5da6dd3adca" type="folder">15</container> 
+				<unittitle>Witzeman, Louis A. 
+				  <unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container id="9102297c-06a1-44c0-acfe-8f82102c7776" type="box">17</container> <container parent="9102297c-06a1-44c0-acfe-8f82102c7776" type="folder">16</container> 
+				<unittitle>Witzeman, Louis A. 
+				  <unitdate normal="1969/1993" type="inclusive">1969-1993</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 6: Negatives and Slides. 
+			 <unitdate normal="1950/1982" type="inclusive">1950-1982</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>1.5 linear feet (Approximately 2,250 items)</p> 
+		  <p>Arrangement: Alphabetical</p> 
+		  <p>This series includes negatives and slides of equipment, fire
+			 engines, fire hazards, fire stations, fires (brush and hay, commercial and
+			 residential property, vehicular), and Rural/Metro publicity. Additionally,
+			 there are microfilm slides of both maps and aerial views of Scottsdale,
+			 Arizona—in the 1970s these microfilm slides were used in microfilm
+			 readers (placed in fire engine cabs) to determine the locations of fires and
+			 other emergencies. </p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container id="fa6461d9-3164-45b9-a90f-175dc7a27446" type="box">17</container> <container parent="fa6461d9-3164-45b9-a90f-175dc7a27446" type="folder">17</container> 
+			 <unittitle>Negatives: Equipment; Pumps and Hoses. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="64d2f52c-2404-4f85-8559-6bef098015f9" type="box">17</container> <container parent="64d2f52c-2404-4f85-8559-6bef098015f9" type="folder">18</container> 
+			 <unittitle>Negatives: Equipment; Rescue Equipment. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8db7d8ee-f765-43d6-aadf-d34680e3c3e4" type="box">17</container> <container parent="8db7d8ee-f765-43d6-aadf-d34680e3c3e4" type="folder">19</container> 
+			 <unittitle>Negatives: Fire Engines; Central Yavapai F.D. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="602407b9-9da7-4d39-a9e1-7d5339aeec73" type="box">17</container> <container parent="602407b9-9da7-4d39-a9e1-7d5339aeec73" type="folder">20</container> 
+			 <unittitle>Negatives: Fire Engines; Folsom F.D. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="7b32afc9-008c-4f8a-a159-e1f002bdb421" type="box">17</container> <container parent="7b32afc9-008c-4f8a-a159-e1f002bdb421" type="folder">21</container> 
+			 <unittitle>Negatives: Fire Engines; Hermosillo F.D. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="de7fa788-0a39-4fc5-be54-1d25434989a9" type="box">17</container> <container parent="de7fa788-0a39-4fc5-be54-1d25434989a9" type="folder">22</container> 
+			 <unittitle>Negatives: Fire Engines; Oracle F.D. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="59baf578-ed97-485a-ac55-05301ff940fc" type="box">17</container> <container parent="59baf578-ed97-485a-ac55-05301ff940fc" type="folder">23</container> 
+			 <unittitle>Negatives: Fire Engines; “Plain Janes.” 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="76575e1e-4728-4683-859a-144a38afa6d1" type="box">17</container> <container parent="76575e1e-4728-4683-859a-144a38afa6d1" type="folder">24</container> 
+			 <unittitle>Negatives: Fire Engines; Rural/Metro. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1cd1ca99-d48a-433f-aea0-ecbc546d53dd" type="box">17</container> <container parent="1cd1ca99-d48a-433f-aea0-ecbc546d53dd" type="folder">25</container> 
+			 <unittitle>Negatives: Fire Engines; Rural/Metro. 
+				<unitdate normal="1966" type="inclusive">1966</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3def6750-dc3c-4815-97a8-3ba98f0da26e" type="box">17</container> <container parent="3def6750-dc3c-4815-97a8-3ba98f0da26e" type="folder">26</container> 
+			 <unittitle>Negatives: Fire Engines; Show Low F.D. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="565d09a7-3bf4-47d9-b962-18b7edfc50d6" type="box">17</container> <container parent="565d09a7-3bf4-47d9-b962-18b7edfc50d6" type="folder">27-28</container> 
+			 <unittitle>Negatives: Fire Hazards; General. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f41348bc-f89f-40ec-ad2b-52afbd2c8cef" type="box">18</container> <container parent="f41348bc-f89f-40ec-ad2b-52afbd2c8cef" type="folder">1</container> 
+			 <unittitle>Negatives: Fire Stations; Scottsdale. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4c30a7b1-cfd5-4b2e-a611-86f83d022495" type="box">18</container> <container parent="4c30a7b1-cfd5-4b2e-a611-86f83d022495" type="folder">2</container> 
+			 <unittitle>Negatives: Fire Stations; Unidentified. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8282ac6c-682e-4b47-a4ed-467b51df3f8f" type="box">18</container> <container parent="8282ac6c-682e-4b47-a4ed-467b51df3f8f" type="folder">3</container> 
+			 <unittitle>Negatives: Fire Stations; Unidentified. 
+				<unitdate normal="1952/1969" type="inclusive">1952-1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5e57d987-4e69-44ce-bcbb-4f23704e306c" type="box">18</container> <container parent="5e57d987-4e69-44ce-bcbb-4f23704e306c" type="folder">4</container> 
+			 <unittitle>Negatives: Fire Stations; West Side Headquarters. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c85ce231-4995-48ff-93f9-eae3e7d52fe9" type="box">18</container> <container parent="c85ce231-4995-48ff-93f9-eae3e7d52fe9" type="folder">5-6</container> 
+			 <unittitle>Negatives: Fires; Brush and Hay (Identified). 
+				<unitdate normal="1952" type="inclusive">1952</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9b9f3f7c-1342-4ad1-8c47-b50c91a4457c" type="box">18</container> <container parent="9b9f3f7c-1342-4ad1-8c47-b50c91a4457c" type="folder">7</container> 
+			 <unittitle>Negatives: Fires; Commercial Property (Identified). 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="396df11f-7835-48d4-8394-7a4f7a7dabbb" type="box">18</container> <container parent="396df11f-7835-48d4-8394-7a4f7a7dabbb" type="folder">8</container> 
+			 <unittitle>Negatives: Fires; Commercial Property (Unidentified). 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6c6671f1-4782-4e2e-b359-be4b386b96e9" type="box">18</container> <container parent="6c6671f1-4782-4e2e-b359-be4b386b96e9" type="folder">9-10</container> 
+			 <unittitle>Negatives: Fires; Residential Property (Identified). 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fd3b5cac-7213-4a6f-a56f-95ca212f9ce0" type="box">18</container> <container parent="fd3b5cac-7213-4a6f-a56f-95ca212f9ce0" type="folder">11</container> 
+			 <unittitle>Negatives: Fires; Residential Property (Unidentified). 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fe98f213-bb3f-46ce-9e1b-c7e282104ed0" type="box">18</container> <container parent="fe98f213-bb3f-46ce-9e1b-c7e282104ed0" type="folder">12</container> 
+			 <unittitle>Negatives: Fires; Vehicle (Identified). 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4952e692-7149-4a01-84ac-4932a61c655a" type="box">18</container> <container parent="4952e692-7149-4a01-84ac-4932a61c655a" type="folder">13-14</container> 
+			 <unittitle>Negatives: Fires; Vehicle (Unidentified). 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c01a9cd5-20c5-4d94-8123-28882140c97c" type="box">18</container> <container parent="c01a9cd5-20c5-4d94-8123-28882140c97c" type="folder">15</container> 
+			 <unittitle>Negatives: Publicity; General. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="04b4762f-e52f-4cf5-861a-50421a9b2d25" type="box">18</container> <container parent="04b4762f-e52f-4cf5-861a-50421a9b2d25" type="folder">16</container> 
+			 <unittitle>Slides: Boats; Boston F.D. 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b8d46d74-e7e4-4a77-a4cd-8fa5d695a620" type="box">18</container> <container parent="b8d46d74-e7e4-4a77-a4cd-8fa5d695a620" type="folder">17</container> 
+			 <unittitle>Slides: Equipment; Communication Devices, Protective
+				Clothing and Rescue Equipment. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5b88f289-3691-4500-8d78-ae30407c96c6" type="box">18</container> <container parent="5b88f289-3691-4500-8d78-ae30407c96c6" type="folder">18</container> 
+			 <unittitle>Slides: Equipment; Communication Devices, Protective
+				Clothing and Rescue Equipment. 
+				<unitdate normal="1969/1975" type="inclusive">1969-1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d215313c-0c4d-4d5d-b32e-4d129b6bd34f" type="box">18</container> <container parent="d215313c-0c4d-4d5d-b32e-4d129b6bd34f" type="folder">19</container> 
+			 <unittitle>Slides: Equipment; Hydrants, the “Snail,”
+				and the “Water Tank.” 
+				<unitdate normal="1971/1974" type="inclusive">1971-1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8f082683-5abe-4f64-925c-5b320abd4cb8" type="box">18</container> <container parent="8f082683-5abe-4f64-925c-5b320abd4cb8" type="folder">20</container> 
+			 <unittitle>Slides: Equipment; Microfilm Reader. 
+				<unitdate normal="1971/1974" type="inclusive">1971-1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d1b08c3c-9aff-461b-ae46-740c08fe614e" type="box">18</container> <container parent="d1b08c3c-9aff-461b-ae46-740c08fe614e" type="folder">21</container> 
+			 <unittitle>Slides: Equipment; Pumps and Hoses. 
+				<unitdate normal="1967/1969" type="inclusive">1967-1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="b6a80515-ed1a-4097-b981-506007674b60" type="box">18</container> <container parent="b6a80515-ed1a-4097-b981-506007674b60" type="folder">22</container> 
+			 <unittitle>Slides: Equipment; Sprinkler Systems. 
+				<unitdate normal="1969/1974" type="inclusive">1969-1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2a502eae-2104-47f2-83e9-a106deede7e2" type="box">18</container> <container parent="2a502eae-2104-47f2-83e9-a106deede7e2" type="folder">23</container> 
+			 <unittitle>Slides: Equipment; X-Hyd Opener. 
+				<unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="50ace280-3129-409b-bb53-f0298577b837" type="box">18</container> <container parent="50ace280-3129-409b-bb53-f0298577b837" type="folder">24</container> 
+			 <unittitle>Slides: Fire Engines; Cambridge, Massachusetts F.D. 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e05766c4-22ef-4e38-af86-207b6a179f9a" type="box">18</container> <container parent="e05766c4-22ef-4e38-af86-207b6a179f9a" type="folder">25</container> 
+			 <unittitle>Slides: Fire Engines; Elmira Heights, New York F.D. 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5ec434b5-a761-43b0-be8f-5bffab7e7b00" type="box">18</container> <container parent="5ec434b5-a761-43b0-be8f-5bffab7e7b00" type="folder">26</container> 
+			 <unittitle>Slides: Fire Engines; Fairview F.D. 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="16328019-f2e7-43e4-b4c1-7058a3c3bd81" type="box">18</container> <container parent="16328019-f2e7-43e4-b4c1-7058a3c3bd81" type="folder">27</container> 
+			 <unittitle>Slides: Fire Engines; Foam Truck. 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="98b648c9-7a78-487b-984f-a0385eef61ef" type="box">18</container> <container parent="98b648c9-7a78-487b-984f-a0385eef61ef" type="folder">28</container> 
+			 <unittitle>Slides: Fire Engines; Hamilton, Ontario F.D. 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="decaf721-65f8-40bd-bc34-a616406c27c0" type="box">18</container> <container parent="decaf721-65f8-40bd-bc34-a616406c27c0" type="folder">29</container> 
+			 <unittitle>Slides: Fire Engines; Massachusetts Port Authority. 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f4c5f7f1-05e5-4937-9639-9497b685bca1" type="box">18</container> <container parent="f4c5f7f1-05e5-4937-9639-9497b685bca1" type="folder">30</container> 
+			 <unittitle>Slides: Fire Engines; Nogales F.D. 
+				<unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f2f95468-39c5-4017-9aaa-cdde5012b1e7" type="box">18</container> <container parent="f2f95468-39c5-4017-9aaa-cdde5012b1e7" type="folder">31</container> 
+			 <unittitle>Slides: Fire Engines; Norwood, Massachusetts F.D. 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="97c5152a-af5b-4d19-ba52-9bbc98696579" type="box">18</container> <container parent="97c5152a-af5b-4d19-ba52-9bbc98696579" type="folder">32</container> 
+			 <unittitle>Slides: Fire Engines; Phoenix F.D. 
+				<unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="66e725a1-f9bf-477f-b37e-d0bb8ed32114" type="box">18</container> <container parent="66e725a1-f9bf-477f-b37e-d0bb8ed32114" type="folder">33</container> 
+			 <unittitle>Slides: Fire Engines; “Plain Janes.” 
+				<unitdate normal="1969/1974" type="inclusive">1969-1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="50a6d769-b5c5-428a-a846-095c80467fa6" type="box">18</container> <container parent="50a6d769-b5c5-428a-a846-095c80467fa6" type="folder">34</container> 
+			 <unittitle>Slides: Fire Engines; Rural/Metro. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="23096e74-2d1d-4926-986b-69a829ebda81" type="box">18</container> <container parent="23096e74-2d1d-4926-986b-69a829ebda81" type="folder">35</container> 
+			 <unittitle>Slides: Fire Engines; Rural/Metro. 
+				<unitdate normal="1969/1975" type="inclusive">1969-1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="12e6113f-e6bd-4ba1-917e-6c3dc6e632d8" type="box">18</container> <container parent="12e6113f-e6bd-4ba1-917e-6c3dc6e632d8" type="folder">36</container> 
+			 <unittitle>Slides: Fire Engines; Scottsdale F.D. 
+				<unitdate normal="1969/1975" type="inclusive">1969-1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="197cffeb-7a92-481d-b522-d19c4fc3e9f0" type="box">18</container> <container parent="197cffeb-7a92-481d-b522-d19c4fc3e9f0" type="folder">37</container> 
+			 <unittitle>Slides: Fire Engines; Sun City F.D. 
+				<unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="be395dfe-3027-45c6-8c31-36dc5900f22d" type="box">18</container> <container parent="be395dfe-3027-45c6-8c31-36dc5900f22d" type="folder">38</container> 
+			 <unittitle>Slides: Fire Engines; Tucson F.D. 
+				<unitdate normal="1963" type="inclusive">1963</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="67a1ebca-a4c5-41b9-885f-4fd41dfb4870" type="box">18</container> <container parent="67a1ebca-a4c5-41b9-885f-4fd41dfb4870" type="folder">39</container> 
+			 <unittitle>Slides: Fire Engines; Unidentified. 
+				<unitdate normal="1969/1979" type="inclusive">1969-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5c72cf58-05ce-4397-bee6-d30533a649a0" type="box">19</container> <container parent="5c72cf58-05ce-4397-bee6-d30533a649a0" type="folder">1</container> 
+			 <unittitle>Slides: Fire Engines; Yakima, Washington F.D.
+				“Squirt.” 
+				<unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2051ead4-c1fd-4f0e-8158-f9986e1044d1" type="box">19</container> <container parent="2051ead4-c1fd-4f0e-8158-f9986e1044d1" type="folder">2</container> 
+			 <unittitle>Slides: Fire Engines; Yavapai F.D. 
+				<unitdate normal="1966" type="inclusive">1966</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9cc9bb9a-0b65-4fc9-a50b-9717c2930427" type="box">19</container> <container parent="9cc9bb9a-0b65-4fc9-a50b-9717c2930427" type="folder">3</container> 
+			 <unittitle>Slides: Fire Hazards; General. 
+				<unitdate normal="1969/1974" type="inclusive">1969-1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="56be4513-9b4e-4a53-a6cb-85c31fdc3a64" type="box">19</container> <container parent="56be4513-9b4e-4a53-a6cb-85c31fdc3a64" type="folder">4</container> 
+			 <unittitle>Slides: Fire Stations; Apache Trail. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="44469437-488d-43bb-8fb1-7ff899a81527" type="box">19</container> <container parent="44469437-488d-43bb-8fb1-7ff899a81527" type="folder">5</container> 
+			 <unittitle>Slides: Fire Stations; Green Valley. 
+				<unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cab8b3e9-c392-4aa0-a535-cfc7dc860402" type="box">19</container> <container parent="cab8b3e9-c392-4aa0-a535-cfc7dc860402" type="folder">6</container> 
+			 <unittitle>Slides: Fire Stations; Litchfield Park. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5bc7e803-a996-41cc-a4d1-0a03e2662fb1" type="box">19</container> <container parent="5bc7e803-a996-41cc-a4d1-0a03e2662fb1" type="folder">7</container> 
+			 <unittitle>Slides: Fire Stations; Litchfield Park. 
+				<unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9e8e1175-e2be-40da-be08-2aea08c31743" type="box">19</container> <container parent="9e8e1175-e2be-40da-be08-2aea08c31743" type="folder">8</container> 
+			 <unittitle>Slides: Fire Stations; Oracle. 
+				<unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9f01d6b4-5af8-48af-a487-cbe0e72837f1" type="box">19</container> <container parent="9f01d6b4-5af8-48af-a487-cbe0e72837f1" type="folder">9</container> 
+			 <unittitle>Slides: Fire Stations; Paradise Valley Locations. 
+				<unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="bf1723ad-d5e8-4d1c-8384-cebbf546dc6f" type="box">19</container> <container parent="bf1723ad-d5e8-4d1c-8384-cebbf546dc6f" type="folder">10</container> 
+			 <unittitle>Slides: Fire Stations; Rochester, New York. 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0629ba56-404f-4871-9a60-b6c75b7429ed" type="box">19</container> <container parent="0629ba56-404f-4871-9a60-b6c75b7429ed" type="folder">11</container> 
+			 <unittitle>Slides: Fire Stations; Scottsdale #10. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d26e22e5-d39d-407d-b98f-bb0bffbcef3b" type="box">19</container> <container parent="d26e22e5-d39d-407d-b98f-bb0bffbcef3b" type="folder">12</container> 
+			 <unittitle>Slides: Fire Stations; Scottsdale #10. 
+				<unitdate normal="1969/1979" type="inclusive">1969-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6dbebdfe-fa07-4474-9262-474d1ebcf1d8" type="box">19</container> <container parent="6dbebdfe-fa07-4474-9262-474d1ebcf1d8" type="folder">13</container> 
+			 <unittitle>Slides: Fire Stations; Scottsdale #11. 
+				<unitdate normal="1971" type="inclusive">1971</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="23b7df99-ab99-4ee2-a139-e310a1ebd11e" type="box">19</container> <container parent="23b7df99-ab99-4ee2-a139-e310a1ebd11e" type="folder">14</container> 
+			 <unittitle>Slides: Fire Stations; Scottsdale Main (Demolition
+				Process). 
+				<unitdate normal="1967/1974" type="inclusive">1967-1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="663cca16-5eb5-4f8a-845e-8b611b0c4276" type="box">19</container> <container parent="663cca16-5eb5-4f8a-845e-8b611b0c4276" type="folder">15</container> 
+			 <unittitle>Slides: Fire Stations; Sun City. 
+				<unitdate normal="1975" type="inclusive">1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="34f29576-abd4-4e4a-b4d5-85a19678c341" type="box">19</container> <container parent="34f29576-abd4-4e4a-b4d5-85a19678c341" type="folder">16</container> 
+			 <unittitle>Slides: Fire Stations; Unidentified. 
+				<unitdate normal="1969/1974" type="inclusive">1969-1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e7dc8345-712a-4cbf-9011-c696b2eefe92" type="box">19</container> <container parent="e7dc8345-712a-4cbf-9011-c696b2eefe92" type="folder">17</container> 
+			 <unittitle>Slides: Fire Stations; West Side Headquarters. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="35021dc1-936c-46b9-b062-290b0fa49d53" type="box">19</container> <container parent="35021dc1-936c-46b9-b062-290b0fa49d53" type="folder">18</container> 
+			 <unittitle>Slides: Fire Stations; West Side Headquarters. 
+				<unitdate normal="1970" type="inclusive">1970</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4f9f4e95-ed2b-40a4-b6f8-13bb58869569" type="box">19</container> <container parent="4f9f4e95-ed2b-40a4-b6f8-13bb58869569" type="folder">19-20</container> 
+			 <unittitle>Slides: Fires; Commercial Property (Identified). 
+				<unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5157a3e1-91de-4b44-a273-5c2b44e90bf1" type="box">19</container> <container parent="5157a3e1-91de-4b44-a273-5c2b44e90bf1" type="folder">21</container> 
+			 <unittitle>Slides: Fires; Commercial Property (Identified). 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="28b9682c-206b-4eba-b676-aaf363e8eab5" type="box">19</container> <container parent="28b9682c-206b-4eba-b676-aaf363e8eab5" type="folder">22</container> 
+			 <unittitle>Slides: Fires; Commercial Property (Identified). 
+				<unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d2c25327-03b7-4b9e-8d07-00295a0663fe" type="box">19</container> <container parent="d2c25327-03b7-4b9e-8d07-00295a0663fe" type="folder">23</container> 
+			 <unittitle>Slides: Fires; Commercial Property (Identified). 
+				<unitdate normal="1975" type="inclusive">1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="78d09217-68e8-4ea7-8b0e-76802f2866b1" type="box">19</container> <container parent="78d09217-68e8-4ea7-8b0e-76802f2866b1" type="folder">24</container> 
+			 <unittitle>Slides: Fires; Commercial Property (Unidentified). 
+				<unitdate normal="1969/1976" type="inclusive">1969-1976</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d48e9ad5-fa10-4150-8b3c-7d3779f3de82" type="box">19</container> <container parent="d48e9ad5-fa10-4150-8b3c-7d3779f3de82" type="folder">25</container> 
+			 <unittitle>Slides: Fires; Forest (Unidentified). 
+				<unitdate normal="1975" type="inclusive">1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2d620289-faa8-48c6-8701-2f44d3254092" type="box">19</container> <container parent="2d620289-faa8-48c6-8701-2f44d3254092" type="folder">26</container> 
+			 <unittitle>Slides: Fires; Residential Property (Identified). 
+				<unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="83110126-4595-4977-b4e2-19dc29827e13" type="box">19</container> <container parent="83110126-4595-4977-b4e2-19dc29827e13" type="folder">27</container> 
+			 <unittitle>Slides: Fires; Residential Property (Identified). 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1d3a0733-d1e1-40d1-9d41-436f0f6d9b33" type="box">19</container> <container parent="1d3a0733-d1e1-40d1-9d41-436f0f6d9b33" type="folder">28</container> 
+			 <unittitle>Slides: Fires; Vehicle (Identified). 
+				<unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3b12822f-c005-40aa-812f-2708392d33dd" type="box">19</container> <container parent="3b12822f-c005-40aa-812f-2708392d33dd" type="folder">29</container> 
+			 <unittitle>Slides: Fires; Vehicle (Identified). 
+				<unitdate normal="1979" type="inclusive">1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4f22c837-b65a-4aba-901b-c00ad823e8df" type="box">19</container> <container parent="4f22c837-b65a-4aba-901b-c00ad823e8df" type="folder">30</container> 
+			 <unittitle>Slides: Fires; Vehicle (Unidentified). 
+				<unitdate normal="1969/1973" type="inclusive">1969-1973</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="53c215b5-3c88-4c34-9b27-b2b629079007" type="box">19</container> <container parent="53c215b5-3c88-4c34-9b27-b2b629079007" type="folder">31</container> 
+			 <unittitle>Slides: Forestry; Helicopters, Slurry, and Tankers. 
+				<unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f6ba75e7-4977-46c6-aa76-c1a12a3876a7" type="box">19</container> <container parent="f6ba75e7-4977-46c6-aa76-c1a12a3876a7" type="folder">32</container> 
+			 <unittitle>Slides: Miscellaneous; Aerial Views. 
+				<unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="78ad0570-3c0c-47c5-b08e-6305587c9717" type="box">19</container> <container parent="78ad0570-3c0c-47c5-b08e-6305587c9717" type="folder">33</container> 
+			 <unittitle>Slides: Miscellaneous; Casas Adobes. 
+				<unitdate normal="1968" type="inclusive">1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c4aadd90-44e1-46b5-9875-288bc18bdd47" type="box">19</container> <container parent="c4aadd90-44e1-46b5-9875-288bc18bdd47" type="folder">34</container> 
+			 <unittitle>Slides: Miscellaneous; Charts and Graphs. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="15c4ccf6-0098-4e8a-bd47-22d2ab295abf" type="box">19</container> <container parent="15c4ccf6-0098-4e8a-bd47-22d2ab295abf" type="folder">35</container> 
+			 <unittitle>Slides: Miscellaneous; Charts and Graphs. 
+				<unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4a0500c5-7d77-4da0-88ab-99ef0c2b4d0f" type="box">19</container> <container parent="4a0500c5-7d77-4da0-88ab-99ef0c2b4d0f" type="folder">36</container> 
+			 <unittitle>Slides: Miscellaneous; Drinkwater’s Box Culverts. 
+				<unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d8eaa637-c76e-4074-ac01-9804d4b37aa3" type="box">19</container> <container parent="d8eaa637-c76e-4074-ac01-9804d4b37aa3" type="folder">37</container> 
+			 <unittitle>Slides: Miscellaneous; European Magazine Articles on
+				Firefighting. 
+				<unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a338a5b7-151e-466f-95cd-51d9f862d749" type="box">19</container> <container parent="a338a5b7-151e-466f-95cd-51d9f862d749" type="folder">38</container> 
+			 <unittitle>Slides: Miscellaneous; House Damage. 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8850a307-7761-4ef1-beca-37325ec56c0e" type="box">20</container> <container parent="8850a307-7761-4ef1-beca-37325ec56c0e" type="folder">1</container> 
+			 <unittitle>Slides: Miscellaneous; Inspection Forms. 
+				<unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="78e1157b-e69c-4539-bfd1-da00c68118f7" type="box">20</container> <container parent="78e1157b-e69c-4539-bfd1-da00c68118f7" type="folder">2</container> 
+			 <unittitle>Slides: Miscellaneous; Los Arcos Framing. 
+				<unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="1c8d37ad-c5d1-4a7d-88d3-4d83c5089e6e" type="box">20</container> <container parent="1c8d37ad-c5d1-4a7d-88d3-4d83c5089e6e" type="folder">3</container> 
+			 <unittitle>Slides: Miscellaneous; Microfilm Maps. 
+				<unitdate normal="1973" type="inclusive">1973</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="65c23fbb-15ab-40ba-8fb2-ea3590ca046d" type="box">20</container> <container parent="65c23fbb-15ab-40ba-8fb2-ea3590ca046d" type="folder">4</container> 
+			 <unittitle>Slides: Miscellaneous; Microfilm Maps. 
+				<unitdate normal="1974" type="inclusive">1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8f4a8c05-0148-4861-bb3f-437f11444e12" type="box">20</container> <container parent="8f4a8c05-0148-4861-bb3f-437f11444e12" type="folder">5</container> 
+			 <unittitle>Slides: Miscellaneous; Miscellaneous. 
+				<unitdate normal="1970/1982" type="inclusive">1970-1982</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9e291735-206b-42a5-af19-49c1f7ff17ec" type="box">20</container> <container parent="9e291735-206b-42a5-af19-49c1f7ff17ec" type="folder">6</container> 
+			 <unittitle>Slides: Miscellaneous; Papago Plaza. 
+				<unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e1c1c0ac-f0f8-4240-b9de-93c76d6302d7" type="box">20</container> <container parent="e1c1c0ac-f0f8-4240-b9de-93c76d6302d7" type="folder">7</container> 
+			 <unittitle>Slides: Miscellaneous; Paradise Valley Homes. 
+				<unitdate normal="1972" type="inclusive">1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="00bd555d-636d-4f7f-8972-dfc427737de6" type="box">20</container> <container parent="00bd555d-636d-4f7f-8972-dfc427737de6" type="folder">8</container> 
+			 <unittitle>Slides: Miscellaneous; Plaza Del Sol. 
+				<unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ee313f21-5ec9-47bb-b26c-35fe954f9485" type="box">20</container> <container parent="ee313f21-5ec9-47bb-b26c-35fe954f9485" type="folder">9</container> 
+			 <unittitle>Slides: Miscellaneous; Report to City of Scottsdale. 
+				<unitdate normal="1979" type="inclusive">1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="8582d7fd-0a3a-4d0d-9c84-f8f946a46b2c" type="box">20</container> <container parent="8582d7fd-0a3a-4d0d-9c84-f8f946a46b2c" type="folder">10</container> 
+			 <unittitle>Slides: Miscellaneous; Scottsdale Buildings. 
+				<unitdate normal="1971/1974" type="inclusive">1971-1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="582c74e3-d57b-4303-812d-62860004ec1c" type="box">20</container> <container parent="582c74e3-d57b-4303-812d-62860004ec1c" type="folder">11</container> 
+			 <unittitle>Slides: Miscellaneous; Stanford Research Institute. 
+				<unitdate normal="1976" type="inclusive">1976</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="777a69ba-abea-42ff-b02a-7844ba4b46af" type="box">20</container> <container parent="777a69ba-abea-42ff-b02a-7844ba4b46af" type="folder">12</container> 
+			 <unittitle>Slides: Miscellaneous; Sun City North Buildings. 
+				<unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a3ffdd75-3d96-4269-93b5-b80bb2340d7f" type="box">20</container> <container parent="a3ffdd75-3d96-4269-93b5-b80bb2340d7f" type="folder">13</container> 
+			 <unittitle>Slides: Miscellaneous; Witzeman European Trip. 
+				<unitdate normal="1970" type="inclusive">1970</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="85dc21f8-0b4a-441b-933e-3d5c547afbed" type="box">20</container> <container parent="85dc21f8-0b4a-441b-933e-3d5c547afbed" type="folder">14</container> 
+			 <unittitle>Slides: Publicity; General. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ff5b5a13-6f10-438a-81be-05f55f26ca8a" type="box">20</container> <container parent="ff5b5a13-6f10-438a-81be-05f55f26ca8a" type="folder">15</container> 
+			 <unittitle>Slides: Publicity; General. 
+				<unitdate normal="1963/1975" type="inclusive">1963-1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="02ffdcee-6622-45e7-adb9-d12ede7f5054" type="box">20</container> <container parent="02ffdcee-6622-45e7-adb9-d12ede7f5054" type="folder">16</container> 
+			 <unittitle>Slides: Publicity; Scottsdale Municipal Show and Tell
+				Event. 
+				<unitdate normal="1970" type="inclusive">1970</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="189882e1-3c87-48ea-97f4-758dfb29b135" type="box">20</container> <container parent="189882e1-3c87-48ea-97f4-758dfb29b135" type="folder">17</container> 
+			 <unittitle>Slides: Publicity; Training Exercises. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="adc84764-e2e4-44a5-a694-396c26c6aa29" type="box">20</container> <container parent="adc84764-e2e4-44a5-a694-396c26c6aa29" type="folder">18</container> 
+			 <unittitle>Slides: Publicity; Training Exercises. 
+				<unitdate normal="1968/1972" type="inclusive">1968-1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 7: Scrapbooks. 
+			 <unitdate normal="1948/1986" type="inclusive">1948-1986</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>.25 linear feet (Approximately 375 items)</p> 
+		  <p>Arrangement: Alphabetical</p> 
+		  <p>The Scrapbook Series contains photocopies of six scrapbooks. [Note:
+			 an additional (seventh) scrapbook is located in Series 11: Oversized
+			 Materials]. One scrapbook consists solely of photographs of the Thirtieth
+			 Anniversary Party. The other scrapbooks contain photographs and news clippings
+			 of a general nature concerning Rural/Metro. </p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container id="8f3acd69-64a6-45e5-9aa8-e70c3d2c247c" type="box">20</container> <container parent="8f3acd69-64a6-45e5-9aa8-e70c3d2c247c" type="folder">19</container> 
+			 <unittitle>Anniversary Party—30th. 
+				<unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="609b2b6c-bec9-43db-8037-211194e7fcdd" type="box">20</container> <container parent="609b2b6c-bec9-43db-8037-211194e7fcdd" type="folder">20</container> 
+			 <unittitle>General. 
+				<unitdate normal="1949/1956" type="inclusive">1949-1956</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="de2fc317-a541-4b6e-9ddf-eb76b1b7f4ab" type="box">20</container> <container parent="de2fc317-a541-4b6e-9ddf-eb76b1b7f4ab" type="folder">21</container> 
+			 <unittitle>General. 
+				<unitdate normal="1951/1969" type="inclusive">1951-1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="071e2988-dac0-430d-b110-419f04dd55e5" type="box">20</container> <container parent="071e2988-dac0-430d-b110-419f04dd55e5" type="folder">22</container> 
+			 <unittitle>General. 
+				<unitdate normal="1952/1963" type="inclusive">1952-1963</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e3070951-8252-4bbe-9773-3dd72046128e" type="box">20</container> <container parent="e3070951-8252-4bbe-9773-3dd72046128e" type="folder">23</container> 
+			 <unittitle>General. 
+				<unitdate normal="1970/1986" type="inclusive">1970-1986</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="6cc3f3d9-20fc-434a-9ad4-f5e2f6baadb7" type="box">21</container> <container parent="6cc3f3d9-20fc-434a-9ad4-f5e2f6baadb7" type="folder">1</container> 
+			 <unittitle>General. 
+				<unitdate normal="1971/1979" type="inclusive">1971-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 8: News Clippings. 
+			 <unitdate normal="1948/2004" type="inclusive">1948-2004</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>.75 linear feet (Approximately 1,125 items)</p> 
+		  <p>Arrangement: Alphabetical</p> 
+		  <p>The News Clippings Series contains photocopies of news articles
+			 relating to Rural/Metro history. While the bulk of the new clippings are
+			 general in nature, the series also contains clippings on the
+			 intensely-campaigned 2003 Scottsdale Election where Scottsdale citizens voted
+			 to retain the private fire protection services of Rural/Metro rather than
+			 switch to a municipally-run fire department.</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container id="d10dea52-6962-4d09-a599-753b8edd2a2c" type="box">21</container> <container parent="d10dea52-6962-4d09-a599-753b8edd2a2c" type="folder">2</container> 
+			 <unittitle>General. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4c1d81d5-2e85-465c-bc3b-0ec579c0dde1" type="box">21</container> <container parent="4c1d81d5-2e85-465c-bc3b-0ec579c0dde1" type="folder">3</container> 
+			 <unittitle>General. 
+				<unitdate normal="1948" type="inclusive">1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ce177518-bd94-438c-851e-43d3f25e0f51" type="box">21</container> <container parent="ce177518-bd94-438c-851e-43d3f25e0f51" type="folder">4</container> 
+			 <unittitle>General. 
+				<unitdate normal="1950/1959" type="inclusive">1950-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="456ce583-b968-4b4e-b461-bf82b503400a" type="box">21</container> <container parent="456ce583-b968-4b4e-b461-bf82b503400a" type="folder">5</container> 
+			 <unittitle>General. 
+				<unitdate normal="1963/1969" type="inclusive">1963-1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="697dae65-e0cd-492b-b55f-d31511b4f8e3" type="box">21</container> <container parent="697dae65-e0cd-492b-b55f-d31511b4f8e3" type="folder">6</container> 
+			 <unittitle>General. 
+				<unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f18b7690-1c40-4b6a-b26b-78a65d337a20" type="box">21</container> <container parent="f18b7690-1c40-4b6a-b26b-78a65d337a20" type="folder">7</container> 
+			 <unittitle>General. 
+				<unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="de7fc83b-e6fc-475c-b7f4-b6f087e129fb" type="box">21</container> <container parent="de7fc83b-e6fc-475c-b7f4-b6f087e129fb" type="folder">8</container> 
+			 <unittitle>General. 
+				<unitdate normal="1980/1985" type="inclusive">1980-1985</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="db8ec3aa-ca19-4331-80e4-0d8f406d50a7" type="box">21</container> <container parent="db8ec3aa-ca19-4331-80e4-0d8f406d50a7" type="folder">9</container> 
+			 <unittitle>General. 
+				<unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cfb38e8b-54ff-4f8f-ba39-4dc22c03cd50" type="box">21</container> <container parent="cfb38e8b-54ff-4f8f-ba39-4dc22c03cd50" type="folder">10</container> 
+			 <unittitle>General. 
+				<unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0fbce7d6-47c6-461c-8556-3920f53bd64f" type="box">22</container> <container parent="0fbce7d6-47c6-461c-8556-3920f53bd64f" type="folder">1</container> 
+			 <unittitle>General. 
+				<unitdate normal="1992/1999" type="inclusive">1992-1999</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="d92f0ae1-06b3-4b18-b45c-19e7a63f0866" type="box">22</container> <container parent="d92f0ae1-06b3-4b18-b45c-19e7a63f0866" type="folder">2</container> 
+			 <unittitle>General. 
+				<unitdate normal="2000/2004" type="inclusive">2000-2004</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="39cbe397-f807-4a3b-a89e-a001e4fe6171" type="box">22</container> <container parent="39cbe397-f807-4a3b-a89e-a001e4fe6171" type="folder">3</container> 
+			 <unittitle>Scottsdale Election. 
+				<unitdate normal="2002/2003" type="inclusive">2002-2003</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="835daf47-1d5c-4764-bd65-a834b7f35c7c" type="box">22</container> <container parent="835daf47-1d5c-4764-bd65-a834b7f35c7c" type="folder">4-5</container> 
+			 <unittitle>Scottsdale Election. 
+				<unitdate normal="2003" type="inclusive">2003</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 9: Audiovisual. 
+			 <unitdate normal="1969/2001" type="inclusive">1969-2001</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>1.0 linear foot (Approximately 225 items)</p> 
+		  <p>Arrangement: Alphabetical</p> 
+		  <p>The Audiovisual Series includes audiocassette tapes, reel audiotape,
+			 videocassettes tapes (VHS), Super 8 movie film, computer diskettes, and a
+			 slide/audiocassette tape presentation. Of note, the series contains audiotaped
+			 interviews with Rural/Metro founder Lou Witzeman, Rural/Metro attorney Lou
+			 Jekel, and other important figures in Rural/Metro history. Also, the series
+			 contains the March 7, 2000, Good Morning America television broadcast (in VHS
+			 format) concerning Rural/Metro and the Scottsdale Fire Sprinkler Ordinance.</p>
+		  
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container id="261e08d8-69d1-4c15-a7fd-ac2862c8b4d5" type="box">22</container> <container parent="261e08d8-69d1-4c15-a7fd-ac2862c8b4d5" type="folder">6</container> 
+			 <unittitle>Audiocassette Tapes; No Title. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="548ad170-4d5f-4533-8bd0-18b995b78350" type="box">22</container> <container parent="548ad170-4d5f-4533-8bd0-18b995b78350" type="folder">7</container> 
+			 <unittitle>Audiocassette Tapes; Robertson Interview. 
+				<unitdate normal="1996" type="inclusive">1996</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="f42b2c43-03d3-4d10-9eea-553e449610f3" type="box">22</container> <container parent="f42b2c43-03d3-4d10-9eea-553e449610f3" type="folder">8</container> 
+			 <unittitle>Audiocassette Tapes; Rural/Metro History (Lou Witzeman,
+				Lou Jekel, Jim Stenger, Bob Oden, and Fred Roof). 
+				<unitdate normal="1996" type="inclusive">1996</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cfb542c8-7c50-4001-8a9f-7878245737ce" type="box">22</container> <container parent="cfb542c8-7c50-4001-8a9f-7878245737ce" type="folder">9</container> 
+			 <unittitle>Computer Diskettes; Miscellaneous. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fffe9538-5830-43df-91a3-7b0f975a8ae0" type="box">23</container> <container parent="fffe9538-5830-43df-91a3-7b0f975a8ae0" type="folder">1</container> 
+			 <unittitle>Reel Audiotapes; Sprinkler Systems Slide Show Soundtrack. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="dadc1b56-8725-43d4-9ee6-e2dc4dcdcb0d" type="box">23</container> <container parent="dadc1b56-8725-43d4-9ee6-e2dc4dcdcb0d" type="folder">2-3</container> 
+			 <unittitle>Slide and Audiocassette Tape Presentation; Rural/Metro
+				Fire Sprinkler Tests. 
+				<unitdate normal="1982" type="inclusive">1982</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="52bcd7c8-1ab1-405e-8d40-2fa02894b14d" type="box">23</container> <container parent="52bcd7c8-1ab1-405e-8d40-2fa02894b14d" type="folder">4</container> 
+			 <unittitle>Super 8 Movie; Experimental #21 Pump Lift Operation. 
+				<unitdate normal="1969" type="inclusive">1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e0f15bf4-1fa0-4ab5-85d9-af726af687d9" type="box">23</container> <container parent="e0f15bf4-1fa0-4ab5-85d9-af726af687d9" type="folder">5</container> 
+			 <unittitle>Videocassette Tapes (VHS); Good Morning America
+				Broadcast—“Fire Sprinkler Ordinance.” 
+				<unitdate normal="2000" type="inclusive">March 7,
+				  2000</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="5e31c799-fd1a-4909-bdef-7244d8bcf9b6" type="box">24</container> <container parent="5e31c799-fd1a-4909-bdef-7244d8bcf9b6" type="folder">1</container> 
+			 <unittitle>Videocassette Tapes (VHS); Rural/Metro 50th Anniversary
+				and Music Video. 
+				<unitdate normal="1998" type="inclusive">1998</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3477177d-b751-4b2f-a4d7-3dd07d1e19c6" type="box">24</container> <container parent="3477177d-b751-4b2f-a4d7-3dd07d1e19c6" type="folder">2</container> 
+			 <unittitle>Videocassette Tapes (VHS); Rural/Metro Fire Department
+				Banquet 2001. 
+				<unitdate normal="2001" type="inclusive">2001</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="19445442-62c3-468f-bb99-9c6ebdfb42ba" type="box">24</container> <container parent="19445442-62c3-468f-bb99-9c6ebdfb42ba" type="folder">3</container> 
+			 <unittitle>Videocassette Tapes (VHS); Rural/Metro
+				“Heroes.” 
+				<unitdate normal="1996" type="inclusive">1996</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="a4ed5855-83e8-47c4-a908-a1864197ad8d" type="box">24</container> <container parent="a4ed5855-83e8-47c4-a908-a1864197ad8d" type="folder">4</container> 
+			 <unittitle>Videocassette Tapes (VHS); Rural/Metro Story. 
+				<unitdate normal="1985" type="inclusive">1985</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="205da532-ab67-4181-8ee5-e654df1ba216" type="box">24</container> <container parent="205da532-ab67-4181-8ee5-e654df1ba216" type="folder">5</container> 
+			 <unittitle>Videocassette Tapes (VHS); Snail Tests at China Lake. 
+				<unitdate normal="1983" type="inclusive">1983</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="56fbcb50-e427-45ae-901c-2d9bde0140e4" type="box">25</container> <container parent="56fbcb50-e427-45ae-901c-2d9bde0140e4" type="folder">1</container> 
+			 <unittitle>Videocassette Tapes (VHS); Vintage Rural/Metro. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="52df29e0-748c-4226-ba3c-403e95ce0c8b" type="box">25</container> <container parent="52df29e0-748c-4226-ba3c-403e95ce0c8b" type="folder">2</container> 
+			 <unittitle>Videocassette Tapes (VHS); Witzeman Center for
+				Privatization. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 10: Memorabilia. 
+			 <unitdate normal="1976/1998" type="inclusive">1976-1998</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>.5 linear feet (Approximately 65 items)</p> 
+		  <p>Arrangement: Alphabetical</p> 
+		  <p>This series includes an identification card, a badge, business
+			 cards, buttons, decals, membership cards, a name tag, patches, a pen light,
+			 pins, and subscriber window signs. [Note: additional memorabilia are located in
+			 Series 11: Oversized Materials].</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container id="c19ebbf8-493c-4242-b717-17b216e9f4f4" type="box">25</container> <container parent="c19ebbf8-493c-4242-b717-17b216e9f4f4" type="folder">3</container> 
+			 <unittitle>Arizona Security Guard Identification Card; Louis A.
+				Witzeman. 
+				<unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="68095717-bd14-4a73-8b7f-9ed376f15ae8" type="box">25</container> <container parent="68095717-bd14-4a73-8b7f-9ed376f15ae8" type="folder">4</container> 
+			 <unittitle>Badge; Scottsdale Fire Department. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9a9b0f06-59a4-46b6-824e-2abe0284ca76" type="box">25</container> <container parent="9a9b0f06-59a4-46b6-824e-2abe0284ca76" type="folder">5</container> 
+			 <unittitle>Business Cards; Walter D. Stull. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="2067f6b9-5153-4859-86ad-a6b1a66e1811" type="box">25</container> <container parent="2067f6b9-5153-4859-86ad-a6b1a66e1811" type="folder">6</container> 
+			 <unittitle>Business Cards; Louis A. Witzeman. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="bf93f05d-17d4-4170-a79e-7c9abc6de22d" type="box">25</container> <container parent="bf93f05d-17d4-4170-a79e-7c9abc6de22d" type="folder">7</container> 
+			 <unittitle>Business Cards; Louis A. Witzeman. 
+				<unitdate normal="1988" type="inclusive">1988</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="0637abe4-0fa2-44aa-bafe-2248f7d7efa0" type="box">25</container> <container parent="0637abe4-0fa2-44aa-bafe-2248f7d7efa0" type="folder">8</container> 
+			 <unittitle>Buttons; Miscellaneous. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="86ed6d29-52aa-4b2b-a2ec-f1b0ae26ffe0" type="box">25</container> <container parent="86ed6d29-52aa-4b2b-a2ec-f1b0ae26ffe0" type="folder">9</container> 
+			 <unittitle>Decals; Miscellaneous. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c2ea9e51-124c-41e5-b5d7-c1508542c637" type="box">25</container> <container parent="c2ea9e51-124c-41e5-b5d7-c1508542c637" type="folder">10</container> 
+			 <unittitle>Decals; Thirtieth Anniversary. 
+				<unitdate normal="1978" type="inclusive">1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="409be57c-d8ab-4897-b60c-9c9e425910f5" type="box">25</container> <container parent="409be57c-d8ab-4897-b60c-9c9e425910f5" type="folder">11</container> 
+			 <unittitle>Membership Cards; Louis A. Witzeman. 
+				<unitdate normal="1976/1981" type="inclusive">1976-1981</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="877020d3-78bb-47d0-a7c6-10459b4358e4" type="box">25</container> <container parent="877020d3-78bb-47d0-a7c6-10459b4358e4" type="folder">12</container> 
+			 <unittitle>Name Tag; Lou Witzeman Chairman of the Board of
+				Rural/Metro Corporation. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="ed17c4f1-3d58-4a0b-9462-c373eb94bd72" type="box">25</container> <container parent="ed17c4f1-3d58-4a0b-9462-c373eb94bd72" type="folder">13</container> 
+			 <unittitle>Patches; Miscellaneous. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3b574cc5-c13b-44b7-bf86-76e14ae37389" type="box">25</container> <container parent="3b574cc5-c13b-44b7-bf86-76e14ae37389" type="folder">14</container> 
+			 <unittitle>Pen Light; Rural/Metro. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4c9a3dce-c7d8-4e4d-b660-41b10972b70d" type="box">25</container> <container parent="4c9a3dce-c7d8-4e4d-b660-41b10972b70d" type="folder">15</container> 
+			 <unittitle>Pins; Fortieth Anniversary. 
+				<unitdate normal="1988" type="inclusive">1988</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="fb400529-ceb6-4287-9dab-281cce1b1467" type="box">25</container> <container parent="fb400529-ceb6-4287-9dab-281cce1b1467" type="folder">16</container> 
+			 <unittitle>Pins; Miscellaneous. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="34bfacc9-cd1c-4d61-bd0c-2b2ffd24455e" type="box">25</container> <container parent="34bfacc9-cd1c-4d61-bd0c-2b2ffd24455e" type="folder">17</container> 
+			 <unittitle>Playing Cards; Rural/Metro. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="688856fe-d15e-46bf-ace1-daf3adb3de3c" type="box">25</container> <container parent="688856fe-d15e-46bf-ace1-daf3adb3de3c" type="folder">18</container> 
+			 <unittitle>Signs; Subscriber Window Signs. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 11: Oversized Materials (contains
+			 memorabilia,photographs, and one scrapbook)</unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>.5 linear feet (Approximately 150 items)</p> 
+		  <p>Arrangement: Alphabetical</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container id="79db2216-cc8d-442d-a4e9-ddac78581885" type="box">26</container> <container parent="79db2216-cc8d-442d-a4e9-ddac78581885" type="folder">1</container> 
+			 <unittitle>Memorabilia: Decals; Fire Engine Door Decal. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="dabb9c43-16ff-4c09-a644-a13634de78f2" type="box">26</container> <container parent="dabb9c43-16ff-4c09-a644-a13634de78f2" type="folder">2</container> 
+			 <unittitle>Photographs: Fire Engines; Rural/Metro. 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="c4b22774-10d9-41d0-b762-6f26356812fa" type="box">26</container> <container parent="c4b22774-10d9-41d0-b762-6f26356812fa" type="folder">3</container> 
+			 <unittitle>Photographs: Fires; Brush and Hay (Unidentified). 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="9018479c-40a6-4329-9abb-39f57304b38e" type="box">26</container> <container parent="9018479c-40a6-4329-9abb-39f57304b38e" type="folder">4</container> 
+			 <unittitle>Photographs: Fires; Commercial Property (Identified). 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cb5ad4f2-2c23-4997-b7dd-8f7052f968f3" type="box">26</container> <container parent="cb5ad4f2-2c23-4997-b7dd-8f7052f968f3" type="folder">5</container> 
+			 <unittitle>Photographs: Fires; Residential Property (Unidentified). 
+				<unitdate normal="1947/2004" type="inclusive">undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e2dcc7ee-c89a-4e68-8f37-3e01407007ea" type="box">26</container> <container parent="e2dcc7ee-c89a-4e68-8f37-3e01407007ea" type="folder">6</container> 
+			 <unittitle>Scrapbooks: General. 
+				<unitdate normal="1948/1952" type="inclusive">1948-1952</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

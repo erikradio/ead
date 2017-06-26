@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="complete" langencoding="ISO_639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid encodinganalog="852">UAMS463</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="245">Southwest Parks and Monuments Association Records,<date encodinganalog="245$f">1967-1994</date>
+               <num>MS 463</num>
+            </titleproper>
+            <author audience="internal">Processed by Deborah Weller and Yunzhen Wan</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>University of Arizona</publisher>
+            <date calendar="gregorian" era="ce">2011</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Machine-readable finding guide and skeletal markup derived via template; markup
+            checked and completed by Yunzhen Wan, <date calendar="gregorian" era="ce">March
+               2011</date>
+         </creation>
+         <langusage>Finding guide is in <language langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+   <revisiondesc><change><date normal="2017-06-22">2017-06-22</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader>
+   <archdesc encodinganalog="351$c" level="collection">
+      <did>
+         <unittitle>Southwest Parks and Monuments Association<unitdate normal="1967/1994" type="inclusive">1967-1994</unitdate></unittitle>
+         <unitid countrycode="US" encodinganalog="099" repositorycode="US-azu">MS463</unitid>
+         <origination label="Creator"><persname encodinganalog="100">Southwest Parks and Monuments Association</persname></origination>
+         <physdesc><extent encodinganalog="300">4 Linear Feet</extent></physdesc>
+         <abstract encodinganalog="520">Papers, 1967-1994. This collection is comprised of the papers of the Southwest Parks and Monuments Association (SPMA) and the Hubbell Trading Post which is operated by SPMA.  Items include business files and SPMA publications.  The bulk of the materials include financial ledgers and correspondence.  Also included are photographs of the Indian rugs sold by the Hubbell Trading Post, interviews by the rug weavers and some historical documents about the Hubbell Trading Post. </abstract>
+
+         <langmaterial>
+            <language encodinganalog="546" langcode="eng">English.</language>
+         </langmaterial>
+         <repository label="Repository">
+            <corpname>Main Library Special Collections</corpname>
+            <address> 
+               <addressline>University of Arizona</addressline> 
+               <addressline>PO Box 210055</addressline> 
+               <addressline>Tucson, AZ 85721-0055</addressline> 
+               <addressline>Phone: 520-621-6423</addressline> 
+               <addressline>Fax: 520-621-9733</addressline> 
+               <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+            </address></repository>
+      </did>
+      <descgrp type="admininfo">
+         <accessrestrict encodinganalog="506">
+            <p>None</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>It is the responsibility of the user to obtain permission to publish
+               from the owner of the copyright (the institution, the creator of the record,
+               the author or his/her transferees, heirs, legates, or literary executors). The
+               user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+               University of Arizona, its officers, employees, and agents from and against all
+               claims made by any person asserting that he or she is an owner of
+               copyright.</p>
+         </userestrict>         
+         <prefercite encodinganalog="524">
+            <p>Southwest Parks and Monuments Association (MS 463). Special Collections, University of Arizona Libraries.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist>
+         <head>Historical Note </head>
+         <p>When the National Park Service was created in 1916, several nonprofit organizations (cooperating associations) were formed to support park programs and projects not covered by government funding. By 1936 cooperating associations were formally recognized by Congress, which passed laws enabling them to operate in the national parks. In 1938 the Southwest Monuments Association (later known as the Southwest Parks and Monuments Association (SPMA) was created by the National Park Service and was committed to supporting the education and preservation of 18 national monuments across Arizona and New Mexico </p>
+         <p>In 2002 the SPMA was renamed the Western National Parks Association (WNPA).  
+            The association is located in Tucson, Arizona and now services 66 locations in 12 states and donates over $4 million annually to its national park affiliates. Donations are raised through bookstore sales, membership support, book and publication development, research funding and other educational activities.   
+           </p>
+         <p>The Hubbell Trading Post was sold to the National Park Service in 1967.  It is still an active trading post run by the non-profit organization the Western National Parks Association (formerly the Southwest Parks and Monuments Association) for the Park Service.</p></bioghist>
+      <arrangement>
+         <list>
+            <head>This Collection is organized into 2 series.</head>
+            <item>Series I: Hubbell Trading Post</item>  
+            <item>Subseries 1: Correspondences</item>  
+            <item>Subseries 2: Financial</item>  
+            <item>Subseries 3: Photographs of rugs: Indian Rugs</item> 
+            <item>Subseries 4: Research:</item>    
+            
+            <item>Series II: Southwest Parks and Monuments Association</item>
+            <item>Subseries 1: Committees</item>
+            <item>Subseries 2: Cooperating Associate (Nation Park Service, N.P.S.) </item>
+            <item>Subseries 3: Correspondences</item>
+            <item>Subseries 4: Financial</item>
+            <item>Subseries 5: Meeting minutes and agenda</item>
+            <item>Subseries 6: Publications</item>  
+         </list>
+      </arrangement>
+      <scopecontent>
+         <p>The bulk of the collection contains correspondences and financial files. The photographs of rugs and research related materials are contained in Hubbell Trading Post series. The documents from different committees are organized by committees and arranged alphabetically in SPMA series. The meeting minutes and agenda and publication are included in SPMA as well. </p>
+      </scopecontent>
+      <controlaccess>
+                
+         <subject encodinganalog="650" source="lcsh">National parks and reserves.</subject>
+         <subject encodinganalog="650" source="lcsh">Monuments.</subject>
+         <subject encodinganalog="650" source="lcsh">Navajo Indians – Arizona.</subject>  
+         <subject encodinganalog="650" source="lcsh">Navajo Rugs.</subject>    
+         <subject encodinganalog="650" source="lcsh">Hand weaving -- Southwestern States.</subject> 
+         <subject encodinganalog="650" source="lcsh">Navajo textile fabrics.</subject>   
+         <subject encodinganalog="610" source="lcsh">Hubbell Trading Post National Historic Site (Ganado, Ariz.).</subject>  
+         <subject encodinganalog="610" source="lcsh">Southwest Parks and Monument Association.</subject>   
+         <subject encodinganalog="610" source="lcsh">Southwest Monuments Association.</subject>  
+         <subject encodinganalog="610" source="lcsh">Western National Parks Association.</subject>         
+      </controlaccess>
+      <dsc type="combined">
+         <c01>
+            <did><unittitle>Series I: Hubbell Trading Post (HTP)</unittitle></did>
+            <arrangement><p>This series is subdivided by document subject, arranged alphabetically, then chronologically. It contains correspondences, HTP financial information, photographs of rugs, and research related materials.</p></arrangement>
+             
+               <c02>
+                  <did><unittitle>Subseries 1 : Correspondence</unittitle></did>
+               
+                     <c03>
+                        <did><unittitle>General, 1967-1973</unittitle>
+                     <container id="50cc419b-df17-471e-80e2-90ca0c619f41" type="box">1</container><container parent="50cc419b-df17-471e-80e2-90ca0c619f41" type="folder">1</container>
+                        </did> 
+                     </c03>    
+        
+                  <c03><did><unittitle>General, 1974-1978</unittitle><container id="68c3be68-7af0-45ee-a949-445a1db9691f" type="box">1</container><container parent="68c3be68-7af0-45ee-a949-445a1db9691f" type="folder">2</container></did>
+                  </c03>
+               
+                  <c03><did><unittitle>General, 1979-1989</unittitle><container id="c2599ee3-2f0f-401a-9720-0d50bb8d13ca" type="box">1</container><container parent="c2599ee3-2f0f-401a-9720-0d50bb8d13ca" type="folder">3</container></did>
+                     </c03>                     
+               
+               <c03>
+                  <did><unittitle>Personnel, 1975-1982</unittitle>
+                     <container id="94dac10b-f930-4826-86fb-0885550ee904" type="Box">1</container>
+                     <container parent="94dac10b-f930-4826-86fb-0885550ee904" type="Folder">4</container></did>
+                  </c03>
+               </c02>
+            <c02><did><unittitle>Subseries 2 : Financial</unittitle></did>
+               
+               <c03>
+                  <did><unittitle>Ledger, 1971-1973</unittitle>
+                     <container id="5472da9d-b374-4f42-8bad-f043c73d3913" type="box">1</container><container parent="5472da9d-b374-4f42-8bad-f043c73d3913" type="folder">5</container>
+                  </did>
+               </c03>                 
+               <c03>
+               <did><unittitle>Ledger, 1979-1980</unittitle>
+                  <container id="267790eb-e3fc-4586-8202-29300420776a" type="box">1</container><container parent="267790eb-e3fc-4586-8202-29300420776a" type="folder">6</container>
+               </did>
+               </c03>   
+               <c03>
+                  <did><unittitle>Ledger, 1981-1982</unittitle>
+                     <container id="5bdf2c89-c2d1-4533-9698-8ea53772a7cb" type="box">1</container><container parent="5bdf2c89-c2d1-4533-9698-8ea53772a7cb" type="folder">7</container>
+                  </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Ledger, 1983-1984</unittitle>
+                     <container id="55b9f88f-16f2-41a1-a924-47051bc228ba" type="box">1</container><container parent="55b9f88f-16f2-41a1-a924-47051bc228ba" type="folder">8</container>
+                  </did>
+               </c03>
+               <c03>
+                 
+               <did><unittitle>Ledger, 1984-1985</unittitle>
+                        <container id="55fe0bbd-fb6f-4ab7-9c22-f400002c43e0" type="box">1</container><container parent="55fe0bbd-fb6f-4ab7-9c22-f400002c43e0" type="folder">9</container>
+                     </did>
+               </c03> 
+               <c03>               
+                     <did><unittitle>Ledger (closing entries), 10/1/1978-09/30/1979</unittitle>
+                        <container id="a76385c2-af50-4dd4-b290-a2bf197d0084" type="box">1</container><container parent="a76385c2-af50-4dd4-b290-a2bf197d0084" type="folder">10</container>
+                     </did>
+               </c03> 
+               <c03>
+                  <did><unittitle>Ledger (journal), 10/1/1972-9/30/1973</unittitle>
+                     <container id="2c313be9-d221-4ed2-afb7-9d84c6493b01" type="box">1</container><container parent="2c313be9-d221-4ed2-afb7-9d84c6493b01" type="folder">11</container>
+                  </did> 
+               </c03>
+               <c03>
+                  <did><unittitle>Ledger (journal), 10/1/1972-9/30/1973</unittitle>
+                     <container id="7728db0a-fb42-4c67-ae00-fc9f7316e940" type="box">1</container><container parent="7728db0a-fb42-4c67-ae00-fc9f7316e940" type="folder">12</container>
+                  </did> 
+               </c03>
+               <c03>
+                  <did><unittitle>Ledger (journal), 10/1/1973-9/30/1974</unittitle>
+                     <container id="055fa9ac-d0b7-4d0c-aee1-bc4c8e328bb9" type="box">1</container><container parent="055fa9ac-d0b7-4d0c-aee1-bc4c8e328bb9" type="folder">13</container>
+                  </did> 
+               </c03>
+               <c03>
+                  <did><unittitle>Ledger (journal), 10/1/1974-9/30/1975</unittitle>
+                     <container id="da412087-bf7c-432a-9d85-b07473704c28" type="box">1</container><container parent="da412087-bf7c-432a-9d85-b07473704c28" type="folder">14</container>
+                  </did>
+               </c03>
+               
+               <c03>
+                  <did><unittitle>Ledger (journal), 1975-1976</unittitle>
+                     <container id="d470a16a-60ae-4150-b790-6b7f50dbc01b" type="box">2</container><container parent="d470a16a-60ae-4150-b790-6b7f50dbc01b" type="folder">1</container>
+                  </did>
+               </c03>
+               
+               <c03>
+                  <did><unittitle>Ledger (journal), 1976-1977</unittitle>
+                     <container id="50a9b2a6-e4cd-46ca-b14f-27e47eb9099d" type="box">2</container><container parent="50a9b2a6-e4cd-46ca-b14f-27e47eb9099d" type="folder">2</container>
+                  </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Ledger (journal), 1977-1978</unittitle>
+                        <container id="0bd13f19-b5eb-4c8b-9aeb-735aecd95791" type="box">2</container><container parent="0bd13f19-b5eb-4c8b-9aeb-735aecd95791" type="folder">3</container>
+                     </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Ledger (journal), 1980-1981</unittitle>
+                     <container id="a2bd6608-72ec-4f0f-bad4-4e3391e31f19" type="box">2</container><container parent="a2bd6608-72ec-4f0f-bad4-4e3391e31f19" type="folder">4</container>
+                  </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Ledger (journal), 1981-1982</unittitle>
+                     <container id="e6db2efe-2881-4695-95b7-95d0519157c4" type="box">2</container><container parent="e6db2efe-2881-4695-95b7-95d0519157c4" type="folder">5</container>
+                  </did>
+               </c03>
+
+               <c03>
+                  <did><unittitle>Ledger (journal), 1983-1984</unittitle>
+                     <container id="0a2fc4b1-cb25-44a1-9d74-a279279c5f2a" type="box">2</container><container parent="0a2fc4b1-cb25-44a1-9d74-a279279c5f2a" type="folder">6</container>
+                  </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Ledger (rug), 1983-1984</unittitle>
+                     <container id="c58564ad-e84d-463c-b9da-99a609cb82e5" type="box">2</container><container parent="c58564ad-e84d-463c-b9da-99a609cb82e5" type="folder">7</container>
+                  </did>
+               </c03>
+               <c03>
+              
+               <did><unittitle>Ledger (rug + jewelry), 1976-1977</unittitle>
+                  <container id="8142d744-19f6-4fd4-869f-e4126111579e" type="box">2</container><container parent="8142d744-19f6-4fd4-869f-e4126111579e" type="folder">8</container>
+               </did>
+               </c03>
+               <c03>
+                  
+                  <did><unittitle>Ledger (Trial balance), 1986-1987</unittitle>
+                     <container id="8c85cc70-321c-4480-8a2d-fc95b20bd5a8" type="box">2</container><container parent="8c85cc70-321c-4480-8a2d-fc95b20bd5a8" type="folder">9</container>
+                  </did>
+               </c03> 
+               <c03>
+                  
+                  <did><unittitle>Miscellaneous Information: 1967-1987</unittitle>
+                     <container id="8c341319-9b1f-45a7-aa87-4f7485b611e0" type="box">2</container><container parent="8c341319-9b1f-45a7-aa87-4f7485b611e0" type="folder">10</container>
+                  </did>
+               </c03> 
+             </c02>
+               <c02>
+                  <did><unittitle>Subseries 3 : Photographs of rugs</unittitle></did>
+                 
+                  <c03>
+                     
+                     <did><unittitle>Indian rugs #1-2, undated</unittitle>
+                        <container id="f899667f-9842-4371-b07b-55ab85d9c54f" type="box">2</container><container parent="f899667f-9842-4371-b07b-55ab85d9c54f" type="folder">11</container>
+                     </did>
+                  </c03> 
+                  <c03>
+                     <did><unittitle>Indian rugs #3-4, undated</unittitle>
+                        <container id="39cb2384-2c12-4c44-8f37-3d9bfbab6559" type="box">2</container><container parent="39cb2384-2c12-4c44-8f37-3d9bfbab6559" type="folder">12</container>
+                     </did>
+                  </c03> 
+                  </c02>
+                  <c02><did><unittitle>Subseries 4 : Research</unittitle></did>
+                     
+                     <c03>
+                        <did><unittitle>Interviews with rug weavers, circa 1985?</unittitle>
+                           <container id="655da00c-9278-4b96-b213-f6c1751faef3" type="box">3</container><container parent="655da00c-9278-4b96-b213-f6c1751faef3" type="folder">1</container>
+                        </did>
+                        </c03>
+                     <c03>
+                        <did><unittitle>Miscellaneous 1972-1985?</unittitle>
+                           <container id="921fd920-d39a-4c18-b9f1-100cf12d37d9" type="box">3</container><container parent="921fd920-d39a-4c18-b9f1-100cf12d37d9" type="folder">2</container>
+                        </did>
+                     </c03>
+                     <c03>
+                        <did><unittitle>Project grant, 1984-1985</unittitle>
+                        <container id="92ba4867-e006-4526-bd28-0ad6ce9ce184" type="box">3</container><container parent="92ba4867-e006-4526-bd28-0ad6ce9ce184" type="folder">3</container></did>
+                     </c03>
+                     <c03>
+                        <did><unittitle>Project grant, 1986-1987?</unittitle>
+                           <container id="a72f8558-4072-40e3-a37b-9663dc34ce72" type="box">3</container><container parent="a72f8558-4072-40e3-a37b-9663dc34ce72" type="folder">4</container></did>
+                        
+                     </c03>
+                  </c02>
+         </c01>
+         <c01>
+         <did><unittitle>Series II : Southwest Parks and Monument Association (SPMA)</unittitle></did>
+            <arrangement><p>This series is arranged alphabetically and contains different committee documents, general SPMA correspondence, meeting minutes and agenda, research related materials and publication.
+               </p></arrangement>        
+         
+         <c02>
+            <did><unittitle>Subseries 1 : Committees</unittitle></did>
+            <c03>
+               <did><unittitle>Project grant, 1986-1987?</unittitle>
+                  <container id="2bcfca0a-dc06-492a-ab3b-baba85a9a0d8" type="box">3</container><container parent="2bcfca0a-dc06-492a-ab3b-baba85a9a0d8" type="folder">5</container></did>
+               
+            </c03>
+            <c03>
+               <did><unittitle>Columbus Quincentenary committee, Jan. 1989 – May 1989</unittitle>
+                  <container id="0a7d95a3-b3ae-479a-b372-fc0ba082406d" type="box">3</container><container parent="0a7d95a3-b3ae-479a-b372-fc0ba082406d" type="folder">6</container></did>
+               
+            </c03>
+            <c03>
+               <did><unittitle>Donation committee, 1981</unittitle>
+                  <container id="436ae9e0-ae97-449b-b493-230337681f9f" type="box">3</container><container parent="436ae9e0-ae97-449b-b493-230337681f9f" type="folder">7</container></did>
+               
+            </c03>
+            <c03>
+               <did><unittitle>Donation committee, 1982</unittitle>
+                  <container id="ccf9ecb2-80b4-4fd0-91a4-11f9d3fee827" type="box">3</container><container parent="ccf9ecb2-80b4-4fd0-91a4-11f9d3fee827" type="folder">8</container></did>
+               
+            </c03>
+            <c03>
+               <did><unittitle>Donation committee, 1983</unittitle>
+                  <container id="efe404b4-c3ab-4feb-914d-28d260f5e414" type="box">3</container><container parent="efe404b4-c3ab-4feb-914d-28d260f5e414" type="folder">9</container></did>
+               
+            </c03>
+            <c03>
+               <did><unittitle>Donation committee, 1984</unittitle>
+                  <container id="72393d2e-928d-4e67-8bf5-eccfc362696d" type="box">3</container><container parent="72393d2e-928d-4e67-8bf5-eccfc362696d" type="folder">10</container></did>
+               
+            </c03>
+            <c03>
+               <did><unittitle>Donation committee, 1985</unittitle>
+                  <container id="bfd31ba1-bc13-479e-8736-be0bf4872409" type="box">3</container><container parent="bfd31ba1-bc13-479e-8736-be0bf4872409" type="folder">11</container></did>
+               
+            </c03>
+            <c03>
+               <did><unittitle>Donation committee, 1986-1989</unittitle>
+                  <container id="53faa695-482f-44ff-af5a-d04a8f5e9202" type="box">3</container><container parent="53faa695-482f-44ff-af5a-d04a8f5e9202" type="folder">12</container></did>
+               
+            </c03>
+            <c03>
+               <did><unittitle>SPMA: history and bylaw, 1979, 1984-1988</unittitle>
+                  <container id="4db05600-409b-4ef3-af6f-ad9c49e5ed7e" type="box">3</container><container parent="4db05600-409b-4ef3-af6f-ad9c49e5ed7e" type="folder">13</container></did>
+               
+            </c03>
+            </c02>
+            <c02>
+               <did><unittitle>Subseries 2 : Cooperating Association</unittitle></did>
+               <c03>
+                  <did><unittitle>National Park Service, 1968-1988</unittitle>
+                     <container id="7ae25598-a0ff-4d93-8438-24cdf18b498e" type="box">3</container><container parent="7ae25598-a0ff-4d93-8438-24cdf18b498e" type="folder">14</container></did>
+                  
+               </c03>
+            </c02>  
+            <c02>
+               <did><unittitle>Subseries 3 : Correspondences</unittitle></did>
+               <c03>
+                  <did><unittitle>General, 1969-1989</unittitle>
+                     <container id="7f791d68-97ed-41f9-9982-a1d52e82b70c" type="box">3</container><container parent="7f791d68-97ed-41f9-9982-a1d52e82b70c" type="folder">15</container></did>
+                  
+               </c03>
+               <c03>
+                  <did><unittitle>Avalon McNew file, 1983</unittitle>
+                     <container id="77572974-592a-4e45-8a52-cfd5d80ddb68" type="box">3</container><container parent="77572974-592a-4e45-8a52-cfd5d80ddb68" type="folder">16</container></did>
+                  
+               </c03>
+            </c02>
+            <c02>
+               <did><unittitle>Subseries 4 : Financial</unittitle></did>
+               <c03>
+                  <did><unittitle>1967-1986</unittitle>
+                     <container id="389b3721-7680-4912-8f79-c3c6a5d6cab7" type="box">4</container><container parent="389b3721-7680-4912-8f79-c3c6a5d6cab7" type="folder">1</container>
+                  </did> 
+               </c03>   
+               <c03>
+                  <did><unittitle>1987-1989</unittitle>
+                     <container id="1b2cc97d-f45d-467c-8d7a-c969e0b23cea" type="box">4</container><container parent="1b2cc97d-f45d-467c-8d7a-c969e0b23cea" type="folder">2</container>
+                  </did> 
+               </c03> 
+            </c02>
+            <c02>
+               <did><unittitle>Subseries 5 : Meeting minutes and agenda</unittitle></did>
+               <c03>
+                  <did><unittitle>1975-1979</unittitle>
+                     
+                     <container id="2886519e-0565-49a5-856a-1b01397011f0" type="box">4</container><container parent="2886519e-0565-49a5-856a-1b01397011f0" type="folder">3</container>
+                  </did> 
+               </c03>   
+            </c02>
+            <c02>
+               <did><unittitle>Subseries 6 : Publications</unittitle></did>
+               <c03>
+                  <did><unittitle>1979-1988</unittitle>
+                     <container id="d6d25fae-c828-422e-9f9d-fcbc06d873ad" type="box">4</container><container parent="d6d25fae-c828-422e-9f9d-fcbc06d873ad" type="folder">4</container>
+                  </did> 
+               </c03>    
+               <c03>
+                  <did><unittitle>1989</unittitle>
+                     <container id="f325edb0-076d-4e45-936b-9c1a1a781601" type="box">4</container><container parent="f325edb0-076d-4e45-936b-9c1a1a781601" type="folder">5</container>
+                  </did> 
+               </c03>     
+               <c03>
+                  <did><unittitle>Correspondence, 1980-1983</unittitle>
+                     <container id="4229e364-8dd8-4264-a3c9-34146983adc9" type="box">4</container><container parent="4229e364-8dd8-4264-a3c9-34146983adc9" type="folder">6</container>
+                  </did> 
+               </c03>     
+               <c03>
+                  <did><unittitle>Correspondence, 1984-1985</unittitle>
+                     <container id="81f9f894-49fd-4350-b35c-a8226abbebbf" type="box">4</container><container parent="81f9f894-49fd-4350-b35c-a8226abbebbf" type="folder">7</container>
+                  </did> 
+               </c03>      
+               <c03>
+                  <did><unittitle>Correspondence, 1986-1987</unittitle>
+                     <container id="f226a9a7-726c-48cc-a683-d611800e54b3" type="box">4</container><container parent="f226a9a7-726c-48cc-a683-d611800e54b3" type="folder">8</container>
+                  </did> 
+               </c03>     
+               <c03>
+                  <did><unittitle>Correspondence, 1988</unittitle>
+                     <container id="0727c168-d10a-4a46-9b5d-93b26606a5b3" type="box">4</container><container parent="0727c168-d10a-4a46-9b5d-93b26606a5b3" type="folder">9</container>
+                  </did> 
+               </c03>     
+               <c03>
+                  <did><unittitle>Correspondence, 1989</unittitle>
+                     <container id="9a5f8251-d573-4687-81df-209c1fe23b77" type="box">4</container><container parent="9a5f8251-d573-4687-81df-209c1fe23b77" type="folder">10</container>
+                  </did> 
+               </c03>                  
+               <c03>
+                  <did><unittitle>Request to publish, 1987-1989</unittitle>
+                     <container id="67f21b15-6a49-4ae7-b09f-5f78fee83e6a" type="box">4</container><container parent="67f21b15-6a49-4ae7-b09f-5f78fee83e6a" type="folder">11</container>
+                  </did> 
+               </c03>  
+               <c03>
+                  <did><unittitle>Research, 1985-1988</unittitle>
+                     <container id="acae3208-df39-45cb-8409-88bcca04b969" type="box">4</container><container parent="acae3208-df39-45cb-8409-88bcca04b969" type="folder">12</container>
+                  </did> 
+               </c03>  
+               <c03>
+                  <did><unittitle>Sand dunes, 1981-1994</unittitle>
+                     <container id="db1a296e-f373-48b3-8e1c-d4c815456abe" type="box">4</container><container parent="db1a296e-f373-48b3-8e1c-d4c815456abe" type="folder">13</container>
+                  </did> 
+               </c03>  
+            </c02>  
+         </c01>
+      
+      </dsc>
+   </archdesc>
+</ead>

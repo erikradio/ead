@@ -1,0 +1,402 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid encodinganalog="852">UAMS552</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title">Las Posadas Collection,
+	 		<date calendar="gregorian" certainty="approximate" era="ce" normal="1943/2007" type="inclusive">1943-2007</date>
+	 		<date normal="1981/2007" type="bulk">(bulk 1981-2007)</date></titleproper>
+	 	<titleproper altrender="nodisplay" type="filing">Las Posadas Collection,
+	 		</titleproper>
+	 	<author>Processed by Abigail Lopez.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		</address> 
+		<date calendar="gregorian" era="ce" normal="2015">2015</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Abigail Lopez. 
+  		<date encodinganalog="date" era="ce" normal="20151026">10/26/2015</date></creation>
+	 <langusage>Finding aid is in<language langcode="eng"> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+
+<revisiondesc><change><date normal="2017-06-23">2017-06-23</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+
+	<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name">Las Posadas Collection,
+  		<unitdate label="Dates" normal="1943/2007" type="inclusive">1943-2007</unitdate>
+  		<unitdate label="Dates" normal="1981/2007" type="bulk">(bulk 1981-2007)</unitdate> 
+  	</unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 552</unitid>
+	 <origination label="Creator"> 
+	 	<corpname encodinganalog="110" source="lcnaf">La Pilita Museum</corpname> </origination>
+  	<abstract label="Abstract">Las Posadas collection contains material relating to Tucson, Arizona’s Carrillo Elementary School’s long tradition of re-enacting Mary and Joseph’s pilgrimage from Nazareth to Bethlehem in a procession seeking shelter or <emph render="doublequote">posada.</emph>  This event was based on an old Mexican yuletide custom that was first adopted by Miss Marguerite Collier in 1937 to build students’ pride in their Hispanic heritage, and has since then become an annual celebration for all its students and the community. </abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description"><extent>2 Linear feet.</extent></physdesc>	 
+	 <repository label="Repository"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		</address></repository>
+  	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>None.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Las Posadas Collection (MS 552). Special
+  		Collections, University of Arizona Libraries.</p>
+  </prefercite> 
+  <processinfo>
+  	<head>Processing History</head>
+  	<p>Processed by Abigail Lopez.</p>
+  </processinfo>
+  <bioghist encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p><emph render="doublequote">Las Posadas</emph> is a cultural tradition influenced by Christianity.  It is a re-enactment of Mary and Joseph’s pilgrimage from Nazareth to Bethlehem, where Christ was born. This religious tradition based on the New Testament began in Spain, and was adopted in Mexico in the mid to late 1500’s by friars who looked to strengthen Christian beliefs and attract converts within the Aztecs. The original procession took nine days, each day representing a month of Mary’s pregnancy with Jesus, and began nine days before Christmas.</p><p>In 1937, Miss Marguerite Collier, a teacher at Carrillo Elementary School initiated the enactment of “Las Posadas” as a way to build pride amongst her Hispanic students. It has since then been her legacy to the school and the community, as the procession of costumed children singing Nativity songs has continued for over 75 years. Despite its controversial religious nature, the school has been able to continue the celebration making it an after school activity and not using school district funding. Important community collaboration has been incorporated throughout the years and has gained sponsorship from organizations such as the Tucson Festival Society and the DeGrazia Art &amp; Cultural Foundation.  </p><p>Throughout the years the procession has been held in the evenings in the historic Barrio El Hoyo where the school is located, and has included dramatization, caroling, and food, all organized by the school’s staff, students and community collaborators. The enactment consists of students dressing up as Mexican farmers and winged angels, and walking door-to-door asking for shelter or <emph render="doublequote">posada,</emph> while carrying candles and a Nativity scene. The children sing traditional carols, usually in Spanish, down the streets, which are blocked off. Community members are encouraged to join in since it is a free public event.</p> 
+  </bioghist> 
+  <arrangement encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is in chronological order.</p>	 
+  	
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>The collection (1943-2007, bulk 1981-2007), contains materials documenting the history of Carrillo Elementary School’s Las Posadas procession in Tucson, Arizona.  It includes childrens’ artwork and writing, invitations, programs, event history, correspondence, photographs, publications, newspaper clippings related to the event, music books, song lyrics, class lists of participating students, colored slides and CD’s of Carrillo children performances, and a custom designed event t-shirt.</p> 
+  </scopecontent> 
+	
+  	<controlaccess>
+  		<persname>Collier, Marguerite .</persname><corpname>Carrillo Intermediate Magnet School (Tucson, Ariz.).</corpname><subject>Carrillo Intermediate Magnet School (Tucson, Ariz.).</subject><subject>Posadas (Social custom).</subject><geogname>Tucson (Ariz.).</geogname></controlaccess>
+  
+<dsc type="combined"> 
+	 <head>Container List</head> 
+	 
+		<c01 level="file"> 
+			<did> 
+				<container id="63b98cee-8f55-453f-9314-7319a93632d7" type="box">1</container> 
+				<container parent="63b98cee-8f55-453f-9314-7319a93632d7" type="folder">1</container> 
+				<unittitle>Las Posadas,</unittitle>
+				<unitdate>1942-1943, 1955, 1958</unitdate>
+		  </did> 
+		</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="4e6bb8c8-c50c-4305-b601-6cfeb93f6e4c" type="box">1</container> 
+			<container parent="4e6bb8c8-c50c-4305-b601-6cfeb93f6e4c" type="folder">2</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1960-1969</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="69b1a8bf-0382-4e17-9370-0c3e26d68bd3" type="box">1</container> 
+			<container parent="69b1a8bf-0382-4e17-9370-0c3e26d68bd3" type="folder">3</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1960-1969</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="0b4f9458-ea18-41f9-848f-d0bf7f0ab2f0" type="box">1</container> 
+			<container parent="0b4f9458-ea18-41f9-848f-d0bf7f0ab2f0" type="folder">4</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1970-1980</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="3aaaf679-e9ea-4dab-bedc-343dce5ec22e" type="box">1</container> 
+			<container parent="3aaaf679-e9ea-4dab-bedc-343dce5ec22e" type="folder">5</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1981</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="7f632da3-0259-4f8f-a87b-6f56bae60f8d" type="box">1</container> 
+			<container parent="7f632da3-0259-4f8f-a87b-6f56bae60f8d" type="folder">6</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1982</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="0b8b47f7-de66-4ec8-a66c-dbbf50c63da8" type="box">1</container> 
+			<container parent="0b8b47f7-de66-4ec8-a66c-dbbf50c63da8" type="folder">7</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1983</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="83233826-4e2e-4c33-9dfd-b631b07f0c3d" type="box">1</container> 
+			<container parent="83233826-4e2e-4c33-9dfd-b631b07f0c3d" type="folder">8</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1983</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="eae4e73a-04ce-4ce1-8d08-fdfe0bf24ad2" type="box">1</container> 
+			<container parent="eae4e73a-04ce-4ce1-8d08-fdfe0bf24ad2" type="folder">9</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1984</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="d9aa4a18-ef2e-4121-accc-8c3c60198717" type="box">1</container> 
+			<container parent="d9aa4a18-ef2e-4121-accc-8c3c60198717" type="folder">10</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1985</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="8bd4c9d0-2770-4cac-972c-d823cc9114ab" type="box">1</container> 
+			<container parent="8bd4c9d0-2770-4cac-972c-d823cc9114ab" type="folder">11</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1986</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="7c5db142-bde1-489b-be0e-f5472b074104" type="box">1</container> 
+			<container parent="7c5db142-bde1-489b-be0e-f5472b074104" type="folder">12</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1987</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="4a768d68-2077-4be5-a614-c64e8ae08c47" type="box">1</container> 
+			<container parent="4a768d68-2077-4be5-a614-c64e8ae08c47" type="folder">13</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1987</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="ccaf547b-ed41-4442-897e-6e017745c3b3" type="box">1</container> 
+			<container parent="ccaf547b-ed41-4442-897e-6e017745c3b3" type="folder">14</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1987</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="ceb79ad8-bcbd-4651-875f-8bb17fde384d" type="box">1</container> 
+			<container parent="ceb79ad8-bcbd-4651-875f-8bb17fde384d" type="folder">15</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1988</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="56c38cb5-7ea2-4751-9bd5-b0fe6f419a01" type="box">1</container> 
+			<container parent="56c38cb5-7ea2-4751-9bd5-b0fe6f419a01" type="folder">16</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1989</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="f7e98229-a280-4ef1-acbb-be015e078479" type="box">1</container> 
+			<container parent="f7e98229-a280-4ef1-acbb-be015e078479" type="folder">17</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1990</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="63176b71-e723-4b54-8614-a9369c115114" type="box">1</container> 
+			<container parent="63176b71-e723-4b54-8614-a9369c115114" type="folder">18</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1990</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="c7729e60-4491-4b4f-80b2-818f1676cdbd" type="box">1</container> 
+			<container parent="c7729e60-4491-4b4f-80b2-818f1676cdbd" type="folder">19</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1991</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="b4e92afe-e989-4425-ba32-e0137f702ea9" type="box">1</container> 
+			<container parent="b4e92afe-e989-4425-ba32-e0137f702ea9" type="folder">20</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1992</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="5aaf7b91-da7a-49d1-b425-e46a6342feff" type="box">1</container> 
+			<container parent="5aaf7b91-da7a-49d1-b425-e46a6342feff" type="folder">21</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1993</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="997fb19c-bfcd-4e7e-b9dd-2145f75131d4" type="box">1</container> 
+			<container parent="997fb19c-bfcd-4e7e-b9dd-2145f75131d4" type="folder">22</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1994</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="35814758-67bb-401f-bc34-501761bce9e4" type="box">2</container> 
+			<container parent="35814758-67bb-401f-bc34-501761bce9e4" type="folder">1</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1995</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="496489d1-89c6-4f42-8952-f0ed345b3771" type="box">2</container> 
+			<container parent="496489d1-89c6-4f42-8952-f0ed345b3771" type="folder">2</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1996</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="9ac66a1d-c245-4c97-a5ce-8fa4f54bed62" type="box">2</container> 
+			<container parent="9ac66a1d-c245-4c97-a5ce-8fa4f54bed62" type="folder">3</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1996</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="c8557f3d-eef9-4c3c-97df-bc16620cf695" type="box">2</container> 
+			<container parent="c8557f3d-eef9-4c3c-97df-bc16620cf695" type="folder">4</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1997</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="723474cd-5f76-4cba-8540-19c3fd63e70d" type="box">2</container> 
+			<container parent="723474cd-5f76-4cba-8540-19c3fd63e70d" type="folder">5</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1998</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="8eac83ab-5528-4660-99c3-cf77a87cf4b8" type="box">2</container> 
+			<container parent="8eac83ab-5528-4660-99c3-cf77a87cf4b8" type="folder">6</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>1999</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="e96f01b5-5ceb-4cdb-b15b-2d87d8467f6c" type="box">2</container> 
+			<container parent="e96f01b5-5ceb-4cdb-b15b-2d87d8467f6c" type="folder">7</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>2000</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="62b65531-e235-43b3-b296-b0eb98d3facc" type="box">2</container> 
+			<container parent="62b65531-e235-43b3-b296-b0eb98d3facc" type="folder">8</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>2000</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="74c6614f-ff79-4324-8aeb-aff84f6ba659" type="box">2</container> 
+			<container parent="74c6614f-ff79-4324-8aeb-aff84f6ba659" type="folder">9</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>2001</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="6542f280-ff4f-4c6f-8f94-9513df3a3f65" type="box">2</container> 
+			<container parent="6542f280-ff4f-4c6f-8f94-9513df3a3f65" type="folder">10</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>2002</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="01ba0f3b-ce82-4a64-b31b-dbfbbd00287a" type="box">2</container> 
+			<container parent="01ba0f3b-ce82-4a64-b31b-dbfbbd00287a" type="folder">11</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>2003</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="f9f6c308-131d-4775-a2e5-d2f53f3607f3" type="box">2</container> 
+			<container parent="f9f6c308-131d-4775-a2e5-d2f53f3607f3" type="folder">12</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>2004</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="fefa53b4-f8ec-412b-b028-0bc82ab29c7f" type="box">2</container> 
+			<container parent="fefa53b4-f8ec-412b-b028-0bc82ab29c7f" type="folder">13</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>2005-2007</unitdate>
+		</did> 
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container id="9b5ce9d2-9ab9-489a-9bdc-7e12fac9d4a9" type="box">2</container> 
+			<container parent="9b5ce9d2-9ab9-489a-9bdc-7e12fac9d4a9" type="folder">14</container> 
+			<unittitle>Las Posadas,</unittitle>
+			<unitdate>Undated</unitdate>
+		</did> 
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container id="44046f1e-7c85-4eb2-bfbe-a524b090dde2" type="box">2</container> 
+			<container parent="44046f1e-7c85-4eb2-bfbe-a524b090dde2" type="folder">15</container> 
+			<unittitle>Published Song Books,</unittitle>
+			<unitdate>1950-1973</unitdate>
+		</did> 
+	</c01> 
+  </dsc> 
+</archdesc></ead>

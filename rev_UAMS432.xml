@@ -1,0 +1,1410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+		<eadid encodinganalog="852">UAMS432</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper> Papers of Charles Reznikoff <date calendar="gregorian" era="ce"
+						normal="1916/1979">1916-1979</date></titleproper>
+				<author>Processed by Staff.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>University of Arizona Libraries, Special Collections</publisher>
+				<address>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>http://speccoll.library.arizona.edu/</addressline>
+				</address>
+				<date calendar="gregorian" era="ce" normal="2012">2013</date>
+				<p>Arizona Board of Regents. All Rights Reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. <date
+					calendar="gregorian" encodinganalog="date" era="ce" normal="20120504">May 4,
+					2013</date>
+			</creation>
+			<langusage>Finding aid is in<language langcode="eng"> English.</language></langusage>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date normal="2017-06-22">2017-06-22</date>
+				<item>This finding aid was updated in alignment with LC EAD 2.0 specifications using
+					a python script created by Erik Radio.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<titleproper>Papers of Charles Reznikoff,<date calendar="gregorian" era="ce"
+					>1916-1979</date></titleproper>
+			<num>Collection Number: MS 232</num>
+			<publisher>University of Arizona Libraries, Special Collections</publisher>
+			<list>
+				<defitem>
+					<label>Processed by:</label>
+					<item>Staff</item>
+				</defitem>
+				<defitem>
+					<label>Date completed:</label>
+					<item>
+						<date>1993</date></item>
+				</defitem>
+				<defitem>
+					<label>Encoded by:</label>
+					<item>Deobrah Weller</item>
+				</defitem>
+			</list>
+			<p>© 20013. Arizona Board of Regents. All rights reserved.</p>
+		</titlepage>
+	</frontmatter>
+	<archdesc encodinganalog="351$c" level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle encodinganalog="245" label="Collection Name">Papers of Charles Reznikoff,
+					<unitdate label="Dates" normal="1916/1979" type="inclusive"
+				>1916-1979</unitdate></unittitle>
+			<unitid countrycode="US" encodinganalog="099" label="Collection Number"
+				repositorycode="US-azu">MS 232</unitid>
+			<origination label="Creator">
+				<persname encodinganalog="100" source="lcnaf">Reznikoff, Charles</persname>
+			</origination>
+			<abstract label="Abstract"> The Charles Reznikoff papers is comprised of his
+				correspondence, manuscripts, poetry, plays, prose, biographical material, and copies
+				of his works and translations. </abstract>
+			<physdesc encodinganalog="300$a" label="Physical Description"><extent>3.75 linear
+					feet</extent></physdesc>
+			<repository label="Repository">
+				<corpname>University of Arizona Libraries, Special Collections</corpname>
+				<address>
+					<addressline>University of Arizona</addressline>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL: http://www.library.arizona.edu/speccoll</addressline>
+				</address></repository>
+		</did>
+		<accessrestrict>
+			<head>Restrictions</head>
+			<p>There are no restrictions on this collection.</p>
+		</accessrestrict>
+		<userestrict>
+			<head>Copyright</head>
+			<p>It is the responsibility of the user to obtain permission to publish from the owner
+				of the copyright (the institution, the creator of the record, the author or his/her
+				transferees, heirs, legates, or literary executors). The user agrees to indemnify
+				and hold harmless the Arizona Board of Regents for the University of Arizona, its
+				officers, employees, and agents from and against all claims made by any person
+				asserting that he or she is an owner of copyright.</p>
+		</userestrict>
+		<prefercite>
+			<head>Credit Line</head>
+			<p>Papers of Charles Reznikoff (MS 232). Special Collections, University of Arizona
+				Libraries.</p>
+		</prefercite>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Charles Reznikoff was an American poet, author, and founder of the Objectivist School
+				of Poetry. He was born on August 31, 1894, in Brooklyn, New York. His parents were
+				Russian Jewish immigrants who had fled Russia after the assassination of Alexander
+				II.</p>
+			<p>At the age of sixteen he spent a year studying journalism at Missouri State
+				University; in 1912 he entered the law School of New York University and graduated
+				in 1916. He practiced law briefly and entered officer training school in 1918 during
+				World War I but never saw active duty.</p>
+			<p>Reznikoff worked for a time for his family's business as a hat salesman. He then
+				worked for a legal publishing house where he wrote summaries of court records for
+				legal reference books. In 1918, he privately published his 1st book of poetry,
+					<title render="italic">Rhythms</title>.</p>
+			<p>From his teens, Reznikoff had been writing poetry, much of it influenced by the
+				Imagists, and publishing it using a second-hand press, for which he set the type
+				himself. Throughout his writing life, Reznikoff was always concerned to ensure that
+				his work was published, even at his own expense.</p>
+			<p>In the 1930s, he gained recognition as one of the principal proponents of
+				Objectivism. He helped to establish the Objectivist Press which published three of
+				his books including the Waters of Manhattan in 1930. Unfortunately most of his work
+				had little commercial success and the majority of his writings continued to be
+				self-published.</p>
+			<p>The most comprehensive edition of Reznikoff's work is <title render="italic">Poems
+					1918-1975: The Complete Poems of Charles Reznikoff</title>(Black Sparrow Press,
+				1989). His other books of poetry include; <title render="italic"
+				>Holocaust</title>(1975) and <title render="italic">Testimony</title>, which are his
+				most celebrated works, as well as <title render="italic">Going To and Fro and
+					Walking Up and Down</title>(1941), <title render="italic">Jerusalem the
+					Golden</title>(1934), <title render="italic">Poems</title> (1920), and <title
+					render="italic">Rhythms (1918)</title>.</p>
+			<p>In 1971, he was awarded the Morton Dauwen Zabel Prize by The National Institute of
+				Arts and Letters. Later that same year, he also found a new publisher, Black Sparrow
+				Press. In the years following his death Black Sparrow brought all his major poetry
+				and prose works back into print.</p>
+			<p>Apart from his brief venture in the south and a year spent as a Hollywood
+				screenwriter in the 1930, Reznikoff was a lifelong resident of New York City. He
+				died on January 22, 1976.</p>
+		</bioghist>
+
+		<arrangement encodinganalog="351$a">
+			<head>Arrangement</head>
+			<p>Five series</p>
+			<list>
+				<item>Series 1: Correspondence <unitdate>1916-1962</unitdate></item>
+			</list>
+			<list>
+				<item>Series 2: Books, <unitdate>1916-1962</unitdate></item>
+			</list>
+			<list>
+				<item>Series 3: Other published materials, <unitdate>1931-1964</unitdate></item>
+			</list>
+			<list>
+				<item>Series 4: Manuscripts, <unitdate>undated</unitdate></item>
+			</list>
+			<list>
+				<item>Series 5: Miscellaneous, <unitdate>1969-1979</unitdate></item>
+			</list>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The papers contain correspondence, manuscripts, poetry, plays, prose, biographical
+				material, and copies of his published works and translations. Published materials by
+				other authors are also present. Some are concerned with Jewish history and stories.
+				Others are poetry books, including ones by Allen Ginsberg, Alfred Kreymborg, and
+				Reznikoff's wife, Marie Syrkin. Articles, reviews, and one book are about Reznikoff
+				and his work; the book is titled <title render="italic">Charles Reznikoff: a
+					Critical Essay</title>, by Milton Hindus. The main correspondent is Albert
+				Lewin, a Hollywood agent and personal friend. The letters, from 1916 to 1945,
+				discuss their own work, as well as their opinions of other contemporary books and
+				plays.</p>
+		</scopecontent>
+		<controlaccess>
+			<persname>Reznikoff, Charles, 1894-1976--Archives.</persname>
+			<persname>Lewin, Albert, 1894--Correspondence.</persname>
+			<corpname> Black Sparrow Press.,</corpname>
+			<corpname>Objectivist Press</corpname>
+			<subject>Poets, American--20th century--Sources.</subject>
+			<subject>American literature--Jewish authors.</subject>
+			<subject>Jewish literature--United States.</subject>
+			<subject>Small press books--Specimens.</subject>
+		</controlaccess>
+		<dsc type="combined">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>Series I: Correspondence</unittitle>
+					<unitdate calendar="gregorian" era="ce" normal="1916/1962." type="inclusive"
+						>1916-1962</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container id="58677507-dc47-4d05-bd4b-693d42293025" type="box"
+							>1</container>
+						<container parent="58677507-dc47-4d05-bd4b-693d42293025" type="folder"
+							>1</container>
+						<unittitle>Correspondence, with outlines, notes, etc. CR and Albert Lewin.
+							One letter (10/22/16) from Paul Reznikoff to Albert Lewin (see also 6,
+							below).</unittitle>
+						<unitdate calendar="gregorian" era="ce" normal="1916/1924." type="inclusive"
+							>1916-1924</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ced4ffa9-87f9-464f-b45a-0043dac160c6" type="box"
+							>1</container>
+						<container parent="ced4ffa9-87f9-464f-b45a-0043dac160c6" type="folder"
+							>2</container>
+						<unittitle>Correspondence, etc.: CR and Albert Lewin,</unittitle>
+						<unitdate calendar="gregorian" era="ce" normal="1924/1934." type="inclusive"
+							>1916-1924</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="bd44b54f-0778-49a7-8b40-1a477f2f1415" type="box"
+							>1</container>
+						<container parent="bd44b54f-0778-49a7-8b40-1a477f2f1415" type="folder"
+							>3</container>
+						<unittitle>Correspondence, etc.: CR and Albert Lewin,</unittitle>
+						<unitdate calendar="gregorian" era="ce" normal="1934/1935." type="inclusive"
+							>1934-1935.</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ba9830af-1c55-4679-9108-c280a65bc0a2" type="box"
+							>1</container>
+						<container parent="ba9830af-1c55-4679-9108-c280a65bc0a2" type="folder"
+							>4</container>
+						<unittitle>Correspondence etc.: CR and Albert Lewin,</unittitle>
+						<unitdate calendar="gregorian" era="ce" normal="1936/1945." type="inclusive"
+							>1936-1945.</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b9d03ed4-0f8e-4b30-af44-c8ed587807bc" type="box"
+							>1</container>
+						<container parent="b9d03ed4-0f8e-4b30-af44-c8ed587807bc" type="folder"
+							>5</container>
+						<unittitle>Letters from CR to niece Camilla Resnikoff Wygan, </unittitle>
+						<unitdate calendar="gregorian" era="ce" normal="1958/1962." type="inclusive"
+							>1958/1962.</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1e49f8b2-e6cc-4cb5-92a4-63181c8168ca" type="box"
+							>1</container>
+						<container parent="1e49f8b2-e6cc-4cb5-92a4-63181c8168ca" type="folder"
+							>6</container>
+						<unittitle>Letters to publisher John Martin: by Cr, 1974; by Paul Reznikoff,
+							1978 (see also 1, above).</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series II: Books</unittitle>
+					<unitdate calendar="gregorian" era="ce" normal="1918/1977." type="inclusive"
+						>1918-1977</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container id="5963c7c9-357b-4281-bbfa-f42d1f6e5772" type="box"
+							>2</container>
+						<container parent="5963c7c9-357b-4281-bbfa-f42d1f6e5772" type="folder"
+							>1A</container>
+						<unittitle>RHYTHMS. Brooklyn, New York, privately printed,[1918] Stapled and
+							sewn into stiff paper covers. Ownership signature, Marie S[yrkin]
+							Resznikoff, on title-page. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="34f4b20d-8ac4-4f22-9ac5-0d443a9826d6" type="box"
+							>2</container>
+						<container parent="34f4b20d-8ac4-4f22-9ac5-0d443a9826d6" type="folder"
+							>1B</container>
+						<unittitle>Rhythms II. Brooklyn, New York, privately printed, [1919].
+							Stapled without wrappers. Ownership signature, Marie S. Reznikoff,on
+							title-page/cover.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6b46eb57-e725-4a6f-a2ca-10fde086d7d2" type="box"
+							>2</container>
+						<container parent="6b46eb57-e725-4a6f-a2ca-10fde086d7d2" type="folder"
+							>2A</container>
+						<unittitle>POEMS. New York, Samuel Roth, [1920]. Paper-covered boards. An
+							edition of 250 copies. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7d5c7ad8-8b5f-4eb7-b239-b78d62fa73b1" type="box"
+							>2</container>
+						<container parent="7d5c7ad8-8b5f-4eb7-b239-b78d62fa73b1" type="folder"
+							>2B</container>
+						<unittitle> URIEL ACOSTA: A Play and A FOURTH GROUP OF VERSE. New York,
+							privately printed, [1921]. Covered-paper boards. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="332037aa-a578-4dfa-98e0-14e6d112e196" type="box"
+							>2</container>
+						<container parent="332037aa-a578-4dfa-98e0-14e6d112e196" type="folder"
+							>3A</container>
+						<unittitle> CHATTERTON, THE BLACK DEATH, AND MERIWETHER LEWIS, THREE PLAYS.
+							[New York] privately printed. [1922]. Paper-covered boards. Inscribed to
+							his publisher, John Martin on cover.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f0cd5aa7-b1c8-470a-894d-430881c40c72" type="box"
+							>2</container>
+						<container parent="f0cd5aa7-b1c8-470a-894d-430881c40c72" type="folder"
+							>3B</container>
+						<unittitle>CORAL and CAPTIVE ISRAEL: TWO PLAYS. [New York], privately
+							printed. [1923]. Stapled into stiff paper covers. Inscribed to his
+							publisher on the cover.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9e37de73-735a-467d-bffc-b5615052ab20" type="box"
+							>2</container>
+						<container parent="9e37de73-735a-467d-bffc-b5615052ab20" type="folder"
+							>4</container>
+						<unittitle>NINE PLAYS. New York, Charles Reznikoff, [1927] Contents: URIEL
+							ACOSTA ABRAM IN EGYPT CHATTERTON MERIWETHER LEWIS CAPTIVE ISRAEL THE
+							BLACK DEATH CORAL RASHI GENESIS Hardbound, with dust wrapper. Type set
+							by CR. 257/400. Inscribed to his publisher on second preliminary page.
+							[p. iii].</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ed93dad6-6c99-478f-8eb4-ef16d5dab3de" type="box"
+							>2</container>
+						<container parent="ed93dad6-6c99-478f-8eb4-ef16d5dab3de" type="folder"
+							>5</container>
+						<unittitle>FIVE GROUPS OF VERSE. New York, Charles Reznikoff, [1927].
+							Hardbound with dust wrapper; in slipcase. Type set by CR. 183/375. (Has
+							enclosures; see 6, below.)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ee2af100-a461-4209-9d11-ea740c4fe717" type="box"
+							>2</container>
+						<container parent="ee2af100-a461-4209-9d11-ea740c4fe717" type="folder"
+							>6</container>
+						<unittitle> Enclosures for 5, above various notes (for reading(s)?), laid
+							inside front cover.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c503e710-df8d-4b76-96dd-a80fc0f41164" type="box"
+							>2</container>
+						<container parent="c503e710-df8d-4b76-96dd-a80fc0f41164" type="folder"
+							>7</container>
+						<unittitle> BY THE WATERS OF MANHATTAN: An Annual. New York, Charles
+							Reznikoff, [1929]. Contents: BY THE WATERS OF MANHTIAN, by CR.
+							AUTOBIOGRAPHY, by Sarah Reznikoff. Editing and glosses by CR. Hardbound,
+							with dust wrapper, 198/200. Inscribed to his publisher on front free
+							endpaper. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6550ffff-4c16-4bfd-8756-52670200441c" type="box"
+							>2</container>
+						<container parent="6550ffff-4c16-4bfd-8756-52670200441c" type="folder"
+							>8</container>
+						<unittitle> BY THE WATERS OF MAHATTAN. With an introduction by Louis
+							Untermeter. New York, Albert and Charles Boni, 1939. Hardbound, with
+							tissue paper.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8fa39050-8f4a-448c-857f-7e9b334da425" type="box"
+							>2</container>
+						<container parent="8fa39050-8f4a-448c-857f-7e9b334da425" type="folder"
+							>9A</container>
+						<unittitle> BY THE WATERS OF MAHATTAN, with an introduction by Louis
+							Untermeter. New York, Albert and Charles Boni,1939. Paperback. Inscribed
+							to poet Gerard Malanga on half-title.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0570af61-23ca-4563-b5e7-8398b4b14036" type="box"
+							>2</container>
+						<container parent="0570af61-23ca-4563-b5e7-8398b4b14036" type="folder"
+							>9B</container>
+						<unittitle>JERUSALEM THE GODLEN. New York, The Objectivist Press, [1934].
+							Hardbound with dust wrapper. Inscribed to his publisher on front free
+							endpaper.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2a34f854-f5e7-4ed6-99ae-8f41c756ca71" type="box"
+							>2</container>
+						<container parent="2a34f854-f5e7-4ed6-99ae-8f41c756ca71" type="folder"
+							>10A</container>
+						<unittitle>IN MEMORIUM: 1933. New York, The Objective Press, [1934].
+							Hardbound with dust wrapper. Inscribed to his publisher on free end
+							paper.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a8c257dd-d1d9-475a-aaae-cdfed7415cdf" type="box"
+							>2</container>
+						<container parent="a8c257dd-d1d9-475a-aaae-cdfed7415cdf" type="folder"
+							>10B</container>
+						<unittitle>TESTIMONY, with an introduction by Kenneth Burke. New York, The
+							Objectivist Press, [1934]. Hardbound with dust wrapper. Inscribed to his
+							publisher on front free endpaper.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0657adf9-6a7e-4da0-bab6-cb6b74e39dc8" type="box"
+							>3</container>
+						<container parent="0657adf9-6a7e-4da0-bab6-cb6b74e39dc8" type="folder"
+							>1A</container>
+						<unittitle>TESTIMONY : THE UNITED STATES 1885-1890 Recitative, [New York].
+							New Directions-San Francisco Review, [1965] Paperbound page proof
+							(advance reading copy). (Has enclosures; see 2, below.)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9e0858c6-6815-42eb-a2ca-05e23a8e28d4" type="box"
+							>3</container>
+						<container parent="9e0858c6-6815-42eb-a2ca-05e23a8e28d4" type="folder"
+							>1B</container>
+						<unittitle>Hardbound, with dust wrapper. Inscribed to his publisher on
+							half-title.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0d5da2d9-3b31-474d-9c82-cd155510acfd" type="box"
+							>3</container>
+						<container parent="0d5da2d9-3b31-474d-9c82-cd155510acfd" type="folder"
+							>2</container>
+						<unittitle>Enclosures for 1A. above: lists of poems, laid inside front
+							cover. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7bcf3627-3cf1-4170-bc76-7b8b906f3807" type="box"
+							>3</container>
+						<container parent="7bcf3627-3cf1-4170-bc76-7b8b906f3807" type="folder"
+							>3A</container>
+						<unittitle>Testimony: The United States (1891-1900) Recitative. New York.
+							Privately printed 1968. Paperback. Signed on cover. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8e7c897d-c0ed-4313-ba60-65849dbbe6f3" type="box"
+							>3</container>
+						<container parent="8e7c897d-c0ed-4313-ba60-65849dbbe6f3" type="folder"
+							>3B</container>
+						<unittitle>Testimony: The United States (1891-1900) Recitative. New York.
+							Privately printed 1968. Paperback. Heavily revised by CR. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="88b5a2af-4dfb-422d-b3b8-5dcf4fa8e56c" type="box"
+							>3</container>
+						<container parent="88b5a2af-4dfb-422d-b3b8-5dcf4fa8e56c" type="folder"
+							>4</container>
+						<unittitle>Testimony: Volume I: The United States (1885-1915) Recitative.
+							Santa Barbara, Black Sparrow Press, 1978. Paperback.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a069ae7f-68a7-4241-aa24-2537fa935f29" type="box"
+							>3</container>
+						<container parent="a069ae7f-68a7-4241-aa24-2537fa935f29" type="folder"
+							>5</container>
+						<unittitle> Testimony: The United States (1891-1900) Recitative. New York.
+							Privately printed 1968. Hardbound trade edition. One of 750
+							copies.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5d52ac76-a08a-4ce9-a627-72fac1942262" type="box"
+							>3</container>
+						<container parent="5d52ac76-a08a-4ce9-a627-72fac1942262" type="folder"
+							>6</container>
+						<unittitle>Testimony: Volume I: The United States (1885-1915) Recitative.
+							Santa Barbara, Black Sparrow Press, 1978. Hardbound with rage of
+							manuscript typed in. 1/100. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fc853253-4e43-45fc-862a-413a89a2473d" type="box"
+							>3</container>
+						<container parent="fc853253-4e43-45fc-862a-413a89a2473d" type="folder"
+							>7</container>
+						<unittitle>Testimony: Volume II: The United States (1885-1915) Recitative
+							Santa Barbara, Black Sparrow Press, 1979. Paperback.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="06328e99-05b4-4c69-b1f5-46a942354b79" type="box"
+							>3</container>
+						<container parent="06328e99-05b4-4c69-b1f5-46a942354b79" type="folder"
+							>8</container>
+						<unittitle>Testimony: Volume II: The United States (1885-1915) Recitative,
+							Santa Barbara, Black Sparrow Press, 1979. Hardbound trade edition. One
+							of 750 copies.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="25c1f926-2819-4f69-9150-b2b15a937953" type="box"
+							>3</container>
+						<container parent="25c1f926-2819-4f69-9150-b2b15a937953" type="folder"
+							>9</container>
+						<unittitle>, Testimony: Volume II: The United States (1885-1915) Recitative
+							Santa Barbara, Black Sparrow Press, 1979. Hardbound with page of
+							manuscript tipped in. 1/100.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="529ae821-82d1-486c-9654-d311ede0a9f6" type="box"
+							>3</container>
+						<container parent="529ae821-82d1-486c-9654-d311ede0a9f6" type="folder"
+							>10</container>
+						<unittitle> Early History of a Swing-Machine Operator, by Nathan and Charles
+							Reznikoff. New York, Charles Reznikoff, [1936] Hardbound, with dust
+							wrappers. Inscribed to his publisher on front free end
+							paper.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d0ff49c0-fd9a-48fa-85ba-65db9cd0b915" type="box"
+							>4</container>
+						<container parent="d0ff49c0-fd9a-48fa-85ba-65db9cd0b915" type="folder"
+							>1A</container>
+						<unittitle>Separate Way. New York, The Objectivist Press [1936]. Hardbound,
+							with dust wrapper.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f2e49a1c-ff96-4def-8795-569d5d16ae9a" type="box"
+							>4</container>
+						<container parent="f2e49a1c-ff96-4def-8795-569d5d16ae9a" type="folder"
+							>1B</container>
+						<unittitle>Going to and Fro and Walking Up and Down. New York, privately
+							printed, [1941] Hardbound, with dust wrapper.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="97f4ae0f-aa5d-440a-83dc-c2184411ca7c" type="box"
+							>4</container>
+						<container parent="97f4ae0f-aa5d-440a-83dc-c2184411ca7c" type="folder"
+							>2</container>
+						<unittitle>The Lionhearted. Philadelphia, The Jewish Publication Society of
+							America, 1944. With a colored dust wrapper. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="243e793c-f7e4-436c-9167-b33171d45e66" type="box"
+							>4</container>
+						<container parent="243e793c-f7e4-436c-9167-b33171d45e66" type="folder"
+							>3</container>
+						<unittitle>The Lionhearted. Philadelphia, The Jewish Publication Society of
+							America, 1944. With tissue dust wrapper. (Has enclosures; see 4 below.)
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="548bfc57-d109-490d-a1e2-ea0e5729b054" type="box"
+							>4</container>
+						<container parent="548bfc57-d109-490d-a1e2-ea0e5729b054" type="folder"
+							>4</container>
+						<unittitle>The Lionhearted; 2 letters, 1977, from B.L. Levinson, of The
+							Jewish Publication Society of America, to John Martin laid inside front
+							cover.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="bd102eaa-5067-412a-b228-122ccff8546b" type="box"
+							>4</container>
+						<container parent="bd102eaa-5067-412a-b228-122ccff8546b" type="folder"
+							>5</container>
+						<unittitle>The Jews of Charleston: A History of an American Jewish
+							Community, by CR with the collaboration of Uriah Z. Engelman. The Jewish
+							Publication Society of America, 1950 With a colored dust
+							wrapper.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8a12f326-7c72-4247-a013-3bf56b020fb8" type="box"
+							>4</container>
+						<container parent="8a12f326-7c72-4247-a013-3bf56b020fb8" type="folder"
+							>6A</container>
+						<unittitle>Inscriptions: 1944-1956. New York, privately printed, 1959.
+							Hardbound. with colored wrappers.(Has enclosure see 7, below.)
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d3997b30-57de-415f-b641-7aa3902680b8" type="box"
+							>4</container>
+						<container parent="d3997b30-57de-415f-b641-7aa3902680b8" type="folder"
+							>6B</container>
+						<unittitle>Inscriptions: 1944-1956. With numerous revisions by CR. (Has
+							enclosure ; see 7, below.)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0fad6c94-42e4-419b-a474-c45d9d84c307" type="box"
+							>4</container>
+						<container parent="0fad6c94-42e4-419b-a474-c45d9d84c307" type="folder"
+							>7</container>
+						<unittitle>=Inscriptions: 1944-1956: part of a dust wrapper with 2 lines of
+							verse crossed out; for 6B a typed note, probably for reading; both laid
+							in as noted. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="03799a5c-fa98-4c84-9ab6-d64277373088" type="box"
+							>4</container>
+						<container parent="03799a5c-fa98-4c84-9ab6-d64277373088" type="folder"
+							>8A</container>
+						<unittitle>By the Waters of Manhattan: selected verse. Introduction by C.P.
+							Snow. [New York], New Directions –San Francisco Review, [1962].
+							Paperback. “Desk copy.” with one textual correction. An inscription on
+							half-title has been crossed out. (Has enclosure; see 9,
+							below.)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f6adc435-b8e4-4bcc-923d-339aa05c7dfd" type="box"
+							>4</container>
+						<container parent="f6adc435-b8e4-4bcc-923d-339aa05c7dfd" type="folder"
+							>8B</container>
+						<unittitle>By the Waters of Manhattan: selected verse. Introduction by C.P.
+							Snow. [New York], New Directions –San Francisco Review, [1962].
+							Paperback, Second printing. Inscribed to his publisher on
+							half-title.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a84c4585-dda5-40ed-a985-a1f3e5500aab" type="box"
+							>4</container>
+						<container parent="a84c4585-dda5-40ed-a985-a1f3e5500aab" type="folder"
+							>9</container>
+						<unittitle> By the Waters of Manhattan: selected verse. Introduction by C.P.
+							Snow. [New York], New Directions –San Francisco Review, [1962]; 6 notes
+							(for reading?) written on backs of personal checks from the Amalgamated
+							Bank of New York, laid in as noted. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b779428b-21a6-4b9e-aeda-e23fdc93a485" type="box"
+							>4</container>
+						<container parent="b779428b-21a6-4b9e-aeda-e23fdc93a485" type="folder"
+							>10</container>
+						<unittitle> Family chronicle: Early History of a Seamstress, by Sarah
+							Reznikoff. Early History y of a Sewing Machine Operator, by Nathan
+							Reznikoff. Needle Trade, by Charles Resnikoll New York Charles
+							Reznikoff, [1963]. Hardbound, with dust wrapper. Inscribed to his
+							publisher on front free end paper</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4b55b5bf-4294-44d1-8451-e32ab2c3ac9e" type="box"
+							>4</container>
+						<container parent="4b55b5bf-4294-44d1-8451-e32ab2c3ac9e" type="folder"
+							>11</container>
+						<unittitle>Early History of a Seamstress, by Sarah Reznikoff. [London,]
+							Norton Bailey [and Co. Ltd]. [1969] With a colored dust
+							wrapper.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ed11ef3b-4c86-4f7d-b43f-6840745280bf" type="box"
+							>5</container>
+						<container parent="ed11ef3b-4c86-4f7d-b43f-6840745280bf" type="folder"
+							>1</container>
+						<unittitle>Early History of a Seamstress, by Sarah Reznikoff.. Introduction
+							by Harry Golden. New York Universe Books , [1971]. With dust
+							wrapper.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="aff22c7c-e45a-4dcc-9cdf-f7b6f51bfe0f" type="box"
+							>5</container>
+						<container parent="aff22c7c-e45a-4dcc-9cdf-f7b6f51bfe0f" type="folder"
+							>2A</container>
+						<unittitle>By the Well of Living and Seeing and the Fifth book of the
+							Maccabees. New York, privately printed. 1969.Paperback. Signed on
+							wrapper.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e2ed1977-b9a9-45ff-b5a2-ea2cd242615d" type="box"
+							>5</container>
+						<container parent="e2ed1977-b9a9-45ff-b5a2-ea2cd242615d" type="folder"
+							>2B</container>
+						<unittitle>By the Well of Living and Seeing and the Fifth book of the
+							Maccabees. New York, privately printed. 1969.“Office Copy,“ edited by
+							CR.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c580c532-816b-448e-a4b0-dd0e95c7b8cc" type="box"
+							>5</container>
+						<unittitle>Books</unittitle>
+						<container parent="c580c532-816b-448e-a4b0-dd0e95c7b8cc" type="folder"
+							>3A</container>
+						<unittitle>By the Well of Living and Seeing: New and Selected Poems
+							1919-1973. Edited with an introduction by Seamus Cooney. Los Angeles,
+							Black Sparrow Press, 1974. Paperback. Unpublished 1st issue of 1st
+							edition, with incorrect date (1919) on cover and title-page. Red and
+							black title –rage. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4f84e3c5-d16f-444e-8da9-ce07837c7993" type="box"
+							>5</container>
+						<container parent="4f84e3c5-d16f-444e-8da9-ce07837c7993" type="folder"
+							>3B</container>
+						<unittitle>By the Well of Living and Seeing: New and selected poems
+							1918-1973. Edited with an introduction by Seamus Cooney , Santa Barbara,
+							Black Sparrow Press, 1976. Paperback. “2nd edition. Corrected. “ Black
+							title-page.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9118ac0f-9d71-40d4-a6e4-f1d37117ad2b" type="box"
+							>5</container>
+						<container parent="9118ac0f-9d71-40d4-a6e4-f1d37117ad2b" type="folder"
+							>4</container>
+						<unittitle>By the Well of Living and Seeing: New and selected poems
+							1918-1973. Edited with an introduction by Seamus Cooney. Los Angeles,
+							Black Sparrow Press, 1974. Hardbound in yellow half cloth. 2/250. 2nd
+							issue, 1st edition. Red and black title-page.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4ed777a3-a52f-4e9f-996c-7d3f5b0cc682" type="box"
+							>5</container>
+						<container parent="4ed777a3-a52f-4e9f-996c-7d3f5b0cc682" type="folder"
+							>5</container>
+						<unittitle>By the Well of Living and Seeing: New and selected poems
+							1918-1973. Edited with an introduction by Seamus Cooney. Santa Barbara,
+							Black Sparrow Press, 1976. Hardbound in pale yellow half cloth. “2nd
+							edition , corrected.” Black title-page.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b2d805b5-ed78-4807-8c0f-e8ced57d483c" type="box"
+							>5</container>
+						<container parent="b2d805b5-ed78-4807-8c0f-e8ced57d483c" type="folder"
+							>6</container>
+						<unittitle>By the Well of Living and Seeing: New and selected poems
+							1918-1973. Edited with an introduction by Seamus Cooney. Los Angeles,
+							Black Sparrow press, 1974. Hardbound. A/26. Signed on colophon. With
+							holograph poem bound in. 2nd issue, 1st edition.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="21cba397-04f6-4882-ab20-d8de95b7509b" type="box"
+							>5</container>
+						<container parent="21cba397-04f6-4882-ab20-d8de95b7509b" type="folder"
+							>7</container>
+						<unittitle>HOLOCAUST. Los Angeles, Black Sparrow Press, 1975.
+							Paperback.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4b438686-5796-4b0b-89b1-bc1b898f9108" type="box"
+							>5</container>
+						<container parent="4b438686-5796-4b0b-89b1-bc1b898f9108" type="folder"
+							>7</container>
+						<unittitle>HOLOCAUST. Los Angeles, Black Sparrow Press, 1975.
+							Paperback.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="92774415-c058-4a5d-be9b-d474c2009d55" type="box"
+							>5</container>
+						<container parent="92774415-c058-4a5d-be9b-d474c2009d55" type="folder"
+							>8</container>
+						<unittitle>HOLOCAUST. Los Angeles, Black Sparrow Press, 1975. Hardbound.
+							2/250. Signed on colophon. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f98007b2-04c3-4ab0-b5f6-3117b4d6a02e" type="box"
+							>5</container>
+						<container parent="f98007b2-04c3-4ab0-b5f6-3117b4d6a02e" type="folder"
+							>9</container>
+						<unittitle>. HOLOCAUST. Los Angeles, Black Sparrow Press, 1975. 1/35. With
+							holograph poem bound in.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="75b062cd-2308-45cf-9372-94e5dd1cf385" type="box"
+							>6</container>
+						<container parent="75b062cd-2308-45cf-9372-94e5dd1cf385" type="folder"
+							>1</container>
+						<unittitle>Poems 1918-1936: Volume I of the complete poems of Charles
+							Reznifoff. Edited by Seamus Cooney. Santa Barbara, Black Sparrow Press,
+							1976. Paperbound</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c349cea9-ec25-4a50-b10c-e574539690c6" type="box"
+							>6</container>
+						<container parent="c349cea9-ec25-4a50-b10c-e574539690c6" type="folder"
+							>2</container>
+						<unittitle>Poems, 1918-1936: Hardbound trade edition.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5890825a-d565-40e5-bdcc-5894044bf70e" type="box"
+							>6</container>
+						<container parent="5890825a-d565-40e5-bdcc-5894044bf70e" type="folder"
+							>3</container>
+						<unittitle>Poems, 1918-1936 Hardbound. 5/25. Signed on the
+							colophon.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="db0041f4-2ec1-41c0-85c5-1e8324ee0d78" type="box"
+							>6</container>
+						<container parent="db0041f4-2ec1-41c0-85c5-1e8324ee0d78" type="folder"
+							>4</container>
+						<unittitle>. Hardbound A/26. Signed on colophon. With holograph poem bound
+							in.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e9ba1f29-9a76-4ace-8a60-0de78ae94087" type="box"
+							>6</container>
+						<container parent="e9ba1f29-9a76-4ace-8a60-0de78ae94087" type="folder"
+							>5</container>
+						<unittitle>5. Poems 1937-1975: Volume II of the complete poems of Charles
+							Reznikoff. Edited by Seamus Cooney. Santa Barbara, Black Sparrow Press,
+							1977. Paperback.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="dfd10540-6716-4e74-8720-9b64cb5c6358" type="box"
+							>6</container>
+						<container parent="dfd10540-6716-4e74-8720-9b64cb5c6358" type="folder"
+							>6</container>
+						<unittitle>. Poems 1937-1975: Volume II of the complete poems of Charles
+							Reznikoff. Edited by Seamus Cooney. Hardbound trade edition.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e131bf2c-80fb-464e-8df9-8c283af9b0ca" type="box"
+							>6</container>
+						<container parent="e131bf2c-80fb-464e-8df9-8c283af9b0ca" type="folder"
+							>7</container>
+						<unittitle>Poems 1937-1975: Volume II of the complete poems of Charles
+							Reznikoff. Edited by Seamus Cooney. Hardbound. 2/225. Signed on
+							colophon.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2a324901-424b-41ee-98d7-791558df3c11" type="box"
+							>6</container>
+						<container parent="2a324901-424b-41ee-98d7-791558df3c11" type="folder"
+							>8</container>
+						<unittitle>Poems 1937-1975: Volume II of the complete poems of Charles
+							Reznikoff. Edited by Seamus Cooney. Hardbound. A/26. Signed on colophon.
+							With holograph poem bound in.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="403217b7-c084-4b55-9a4f-5fe0e4e17f74" type="box"
+							>6</container>
+						<container parent="403217b7-c084-4b55-9a4f-5fe0e4e17f74" type="folder"
+							>9</container>
+						<unittitle>FIRST THERE IS THE NEED. SPARROW 52. [Santa Barbara], Black
+							Sparrow Press, 1977. FIRST THERE IS THE NEED. SPARROW 52. [Santa
+							Barbara], Black Sparrow Press, 1977.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="aaab099f-2cd3-49d5-b584-c6f249f51b27" type="box"
+							>6</container>
+						<container parent="aaab099f-2cd3-49d5-b584-c6f249f51b27" type="folder"
+							>10</container>
+						<unittitle>THE MANNER MUSIC. Introduction by Robert Creeley. Santa Barbara.
+							Black Sparrow Press, 1977. Paperback.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0d9036f3-d032-478e-aa7f-f9be6c7f5981" type="box"
+							>6</container>
+						<container parent="0d9036f3-d032-478e-aa7f-f9be6c7f5981" type="folder"
+							>11</container>
+						<unittitle>THE MANNER MUSIC. Introduction by Robert Creeley. Santa Barbara.
+							Black Sparrow Press, 1977. Hardbound trade edition.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2e7bc1bf-2d8f-4135-88ba-6bcf2aa372da" type="box"
+							>6</container>
+						<container parent="2e7bc1bf-2d8f-4135-88ba-6bcf2aa372da" type="folder"
+							>12</container>
+						<unittitle>THE MANNER MUSIC. Introduction by Robert Creeley. Santa Barbara.
+							Black Sparrow Press, 1977. Hardbound. 1/200.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="98755290-17ac-4d14-a3af-e9ff6eed2c6e" type="box"
+							>6</container>
+						<container parent="98755290-17ac-4d14-a3af-e9ff6eed2c6e" type="folder"
+							>13</container>
+						<unittitle>THE MANNER MUSIC. Introduction by Robert Creeley. New York,
+							Popular Library [1977].</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Series III: Other published materials</unittitle>
+					<unitdate calendar="gregorian" era="ce" normal="1931/1964." type="inclusive"
+						>1931-1964</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container id="5700575c-1846-431e-a966-e2464fb59574" type="box"
+							>7</container>
+						<container parent="5700575c-1846-431e-a966-e2464fb59574" type="folder"
+							>1</container>
+						<unittitle>Heart and Clock.” Allendale, Thomas Jefferson College. Broadside. </unittitle>
+						<unitdate>no date</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a382ed5d-dcdc-421b-9bc1-08bf6de426c8" type="box"
+							>7</container>
+						<container parent="a382ed5d-dcdc-421b-9bc1-08bf6de426c8" type="folder"
+							>2A</container>
+						<unittitle>Poetry. v.37, no. 5, February, 1931. “A Group of Verse,” I-VI,
+							and “Sincerity and Objectification; with special reference to the Work
+							of Charles Reznikoff,” by Louis Zukofsky. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="cb8e4b78-939f-4490-9f53-2536b535892b" type="box"
+							>7</container>
+						<container parent="cb8e4b78-939f-4490-9f53-2536b535892b" type="folder"
+							>2B</container>
+						<unittitle>POETRY. V.4, No.4, January, 1933.“Winter Sketches,“
+							I-V.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f36640b3-0fde-42f6-bb34-19b4780b3f43" type="box"
+							>7</container>
+						<container parent="f36640b3-0fde-42f6-bb34-19b4780b3f43" type="folder"
+							>3</container>
+						<unittitle>CONTEMPO. V. 3, No.1, October 25, 1932. “Sights and Sounds,”
+							1-11.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f31916e1-e58e-41d9-99f8-7b1f2a095598" type="box"
+							>7</container>
+						<container parent="f31916e1-e58e-41d9-99f8-7b1f2a095598" type="folder"
+							>4</container>
+						<unittitle>STORIES AND FANTASIES FROM THE JEWISH PAST. By Emil Bernhard
+							Cohn. Translated from the German manuscript by Charles Reznikoff.
+							Philadelphia. The Jewish Publication Society of America,
+							1951.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e4b5bbd9-e632-4e95-aea1-68b6218238d9" type="box"
+							>7</container>
+						<container parent="e4b5bbd9-e632-4e95-aea1-68b6218238d9" type="folder"
+							>5/6</container>
+						<unittitle>THREE YEARS IN AMERICAN, 1859-1862, by [I.J.] Benjamin.
+							Translated by Oscar Handlin. 2 volumes. Philadelphia, The Jewish
+							Publication Society of America, 1956.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ac75f4a3-bb00-402d-b7bb-03123f56b370" type="box"
+							>7</container>
+						<container parent="ac75f4a3-bb00-402d-b7bb-03123f56b370" type="folder"
+							>7A/B</container>
+						<unittitle>LOUISE MARSHALL, CHAMPION OF LIBERTY: SELECTED PAPERS AND
+							ADDRESSES. Edited by Charles Reznikoff. Introduction by Oscar Handlin. 2
+							volumes boxed. Philadelphia, The Jewish Publication of America,
+							1957.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1d3ed65d-9fa9-4685-815b-be839764c758" type="box"
+							>7</container>
+						<container parent="1d3ed65d-9fa9-4685-815b-be839764c758" type="folder"
+							>8</container>
+						<unittitle>MIDSTREAM, September, 1964. “American Jewry: 1790-1840,” a review
+							of THE JEWS OF THE UNITED STATES, 1790-1840: A DOCUMENTARY HISTORY,
+							edited by Joseph L. Blau and Salo W. Baron.</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series IV: Manuscripts</unittitle>
+					<unitdate>Undated</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container id="f20c86f8-c1f8-47dd-8504-a963943f1318" type="box"
+							>8</container>
+						<container parent="f20c86f8-c1f8-47dd-8504-a963943f1318" type="folder"
+							>1</container>
+						<unittitle>Autobiographical writings: meeting Guido Bruno and Samuel Roth 2
+							pp.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7711d0a4-c263-45ad-ac5f-aa71b347a99e" type="box"
+							>8</container>
+						<container parent="7711d0a4-c263-45ad-ac5f-aa71b347a99e" type="folder"
+							>2</container>
+						<unittitle>Autobiographical writings: visiting relatives in New England. 13
+							pp.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="804df723-80b8-4751-8a1a-81c75bb9e2cc" type="box"
+							>8</container>
+						<container parent="804df723-80b8-4751-8a1a-81c75bb9e2cc" type="folder"
+							>3</container>
+						<unittitle>Autobiographical writings: concerning “three mistakes I made in
+							my life.” 14 pp.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a2e4e816-adb1-4602-b3b0-91d158a11ac7" type="box"
+							>8</container>
+						<container parent="a2e4e816-adb1-4602-b3b0-91d158a11ac7" type="folder"
+							>4</container>
+						<unittitle>NOTES FOR AN AUTOBIOGRAPHY, pp. 1-40.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7652315f-a781-41c9-9fb9-61f2c9c5be27" type="box"
+							>8</container>
+						<container parent="7652315f-a781-41c9-9fb9-61f2c9c5be27" type="folder"
+							>5</container>
+						<unittitle>NOTES FOR AN AUTOBIOGRAPHY, pp. 41-68.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="73c7448f-c18e-4273-acbc-49363483c15c" type="box"
+							>8</container>
+						<container parent="73c7448f-c18e-4273-acbc-49363483c15c" type="folder"
+							>8</container>
+						<unittitle>FIRST, THERE IS THE NEED. 1-12 PP.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="13ec8d42-dfd8-4b85-b3cf-a7edb57db8a9" type="box"
+							>8</container>
+						<container parent="13ec8d42-dfd8-4b85-b3cf-a7edb57db8a9" type="folder"
+							>9</container>
+						<unittitle>TESTIMONY: UNITED STATES (1885-1890). Outlines notes.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a99502f5-bffd-45bc-83d2-a0251cdd2950" type="box"
+							>8</container>
+						<container parent="a99502f5-bffd-45bc-83d2-a0251cdd2950" type="folder"
+							>10</container>
+						<unittitle>CHARLES TOWN: A HISTORIAL NOVEL. 4pp. plus outlines, notes,
+							prose.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="da117956-399e-40ef-b085-785b74b8d32b" type="box"
+							>8</container>
+						<container parent="da117956-399e-40ef-b085-785b74b8d32b" type="folder"
+							>11</container>
+						<unittitle>Various Poetry</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+					<scopecontent>
+						<p>Includes poems Neighbors; The Holocaust, 2nd edition; Epilogue; By the
+							well of living and seeing; Spring in New York; Just before the sun goes
+							down; Free verse; Machine age; Walking in New York,</p>
+					</scopecontent>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="979dd0db-447f-4ad0-8190-a3e6a275c993" type="box"
+							>8</container>
+						<container parent="979dd0db-447f-4ad0-8190-a3e6a275c993" type="folder"
+							>12</container>
+						<unittitle><title render="doublequote">In Memoriam: Julius (Judah) Rosenmann
+							</title> 17 pp.</unittitle>
+						<unitdate>d.1961</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b2f3225d-5724-4fe1-a6b6-a81d5c02a57c" type="box"
+							>8</container>
+						<container parent="b2f3225d-5724-4fe1-a6b6-a81d5c02a57c" type="folder"
+							>13</container>
+						<unittitle>.Pocket notebook: thoughts, notes, quotes. 17 pp.</unittitle>
+						<unitdate>Spring 1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="98b67a00-0296-4b7e-a57b-f110eafff966" type="box"
+							>8</container>
+						<container parent="98b67a00-0296-4b7e-a57b-f110eafff966" type="folder"
+							>14</container>
+						<unittitle><title render="doublequote">Draft of talk on poetry?, with
+								outline and note, see own article on
+							versification,</title></unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c6d0ccfc-445b-4f0f-b15a-956709473b74" type="box"
+							>8</container>
+						<container parent="c6d0ccfc-445b-4f0f-b15a-956709473b74" type="folder"
+							>15</container>
+						<unittitle>Sarah Reznikoff:<title render="doublequote">Why I like to live in
+								America,</title>7 holograph pages in Yiddish,</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="04d771a7-b1dd-4e31-8e05-408960e87ae5" type="box"
+							>8</container>
+						<container parent="04d771a7-b1dd-4e31-8e05-408960e87ae5" type="folder"
+							>16</container>
+						<unittitle>Draft of talk on poetry,</unittitle>
+						<unitdate>undated</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series V: Miscellaneous. </unittitle>
+					<unitdate calendar="gregorian" era="ce" normal="1916/1962" type="inclusive"
+						>1916-1977</unitdate>
+				</did>
+				<c02 level="file">
+					<did>
+						<container id="ee16e580-1b06-4196-94c4-b3704ee18126" type="box"
+							>9</container>
+						<container parent="ee16e580-1b06-4196-94c4-b3704ee18126" type="folder"
+							>1</container>
+						<unittitle>Interview: CR with L.S. Dembo, May 2, 1968. Offprint from
+							CONTEPORARY LITERATURE, v.10, No. 2, Spring 1969.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b24b5948-ed65-4c5a-99b6-82fa6ad41d4d" type="box"
+							>9</container>
+						<container parent="b24b5948-ed65-4c5a-99b6-82fa6ad41d4d" type="folder"
+							>2</container>
+						<unittitle>THE CONTEMPORARY WRITER: INTERVIEWS WITH SIXTEEN NOVELISTS AND
+							POETS. Edited by L.S. Dembo and Cyrena N. Pondrom. [Madison], The
+							University of Wisconsin Press, [1972]. The CR-L.S. Dembo interview from
+							CONTEMPORARY LITERATURE. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a5276d31-329b-476a-bb9c-19bec6aad30d" type="box"
+							>9</container>
+						<container parent="a5276d31-329b-476a-bb9c-19bec6aad30d" type="folder"
+							>3</container>
+						<unittitle>CHARLES REZNIKOFF: A CRITICAL ESSAY, by Milton Hindus, Santa
+							Barbara, Black Sparrow Press, 1977. One of 400 hardbound
+							copies.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a4ec8718-47c6-41b5-a247-33ec97cc27c1" type="box"
+							>9</container>
+						<container parent="a4ec8718-47c6-41b5-a247-33ec97cc27c1" type="folder"
+							>4A</container>
+						<unittitle>CHARLES REZNIKOFF: A CRITICAL ESSAY, by Milton Hindus, Santa
+							Barbara, Black Sparrow Press, 1977. Paperback.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b49cd3aa-a60c-404c-8e68-fb66cbe70b6c" type="box"
+							>9</container>
+						<container parent="b49cd3aa-a60c-404c-8e68-fb66cbe70b6c" type="folder"
+							>4B</container>
+						<unittitle>. CHARLES REZNIKOFF: A CRITICAL ESSAY, by Milton Hindus,. London,
+							The Menard Press, 1977. Paperback. The Black Sparrow Press edition
+							printed for the Menard Press.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="82afa451-0ecc-429b-907c-687459d58ad3" type="box"
+							>9</container>
+						<container parent="82afa451-0ecc-429b-907c-687459d58ad3" type="folder"
+							>5</container>
+						<unittitle>Notices, reviews, appreciations of CR and his work.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c38aedcd-cb09-4703-87ff-96dc6b5af478" type="box"
+							>9</container>
+						<container parent="c38aedcd-cb09-4703-87ff-96dc6b5af478" type="folder"
+							>6</container>
+						<unittitle> Obituary: <title render="doublequote">Charles Reznikoff, Poet,
+								Dead: A Founder of Objectivist School,</title> y Thomas Lask. New
+							York, TIMES, Friday , January 23, 1976.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="93f73a7b-8000-4c59-aa21-4f2461751d13" type="box"
+							>9</container>
+						<container parent="93f73a7b-8000-4c59-aa21-4f2461751d13" type="folder"
+							>7</container>
+						<unittitle> THE LYRIC, edited by Samuel Roth. V.4, No. 1-2, July-August,
+							1919. Contains the long poem <title render="doublequote"
+								>Nustscha</title>, by Samuel Roth with pencil-written annotations,
+							comments, notes by CR. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4f03d119-29a7-4c91-b1cb-50f9bb1a1d55" type="box"
+							>9</container>
+						<container parent="4f03d119-29a7-4c91-b1cb-50f9bb1a1d55" type="folder"
+							>8A</container>
+						<unittitle><title render="doublequote">MUSHROOMS: 16 RYTHMS,</title> by
+							Alfred Kreymborg. Bruno Chap Books, February, 1915.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b40b65f5-dd05-4e8f-b464-54c927b385ac" type="box"
+							>9</container>
+						<container parent="b40b65f5-dd05-4e8f-b464-54c927b385ac" type="folder"
+							>8B</container>
+						<unittitle><title render="doublequote">O MY MOTHER: 10 RHYTHMS,</title> by
+							Alfred Kreymborg. Bruno Chap Books, April, 1915. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="db7008d8-c7e1-4658-abb7-55b10dbbaa4c" type="box"
+							>9</container>
+						<container parent="db7008d8-c7e1-4658-abb7-55b10dbbaa4c" type="folder"
+							>9</container>
+						<unittitle>SELECTED WORKS OF THE BRITISH POETS, edited by Dr. Aiken .
+							Philadelphia, Thomas Wardle, 1831. Signed by CR on title page and dated
+							1910, year he purchased it. An underlined extract from <title
+								render="doublequote">Early History of a Writer</title>, explains the
+							significance of the book. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c8ebd532-e321-4d27-99a9-a2b0f6e59051" type="box"
+							>9</container>
+						<container parent="c8ebd532-e321-4d27-99a9-a2b0f6e59051" type="folder"
+							>10-11</container>
+						<unittitle> GLEANINGS: A DIARY IN VERSE, by Marie Syrkin. Santa Barbara,
+							Rhythms Press (i.e. Black Sparrow Press), 1979.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+
+					<did>
+						<container id="79115027-df2f-41c1-aed0-b6e99a621e4f" type="box"
+							>9</container>
+						<container parent="79115027-df2f-41c1-aed0-b6e99a621e4f" type="folder"
+							>12</container>
+						<unittitle>BIXBY CANYON/OCEAN PATH/WORD BREEZE. By Alan Ginsberg. New York,
+							Gotham Book Mart, 1972.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9f6e113f-23a6-46f0-9433-6bc61a876a44" type="box"
+							>9</container>
+						<container parent="9f6e113f-23a6-46f0-9433-6bc61a876a44" type="folder"
+							>13</container>
+						<unittitle>IRON HORSE, by Alan Ginsberg. New York. Gotham Book Mart, 1972.
+							“Inscribed by CR by the poet on title page.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f288007e-b187-4c62-b4b8-717bddf3bf68" type="box"
+							>9</container>
+						<container parent="f288007e-b187-4c62-b4b8-717bddf3bf68" type="folder"
+							>14</container>
+						<unittitle>14 Miscellaneous: picture of CR as a young man. The Artistic
+							Millinery Co., N. Reznikoff: sample piece of stationary. Federal
+							Headwear Col, Inc.: advertising card with phone number, address, note on
+							back.</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

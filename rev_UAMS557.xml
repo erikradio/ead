@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+   <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+      <eadid encodinganalog="852">UAMS557</eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">University of Arizona Campus Galleries Records,
+	 	       <date calendar="gregorian" certainty="approximate" era="ce" normal="1995/2000" type="inclusive">1995-2000</date>
+	 	    </titleproper>
+         	<titleproper altrender="nodisplay" type="filing"> University of Arizona Campus Galleries Records,
+            </titleproper>
+	        <author>Processed by Steven Burg.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher>  
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date calendar="gregorian" era="ce" normal="2015">2015</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date encodinganalog="date" era="ce" normal="20151119">November 19, 2015</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   <revisiondesc><change><date normal="2017-06-23">2017-06-23</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader>
+   <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+      <did> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name"> University of Arizona Campus Galleries Records,
+            <unitdate label="Dates" normal="1995/2000" type="inclusive">1995-2000</unitdate>
+  	     </unittitle>	 
+	     <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 557</unitid>
+	     <origination label="Creator"> 
+            <persname encodinganalog="100" source="lcnaf">Sasse, Julie.</persname> </origination>
+      	<abstract label="Abstract">This collection of two boxes of binders contains the records of 
+      								Julie Sasse, curator for University of Arizona Campus Galleries, 
+      								documenting the many exhibits that have been showcased.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description"><extent>1.3 linear feet</extent></physdesc>	 
+	     <repository label="Repository"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>University of Arizona Campus Galleries Records (MS 557). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Steven Burg.</p>
+      </processinfo>
+      <bioghist encodinganalog="545"> 
+         <head>Historical Note</head> 
+      	<p>The Galleries at the School of Art aim to educate, engender interest, and promote public discourse 
+      	among University of Arizona students and faculty as well as the larger Tucson and Southern Arizona communities. 
+      	Their mission is to offer career development opportunities to students and emerging artists, while increasing public 
+      	understanding of contemporary art by exposing the Tucson community to a diverse range of media and thematic 
+      	approaches through the Visiting Artists, Scholars and Exhibitions series and students' work.</p>
+      			<p>As early as 1957 the Art Department had a small exhibition space, aptly named the Educational Gallery. 
+      			Exhibiting student and faculty work, the gallery changed locations and was renamed the 101 Gallery in 1977. 
+      			In 1978 with an initial gift from Joseph F. Gross, Professor of Chemical Engineering, in memory of his father, 
+      			Joseph Gross, Sr. the Gallery was established.</p>
+      	<p>The Joseph Gross Gallery, located on the campus of The University of Arizona across from The University of Arizona 
+      	Museum of Art, was built in 1993 as part of the new Arts Complex for the College of Fine Arts.</p>
+      			<p>The Gallery mission has evolved over time but has remained true to its core goal to bring contemporary art to the university 
+      			and the greater Tucson area. Since the gallery's inception, there have been efforts to show work that integrates vastly different 
+      			disciplines within the arts and to pursue interdisciplinary exhibitions that bridge the gap of traditional and nontraditional art.  
+      			The two-fold mission is to offer career development opportunities to students and emerging artists, while increasing public understanding 
+      			of contemporary art by presenting a diverse range of media and thematic approaches from internationally recognized art leaders beyond the community.</p>
+      	<p>The Lionel Rombach Gallery is devoted entirely to the exhibition of student work. Undergraduate and graduate 
+      	students are provided this space to realize their artistic visions and gain experience working with gallery professionals. 
+      	Students in the gallery management course learn practical skills under the guidance of the galleries' curator, 
+      	while installing exhibitions, developing promotions, and monitoring the space.</p>
+      			<p>The Union Galleries in the Student Union offer a unique collection that features a variety of media, which is on 
+      			display year round. The Union Galleries have served the community since 1973 by exposing students, employees of 
+      			The University of Arizona, and off campus visitors to original art by regionally and nationally prominent artists. 
+      			The galleries heighten awareness of both current and ongoing issues as well as creative processes, which encourage 
+      			open dialogue and personal introspection. Students are welcome to work directly with the Union Galleries Curator 
+      			to gain experience in hands on gallery management.</p>
+      </bioghist> 
+      <arrangement encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+      	<p>This collection is organized chronologically. 
+      	The records were grouped into date ranges of around a year and put into binders 
+      	corresponding to these ranges. Materials overlap binders and are only loosely chronological in nature.</p>
+      </arrangement> 
+      <scopecontent encodinganalog="520"> 
+         	<head>Scope and Content Note</head> 
+      			<p>Records 1995-2000: This collection of two boxes of binders contains exhibit records for University of Arizona Campus Galleries. 
+      			The records include things such as photos, slides, press releases, post cards, and advertisements pertaining to particular exhibits. 
+      			The contents of individual binders are narratively-focused on describing individual exhibits.</p> 
+      </scopecontent>
+      <controlaccess>
+         <corpname>University of Arizona. Art Department..</corpname><corpname>University of Arizona. Museum of Art.</corpname><subject>University of Arizona. Art Department. Exhibitions.</subject><subject>Unversity of Arizona. Museum of Art -- Exhibitions.</subject></controlaccess>
+      <dsc type="combined"> 
+         <head>Container List</head>
+         <c01 level="file"> 
+         	<did> 
+         		<container id="a3545397-848d-41b7-b6ae-b3c60a75a81b" type="box">1</container> 
+         		<container parent="a3545397-848d-41b7-b6ae-b3c60a75a81b" type="folder">1</container> 
+         		<unittitle>Binder (1 of 3),</unittitle>
+         		<unitdate>1995-1996</unitdate>
+         	</did>
+	     </c01>
+      	<c01 level="file"> 
+      		<did> 
+      			<container id="bd78c208-00c6-43e7-8f92-a77d6d88d9b3" type="box">1</container> 
+      			<container parent="bd78c208-00c6-43e7-8f92-a77d6d88d9b3" type="folder">2</container> 
+      			<unittitle>Binder (2 of 3),</unittitle>
+      			<unitdate>1995-1996</unitdate>
+      		</did>
+      	</c01> 
+      	<c01 level="file"> 
+      		<did> 
+      			<container id="43793a21-4f7f-4332-9c04-fb11c9a9c8cd" type="box">1</container> 
+      			<container parent="43793a21-4f7f-4332-9c04-fb11c9a9c8cd" type="folder">3</container> 
+      			<unittitle>Binder (3 of 3),</unittitle>
+      			<unitdate>1995-1996</unitdate>
+      		</did>
+      	</c01> 
+      	<c01 level="file"> 
+      		<did> 
+      			<container id="4b4057c1-64be-459f-a572-4963198ef6cb" type="box">1</container> 
+      			<container parent="4b4057c1-64be-459f-a572-4963198ef6cb" type="folder">4</container> 
+      			<unittitle>Binder (1 of 2),</unittitle>
+      			<unitdate>1996-1997</unitdate>
+      		</did>
+      	</c01> 
+      	<c01 level="file"> 
+      		<did> 
+      			<container id="741f90e9-f15b-4378-9096-0aa73902e7c2" type="box">1</container> 
+      			<container parent="741f90e9-f15b-4378-9096-0aa73902e7c2" type="folder">5</container> 
+      			<unittitle>Binder (2 of 2),</unittitle>
+      			<unitdate>1996-1997</unitdate>
+      		</did>
+      	</c01> 
+      	<c01 level="file"> 
+      		<did> 
+      			<container id="44accd2d-06f3-433f-a214-503b8763f384" type="box">2</container> 
+      			<container parent="44accd2d-06f3-433f-a214-503b8763f384" type="folder">1</container> 
+      			<unittitle>Binder (1 of 3),</unittitle>
+      			<unitdate>1997-1998</unitdate>
+      		</did>
+      	</c01> 
+      	<c01 level="file"> 
+      		<did> 
+      			<container id="7e3cc767-9b68-4cef-ad47-d39154960d15" type="box">2</container> 
+      			<container parent="7e3cc767-9b68-4cef-ad47-d39154960d15" type="folder">2</container> 
+      			<unittitle>Binder (2 of 3),</unittitle>
+      			<unitdate>1997-1998</unitdate>
+      		</did>
+      	</c01> 
+      	<c01 level="file"> 
+      		<did> 
+      			<container id="2491b38f-9f19-49bc-a2ec-82336ea51312" type="box">2</container> 
+      			<container parent="2491b38f-9f19-49bc-a2ec-82336ea51312" type="folder">3</container> 
+      			<unittitle>Binder (3 of 3),</unittitle>
+      			<unitdate>1997-1998</unitdate>
+      		</did>
+      	</c01> 
+      	<c01 level="file"> 
+      		<did> 
+      			<container id="25f7a2df-9f50-4dc3-82ea-deeb74284f44" type="box">2</container> 
+      			<container parent="25f7a2df-9f50-4dc3-82ea-deeb74284f44" type="folder">4</container> 
+      			<unittitle>Binder (1 of 2),</unittitle>
+      			<unitdate>1998-1999</unitdate>
+      		</did>
+      	</c01> 
+      	<c01 level="file"> 
+      		<did> 
+      			<container id="1b9a8e26-b3eb-4462-bd31-439cf55f9fce" type="box">2</container> 
+      			<container parent="1b9a8e26-b3eb-4462-bd31-439cf55f9fce" type="folder">5</container> 
+      			<unittitle>Binder (2 of 2),</unittitle>
+      			<unitdate>1998-1999</unitdate>
+      		</did>
+      	</c01> 
+      	<c01 level="file"> 
+      		<did> 
+      			<container id="da37e087-1314-4207-9063-7f5d2805e2d9" type="box">2</container> 
+      			<container parent="da37e087-1314-4207-9063-7f5d2805e2d9" type="folder">6</container> 
+      			<unittitle>Binder (1 of 2),</unittitle>
+      			<unitdate>1999-2000</unitdate>
+      		</did>
+      	</c01> 
+      	<c01 level="file"> 
+      		<did> 
+      			<container id="48f98978-0f4b-4023-a9c7-49ae1b982eb3" type="box">2</container> 
+      			<container parent="48f98978-0f4b-4023-a9c7-49ae1b982eb3" type="folder">7</container> 
+      			<unittitle>Binder (2 of 2),</unittitle>
+      			<unitdate>1999-2000</unitdate>
+      		</did>
+      	</c01>
+      </dsc> 
+   </archdesc>
+</ead>

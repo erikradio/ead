@@ -1,0 +1,2020 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid encodinganalog="852">UAMS542</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title">The Great Soul Trial Collection,
+	 		<date calendar="gregorian" certainty="approximate" era="ce" normal="1962/1981" type="inclusive">1962-1981</date>
+	 		<date normal="1966/1974" type="bulk">(bulk 1966-1974)</date></titleproper>
+	 	<titleproper altrender="nodisplay" type="filing">The Great Soul Trial Collection,
+	 		</titleproper>
+	 	<author>Processed by Trent S. Purdy.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		</address> 
+		<date calendar="gregorian" era="ce" normal="2015">2015</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Trent S Purdy. 
+  		<date encodinganalog="date" era="ce" normal="20150603">June 03, 2015</date></creation>
+	 <langusage>Finding aid is in<language langcode="eng"> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+	
+<revisiondesc><change><date normal="2017-06-23">2017-06-23</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+
+	<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name">The Great Soul Trial Collection,
+  		<unitdate label="Dates" normal="1962/1981" type="inclusive">1962-1981</unitdate>
+  		<unitdate label="Dates" normal="1966/1974" type="bulk">(bulk 1966-1974)</unitdate>
+  	</unittitle>	 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 542</unitid>
+	 <origination label="Creator"> 
+	 	<persname encodinganalog="100" source="lcnaf">Myers, Robert</persname> </origination>
+  	<abstract label="Abstract">The Great Soul Trial was first held in Phoenix, Arizona in 1967 and went to retrial in 1971. The purpose of the trial was to honor the will of James Kidd that left money to fund scientific research that provided proof of a human soul that leaves the body at the time of death. The collection contains correspondence, claimant materials, press clippings, photographs, audio recordings, and oversize materials.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description"><extent>16 linear feet</extent></physdesc>	 
+	 <repository label="Repository"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		</address></repository>
+  	<langmaterial>The bulk of the materials are in <language encodinganalog="546" langcode="eng">English, with some materials in</language><language encodinganalog="546" langcode="ger" scriptcode="Latin"> German,</language><language encodinganalog="546" langcode="spa" scriptcode="Latin"> Spanish,</language><language encodinganalog="546" langcode="por" scriptcode="Latin"> Portuguese,</language><language encodinganalog="546" langcode="tam" scriptcode="Latin"> Tamil,</language><language encodinganalog="546" langcode="hin" scriptcode="Latin"> Hindi,</language><language encodinganalog="546" langcode="jpn" scriptcode="Latin"> Japanese,</language><language encodinganalog="546" langcode="fre" scriptcode="Latin"> French,</language><language encodinganalog="546" langcode="urd" scriptcode="Latin"> Urdu,</language><language encodinganalog="546" langcode="dut" scriptcode="Latin"> Dutch,</language><language encodinganalog="546" langcode="pol" scriptcode="Latin"> Polish,</language><language encodinganalog="546" langcode="chi" scriptcode="Latin"> Chinese,</language><language encodinganalog="546" langcode="ara" scriptcode="Latin"> Arabic,</language><language encodinganalog="546" langcode="swa" scriptcode="Latin"> Swahili,</language><language encodinganalog="546" langcode="heb" scriptcode="Latin"> Hebrew,</language><language encodinganalog="546" langcode="rus" scriptcode="Latin"> Russian,</language><language encodinganalog="546" langcode="per" scriptcode="Latin"> Persian,</language><language encodinganalog="546" langcode="kor" scriptcode="Latin"> Korean,</language><language encodinganalog="546" langcode="tgl" scriptcode="Latin"> Tagalog,</language><language encodinganalog="546" langcode="ind" scriptcode="Latin"> and Indonesian.</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>The Great Soul Trial Collection (MS 542). Special
+  		Collections, University of Arizona Libraries.</p>
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>James Kidd was born on July 18, 1879 in Ogdensburgh, New York. He held residence on the outskirts of Phoenix, Arizona and was an employee of the Miami Company of Arizona. In November, 1949 Kidd went missing in the Superstition Mountains outside of Phoenix, Arizona. In 1954, he was declared missing and dead by the State of Arizona. In 1964, the State of Arizona took an inventory of a safety deposit box owned by James Kidd which contained a holograph will dating from 1930 stating his wishes that the balance of his estate go towards funding research that provided scientific proof of the existence of a soul that leaves the human body at the time of death. The value of the estate after expenses was in excess of $200,000. The estate went to trial between May – October, 1967 as James Kidd had no heirs or immediate family.  The Honorable Justice Robert Myers of the Court of Maricopa County, Arizona presided over the case and heard from one hundred thirty three claimants over the course of the hearings. On October 20, 1967 the estate was awarded to the Barrow Neurological Institute located in Phoenix, Arizona. In 1971, The Arizona Supreme Court overturned the decision handed down by Justice Robert Myers, which resulted in the case going to retrial that year. Again, Justice Robert Myers presided over the case and awarded the estate to the American Society for Psychical Research based in New York City, New York.</p> 
+  </bioghist> 
+  <arrangement encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into six series.</p>	 
+  	<list>
+  		<item>Series I: Correspondence,
+  			<unitdate>1966-1979</unitdate></item>
+  		<item>Series II: Claimant Materials,
+  			<unitdate>1966-1981</unitdate></item>
+  		<item>Series III: Press Clippings,
+  			<unitdate>1966-1971</unitdate></item>
+  		<item>Series IV: Photographs,
+  			<unitdate>1967</unitdate></item>
+  		<item>Series V: Publications,
+  			<unitdate>1962-1970</unitdate></item>
+  		<item>Series VI: Audio Recordings,
+  			<unitdate>1966-1967</unitdate></item>
+  	</list>
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>This collection contains correspondence, claimant materials, press clippings, photographs, publications, and oversize materials collected by Justice Robert Myers who presided over The Great Soul Trial in 1967 and when the case went to retrial in 1971. The correspondence series comprises the bulk of the collection and is arranged alphabetically by country. The bulk of the correspondence is from the United States and is arranged alphabetically. This series consists of correspondence, essays, monographs, photographs, artwork, diagrams, etc. sent by individuals and organizations applying for claim on the James Kidd estate. The Claimant Materials series contains correspondence from applicants that were selected to testify for claim on the James Kidd estate by the Court of Maricopa County, Arizona. This series also contains final accounting and petition for final distribution materials and a list of claimants and petitioners. The Press Clippings series contains newspaper clippings and magazine articles from publications based worldwide documenting the Great Soul Trial and its proceedings. The photographs series contains photographs of Justice Robert Myers and various claimants that testified during the Great Soul Trial. The publications series contains monographs and pamphlets that were sent by individuals applying for claim on the James Kidd estate. The audio recordings series contains reel to reel tapes sent by individuals applying for claim on the James Kidd estate. </p> 
+  </scopecontent> 
+		<relatedmaterial encodinganalog="544"><p>For more information, see the monograph <title render="italic">The Great Soul Trial</title> by John G. Fuller.</p></relatedmaterial> 
+  	<controlaccess>
+  		<subject>Metaphysical research.</subject><subject>Metaphysics.</subject><subject>Spirituality.</subject><subject>Spiritual life--Christianity.</subject><subject>Spiritual life--Hinduism.</subject><subject>Spiritual life--Judaism.</subject><subject>Spiritual life--Buddhism.</subject><subject>Spiritual life--Islam.</subject><subject>Correspondence—1960-1970.</subject><subject>Courts—United States—Cases.</subject><subject>Law—United States—Cases.</subject><subject>Religion and law—United States--Cases.</subject></controlaccess>
+  
+<dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+			<unittitle>Series 1: Correspondence,</unittitle> 
+			<unitdate type="inclusive">1966-1979</unitdate>
+		</did>
+	 	<scopecontent><p>This series contains correspondence and is arranged alphabetically by country. The bulk of the materials originates from the United States which is arranged alphabetically. The miscellaneous folders located towards the end of the series contains materials from Bolivia, Spain, Nicaragua, Guatemala, Sri Lanka, New Caledonia, Pakistan, Leeward Islands, Mauritius, Panama, Uruguay, Netherlands, Mozambique, Poland, Taiwan, Lebanon, Kenya, New Zealand, Israel, China, Puerto Rico, CCCP, Holland, Poland, Portugal, Iran, South Korea, Japan, Manila, Ghana, Togo, Liberia, and Indonesia. Anonymous folders located at the end of the series contain correspondence from unidentified individuals. Box 14 contains oversize materials and consists of correspondence from claimant applicants, a record album, and a list of correspondence arranged by country created by office of Justice Robert Myers.</p><p>Materials within this series consists of correspondence, essays, monographs, photographs, artwork, diagrams, etc. sent by individuals and organizations applying for claim on the James Kidd estate. The materials discuss a myriad of spiritual beliefs and practices, including but not limited to Christianity, Hinduism, Buddhist, Islam, and Shintoism. Materials are in English, German, Spanish, Portuguese, Tamil, Hindi, Japanese, French, Urdu, Dutch, Polish, Mandarin, Arabic, Swahili, Hebrew, Russian, Persian, Korean, Tagalog, and Indonesian.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="cf6c782d-9ff0-4bd0-ae43-af1fc724ff4e" type="box">1</container> 
+				<container parent="cf6c782d-9ff0-4bd0-ae43-af1fc724ff4e" type="folder">1</container> 
+				<unittitle>Argentina,</unittitle>
+				<unitdate>1966-1968</unitdate>
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="81c91fc3-9058-4b8d-a16f-c9858ace971b" type="box">1</container> 
+	 			<container parent="81c91fc3-9058-4b8d-a16f-c9858ace971b" type="folder">2</container> 
+	 			<unittitle>Australia,</unittitle>
+	 			<unitdate>1967</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="01cd98fb-72dc-4962-aef9-4b34be4bf9ee" type="box">1</container> 
+	 			<container parent="01cd98fb-72dc-4962-aef9-4b34be4bf9ee" type="folder">3</container> 
+	 			<unittitle>Austria (1 of 2),</unittitle>
+	 			<unitdate>1966-1974 </unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6888da56-c6fe-4df7-9a0d-2a860f559a0b" type="box">1</container> 
+	 			<container parent="6888da56-c6fe-4df7-9a0d-2a860f559a0b" type="folder">4</container> 
+	 			<unittitle>Austria (2 of 2),</unittitle>
+	 			<unitdate>1966-1974 </unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e1fe5c13-761e-44b8-bec8-844b3d2c320c" type="box">1</container> 
+	 			<container parent="e1fe5c13-761e-44b8-bec8-844b3d2c320c" type="folder">4</container> 
+	 			<unittitle>Austria (2 of 2),</unittitle>
+	 			<unitdate>1966-1974 </unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3636cf3b-3698-4462-b0a3-35f1ad07fbeb" type="box">1</container> 
+	 			<container parent="3636cf3b-3698-4462-b0a3-35f1ad07fbeb" type="folder">5</container> 
+	 			<unittitle>Belgium,</unittitle>
+	 			<unitdate>1966-1969</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2616bc8d-3626-4a7a-91e4-6419be3f073c" type="box">1</container> 
+	 			<container parent="2616bc8d-3626-4a7a-91e4-6419be3f073c" type="folder">6</container> 
+	 			<unittitle>Bolivia,</unittitle>
+	 			<unitdate>1966-1969</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="63ef77f5-f8ed-4884-9ea6-954fdb5d5447" type="box">1</container> 
+	 			<container parent="63ef77f5-f8ed-4884-9ea6-954fdb5d5447" type="folder">7</container> 
+	 			<unittitle>Brazil (1 of 3),</unittitle>
+	 			<unitdate>1966-1972</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="922ca92a-0907-4134-a6b8-5b2e8cf5e5d0" type="box">1</container> 
+	 			<container parent="922ca92a-0907-4134-a6b8-5b2e8cf5e5d0" type="folder">8</container> 
+	 			<unittitle>Brazil (2 of 3),</unittitle>
+	 			<unitdate>1966-1972</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c001bf68-db9d-47c6-99e8-73414c778112" type="box">1</container> 
+	 			<container parent="c001bf68-db9d-47c6-99e8-73414c778112" type="folder">9</container> 
+	 			<unittitle>Brazil (3 of 3),</unittitle>
+	 			<unitdate>1966-1972</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="84c6fc1d-2c8a-4d97-b324-e73b8b939f9e" type="box">1</container> 
+	 			<container parent="84c6fc1d-2c8a-4d97-b324-e73b8b939f9e" type="folder">10</container> 
+	 			<unittitle>Canada (1 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="99233341-9236-4441-bd24-f850f7d5d9dc" type="box">1</container> 
+	 			<container parent="99233341-9236-4441-bd24-f850f7d5d9dc" type="folder">11</container> 
+	 			<unittitle>Canada (2 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2386f450-fd10-4f4d-952b-c8171170a07a" type="box">1</container> 
+	 			<container parent="2386f450-fd10-4f4d-952b-c8171170a07a" type="folder">12</container> 
+	 			<unittitle>Canada (3 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="45a267a1-5d50-4679-915b-c6a939012e0f" type="box">1</container> 
+	 			<container parent="45a267a1-5d50-4679-915b-c6a939012e0f" type="folder">13</container> 
+	 			<unittitle>Canada,</unittitle>
+	 			<unitdate>1971-1974</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="46df5fc1-13d5-40f9-b65f-9fc176c116c1" type="box">1</container> 
+	 			<container parent="46df5fc1-13d5-40f9-b65f-9fc176c116c1" type="folder">14</container> 
+	 			<unittitle>Chile,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="f983be85-79d2-4f9f-bc24-3eef9d21ae91" type="box">1</container> 
+	 			<container parent="f983be85-79d2-4f9f-bc24-3eef9d21ae91" type="folder">15</container> 
+	 			<unittitle>Columbia (1 of 2),</unittitle>
+	 			<unitdate>1966-1969</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="843606ac-b40e-4815-aec2-1bcbdcd2605c" type="box">1</container> 
+	 			<container parent="843606ac-b40e-4815-aec2-1bcbdcd2605c" type="folder">16</container> 
+	 			<unittitle>Columbia (2 of 2),</unittitle>
+	 			<unitdate>1966-1969</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d50fa9c8-dc72-491f-91dd-71368f1cc761" type="box">2</container> 
+	 			<container parent="d50fa9c8-dc72-491f-91dd-71368f1cc761" type="folder">1</container> 
+	 			<unittitle>Costa Rica,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="1e6a3881-1222-41dc-be1b-f4e853c30638" type="box">2</container> 
+	 			<container parent="1e6a3881-1222-41dc-be1b-f4e853c30638" type="folder">2</container> 
+	 			<unittitle>Czechoslovakia,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="47527f03-fe8b-49f2-a1f3-fa9867411175" type="box">2</container> 
+	 			<container parent="47527f03-fe8b-49f2-a1f3-fa9867411175" type="folder">3</container> 
+	 			<unittitle>Denmark,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="230d35ba-9196-4ecf-a120-881ebc9b340a" type="box">2</container> 
+	 			<container parent="230d35ba-9196-4ecf-a120-881ebc9b340a" type="folder">4</container> 
+	 			<unittitle>Ecuador,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ac9595a6-ff7a-4b0d-b065-b50c92a4ca77" type="box">2</container> 
+	 			<container parent="ac9595a6-ff7a-4b0d-b065-b50c92a4ca77" type="folder">5</container> 
+	 			<unittitle>France (1 of 2),</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a93ae021-42a5-46b1-93aa-58ca6f71385f" type="box">2</container> 
+	 			<container parent="a93ae021-42a5-46b1-93aa-58ca6f71385f" type="folder">6</container> 
+	 			<unittitle>France (2 of 2),</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9a8c1b61-e601-4e5d-ba0c-0e9c7a7abf26" type="box">2</container> 
+	 			<container parent="9a8c1b61-e601-4e5d-ba0c-0e9c7a7abf26" type="folder">7</container> 
+	 			<unittitle>Germany (1 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="118f1d7d-c8f2-4c4c-8abd-b2120de4480c" type="box">2</container> 
+	 			<container parent="118f1d7d-c8f2-4c4c-8abd-b2120de4480c" type="folder">8</container> 
+	 			<unittitle>Germany (2 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="398bccd9-fac5-415e-b10b-1374514473f2" type="box">2</container> 
+	 			<container parent="398bccd9-fac5-415e-b10b-1374514473f2" type="folder">9</container> 
+	 			<unittitle>Germany (3 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7bc4ef61-a2ae-4f8b-bcc3-34dd6f388e29" type="box">2</container> 
+	 			<container parent="7bc4ef61-a2ae-4f8b-bcc3-34dd6f388e29" type="folder">10</container> 
+	 			<unittitle>Germany (4 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c734bda3-037c-4be1-af80-bacfa6f6b168" type="box">2</container> 
+	 			<container parent="c734bda3-037c-4be1-af80-bacfa6f6b168" type="folder">11</container> 
+	 			<unittitle>Germany (5 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="bc690158-3031-42f8-83bf-15c7288ee41b" type="box">2</container> 
+	 			<container parent="bc690158-3031-42f8-83bf-15c7288ee41b" type="folder">12</container> 
+	 			<unittitle>Germany (6 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4c5cb9d7-0ee3-47c3-a1e9-3f33530db59b" type="box">2</container> 
+	 			<container parent="4c5cb9d7-0ee3-47c3-a1e9-3f33530db59b" type="folder">13</container> 
+	 			<unittitle>Germany (7 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="fff3e2da-5f26-4364-b3fc-bccf088149ab" type="box">2</container> 
+	 			<container parent="fff3e2da-5f26-4364-b3fc-bccf088149ab" type="folder">14</container> 
+	 			<unittitle>Germany (8 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0973496f-4a20-464b-9d3b-8d7589a1e283" type="box">3</container> 
+	 			<container parent="0973496f-4a20-464b-9d3b-8d7589a1e283" type="folder">1</container> 
+	 			<unittitle>Germany (9 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="97c8ebc0-11bd-4509-8f13-68f891a5cf23" type="box">3</container> 
+	 			<container parent="97c8ebc0-11bd-4509-8f13-68f891a5cf23" type="folder">2</container> 
+	 			<unittitle>Germany (10 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e42d1bb4-c204-4ddc-934f-f916e28b1bc2" type="box">3</container> 
+	 			<container parent="e42d1bb4-c204-4ddc-934f-f916e28b1bc2" type="folder">3</container> 
+	 			<unittitle>Germany,</unittitle>
+	 			<unitdate>1970-1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="125c7b50-594a-437c-b251-f1f20e58e129" type="box">3</container> 
+	 			<container parent="125c7b50-594a-437c-b251-f1f20e58e129" type="folder">4</container> 
+	 			<unittitle>Greece,</unittitle>
+	 			<unitdate>1967-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d6dbbbe3-a8b9-423f-8260-a9dfd16e8023" type="box">3</container> 
+	 			<container parent="d6dbbbe3-a8b9-423f-8260-a9dfd16e8023" type="folder">5</container> 
+	 			<unittitle>Hungary,</unittitle>
+	 			<unitdate>1966-1969</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="60d01ded-4d77-4578-8368-b9bdc94f0001" type="box">3</container> 
+	 			<container parent="60d01ded-4d77-4578-8368-b9bdc94f0001" type="folder">6</container> 
+	 			<unittitle>India (1 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b32b5b71-768e-408c-b8a4-3127565d8bdd" type="box">3</container> 
+	 			<container parent="b32b5b71-768e-408c-b8a4-3127565d8bdd" type="folder">7</container> 
+	 			<unittitle>India (2 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="95990076-6b8a-4a79-82db-9a80a214e506" type="box">3</container> 
+	 			<container parent="95990076-6b8a-4a79-82db-9a80a214e506" type="folder">8</container> 
+	 			<unittitle>India (3 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a47874ad-6694-465e-93fa-bf03dfe62378" type="box">3</container> 
+	 			<container parent="a47874ad-6694-465e-93fa-bf03dfe62378" type="folder">9</container> 
+	 			<unittitle>India (4 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="f85b5bdc-75a0-46b5-b0d4-7490c2dd0e3f" type="box">3</container> 
+	 			<container parent="f85b5bdc-75a0-46b5-b0d4-7490c2dd0e3f" type="folder">10</container> 
+	 			<unittitle>India (5 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="fe02daf2-a452-4887-a60d-305f18f1b06c" type="box">3</container> 
+	 			<container parent="fe02daf2-a452-4887-a60d-305f18f1b06c" type="folder">11</container> 
+	 			<unittitle>India (6 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2a05ff71-1152-4742-91fc-96fba7b64f2b" type="box">3</container> 
+	 			<container parent="2a05ff71-1152-4742-91fc-96fba7b64f2b" type="folder">12</container> 
+	 			<unittitle>India (7 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="03b2deab-fa89-454b-a26c-a631cf8b6d95" type="box">3</container> 
+	 			<container parent="03b2deab-fa89-454b-a26c-a631cf8b6d95" type="folder">13</container> 
+	 			<unittitle>India (8 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0e97c1e7-ee14-4d33-8c67-f26818f21ce3" type="box">3</container> 
+	 			<container parent="0e97c1e7-ee14-4d33-8c67-f26818f21ce3" type="folder">14</container> 
+	 			<unittitle>India (9 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3af8cbe5-a60e-4949-b407-e702ae71edcf" type="box">4</container> 
+	 			<container parent="3af8cbe5-a60e-4949-b407-e702ae71edcf" type="folder">1</container> 
+	 			<unittitle>India (10 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d8fef096-cf84-4db4-8359-22bf2fb0a874" type="box">4</container> 
+	 			<container parent="d8fef096-cf84-4db4-8359-22bf2fb0a874" type="folder">2</container> 
+	 			<unittitle>India (11 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b14f1b90-966e-4374-b9ed-c291323a3640" type="box">4</container> 
+	 			<container parent="b14f1b90-966e-4374-b9ed-c291323a3640" type="folder">3</container> 
+	 			<unittitle>India (12 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="bc3d6772-8963-4fa6-b567-5f8c6fc49318" type="box">4</container> 
+	 			<container parent="bc3d6772-8963-4fa6-b567-5f8c6fc49318" type="folder">4</container> 
+	 			<unittitle>India (13 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e8197b3c-f12b-4575-bf0f-4c87f117d339" type="box">4</container> 
+	 			<container parent="e8197b3c-f12b-4575-bf0f-4c87f117d339" type="folder">5</container> 
+	 			<unittitle>India (14 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b8669b91-5980-4867-84ff-1d9e9da1dd92" type="box">4</container> 
+	 			<container parent="b8669b91-5980-4867-84ff-1d9e9da1dd92" type="folder">6</container> 
+	 			<unittitle>India (15 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="849a4190-7fe1-4118-874c-7163de055b4e" type="box">4</container> 
+	 			<container parent="849a4190-7fe1-4118-874c-7163de055b4e" type="folder">7</container> 
+	 			<unittitle>India (16 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7f2c2ed1-1dec-493c-b30b-8d28c1d5838b" type="box">4</container> 
+	 			<container parent="7f2c2ed1-1dec-493c-b30b-8d28c1d5838b" type="folder">8</container> 
+	 			<unittitle>India (17 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a8d74c99-1ce4-47cd-ac44-34e1fcae7e65" type="box">4</container> 
+	 			<container parent="a8d74c99-1ce4-47cd-ac44-34e1fcae7e65" type="folder">9</container> 
+	 			<unittitle>India (18 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="956f7728-343b-4216-83b4-76e094d2811e" type="box">4</container> 
+	 			<container parent="956f7728-343b-4216-83b4-76e094d2811e" type="folder">10</container> 
+	 			<unittitle>India (19 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d1bbe93a-18e7-4f48-8992-7bca6ece272b" type="box">4</container> 
+	 			<container parent="d1bbe93a-18e7-4f48-8992-7bca6ece272b" type="folder">11</container> 
+	 			<unittitle>India (20 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="37d5a486-d744-4cd2-8967-9ffad19d8563" type="box">4</container> 
+	 			<container parent="37d5a486-d744-4cd2-8967-9ffad19d8563" type="folder">12</container> 
+	 			<unittitle>India (21 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="8a4ee32d-1c60-4e09-ba09-8b99ef40370f" type="box">4</container> 
+	 			<container parent="8a4ee32d-1c60-4e09-ba09-8b99ef40370f" type="folder">13</container> 
+	 			<unittitle>India (22 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d89495cf-9cb4-4af6-842f-45d81e5dbac9" type="box">4</container> 
+	 			<container parent="d89495cf-9cb4-4af6-842f-45d81e5dbac9" type="folder">14</container> 
+	 			<unittitle>India (23 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="85744baa-aee1-4115-b0bb-315c0bc6ce88" type="box">5</container> 
+	 			<container parent="85744baa-aee1-4115-b0bb-315c0bc6ce88" type="folder">1</container> 
+	 			<unittitle>India (24 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="37550f04-379b-4d7c-915f-e35127d74d7c" type="box">5</container> 
+	 			<container parent="37550f04-379b-4d7c-915f-e35127d74d7c" type="folder">2</container> 
+	 			<unittitle>India (25 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="710ace65-16be-4c39-95b2-32ca023b83d2" type="box">5</container> 
+	 			<container parent="710ace65-16be-4c39-95b2-32ca023b83d2" type="folder">3</container> 
+	 			<unittitle>India (26 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="628c36e3-af17-4505-8048-c2a7b2a27d00" type="box">5</container> 
+	 			<container parent="628c36e3-af17-4505-8048-c2a7b2a27d00" type="folder">4</container> 
+	 			<unittitle>India (27 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d4340361-523f-45b9-9ced-7d200349858c" type="box">5</container> 
+	 			<container parent="d4340361-523f-45b9-9ced-7d200349858c" type="folder">5</container> 
+	 			<unittitle>India (28 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0d274f62-975c-4f8f-81db-9d9f607498f2" type="box">5</container> 
+	 			<container parent="0d274f62-975c-4f8f-81db-9d9f607498f2" type="folder">6</container> 
+	 			<unittitle>India (29 of 29),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="566ad0e3-68c2-43bc-a83a-41c2ab62ef61" type="box">5</container> 
+	 			<container parent="566ad0e3-68c2-43bc-a83a-41c2ab62ef61" type="folder">7</container> 
+	 			<unittitle>India,</unittitle>
+	 			<unitdate>1969-1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0f7dfd13-c489-447a-b7c0-c27ae1283e7e" type="box">5</container> 
+	 			<container parent="0f7dfd13-c489-447a-b7c0-c27ae1283e7e" type="folder">8</container> 
+	 			<unittitle>Italy (1 of 3),</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e594600e-5745-4fb7-8305-4c9ee78d4334" type="box">5</container> 
+	 			<container parent="e594600e-5745-4fb7-8305-4c9ee78d4334" type="folder">9</container> 
+	 			<unittitle>Italy (2 of 3),</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="f5ad69f4-30c4-4019-a7de-2dc3f3b60901" type="box">5</container> 
+	 			<container parent="f5ad69f4-30c4-4019-a7de-2dc3f3b60901" type="folder">10</container> 
+	 			<unittitle>Italy (3 of 3),</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e90f9669-497e-4d89-b8cb-78e0042dbc58" type="box">5</container> 
+	 			<container parent="e90f9669-497e-4d89-b8cb-78e0042dbc58" type="folder">11</container> 
+	 			<unittitle>Mexico,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2e4ae167-fd86-4371-b305-ac690b202969" type="box">5</container> 
+	 			<container parent="2e4ae167-fd86-4371-b305-ac690b202969" type="folder">12</container> 
+	 			<unittitle>Mexico,</unittitle>
+	 			<unitdate>1968-1970</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b137b131-0b2a-4711-bdc3-c76ebd1a8fd4" type="box">5</container> 
+	 			<container parent="b137b131-0b2a-4711-bdc3-c76ebd1a8fd4" type="folder">13</container> 
+	 			<unittitle>Norway,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c428e07b-73da-47db-8e0b-28d156e02056" type="box">5</container> 
+	 			<container parent="c428e07b-73da-47db-8e0b-28d156e02056" type="folder">14</container> 
+	 			<unittitle>Peru,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9a3aee82-b759-4e30-b54b-4adec8bb6e6b" type="box">5</container> 
+	 			<container parent="9a3aee82-b759-4e30-b54b-4adec8bb6e6b" type="folder">15</container> 
+	 			<unittitle>Philippines,</unittitle>
+	 			<unitdate>1967-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0760fa45-96a5-46d8-a2cb-a78c4ce77996" type="box">5</container> 
+	 			<container parent="0760fa45-96a5-46d8-a2cb-a78c4ce77996" type="folder">16</container> 
+	 			<unittitle>South Africa,</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="871f788b-6247-48d9-8c62-6211ef97a823" type="box">5</container> 
+	 			<container parent="871f788b-6247-48d9-8c62-6211ef97a823" type="folder">17</container> 
+	 			<unittitle>Sweden,</unittitle>
+	 			<unitdate>1966-1969</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="122a1034-61b7-4a4d-aa31-305abf701e4c" type="box">5</container> 
+	 			<container parent="122a1034-61b7-4a4d-aa31-305abf701e4c" type="folder">18</container> 
+	 			<unittitle>Switzerland,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="36c54315-0af7-4245-ab07-8d50e85eee58" type="box">5</container> 
+	 			<container parent="36c54315-0af7-4245-ab07-8d50e85eee58" type="folder">19</container> 
+	 			<unittitle>Turkey,</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a26d6bee-8b82-4a00-8591-c71b584e54dc" type="box">5</container> 
+	 			<container parent="a26d6bee-8b82-4a00-8591-c71b584e54dc" type="folder">20</container> 
+	 			<unittitle>United Kingdom (1 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="725fd66b-3683-4ae8-aab4-ecda53036727" type="box">5</container> 
+	 			<container parent="725fd66b-3683-4ae8-aab4-ecda53036727" type="folder">21</container> 
+	 			<unittitle>United Kingdom (2 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="613eceb8-db67-4a8b-a243-553ba91ebe30" type="box">5</container> 
+	 			<container parent="613eceb8-db67-4a8b-a243-553ba91ebe30" type="folder">22</container> 
+	 			<unittitle>United Kingdom (3 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4f3d6896-f39a-40e9-b737-fe67504fee8d" type="box">5</container> 
+	 			<container parent="4f3d6896-f39a-40e9-b737-fe67504fee8d" type="folder">23</container> 
+	 			<unittitle>United Kingdom,</unittitle>
+	 			<unitdate>1970</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9ca55940-49b6-4566-bd03-f7f9b226334b" type="box">6</container> 
+	 			<container parent="9ca55940-49b6-4566-bd03-f7f9b226334b" type="folder">1</container> 
+	 			<unittitle>United States; A (1 of 3),</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="af789f5f-5144-4143-b7d7-6263c84d0fd3" type="box">6</container> 
+	 			<container parent="af789f5f-5144-4143-b7d7-6263c84d0fd3" type="folder">2</container> 
+	 			<unittitle>United States; A (2 of 3),</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b0486382-b336-4a1c-8b65-c3235c967215" type="box">6</container> 
+	 			<container parent="b0486382-b336-4a1c-8b65-c3235c967215" type="folder">3</container> 
+	 			<unittitle>United States; A (3 of 3),</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="39088cf8-f13b-4bdd-b0e1-bdc63570d161" type="box">6</container> 
+	 			<container parent="39088cf8-f13b-4bdd-b0e1-bdc63570d161" type="folder">4</container> 
+	 			<unittitle>United States; A,</unittitle>
+	 			<unitdate>1969-1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="cdd4088f-5b50-4c84-99d0-dbf3bb2eefdd" type="box">6</container> 
+	 			<container parent="cdd4088f-5b50-4c84-99d0-dbf3bb2eefdd" type="folder">5</container> 
+	 			<unittitle>United States; B (1 of 6),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7db04947-aebf-4b9f-8ad1-6c844c39c433" type="box">6</container> 
+	 			<container parent="7db04947-aebf-4b9f-8ad1-6c844c39c433" type="folder">6</container> 
+	 			<unittitle>United States; B (2 of 6),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="81c95014-51e6-4416-a3a8-b174eb8b22ec" type="box">6</container> 
+	 			<container parent="81c95014-51e6-4416-a3a8-b174eb8b22ec" type="folder">7</container> 
+	 			<unittitle>United States; B (3 of 6),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d145b3fd-d8dd-41e5-ba74-d8c9ca49c1e8" type="box">6</container> 
+	 			<container parent="d145b3fd-d8dd-41e5-ba74-d8c9ca49c1e8" type="folder">8</container> 
+	 			<unittitle>United States; B (4 of 6),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="fd760c2b-ce3b-4146-bcf5-6da60840c5a3" type="box">6</container> 
+	 			<container parent="fd760c2b-ce3b-4146-bcf5-6da60840c5a3" type="folder">9</container> 
+	 			<unittitle>United States; B (5 of 6),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="37180314-d632-4c50-b6ce-ab5d79bb4d21" type="box">6</container> 
+	 			<container parent="37180314-d632-4c50-b6ce-ab5d79bb4d21" type="folder">10</container> 
+	 			<unittitle>United States; B (6 of 6),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="71f8a56a-66f3-4738-a3b9-cc6cf0c3d9ae" type="box">6</container> 
+	 			<container parent="71f8a56a-66f3-4738-a3b9-cc6cf0c3d9ae" type="folder">11</container> 
+	 			<unittitle>United States; B,</unittitle>
+	 			<unitdate>1969-1975</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="fe794318-80a4-4955-be58-8269e743b628" type="box">6</container> 
+	 			<container parent="fe794318-80a4-4955-be58-8269e743b628" type="folder">12</container> 
+	 			<unittitle>United States; C (1 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="84596760-be36-4c9e-9a5b-a4b054ce8faf" type="box">6</container> 
+	 			<container parent="84596760-be36-4c9e-9a5b-a4b054ce8faf" type="folder">13</container> 
+	 			<unittitle>United States; C (2 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5c90cb33-8c37-4225-a51d-aee0d9e78a6a" type="box">6</container> 
+	 			<container parent="5c90cb33-8c37-4225-a51d-aee0d9e78a6a" type="folder">14</container> 
+	 			<unittitle>United States; C (3 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3909eee5-d2d8-4893-855e-33d1c2dfdb36" type="box">6</container> 
+	 			<container parent="3909eee5-d2d8-4893-855e-33d1c2dfdb36" type="folder">15</container> 
+	 			<unittitle>United States; C (4 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a1c909c8-6eb3-4559-b96e-6a28857d46ab" type="box">6</container> 
+	 			<container parent="a1c909c8-6eb3-4559-b96e-6a28857d46ab" type="folder">16</container> 
+	 			<unittitle>United States; C (5 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="370628dd-e20a-4805-a5ac-93673d8acae8" type="box">7</container> 
+	 			<container parent="370628dd-e20a-4805-a5ac-93673d8acae8" type="folder">1</container> 
+	 			<unittitle>United States; C (6 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="07f824be-609b-47d6-98a8-84c73454078b" type="box">7</container> 
+	 			<container parent="07f824be-609b-47d6-98a8-84c73454078b" type="folder">2</container> 
+	 			<unittitle>United States; C (7 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b89cdf01-d685-4338-89eb-73797e0c4294" type="box">7</container> 
+	 			<container parent="b89cdf01-d685-4338-89eb-73797e0c4294" type="folder">3</container> 
+	 			<unittitle>United States; C (8 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6a8504ac-32be-450c-af57-e6acb4d08efd" type="box">7</container> 
+	 			<container parent="6a8504ac-32be-450c-af57-e6acb4d08efd" type="folder">4</container> 
+	 			<unittitle>United States; C (9 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0ed74b5f-9d46-4345-985f-c5dc911c66ce" type="box">7</container> 
+	 			<container parent="0ed74b5f-9d46-4345-985f-c5dc911c66ce" type="folder">5</container> 
+	 			<unittitle>United States; C (10 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="8be111af-f4ad-4a1b-8c46-25ff5afe891d" type="box">7</container> 
+	 			<container parent="8be111af-f4ad-4a1b-8c46-25ff5afe891d" type="folder">6</container> 
+	 			<unittitle>United States; C (1 of 2),</unittitle>
+	 			<unitdate>1969-1976</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="04379dc6-98ca-4027-9cff-c964bd95af39" type="box">7</container> 
+	 			<container parent="04379dc6-98ca-4027-9cff-c964bd95af39" type="folder">7</container> 
+	 			<unittitle>United States; C (2 of 2),</unittitle>
+	 			<unitdate>1969-1976</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="95f5984e-fd02-405e-a898-352cec9490ec" type="box">7</container> 
+	 			<container parent="95f5984e-fd02-405e-a898-352cec9490ec" type="folder">8</container> 
+	 			<unittitle>United States; D (1 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c81e838e-f27d-40a9-a272-4025b1a87122" type="box">7</container> 
+	 			<container parent="c81e838e-f27d-40a9-a272-4025b1a87122" type="folder">9</container> 
+	 			<unittitle>United States; D (2 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="f8621db1-2965-42c1-b958-d4a44dbf4579" type="box">7</container> 
+	 			<container parent="f8621db1-2965-42c1-b958-d4a44dbf4579" type="folder">10</container> 
+	 			<unittitle>United States; D (3 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="54b65f8f-9030-410c-94f8-bfb5a16b926e" type="box">7</container> 
+	 			<container parent="54b65f8f-9030-410c-94f8-bfb5a16b926e" type="folder">11</container> 
+	 			<unittitle>United States; D,</unittitle>
+	 			<unitdate>1969-1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2ddb072f-f367-4a5b-8677-4a14cf1a3a56" type="box">7</container> 
+	 			<container parent="2ddb072f-f367-4a5b-8677-4a14cf1a3a56" type="folder">12</container> 
+	 			<unittitle>United States; E (1 of 2),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c6ecd5a1-cef8-46cb-9e85-d0aae1d2a886" type="box">7</container> 
+	 			<container parent="c6ecd5a1-cef8-46cb-9e85-d0aae1d2a886" type="folder">13</container> 
+	 			<unittitle>United States; E (2 of 2),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d6073116-7a9f-4361-93cf-97bdce2e5ca6" type="box">7</container> 
+	 			<container parent="d6073116-7a9f-4361-93cf-97bdce2e5ca6" type="folder">14</container> 
+	 			<unittitle>United States; E,</unittitle>
+	 			<unitdate>1970-1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="1cb5c465-7057-48bd-a3b8-514632287be8" type="box">7</container> 
+	 			<container parent="1cb5c465-7057-48bd-a3b8-514632287be8" type="folder">15</container> 
+	 			<unittitle>United States; F (1 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9e6b3887-beaa-44dc-a7c2-40ee0e0c9f62" type="box">8</container> 
+	 			<container parent="9e6b3887-beaa-44dc-a7c2-40ee0e0c9f62" type="folder">1</container> 
+	 			<unittitle>United States; F (2 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2c04bb64-ea5c-4a41-b5aa-23cc907445a9" type="box">8</container> 
+	 			<container parent="2c04bb64-ea5c-4a41-b5aa-23cc907445a9" type="folder">2</container> 
+	 			<unittitle>United States; F (3 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="aea35930-2822-4b9c-8ebd-28edfb0f2314" type="box">8</container> 
+	 			<container parent="aea35930-2822-4b9c-8ebd-28edfb0f2314" type="folder">3</container> 
+	 			<unittitle>United States; F (4 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="13149185-481b-4dbd-8378-ba3cf1842205" type="box">8</container> 
+	 			<container parent="13149185-481b-4dbd-8378-ba3cf1842205" type="folder">4</container> 
+	 			<unittitle>United States; F,</unittitle>
+	 			<unitdate>1969-1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ba5313e0-7630-4324-8f54-1f56fefb52ea" type="box">8</container> 
+	 			<container parent="ba5313e0-7630-4324-8f54-1f56fefb52ea" type="folder">5</container> 
+	 			<unittitle>United States; G (1 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b73f6e47-b726-466c-82f7-5c018b99ec9a" type="box">8</container> 
+	 			<container parent="b73f6e47-b726-466c-82f7-5c018b99ec9a" type="folder">6</container> 
+	 			<unittitle>United States; G (2 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="dc75fbeb-4ff0-4749-b161-2241bacd0395" type="box">8</container> 
+	 			<container parent="dc75fbeb-4ff0-4749-b161-2241bacd0395" type="folder">7</container> 
+	 			<unittitle>United States; G (3 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="bf8e9c9c-db66-4a78-91cd-92e77967cb0b" type="box">8</container> 
+	 			<container parent="bf8e9c9c-db66-4a78-91cd-92e77967cb0b" type="folder">8</container> 
+	 			<unittitle>United States; G (4 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5c9009f6-09cb-434e-bafe-f896ca59d4ef" type="box">8</container> 
+	 			<container parent="5c9009f6-09cb-434e-bafe-f896ca59d4ef" type="folder">9</container> 
+	 			<unittitle>United States; G,</unittitle>
+	 			<unitdate>1971-1973</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6b0d9f5a-0a87-4256-926a-ed6901e00969" type="box">8</container> 
+	 			<container parent="6b0d9f5a-0a87-4256-926a-ed6901e00969" type="folder">10</container> 
+	 			<unittitle>United States; H (1 of 5),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="08265465-e841-42fb-b944-fe6cef6183a7" type="box">8</container> 
+	 			<container parent="08265465-e841-42fb-b944-fe6cef6183a7" type="folder">11</container> 
+	 			<unittitle>United States; H (2 of 5),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="13d0182b-e40e-4dd5-a852-2dbf771fd2ff" type="box">8</container> 
+	 			<container parent="13d0182b-e40e-4dd5-a852-2dbf771fd2ff" type="folder">12</container> 
+	 			<unittitle>United States; H (3 of 5),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0307c3a2-090b-4059-bf1b-e938c8c4937d" type="box">8</container> 
+	 			<container parent="0307c3a2-090b-4059-bf1b-e938c8c4937d" type="folder">13</container> 
+	 			<unittitle>United States; H (4 of 5),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9bee1b16-7a24-4359-94a0-c9ac7f460321" type="box">8</container> 
+	 			<container parent="9bee1b16-7a24-4359-94a0-c9ac7f460321" type="folder">14</container> 
+	 			<unittitle>United States; H (5 of 5),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b17d683f-e91b-4666-86e6-3d5f83469a3a" type="box">8</container> 
+	 			<container parent="b17d683f-e91b-4666-86e6-3d5f83469a3a" type="folder">15</container> 
+	 			<unittitle>United States; H,</unittitle>
+	 			<unitdate>1969-1973</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b64a6b8f-5d03-4743-9369-43059bdf0eef" type="box">8</container> 
+	 			<container parent="b64a6b8f-5d03-4743-9369-43059bdf0eef" type="folder">16</container> 
+	 			<unittitle>United States; I,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0c12c6df-1c30-4d40-a837-e76edf77d5dd" type="box">8</container> 
+	 			<container parent="0c12c6df-1c30-4d40-a837-e76edf77d5dd" type="folder">17</container> 
+	 			<unittitle>United States; J (1 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7fb83d73-25fe-443e-aaa4-84ff77071d7b" type="box">9</container> 
+	 			<container parent="7fb83d73-25fe-443e-aaa4-84ff77071d7b" type="folder">1</container> 
+	 			<unittitle>United States; J (2 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="13ddf42d-6884-4928-ac93-3ddb16bdd42a" type="box">9</container> 
+	 			<container parent="13ddf42d-6884-4928-ac93-3ddb16bdd42a" type="folder">2</container> 
+	 			<unittitle>United States; J (3 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4bba505d-40fc-464e-b059-eb87c0512311" type="box">9</container> 
+	 			<container parent="4bba505d-40fc-464e-b059-eb87c0512311" type="folder">3</container> 
+	 			<unittitle>United States; J,</unittitle>
+	 			<unitdate>1971-1974</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="76e25857-1128-4c0b-b36f-f020abc25f9d" type="box">9</container> 
+	 			<container parent="76e25857-1128-4c0b-b36f-f020abc25f9d" type="folder">4</container> 
+	 			<unittitle>United States; K (1 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6fed0fe4-2679-42d6-b14c-0c438925dc1c" type="box">9</container> 
+	 			<container parent="6fed0fe4-2679-42d6-b14c-0c438925dc1c" type="folder">5</container> 
+	 			<unittitle>United States; K (2 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9311faa7-ca1a-4661-8789-3f8cf462bf3f" type="box">9</container> 
+	 			<container parent="9311faa7-ca1a-4661-8789-3f8cf462bf3f" type="folder">6</container> 
+	 			<unittitle>United States; K (3 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="70884349-dd35-4941-8335-cab2b5682c03" type="box">9</container> 
+	 			<container parent="70884349-dd35-4941-8335-cab2b5682c03" type="folder">7</container> 
+	 			<unittitle>United States; K (4 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5e70a62f-726b-475c-91b8-9610972a0ac9" type="box">9</container> 
+	 			<container parent="5e70a62f-726b-475c-91b8-9610972a0ac9" type="folder">8</container> 
+	 			<unittitle>United States; K,</unittitle>
+	 			<unitdate>1969-1972</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ad068341-a024-4d77-b8f2-9e0db8d9efe2" type="box">9</container> 
+	 			<container parent="ad068341-a024-4d77-b8f2-9e0db8d9efe2" type="folder">9</container> 
+	 			<unittitle>United States; L (1 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="43754a5c-fd2c-4c2a-be88-61cc9b747c7b" type="box">9</container> 
+	 			<container parent="43754a5c-fd2c-4c2a-be88-61cc9b747c7b" type="folder">10</container> 
+	 			<unittitle>United States; L (2 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="236eaf88-36e4-4227-a8fa-5aa04a601879" type="box">9</container> 
+	 			<container parent="236eaf88-36e4-4227-a8fa-5aa04a601879" type="folder">11</container> 
+	 			<unittitle>United States; L (3 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c164d433-47d5-44e4-982b-a66905d9572d" type="box">9</container> 
+	 			<container parent="c164d433-47d5-44e4-982b-a66905d9572d" type="folder">12</container> 
+	 			<unittitle>United States; L (4 of 4),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d86430ae-76ce-40c8-b5af-199e27b7ad0d" type="box">9</container> 
+	 			<container parent="d86430ae-76ce-40c8-b5af-199e27b7ad0d" type="folder">13</container> 
+	 			<unittitle>United States; L,</unittitle>
+	 			<unitdate>1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="f7093e0f-1c48-4630-8104-c9b259218d3c" type="box">9</container> 
+	 			<container parent="f7093e0f-1c48-4630-8104-c9b259218d3c" type="folder">14</container> 
+	 			<unittitle>United States; M (1 of 9),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="546c8b19-036f-4fbb-854f-4fab5e5f3fab" type="box">9</container> 
+	 			<container parent="546c8b19-036f-4fbb-854f-4fab5e5f3fab" type="folder">15</container> 
+	 			<unittitle>United States; M (2 of 9),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="24a6b604-cb74-4116-a9af-af9b10b2a13f" type="box">10</container> 
+	 			<container parent="24a6b604-cb74-4116-a9af-af9b10b2a13f" type="folder">1</container> 
+	 			<unittitle>United States; M (3 of 9),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="8160b359-073c-43e1-971e-641dc882a7ec" type="box">10</container> 
+	 			<container parent="8160b359-073c-43e1-971e-641dc882a7ec" type="folder">2</container> 
+	 			<unittitle>United States; M (4 of 9),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="1eb2ea31-ea74-4c3e-922b-228a62662a38" type="box">10</container> 
+	 			<container parent="1eb2ea31-ea74-4c3e-922b-228a62662a38" type="folder">3</container> 
+	 			<unittitle>United States; M (5 of 9),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a4d0bb9a-a6e5-4652-b909-a48330db17ab" type="box">10</container> 
+	 			<container parent="a4d0bb9a-a6e5-4652-b909-a48330db17ab" type="folder">4</container> 
+	 			<unittitle>United States; M (6 of 9),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="79411d6d-78d6-42f3-95d9-f3ffb783f4d2" type="box">10</container> 
+	 			<container parent="79411d6d-78d6-42f3-95d9-f3ffb783f4d2" type="folder">5</container> 
+	 			<unittitle>United States; M (7 of 9),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="98fb3486-621c-44a1-a95e-89eaf55061c1" type="box">10</container> 
+	 			<container parent="98fb3486-621c-44a1-a95e-89eaf55061c1" type="folder">6</container> 
+	 			<unittitle>United States; M (8 of 9),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d5b0385e-8d72-4bbb-82a4-46782254136f" type="box">10</container> 
+	 			<container parent="d5b0385e-8d72-4bbb-82a4-46782254136f" type="folder">7</container> 
+	 			<unittitle>United States; M (9 of 9),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="924fad6b-71c1-4697-8fbb-067a583427a3" type="box">10</container> 
+	 			<container parent="924fad6b-71c1-4697-8fbb-067a583427a3" type="folder">8</container> 
+	 			<unittitle>United States; M,</unittitle>
+	 			<unitdate>1969-1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="60e39e32-9cf5-410d-9d7e-3b2483de223f" type="box">10</container> 
+	 			<container parent="60e39e32-9cf5-410d-9d7e-3b2483de223f" type="folder">9</container> 
+	 			<unittitle>United States; N,</unittitle>
+	 			<unitdate>1968-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9b18e701-3f20-4ced-bde1-bb92e6b5c2f1" type="box">10</container> 
+	 			<container parent="9b18e701-3f20-4ced-bde1-bb92e6b5c2f1" type="folder">10</container> 
+	 			<unittitle>United States; N,</unittitle>
+	 			<unitdate>1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c4577273-46bc-4f34-8d2a-7f0093930cb2" type="box">10</container> 
+	 			<container parent="c4577273-46bc-4f34-8d2a-7f0093930cb2" type="folder">11</container> 
+	 			<unittitle>United States; O,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7438317f-7ea3-4ee7-8d42-ca52dcda721e" type="box">10</container> 
+	 			<container parent="7438317f-7ea3-4ee7-8d42-ca52dcda721e" type="folder">12</container> 
+	 			<unittitle>United States; O,</unittitle>
+	 			<unitdate>1969-1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5f897653-76c6-4cda-be27-92ca33e43528" type="box">10</container> 
+	 			<container parent="5f897653-76c6-4cda-be27-92ca33e43528" type="folder">13</container> 
+	 			<unittitle>United States; P (1 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="294b3443-73bf-4ca5-ac1b-3560f5a53d8a" type="box">10</container> 
+	 			<container parent="294b3443-73bf-4ca5-ac1b-3560f5a53d8a" type="folder">14</container> 
+	 			<unittitle>United States; P (2 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="32132ebe-c8c5-4b74-9d0d-895e78ece062" type="box">10</container> 
+	 			<container parent="32132ebe-c8c5-4b74-9d0d-895e78ece062" type="folder">15</container> 
+	 			<unittitle>United States; P (3 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="32853497-bf09-46a1-a372-e815cc3c344e" type="box">10</container> 
+	 			<container parent="32853497-bf09-46a1-a372-e815cc3c344e" type="folder">16</container> 
+	 			<unittitle>United States; P,</unittitle>
+	 			<unitdate>1970-1972</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="00fa3650-81b1-49be-94ed-2e6a4587ee07" type="box">10</container> 
+	 			<container parent="00fa3650-81b1-49be-94ed-2e6a4587ee07" type="folder">17</container> 
+	 			<unittitle>United States; Q,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="69334ba8-1c6a-4d20-ab5a-effa7d150793" type="box">11</container> 
+	 			<container parent="69334ba8-1c6a-4d20-ab5a-effa7d150793" type="folder">1</container> 
+	 			<unittitle>United States; R (1 of 7),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="88e6c546-8e71-4336-a66c-33630467408a" type="box">11</container> 
+	 			<container parent="88e6c546-8e71-4336-a66c-33630467408a" type="folder">2</container> 
+	 			<unittitle>United States; R (2 of 7),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="8d16ca48-3534-4ec5-8cfd-9a8747b09d4a" type="box">11</container> 
+	 			<container parent="8d16ca48-3534-4ec5-8cfd-9a8747b09d4a" type="folder">3</container> 
+	 			<unittitle>United States; R (3 of 7),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="26cbe0de-87ad-4494-812a-c1827f39f5c7" type="box">11</container> 
+	 			<container parent="26cbe0de-87ad-4494-812a-c1827f39f5c7" type="folder">4</container> 
+	 			<unittitle>United States; R (4 of 7),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="296a7da5-b70d-4cbe-bdce-fc310ad8e491" type="box">11</container> 
+	 			<container parent="296a7da5-b70d-4cbe-bdce-fc310ad8e491" type="folder">5</container> 
+	 			<unittitle>United States; R (5 of 7),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ac3368b4-de6b-465e-ae8c-400351021430" type="box">11</container> 
+	 			<container parent="ac3368b4-de6b-465e-ae8c-400351021430" type="folder">6</container> 
+	 			<unittitle>United States; R (6 of 7),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="1caf625d-a15c-4051-840e-ed46e4a0b218" type="box">11</container> 
+	 			<container parent="1caf625d-a15c-4051-840e-ed46e4a0b218" type="folder">7</container> 
+	 			<unittitle>United States; R (7 of 7),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="f01e2db8-fb7d-45cb-a93d-cc9d6911c5a0" type="box">11</container> 
+	 			<container parent="f01e2db8-fb7d-45cb-a93d-cc9d6911c5a0" type="folder">8</container> 
+	 			<unittitle>United States; R (1 of 2),</unittitle>
+	 			<unitdate>1969-1972</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7e5fd762-51a1-4bd3-9d91-9f48328e302f" type="box">11</container> 
+	 			<container parent="7e5fd762-51a1-4bd3-9d91-9f48328e302f" type="folder">9</container> 
+	 			<unittitle>United States; R (2 of 2),</unittitle>
+	 			<unitdate>1969-1972</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3ce45d92-dc9b-4e48-a862-4e029638a7a4" type="box">11</container> 
+	 			<container parent="3ce45d92-dc9b-4e48-a862-4e029638a7a4" type="folder">10</container> 
+	 			<unittitle>United States; S (1 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0e86c4d9-f1cd-4332-8efb-934316d80c52" type="box">11</container> 
+	 			<container parent="0e86c4d9-f1cd-4332-8efb-934316d80c52" type="folder">11</container> 
+	 			<unittitle>United States; S (2 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3df37820-9b05-4ea0-b2ba-3c25f21070fd" type="box">11</container> 
+	 			<container parent="3df37820-9b05-4ea0-b2ba-3c25f21070fd" type="folder">12</container> 
+	 			<unittitle>United States; S (3 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ebc8f447-dbb4-48fe-be1b-cc93c91da22c" type="box">11</container> 
+	 			<container parent="ebc8f447-dbb4-48fe-be1b-cc93c91da22c" type="folder">13</container> 
+	 			<unittitle>United States; S (4 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="959c2fc2-8959-43d0-a26b-5c2a4483754c" type="box">11</container> 
+	 			<container parent="959c2fc2-8959-43d0-a26b-5c2a4483754c" type="folder">14</container> 
+	 			<unittitle>United States; S (5 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="cd890d4d-5fd7-4102-a58c-2c933ea59f65" type="box">12</container> 
+	 			<container parent="cd890d4d-5fd7-4102-a58c-2c933ea59f65" type="folder">1</container> 
+	 			<unittitle>United States; S (6 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7fc692af-d653-42b2-b3d3-6a53d8dfc851" type="box">12</container> 
+	 			<container parent="7fc692af-d653-42b2-b3d3-6a53d8dfc851" type="folder">2</container> 
+	 			<unittitle>United States; S (7 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="eed929d1-3689-442b-8b2c-1d6a2ec5b2b7" type="box">12</container> 
+	 			<container parent="eed929d1-3689-442b-8b2c-1d6a2ec5b2b7" type="folder">3</container> 
+	 			<unittitle>United States; S (8 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ef6945fb-15ec-46cb-bb15-752020e4e878" type="box">12</container> 
+	 			<container parent="ef6945fb-15ec-46cb-bb15-752020e4e878" type="folder">4</container> 
+	 			<unittitle>United States; S (9 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="060b15cd-d2ba-4225-8fb1-28ecb78861ef" type="box">12</container> 
+	 			<container parent="060b15cd-d2ba-4225-8fb1-28ecb78861ef" type="folder">5</container> 
+	 			<unittitle>United States; S (10 of 10),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6adcd5f3-4793-4a0d-8875-0d66900ab133" type="box">12</container> 
+	 			<container parent="6adcd5f3-4793-4a0d-8875-0d66900ab133" type="folder">6</container> 
+	 			<unittitle>United States; S (1 of 2),</unittitle>
+	 			<unitdate>1969-1972</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e282e5a7-2d7b-4573-a290-2e0b5f6ee6eb" type="box">12</container> 
+	 			<container parent="e282e5a7-2d7b-4573-a290-2e0b5f6ee6eb" type="folder">7</container> 
+	 			<unittitle>United States; S (2 of 2),</unittitle>
+	 			<unitdate>1969-1972</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="de4acef3-e6e8-4cf4-8fca-2a581a2d39ec" type="box">12</container> 
+	 			<container parent="de4acef3-e6e8-4cf4-8fca-2a581a2d39ec" type="folder">8</container> 
+	 			<unittitle>United States; T (1 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="368fa45f-da47-4290-89b4-53847f3fb349" type="box">12</container> 
+	 			<container parent="368fa45f-da47-4290-89b4-53847f3fb349" type="folder">9</container> 
+	 			<unittitle>United States; T (2 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c6e949a1-922e-44d3-9c42-b52b5a3c6ce1" type="box">12</container> 
+	 			<container parent="c6e949a1-922e-44d3-9c42-b52b5a3c6ce1" type="folder">10</container> 
+	 			<unittitle>United States; T (3 of 3),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5d56b5e6-0f21-4b27-b859-bd6709c25036" type="box">12</container> 
+	 			<container parent="5d56b5e6-0f21-4b27-b859-bd6709c25036" type="folder">11</container> 
+	 			<unittitle>United States; T,</unittitle>
+	 			<unitdate>1969-1978</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5d419929-bfee-476d-93e0-2a6eb85aea54" type="box">12</container> 
+	 			<container parent="5d419929-bfee-476d-93e0-2a6eb85aea54" type="folder">12</container> 
+	 			<unittitle>United States; U,</unittitle>
+	 			<unitdate>1967-1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="78a94e76-fa8a-4c38-b5d9-dfd5f99f267a" type="box">12</container> 
+	 			<container parent="78a94e76-fa8a-4c38-b5d9-dfd5f99f267a" type="folder">13</container> 
+	 			<unittitle>United States; V,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d4c3e3dc-7a37-4053-8545-7b5680c0b1e4" type="box">12</container> 
+	 			<container parent="d4c3e3dc-7a37-4053-8545-7b5680c0b1e4" type="folder">14</container> 
+	 			<unittitle>United States; V,</unittitle>
+	 			<unitdate>1970-1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a5efc740-6f09-47e1-8c80-94685390129d" type="box">12</container> 
+	 			<container parent="a5efc740-6f09-47e1-8c80-94685390129d" type="folder">15</container> 
+	 			<unittitle>United States; W (1 of 7),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7ac5566d-f09b-4e70-b287-03446f41f682" type="box">12</container> 
+	 			<container parent="7ac5566d-f09b-4e70-b287-03446f41f682" type="folder">16</container> 
+	 			<unittitle>United States; W (2 of 7),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="fdd86676-d63d-4104-9fb7-29be513e8eed" type="box">12</container> 
+	 			<container parent="fdd86676-d63d-4104-9fb7-29be513e8eed" type="folder">17</container> 
+	 			<unittitle>United States; W (3 of 7),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="30e5d21b-ed88-4338-b455-7cba16637ea3" type="box">13</container> 
+	 			<container parent="30e5d21b-ed88-4338-b455-7cba16637ea3" type="folder">1</container> 
+	 			<unittitle>United States; W (4 of 7),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9ed171a3-96fb-4c76-9a81-060cbec7bf66" type="box">13</container> 
+	 			<container parent="9ed171a3-96fb-4c76-9a81-060cbec7bf66" type="folder">2</container> 
+	 			<unittitle>United States; W (5 of 7),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9b0c3e94-d897-4e69-b940-069329c855e8" type="box">13</container> 
+	 			<container parent="9b0c3e94-d897-4e69-b940-069329c855e8" type="folder">3</container> 
+	 			<unittitle>United States; W (6 of 7),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="bf95f7ad-d9e8-4f31-b9ee-7977fa9ae87f" type="box">13</container> 
+	 			<container parent="bf95f7ad-d9e8-4f31-b9ee-7977fa9ae87f" type="folder">4</container> 
+	 			<unittitle>United States; W (7 of 7),</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5188c735-f244-43cc-840e-228965172b15" type="box">13</container> 
+	 			<container parent="5188c735-f244-43cc-840e-228965172b15" type="folder">5</container> 
+	 			<unittitle>United States; W,</unittitle>
+	 			<unitdate>1969-1975</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7a8913be-a549-4039-9748-912cf829608c" type="box">13</container> 
+	 			<container parent="7a8913be-a549-4039-9748-912cf829608c" type="folder">6</container> 
+	 			<unittitle>United States; X, Y,</unittitle>
+	 			<unitdate>1966-1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a10e70db-4613-4001-a87e-29f922318e90" type="box">13</container> 
+	 			<container parent="a10e70db-4613-4001-a87e-29f922318e90" type="folder">7</container> 
+	 			<unittitle>United States; Z,</unittitle>
+	 			<unitdate>1966-1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="830ec4bb-0872-4706-9657-5ec479c32b08" type="box">13</container> 
+	 			<container parent="830ec4bb-0872-4706-9657-5ec479c32b08" type="folder">8</container> 
+	 			<unittitle>United States; Anonymous (1 of 2),</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="05b62106-a325-4b73-804e-48115034c9e6" type="box">13</container> 
+	 			<container parent="05b62106-a325-4b73-804e-48115034c9e6" type="folder">9</container> 
+	 			<unittitle>United States; Anonymous (2 of 2),</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="aa203770-e6d9-49e0-9a04-8d65f558b756" type="box">13</container> 
+	 			<container parent="aa203770-e6d9-49e0-9a04-8d65f558b756" type="folder">10</container> 
+	 			<unittitle>Venezuela,</unittitle>
+	 			<unitdate>1967-1969</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c6dfa9c9-9826-4554-9b8d-d0577eec8518" type="box">13</container> 
+	 			<container parent="c6dfa9c9-9826-4554-9b8d-d0577eec8518" type="folder">11</container> 
+	 			<unittitle>Vietnam,</unittitle>
+	 			<unitdate>1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="45f44592-22e0-4652-9117-bda3a8984d16" type="box">13</container> 
+	 			<container parent="45f44592-22e0-4652-9117-bda3a8984d16" type="folder">12</container> 
+	 			<unittitle>Yugoslavia,</unittitle>
+	 			<unitdate>1966-1969</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e93075aa-6504-44ab-b995-b6a023b643f2" type="box">13</container> 
+	 			<container parent="e93075aa-6504-44ab-b995-b6a023b643f2" type="folder">13</container> 
+	 			<unittitle>Miscellaneous (1 of 2),</unittitle>
+	 			<unitdate>1966-1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ad28ca5c-254b-494c-8447-35952ac28dee" type="box">13</container> 
+	 			<container parent="ad28ca5c-254b-494c-8447-35952ac28dee" type="folder">14</container> 
+	 			<unittitle>Miscellaneous (2 of 2),</unittitle>
+	 			<unitdate>1966-1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a412400f-4e92-48ff-b415-5b8400aca5c5" type="box">14</container> 
+	 			<container parent="a412400f-4e92-48ff-b415-5b8400aca5c5" type="item">1</container> 
+	 			<unittitle>Henry, Richard Eus Correspondence (1 of 3),</unittitle>
+	 			<unitdate>1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5dcf6f65-b37a-413f-9bf0-281774aaa25b" type="box">14</container> 
+	 			<container parent="5dcf6f65-b37a-413f-9bf0-281774aaa25b" type="item">2</container> 
+	 			<unittitle>Henry, Richard Eus Correspondence (2 of 3),</unittitle>
+	 			<unitdate>1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ab3b03c0-7a82-4604-b3c4-d0b54f94d7cb" type="box">14</container> 
+	 			<container parent="ab3b03c0-7a82-4604-b3c4-d0b54f94d7cb" type="item">3</container> 
+	 			<unittitle>Henry, Richard Eus Correspondence (3 of 3),</unittitle>
+	 			<unitdate>1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="04dc2438-b2ad-481b-b8a8-d6447962d773" type="box">14</container> 
+	 			<container parent="04dc2438-b2ad-481b-b8a8-d6447962d773" type="item">4</container> 
+	 			<unittitle>Anonymous Correspondence on Wood Piece,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2c76fe37-817e-4466-979f-3bb1589963a7" type="box">14</container> 
+	 			<container parent="2c76fe37-817e-4466-979f-3bb1589963a7" type="item">5</container> 
+	 			<unittitle>Kittinger, Kenneth C., Ph.D., <title render="italic">News: A Discovery of the Mind</title> Record Album,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="aa744f10-8444-4ab4-a82a-c8f88b85e0f4" type="box">14</container> 
+	 			<container parent="aa744f10-8444-4ab4-a82a-c8f88b85e0f4" type="item">6</container> 
+	 			<unittitle>McCullough, Forrest, <title render="italic">Final Flight: A Dramatic Comparison to Death</title> Record Album,</unittitle>
+	 			<unitdate>1965</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="bca9a791-bbdc-4046-a384-4f889712e906" type="box">14</container> 
+	 			<container parent="bca9a791-bbdc-4046-a384-4f889712e906" type="item">7</container> 
+	 			<unittitle>Davis, Alvin W. Correspondence,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4a30f13a-b031-4976-8403-94e3da6f80c3" type="box">14</container> 
+	 			<container parent="4a30f13a-b031-4976-8403-94e3da6f80c3" type="item">7</container> 
+	 			<unittitle>List of Correspondence by Country,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 </c01> 
+	<c01 level="series"> 
+		<did> 
+			<unittitle>Series 2: Claimant Materials,</unittitle> 
+			<unitdate type="inclusive">1966-1981</unitdate>
+		</did>
+		<scopecontent><p>This series contains correspondence from applicants that were selected to testify for claim on the James Kidd estate by the Court of Maricopa County, Arizona. This series also contains final accounting and petition for final distribution materials and a List of claimants and petitioners that were created by the staff of Justice Robert Myers.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="5673efe3-4dc2-45a9-8516-eecfc35bd888" type="box">15</container> 
+				<container parent="5673efe3-4dc2-45a9-8516-eecfc35bd888" type="folder">1</container> 
+				<unittitle>Correspondence (1 of 5),</unittitle>
+				<unitdate>1966-1979</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="994ac3dc-b735-4f72-90c7-079344c497b4" type="box">15</container> 
+				<container parent="994ac3dc-b735-4f72-90c7-079344c497b4" type="folder">2</container> 
+				<unittitle>Correspondence (2 of 5),</unittitle>
+				<unitdate>1966-1979</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="4a95a90d-67c1-4247-a473-adbdb8df35d5" type="box">15</container> 
+				<container parent="4a95a90d-67c1-4247-a473-adbdb8df35d5" type="folder">3</container> 
+				<unittitle>Correspondence (3 of 5),</unittitle>
+				<unitdate>1966-1979</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="a0884ddf-b9d1-4a32-aafd-8d7ab214110e" type="box">15</container> 
+				<container parent="a0884ddf-b9d1-4a32-aafd-8d7ab214110e" type="folder">4</container> 
+				<unittitle>Correspondence (4 of 5),</unittitle>
+				<unitdate>1966-1979</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="a732fb8b-c295-4848-8761-1985fbbb1337" type="box">15</container> 
+				<container parent="a732fb8b-c295-4848-8761-1985fbbb1337" type="folder">5</container> 
+				<unittitle>Correspondence (5 of 5),</unittitle>
+				<unitdate>1966-1979</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="35f29fe3-037e-4a09-9f93-01a4af7b7f53" type="box">15</container> 
+				<container parent="35f29fe3-037e-4a09-9f93-01a4af7b7f53" type="folder">6</container> 
+				<unittitle>Final Accounting and Petition for Final Distribution,</unittitle>
+				<unitdate>1967-1981</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="fcb076e4-2554-48fd-8654-a53f6c780364" type="box">15</container> 
+				<container parent="fcb076e4-2554-48fd-8654-a53f6c780364" type="folder">7</container> 
+				<unittitle>List of Claimants and Petitioners,</unittitle>
+				<unitdate>1967</unitdate>
+			</did> 
+		</c02> 
+	</c01>
+	<c01 level="series"> 
+		<did> 
+			<unittitle>Series 2: Press Clippings,</unittitle> 
+			<unitdate type="inclusive">1966-1971</unitdate>
+		</did>
+		<scopecontent><p>This series contains newspaper clippings and magazine articles from publications based worldwide documenting the Great Soul Trial and its proceedings.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="86a88076-6d62-41af-8f12-6f461d8469a9" type="box">15</container> 
+				<container parent="86a88076-6d62-41af-8f12-6f461d8469a9" type="folder">8</container> 
+				<unittitle>1966-1971 (1 of 3),</unittitle>
+			
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="871e8635-6fcd-428d-b406-89b528a95737" type="box">15</container> 
+				<container parent="871e8635-6fcd-428d-b406-89b528a95737" type="folder">9</container> 
+				<unittitle>1966-1971 (2 of 3),</unittitle>
+				
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="b8e8c711-fa27-4e3d-888f-ce7275ff7f28" type="box">15</container> 
+				<container parent="b8e8c711-fa27-4e3d-888f-ce7275ff7f28" type="folder">10</container> 
+				<unittitle>1966-1971 (3 of 3),</unittitle>
+				
+			</did> 
+		</c02>
+	</c01>
+	<c01 level="series"> 
+		<did> 
+			<unittitle>Series 4: Photographs,</unittitle> 
+			<unitdate type="inclusive">1967</unitdate>
+		</did>
+		<scopecontent><p>This series contains photographs of Justice Robert Meyers, his staff,  and various claimants that testified during the Great Soul Trial.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="ad13c6cd-4e0e-450b-b7ab-6d17046f8c89" type="box">15</container> 
+				<container parent="ad13c6cd-4e0e-450b-b7ab-6d17046f8c89" type="folder">11</container> 
+				<unittitle>Photographs of Judge Myers, His Staff, and Various Claimants,</unittitle>
+				<unitdate>1967</unitdate>
+			</did> 
+		</c02> 
+	</c01>
+	<c01 level="series"> 
+		<did> 
+			<unittitle>Series 5: Publications,</unittitle> 
+			<unitdate type="inclusive">1962-1970</unitdate>
+		</did>
+		<scopecontent><p>This series contains monographs and pamphlets that were sent by individuals applying for claim on the James Kidd estate.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="f2617fd7-167f-4a21-9488-55dba0501aff" type="box">15</container> 
+				<container parent="f2617fd7-167f-4a21-9488-55dba0501aff" type="folder">12</container> 
+				<unittitle>Books,</unittitle>
+				<unitdate>1962-1970</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="516e8645-e3d4-41cc-b4c3-5ce0a58c1d4c" type="box">15</container> 
+				<container parent="516e8645-e3d4-41cc-b4c3-5ce0a58c1d4c" type="folder">13</container> 
+				<unittitle>Books and Pamphlets,</unittitle>
+				<unitdate>1962-1970</unitdate>
+			</did> 
+		</c02> 
+	</c01>
+	<c01 level="series"> 
+		<did> 
+			<unittitle>Series 6: Audio Recordings,</unittitle> 
+			<unitdate type="inclusive">1966-1967</unitdate>
+		</did>
+		<scopecontent><p>This series contains aural documents on reel to reel tapes sent by individuals applying for claim on the James Kidd estate.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="c83eb47a-b0c2-4fae-8c44-947ed4e46cd6" type="box">16</container> 
+				<container parent="c83eb47a-b0c2-4fae-8c44-947ed4e46cd6" type="tape">1</container> 
+				<unittitle>Padd, Chief,</unittitle>
+				<unitdate>1967</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="40fe48ac-0e23-4f47-8009-2490faa8eed1" type="box">16</container> 
+				<container parent="40fe48ac-0e23-4f47-8009-2490faa8eed1" type="tape">2</container> 
+				<unittitle>Lynn, Rev. Walter,</unittitle>
+				<unitdate>1967</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="73a5f5bd-8371-4385-a3ab-a968b392f31b" type="box">16</container> 
+				<container parent="73a5f5bd-8371-4385-a3ab-a968b392f31b" type="tape">3</container> 
+				<unittitle>Thompson, G.E.,</unittitle>
+				<unitdate>1967</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="c165e9e0-f141-4d03-b940-dded0dbd1b0f" type="box">16</container> 
+				<container parent="c165e9e0-f141-4d03-b940-dded0dbd1b0f" type="tape">4</container> 
+				<unittitle>Walters, Edith G.,</unittitle>
+				<unitdate>1966</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="228fa1dd-1d91-42c8-9a0f-61a80fd97529" type="box">16</container> 
+				<container parent="228fa1dd-1d91-42c8-9a0f-61a80fd97529" type="tape">5</container> 
+				<unittitle>Collier, W.W.,</unittitle>
+				<unitdate>1967</unitdate>
+			</did> 
+		</c02> 
+	</c01>
+  </dsc> 
+</archdesc></ead>

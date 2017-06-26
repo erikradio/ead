@@ -1,0 +1,1067 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="complete"
+      langencoding="ISO_639-2b" relatedencoding="dc" repositoryencoding="iso15511"
+      scriptencoding="iso15924">
+      <eadid 
+         
+         >UAMS536_Spanish</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="title">Registros de Adalberto Guerrero <date
+                  calendar="gregorian" encodinganalog="date" era="ce" normal="1947/2005"
+                  >1947-2005</date>
+            </titleproper>
+
+            <author audience="internal" encodinganalog="creator">Processed by Hannivett
+               Nabahe.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="publisher">University of Arizona Libraries, Special
+               Collections</publisher>
+            <address>
+               <addressline>PO Box 210055</addressline>
+               <addressline>Tucson, AZ 85721-0055</addressline>
+               <addressline>Phone: 520-621-6423</addressline>
+               <addressline>Fax: 520-621-9733</addressline>
+               <addressline>URL:http://speccoll.library.arizona.edu</addressline>
+               <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+            <date calendar="gregorian" encodinganalog="date" era="ce" normal="2015">2015</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <langusage>Finding guide encoded in <language encodinganalog="language" langcode="eng"
+               scriptcode="Latn">Spanish.</language></langusage>
+         <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2017-06-23">2017-06-23</date>
+            <item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a
+               python script created by Erik Radio.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <frontmatter>
+      <titlepage>
+         <titleproper encodinganalog="245$a">Registros de Adalberto Guerrero <date
+               calendar="gregorian" era="ce" normal="1947/2005">1947-2005</date>
+         </titleproper>
+         <num>MS 536</num>
+         <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+            Collections.</publisher>
+         <p>© 2015 Arizona Board of Regents. All rights reserved.</p>
+      </titlepage>
+   </frontmatter>
+   <archdesc encodinganalog="351$c" level="collection">
+      <did>
+         <head>Visión General de la Colección</head>
+         <unitid countrycode="US" encodinganalog="99" label="Código de Referencia"
+            repositorycode="US-azu">MS 536</unitid>
+         <origination label="Creator"><corpname encodinganalog="110" role="creator" rules="aacr2"
+               >Adalberto Guerrero</corpname></origination>
+         <unittitle encodinganalog="245$a" label="Título">Registros de Adalberto Guerrero <unitdate
+               encodinganalog="245$f" label="Fecha" normal="1947/2005" type="inclusive"
+               >1947-2005</unitdate></unittitle>
+         <physdesc label="Volumen y Soporte">
+            <extent encodinganalog="300$a">3 Cajas</extent>
+            <extent encodinganalog="300$a">3 Pies Lineales</extent>
+         </physdesc>
+         <abstract encodinganalog="520" label="Resúmen">La colección documental de Adalberto
+            Guerrero contiene documentos recopilados por el educador Tucsonense y previo Decano
+            Asistente de Asuntos Estudiantiles de la Universidad de Arizona, Adalberto “Beto”
+            Guerrero. Uno de los primeros defensores de la educación bicultural y bilingüe, los
+            registros de Guerrero incluyen correspondencia, reportes, ensayos, y artículos
+            relacionados con sus esfuerzos en el campo, al igual que su testimonio ante el Congreso
+            en apoyo de la Ley de Educación Bilingüe de 1968. Se destaca también su trabajo a favor
+            de Chicanos en estudios y carreras universitarios en los años 1970s. An <extref
+              
+               xlink:href="http://www.azarchivesonline.org/xtf/view?docId=ead/uoa/UAMS536.xml"
+               title="English Language"/> version of thie finding aid
+            is available.</abstract>
+         <langmaterial label="Lengua">Inglés </langmaterial>
+         <repository label="Depósito">
+            <corpname encodinganalog="852$a">University of Arizona Libraries, Special
+               Collections</corpname>
+            <address>
+               <addressline>University of Arizona Libraries, Special Collections</addressline>
+               <addressline>PO Box 210055</addressline>
+               <addressline>Tucson, AZ 85721-0055</addressline>
+               <addressline>Phone: 520-621-6423</addressline>
+               <addressline>Fax: 520-621-9733</addressline>
+               <addressline>URL:http://speccoll.library.arizona.edu</addressline>
+               <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+      </did>
+      <accessrestrict encodinganalog="506">
+         <head>Restricciones de Acceso</head>
+         <p>No hay restricciones de accesso.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+         <head>Derechos de Autor</head>
+         <p>El Arizona Board of Regents (el Consejo de Administración de la Educación Superior del
+            Estado de Arizona) reserva los derechos sobre esta colección en nombre del University of
+            Arizona Libraries, Special Collections. La publicación, la exposición o la distribución
+            de cualquier información proveniente de esta colección requiere el permiso por escrito
+            del supervisor del Department of Archives and Special Collections.</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+         <head>Cita Bibliográfica</head>
+         <p>Registros de Adalberto Guerrero, MS 536. University of Arizona Libraries, Special
+            Collections.</p>
+      </prefercite>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Hannivett Nabahe.</p>
+      </processinfo>
+      
+      <bioghist encodinganalog="545">
+         <head>Nota Historica</head>
+         <p>Adalberto “Beto” Guerrero nació en Bisbee, Arizona el 11 de diciembre de 1929. Hijo de
+            un minero y activista sindical, Guerrero dejó la escuela durante su primer año de
+            escuela preparatoria para trabajar en Fort Huachuca. Después de contraer matrimonio con
+            su esposa Ana en 1950, él se unió a la armada militar, regresando a la minería después
+            de terminar su servicio. Durante 1953, su esposa y suegro lo convencieron para que
+            aplicara a la Universidad de Arizona, donde fue aceptado después de obtener su Diploma
+            de Educación General. En 1957, Guerrero recibió su diploma universitario en Español de
+            la Universidad de Arizona y comenzó a dar clases en la escuela preparatoria Pueblo High
+            School. En 1962, debido al éxito de su programa de español para hispanoparlantes,
+            Guerrero fue invitado a unirse al profesorado del departamento de Educación y Lenguas
+            Romances de la Universidad de Arizona. Él también trabajó como Especialista Curricular
+            con Pima Community College, desarrollando el Programa para Parlantes de Lengua de
+            Herencia, popular con hablantes nativos estudiando el español a nivel universitario.</p>
+         <p>Después de que su programa en Pueblo High School recibió acolados nacionales y fue usado
+            como modelo del Instituto de Educación Bilingüe parte de la Ley de la Defensa Nacional
+            Educativa, Guerrero fue invitado a unirse al Estudio de Tucson-NEA (National Education
+            Association) sobre la Enseñanza del Español a los Hispanoparlantes. Guerrero y un grupo
+            de pioneros en el campo publicaron sus hallazgos en 1966 en un reporte titulado “La
+            Minoría Invisible.” Ese mismo año, la NEA organizó un simposio nacional que ayudó a
+            atraer la atención a la situación precaria de los estudiantes Mexico-Americanos, y la
+            cual eventualmente culminó en audiencias legislativas. En 1967, Guerrero dió testimonio
+            en apoyo a la ley 428 del Senado, y la cual se transformó en el Titulo VII o La Ley de
+            Educación Bilingüe de 1969.</p>
+         <p>Guerrero fue el primer Chicano en servir como Decano Asistente de Asuntos Estudiantiles
+            de la Universidad de Arizona, una posición que mantuvo de 1973 a 1975. Durante su tiempo
+            en la Universidad de Arizona, Guerrero también dirigió el Programa de Verano New Start
+            (Nuevos Comienzos) y fue presidente del comité de Estudios México-Americanos. Él
+            permaneció como profesor titular en el Departamento de Lenguas Romances hasta su retiro
+            de la Universidad de Arizona en 1994. Entre los reconocimientos y premios recibidos por
+            Guerrero están el Premio de los Derechos Humanos de la NEA, el Premio de los Derechos
+            Civiles de la Comisión de los Estados Unidos, el reconocimiento como Profesor Destacado
+            en el Servicio de la Educación de Estudiantes Minoritarios, y el Premio de Pionero de la
+            Asociación Nacional para la Educación Bilingüe. En el 2002, la Escuela Secundaria
+            Adalberto Guerrero de Tucson fue nombrada en su honor, y en el 2014, el Centro
+            Chicano/Hispano de Asuntos Estudiantiles de la Universidad de Arizona fue renombrado
+            como el Centro Estudiantil Adalberto y Ana Guerrero.</p>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Alcance y Contenido</head>
+         <p>Esta colección consiste de documentos profesionales y personales de Adalberto Guerrero.
+            La mayoría de este archivo está constituido por correspondencia intercambiada con
+            miembros de varias entidades, organizaciones, comités, y otros con los que Guerrero
+            colaboró en favor del avance de la educación bilingüe y bicultural de los niños
+            México-Americanos, al igual que entrenamiento profesional y desarrollo de currículo para
+            maestros. Los documentos también abarcan su trabajo como Decano Asistente de Asuntos
+            Estudiantiles con la oficina de Asuntos Chicano/Hispanos de la Universidad de Arizona.
+            La colección también incluye transcripciones del testimonio de Guerrero ante el Congreso
+            de los Estados Unidos en apoyo de lo que sería el Titulo VII, la Ley de la Educacin
+            Bilingüe. Los registros de Guerrero contienen numerosos reportes, ensayos, artículos, y
+            recortes de periódico documentando la experiencia de los estudiantes México-Americanos
+            en la década de los 70s. El currículum vitae (historial profesional) del señor Guerrero,
+            al igual que sus muchos reconocimientos, son parte de la colección, al igual que varias
+            de las declaraciones públicas que hizo a través de los años.</p>
+      </scopecontent>
+      <relatedmaterial>
+         <head>Related Material</head>
+         <p>An <extref 
+               xlink:href="http://www.azarchivesonline.org/xtf/view?docId=ead/uoa/UAMS536.xml"
+               title="English Language"/> version of this finding aid
+            is available.</p>
+      </relatedmaterial>
+      <arrangement encodinganalog="351">
+         <head>Arreglo</head>
+         <p>Esta colección está organizada en tres series:</p>
+         <list>
+            <item>Series I: Estudios Multiculturales <unitdate>1964-1988</unitdate></item>
+            <item>Serie II: Educación Bilingüe<unitdate>1964-1992</unitdate></item>
+            <item>Serie III: Documentos Personales<unitdate>1957-2005</unitdate></item>
+         </list>
+      </arrangement>
+      <controlaccess>
+         <persname>Gaarder, Bruce, 1970-1975—Essays</persname>
+         <persname>Guerrero, Adalberto M, 1929-</persname>
+         <corpname>University of Arizona</corpname>
+         <corpname>National Education Association</corpname>
+         <corpname>U.S. Commission on Civil Rights</corpname>
+         <corpname>U.S. Office of Education</corpname>
+         <corpname>Ginn and Company</corpname>
+         <geogname>Tucson (Ariz.)</geogname>
+         <subject>Education, Bilingual—United States</subject>
+         <subject>Multicultural Education—United States</subject>
+         <subject>Chicanos</subject>
+      </controlaccess>
+      <dsc type="combined">
+         <head>Lista de Contenidos</head>
+         <c01 level="series">
+            <did>
+               <unittitle>Serie I: Estudios Multiculturales</unittitle>
+               <unitdate>1964-1988</unitdate>
+            </did>
+            <scopecontent>
+               <p>Esta serie está organizada de acuerdo a las entidades o proyectos con los que
+                  Guerrero colaboraba durante aquellos años a favor de asuntos relacionados con la
+                  educación multicultural y étnica. Algunos de los materiales están relacionados con
+                  la educación primaria y secundaria (K-12), pero la mayoría se enfoca en los
+                  estudios Chicanos y representación en las aulas universitarias. Esta serie incluye
+                  dos reportes presentados por Guerrero durante su puesto como Decano de
+                  Estudiantes, al igual que correspondencia con Arnulfo Trejo, miembro del programa
+                  de maestría en ciencias bibliotecarias de la Universidad de Arizona. Periódicos y
+                  posters se encuentras con los materiales sobredimensionados. Nota: todas las
+                  siglas incluídas en estas descripciones son las correspondientes a los nombres de
+                  las organizaciones en inglés.</p>
+            </scopecontent>
+            <c02 level="file">
+               <did>
+                  <container id="b3244cea-88e3-4271-86a2-63b3afd1b152" type="box">1</container>
+                  <container parent="b3244cea-88e3-4271-86a2-63b3afd1b152" type="folder"
+                     >1</container>
+                  <unittitle>Comité: Relaciones Multiculturales de la Universidad de
+                     Arizona</unittitle>
+                  <unitdate>1967-1970</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="cb283fb1-1ce9-423a-bccb-cbbb7a3211ca" type="box">1</container>
+                  <container parent="cb283fb1-1ce9-423a-bccb-cbbb7a3211ca" type="folder"
+                     >2</container>
+                  <unittitle>Comité: Concilio de la Raza de la Región Suroeste</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="3cad551e-f474-4239-b2f2-3f92af55b694" type="box">1</container>
+                  <container parent="3cad551e-f474-4239-b2f2-3f92af55b694" type="folder"
+                     >3</container>
+                  <unittitle>Comité: Centro de los Estudios Étnicos en Escuelas Públicas (CPSES) </unittitle>
+                  <unitdate>1967-1970</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="51addd0e-3f2f-4b15-872b-9fb5f35e8a02" type="box">1</container>
+                  <container parent="51addd0e-3f2f-4b15-872b-9fb5f35e8a02" type="folder"
+                     >4</container>
+                  <unittitle>Comité: Centro de los Estudios Étnicos en Escuelas Públicas
+                     (CPSES)</unittitle>
+                  <unitdate>1967-1970</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="b6baaf05-5ea3-4f71-ae04-5fd042f61945" type="box">1</container>
+                  <container parent="b6baaf05-5ea3-4f71-ae04-5fd042f61945" type="folder"
+                     >5</container>
+                  <unittitle>Comité: Centro de los Estudios Étnicos en Escuelas Públicas (CPSES),
+                     currículo</unittitle>
+                  <unitdate>sin fecha</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="b4bf8d9d-bfa7-4620-8beb-0aad1913fe9b" type="box">1</container>
+                  <container parent="b4bf8d9d-bfa7-4620-8beb-0aad1913fe9b" type="folder"
+                     >6</container>
+                  <unittitle>Comité: Grupo de Trabajo Multicultural, Instituto Nacional de
+                     Educación</unittitle>
+                  <unitdate>1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="172adfce-34d7-4c76-8494-74b31f83185a" type="box">1</container>
+                  <container parent="172adfce-34d7-4c76-8494-74b31f83185a" type="folder"
+                     >7</container>
+                  <unittitle>Comité: Estudios Chicanos, UC Davis</unittitle>
+                  <unitdate>1975</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="8bba5960-4456-4a8e-b444-f4aa7a53e25b" type="box">1</container>
+                  <container parent="8bba5960-4456-4a8e-b444-f4aa7a53e25b" type="folder"
+                     >8</container>
+                  <unittitle>Comité: Seminario de Verano de la Asociación de Lenguas
+                     Modernas</unittitle>
+                  <unitdate>1976</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="0c002856-4f98-4c26-94e3-249c67afd16b" type="box">1</container>
+                  <container parent="0c002856-4f98-4c26-94e3-249c67afd16b" type="folder"
+                     >9</container>
+                  <unittitle>Comité: Concilio Nacional Chicano de Educación Superior
+                     (NCCHE)</unittitle>
+                  <unitdate>1976-1977</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="cc77eba4-2bc3-4c5b-8fa5-346398ca3214" type="box">1</container>
+                  <container parent="cc77eba4-2bc3-4c5b-8fa5-346398ca3214" type="folder"
+                     >10</container>
+                  <unittitle>Comité: Programa Cultural de la Prisión Estatal (M.A.C.H.O)</unittitle>
+                  <unitdate>1976-1977</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="8ffbedea-65ee-49ee-a7c2-ffbdfe577727" type="box">1</container>
+                  <container parent="8ffbedea-65ee-49ee-a7c2-ffbdfe577727" type="folder"
+                     >11</container>
+                  <unittitle>Comité: Sociedad de Estudios Étnicos y Especializados</unittitle>
+                  <unitdate>1976-1977</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="a46c5e76-dcee-4ecc-b7c1-9417ced81927" type="box">1</container>
+                  <container parent="a46c5e76-dcee-4ecc-b7c1-9417ced81927" type="folder"
+                     >12</container>
+                  <unittitle>Comité: Relaciones Multiculturales de la Universidad de
+                     Arizona</unittitle>
+                  <unitdate>1967-1970</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="7f43d675-ea00-4239-85ce-92802b43e25f" type="box">1</container>
+                  <container parent="7f43d675-ea00-4239-85ce-92802b43e25f" type="folder"
+                     >13</container>
+                  <unittitle>Comité: Varios</unittitle>
+                  <unitdate>1982-1988</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="eab9b918-ad6e-4770-a474-ea55830c4017" type="box">1</container>
+                  <container parent="eab9b918-ad6e-4770-a474-ea55830c4017" type="folder"
+                     >14</container>
+                  <unittitle>Organización Estudiantil: Alumnos Chicanos Interesados</unittitle>
+                  <unitdate>1972-1973</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="24f074ee-c4c6-490d-bce1-8ee71fd62299" type="box">1</container>
+                  <container parent="24f074ee-c4c6-490d-bce1-8ee71fd62299" type="folder"
+                     >15</container>
+                  <unittitle>Organización Estudiantil: Alumnos Chicanos Interesados</unittitle>
+                  <unitdate>1972-1973</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="30dd5599-3463-435d-9e09-766b9a137d64" type="box">1</container>
+                  <container parent="30dd5599-3463-435d-9e09-766b9a137d64" type="folder"
+                     >16</container>
+                  <unittitle>Organización Estudiantil: Movimiento Estudiantil Chicano de Aztlán
+                     (MEChA)</unittitle>
+                  <unitdate>1974-1976</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="311489e8-1533-4d63-911b-85518be79441" type="box">1</container>
+                  <container parent="311489e8-1533-4d63-911b-85518be79441" type="folder"
+                     >17</container>
+                  <unittitle>Reportes: México-Americanos en la Educación Superior</unittitle>
+                  <unitdate>1963-1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="b123d2de-bdd3-4c7b-82dc-7c0a8d1548e8" type="box">1</container>
+                  <container parent="b123d2de-bdd3-4c7b-82dc-7c0a8d1548e8" type="folder"
+                     >18</container>
+                  <unittitle>Reporte: Comisión Estadounidense sobre Los Derechos Civiles</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="16e74e65-f42f-4ac3-89a8-1250f62f64f3" type="box">1</container>
+                  <container parent="16e74e65-f42f-4ac3-89a8-1250f62f64f3" type="folder"
+                     >19</container>
+                  <unittitle>Reporte: Comisión Estadounidense sobre Los Derechos Civiles</unittitle>
+                  <unitdate>1973-1975</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="dd7c156b-8930-4d37-bed0-68b616a7e298" type="box">1</container>
+                  <container parent="dd7c156b-8930-4d37-bed0-68b616a7e298" type="folder"
+                     >20</container>
+                  <unittitle>Reporte: Guerrero, Decano Asistente de Asuntos Estudiantiles de la
+                     Universidad de Arizona</unittitle>
+                  <unitdate>1973-1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="c38a968c-d567-404e-b299-09f30e63edfe" type="box">1</container>
+                  <container parent="c38a968c-d567-404e-b299-09f30e63edfe" type="folder"
+                     >21</container>
+                  <unittitle>Reporte: Necesidades Educativas de los México-Americanos</unittitle>
+                  <unitdate>1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="493ad102-743b-4d9f-8d70-07b491bbdea7" type="box">1</container>
+                  <container parent="493ad102-743b-4d9f-8d70-07b491bbdea7" type="folder"
+                     >22</container>
+                  <unittitle>Propuesta: Expansión de los Estudios de los Indios
+                     Americanos</unittitle>
+                  <unitdate>1971</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="fc6a2de2-8965-4955-aa17-eda565b81efd" type="box">1</container>
+                  <container parent="fc6a2de2-8965-4955-aa17-eda565b81efd" type="folder"
+                     >23</container>
+                  <unittitle>Propuesta: Solicitud de Cambio de Entradas del Currículo
+                     Educativo</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="621e81d6-a0d6-4c78-8106-20b735088ac1" type="box">1</container>
+                  <container parent="621e81d6-a0d6-4c78-8106-20b735088ac1" type="folder"
+                     >24</container>
+                  <unittitle>Convenciones</unittitle>
+                  <unitdate>1973-1988</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="1e38024e-cefe-4ee9-807d-f3eed8406431" type="box">1</container>
+                  <container parent="1e38024e-cefe-4ee9-807d-f3eed8406431" type="folder"
+                     >25</container>
+                  <unittitle>Escuela de Ciencias Bibliotecarias y de la Información
+                     (SIRLS)</unittitle>
+                  <unitdate>1974-1975</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="95b1fe3e-3d80-44a4-9123-b31d589c1718" type="box">1</container>
+                  <container parent="95b1fe3e-3d80-44a4-9123-b31d589c1718" type="folder"
+                     >26</container>
+                  <unittitle>Artículos Académicos (3)</unittitle>
+                  <unitdate>1964-1975</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="92209a0e-f705-4c98-99fb-e60911e38ee0" type="box">1</container>
+                  <container parent="92209a0e-f705-4c98-99fb-e60911e38ee0" type="folder"
+                     >27</container>
+                  <unittitle>Ensayos</unittitle>
+                  <unitdate>sin fecha</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="06592646-e25d-44a1-9269-0cb6ca9cecca" type="box">1</container>
+                  <container parent="06592646-e25d-44a1-9269-0cb6ca9cecca" type="folder"
+                     >28</container>
+                  <unittitle>Ensayos</unittitle>
+                  <unitdate>sin fecha</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="6e335f29-63c8-436a-9f09-0712868d7a0f" type="box">1</container>
+                  <container parent="6e335f29-63c8-436a-9f09-0712868d7a0f" type="folder"
+                     >29</container>
+                  <unittitle>Boletines</unittitle>
+                  <unitdate>1970-1975</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="7f132a7b-256d-4a06-9f36-ae5053d1d4d9" type="box">2</container>
+                  <container parent="7f132a7b-256d-4a06-9f36-ae5053d1d4d9" type="folder"
+                     >1</container>
+                  <unittitle>Materiales Sobredimensionados: Periódicos</unittitle>
+                  <unitdate>1968-1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="0ee8c333-c351-4605-9c77-85774f2b2edf" type="box">2</container>
+                  <container parent="0ee8c333-c351-4605-9c77-85774f2b2edf" type="folder"
+                     >2</container>
+                  <unittitle>Materiales Sobredimensionados: Posters, Americanos Destacados de Origen
+                     Mexicano</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+         </c01>
+
+         <c01 level="series">
+            <did>
+               <unittitle>Serie II: Educación Bilingüe</unittitle>
+               <unitdate>1964-1992</unitdate>
+            </did>
+            <scopecontent>
+               <p>Serie organizada de acuerdo a las organizaciones y proyectos con los que Guerrero
+                  colaboró a favor de la educación bilingüe y bicultural. Incluye correspondencia
+                  con miembros del Congreso tras la Conferencia de la Asociación Nacional de la
+                  Educación de 1966, y que culminó en el testimonio de Guerrero a favor de la que se
+                  convertiría en la Ley de Educación Bilingüe de 1969. Incluída en la serie se
+                  encuentra una copia preliminar de su testimonio, al igual que varios reportes y
+                  estudios sobresalientes y que impulsaron la necesidad de financiar y fomentar la
+                  educación bilingüe.</p>
+            </scopecontent>
+            <c02 level="file">
+               <did>
+                  <container id="63d70e24-077a-48d5-ac3c-345dd392396a" type="box">3</container>
+                  <container parent="63d70e24-077a-48d5-ac3c-345dd392396a" type="folder"
+                     >1</container>
+                  <unittitle>Asociación Nacional de la Educación (NEA)</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="f8a9af9b-cde4-4b31-bb6f-ce3c236e86c2" type="box">3</container>
+                  <container parent="f8a9af9b-cde4-4b31-bb6f-ce3c236e86c2" type="folder"
+                     >2</container>
+                  <unittitle>Asociación Nacional de la Educación (NEA)</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="5678e2f9-ab58-4fe2-8457-2b20b9c36bbd" type="box">3</container>
+                  <container parent="5678e2f9-ab58-4fe2-8457-2b20b9c36bbd" type="folder"
+                     >3</container>
+                  <unittitle>Asociación Nacional de la Educación (NEA)</unittitle>
+                  <unitdate>1966</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="0b9174b7-28b5-48e2-b4e1-a5d6814143c7" type="box">3</container>
+                  <container parent="0b9174b7-28b5-48e2-b4e1-a5d6814143c7" type="folder"
+                     >4</container>
+                  <unittitle>Asociación Nacional de la Educación (NEA)</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="aca8b49e-c244-4d18-8115-aa4c94996719" type="box">3</container>
+                  <container parent="aca8b49e-c244-4d18-8115-aa4c94996719" type="folder"
+                     >5</container>
+                  <unittitle>Instituciones de Educación Superior</unittitle>
+                  <unitdate>1966-1992</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="a1f96fef-e1b5-43ab-864f-7fd6c5ad6571" type="box">3</container>
+                  <container parent="a1f96fef-e1b5-43ab-864f-7fd6c5ad6571" type="folder"
+                     >6</container>
+                  <unittitle>Distritos Escolares Públicos</unittitle>
+                  <unitdate>1967-1992</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="69741a67-ce87-4c68-a967-2fc99e921ada" type="box">3</container>
+                  <container parent="69741a67-ce87-4c68-a967-2fc99e921ada" type="folder"
+                     >7</container>
+                  <unittitle>Testimonio ante la Asamblea de California, CA SB 53</unittitle>
+                  <unitdate>1967</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="a2fde214-22ed-4d8f-84e5-c76da7fd1860" type="box">3</container>
+                  <container parent="a2fde214-22ed-4d8f-84e5-c76da7fd1860" type="folder"
+                     >8</container>
+                  <unittitle>Testimonio ante el Congreso Nacional, S 428 y HR 514</unittitle>
+                  <unitdate>1967, 1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="18fb1873-8c92-4c98-8b62-be6c6ca670c3" type="box">3</container>
+                  <container parent="18fb1873-8c92-4c98-8b62-be6c6ca670c3" type="folder"
+                     >9</container>
+                  <unittitle>Oficina de Educación de los Estados Unidos</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="850fe81d-72bd-48e9-9bcc-6146163ff0b9" type="box">3</container>
+                  <container parent="850fe81d-72bd-48e9-9bcc-6146163ff0b9" type="folder"
+                     >10</container>
+                  <unittitle>Oficina de Educación de los Estados Unidos</unittitle>
+                  <unitdate>1970-1977</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="d7657ade-c332-4d84-800c-353adeb7b2f2" type="box">3</container>
+                  <container parent="d7657ade-c332-4d84-800c-353adeb7b2f2" type="folder"
+                     >11</container>
+                  <unittitle>Ginn and Company, Editores de Materiales de Enseñanza</unittitle>
+                  <unitdate>1978-1984</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="6c34fb82-73ce-4e57-bbcf-e8e086615a58" type="box">3</container>
+                  <container parent="6c34fb82-73ce-4e57-bbcf-e8e086615a58" type="folder"
+                     >12</container>
+                  <unittitle>Conferencia: Varios</unittitle>
+                  <unitdate>1967-1987</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="717c7666-fd54-43f8-95b0-5ac591447be6" type="box">3</container>
+                  <container parent="717c7666-fd54-43f8-95b0-5ac591447be6" type="folder"
+                     >13</container>
+                  <unittitle>Conferencia: Educación Prescolar Bilingüe, Universidad
+                     Yeshiva</unittitle>
+                  <unitdate>1967</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="a72356a8-bb23-4786-87ff-ffc9f6412d56" type="box">3</container>
+                  <container parent="a72356a8-bb23-4786-87ff-ffc9f6412d56" type="folder"
+                     >14</container>
+                  <unittitle>Conferencia: Conferencia Nacional del Sistema
+                     México-Americano</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="064589d3-5104-4913-b463-787fc92d9414" type="box">3</container>
+                  <container parent="064589d3-5104-4913-b463-787fc92d9414" type="folder"
+                     >15</container>
+                  <unittitle>Conferencia: Aspira de América</unittitle>
+                  <unitdate>1973</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="cd6a9f99-a151-4cb5-b872-c48033f2958f" type="box">3</container>
+                  <container parent="cd6a9f99-a151-4cb5-b872-c48033f2958f" type="folder"
+                     >16</container>
+                  <unittitle>Conferencia: Conferencia Internacional de la Educación
+                     Bilingüe/Bicultural</unittitle>
+                  <unitdate>1973-1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="a2332ccb-94c1-4310-86ed-5fe3e4243540" type="box">3</container>
+                  <container parent="a2332ccb-94c1-4310-86ed-5fe3e4243540" type="folder"
+                     >17</container>
+                  <unittitle>Conferencia: Educación Bilingüe en el Sur de California</unittitle>
+                  <unitdate>1973-1975</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="ab5555d8-87c8-4584-9234-6ec7510e92e2" type="box">3</container>
+                  <container parent="ab5555d8-87c8-4584-9234-6ec7510e92e2" type="folder"
+                     >18</container>
+                  <unittitle>Conferencia: Educación Bilingüe en Arizona</unittitle>
+                  <unitdate>1975, 1981</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="75d2e2c6-c619-4f60-aa5e-79fe4d908713" type="box">3</container>
+                  <container parent="75d2e2c6-c619-4f60-aa5e-79fe4d908713" type="folder"
+                     >19</container>
+                  <unittitle>Conferencia: Simposio de la Universidad de Texas</unittitle>
+                  <unitdate>1975-1976</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="20f7fbe3-617e-43a2-8f34-a95cacf812fd" type="box">3</container>
+                  <container parent="20f7fbe3-617e-43a2-8f34-a95cacf812fd" type="folder"
+                     >20</container>
+                  <unittitle>Conferencia: Programas Especiales Emergentes en la Educación
+                     Superior</unittitle>
+                  <unitdate>1976</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="38fc8ea4-4b86-4480-94e3-f5102370f196" type="box">3</container>
+                  <container parent="38fc8ea4-4b86-4480-94e3-f5102370f196" type="folder"
+                     >21</container>
+                  <unittitle>Conferencia: Conferencia de Currículo Bilingüe Bicultural</unittitle>
+                  <unitdate>1977</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="7b44cf79-5bd8-4528-b443-537fd43d0081" type="box">3</container>
+                  <container parent="7b44cf79-5bd8-4528-b443-537fd43d0081" type="folder"
+                     >22</container>
+                  <unittitle>Conferencia: Seminario sobre Bilingüismo y Educación
+                     (España)</unittitle>
+                  <unitdate>1982-1991</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="a03bd616-adb8-46ef-9fa2-871887cbdbc1" type="box">3</container>
+                  <container parent="a03bd616-adb8-46ef-9fa2-871887cbdbc1" type="folder"
+                     >23</container>
+                  <unittitle>Taller de Trabajo: Varios</unittitle>
+                  <unitdate>1973-1981</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="c151302d-e40c-44b9-9215-5d53bdb966b4" type="box">3</container>
+                  <container parent="c151302d-e40c-44b9-9215-5d53bdb966b4" type="folder"
+                     >24</container>
+                  <unittitle>Taller de Trabajo: Laboratorio Regional del Suroeste (SWRL)</unittitle>
+                  <unitdate>1976</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="bb18d630-04db-476b-93fc-5447d2b036dd" type="box">3</container>
+                  <container parent="bb18d630-04db-476b-93fc-5447d2b036dd" type="folder"
+                     >25</container>
+                  <unittitle>Taller de Trabajo: Laboratorio Regional del Suroeste (SWRL)</unittitle>
+                  <unitdate>1976-1977</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="a7326736-5ca0-4eb8-bd99-8ffac2fabbcf" type="box">3</container>
+                  <container parent="a7326736-5ca0-4eb8-bd99-8ffac2fabbcf" type="folder"
+                     >26</container>
+                  <unittitle>Taller de Trabajo: Materiales Infantiles Bilingües sobre las
+                     Humanidades</unittitle>
+                  <unitdate>1978</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="94a98dcd-a2dd-4549-8bb3-b25c120ca4cd" type="box">3</container>
+                  <container parent="94a98dcd-a2dd-4549-8bb3-b25c120ca4cd" type="folder"
+                     >27</container>
+                  <unittitle>Taller de Trabajo: Taller de Literatura Infantil en Español</unittitle>
+                  <unitdate>1980-1981</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="0a8dad6d-5fcd-4813-806e-3c6894fbccd5" type="box">3</container>
+                  <container parent="0a8dad6d-5fcd-4813-806e-3c6894fbccd5" type="folder"
+                     >28</container>
+                  <unittitle>Taller de Trabajo: Grupo de Trabajo para la Evaluación del Examen de
+                     Aptitud del Español en Arizona </unittitle>
+                  <unitdate>1982</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="f92ac899-0042-4e31-a648-c1358f0184f7" type="box">3</container>
+                  <container parent="f92ac899-0042-4e31-a648-c1358f0184f7" type="folder"
+                     >29</container>
+                  <unittitle>Reporte: Instituto para Maestros de Español de los
+                     Hispanoparlantes</unittitle>
+                  <unitdate>1963</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="587bf9de-e68b-4340-96c7-1f6b9f955820" type="box">3</container>
+                  <container parent="587bf9de-e68b-4340-96c7-1f6b9f955820" type="folder"
+                     >30</container>
+                  <unittitle>Reporte: Instituto para Maestros de Español de los
+                     Hispanoparlantes</unittitle>
+                  <unitdate>1964-1965</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="4dd37092-1ecc-4a85-8c09-30a54e2c8405" type="box">3</container>
+                  <container parent="4dd37092-1ecc-4a85-8c09-30a54e2c8405" type="folder"
+                     >31</container>
+                  <unittitle>Reporte: Instituto para Maestros de Español de los
+                     Hispanoparlantes</unittitle>
+                  <unitdate>1967-1968</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="921c32de-0414-4e80-9bb9-5a311ce89b6b" type="box">3</container>
+                  <container parent="921c32de-0414-4e80-9bb9-5a311ce89b6b" type="folder"
+                     >32</container>
+                  <unittitle>Reporte: Instituto para Maestros de Español de los
+                     Hispanoparlantes</unittitle>
+                  <unitdate>1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="a0e6f2bc-96f2-4709-8d7c-1b2697bffbce" type="box">4</container>
+                  <container parent="a0e6f2bc-96f2-4709-8d7c-1b2697bffbce" type="folder"
+                     >1</container>
+                  <unittitle>Reporte: Instituto Bilingüe-Bicultural</unittitle>
+                  <unitdate>1972-1973</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="f10fe65a-f9b9-42dd-9fb1-5e6cd3714235" type="box">4</container>
+                  <container parent="f10fe65a-f9b9-42dd-9fb1-5e6cd3714235" type="folder"
+                     >2</container>
+                  <unittitle>Reporte: Mesa Redonda Internacional Bilingüe-Bicultural</unittitle>
+                  <unitdate>1976</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="d288a574-b4a8-4a32-894e-1b0bc34bd9d9" type="box">4</container>
+                  <container parent="d288a574-b4a8-4a32-894e-1b0bc34bd9d9" type="folder"
+                     >3</container>
+                  <unittitle>Reporte: Competencias Necesarias para Ayudantes de Maestros
+                     Bilingües</unittitle>
+                  <unitdate>1976</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="5465c481-fdbd-47c8-b956-4a2cb5ceb11a" type="box">4</container>
+                  <container parent="5465c481-fdbd-47c8-b956-4a2cb5ceb11a" type="folder"
+                     >4</container>
+                  <unittitle>Reporte: Auto-Estudio de la Educación Bilingüe en la Universidad de
+                     Arizona</unittitle>
+                  <unitdate>1978</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="8b168e87-67bb-4e11-8c6a-4d09078834dd" type="box">4</container>
+                  <container parent="8b168e87-67bb-4e11-8c6a-4d09078834dd" type="folder"
+                     >5</container>
+                  <unittitle>Reporte: Evaluación de Programas de Educación Pedagógica
+                     Bilingüe</unittitle>
+                  <unitdate>1978-1980</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="5d2d82e9-be96-46c2-ad6c-894eebf28dee" type="box">4</container>
+                  <container parent="5d2d82e9-be96-46c2-ad6c-894eebf28dee" type="folder"
+                     >6</container>
+                  <unittitle>Iniciativa: Desarrollo de Capacidades Bilingües (para el Comisionado de
+                     Educación de los Estados Unidos)</unittitle>
+                  <unitdate>1963</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="27cf3e0d-c32a-4f0c-bc1a-5c1e60b92078" type="box">4</container>
+                  <container parent="27cf3e0d-c32a-4f0c-bc1a-5c1e60b92078" type="folder"
+                     >7</container>
+                  <unittitle>Iniciativa: Instituto Veraniego para Instrucción del Español de Nivel
+                     Medio</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="9818bb28-0d92-4fd6-a9c9-e7e7146be02f" type="box">4</container>
+                  <container parent="9818bb28-0d92-4fd6-a9c9-e7e7146be02f" type="folder"
+                     >8</container>
+                  <unittitle>Iniciativa: Subvención de la Ley de Educación Bilingüe</unittitle>
+                  <unitdate>1976</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="6c97e1de-50af-4f1a-a89f-4434f5688144" type="box">4</container>
+                  <container parent="6c97e1de-50af-4f1a-a89f-4434f5688144" type="folder"
+                     >9</container>
+                  <unittitle>Iniciativa: Subvención de la Ley de Educación Bilingüe</unittitle>
+                  <unitdate>1976</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="cc98955c-73ed-4973-9bf7-c3fe37c05941" type="box">4</container>
+                  <container parent="cc98955c-73ed-4973-9bf7-c3fe37c05941" type="folder"
+                     >10</container>
+                  <unittitle>Directiva: Título VII de la Ley de Educación</unittitle>
+                  <unitdate>1965-1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="32cc2567-9d8f-4237-9559-ec5f900d121b" type="box">4</container>
+                  <container parent="32cc2567-9d8f-4237-9559-ec5f900d121b" type="folder"
+                     >11</container>
+                  <unittitle>Directiva: Proyecto del Título III de la Ley de Educación Primaria y
+                     Secundaria (ESEA)</unittitle>
+                  <unitdate>1973</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="bfbb9a3c-4bcd-465d-9e4f-a6857c849952" type="box">5</container>
+                  <container parent="bfbb9a3c-4bcd-465d-9e4f-a6857c849952" type="folder"
+                     >1</container>
+                  <unittitle>Ensayos: Varios</unittitle>
+                  <unitdate>1963-1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="8ed9ac4f-456e-473f-be38-59abe524967c" type="box">5</container>
+                  <container parent="8ed9ac4f-456e-473f-be38-59abe524967c" type="folder"
+                     >2</container>
+                  <unittitle>Ensayos: Gaarder, Bruce</unittitle>
+                  <unitdate>1970-1975</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="f4fdd3ad-cd89-4fbf-a9e7-3b78dc9b31cf" type="box">5</container>
+                  <container parent="f4fdd3ad-cd89-4fbf-a9e7-3b78dc9b31cf" type="folder"
+                     >3</container>
+                  <unittitle>Estudio: Asesoramiento Curricular (por la Oficina de
+                     Oportunidad)</unittitle>
+                  <unitdate>1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="d3f1dc7b-89dd-45a9-9c92-4da80c214a86" type="box">5</container>
+                  <container parent="d3f1dc7b-89dd-45a9-9c92-4da80c214a86" type="folder"
+                     >4</container>
+                  <unittitle>Estudio: Estudiantes México-Americanos Bilingües de
+                     Secundaria</unittitle>
+                  <unitdate>1973</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="d06674b6-d454-41b8-9567-8e90e69a6284" type="box">5</container>
+                  <container parent="d06674b6-d454-41b8-9567-8e90e69a6284" type="folder"
+                     >5</container>
+                  <unittitle>Estudio: Sobre el Uso de Exámenes de Coeficiente Intelectual (CI) en
+                     Niños México-Americanos</unittitle>
+                  <unitdate>1973</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="ad8938b5-3775-4471-8b20-f506ba3bacf1" type="box">5</container>
+                  <container parent="ad8938b5-3775-4471-8b20-f506ba3bacf1" type="folder"
+                     >6</container>
+                  <unittitle>Artículos: Varios</unittitle>
+                  <unitdate>1968-1973</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Serie III: Documentos Personales</unittitle>
+               <unitdate>1957-2005</unitdate>
+            </did>
+            <scopecontent>
+               <p>Incluye dos discos compactos (CDs) con PDFs del álbum de memorias del Club Iris,
+                  un club de Bisbee y al cual Guerrero perteneció desde su juventud (1947-2011), al
+                  igual que correspondencia y recortes de periódicos documentando los logros
+                  profesionales y declaraciones públicas que Guerrero hizo atraves de los años.</p>
+            </scopecontent>
+            <c02 level="file">
+               <did>
+                  <container id="ad2dcf85-e0a0-4f58-a40e-0fa0c6d25a11" type="box">5</container>
+                  <container parent="ad2dcf85-e0a0-4f58-a40e-0fa0c6d25a11" type="folder"
+                     >7</container>
+                  <unittitle>Currículum Vítae</unittitle>
+                  <unitdate>1957-1992</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="f4436ec8-016b-4eed-8fe7-da04032ce9c1" type="box">5</container>
+                  <container parent="f4436ec8-016b-4eed-8fe7-da04032ce9c1" type="folder"
+                     >8</container>
+                  <unittitle>Declaraciones Públicas</unittitle>
+                  <unitdate>1967-1986</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="3945d3d0-153e-4ccf-8c8a-b609da39ae4c" type="box">5</container>
+                  <container parent="3945d3d0-153e-4ccf-8c8a-b609da39ae4c" type="folder"
+                     >9</container>
+                  <unittitle>Correspondencia</unittitle>
+                  <unitdate>1968-1979</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="e2da8a01-90cd-446b-a625-be30b0f9e1c2" type="box">5</container>
+                  <container parent="e2da8a01-90cd-446b-a625-be30b0f9e1c2" type="folder"
+                     >10</container>
+                  <unittitle>Correspondencia</unittitle>
+                  <unitdate>1980-1991</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="350051fe-0f24-469a-9bc8-a6c41ed0b161" type="box">5</container>
+                  <container parent="350051fe-0f24-469a-9bc8-a6c41ed0b161" type="folder"
+                     >11</container>
+                  <unittitle>Recortes de Periódico / Álbum de Memorias</unittitle>
+                  <unitdate>1947-2011</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="c2e20784-90d0-43ea-b902-91a9e6d5d15f" type="box">5</container>
+                  <container parent="c2e20784-90d0-43ea-b902-91a9e6d5d15f" type="folder"
+                     >12</container>
+                  <unittitle>Reconocimientos</unittitle>
+                  <unitdate>1972-2005</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

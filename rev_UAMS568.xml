@@ -1,0 +1,1073 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+   <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+      <eadid encodinganalog="852">UAMS568</eadid> 
+      <filedesc> 
+         <titlestmt> 
+            <titleproper encodinganalog="title">Defenders of Wildlife Records
+	 	       <date calendar="gregorian" certainty="approximate" era="ce" normal="2000/2012" type="inclusive">2000-2012</date>
+	 	   
+	 	       <date normal="2000/2007" type="bulk">(bulk 2000-2007)</date>
+	 	    </titleproper>
+	 	    <titleproper altrender="nodisplay" type="filing"> Defenders of Wildlife Records
+	 	   
+            </titleproper>
+	        <author>Processed by Doug Welch.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date calendar="gregorian" era="ce" normal="2016">2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Doug Welch. 
+            <date encodinganalog="date" era="ce" normal="20160602">June 2, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+
+   <revisiondesc><change><date normal="2017-06-23">2017-06-23</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+
+   <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+      <did> 
+         <head>Collection Summary</head> 
+  	     <unittitle encodinganalog="245" label="Collection Name"> Defenders of Wildlife Records
+            <unitdate label="Dates" normal="2000/2012" type="inclusive">2000-2012</unitdate>
+            <unitdate label="Dates" normal="2000/2007" type="bulk">(bulk 2000-2007)</unitdate> 
+  	     </unittitle>	 
+	     <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 568</unitid>
+	     <origination label="Creator"> 
+            <corpname encodinganalog="110" source="lcnaf">Defenders of Wildlife</corpname> </origination> 
+      	<abstract label="Abstract">Environmental assessments reports 2000-2011 of various border security installations compiled by government agencies tasked with border security as well as reports from various business and academic institutions regarding social and economic conditions of the US-Mexico border region.</abstract> 
+      	<physdesc encodinganalog="300$a" label="Physical Description"><extent>5.1 linear ft.</extent></physdesc>	 
+	     <repository label="Repository"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+      	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English</language> and <language encodinganalog="546" langcode="spa" scriptcode="Latin">Spanish.</language></langmaterial>
+   	        
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+      	<p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Defenders of Wildlife Records (MS 568). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Doug Welch.</p>
+      </processinfo>
+      <bioghist encodinganalog="545"> 
+         <head>Historical Note</head> 
+      	<p>Founded in 1947, Defenders of Wildlife is a national organization focused on wildlife conservation. In 2007 the Defenders of Wildlife brought forward a lawsuit to stop construction of a wall on the US-Mexico border due to concern it might damage wildlife habitat.</p> 
+      </bioghist> 
+      <arrangement encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into four series.</p>	 
+         <list>
+         	<item>Series I: Environmental Reports from Government Agencies,
+         		<unitdate>2000-2011</unitdate></item>
+         	<item>Series II: Reports on Economic and Social Conditions on the Border, 
+         		<unitdate>2000-2006</unitdate></item>
+  		    
+         	<item>Series III: Legal Brief and Ephemera, <unitdate>2007-2010</unitdate></item>
+         	<item>Series IV: CD/ROMs of Environmental Assessments and Border-Related Presentations, <unitdate>2007-2012</unitdate></item>
+         </list>
+      </arrangement> 
+      <scopecontent encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>The collection (2000-2012) contains materials including environmental assessment reports, books, CD/ROMs and ephemera. Environmental reports are arranged in chronological order to emphasize development over time while published reports (series II) are arranged alphabetically by title. Series IV, the CD/ROMs replicate this organizational structure with government reports in chronological order and all others in alphabetical order.</p> 
+      </scopecontent> 
+
+      <controlaccess>
+         <corpname>Department of Homeland Security.</corpname><corpname>U.S. Border Patrol </corpname><corpname>U.S. Army Corps of Engineers </corpname><subject>Environmental degradation--Mexican-American Border Region.</subject><subject>Border security.</subject><subject>Boundaries, boundary markers.</subject><geogname>Tucson (Ariz.) </geogname><geogname>Yuma (Ariz.) </geogname><geogname>Nogales (Ariz.)  </geogname><geogname>Naco (Ariz.) </geogname></controlaccess>
+  
+      <dsc type="combined"> 
+         <head>Container List</head> 
+         <c01 level="series"> 
+            <did> 
+            	<unitid>Series I</unitid>
+            	<unittitle>Environmental Reports from Government Agencies,</unittitle> 
+            	<unitdate type="inclusive">July, 2000-January, 2011</unitdate>
+		    </did>
+	 	    
+		    <c02 level="file"> 
+               <did> 
+			      <container id="7dc8f30f-d927-4cbf-8a28-3bde07f42a55" type="box">1</container> 
+			      <container parent="7dc8f30f-d927-4cbf-8a28-3bde07f42a55" type="folder">1</container> 
+               	<unittitle>
+               		<title render="italic">Draft Environmental Assessment for Infrastructure within U.S. Border Patrol Naco-Douglas Corridor Cochise County, Arizona. Immigration and Naturalization Service Washington, D.C. July 2000
+               	</title>
+               	</unittitle>
+			   </did> 
+		    </c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="1fd3ef49-327d-4e60-8083-20111021a1d5" type="box">1</container> 
+         			<container parent="1fd3ef49-327d-4e60-8083-20111021a1d5" type="folder">2</container> 
+         			<unittitle>
+         				<title render="italic">Supplemental Programmatic Environmental Impact Statement for INS and JTF-6 Activities along the U.S./Mexico Border July 2000</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="331d620f-86c9-4aa2-a16e-b8d824c15d63" type="box">1</container> 
+         			<container parent="331d620f-86c9-4aa2-a16e-b8d824c15d63" type="folder">3</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for Infrastructure within U.S. Border Patrol Naco-Douglas Corridor Cochise County, Arizona August 2000
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="329bf224-5b10-4da3-a891-18e83893917d" type="box">1</container> 
+         			<container parent="329bf224-5b10-4da3-a891-18e83893917d" type="folder">4</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment Immigration &amp; Naturalization Service Expansion of Parking/Storage Facilities and new Traffic Checkpoint at Sonoita, Arizona December 2000
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="c948673c-24cf-45e8-b030-56306d61bfc0" type="box">1</container> 
+         			<container parent="c948673c-24cf-45e8-b030-56306d61bfc0" type="folder">5</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment Immigration &amp; Naturalization Service. New Palo Parado Temporary Traffic Checkpoint. Nogales, Arizona December 2000
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="29656127-24e8-49f2-96ed-fa927cd04615" type="box">1</container> 
+         			<container parent="29656127-24e8-49f2-96ed-fa927cd04615" type="folder">6</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment Immigration &amp; Naturalization Service. New Palo Parado Temporary Traffic Checkpoint. Nogales, Arizona January 2001
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="2321685a-9e6e-4fb0-b508-188100ec1e33" type="box">1</container> 
+         			<container parent="2321685a-9e6e-4fb0-b508-188100ec1e33" type="folder">7</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment Immigration &amp; Naturalization Service Expansion of Parking/Storage Facilities and New Traffic Checkpoint at Sonoita, Arizona January 2001
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="51edc5a4-baee-46db-8c0e-e8a98f18d1df" type="box">1</container> 
+         			<container parent="51edc5a4-baee-46db-8c0e-e8a98f18d1df" type="folder">8</container> 
+         			<unittitle>
+         				<title render="italic">Supplemental Programmatic Environmental Impact Statement for INS and JTF-6 Activities along the U.S./Mexico Border June 2001
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="834bf10b-1054-41dd-9635-cb6a3f295722" type="box">1</container> 
+         			<container parent="834bf10b-1054-41dd-9635-cb6a3f295722" type="folder">9</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment Portable Lights within the Naco Corridor Cochise County, Arizona July 2001
+         				</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="595c40f7-02da-433c-9388-ce77f868a896" type="box">1</container> 
+         			<container parent="595c40f7-02da-433c-9388-ce77f868a896" type="folder">10</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment Portable Lights within the Naco Corridor Cochise County, Arizona December 2001
+         				</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="0d07a343-0662-4044-a1c9-6d028ff71526" type="box">1</container> 
+         			<container parent="0d07a343-0662-4044-a1c9-6d028ff71526" type="folder">11</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for Road Improvements along King’s Ranch Road and the US-Mexico Border near Douglas, Cochise County, Arizona January 2002
+         				</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="85b66a2a-f76c-491c-a993-08df913ce57d" type="box">1</container> 
+         			<container parent="85b66a2a-f76c-491c-a993-08df913ce57d" type="folder">12</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for Road Improvements along King’s Ranch Road and the US-Mexico Border near Douglas, Cochise County, Arizona February 2002
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="8bfacd33-b94c-4363-a5e2-9303f75ddd83" type="box">1</container> 
+         			<container parent="8bfacd33-b94c-4363-a5e2-9303f75ddd83" type="folder">13</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for Operation Skywatch USBP Tucson Sector, Arizona April- May 2002</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="c85dfbc0-c286-48da-83df-f58fbfe76049" type="box">2</container> 
+         			<container parent="c85dfbc0-c286-48da-83df-f58fbfe76049" type="folder">1</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment. U.S. Border Patrol Temporary Vehicle Barriers Naco and Douglas, Arizona. August 2002
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="76182c3f-5cc0-49b6-b052-1d8d503dc6f6" type="box">2</container> 
+         			<container parent="76182c3f-5cc0-49b6-b052-1d8d503dc6f6" type="folder">2</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Installation and Operation of Nine Remote Video Surveillance Systems in the Tucson Sector Cochise County, Arizona September 2002
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="cacb7eef-04d3-427c-ae26-5ef721e11b36" type="box">2</container> 
+         			<container parent="cacb7eef-04d3-427c-ae26-5ef721e11b36" type="folder">3</container> 
+         			<unittitle><title render="italic">Environmental Assessment U.S. Border Patrol Station Willcox, Arizona September 2002</title></unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="be112e86-bd78-471f-91bb-bfb2eee8e7e3" type="box">2</container> 
+         			<container parent="be112e86-bd78-471f-91bb-bfb2eee8e7e3" type="folder">4</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Installation of a Relay Tower at Crawford Hill United States Border Patrol, Nogales Station, Santa Cruz County, Arizona October 2002
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="4fa5b5a8-18cd-4d70-95bb-4cea20f2e816" type="box">2</container> 
+         			<container parent="4fa5b5a8-18cd-4d70-95bb-4cea20f2e816" type="folder">5</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for Ephriam Ridge Reclamation United States Border Patrol Tucson Sector, Nogales Station Santa Cruz County, Arizona January 2003
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="c0fd03ce-31ad-4af8-a264-e902be694eab" type="box">2</container> 
+         			<container parent="c0fd03ce-31ad-4af8-a264-e902be694eab" type="folder">6</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for Naco Roadway Improvements and Fence Construction Naco, Cochise County, Arizona January 2003
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="375783a1-b402-4c5f-8692-578c7446dcf2" type="box">2</container> 
+         			<container parent="375783a1-b402-4c5f-8692-578c7446dcf2" type="folder">7</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Installation and Operation of Nine Remote Video Surveillance Systems in the Tucson Sector Cochise County, Arizona January 2003
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="b939d8a8-3e93-488c-9dd4-2742d6ca80fc" type="box">2</container> 
+         			<container parent="b939d8a8-3e93-488c-9dd4-2742d6ca80fc" type="folder">8</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Impact Statement for Operation Rio Grande February 2003
+         				</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="93df1076-30c7-4a3e-add5-011ec2c4db40" type="box">2</container> 
+         			<container parent="93df1076-30c7-4a3e-add5-011ec2c4db40" type="folder">9</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for Ephraim Ridge Reclamation United States Border Patrol Tucson Sector, Nogales Station Santa Cruz County, Arizona March 2003
+         				</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="a7f49521-c922-48a2-b665-e9d20fa72e9f" type="box">2</container> 
+         			<container parent="a7f49521-c922-48a2-b665-e9d20fa72e9f" type="folder">10</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for Naco Roadway and Fence Construction Naco, Cochise County, Arizona April 2003</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="f166495f-2a02-45fb-bbcf-dd8f42cc041f" type="box">2</container> 
+         			<container parent="f166495f-2a02-45fb-bbcf-dd8f42cc041f" type="folder">11</container> 
+         			<unittitle>
+         				<title render="italic">Supplemental Environmental Assessment for Infrastructure within U.S. Border Patrol Naco-Douglas Corridor Cochise County, Arizona May 2003
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="b73a427d-4779-48a4-a393-0f633b62bd9c" type="box">2</container> 
+         			<container parent="b73a427d-4779-48a4-a393-0f633b62bd9c" type="folder">12</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for Nogales Infrastructure Improvements Tucson Sector, Nogales Station Santa Cruz County, Arizona May 2003
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="5e8e449f-1061-40c3-b65b-2166597c49fd" type="box">2</container> 
+         			<container parent="5e8e449f-1061-40c3-b65b-2166597c49fd" type="folder">13</container> 
+         			<unittitle>
+         				<title render="italic">Supplemental Environmental Assessment for the Expansion of Operation Desert Grip USBP Tucson and Yuma Sectors, Arizona May 2003
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="e3400ac0-c200-48ff-a42b-18195961ae34" type="box">2</container> 
+         			<container parent="e3400ac0-c200-48ff-a42b-18195961ae34" type="folder">14</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Purchase of 30 Acres of Property United States Border Patrol Tucson Sector, Nogales Station Santa Cruz County, Arizona May 2003
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="e9f4fb6a-b824-40a4-a155-a257450bc37d" type="box">2</container> 
+         			<container parent="e9f4fb6a-b824-40a4-a155-a257450bc37d" type="folder">15</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Installation and Maintenance of Eight Rescue Beacons USBP Tucson Sector, Arizona May 2003
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="d174a0e3-56bf-4c8e-9f83-683d12f55fdd" type="box">2</container> 
+         			<container parent="d174a0e3-56bf-4c8e-9f83-683d12f55fdd" type="folder">16</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Establishment and Operation of a Temporary Checkpoint on State Route 85 United Border Patrol Ajo Station, Arizona July 2003
+         				</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="c7e70b2b-f671-41a1-8c1e-19e2b51b8760" type="box">2</container> 
+         			<container parent="c7e70b2b-f671-41a1-8c1e-19e2b51b8760" type="folder">17</container> 
+         			<unittitle>
+         				<title render="italic">Draft Environmental Impact Statement LC-03-045 Transfer of Title to Facilities, Works and Lands of the Gila Project, Wellton-Mohawk Division for Wellton-Mohawk Irrigation and Drainage District, Yuma County. August 2003
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="6edb166a-99b2-4aac-aad3-cd96d4621b01" type="box">3</container> 
+         			<container parent="6edb166a-99b2-4aac-aad3-cd96d4621b01" type="folder">1</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for Nogales Infrastructure Improvements Tucson Sector, Nogales Station Santa Cruz County, Arizona October 2003
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="14ba77d9-4be8-4ec3-8344-2bbf1f5571ed" type="box">3</container> 
+         			<container parent="14ba77d9-4be8-4ec3-8344-2bbf1f5571ed" type="folder">2</container> 
+         			<unittitle>
+         				<title render="italic">Supplemental Environmental Assessment for Infrastructure within U.S. Border Patrol Naco-Douglas Corridor Cochise County, Arizona November 2003
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="d36f4ffc-0024-408c-b603-a16bd777794c" type="box">3</container> 
+         			<container parent="d36f4ffc-0024-408c-b603-a16bd777794c" type="folder">3</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Purchase of 30 Acres of Property and Accompanying Buildings United States Border Patrol Tucson Sector, Nogales Station Santa Cruz County, Arizona November 2003
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="a55fc092-67d1-42fd-9a7b-86d339ac6cf0" type="box">3</container> 
+         			<container parent="a55fc092-67d1-42fd-9a7b-86d339ac6cf0" type="folder">4</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Establishment and Operation of a Temporary Checkpoint on State Route 85 Office of Border Patrol Ajo Station, Arizona January 2004
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="519b5ff2-6706-4be5-b17e-7fa012336c90" type="box">3</container> 
+         			<container parent="519b5ff2-6706-4be5-b17e-7fa012336c90" type="folder">5</container> 
+         			<unittitle>
+         				<title render="italic">Draft Environmental Assessment for the Installation and Operation of 12 Remote Video Surveillance (RVS) Systems Office of Border Patrol, Deming Station, Luna County New Mexico. U.S. March 2004
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="7b97b52e-51ab-473c-a77f-89db2e16ba60" type="box">3</container> 
+         			<container parent="7b97b52e-51ab-473c-a77f-89db2e16ba60" type="folder">6</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Impact Statement for Operation Rio Grande April 2004
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="2620ca0b-3201-4b72-92d4-3eb48303ba5d" type="box">3</container> 
+         			<container parent="2620ca0b-3201-4b72-92d4-3eb48303ba5d" type="folder">7</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Installation and Operation of 11 Remote Video Surveillance (RVS) Systems Office of Border Patrol, Del Rio Station, Val Verde and Kinney County, Texas May 2004</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="43b4e16f-741d-4e0d-b7d4-e3dd8e7eb175" type="box">3</container> 
+         			<container parent="43b4e16f-741d-4e0d-b7d4-e3dd8e7eb175" type="folder">8</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Installation and Operation of One Remote Video Surveillance (RVS) System Office of Border Patrol, El Paso Station, El Paso County Station June 2004</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="2bb9d870-694e-4369-b319-f9855e5af3f7" type="box">3</container> 
+         			<container parent="2bb9d870-694e-4369-b319-f9855e5af3f7" type="folder">9</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Installation and Operation of One Remote Video Surveillance (RVS) System Office of Border Patrol, El Paso Station, El Paso County Station June, September 2004
+         				</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="89cf9da2-f019-4858-9faa-51ab7c95dfcc" type="box">3</container> 
+         			<container parent="89cf9da2-f019-4858-9faa-51ab7c95dfcc" type="folder">10</container> 
+         			<unittitle>
+         				<title render="italic">Transforming the Southern Border: Providing Security &amp; Prosperity in the Post 9/11 World. Jim Turner, Ranking Member House Select Committee on Homeland Security
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="f48aa880-9d31-4e56-9ee6-dafa21e0b01a" type="box">3</container> 
+         			<container parent="f48aa880-9d31-4e56-9ee6-dafa21e0b01a" type="folder">11</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Installation and Operation of 12 Remote Video Surveillance (RVS) Systems Office of Border Patrol, Deming Station, Luna County, New Mexico. September 2004
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="aad71df9-458a-42ca-90de-b5ef87506a58" type="box">3</container> 
+         			<container parent="aad71df9-458a-42ca-90de-b5ef87506a58" type="folder">12</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Installation and Operation of 11 Remote Video Surveillance (RVS) Systems Office of Border Patrol, Del Rio Station, Val Verde and Kinney County, Texas October 2004
+         				</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="2f215854-ff6a-4eca-bb82-da11e493cbb9" type="box">4</container> 
+         			<container parent="2f215854-ff6a-4eca-bb82-da11e493cbb9" type="folder">1</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Installation of Permanent Lighting and a Border Infrastructure System Office of Border Patrol Yuma Sector, Arizona October 2004
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="d74e7bf5-a299-408f-a377-9e5818944b2b" type="box">4</container> 
+         			<container parent="d74e7bf5-a299-408f-a377-9e5818944b2b" type="folder">2</container> 
+         			<unittitle>
+         				<title render="italic">Programmatic Environmental Impact Statement for Office of Border Patrol Operational Activities within the Border Areas of the Tucson and Yuma Sectors in Arizona. U.S. Department of Homeland Security, U.S. Customs and Border Protection Washington D.C. October 2004
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="4be1744e-f620-402e-a5bc-5e823751502f" type="box">4</container> 
+         			<container parent="4be1744e-f620-402e-a5bc-5e823751502f" type="folder">3</container> 
+         			<unittitle>
+         				<title render="italic">Draft Programmatic Environmental Assessment for Expanded Border Patrol Activities at Ft. Huachuca, Arizona November, 2004
+         				</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="8f7f9f12-7f4b-410d-95d0-3e2df2b2fa87" type="box">4</container> 
+         			<container parent="8f7f9f12-7f4b-410d-95d0-3e2df2b2fa87" type="folder">4</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Installation of Permanent Lighting and a Border Infrastructure System Office of Border Patrol Yuma Sector, Arizona December 2004
+         				</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="fb283f00-8cfe-42e2-9650-9a4055de13dd" type="box">4</container> 
+         			<container parent="fb283f00-8cfe-42e2-9650-9a4055de13dd" type="folder">5</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for Temporary Vehicle Barriers, Tucson Sector Pima, Santa Cruz and Cochise Counties, Arizona December 2004
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="73c58915-70cd-459b-bd54-1db9b611d741" type="box">4</container> 
+         			<container parent="73c58915-70cd-459b-bd54-1db9b611d741" type="folder">6</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment Proposed Border and Access Road Improvements Sonoita Station Area of Operation Cochise and Santa Cruz Counties, Arizona June 2005
+         				</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="721d3851-798d-4dc7-a831-6bdf1f3c7f39" type="box">4</container> 
+         			<container parent="721d3851-798d-4dc7-a831-6bdf1f3c7f39" type="folder">7</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment Proposed Border and Access Road Improvements Sonoita Station Area of Operation Cochise and Santa Cruz Counties, Arizona October 2005
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="4b74acea-7689-4816-8747-1bb1afa7ffda" type="box">4</container> 
+         			<container parent="4b74acea-7689-4816-8747-1bb1afa7ffda" type="folder">8</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Lease Acquisition and Installation of 19 Light Sites near Ephraim Ridge Nogales, Arizona February 2006
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="eafaa2c2-c25f-40aa-9980-0c636a2a5c3f" type="box">4</container> 
+         			<container parent="eafaa2c2-c25f-40aa-9980-0c636a2a5c3f" type="folder">9</container> 
+         			<unittitle>
+         				<title render="italic">Supplemental Environmental Assessment for the Installation of Permanent Security Lighting and a Border Infrastructure System Office of Border Patrol Yuma Sector, Arizona May 2006
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="33e841ad-4384-4b19-821c-30afb99283ac" type="box">4</container> 
+         			<container parent="33e841ad-4384-4b19-821c-30afb99283ac" type="folder">10</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Lease Acquisition and Installation of 19 Light Sites near Ephraim Ridge Nogales, Arizona October 2006
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="7745ddaf-6ad2-411a-ae82-605b34c2f35a" type="box">4</container> 
+         			<container parent="7745ddaf-6ad2-411a-ae82-605b34c2f35a" type="folder">11</container> 
+         			<unittitle>
+         				<title render="italic">Draft Supplemental Environmental Assessment for Nogales Infrastructure Improvements United States Border Patrol Tucson Sector, Nogales Station Santa Cruz County, Arizona, D.C. April 2007
+         				</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="4f9e2313-dcba-441c-b2fb-2255d29897c9" type="box">4</container> 
+         			<container parent="4f9e2313-dcba-441c-b2fb-2255d29897c9" type="folder">12</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for Retrofitting Permanent Vehicle Barriers between Avenues C and B, San Luis, Yuma County, Arizona. May 2007
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="33b8f665-d4e8-4e1a-8831-081d5bf9c800" type="box">4</container> 
+         			<container parent="33b8f665-d4e8-4e1a-8831-081d5bf9c800" type="folder">13</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Relocation and Operation of Customs and Border Protection Office of Border Patrol Casa Grande Station, Tucson Sector, Arizona. 29 June 2007
+         			</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="02aa8e3c-805f-4fda-8251-07450dc45438" type="box">4</container> 
+         			<container parent="02aa8e3c-805f-4fda-8251-07450dc45438" type="folder">14</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment Pedestrian Fence Near Sasabe, Arizona Office of Border Patrol Tucson Sector, Pima County, Arizona July 2007
+         				</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="69a5dd1d-c341-4aa6-9598-c5daa1188cfc" type="box">4</container> 
+         			<container parent="69a5dd1d-c341-4aa6-9598-c5daa1188cfc" type="folder">15</container> 
+         			<unittitle>
+         				<title render="italic">Environmental Assessment for the Relocation and Operation of Customs and Border Protection, Office of Border Patrol Casa Grande Station, Tucson Sector, Arizona. 3 August 2007</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="f9b0b929-88a5-4091-9044-f43c6c5d5772" type="box">4</container> 
+         			<container parent="f9b0b929-88a5-4091-9044-f43c6c5d5772" type="folder">16</container> 
+         			<unittitle>
+         				<title render="italic">Draft Environmental Assessment for the Proposed Construction, Operation and Maintenance of Tactical Infrastructure Tucson Sector, Arizona. January 2008</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="ce6b5394-8fc7-4b91-918c-a5e5798acb43" type="box">4</container> 
+         			<container parent="ce6b5394-8fc7-4b91-918c-a5e5798acb43" type="folder">17</container> 
+         			<unittitle>
+         				<title render="italic">Supplemental Environmental Assessment for the SBInet Ajo-1 Tower Project Ajo Station’s Area of Responsibility U.S. Border Patrol, Tucson Sector January 2011</title>
+         			</unittitle>
+         		</did> 
+         	</c02> 
+	     </c01> 
+      	<c01 level="series"> 
+      		<did> 
+      			<unitid>Series 2</unitid>
+      			
+      			<unittitle>
+      				Reports on Economic and Social Conditions on the Border,
+      				
+      			</unittitle> 
+      			<unitdate type="inclusive">2000-2006</unitdate>
+      		</did>
+      		
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="a1383cfa-d7be-4a66-b063-d448eb053529" type="box">5</container> 
+      				<container parent="a1383cfa-d7be-4a66-b063-d448eb053529" type="folder">1</container> 
+      				<unittitle>
+      					<title render="italic">Arizona Coordinated Plan to Mitigate and Prevent Environmental and Other Impacts Caused by Undocumented Aliens Crossing Federal and Tribal Lands. Southwest Strategy
+      				</title>
+      				</unittitle>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="d78a2e66-a057-4915-81fb-e7805a01e873" type="box">5</container> 
+      				<container parent="d78a2e66-a057-4915-81fb-e7805a01e873" type="folder">2</container> 
+      				<unittitle>
+      					<title render="italic">Border Environmental Education Resource Guide, Southern New Mexico, South Texas, Northern Chihuahua, North Coahuila, Northern Nuevo Leon, Northern Tamaulipas</title>
+      				</unittitle>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 	
+      				<unittitle>
+      					<title render="italic">Border Environmental Education Resource Guide Southern Arizona, Southern California, Northern Baja California, Northern Sonora</title>
+      				</unittitle>
+      			</did> 
+      		</c02> 
+            		<c02 level="file"> 
+            			
+      			<did> 
+      				<container id="6f4d44b3-eb60-4870-87d8-53babb37b58f" type="box">5</container> 
+      				<container parent="6f4d44b3-eb60-4870-87d8-53babb37b58f" type="folder">3</container> 
+      				
+      				<unittitle>
+      					<title render="italic">Managing Mexican Migration to the United States recommendations for Policymakers
+      				</title>
+      				</unittitle>
+      				<unitdate>2004</unitdate>
+      			</did>
+            		</c02>
+      				<c02 level="file"> 
+      					<did> 
+      						<unittitle>
+      							<title render="italic">U.S.-Mexico Border Security and the Evolving Security Relationship Recommendations for Policymakers
+      						</title>
+      						</unittitle>
+      			<unitdate>2004</unitdate>
+      					</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="45bbafcc-4278-4811-8405-d8831238632f" type="box">5</container> 
+      				<container parent="45bbafcc-4278-4811-8405-d8831238632f" type="folder">4</container> 
+      				<unittitle>
+      					<title render="italic">Reports of the Good Neighbor Environmental</title>
+      				</unittitle>
+      				<unitdate>2003, 2004, 2006</unitdate>
+      				
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ce1935ea-7c1a-4d2f-942d-1a0d448bab0b" type="box">5</container> 
+      				<container parent="ce1935ea-7c1a-4d2f-942d-1a0d448bab0b" type="folder">5</container> 
+      				<unittitle>
+      					<title render="italic">Report from the Border,
+      					</title>
+      				</unittitle>
+      				<unitdate>February 13, 2003</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="9152fddc-7b42-4a31-82fa-dd2886e6f82f" type="box">5</container> 
+      				<container parent="9152fddc-7b42-4a31-82fa-dd2886e6f82f" type="folder">6</container> 
+      				<unittitle>
+      					<title render="italic">Transboundary Ecosystem Management(1 of 3)
+      				</title>
+      				</unittitle>
+      				<unitdate>April 26-28, 2004</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="0ecf472f-ef31-445b-bf95-f0b461e894b7" type="box">5</container> 
+      				<container parent="0ecf472f-ef31-445b-bf95-f0b461e894b7" type="folder">7</container> 
+      				<unittitle>
+      					<title render="italic">Transboundary Ecosystem Management(2 of 3)</title>
+      				</unittitle>
+      				<unitdate>April 26-28, 2004</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="fe1c439c-5c7b-46a5-b961-29def9af4cd7" type="box">5</container> 
+      				<container parent="fe1c439c-5c7b-46a5-b961-29def9af4cd7" type="folder">8</container> 
+      				<unittitle>
+      					<title render="italic">Transboundary Ecosystem Management(3 of 3)</title>
+      				</unittitle>
+      				<unitdate>April 26-28, 2004</unitdate>
+      			</did> 
+      		</c02> 
+      	</c01>
+      	<c01 level="series"> 
+      		<did> 
+      			<unitid>Series III</unitid>
+      			<unittitle>Legal Brief and Ephemera,</unittitle> 
+      			<unitdate type="inclusive">2007-2010</unitdate>
+      		</did>
+      		
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="cc8ab713-355b-4311-adcd-f5711f02f92b" type="box">5</container> 
+      				<container parent="cc8ab713-355b-4311-adcd-f5711f02f92b" type="folder">9</container> 
+      				<unittitle>Legal Brief, Maps of Border Region,</unittitle>
+      				<unitdate>October 9, 2007</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="7f82e23c-c055-488f-8139-0ecb822ac161" type="box">5</container> 
+      				<container parent="7f82e23c-c055-488f-8139-0ecb822ac161" type="folder">9</container> 
+      				<unittitle>Legal Brief, Maps of Border Region,</unittitle>
+      				<unitdate>October 9, 2007</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="8d118ea8-c268-436c-a7c6-f20b748b7b54" type="box">5</container> 
+      				<container parent="8d118ea8-c268-436c-a7c6-f20b748b7b54" type="folder">10</container> 
+      				<unittitle>Ephemera regarding border issues,</unittitle>
+      				<unitdate>2008-2009</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="fe1e6dae-61a1-40ae-9b93-8814d475c826" type="box">5</container> 
+      				<container parent="fe1e6dae-61a1-40ae-9b93-8814d475c826" type="folder">11</container> 
+      				<unittitle>US Border Patrol Ephemera,</unittitle>
+      				<unitdate>2009-2010</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="e24a350a-895a-4439-9685-76eb2a3a176b" type="box">5</container> 
+      				<container parent="e24a350a-895a-4439-9685-76eb2a3a176b" type="folder">12</container> 
+      				<unittitle>Collections of business cards of a Congressman and his assistants</unittitle>
+      			
+      			</did> 
+      		</c02>
+      		
+      	</c01>
+      	
+      	
+      	
+      	
+      	
+      	
+      	<c01 level="series"> 
+      		<did> 
+      			<unitid>Series IV</unitid>
+      			<unittitle>
+      				CD/Roms of Environmental Assessments and Border-Related Presentations,
+      				
+      			</unittitle> 
+      			<unitdate type="inclusive">2007-2012</unitdate>
+      		</did>
+      		
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="6181316a-42e8-4908-9c1b-b032cb0a458b" type="box">6</container>
+      				<container parent="6181316a-42e8-4908-9c1b-b032cb0a458b" type="item">1</container> 
+      				<unittitle>
+      					<title render="italic">Environmental Assessment U.S. Border Patrol Temporary Vehicle Barriers Naco and Douglas, Arizona,
+      					</title>
+      				</unittitle>
+      				<unitdate>November 2002</unitdate>
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="d88f38dd-811f-44f9-b7ab-d9bdfc10a587" type="box">6</container>
+      				<container parent="d88f38dd-811f-44f9-b7ab-d9bdfc10a587" type="item">2</container> 
+      				<unittitle>
+      					<title render="italic">Environmental Assessment for the Installation and Operation of a Relay Tower at Crawford Hill United States Border Patrol, Nogales Station Santa Cruz County, Arizona,
+      				</title>
+      				</unittitle>
+      				<unitdate>November 2002</unitdate> 
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="63caeaa6-61ea-4f5a-889e-84f1823304f8" type="box">6</container>
+      				<container parent="63caeaa6-61ea-4f5a-889e-84f1823304f8" type="item">3</container>
+      				<unittitle>
+      					<title render="italic">Programmatic Environmental Assessment for the Installation and Operation of Remote Video Surveillance Systems in the Western Region of the Immigration and Naturalization Service,
+      				</title>
+      				</unittitle>
+      				<unitdate>March 2003</unitdate> 
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="a7c825d7-6c5c-462d-8d7c-db22eb0672b7" type="box">6</container>
+      				<container parent="a7c825d7-6c5c-462d-8d7c-db22eb0672b7" type="item">4</container>
+      				<unittitle>
+      					<title render="italic">Supplemental Environmental Assessment for the Expansion of Operation Desert Grip USBP Tucson and Yuma Sectors,
+      					</title>
+      				</unittitle>
+      					<unitdate>July 2003</unitdate> 
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="933f3ff4-30c5-4343-9eaf-9f2a59265dc4" type="box">6</container>
+      				<container parent="933f3ff4-30c5-4343-9eaf-9f2a59265dc4" type="item">5</container>
+      				<unittitle>
+      					<title render="italic">Supplemental Environmental Assessment for the Installation of Permanent Security Lighting and a Border Infrastructure System Office of Border Patrol Yuma Sector, Arizona,
+      					</title>
+      				</unittitle>
+      				<unitdate>March 2007</unitdate>
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="653d3b67-0454-4e80-ad6f-670ea78e15fb" type="box">6</container>
+      				<container parent="653d3b67-0454-4e80-ad6f-670ea78e15fb" type="item">6</container>
+      				<unittitle>
+      					<title render="italic">Environmental Assessment for Retrofitting Permanent Vehicle Barriers between Avenues C and B, San Luis Yuma County, Arizona,
+      				</title>
+      				</unittitle>
+      				<unitdate>May 2007</unitdate>
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="cdf6f4ab-d144-4fd6-abe8-709678dc7abf" type="box">6</container>
+      				<container parent="cdf6f4ab-d144-4fd6-abe8-709678dc7abf" type="item">7</container>
+      				<unittitle>
+      					<title render="italic">Environmental Assessment for the Relocation and Operation of Customs and Border Protection, Office and Border Patrol Casa Grande Station, Tucson Sector, Arizona,</title>
+      				</unittitle>
+      				<unitdate>29 June 2007 </unitdate>
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="ed71ce43-b1c3-46c1-8cc2-889d6ca51a14" type="box">6</container>
+      				<container parent="ed71ce43-b1c3-46c1-8cc2-889d6ca51a14" type="item">8</container>
+      				<unittitle>
+      					<title render="italic">Environmental Assessment for the Relocation and Operation of Customs and Border Protection, Office of Border Patrol Casa Grande Station, Tucson Sector, Arizona,
+      					</title>
+      				</unittitle>
+      				<unitdate>3 August 2007</unitdate>
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="ab5f517a-dc87-44fd-8c37-586f8ff63cd0" type="box">6</container>
+      				<container parent="ab5f517a-dc87-44fd-8c37-586f8ff63cd0" type="item">9</container>
+      				<unittitle>
+      					<title render="italic">Environmental Assessment for the Proposed SBInet Tucson West Project Ajo, Casa Grande, Nogales and Sonoita Stations Areas of Operation, U.S. Border Patrol, Tucson Sector, Arizona,
+      					</title>
+      				</unittitle>
+      				<unitdate>September 2008</unitdate>
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="1626f154-d1d1-406b-bf8a-0a3682c126db" type="box">6</container>
+      				<container parent="1626f154-d1d1-406b-bf8a-0a3682c126db" type="item">10</container>
+      				<unittitle>
+      					<title render="italic">Final Environmental Assessment for the Proposed SBInet Ajo-1 Tower Project Ajo Station’s Area of Responsibility U.S. Border Patrol, Tucson Sector,
+      				</title>
+      				</unittitle>
+      				<unitdate>December 2009</unitdate>
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="f23a126d-6de5-40f4-a94e-d0b0f679a7e5" type="box">6</container>
+      				<container parent="f23a126d-6de5-40f4-a94e-d0b0f679a7e5" type="item">11</container>
+      				<unittitle>
+      					<title render="italic">Supplemental Environmental Assessment for the SBInet Ajo-1 Tower Project Ajo Station’s Area of Responsibility U.S. Border Patrol Tucson Sector,
+      					</title>
+      				</unittitle>
+      				<unitdate>January 2012</unitdate>
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="442de46d-e384-4c5b-a14f-75c77a840014" type="box">6</container>
+      				<container parent="442de46d-e384-4c5b-a14f-75c77a840014" type="item">12</container>
+      				<unittitle>
+      					<title render="italic">Environmental Assessment for Integrated Fixed Towers in the U.S. Border Patrol’s Douglas Station Area of Responsibility Tucson Sector, Arizona,
+      					</title>
+      				</unittitle>
+      				<unitdate>January 2013</unitdate>
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="024f3e39-714c-4059-96f3-b4ae7d20675b" type="box">6</container>
+      				<container parent="024f3e39-714c-4059-96f3-b4ae7d20675b" type="item">13</container>
+      				<unittitle>Border Pres.,</unittitle>
+      				<unitdate>December 1, 2004</unitdate>
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="3e0f6b70-d92d-4505-bbb4-8ccc7260f28e" type="box">6</container>
+      				<container parent="3e0f6b70-d92d-4505-bbb4-8ccc7260f28e" type="item">14</container>
+      				<unittitle>
+      					<title render="italic">No Border Wall,
+      					</title>
+      				</unittitle>
+      				<unitdate>No Date</unitdate>
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="1feab0fc-8056-4d93-80c4-5b79487c7f79" type="box">6</container>
+      				<container parent="1feab0fc-8056-4d93-80c4-5b79487c7f79" type="item">15</container>
+      				<unittitle>
+      					<title render="italic">Operation B.E.E.F.,
+      				</title>
+      				</unittitle>
+      				<unitdate>April 13 - September 3rd, 2007</unitdate>
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="ea2d8a5c-dbca-48cf-8763-185e821e8f9b" type="box">6</container>
+      				<container parent="ea2d8a5c-dbca-48cf-8763-185e821e8f9b" type="item">16</container>
+      				<unittitle>Texas Fence GIS Data,
+      				</unittitle>
+      				<unitdate>No Date</unitdate>
+      			</did>
+      		</c02>
+      		<c02 level="file"> 
+      			<did>  
+      				<container id="5cd3b14d-13f2-4694-8e7f-1876861c660c" type="box">6</container>
+      				<container parent="5cd3b14d-13f2-4694-8e7f-1876861c660c" type="item">17</container>
+      				<unittitle>
+      					<title render="italic">Wild Versus Wall,
+      					</title>
+      				</unittitle>
+      				<unitdate>No Date</unitdate>
+      			</did> 
+      		</c02>
+      		
+      		
+      		
+      		
+      		
+      		
+      	</c01>
+      </dsc> 
+   </archdesc>
+</ead>

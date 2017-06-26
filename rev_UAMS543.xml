@@ -1,0 +1,1550 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid encodinganalog="852">UAMS543</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title"> Father Bonaventure Oblasser, O.F.M. Collection,
+	 		<date calendar="gregorian" certainty="approximate" era="ce" normal="1901/1977" type="inclusive">1901-1977</date>
+	 		<date normal="1908/1950" type="bulk">(bulk 1908-1955)</date></titleproper>
+	 	<titleproper altrender="nodisplay" type="filing"> Oblasser, Father Bonaventure, O.F.M. Collection
+	 		</titleproper>
+	 	<author>Processed by Trent S. Purdy.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date calendar="gregorian" era="ce" normal="2015">2015</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Leah Rios. 
+  		<date encodinganalog="date" era="ce" normal="20150421">April 21, 2015</date></creation>
+	 <langusage>Finding aid is in<language langcode="eng"> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+
+<revisiondesc><change><date normal="2017-06-23">2017-06-23</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+
+	<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name">Father Bonaventure Oblasser, O.F.M. Collection,
+  		<unitdate label="Dates" normal="1901/1977" type="inclusive">1901-1977</unitdate>
+  		<unitdate label="Dates" normal="1908/1950" type="bulk">bulk (1908-1950)</unitdate>
+  	</unittitle>
+  	
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 543</unitid>
+	 <origination label="Creator"> 
+	 	<persname encodinganalog="100" source="lcnaf">Bonaventure, Father. O.F.M., 1885-1967</persname> </origination>
+  	<abstract label="Abstract">Consists of photocopies of chiefly correspondence, 1908-1950, of Franciscan missionary and historian Father Bonaventure Oblasser, O.F.M. during his appointments, mainly to the Papago Indians (now known as Tohono O'odham), in Arizona. Included also are photographs that consist of images created by various Franciscan friars of the Saint Barbara Providence of the Order of Franciscan Friars depicting scenes from various Indian reservations in Arizona and Southern California. This collection also includes papers of Franciscan missionary, Nicholas Perschl (1887-1969), relating to his missionary work to the Papago Indians.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description"><extent>18 linear feet</extent></physdesc>	 
+	 <repository label="Repository"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English, </language>with some materials in <language encodinganalog="546" langcode="lat" scriptcode="Latin">Latin, </language><language encodinganalog="546" langcode="spa" scriptcode="Latin">Spanish, and </language><language encodinganalog="546" langcode="ger" scriptcode="Latin">German.</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Father Bonaventure Oblasser, O.F.M. Collection (MS 543). Special
+  		Collections, University of Arizona Libraries.</p>
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Born in Portland, Oregon, on 7 March 1885, Emil Oblasser studied for the Franciscan priesthood (taking the name of Bonaventure) at Mission Santa Barbara from 1901 until 1908. After his ordination on 28 June 1908, his main assignments were:</p>
+  	<p>1908-1910 	St. Elizabeth Parish, Oakland</p>
+  	<p>1910-1913 	St. John's Mission, Komatke, Arizona</p>
+  	<p>1913-1916 	Mission San Xavier del Bac, Tucson</p>
+  	<p>1916-1922 	Old San Solano, Cababi, Arizona</p>
+  	<p>1922-1939 	New San Solano, Topawa, Arizona</p>
+  	<p>1939-1941 	Mission San Luis Rey, California</p>
+  	<p>1941-1948 	Santa Isabel Indian Mission, California.</p>
+  	<p>His missionary work in Arizona resulted in the construction of over a dozen schools and churches on what would become known as the Papago Indian Reservation in southern Arizona. He was a member of the Committee that contributed to the formation of the reservation (1915), and he was a key advisor in both the legal battle against the Hunter Heirs in their claim to Papago Lands (1926) and in the formation of the tribal constitution (1936).</p>
+  	<p>During his tenure, he gathered unique information on the Franciscan influence in Pimeria Alta, and collected censuses and other ethnological data on Indian populations. In the course of his research, he built a collection of books on the region which are now housed in the Oblasser Library at Mission San Xavier.</p>
+  	<p>Father Oblasser celebrated the jubilee of his priesthood in 1958. He died in 1967 and was buried at the Topawa cemetery.</p>
+  	<p>Nicholas Perschl (1887-1969) was ordained a Franciscan in 1913. He spent many years at Mission San Xavier del Bac, and he worked amongst the Papago, Pima, and Apache people in Arizona.
+  	</p>
+  </bioghist> 
+  <arrangement encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into 5 series</p>	 
+  	<list>
+  	<item>Series 1:Father Bonaventure Oblasser, O.F.M. Papers,
+  			<unitdate>1908-1077</unitdate></item>
+  		<item>Sub-Series 1: Correspondence,
+  			<unitdate>1908-1977</unitdate></item>
+  		<item>Sub-Series 2: Subject Files
+  			<unitdate>1908-1977</unitdate></item>
+  	<item>Series 2: Photographs,
+  			<unitdate>1902-1958</unitdate>
+  		</item>
+  	<item>Series 3: Contact Sheets,
+  		<unitdate>circa 1923-1935</unitdate>
+  		</item>
+  	<item>Series 4: Negatives,
+  			<unitdate>1909-1960</unitdate></item>
+  		<item>Sub-Series 1: SX,
+  			<unitdate>undated</unitdate></item>
+  		<item>Sub-Series 2: SXB,
+  			<unitdate>undated</unitdate></item>	
+  		<item>Sub-Series 3: Subjects,
+  			<unitdate>1909-1960</unitdate></item>
+  		<item>Sub-Series 4: Glass Negatives,
+  			<unitdate>undated</unitdate></item>
+  	<item>Series 5: Nicholas Perschl Papers,
+  			<unitdate>1901-1969</unitdate>
+  		</item>
+  	</list>
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>These papers best document the activities of Father Bonaventure Oblasser, O.F.M. in his daily struggles to secure the spiritual and financial needs of his missionary work to native peoples in California, and especially, Arizona. The bulk of the correspondence from 1908 to 1940 details his efforts to fund schools with supplies, furniture, and teachers, and to assist the Tohono O'odham in shaping their geographical and political future. The correspondence covers the spectrum of his work, including topics such as: administering to the vast expanse of the reservation; financing and constructing the buildings for religious and educational purposes; communicating with governmental officials and agencies on behalf of the Tohono O'odham on issues relating to the formation of the reservation, water, land and mineral rights; and assisting in the compilation of the tribal constitution.</p>
+  	<p>There is also present some materials relating to censuses of various villages; Oblasser's annual reports to the Office of the Provincial on his accomplishments in the field; drafts of the Papago Constitution; his contributions to the erection of the Fray Marcos de Niza Monument near the Arizona-Mexico border; and many unpublished reports and articles that he wrote about Franciscan and Arizona history.</p>
+  	<p>Correspondents in the collection include politicians Carl T. Hayden, George W.P. Hunt, Henry Ashhurst; government officials of the United States Bureau of Indian Affairs such as Charles Burke and John Collier; leaders of the Franciscan order and fellow missionaries in the field; support agencies for the missions such as the Bureau of Catholic Indian Missions, the Marquette League for Indian Welfare, and other private donors; scholars Herbert Bolton, Frank Lockwood, and others; and former students and friends.</p>
+  	<p>The Subject Files contain correspondence, interviews, writings, and other records relating to various topics. Of interest are his missionary activities; a copy of Statuta Pro Missionibus: Ordinis Fratrum Minorum (1950); an interview (1959) of Oblasser by Bernard Fontana; censuses for the Saint John's Mission; and background information on San Jose Mission/Saint Nicholas Indian Center, and the San Xavier residence in Tucson. The largest folder of correspondence in these files relates to his work from 1956 to 1960 for the United States Department of Justice regarding the Papago Case Number 345 before the Indian Claims Commission for which he prepared an in-depth report on land tenure among the Papago Indians (however the report itself is lacking).</p>
+  	<p>The photographic materials held within this collection are comprised of prints, negatives, contact sheets, and glass negatives. These materials are images created by various Franciscan friars of the Saint Barbara Providence of the Order of Franciscan Friars. These materials date probably from circa 1902-1958, with the bulk of the materials believed to date from circa 1920-1939. These materials were collected by Bonaventure Oblasser and held at the Oblasser Library at the Mission San Xavier del Bac.</p>
+  	<p>	The second series of papers relate to the personal life and career of Nicholas Perschl. Included are excerpts from his diary and autobiographical writings for his early years as a missionary; general correspondence from 1901 to 1969, chiefly with other Franciscans, former students, and friends; and letters (in German) from members of his extended family in Austria
+  	</p> 
+  </scopecontent> 
+		<relatedmaterial encodinganalog="544">
+			<p>Originals are located at the Santa Barbara Mission Library Archives, California. Duplicates are also held at San Xavier Mission Oblasser Library, Tucson, AZ 85745.</p>
+			<p>Researchers interested in materials related to Father Bonaventure Oblasser O.F.M. should consult the following collections held in the University of Arizona Special Collections Library:</p>
+			<p>AZ 397 - Oral history interview, Mission San Xavier del Bac, with Bernard Fontana, 1959 Jul. 20. </p>
+			<p>AZ 553 - Affidavit : the route followed by Fray Marcos de Niza which led to the discovery of Arizona, 1939.</p>
+			<p>AZ 554 - Diary and scrapbook of Mission San Xavier del Bac, 1861-1948</p>
+			<p>Researchers interested in materials related to Nicholas Perschl should consult the following collection:</p>
+			<p>AZ 396 - Oral history interview, Mission San Xavier del Bac, with Bernard Fontana, 1959 Jan. 26.</p>
+		</relatedmaterial>
+  	<controlaccess>
+  		<persname>Bonaventure, Father, O.F.M., 1885-1967.</persname><persname>Perschl, Nicholas, 1887-.</persname><persname>Hayden, Carl Trumbell, 1877-1972</persname><subject>Mission San Xavier del Bac (Tucson, Arizona) - History</subject><subject>Missions - Arizona</subject><subject>Tohono O'Odham Indians - History</subject><subject>Tohono O'Odham Indian Reservation (Arizona) - History</subject><subject>Tohono O'Odham Indians - Government Relations</subject><subject>Tohono O'Odham Indians - Education</subject><subject>Franciscans - Arizona - Missions</subject><subject>Catholic Church - Arizona - Missions</subject><subject>Indians of North America—Pictorial works</subject><geogname>Gila River Indian Reservation (Arizona) - History</geogname><geogname>San Xavier Indian Reservation (Arizona) - History</geogname></controlaccess>
+  
+<dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+			<unittitle>Series 1: Oblasser Papers,</unittitle> 
+			<unitdate type="inclusive">1908-1977</unitdate>
+		</did>
+	 	<scopecontent><p>These papers best document the activities of Father Bonaventure Oblasser, O.F.M. in his daily struggles to secure the spiritual and financial needs of his missionary work to native peoples in California, and especially, Arizona.  The series has two subseries. The first subseries contains correspondence that detail Father Bonaventure Oblasser's efforts to assist the Tohono O'odham in shaping their geographical and political future. The second subseries consists of subject files that contain correspondence, interviews, writings, and other records relating to various topics.</p></scopecontent>
+	 	<c02 level="subseries"> 
+	 		<did> 
+	 			<unittitle>Subseries 1: Correspondence,</unittitle> 
+	 			<unitdate type="inclusive">1908-1962</unitdate>
+	 		</did> 
+	 		<scopecontent><p>This subseries contains correspondence. The bulks of these materials date from 1908 to 1940 and detail his efforts to fund schools with supplies, furniture, and teachers, and to assist the Tohono O'odham in shaping their geographical and political future. The correspondence covers the spectrum of his work, including topics such as: administering to the vast expanse of the reservation; financing and constructing the buildings for religious and educational purposes; communicating with governmental officials and agencies on behalf of the Tohono O'odham on issues relating to the formation of the reservation, water, land and mineral rights; and assisting in the compilation of the tribal constitution.</p></scopecontent>
+	 	<c03 level="file"> 
+	 		<did> 
+				<container id="28480d97-1eff-49a0-ad07-262bc008d7e3" type="box">1</container> 
+				<container parent="28480d97-1eff-49a0-ad07-262bc008d7e3" type="folder">1-15</container> 
+	 			<unittitle>Correspondence,</unittitle>
+				<unitdate>1908-1923</unitdate>
+		  </did>  
+	 </c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="0c2fcf03-206e-4565-8466-223b737273e0" type="box">2</container> 
+	 				<container parent="0c2fcf03-206e-4565-8466-223b737273e0" type="folder">1-6</container> 
+	 				<unittitle>Correspondence,</unittitle>
+	 				<unitdate>1924-1926</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="4612f776-1dea-4ed5-b8bd-f32f58726560" type="box">3</container> 
+	 				<container parent="4612f776-1dea-4ed5-b8bd-f32f58726560" type="folder">1-9</container> 
+	 				<unittitle>Correspondence,</unittitle>
+	 				<unitdate>1927-1933</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="8989d269-0972-4b26-837b-04ee6b8562d8" type="box">4</container> 
+	 				<container parent="8989d269-0972-4b26-837b-04ee6b8562d8" type="folder">1-9</container> 
+	 				<unittitle>Correspondence,</unittitle>
+	 				<unitdate>1934-1937</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="cd6d3747-03ed-4ab9-8a64-cd2cc3eb1dd4" type="box">5</container> 
+	 				<container parent="cd6d3747-03ed-4ab9-8a64-cd2cc3eb1dd4" type="folder">1-8</container> 
+	 				<unittitle>Correspondence,</unittitle>
+	 				<unitdate>1938-1941 June</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="e3c4220d-3bb8-4609-91c8-97b9ff2b34bc" type="box">6</container> 
+	 				<container parent="e3c4220d-3bb8-4609-91c8-97b9ff2b34bc" type="folder">1-10</container> 
+	 				<unittitle>Correspondence,</unittitle>
+	 				<unitdate>1941 July-1947 May</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="714525b8-9f8e-4970-8777-535c57a6024f" type="box">7</container> 
+	 				<container parent="714525b8-9f8e-4970-8777-535c57a6024f" type="folder">1-8</container> 
+	 				<unittitle>Correspondence,</unittitle>
+	 				<unitdate>1947 June-1951</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="e58dd53a-80e4-4df3-b421-1963d2bf3f12" type="box">8</container> 
+	 				<container parent="e58dd53a-80e4-4df3-b421-1963d2bf3f12" type="folder">1-3</container> 
+	 				<unittitle>Correspondence,</unittitle>
+	 				<unitdate>1952-1962</unitdate>
+	 			</did>  
+	 		</c03> 
+	 	</c02>
+	 	<c02 level="subseries"> 
+	 		<did> 
+	 			<unittitle>Subseries 2: Subject Files,</unittitle> 
+	 			<unitdate type="inclusive">1908-1977</unitdate>
+	 		</did> 
+	 		<scopecontent><p>This subseries contains correspondence, interviews, writings, and other records relating to various topics. Of interest are his missionary activities; a copy of <title render="italic"> Statuta Pro Missionibus: Ordinis Fratrum Minorum</title> (1950); an interview (1959) of Oblasser by Bernard Fontana; censuses for the Saint John's Mission; and background information on San Jose Mission/Saint Nicholas Indian Center, and the San Xavier residence in Tucson. The largest folder of correspondence in these files relates to his work from 1956 to 1960 for the United States Department of Justice regarding the Papago Case Number 345 before the Indian Claims Commission for which he prepared an in-depth report on land tenure among the Papago Indians (however the report itself is lacking).</p></scopecontent>
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="521bdd10-51ac-44bb-9865-1d62a3d57ff7" type="box">8</container> 
+	 				<container parent="521bdd10-51ac-44bb-9865-1d62a3d57ff7" type="folder">4</container> 
+	 				<unittitle>Catholic Indian Outing Service,</unittitle>
+	 				<unitdate>1932-1933</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="e631b4cb-3bb7-4026-a785-7f3200e84eb3" type="box">8</container> 
+	 				<container parent="e631b4cb-3bb7-4026-a785-7f3200e84eb3" type="folder">5</container> 
+	 				<unittitle><title render="italic">Cross Over the Desert</title>,</unittitle>
+	 				<unitdate>1937</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="3dc34991-b276-4937-b81c-673ecb40a513" type="box">8</container> 
+	 				<container parent="3dc34991-b276-4937-b81c-673ecb40a513" type="folder">6</container> 
+	 				<unittitle>Education: Pimeria Alta,</unittitle>
+	 				<unitdate>1956</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="9aee2a18-9304-4e8d-af82-499204699d3b" type="box">8</container> 
+	 				<container parent="9aee2a18-9304-4e8d-af82-499204699d3b" type="folder">7</container> 
+	 				<unittitle><title render="italic">Franciscans Take Charge of Yuma, Arizona</title>,</unittitle>
+	 				<unitdate>circa 1926</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="57fb7687-60cd-48e3-850c-b02eb47d9185" type="box">8</container> 
+	 				<container parent="57fb7687-60cd-48e3-850c-b02eb47d9185" type="folder">8</container> 
+	 				<unittitle><title render="italic">Founding of Tucson</title>,</unittitle>
+	 				<unitdate>undated</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="327649dc-a83e-43e0-bb83-9069d7d7bfc0" type="box">8</container> 
+	 				<container parent="327649dc-a83e-43e0-bb83-9069d7d7bfc0" type="folder">9</container> 
+	 				<unittitle>Interview by Bernard Fontana,</unittitle>
+	 				<unitdate>undated</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="55695646-2540-4285-92ba-994b93408636" type="box">8</container> 
+	 				<container parent="55695646-2540-4285-92ba-994b93408636" type="folder">10</container> 
+	 				<unittitle>Library of Piman Research,</unittitle>
+	 				<unitdate>1959-1962</unitdate>
+	 			</did>  
+	 		</c03>
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="1f613727-4263-477a-a7e6-c119010418ee" type="box">8</container> 
+	 				<container parent="1f613727-4263-477a-a7e6-c119010418ee" type="folder">11</container> 
+	 				<unittitle>Miscellaneous,</unittitle>
+	 				<unitdate>circa 1942</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="235fa31e-dab0-4153-9506-47ccd00f5cb9" type="box">8</container> 
+	 				<container parent="235fa31e-dab0-4153-9506-47ccd00f5cb9" type="folder">12</container> 
+	 				<unittitle>Missions/missionary activities,</unittitle>
+	 				<unitdate>1908-1952</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="8eba8ebb-34ce-433d-8100-06152dc4dda5" type="box">8</container> 
+	 				<container parent="8eba8ebb-34ce-433d-8100-06152dc4dda5" type="folder">13</container> 
+	 				<unittitle>Mission Board,</unittitle>
+	 				<unitdate>1957-1961</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="f61be43b-ec52-45f4-8df2-326d5c364620" type="box">8</container> 
+	 				<container parent="f61be43b-ec52-45f4-8df2-326d5c364620" type="folder">14</container> 
+	 				<unittitle>Prayers in Papago,</unittitle>
+	 				<unitdate>1957-1961</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="98294036-e35d-474c-be4c-83788bf3b940" type="box">8</container> 
+	 				<container parent="98294036-e35d-474c-be4c-83788bf3b940" type="folder">15</container> 
+	 				<unittitle>Saint John's Mission Census,</unittitle>
+	 				<unitdate>1910-1912</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="41bc41c8-3a77-4f12-9521-5223e934ca0d" type="box">8</container> 
+	 				<container parent="41bc41c8-3a77-4f12-9521-5223e934ca0d" type="folder">16</container> 
+	 				<unittitle>San Jose Mission/Saint Nicholas Center (Tucson),</unittitle>
+	 				<unitdate>1977</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="5c0ea276-3505-439c-8c16-98127c1022c8" type="box">8</container> 
+	 				<container parent="5c0ea276-3505-439c-8c16-98127c1022c8" type="folder">17</container> 
+	 				<unittitle>San Xavier Historical Data,</unittitle>
+	 				<unitdate>1922</unitdate>
+	 			</did>  
+	 		</c03> 
+	 		<c03 level="file"> 
+	 			<did> 
+	 				<container id="ce18a838-d476-4b78-9f6a-351346cb47fc" type="box">8</container> 
+	 				<container parent="ce18a838-d476-4b78-9f6a-351346cb47fc" type="folder">18</container> 
+	 				<unittitle>U. S. Department of Justice: Papago Tribe vs. U. S., Docket 345 Land Tenure Among the Papago,</unittitle>
+	 				<unitdate>1956-1960</unitdate>
+	 			</did>  
+	 		</c03> 
+	 	</c02>
+	  </c01>
+	<c01 level="series"> 
+		<did> 
+			<unittitle>Series 2: Photographs,</unittitle> 
+			<unitdate type="inclusive">1902-1958</unitdate>
+		</did>
+		<scopecontent><p>This series consists of scenes from various Indian reservations where friars of the Saint Barbara Providence of the Order of Franciscan Friars served, including Papago, Gila River, Salt River, Ak Chin, Gila Bend, San Carlos, Ft. Apache, Mescalero, Ft. Yuma (Quechan), Colorado River, and various Native Communities in Southern California. Also included in this series are photographs of various locales and people taken on trips, including China, Sonoran Missions in Mexico, New Mexico, and California.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="29373e5b-0400-439b-830b-5e5cae89fa10" type="box">9</container> 
+				<container parent="29373e5b-0400-439b-830b-5e5cae89fa10" type="folder">1</container> 
+				<unittitle>Ajo Deer Dancers,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="700a2701-9ade-4705-b96d-170ac7905620" type="box">9</container> 
+				<container parent="700a2701-9ade-4705-b96d-170ac7905620" type="folder">2</container> 
+				<unittitle>Akin or Pisinere Church,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="ff81f1cf-f319-47de-8bbe-9897b000451b" type="box">9</container> 
+				<container parent="ff81f1cf-f319-47de-8bbe-9897b000451b" type="folder">3</container> 
+				<unittitle>Anegam,</unittitle>
+				<unitdate>1953</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="887840f2-3cbd-4430-a296-98e6685f512b" type="box">9</container> 
+				<container parent="887840f2-3cbd-4430-a296-98e6685f512b" type="folder">4</container> 
+				<unittitle>Buildings,</unittitle>
+				<unitdate>1916, undated</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="1fcefdf8-29fb-4296-95da-578e2c423e93" type="box">9</container> 
+				<container parent="1fcefdf8-29fb-4296-95da-578e2c423e93" type="folder">5</container> 
+				<unittitle>Bylar,</unittitle>
+				<unitdate>1953</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="bdeb0ded-85e4-4b4b-a1fc-b55a624df647" type="box">9</container> 
+				<container parent="bdeb0ded-85e4-4b4b-a1fc-b55a624df647" type="folder">6</container> 
+				<unittitle>Cababi, St. Maria,</unittitle>
+				<unitdate>1953</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="5b63b06c-b3b2-4006-be1d-8a20a973a60c" type="box">9</container> 
+				<container parent="5b63b06c-b3b2-4006-be1d-8a20a973a60c" type="folder">7</container> 
+				<unittitle>California Missions, Various,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="f659bc6e-9781-4cd9-9779-e88e9a72c4a2" type="box">9</container> 
+				<container parent="f659bc6e-9781-4cd9-9779-e88e9a72c4a2" type="folder">8</container> 
+				<unittitle>Casa Blanca,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="8bdcffc0-53a0-45df-bcf1-0b8c760eca36" type="box">9</container> 
+				<container parent="8bdcffc0-53a0-45df-bcf1-0b8c760eca36" type="folder">9</container> 
+				<unittitle>China,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="e7de6b1c-8ff2-456a-a9be-08c3f9062dd8" type="box">9</container> 
+				<container parent="e7de6b1c-8ff2-456a-a9be-08c3f9062dd8" type="folder">10</container> 
+				<unittitle>Comobabi,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="9c644698-910d-45f4-a8dc-0e3e072d09f0" type="box">9</container> 
+				<container parent="9c644698-910d-45f4-a8dc-0e3e072d09f0" type="folder">11</container> 
+				<unittitle>Covered Wells,</unittitle>
+				<unitdate>1912, 1935</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="e37af26e-2437-4922-8179-b9ac18ca3d4b" type="box">9</container> 
+				<container parent="e37af26e-2437-4922-8179-b9ac18ca3d4b" type="folder">12</container> 
+				<unittitle>Cowlic,</unittitle>
+				<unitdate>1922, 1935, 1939</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="8fa6747d-6d08-464c-863f-10a263465013" type="box">10</container> 
+				<container parent="8fa6747d-6d08-464c-863f-10a263465013" type="folder">1</container> 
+				<unittitle>Kaka, Gila Bend,</unittitle>
+				<unitdate>1919, undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="c666ab62-1cbe-424e-b4c8-aa25ae7705ab" type="box">10</container> 
+				<container parent="c666ab62-1cbe-424e-b4c8-aa25ae7705ab" type="folder">2</container> 
+				<unittitle>Komalik, Awegan,</unittitle>
+				<unitdate>1912</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="a8a231d3-abc4-4cd5-b8a0-832c068ae1e9" type="box">10</container> 
+				<container parent="a8a231d3-abc4-4cd5-b8a0-832c068ae1e9" type="folder">3</container> 
+				<unittitle>Kwahatk,</unittitle>
+				<unitdate>1911-1912</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="c90f7bb4-43c6-43b5-9074-9e49e0ec6131" type="box">10</container> 
+				<container parent="c90f7bb4-43c6-43b5-9074-9e49e0ec6131" type="folder">4</container> 
+				<unittitle>La Jolla, California,</unittitle>
+				<unitdate>1940, undated</unitdate>
+			</did>  
+		</c02>
+		
+		<c02 level="file"> 
+			<did> 
+				<container id="1102f1ef-7edd-448d-a8f8-7b4c8bac68a7" type="box">10</container> 
+				<container parent="1102f1ef-7edd-448d-a8f8-7b4c8bac68a7" type="folder">5</container> 
+				<unittitle>Little Tucson,</unittitle>
+				<unitdate>1953</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="e096772d-f38c-43d6-88cc-da57f0e568d1" type="box">10</container> 
+				<container parent="e096772d-f38c-43d6-88cc-da57f0e568d1" type="folder">6</container> 
+				<unittitle>Lourdes School, Fresnal, Arizona,</unittitle>
+				<unitdate>1911-1913, 1948</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="c39f755e-769c-4b23-9753-97f6d03f82ef" type="box">10</container> 
+				<container parent="c39f755e-769c-4b23-9753-97f6d03f82ef" type="folder">7</container> 
+				<unittitle>McNary, Arizona,</unittitle>
+				<unitdate>1934 April</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="e43c6649-f428-4a9c-86a2-d4cff8b13558" type="box">10</container> 
+				<container parent="e43c6649-f428-4a9c-86a2-d4cff8b13558" type="folder">8</container> 
+				<unittitle>Mission San Antonio de Pala,</unittitle>
+				<unitdate>1940, undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="496f81fc-49bc-4d1b-9b65-fe6f1f41d50c" type="box">10</container> 
+				<container parent="496f81fc-49bc-4d1b-9b65-fe6f1f41d50c" type="folder">9</container> 
+				<unittitle>Navajo,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		
+		<c02 level="file"> 
+			<did> 
+				<container id="5ca618cc-db15-4874-b2b8-9480a38a6de8" type="box">10</container> 
+				<container parent="5ca618cc-db15-4874-b2b8-9480a38a6de8" type="folder">11</container> 
+				<unittitle>Padres,</unittitle>
+				<unitdate>1920-1939</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="cc2e2e8a-b353-4f62-8c41-00d7067ea4f9" type="box">10</container> 
+				<container parent="cc2e2e8a-b353-4f62-8c41-00d7067ea4f9" type="folder">12</container> 
+				<unittitle>Papgueria Baboquivari,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="69c34037-f484-46d0-8cf8-4c3822adbdc5" type="box">10</container> 
+				<container parent="69c34037-f484-46d0-8cf8-4c3822adbdc5" type="folder">13</container> 
+				<unittitle>Pascua Yaqui,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="96e9c6d4-0262-4abf-b763-a23e2409aa13" type="box">10</container> 
+				<container parent="96e9c6d4-0262-4abf-b763-a23e2409aa13" type="folder">14</container> 
+				<unittitle>People,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="7f38e67b-0076-4957-9d13-ef8d038d00ab" type="box">10</container> 
+				<container parent="7f38e67b-0076-4957-9d13-ef8d038d00ab" type="folder">15</container> 
+				<unittitle>Pima,</unittitle>
+				<unitdate>circa 1939</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="8cb0d12e-b97a-4f2b-90e6-8d6c2afc43ab" type="box">10</container> 
+				<container parent="8cb0d12e-b97a-4f2b-90e6-8d6c2afc43ab" type="folder">16</container> 
+				<unittitle>Pueblo Grande,</unittitle>
+				<unitdate>circa 1940-1950</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="449fa81f-f2fe-4730-8219-a42747bb0cca" type="box">10</container> 
+				<container parent="449fa81f-f2fe-4730-8219-a42747bb0cca" type="folder">17</container> 
+				<unittitle>Sacaton,</unittitle>
+				<unitdate>circa 1932</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="5e5bb8c7-be00-4ec4-aae6-8eb1d396819a" type="box">10</container> 
+				<container parent="5e5bb8c7-be00-4ec4-aae6-8eb1d396819a" type="folder">18</container> 
+				<unittitle>San Carlos, Arizona,</unittitle>
+				<unitdate>1954 February, June</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="bb05d4eb-11a6-47cf-b88f-95d5ac00e949" type="box">10</container> 
+				<container parent="bb05d4eb-11a6-47cf-b88f-95d5ac00e949" type="folder">19</container> 
+				<unittitle>San Ignacio,</unittitle>
+				<unitdate>1915, undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="ff8854c6-ab57-4955-812a-9a8d854a4fe8" type="box">11</container> 
+				<container parent="ff8854c6-ab57-4955-812a-9a8d854a4fe8" type="folder">1</container> 
+				<unittitle>San Jose Pisinemo,</unittitle>
+				<unitdate>1915, undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="d0d9f8b6-3b50-4c45-b2f6-1bc9a963c033" type="box">11</container> 
+				<container parent="d0d9f8b6-3b50-4c45-b2f6-1bc9a963c033" type="folder">2</container> 
+				<unittitle>San Luis Big Fields,</unittitle>
+				<unitdate>1912, 1935</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="ffb85bea-9342-4b6b-b8e1-f34a2f863f0c" type="box">11</container> 
+				<container parent="ffb85bea-9342-4b6b-b8e1-f34a2f863f0c" type="folder">3</container> 
+				<unittitle>San Miguel,</unittitle>
+				<unitdate>1911-1912, 1930-1953</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="8e4e557d-deae-4db5-9213-8c30128a8aa4" type="box">11</container> 
+				<container parent="8e4e557d-deae-4db5-9213-8c30128a8aa4" type="folder">4</container> 
+				<unittitle>San Pablo Chapel,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="bb1e8927-9ea0-4254-956c-42f86974646c" type="box">11</container> 
+				<container parent="bb1e8927-9ea0-4254-956c-42f86974646c" type="folder">5</container> 
+				<unittitle>San Pedro Coyote,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="c84b2506-31a9-4198-8f15-4fd3c87543ad" type="box">11</container> 
+				<container parent="c84b2506-31a9-4198-8f15-4fd3c87543ad" type="folder">6</container> 
+				<unittitle>San Solano,</unittitle>
+				<unitdate>1912</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="09938076-1833-4a36-ab87-87af216409bd" type="box">11</container> 
+				<container parent="09938076-1833-4a36-ab87-87af216409bd" type="folder">7</container> 
+				<unittitle>San Xavier del Bac,</unittitle>
+				<unitdate>1910, 1932, undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="d2078456-5880-41b2-a38e-6afa5ba64dc1" type="box">11</container> 
+				<container parent="d2078456-5880-41b2-a38e-6afa5ba64dc1" type="folder">8</container> 
+				<unittitle>Santa Fe, New Mexico,</unittitle>
+				<unitdate>1953</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="72d70b32-95c1-4224-8580-a19fb15c5341" type="box">11</container> 
+				<container parent="72d70b32-95c1-4224-8580-a19fb15c5341" type="folder">9</container> 
+				<unittitle>Santa Rosa,</unittitle>
+				<unitdate>1912, 1913, undated </unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="1dd03dc7-6fea-47cc-89e1-3a4193656f4b" type="box">11</container> 
+				<container parent="1dd03dc7-6fea-47cc-89e1-3a4193656f4b" type="folder">10</container> 
+				<unittitle>Santa Rosa,</unittitle>
+				<unitdate>1953</unitdate>
+			</did>  
+		</c02>
+		
+		<c02 level="file"> 
+			<did> 
+				<container id="3bf9998b-c405-4aa9-823b-24a0987ff56a" type="box">11</container> 
+				<container parent="3bf9998b-c405-4aa9-823b-24a0987ff56a" type="folder">11</container> 
+				<unittitle>Santan,</unittitle>
+				<unitdate>1937, undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="ddf53e03-bc43-490d-843c-a9f5a6d8380f" type="box">11</container> 
+				<container parent="ddf53e03-bc43-490d-843c-a9f5a6d8380f" type="folder">12</container> 
+				<unittitle>Sells, Arizona,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="9dea729b-66a2-43ab-bb60-562e72038d21" type="box">11</container> 
+				<container parent="9dea729b-66a2-43ab-bb60-562e72038d21" type="folder">13</container> 
+				<unittitle>Sil Nakya,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="44964290-ee9d-4b72-ad2e-4ee434e53eea" type="box">11</container> 
+				<container parent="44964290-ee9d-4b72-ad2e-4ee434e53eea" type="folder">14</container> 
+				<unittitle>San Luis Rey Mission, California,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		
+		<c02 level="file"> 
+			<did> 
+				<container id="77d0806f-9f0e-4091-99cc-2a5b9ffda5c6" type="box">11</container> 
+				<container parent="77d0806f-9f0e-4091-99cc-2a5b9ffda5c6" type="folder">16</container> 
+				<unittitle>Scenery,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="cfa3d6db-1c1f-4c38-909c-eece4992d56d" type="box">11</container> 
+				<container parent="cfa3d6db-1c1f-4c38-909c-eece4992d56d" type="folder">17</container> 
+				<unittitle>Sisters,</unittitle>
+				<unitdate>1936-1937</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="ba733fb3-20ae-4fbe-9f06-242a3b4873ab" type="box">11</container> 
+				<container parent="ba733fb3-20ae-4fbe-9f06-242a3b4873ab" type="folder">18</container> 
+				<unittitle>St. Boniface, Banning, California,</unittitle>
+				<unitdate>1936, 1938, undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="62d91f09-669c-4dfd-a828-21cdcf1addf4" type="box">11</container> 
+				<container parent="62d91f09-669c-4dfd-a828-21cdcf1addf4" type="folder">19</container> 
+				<unittitle>St. Clares Place, Portland, Oregon,</unittitle>
+				<unitdate>1946</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="d4f2ccb9-d10f-46f7-8b7e-83b62f80c229" type="box">11</container> 
+				<container parent="d4f2ccb9-d10f-46f7-8b7e-83b62f80c229" type="folder">20</container> 
+				<unittitle>St. John's, Kowatke Village,</unittitle>
+				<unitdate>1918-1958, undated</unitdate>
+			</did>  
+		</c02>
+		
+		<c02 level="file"> 
+			<did> 
+				<container id="db6b9ed7-6f9f-488c-a09c-63b7ba30a58c" type="box">12</container> 
+				<container parent="db6b9ed7-6f9f-488c-a09c-63b7ba30a58c" type="folder">1</container> 
+				<unittitle>St. John's Indian School, Kowatke Village,</unittitle>
+				<unitdate>1922, undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="730cf336-7e98-450a-ab00-e3748e10d29e" type="box">12</container> 
+				<container parent="730cf336-7e98-450a-ab00-e3748e10d29e" type="folder">2</container> 
+				<unittitle>St. John's Indian School, Kowatke Village,</unittitle>
+				<unitdate>1932, undated</unitdate>
+			</did>  
+		</c02>
+		
+		<c02 level="file"> 
+			<did> 
+				<container id="0f56276b-4738-4337-b008-2b0a7c87c021" type="box">12</container> 
+				<container parent="0f56276b-4738-4337-b008-2b0a7c87c021" type="folder">3</container> 
+				<unittitle>St. John's Indian School, Kowatke Village, 8x10s (1 of 2)</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="7fc0f578-5b24-4b5e-9a16-45e5cf2b5132" type="box">12</container> 
+				<container parent="7fc0f578-5b24-4b5e-9a16-45e5cf2b5132" type="folder">4</container> 
+				<unittitle>St. John's Indian School, Kowatke Village, 8x10s (2 of 2)</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="21ce8acc-e3e6-4120-8b81-8ee3b7225f8f" type="box">12</container> 
+				<container parent="21ce8acc-e3e6-4120-8b81-8ee3b7225f8f" type="folder">5</container> 
+				<unittitle>St. Michael's</unittitle>
+				<unitdate>1934, 1953</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="ded17ab6-cd35-460e-9060-39dee5609e97" type="box">12</container> 
+				<container parent="ded17ab6-cd35-460e-9060-39dee5609e97" type="folder">6</container> 
+				<unittitle>Topawa</unittitle>
+				<unitdate>1902-1958</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="6a8ffaec-5914-476d-9c03-8880723506c7" type="box">12</container> 
+				<container parent="6a8ffaec-5914-476d-9c03-8880723506c7" type="folder">7</container> 
+				<unittitle>Tumacacori</unittitle>
+				<unitdate>1939, undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="bed28a00-4a6b-4764-b1a4-e121432a8ad5" type="box">12</container> 
+				<container parent="bed28a00-4a6b-4764-b1a4-e121432a8ad5" type="folder">8</container> 
+				<unittitle>Walls Well, San Martin</unittitle>
+				<unitdate>1939, undated</unitdate>
+			</did>  
+		</c02>
+		
+		<c02 level="file"> 
+			<did> 
+				<container id="66e2ec67-d8ac-43ae-a161-ef66ab40d2a1" type="box">12</container> 
+				<container parent="66e2ec67-d8ac-43ae-a161-ef66ab40d2a1" type="folder">9</container> 
+				<unittitle>Yaf Kük,</unittitle>
+				<unitdate>1911</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="7d8fb7d7-0c52-4658-8ca4-d9e24c644654" type="box">12</container> 
+				<container parent="7d8fb7d7-0c52-4658-8ca4-d9e24c644654" type="folder">10</container> 
+				<unittitle>Yuma, Arizona (1 of 2),</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="a513120a-2ced-4864-94e5-84e51ac37947" type="box">13</container> 
+				<container parent="a513120a-2ced-4864-94e5-84e51ac37947" type="folder">1</container> 
+				<unittitle>Yuma, Arizona (2 of 2),</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="d74b6976-c1db-4955-9f72-711ca2814b6c" type="box">13</container> 
+				<container parent="d74b6976-c1db-4955-9f72-711ca2814b6c" type="folder">2</container> 
+				<unittitle>Miscellaneous,</unittitle>
+				<unitdate>1905, 1938, 1952, undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="8d7e096f-ab58-4bf3-a533-7b7b634b4cf4" type="box">13</container> 
+				<container parent="8d7e096f-ab58-4bf3-a533-7b7b634b4cf4" type="folder">3</container> 
+				<unittitle>Miscellaneous,</unittitle>
+				<unitdate>1920-1958, undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="2d75c5eb-064f-484f-89d1-eedf51072ead" type="box">13</container> 
+				<container parent="2d75c5eb-064f-484f-89d1-eedf51072ead" type="folder">4</container> 
+				<unittitle>Miscellaneous,</unittitle>
+				<unitdate>1928, 1935, undated</unitdate>
+			</did>  
+		</c02>
+		
+		<c02 level="file"> 
+			<did> 
+				<container id="56a8665b-944f-4277-ac1a-e95b075dd07b" type="box">13</container> 
+				<container parent="56a8665b-944f-4277-ac1a-e95b075dd07b" type="folder">5</container> 
+				<unittitle>Miscellaneous,</unittitle>
+				<unitdate>1943, 1945, undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="773a4891-d6a1-461e-bdae-da57f32c8d90" type="box">13</container> 
+				<container parent="773a4891-d6a1-461e-bdae-da57f32c8d90" type="folder">6</container> 
+				<unittitle>Miscellaneous,</unittitle>
+				<unitdate>1944, undated</unitdate>
+			</did>  
+		</c02>
+	</c01>
+	<c01 level="series"> 
+		<did> 
+			<unittitle>Series 3: Contact Sheets,</unittitle> 
+			<unitdate type="inclusive">circa 1923-1935</unitdate>
+		</did>
+		<scopecontent><p>This series contains copy negatives from negative albums compiled by Father Bonaventure Oblasser, O.F.M. These contact sheets were created using a 35mm camera with a close-up lens, and were created as access copies for the negatives series. The photograph albums have identifying numbers written on the verso with corresponding image identification within the photograph album index. Those contact sheets labeled SX and SXB correspond to materials held in the negatives series.  These contact sheets do not act as a complete access tool for the negatives series, as all of the negatives have not been photocopied. The miscellaneous materials held within this series do not have any identifying information. </p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="fc0e434f-945b-42f5-bb03-736fcaed9d24" type="box">14</container> 
+				<container parent="fc0e434f-945b-42f5-bb03-736fcaed9d24" type="folder">1</container> 
+				<unittitle>Photograph Album Index</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="9fd8b3fd-6439-4514-b643-e53d052735f4" type="box">14</container> 
+				<container parent="9fd8b3fd-6439-4514-b643-e53d052735f4" type="folder">2</container> 
+				<unittitle>Photograph Album (1 of 2)</unittitle>
+				<unitdate>circa 1923-1935 </unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="b33444ec-9b10-47c1-ba74-c0d237cd25be" type="box">14</container> 
+				<container parent="b33444ec-9b10-47c1-ba74-c0d237cd25be" type="folder">3</container> 
+				<unittitle>Photograph Album (2 of 2)</unittitle>
+				<unitdate>circa 1923-1935 </unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="b8188ea7-9155-4915-ae11-e050c03c8ce0" type="box">14</container> 
+				<container parent="b8188ea7-9155-4915-ae11-e050c03c8ce0" type="folder">4</container> 
+				<unittitle>SX-1 – SX161-5,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="92c4632c-eb98-4814-9ef6-1aa2dcfbe201" type="box">14</container> 
+				<container parent="92c4632c-eb98-4814-9ef6-1aa2dcfbe201" type="folder">5</container> 
+				<unittitle>SXB1-2 – SXB126-40,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="3733c00a-332d-4825-b8e2-fcced5be8cb5" type="box">15</container> 
+				<container parent="3733c00a-332d-4825-b8e2-fcced5be8cb5" type="folder">1</container> 
+				<unittitle>SXB127-40 – SXB243-75,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="e3ec1d6c-a58f-4b04-a4f5-5aa307a7cd11" type="box">15</container> 
+				<container parent="e3ec1d6c-a58f-4b04-a4f5-5aa307a7cd11" type="folder">2</container> 
+				<unittitle>SXB244-75 – SXB367-144,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="649d8da0-48ef-4c20-a427-4c95408eb399" type="box">15</container> 
+				<container parent="649d8da0-48ef-4c20-a427-4c95408eb399" type="folder">3</container> 
+				<unittitle>SXB368-144 – SXB493-205,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="f66f3c51-6b84-4793-9306-2de0e715f1de" type="box">15</container> 
+				<container parent="f66f3c51-6b84-4793-9306-2de0e715f1de" type="folder">4</container> 
+				<unittitle>SXB494-205 – SXB627-40,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="b7c5c1de-4154-4090-aade-56133825d605" type="box">16</container> 
+				<container parent="b7c5c1de-4154-4090-aade-56133825d605" type="folder">1</container> 
+				<unittitle>SXB628-241 – SXB778-319,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="699a9e87-435d-4172-9f4b-952ca3e7706e" type="box">16</container> 
+				<container parent="699a9e87-435d-4172-9f4b-952ca3e7706e" type="folder">2</container> 
+				<unittitle>SXB779-319 – SXB916-361,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="9a40c3f6-1bb4-43dd-8982-811f00501fc4" type="box">16</container> 
+				<container parent="9a40c3f6-1bb4-43dd-8982-811f00501fc4" type="folder">3</container> 
+				<unittitle>SXB917-361 – SXB1001-389,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="9034fa16-607f-4618-8e4b-e4a0e0df5d6b" type="box">16</container> 
+				<container parent="9034fa16-607f-4618-8e4b-e4a0e0df5d6b" type="folder">4</container> 
+				<unittitle>SXB1002-389 – SXB1067-408,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container id="42020aeb-c2bc-4d4b-bcda-dd96132b3fdb" type="box">16</container> 
+				<container parent="42020aeb-c2bc-4d4b-bcda-dd96132b3fdb" type="folder">5</container> 
+				<unittitle>SXB1068-409 – SXB1176-439,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="2dbfc8eb-f404-4e06-945b-8196af92a5eb" type="box">17</container> 
+				<container parent="2dbfc8eb-f404-4e06-945b-8196af92a5eb" type="folder">1</container> 
+				<unittitle>SXB1177-439 – SXB1258-468,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		
+		<c02 level="file"> 
+			<did> 
+				<container id="bab6c8d0-3da5-482a-9ff6-011122c5b1d0" type="box">17</container> 
+				<container parent="bab6c8d0-3da5-482a-9ff6-011122c5b1d0" type="folder">2</container> 
+				<unittitle>SXB1259-469 – SXB1364-659,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="47ec81bf-eabe-4a62-ac72-05f7f666419b" type="box">17</container> 
+				<container parent="47ec81bf-eabe-4a62-ac72-05f7f666419b" type="folder">3</container> 
+				<unittitle>SXB1365-659 – SXB1456-677,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="f1241976-47b9-4c63-bd33-05960002481a" type="box">17</container> 
+				<container parent="f1241976-47b9-4c63-bd33-05960002481a" type="folder">4</container> 
+				<unittitle>SXB1457-671 – SXB1551-720,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="16c699d6-5702-4681-941b-83912b335a43" type="box">17</container> 
+				<container parent="16c699d6-5702-4681-941b-83912b335a43" type="folder">5</container> 
+				<unittitle>SXB1152-720 – SXB1604-685,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="db605e10-b7fe-401d-878b-d9733e42182f" type="box">18</container> 
+				<container parent="db605e10-b7fe-401d-878b-d9733e42182f" type="folder">1</container> 
+				<unittitle>Miscellaneous (1 of 2),</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="00224bf8-8aa0-420a-8252-3133d6c885a0" type="box">18</container> 
+				<container parent="00224bf8-8aa0-420a-8252-3133d6c885a0" type="folder">2</container> 
+				<unittitle>Miscellaneous (2 of 2),</unittitle>
+				<unitdate>undated</unitdate>
+			</did>  
+		</c02>
+	</c01>
+	<c01 level="series"> 
+		<did> 
+			<unittitle>Series 4: Negatives,</unittitle> 
+			<unitdate type="inclusive">1909-1960</unitdate>
+		</did>
+		<scopecontent><p>This series contains four subseries. The first subseries contains negatives that have corresponding access contact sheets from the contact sheet series. Materials in this subseries were numbered by Father Bonaventure Oblasser, O.F.M. and have no particular order. The second subseries contains negatives that were originally held in negative albums compiled and numbered by Bonaventure Oblasser. The first identifying number is sequential and corresponds to total number of negatives in the subseries. The second identifying number corresponds to the number taken from Bonaventure Oblasser's original negative albums. The numbering system contains many numerical gaps. It is believed that these negatives were originally compiled chronologically by Father Bonaventure Oblasser, O.F.M. The majority of materials in this subseries have corresponding access contact sheets contained in the Contact Sheet series. The third subseries contains negatives arranged alphabetically by subject. The majority of materials in this subseries are unidentified. The fourth subseries contains unidentified glass negatives.</p></scopecontent>
+		<c02 level="subseries"> 
+			<did> 
+				<unittitle>Subseries 1: SX,</unittitle> 
+				<unitdate type="inclusive">undated</unitdate>
+			</did> 
+			<scopecontent><p>This subseries contains negatives that have corresponding access contact sheets from the contact sheet series. Materials in this subseries were numbered by Father Bonaventure Oblasser, O.F.M. and have no particular order.</p></scopecontent>
+			<c03 level="file"> 
+				<did> 
+					<container id="86848bfd-3914-4dd3-8a16-29d20e3b56ed" type="box">18</container> 
+					<container parent="86848bfd-3914-4dd3-8a16-29d20e3b56ed" type="folder">3</container> 
+					<unittitle>SX1-1 – SX66-3,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03> 
+			<c03 level="file"> 
+				<did> 
+					<container id="33289ef8-f210-42ae-b158-875648e539f8" type="box">18</container> 
+					<container parent="33289ef8-f210-42ae-b158-875648e539f8" type="folder">4</container> 
+					<unittitle>SX67-3 – SX109-5,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03> 
+			<c03 level="file"> 
+				<did> 
+					<container id="99795c08-9b95-45f1-bd9e-1eb706484f96" type="box">18</container> 
+					<container parent="99795c08-9b95-45f1-bd9e-1eb706484f96" type="folder">5</container> 
+					<unittitle>SX110-5 – SX161-5,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03> 
+		</c02>
+		<c02 level="subseries"> 
+			<did> 
+				<unittitle>Subseries 2: SXB,</unittitle> 
+				<unitdate type="inclusive">undated</unitdate>
+			</did> 
+			<scopecontent><p>This subseries contains negatives that were originally held in negative albums compiled and numbered by Bonaventure Oblasser. The first identifying number is sequential and corresponds to total number of negatives in the subseries. The second identifying number corresponds to the number taken from Bonaventure Oblasser's original negative albums. The numbering system contains many numerical gaps. It is believed that these negatives were originally compiled chronologically by Father Bonaventure Oblasser, O.F.M. The majority of materials in this subseries have corresponding access contact sheets contained in the Contact Sheet series.</p></scopecontent>
+			<c03 level="file"> 
+				<did> 
+					<container id="65e1ef29-f72c-43dc-b69d-b86484341b3a" type="box">19</container> 
+					<container parent="65e1ef29-f72c-43dc-b69d-b86484341b3a" type="folder">1</container> 
+					<unittitle>SXB1-2 – SXB55-12,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03> 
+			<c03 level="file"> 
+				<did> 
+					<container id="ae4d5001-cd32-4348-b2ca-b3585bb48023" type="box">19</container> 
+					<container parent="ae4d5001-cd32-4348-b2ca-b3585bb48023" type="folder">2</container> 
+					<unittitle>SXB56-12 – SXB128-40,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="89d5fb3c-bd52-4f80-b018-fa600bf0f014" type="box">19</container> 
+					<container parent="89d5fb3c-bd52-4f80-b018-fa600bf0f014" type="folder">3</container> 
+					<unittitle>SXB129-41 – SXB192-56,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="faf85d7b-635f-42e0-a952-bf764273866f" type="box">19</container> 
+					<container parent="faf85d7b-635f-42e0-a952-bf764273866f" type="folder">4</container> 
+					<unittitle>SXB193-56 – SXB254-80,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="9b85c0ff-d6da-4713-8a13-b5d28ee09b15" type="box">19</container> 
+					<container parent="9b85c0ff-d6da-4713-8a13-b5d28ee09b15" type="folder">5</container> 
+					<unittitle>SXB255-81 – SXB321-127,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="89b0afd5-c9ce-4685-9382-d890dcddac9a" type="box">20</container> 
+					<container parent="89b0afd5-c9ce-4685-9382-d890dcddac9a" type="folder">1</container> 
+					<unittitle>SXB322-128 – SXB385-153,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="eddc7652-8717-44e7-a040-3f134c612add" type="box">20</container> 
+					<container parent="eddc7652-8717-44e7-a040-3f134c612add" type="folder">2</container> 
+					<unittitle>SXB386-154 – SXB448-177,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="f72bfdce-7ecc-4d52-9ab9-5a0894c56660" type="box">20</container> 
+					<container parent="f72bfdce-7ecc-4d52-9ab9-5a0894c56660" type="folder">3</container> 
+					<unittitle>SXB449-177 – SXB510-208,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="df23a31f-b216-4b1e-b809-597aa8dbf0e6" type="box">20</container> 
+					<container parent="df23a31f-b216-4b1e-b809-597aa8dbf0e6" type="folder">4</container> 
+					<unittitle>SXB511-209 – SXB577-228,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="afbf7477-ac1c-47ca-80f5-cf2dce710e8c" type="box">20</container> 
+					<container parent="afbf7477-ac1c-47ca-80f5-cf2dce710e8c" type="folder">5</container> 
+					<unittitle>SXB578-228 – SXB648-247,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="a693e551-3a6f-4792-a4bd-c4c9737c98af" type="box">21</container> 
+					<container parent="a693e551-3a6f-4792-a4bd-c4c9737c98af" type="folder">1</container> 
+					<unittitle>SXB649-248 – SXB696-261,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="a55a220a-4cff-4107-a85b-bab8fafdfbc1" type="box">21</container> 
+					<container parent="a55a220a-4cff-4107-a85b-bab8fafdfbc1" type="folder">2</container> 
+					<unittitle>SXB697-262 – SXB831-335,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="9bfb1740-9e23-4a85-8d8e-4faa38015cbd" type="box">21</container> 
+					<container parent="9bfb1740-9e23-4a85-8d8e-4faa38015cbd" type="folder">3</container> 
+					<unittitle>SXB 832-335 – SXB914-360,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+		</c02>
+		<c02 level="subseries"> 
+			<did> 
+				<unittitle>Subseries 3: Subjects,</unittitle> 
+				<unitdate type="inclusive">1909-1960</unitdate>
+			</did> 
+			<scopecontent><p>This subseries contains negatives arranged alphabetically by subject. The majority of materials in this subseries are unidentified.</p></scopecontent>
+			<c03 level="file"> 
+				<did> 
+					<container id="d46288a4-c3db-4bb2-8a21-422697a0028e" type="box">21</container> 
+					<container parent="d46288a4-c3db-4bb2-8a21-422697a0028e" type="folder">4</container> 
+					<unittitle>Bylar,</unittitle>
+					<unitdate>1953</unitdate>
+				</did>  
+			</c03> 
+			<c03 level="file"> 
+				<did> 
+					<container id="aa57f5b6-3978-4f56-a257-91c5e0d3672e" type="box">21</container> 
+					<container parent="aa57f5b6-3978-4f56-a257-91c5e0d3672e" type="folder">5</container> 
+					<unittitle>China,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03> 
+			<c03 level="file"> 
+				<did> 
+					<container id="18b81d14-907b-41c3-92be-74e5112f59a5" type="box">21</container> 
+					<container parent="18b81d14-907b-41c3-92be-74e5112f59a5" type="folder">6</container> 
+					<unittitle>Cowlik,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03> 
+			<c03 level="file"> 
+				<did> 
+					<container id="2ff90790-b81a-4d90-ae0b-9345472cfe87" type="box">21</container> 
+					<container parent="2ff90790-b81a-4d90-ae0b-9345472cfe87" type="folder">7</container> 
+					<unittitle>Courthouse, Florence, Arizona,</unittitle>
+					<unitdate>1954</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="918ef613-0210-4797-8344-129bcc1f2bc5" type="box">21</container> 
+					<container parent="918ef613-0210-4797-8344-129bcc1f2bc5" type="folder">8</container> 
+					<unittitle>Mexican Trip,</unittitle>
+					<unitdate>1960</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="d2630438-252b-44d9-aa6e-369a26b88d33" type="box">21</container> 
+					<container parent="d2630438-252b-44d9-aa6e-369a26b88d33" type="folder">9</container> 
+					<unittitle>McNary, Arizona,</unittitle>
+					<unitdate>1934 April</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="b1d0a63a-7a7d-41e4-ae17-4d4d72d167ae" type="box">21</container> 
+					<container parent="b1d0a63a-7a7d-41e4-ae17-4d4d72d167ae" type="folder">10</container> 
+					<unittitle>Oblasser, Bonaventure, Color Slide,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="810b377c-af1d-411d-bbcc-448cbe6163e4" type="box">21</container> 
+					<container parent="810b377c-af1d-411d-bbcc-448cbe6163e4" type="folder">11</container> 
+					<unittitle>Pisinemo School,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="90a5de2a-8ee6-4223-b1b9-39293cf541d5" type="box">21</container> 
+					<container parent="90a5de2a-8ee6-4223-b1b9-39293cf541d5" type="folder">12</container> 
+					<unittitle>San Carlos, Arizona,</unittitle>
+					<unitdate>1954 February, June</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="aa82e050-e248-4a21-b0fd-2ebb017a783d" type="box">22</container> 
+					<container parent="aa82e050-e248-4a21-b0fd-2ebb017a783d" type="folder">1</container> 
+					<unittitle>San Ignacio Mission,</unittitle>
+					<unitdate>1915</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="8687d7c7-25d6-4981-8248-8f81cc1958e8" type="box">22</container> 
+					<container parent="8687d7c7-25d6-4981-8248-8f81cc1958e8" type="folder">2</container> 
+					<unittitle>San Luis Rey Mission, California,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="9b6a5306-ab7b-4156-bcea-17762b24154f" type="box">22</container> 
+					<container parent="9b6a5306-ab7b-4156-bcea-17762b24154f" type="folder">3</container> 
+					<unittitle>San Xavier del Bac (1 of 3),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="a4ecfebb-fb12-443a-b8be-694243d200e9" type="box">22</container> 
+					<container parent="a4ecfebb-fb12-443a-b8be-694243d200e9" type="folder">4</container> 
+					<unittitle>San Xavier del Bac (2 of 3),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="ffdaff90-b3f4-4d88-add8-a16ba100abbb" type="box">22</container> 
+					<container parent="ffdaff90-b3f4-4d88-add8-a16ba100abbb" type="folder">5</container> 
+					<unittitle>San Xavier del Bac (3 of 3),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="1d999547-66c2-44c6-be7a-7cbd3fb14d9e" type="box">22</container> 
+					<container parent="1d999547-66c2-44c6-be7a-7cbd3fb14d9e" type="folder">6</container> 
+					<unittitle>Santa Fe, New Mexico,</unittitle>
+					<unitdate>1953</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="171142db-3460-4a14-8114-e7fc7d3b0aa1" type="box">22</container> 
+					<container parent="171142db-3460-4a14-8114-e7fc7d3b0aa1" type="folder">7</container> 
+					<unittitle>St. John's Mission,</unittitle>
+					<unitdate>1909</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="0b2188e5-5811-46a7-a82c-e0c1d56b86ac" type="box">22</container> 
+					<container parent="0b2188e5-5811-46a7-a82c-e0c1d56b86ac" type="folder">8</container> 
+					<unittitle>St. Michael's,</unittitle>
+					<unitdate>1953</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="ea735e53-3261-40af-b2d1-335ebb739165" type="box">22</container> 
+					<container parent="ea735e53-3261-40af-b2d1-335ebb739165" type="folder">9</container> 
+					<unittitle>St. Peter, Bapchule, Arizona,</unittitle>
+					<unitdate>circa 1950</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="2461c83a-c26a-485a-9da0-8c7eb058569c" type="box">22</container> 
+					<container parent="2461c83a-c26a-485a-9da0-8c7eb058569c" type="folder">10</container> 
+					<unittitle>Varia,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="a0bba481-0440-43b0-bc80-d0eb7f01af6b" type="box">22</container> 
+					<container parent="a0bba481-0440-43b0-bc80-d0eb7f01af6b" type="folder">11</container> 
+					<unittitle>Unidentified (1 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="4f308ffc-2ac3-4d43-88af-90a4b0d069e0" type="box">22</container> 
+					<container parent="4f308ffc-2ac3-4d43-88af-90a4b0d069e0" type="folder">12</container> 
+					<unittitle>Unidentified (2 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="aff89339-c795-4b96-ac95-fd4c762127e8" type="box">23</container> 
+					<container parent="aff89339-c795-4b96-ac95-fd4c762127e8" type="folder">1</container> 
+					<unittitle>Unidentified (3 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="8d00cfde-a360-4e27-87be-02bdea5ba40a" type="box">23</container> 
+					<container parent="8d00cfde-a360-4e27-87be-02bdea5ba40a" type="folder">2</container> 
+					<unittitle>Unidentified (4 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="140f9230-7fa1-463a-8255-dbe51dc5805c" type="box">23</container> 
+					<container parent="140f9230-7fa1-463a-8255-dbe51dc5805c" type="folder">3</container> 
+					<unittitle>Unidentified (5 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="bb3b0293-b212-4980-8ca1-02c6077eaaab" type="box">23</container> 
+					<container parent="bb3b0293-b212-4980-8ca1-02c6077eaaab" type="folder">4</container> 
+					<unittitle>Unidentified (6 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="d4f8b941-b4cd-4d0b-8f5d-cf23656782ce" type="box">23</container> 
+					<container parent="d4f8b941-b4cd-4d0b-8f5d-cf23656782ce" type="folder">5</container> 
+					<unittitle>Unidentified (7 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="b45ac2c4-b018-47c3-8be9-541095eeeabf" type="box">23</container> 
+					<container parent="b45ac2c4-b018-47c3-8be9-541095eeeabf" type="folder">6</container> 
+					<unittitle>Unidentified (8 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="66bb6ea1-63ad-4409-9d32-49f84ae51cf9" type="box">24</container> 
+					<container parent="66bb6ea1-63ad-4409-9d32-49f84ae51cf9" type="folder">1</container> 
+					<unittitle>Unidentified (9 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="32175300-d1a2-407b-8931-a290e49fda64" type="box">24</container> 
+					<container parent="32175300-d1a2-407b-8931-a290e49fda64" type="folder">2</container> 
+					<unittitle>Unidentified (10 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="77275988-d40f-45c3-8446-38cb3555e01d" type="box">24</container> 
+					<container parent="77275988-d40f-45c3-8446-38cb3555e01d" type="folder">3</container> 
+					<unittitle>Unidentified (11 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="a1553d0c-fc00-408e-894b-ba91476011ab" type="box">24</container> 
+					<container parent="a1553d0c-fc00-408e-894b-ba91476011ab" type="folder">4</container> 
+					<unittitle>Unidentified (12 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="0446d2f3-22f0-4071-877d-54416712d7c1" type="box">24</container> 
+					<container parent="0446d2f3-22f0-4071-877d-54416712d7c1" type="folder">5</container> 
+					<unittitle>Unidentified (13 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="06a29f88-b829-418e-8b66-59a58375e621" type="box">25</container> 
+					<container parent="06a29f88-b829-418e-8b66-59a58375e621" type="folder">1</container> 
+					<unittitle>Unidentified (14 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="838078b5-4f1c-44f5-905b-392351e43c7e" type="box">25</container> 
+					<container parent="838078b5-4f1c-44f5-905b-392351e43c7e" type="folder">2</container> 
+					<unittitle>Unidentified (15 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+			<c03 level="file"> 
+				<did> 
+					<container id="7e63a3db-9dcb-4dce-b338-2ead8c88e26e" type="box">25</container> 
+					<container parent="7e63a3db-9dcb-4dce-b338-2ead8c88e26e" type="folder">3</container> 
+					<unittitle>Unidentified (16 of 16),</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03>
+		</c02>
+		<c02 level="subseries"> 
+			<did> 
+				<unittitle>Subseries 4: Glass Negatives,</unittitle> 
+				<unitdate type="inclusive">undated</unitdate>
+			</did> 
+			<scopecontent><p>This subseries contains unidentified glass negatives.</p></scopecontent>
+			<c03 level="file"> 
+				<did> 
+					<container id="34b8b4b1-40b1-4a58-8d56-f91acbd7d1ff" type="box">26</container> 
+				 
+					<unittitle>Unidentified glass negatives,</unittitle>
+					<unitdate>undated</unitdate>
+				</did>  
+			</c03> 
+		</c02>
+	</c01>
+	<c01 level="series"> 
+		<did> 
+			<unittitle>Series 5: Nicholas Perschl Papers,</unittitle> 
+			<unitdate type="inclusive">1901-1969</unitdate>
+		</did>
+		<scopecontent><p>This series contains papers that relate to the personal life and career of Nicholas Perschl. Included are excerpts from his diary and autobiographical writings for his early years as a missionary; general correspondence from 1901 to 1969, chiefly with other Franciscans, former students, and friends; and letters (in German) from members of his extended family in Austria.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="5e301c7a-ab84-4cf3-85b7-6e322482d9ef" type="box">27</container> 
+				<container parent="5e301c7a-ab84-4cf3-85b7-6e322482d9ef" type="folder">1</container> 
+				<unittitle>Biographical materials,</unittitle>
+				<unitdate>circa 1923-1930</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="bc2b01ce-6516-411f-9578-3a63feaaef3b" type="box">27</container> 
+				<container parent="bc2b01ce-6516-411f-9578-3a63feaaef3b" type="folder">2</container> 
+				<unittitle>General correspondence,</unittitle>
+				<unitdate>1901-1969</unitdate>
+			</did>  
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="828909b1-51d3-4d56-b086-33ab03bbc2f2" type="box">27</container> 
+				<container parent="828909b1-51d3-4d56-b086-33ab03bbc2f2" type="folder">3</container> 
+				<unittitle>Correspondence with family in Vienna,</unittitle>
+				<unitdate>circa 1905-1948</unitdate>
+			</did>  
+		</c02>
+	</c01>
+  </dsc> 
+</archdesc></ead>

@@ -1,0 +1,1353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+		<eadid encodinganalog="852">UAMS509</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper> University of Arizona Business and Professional Women’s Club Records,
+						<date calendar="gregorian" certainty="approximate" era="ce"
+						normal="1964/2013">1964-2013</date>
+				</titleproper>
+				<author>Processed by Amy Erives.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>University of Arizona Libraries, Special Collections</publisher>
+				<address>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+				</address>
+				<date calendar="gregorian" era="ce" normal="2013">2013</date>
+				<p>Arizona Board of Regents. All Rights Reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Inventory encoded in Oxygen XML editor by Amy Erives. <date
+					encodinganalog="date" era="ce" normal="20131009">Oct. 9, 2013</date></creation>
+			<langusage>Finding aid is in<language langcode="eng"> English.</language></langusage>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date normal="2017-06-23">2017-06-23</date>
+				<item>This finding aid was updated in alignment with LC EAD 2.0 specifications using
+					a python script created by Erik Radio.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<titleproper> University of Arizona Business and Professional Women’s Club Records,<date
+					calendar="gregorian" era="ce">1964-2013</date></titleproper>
+			<num>Collection Number: MS 509 </num>
+			<publisher>University of Arizona Libraries, Special Collections</publisher>
+			<list>
+				<defitem>
+					<label>Processed by:</label>
+					<item> Amy Erives </item>
+				</defitem>
+				<defitem>
+					<label>Date completed:</label>
+					<item>
+						<date>Oct. 9, 2013</date></item>
+				</defitem>
+				<defitem>
+					<label>Encoded by:</label>
+					<item> Amy Erives </item>
+				</defitem>
+			</list>
+			<p>© 2013. Arizona Board of Regents. All rights reserved.</p>
+		</titlepage>
+	</frontmatter>
+	<archdesc encodinganalog="351$c" level="collection" type="inventory">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle encodinganalog="245" label="Collection Name"> University of Arizona Business
+				and Professional Women’s <unitdate label="Dates" normal="1964/2013" type="inclusive"
+					>1964-2013</unitdate></unittitle>
+			<unitid countrycode="US" encodinganalog="099" label="Collection Number"
+				repositorycode="US-azu">MS 509</unitid>
+			<origination label="Creator">
+				<corpname encodinganalog="110" source="lcnaf">University of Arizona Business and
+					Professional Women’s Club</corpname>
+			</origination>
+			<abstract label="Abstract">The University of Arizona Business and Professional Women’s
+				Club (UA/BPW) records contains materials relating to the club’s presence at the
+				University of Arizona since its establishment in 1964. The collection is divided
+				into nine series: club history, publications, meeting minutes and agendas,
+				correspondence, scrapbook albums, program materials, awards, ephemera and political
+				material.</abstract>
+			<physdesc encodinganalog="300$a" label="Physical Description"><extent>7.25 Linear
+					feet.</extent></physdesc>
+			<repository label="Repository">
+				<corpname>University of Arizona Libraries, Special Collections</corpname>
+				<address>
+					<addressline>University of Arizona</addressline>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+				</address></repository>
+			<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+					>English</language></langmaterial>
+		</did>
+		<accessrestrict>
+			<head>Restrictions</head>
+			<p> None.</p>
+		</accessrestrict>
+		<userestrict>
+			<head>Copyright</head>
+			<p>It is the responsibility of the user to obtain permission to publish from the owner
+				of the copyright (the institution, the creator of the record, the author or his/her
+				transferees, heirs, legates, or literary executors). The user agrees to indemnify
+				and hold harmless the Arizona Board of Regents for the University of Arizona, its
+				officers, employees, and agents from and against all claims made by any person
+				asserting that he or she is an owner of copyright.</p>
+		</userestrict>
+		<prefercite>
+			<head>Credit Line</head>
+			<p>University of Arizona Business and Professional Women’s Club(MS 509). Special
+				Collections, University of Arizona Libraries.</p>
+		</prefercite>
+		<bioghist encodinganalog="545">
+			<head>Historical Note</head>
+			<p>The University of Arizona Business and Professional Women’s Club (UA/BPW) was
+				organized in 1964 becoming a chapter of the Arizona Federation of Business and
+				Professional Women’s Clubs (BPW/AZ) and the National Federation of Business Women’s
+				Clubs (BPW/USA). At the club’s founding meeting at the University, President Richard
+				Harvill officially recognized UA/BPW at the University of Arizona campus. The
+				University of Arizona Business and Professional Women’s Club became the first BPW
+				club charted at a college campus by the BPW/USA.</p>
+			<p>UA/BPW members during the 1960’s and 1970’s were a mix of classified staff and
+				faculty but later were mainly women who worked on campus as classified staff
+				employees ranging from business managers, administrative assistants, etc.. The goals
+				of the organization was to provide networking and support for the women on campus,
+				address legislative and social issues affecting women, and provide scholarships for
+				women. In addition to the commitment of their activities on campus, many members
+				were also active members of other clubs and organizations that supported women
+				issues in society.</p>
+			<p>Over the years, the club brought many successful events, projects and programs to the
+				campus to help reach their goals. Some of their most notable achievements were
+				sponsoring the Bring Your Boss to Lunch fundraiser (1964-1986); sponsoring
+				approximately 6 annual Women in Management Conferences on campus (1960’s-1970’s);
+				sponsoring yearly film shows on women’s issues on campus for faculty, staff, and
+				students (1990); sponsoring a brown bag lunch series on career related topics
+				(1994-1997); lobbying for Senate Bills 1168 and 1291 (1998-1999); and co-sponsoring
+				pay equity events with NOW and Tucson’s Women’s Commission (1994-2004).</p>
+		</bioghist>
+		<arrangement encodinganalog="351$a">
+			<head>Arrangement</head>
+			<p>This collection is organized into nine series </p>
+			<list>
+				<item>Series I: Club History <unitdate>1964-2013</unitdate></item>
+				<item>Series II: Publications <unitdate>1954-2012</unitdate></item>
+				<item>Series III: Meeting Minutes and Agendas <unitdate>1964-2011</unitdate></item>
+				<item>Series IV: Correspondence <unitdate>1964-2011</unitdate></item>
+				<item>Series V: Scrapbook Albums <unitdate>1964-2011</unitdate></item>
+				<item>Series VI: Program Material <unitdate>1964-2005</unitdate></item>
+				<item>Series VII: Awards <unitdate>1970-2012</unitdate></item>
+				<item>Series VIII: Ephemera <unitdate>1964-2009</unitdate></item>
+				<item>Series IX: Political Material <unitdate>1971-2003</unitdate></item>
+			</list>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The collection (1964-2013), contains materials including meeting minutes and agendas,
+				club history, correspondence, publications, scrapbooks of newspaper clippings
+				related to the clubs members and activities they were involved in and photographs.
+			</p>
+		</scopecontent>
+		
+		<controlaccess>
+			<corpname>University of Arizona. Business and Professional Women’s Club</corpname>
+			<corpname>University of Arizona--History</corpname>
+			<subject>Universities and colleges -- Employees -- Arizona</subject>
+			<subject>Universities and colleges -- Arizona -- Faculty</subject>
+			<subject>Clubs--Arizona--Tucson</subject>
+			<subject>Women--Arizona</subject>
+			<subject>Political Clubs--Societies and Clubs</subject>
+			<geogname>Tucson--Arizona--United States</geogname>
+		</controlaccess>
+		<dsc type="combined">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unittitle> Series I: Club History <unitdate type="inclusive"
+							>1964-2013</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p> Contains the club overview, bylaws, membership lists, financial records,
+						officer nominations and reports from past officers.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="d251ca72-f0c1-4429-8f1a-38676f3bdd2e" type="box"> 1 </container>
+						<container parent="d251ca72-f0c1-4429-8f1a-38676f3bdd2e" type="folder"> 1 </container>
+						<unittitle> Overview </unittitle>
+						<unitdate>1987-2013</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c38c2699-7d5b-4f5d-ace3-2ebc237b21cf" type="box"> 1 </container>
+						<container parent="c38c2699-7d5b-4f5d-ace3-2ebc237b21cf" type="folder"> 2 </container>
+						<unittitle>Bylaws</unittitle>
+						<unitdate> 1964-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f7a500ab-76c9-4f92-a914-ce768e345e7e" type="box"
+							>1</container>
+						<container parent="f7a500ab-76c9-4f92-a914-ce768e345e7e" type="folder"
+							>3</container>
+						<unittitle>Bylaws</unittitle>
+						<unitdate>1996-2010</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6d52e0d6-2f20-4305-85c2-5ca87e7b2e7d" type="box"
+							>1</container>
+						<container parent="6d52e0d6-2f20-4305-85c2-5ca87e7b2e7d" type="folder"
+							>4</container>
+						<unittitle>Membership List</unittitle>
+						<unitdate>1966-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a619db25-d2de-4764-90ac-2c888792114c" type="box"
+							>1</container>
+						<container parent="a619db25-d2de-4764-90ac-2c888792114c" type="folder"
+							>5</container>
+						<unittitle>Membership List</unittitle>
+						<unitdate>1985-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="442fe37e-bdfd-4ad1-be6c-d9385af64fe2" type="box"
+							>1</container>
+						<container parent="442fe37e-bdfd-4ad1-be6c-d9385af64fe2" type="folder"
+							>6</container>
+						<unittitle>Membership List</unittitle>
+						<unitdate>1995-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="492a100e-3394-4ef5-93c1-aa4b1d0e173a" type="box"
+							>1</container>
+						<container parent="492a100e-3394-4ef5-93c1-aa4b1d0e173a" type="folder"
+							>7</container>
+						<unittitle>Membership List</unittitle>
+						<unitdate>1999-2007</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6a5f86e1-9db4-441b-8dd6-f53cd366d422" type="box"
+							>1</container>
+						<container parent="6a5f86e1-9db4-441b-8dd6-f53cd366d422" type="folder"
+							>8</container>
+						<unittitle>Membership List</unittitle>
+						<unitdate>2000-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="cf0d3508-85ae-43de-aec9-9ad4fad48960" type="box"
+							>2</container>
+						<container parent="cf0d3508-85ae-43de-aec9-9ad4fad48960" type="folder"
+							>1</container>
+						<unittitle>Membership List</unittitle>
+						<unitdate>2004-2011</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="57ab01f0-fc44-4bba-ba8d-492b63af6d85" type="box"
+							>2</container>
+						<container parent="57ab01f0-fc44-4bba-ba8d-492b63af6d85" type="folder"
+							>2</container>
+						<unittitle>Training Documents</unittitle>
+						<unitdate>1987-1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5f3de2bb-2f9d-4171-9e2e-2836cee6f20a" type="box"
+							>2</container>
+						<container parent="5f3de2bb-2f9d-4171-9e2e-2836cee6f20a" type="folder"
+							>3</container>
+						<unittitle>Financial Receipts</unittitle>
+						<unitdate>1964-1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8a09959c-d1ef-42e4-85dc-59a842ecb878" type="box"
+							>2</container>
+						<container parent="8a09959c-d1ef-42e4-85dc-59a842ecb878" type="folder"
+							>4</container>
+						<unittitle>Financial Reports</unittitle>
+						<unitdate>1976-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b6cda2c0-571a-4408-82ec-a4669868ba42" type="box"
+							>2</container>
+						<container parent="b6cda2c0-571a-4408-82ec-a4669868ba42" type="folder"
+							>5</container>
+						<unittitle>Financial</unittitle>
+						<unitdate>1964-1998</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1497a3dd-c6dc-471c-a3a8-24860f2c9cbd" type="box"
+							>2</container>
+						<container parent="1497a3dd-c6dc-471c-a3a8-24860f2c9cbd" type="folder"
+							>6</container>
+						<unittitle>Fundraising</unittitle>
+						<unitdate>1999-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f3065f50-c674-4919-84c7-00e1836e1f0e" type="box"
+							>2</container>
+						<container parent="f3065f50-c674-4919-84c7-00e1836e1f0e" type="folder"> 7 </container>
+						<unittitle>Officer Nominations</unittitle>
+						<unitdate>1991-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6f40ef32-aa11-4be2-892a-212a30195ba9" type="box"
+							>2</container>
+						<container parent="6f40ef32-aa11-4be2-892a-212a30195ba9" type="folder"
+							>8</container>
+						<unittitle>Officer Reports </unittitle>
+						<unitdate>1969-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c07ea95c-9291-4f5e-9c87-867df1bb7f39" type="box"
+							>2</container>
+						<container parent="c07ea95c-9291-4f5e-9c87-867df1bb7f39" type="folder"
+							>9</container>
+						<unittitle>Notes of President Angie Toledo</unittitle>
+						<unitdate>2000-2003</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Series II: Publications <unitdate type="inclusive"> 1953-2013
+						</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p> Contains the clubs newsletters, Around Old Main newsletters, The
+						Communicator Newsletter, Pep * Talk newsletter, Arizona Women Magazine, and
+						Arizona Business Woman Magazine. </p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="eef7aea8-e93a-4425-91f3-00de1c41497b" type="box"
+							>3</container>
+						<container parent="eef7aea8-e93a-4425-91f3-00de1c41497b" type="folder"
+							>1</container>
+						<unittitle>Around Old Main Newsletter</unittitle>
+						<unitdate>1965-1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="43fb6653-5715-4ca6-92d1-f69cff82e7cb" type="box"
+							>3</container>
+						<container parent="43fb6653-5715-4ca6-92d1-f69cff82e7cb" type="folder"
+							>2</container>
+						<unittitle>Newsletters</unittitle>
+						<unitdate>1968-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e5f50231-b876-440f-84d8-f60120858a87" type="box"
+							>3</container>
+						<container parent="e5f50231-b876-440f-84d8-f60120858a87" type="folder"
+							>3</container>
+						<unittitle>Pep* Talk</unittitle>
+						<unitdate>1969-1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6b0206df-9b31-493c-ad55-4c6ee1c5c27d" type="box"
+							>3</container>
+						<container parent="6b0206df-9b31-493c-ad55-4c6ee1c5c27d" type="folder"
+							>4</container>
+						<unittitle>The Communicator Newsletter</unittitle>
+						<unitdate>1986-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2b2318a0-93d2-4327-ae7e-6bbb3331c268" type="box"
+							>3</container>
+						<container parent="2b2318a0-93d2-4327-ae7e-6bbb3331c268" type="folder"
+							>5</container>
+						<unittitle>Club Newsletters</unittitle>
+						<unitdate>1991-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="94f65dcc-c6d6-4e81-a695-44b0aa276453" type="box"
+							>4</container>
+						<container parent="94f65dcc-c6d6-4e81-a695-44b0aa276453" type="folder"
+							>1</container>
+						<unittitle>Club Newsletters</unittitle>
+						<unitdate>1996-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d6c47d18-960c-4046-b6ce-ce52073d72e9" type="box"
+							>4</container>
+						<container parent="d6c47d18-960c-4046-b6ce-ce52073d72e9" type="folder"
+							>2</container>
+						<unittitle>Club Newsletters</unittitle>
+						<unitdate>2004-2009</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="77d23b91-72e0-4845-a8c1-ce917f9db7ab" type="box"
+							>4</container>
+						<container parent="77d23b91-72e0-4845-a8c1-ce917f9db7ab" type="folder"
+							>3</container>
+						<unittitle>Arizona Woman Magazines</unittitle>
+						<unitdate>1953-1967</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="15b06130-511c-47e8-aa8d-ccaf1e0494f4" type="box"
+							>4</container>
+						<container parent="15b06130-511c-47e8-aa8d-ccaf1e0494f4" type="folder"
+							>4</container>
+						<unittitle>Arizona Woman Magazines</unittitle>
+						<unitdate> 1968-1971 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9aeda48c-907e-4587-b485-63faf54858f2" type="box"
+							>4</container>
+						<container parent="9aeda48c-907e-4587-b485-63faf54858f2" type="folder"
+							>5</container>
+						<unittitle>Arizona Woman Magazines</unittitle>
+						<unitdate>1972-1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="bfbae129-f269-49e8-a8d9-418f0d3e23a5" type="box"
+							>5</container>
+						<container parent="bfbae129-f269-49e8-a8d9-418f0d3e23a5" type="folder"
+							>1</container>
+						<unittitle>Arizona Woman Magazines</unittitle>
+						<unitdate>1977-1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="69849824-7a74-4e66-8a3b-b656c0416f75" type="box"
+							>5</container>
+						<container parent="69849824-7a74-4e66-8a3b-b656c0416f75" type="folder"
+							>2</container>
+						<unittitle>Arizona Woman Magazines</unittitle>
+						<unitdate>1980-1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c24176ef-0404-46ed-9b01-132dc6b6252e" type="box"
+							>5</container>
+						<container parent="c24176ef-0404-46ed-9b01-132dc6b6252e" type="folder"
+							>3</container>
+						<unittitle> Arizona Business Woman Magazines </unittitle>
+						<unitdate> 1983-1985 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f588ecd8-64d4-4a93-aa98-c225aa2ca8ea" type="box"
+							>5</container>
+						<container parent="f588ecd8-64d4-4a93-aa98-c225aa2ca8ea" type="folder"
+							>4</container>
+						<unittitle> Arizona Business Woman Magazines </unittitle>
+						<unitdate>1986-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2b7d5ea7-37f0-4183-aefe-cf228e98da82" type="box"
+							>5</container>
+						<container parent="2b7d5ea7-37f0-4183-aefe-cf228e98da82" type="folder"
+							>5</container>
+						<unittitle>Arizona Business Woman Magazines</unittitle>
+						<unitdate>1991-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="85a88640-4390-46ee-877b-957cb9c8dd96" type="box"
+							>6</container>
+						<container parent="85a88640-4390-46ee-877b-957cb9c8dd96" type="folder"
+							>1</container>
+						<unittitle>Arizona Business Woman Magazines</unittitle>
+						<unitdate>1994-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="bcf6a054-d8fb-441c-9517-b2c55558b878" type="box"
+							>6</container>
+						<container parent="bcf6a054-d8fb-441c-9517-b2c55558b878" type="folder"
+							>2</container>
+						<unittitle>Arizona Business Woman Magazines</unittitle>
+						<unitdate>1997-2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d1e15711-284b-4cd4-b54e-dd3e3ce1214e" type="box"
+							>6</container>
+						<container parent="d1e15711-284b-4cd4-b54e-dd3e3ce1214e" type="folder"
+							>3</container>
+						<unittitle>Arizona Business Woman Magazines</unittitle>
+						<unitdate>2005-2008</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fcc9f5e7-45d0-491b-9350-3ce8f43453a6" type="box"
+							>6</container>
+						<container parent="fcc9f5e7-45d0-491b-9350-3ce8f43453a6" type="folder"
+							>4</container>
+						<unittitle>Arizona Business Woman Magazines</unittitle>
+						<unitdate>2009-2012</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Series III: Meeting Minutes and Agendas <unitdate type="inclusive">
+							1964-2011 </unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p> Contains the meeting minutes and agendas from 1964 to 2011.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="32bafdbf-633c-4bc5-80dd-bc7bc5a1c1de" type="box"
+							>7</container>
+						<container parent="32bafdbf-633c-4bc5-80dd-bc7bc5a1c1de" type="folder"
+							>1</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1964-1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="248d1f99-a679-4b36-acaf-a7b783ec9132" type="box"
+							>7</container>
+						<container parent="248d1f99-a679-4b36-acaf-a7b783ec9132" type="folder"
+							>2</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1967-1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7b44930f-a3d3-4167-b40c-9e037ae71788" type="box"
+							>7</container>
+						<container parent="7b44930f-a3d3-4167-b40c-9e037ae71788" type="folder"
+							>3</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1970-1972</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="18e29412-419f-425b-b699-3267d9830026" type="box"
+							>7</container>
+						<container parent="18e29412-419f-425b-b699-3267d9830026" type="folder"
+							>4</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1973-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="58d5f185-a5e2-4e49-9a54-ee839df21723" type="box"
+							>7</container>
+						<container parent="58d5f185-a5e2-4e49-9a54-ee839df21723" type="folder"
+							>5</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1981-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="17b56c70-8c18-4c8d-97bd-f7c42284e796" type="box"
+							>7</container>
+						<container parent="17b56c70-8c18-4c8d-97bd-f7c42284e796" type="folder"
+							>6</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1985-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fbb8bc4c-e16e-472e-8e19-d0850938ef72" type="box"
+							>7</container>
+						<container parent="fbb8bc4c-e16e-472e-8e19-d0850938ef72" type="folder"
+							>7</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1990-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a323847f-4cd9-437c-a700-f91a13bca901" type="box"
+							>8</container>
+						<container parent="a323847f-4cd9-437c-a700-f91a13bca901" type="folder"
+							>1</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1994-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="19a2781b-c98c-41d4-9018-03f0e9068270" type="box"
+							>8</container>
+						<container parent="19a2781b-c98c-41d4-9018-03f0e9068270" type="folder"
+							>2</container>
+						<unittitle>Agenda’s and sign-in sheets</unittitle>
+						<unitdate>1998-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="094df4f0-8f89-4615-892a-18869a5d06da" type="box"
+							>8</container>
+						<container parent="094df4f0-8f89-4615-892a-18869a5d06da" type="folder"
+							>3</container>
+						<unittitle>Agenda’s and sign-in sheets</unittitle>
+						<unitdate>2002-2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a56ecbdf-4c6c-4ea9-b911-26efd841efad" type="box"
+							>8</container>
+						<container parent="a56ecbdf-4c6c-4ea9-b911-26efd841efad" type="folder"
+							>4</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>2004-2011</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Series IV: Correspondence <unitdate type="inclusive"> 1964-2011
+						</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p> Contains various letters between the club officers, members, etc., in
+						regards to meetings, events, workshops, issues, etc.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="32fff989-2601-4f63-9fb3-64230b141ad7" type="box"
+							>8</container>
+						<container parent="32fff989-2601-4f63-9fb3-64230b141ad7" type="folder"
+							>5</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1964</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="faaa76a5-d74c-4a13-97e3-9e3b494130c8" type="box"
+							>8</container>
+						<container parent="faaa76a5-d74c-4a13-97e3-9e3b494130c8" type="folder"
+							>6</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>Jan.-May 1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="bd52abad-bdc9-4baa-bf12-160279d6c5f7" type="box"
+							>8</container>
+						<container parent="bd52abad-bdc9-4baa-bf12-160279d6c5f7" type="folder"
+							>7</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>June-Dec. 1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="bcfcaef5-dfe6-444f-9cea-9705ec6182e1" type="box"
+							>8</container>
+						<container parent="bcfcaef5-dfe6-444f-9cea-9705ec6182e1" type="folder"
+							>8</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ae28ba9b-c124-4632-8457-04a28ca3386d" type="box"
+							>8</container>
+						<container parent="ae28ba9b-c124-4632-8457-04a28ca3386d" type="folder"
+							>9</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1967-1968</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="83a87cf1-2756-4a36-8657-9542385a9986" type="box"
+							>9</container>
+						<container parent="83a87cf1-2756-4a36-8657-9542385a9986" type="folder"
+							>1</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="823ddc42-6464-42b6-9742-5b2cf9f836ce" type="box"
+							>9</container>
+						<container parent="823ddc42-6464-42b6-9742-5b2cf9f836ce" type="folder"
+							>2</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6ac3d87b-eef2-457a-9d5a-a24bae671e28" type="box"
+							>9</container>
+						<container parent="6ac3d87b-eef2-457a-9d5a-a24bae671e28" type="folder"
+							>3</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1971-1973</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ac44fa71-87a6-49f7-b5ab-46603cbf933f" type="box"
+							>9</container>
+						<container parent="ac44fa71-87a6-49f7-b5ab-46603cbf933f" type="folder"
+							>4</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1974-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="941ad7ae-f24f-4ae5-b814-29a6a2cf75c1" type="box"
+							>9</container>
+						<container parent="941ad7ae-f24f-4ae5-b814-29a6a2cf75c1" type="folder"
+							>5</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1976-Aug. 1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0cc90972-c94d-4199-8876-a86a837f2ab9" type="box"
+							>9</container>
+						<container parent="0cc90972-c94d-4199-8876-a86a837f2ab9" type="folder"
+							>6</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>Sept. 1978-1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="84f7cec5-94b9-43cd-b920-faa2d1c061ec" type="box"
+							>9</container>
+						<container parent="84f7cec5-94b9-43cd-b920-faa2d1c061ec" type="folder"
+							>7</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1987-1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9d2fd46b-0ec8-44b8-a81d-4c85c517e34c" type="box"
+							>9</container>
+						<container parent="9d2fd46b-0ec8-44b8-a81d-4c85c517e34c" type="folder"
+							>8</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1981-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f5874b29-ae23-4f2a-a11f-7ff33f889cf8" type="box"
+							>9</container>
+						<container parent="f5874b29-ae23-4f2a-a11f-7ff33f889cf8" type="folder"
+							>9</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1990-June 1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0d2f2f43-6c01-4b26-b80b-c1e4c8b6b70a" type="box"
+							>10</container>
+						<container parent="0d2f2f43-6c01-4b26-b80b-c1e4c8b6b70a" type="folder"
+							>1</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>July 1992-Dec. 1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d8aedc2e-0220-4bc0-90a4-136782426640" type="box"
+							>10</container>
+						<container parent="d8aedc2e-0220-4bc0-90a4-136782426640" type="folder"
+							>2</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1993-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="de7e69da-ccfe-4087-8f79-ea85ab50b3e6" type="box"
+							>10</container>
+						<container parent="de7e69da-ccfe-4087-8f79-ea85ab50b3e6" type="folder"
+							>3</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1995-2007</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a24bec9f-ec60-4b79-8418-06d1fc79a132" type="box"
+							>10</container>
+						<container parent="a24bec9f-ec60-4b79-8418-06d1fc79a132" type="folder"
+							>4</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>2008-2011</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Series V: Scrapbook Albums <unitdate type="inclusive">
+							1964-2011</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>Contains photographs and ephemera taken from disbound photo albums and
+						scrapbooks that were put together over the years by the club.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="b0da1b3e-3d4a-4627-b9fc-36b749ad363a" type="box"
+							>10</container>
+						<container parent="b0da1b3e-3d4a-4627-b9fc-36b749ad363a" type="folder"
+							>5</container>
+						<unittitle>Ephemera</unittitle>
+						<unitdate>1970-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="40f394fb-ecd1-48f8-a580-4e310c50933f" type="box"
+							>10</container>
+						<container parent="40f394fb-ecd1-48f8-a580-4e310c50933f" type="folder"
+							>6</container>
+						<unittitle>Ephemera</unittitle>
+						<unitdate>1970-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="40633f51-f72d-46b8-9e05-94f6a86e3e8e" type="box"
+							>10</container>
+						<container parent="40633f51-f72d-46b8-9e05-94f6a86e3e8e" type="folder"
+							>7</container>
+						<unittitle>Photos and Newspaper Clippings</unittitle>
+						<unitdate>1962-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0ec69d60-960a-4927-85b1-0fc00f72d9e5" type="box"
+							>10</container>
+						<container parent="0ec69d60-960a-4927-85b1-0fc00f72d9e5" type="folder"
+							>8</container>
+						<unittitle>Newspaper Clippings</unittitle>
+						<unitdate>1964-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4ba2e798-bb09-4ba3-9108-6019714cf7fe" type="box"
+							>10</container>
+						<container parent="4ba2e798-bb09-4ba3-9108-6019714cf7fe" type="folder"
+							>9</container>
+						<unittitle>Newspaper Clippings</unittitle>
+						<unitdate>1964-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c9867fda-b1bf-4ba0-be87-5531f7822734" type="box"
+							>10</container>
+						<container parent="c9867fda-b1bf-4ba0-be87-5531f7822734" type="folder"
+							>10</container>
+						<unittitle>Newspaper Clippings</unittitle>
+						<unitdate>1964-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2d1f0341-9da2-4052-b6b5-838ed47d4bf9" type="box"
+							>10</container>
+						<container parent="2d1f0341-9da2-4052-b6b5-838ed47d4bf9" type="folder"
+							>11</container>
+						<unittitle>Photographs</unittitle>
+						<unitdate>1964</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="cf93ba0f-bdfc-4603-ba7a-33b6ce29782c" type="box"
+							>10</container>
+						<container parent="cf93ba0f-bdfc-4603-ba7a-33b6ce29782c" type="folder"
+							>12</container>
+						<unittitle>Photographs</unittitle>
+						<unitdate>1964-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0be8a030-a1cc-4a72-833d-b772b99c9641" type="box"
+							>10</container>
+						<container parent="0be8a030-a1cc-4a72-833d-b772b99c9641" type="folder"
+							>13</container>
+						<unittitle>Photographs</unittitle>
+						<unitdate>1964-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8fc35d66-1a7d-4ef8-82dd-2d817de4d43a" type="box"
+							>10</container>
+						<container parent="8fc35d66-1a7d-4ef8-82dd-2d817de4d43a" type="folder"
+							>14</container>
+						<unittitle>Photographs</unittitle>
+						<unitdate>1996-2007</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c98c81c8-f712-4e03-a398-845cfe3c0695" type="box"
+							>11</container>
+						<container parent="c98c81c8-f712-4e03-a398-845cfe3c0695" type="folder"
+							>1</container>
+						<unittitle>Photographs</unittitle>
+						<unitdate>1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b596e314-4401-473b-b4f1-f397a72275ca" type="box"
+							>11</container>
+						<container parent="b596e314-4401-473b-b4f1-f397a72275ca" type="folder"
+							>2</container>
+						<unittitle>Photographs</unittitle>
+						<unitdate>2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0b14c1f8-05b0-4b3f-97ed-c6bfe7508530" type="box"
+							>11</container>
+						<container parent="0b14c1f8-05b0-4b3f-97ed-c6bfe7508530" type="folder"
+							>3</container>
+						<unittitle>Photographs</unittitle>
+						<unitdate>2000-2011</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="cc286bac-3a78-42ff-bf2c-25900f1c481d" type="box"
+							>11</container>
+						<container parent="cc286bac-3a78-42ff-bf2c-25900f1c481d" type="folder"
+							>4</container>
+						<unittitle>Ephemera, Newspaper clippings</unittitle>
+						<unitdate>1968-1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1f276494-f006-4ea7-ba1a-2aee126983ec" type="box"
+							>11</container>
+						<container parent="1f276494-f006-4ea7-ba1a-2aee126983ec" type="folder"
+							>5</container>
+						<unittitle>Scrapbook</unittitle>
+						<unitdate>1969-1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="64b75197-26d3-4638-865e-852d695136dd" type="box"
+							>11</container>
+						<container parent="64b75197-26d3-4638-865e-852d695136dd" type="folder"
+							>6</container>
+						<unittitle>Scrapbook</unittitle>
+						<unitdate>1969-1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a17145ac-8049-4b54-a96f-f4a913d7b48a" type="box"
+							>11</container>
+						<container parent="a17145ac-8049-4b54-a96f-f4a913d7b48a" type="folder"
+							>7</container>
+						<unittitle>Scrapbook</unittitle>
+						<unitdate>1970-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f2997ba6-89b6-4344-a7fb-c71fc7730437" type="box"
+							>11</container>
+						<container parent="f2997ba6-89b6-4344-a7fb-c71fc7730437" type="folder"
+							>8</container>
+						<unittitle>Scrapbook</unittitle>
+						<unitdate>1970-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7875cd82-a957-48a4-9bc4-bd760d0b0657" type="box"
+							>11</container>
+						<container parent="7875cd82-a957-48a4-9bc4-bd760d0b0657" type="folder"
+							>9</container>
+						<unittitle>Scrapbook</unittitle>
+						<unitdate>1970-1980</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series V: Program Materials <unitdate type="inclusive"
+							>1965-2005</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>Contains various documents affiliated with club sponsored events and
+						workshops such as the paperwork from the events/workshops, scripts, videos,
+						etc.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="461adac7-b800-4975-b768-1e631d305e53" type="box"
+							>11</container>
+						<container parent="461adac7-b800-4975-b768-1e631d305e53" type="folder"
+							>10</container>
+						<unittitle>Bring Your Boss to Lunch</unittitle>
+						<unitdate>1965-1981</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="13190129-63d4-4adf-bc62-77f226565aa3" type="box"
+							>11</container>
+						<container parent="13190129-63d4-4adf-bc62-77f226565aa3" type="folder"
+							>11</container>
+						<unittitle>Bring Your Boss to Lunch</unittitle>
+						<unitdate>1982-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2bbd10e6-882d-4d4d-b17d-36a841402556" type="box"
+							>12</container>
+						<container parent="2bbd10e6-882d-4d4d-b17d-36a841402556" type="folder"
+							>1</container>
+						<unittitle> Orientation </unittitle>
+						<unitdate>1997-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3be1415e-587a-4ff0-a829-21e2335a6c64" type="box"
+							>12</container>
+						<container parent="3be1415e-587a-4ff0-a829-21e2335a6c64" type="folder"
+							>2</container>
+						<unittitle>Young Careerist</unittitle>
+						<unitdate>2002-2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="89edefc7-ccf4-4429-bab5-ab78fa995b38" type="box"
+							>12</container>
+						<container parent="89edefc7-ccf4-4429-bab5-ab78fa995b38" type="folder"
+							>3</container>
+						<unittitle>Workshops</unittitle>
+						<unitdate>1984-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0ea2234c-698f-4f93-8a23-73775428d583" type="box"
+							>12</container>
+						<container parent="0ea2234c-698f-4f93-8a23-73775428d583" type="folder"
+							>4</container>
+						<unittitle>Workshops</unittitle>
+						<unitdate>1990-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4c2618ab-7d9b-44b2-8a01-a48746fd8f37" type="box"
+							>12</container>
+						<container parent="4c2618ab-7d9b-44b2-8a01-a48746fd8f37" type="folder"
+							>5</container>
+						<unittitle> Events </unittitle>
+						<unitdate>1983-2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="53085c75-e1df-4510-ab13-e3c6bf848130" type="box"
+							>12</container>
+						<container parent="53085c75-e1df-4510-ab13-e3c6bf848130" type="folder"
+							>6</container>
+						<unittitle>Events</unittitle>
+						<unitdate>2000-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="29274fa4-213b-41f7-a0eb-174aa03677a3" type="box"
+							>12</container>
+						<container parent="29274fa4-213b-41f7-a0eb-174aa03677a3" type="folder"
+							>7</container>
+						<unittitle>Workshops</unittitle>
+						<unitdate>2002-2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d2d60376-f233-4727-9c7a-95efb9f30a0a" type="box"
+							>13</container>
+						<unittitle>Wonder Woman Workshop VHS</unittitle>
+						<unitdate>1992</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Series VII: Awards <unitdate type="inclusive">
+						1970-2003</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p> Contains certificates awarded to members of the club, as well as entry forms
+						and reports for trophies.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="3b022955-e465-441f-aa09-e8f33da395ce" type="box"
+							>14</container>
+						<container parent="3b022955-e465-441f-aa09-e8f33da395ce" type="folder"
+							>1</container>
+						<unittitle>Club Reports/Entries</unittitle>
+						<unitdate>1970-1972</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fe63f54e-6176-4be2-baf0-00bea010181a" type="box"
+							>14</container>
+						<container parent="fe63f54e-6176-4be2-baf0-00bea010181a" type="folder"
+							>2</container>
+						<unittitle>Club Entries</unittitle>
+						<unitdate>1972-1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7338fc8f-7ebd-45a3-93f9-05623c1e841e" type="box"
+							>14</container>
+						<container parent="7338fc8f-7ebd-45a3-93f9-05623c1e841e" type="folder"
+							>3</container>
+						<unittitle>Entries and Newspaper Clippings</unittitle>
+						<unitdate>1997-1998</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c08fe266-76b0-4f3b-929e-4c59862bf541" type="box"
+							>14</container>
+						<container parent="c08fe266-76b0-4f3b-929e-4c59862bf541" type="folder"
+							>4</container>
+						<unittitle>Certificates and Newspaper Clippings</unittitle>
+						<unitdate>1970-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b32d99f5-1309-4f6e-a3e8-dc614453a155" type="box"
+							>14</container>
+						<container parent="b32d99f5-1309-4f6e-a3e8-dc614453a155" type="folder"
+							>5</container>
+						<unittitle>Certificates and Entries</unittitle>
+						<unitdate>1970-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3625495f-dc45-4ab8-a854-2831c7eb334f" type="box"
+							>14</container>
+						<container parent="3625495f-dc45-4ab8-a854-2831c7eb334f" type="folder"
+							>6</container>
+						<unittitle>Certificates</unittitle>
+						<unitdate>1984-2012</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b3e5edfa-6181-4f0f-b784-c551007786db" type="box"
+							>14</container>
+						<container parent="b3e5edfa-6181-4f0f-b784-c551007786db" type="folder"
+							>7</container>
+						<unittitle>Entries and Newspaper Clippings</unittitle>
+						<unitdate>1999-2000</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Series VIII: Ephemera <unitdate type="inclusive"
+							>1964-2009</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>Contains various flyers, brochures, cards, letters, etc.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="bacfeb9e-1151-489c-b7fc-4a7798ba82a1" type="box"
+							>14</container>
+						<container parent="bacfeb9e-1151-489c-b7fc-4a7798ba82a1" type="folder"
+							>8</container>
+						<unittitle>Ephemera</unittitle>
+						<unitdate>1964-1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="03cab890-9ebc-4f6f-be98-3d227984cc67" type="box"
+							>15</container>
+						<container parent="03cab890-9ebc-4f6f-be98-3d227984cc67" type="folder"
+							>1</container>
+						<unittitle>Ephemera</unittitle>
+						<unitdate>1974-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="71d4563d-31fb-4c9a-a8e7-f3ab2931fe47" type="box"
+							>15</container>
+						<container parent="71d4563d-31fb-4c9a-a8e7-f3ab2931fe47" type="folder"
+							>2</container>
+						<unittitle>Ephemera</unittitle>
+						<unitdate>1999-2009</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="41fbf859-0273-4743-8565-ef6ae6e6a93e" type="box"
+							>15</container>
+						<container parent="41fbf859-0273-4743-8565-ef6ae6e6a93e" type="folder"
+							>3</container>
+						<unittitle>Ephemera</unittitle>
+						<unitdate>1970- 1973</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Series IX: Political Materials <unitdate type="inclusive">
+							1971-2003</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>Contains documents dealing with the political forums the club attended as
+						well as legislative forums. Senate bills and women’s workplace issues are
+						also found in this series.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="d647e760-27a0-4c68-9083-b5cc42bf8c87" type="box"
+							>15</container>
+						<container parent="d647e760-27a0-4c68-9083-b5cc42bf8c87" type="folder"
+							>4</container>
+						<unittitle>Forums, Memo’s, Attendance</unittitle>
+						<unitdate>1971-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5371feec-3471-40ac-b50e-a1a5c56d81d8" type="box"
+							>15</container>
+						<container parent="5371feec-3471-40ac-b50e-a1a5c56d81d8" type="folder"
+							>5</container>
+						<unittitle>State Reports and Letters</unittitle>
+						<unitdate>1979-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="000858a5-c223-4687-a769-457813611652" type="box"
+							>15</container>
+						<container parent="000858a5-c223-4687-a769-457813611652" type="folder"
+							>6</container>
+						<unittitle>Legislative Forum</unittitle>
+						<unitdate>1979-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8cf252fc-7555-405e-9c11-08b2b5594458" type="box"
+							>15</container>
+						<container parent="8cf252fc-7555-405e-9c11-08b2b5594458" type="folder"
+							>7</container>
+						<unittitle>Senate Bills, Negotiating</unittitle>
+						<unitdate>1997-2003</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

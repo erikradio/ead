@@ -1,0 +1,865 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">UAMS411</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="245$a">Lyn Tornabene Papers, 
+			<date normal="1952-2007">1952-2007</date><date normal="1961-1989" type="bulk">(bulk 1961-1989)</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Trent Purdy.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline> 
+		</address> 
+		<date>2015</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Trent Purdy. 
+		<date>February, 2015</date></creation> 
+	 <langusage>Inventory is in<language encodinganalog="546" langcode="eng">English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-22">2017-06-22</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Lyn Tornabene Papers, 
+	 	<date normal="1952-2007">1952-2007</date><date normal="1961-1989" type="bulk">(bulk 1961-1989)</date></titleproper> 
+	 <num>Collection Number: MS 411</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Trent Purdy</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>February, 2015</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Trent Purdy</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2015. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc encodinganalog="351$c" level="collection"> 
+  <did> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name">Lyn Tornabene
+		Papers, 
+		<unitdate normal="1952/2007" type="inclusive">1952-2007</unitdate><date normal="1961-1989" type="bulk">(bulk 1961-1989)</date></unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 411</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Tornabene, Lyn</persname></origination> 
+  	<abstract label="Abstract">This collection is comprised of journalist and author Lyn Tornabene's personal documents, correspondence, publications, manuscripts, photographs, and audio interviews.  The bulk of the material dates from 1961-1989.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">3 linear feet</extent></physdesc> 
+	 <repository label="Repository"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+  	<p>Box 3, Tapes 4-10 are restricted.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Lyn Tornabene papers (MS 411). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Lyn Tornabene was born October 13, 1930, in Williamsport, PA.  In 1952, she graduated with a B.A. in English from Penn State and soon thereafter moved to Manhattan where she soon worked in the editorial departments of Good Housekeeping, Ladies Home Journal, and Cosmopolitan.  In 1960, she published her first article with by-lined articles appearing regularly in Cosmopolitan, Ladies Home Journal, McCall's, Woman's Day, Family Circle, and Good Housekeeping.  She authored a popular column for Cosmopolitan which ran between the 1960s – 1970s titled "Lunch Date" as well as a regularly published column for McCall's in the 1960s titled "Walking With".  Her articles primarily centered on social commentaries and celebrity profiles including interviews with top celebrities from the period such as Federico Fellini, Stanley Kubrick, Gene Kelly, Cher, Warren Beatty, Bruce Willis, Oprah Winfrey, and many others.</p><p>She was the author of several books including I Passed as a Teenager (1966), What's a Jewish Girl? (1967), and Long Live the King: A Biography of Clark Gable (1977).  The latter was a major Literary Guild selection and was condensed by Reader's Digest.  Throughout her career, she gave many talks on interviewing, writing, editing, and dealing with New York Agents and appeared on major television shows including The Tonight Show Starring Johnny Carson, The Today Show, and What's My Line?  She was married for fifty years to art publisher Frank Tornanbene and had one daughter.
+  		She resides in Tucson, and contributes to the advancement of the arts.
+  	</p>
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+  	<p>The Lyn Tornabene papers is organized into 7 series.</p> 
+	 <list> 
+	 	<item>Series 1: Personal Files,<unitdate>1952-2004</unitdate></item> 
+	 </list> 
+	 <list> 
+	 	<item>Series 2: Correspondence,<unitdate>1967-2007</unitdate></item> 
+	 </list> 
+	 <list> 
+	 	<item>Series 3: Manuscripts,<unitdate>1961-1989</unitdate></item> 
+	 </list> 
+	 <list> 
+	 	<item>Series 4: Published Materials,<unitdate>1958-2000</unitdate></item> 
+	 </list> 
+	 <list> 
+	 	<item>Series 5: Photographs,<unitdate>circa 1952-2004</unitdate> <date type="bulk">(bulk circa 1962-1972)</date></item> 
+	 </list> 
+	 <list> 
+	 	<item>Series 6: Audio Recordings,<unitdate>1974-1991</unitdate></item> 
+	 </list> 
+	 <list> 
+	 	<item>Series 7: Oversize Materials,<unitdate>circa 1962-1967</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <controlaccess> 
+	 <persname>Tornabene, Lyn, --
+			 Archives.</persname><persname>Tornabene, Lyn, --
+			 Correspondence.</persname><persname>Gable, Clark, 1901-1960.</persname><subject>Authors -- Archives.</subject><subject>Journalists--1960-1980.</subject><subject>Journalist -- Correspondence.</subject><subject>Performing arts -- Interviews.</subject><subject>Politicians--United States—Interviews.</subject></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 1: Personal Files, 
+			 <unitdate normal="1952/2004" type="inclusive">1952-2004</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="f7b1c055-32fb-4efd-b314-11b06097eadd" type="box">1</container> <container parent="f7b1c055-32fb-4efd-b314-11b06097eadd" type="folder">1</container> 
+			 <unittitle>General, 
+			 	<unitdate>1952-1977, undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="4855884a-ec15-42a7-8aee-9ff1eedc1333" type="box">1</container> <container parent="4855884a-ec15-42a7-8aee-9ff1eedc1333" type="folder">2</container> 
+		  	<unittitle>Inscribed Books,  
+				<unitdate>1962, 1999</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="95cac3ad-0d1d-484b-9d30-5eebc29c9a3a" type="box">1</container> <container parent="95cac3ad-0d1d-484b-9d30-5eebc29c9a3a" type="folder">3</container> 
+		  	<unittitle>Publication Agreement/ Royalty Statements, 
+		  		<unitdate>1966-1969, 1978</unitdate></unittitle> 
+		  </did> 
+		</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="e080e369-d099-4d73-b9ed-242ab8489979" type="box">1</container> <container parent="e080e369-d099-4d73-b9ed-242ab8489979" type="folder">4</container> 
+	 			<unittitle>Publicity, 
+	 				<unitdate>1954-1967</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="766eb067-0a48-4e74-9dc9-c34dfdc897db" type="box">1</container> <container parent="766eb067-0a48-4e74-9dc9-c34dfdc897db" type="folder">5</container> 
+	 			<unittitle>Publicity, 
+	 				<unitdate>1974-2004</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="2bf47001-54d0-41cf-a5c5-7b9d4eb94ad8" type="box">1</container> <container parent="2bf47001-54d0-41cf-a5c5-7b9d4eb94ad8" type="folder">6</container> 
+	 			<unittitle>Tornabene, Lyn Vs. Proctor ans Gamble Company, et al, 
+	 				<unitdate>1968</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series 2: Correspondence, 
+			 <unitdate normal="1967/2007" type="inclusive">1967-2007</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="e4f22828-4bb5-4d23-b0be-ead0c451705f" type="box">1</container> <container parent="e4f22828-4bb5-4d23-b0be-ead0c451705f" type="folder">7</container> 
+		  	<unittitle>Brown, Helen Gurley, 
+		  		<unitdate>1967-2004</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="adf5a827-8706-438f-90a6-913df69cde1a" type="box">1</container> <container parent="adf5a827-8706-438f-90a6-913df69cde1a" type="folder">8</container> 
+		  	<unittitle>General,
+		  		<unitdate>1954-2007</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="e72f987d-0c4e-478a-9ea6-5563caf96691" type="box">1</container> <container parent="e72f987d-0c4e-478a-9ea6-5563caf96691" type="folder">9</container> 
+			 <unittitle>Plaques,
+			 	<unitdate>1969</unitdate></unittitle> 
+		  </did> 
+		</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="4da7be94-0019-4b44-a063-fae07ad1424b" type="box">1</container> <container parent="4da7be94-0019-4b44-a063-fae07ad1424b" type="folder">10</container> 
+	 			<unittitle>Plaques,
+	 				<unitdate>1981</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="b6693caa-43c7-4d13-8d6f-a502370e9dbd" type="box">1</container> <container parent="b6693caa-43c7-4d13-8d6f-a502370e9dbd" type="folder">11</container> 
+	 			<unittitle>Lunch Date Memos,
+	 				<unitdate>1960</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="681b3b7e-403f-4db0-8df0-4fbca64e20d4" type="box">1</container> <container parent="681b3b7e-403f-4db0-8df0-4fbca64e20d4" type="folder">12</container> 
+	 			<unittitle>McCall's Magazine,
+	 				<unitdate>1969</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="faeb5820-f1a4-4f4c-8f28-73dcb010d88d" type="box">1</container> <container parent="faeb5820-f1a4-4f4c-8f28-73dcb010d88d" type="folder">13</container> 
+	 			<unittitle>What's a Jewish Girl?,
+	 				<unitdate>1966</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+			<unittitle>Series 3: Manuscripts, 
+			 <unitdate normal="1961/1989" type="inclusive">1961-1989</unitdate></unittitle> 
+		</did> 
+	 	<c02 level="file"> 
+	 		<did> <container id="6896f69f-ea05-4e43-b776-09ee2dc1bb76" type="box">1</container> <container parent="6896f69f-ea05-4e43-b776-09ee2dc1bb76" type="folder">14</container> 
+	 			<unittitle>Advantage Miss Page,
+	 				<unitdate>undated</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="51d7a8e5-b848-45db-a86b-656aff094836" type="box">1</container> <container parent="51d7a8e5-b848-45db-a86b-656aff094836" type="folder">15</container> 
+	 			<unittitle>Benny, Jack Interview,
+	 				<unitdate>1961</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f162c5c5-f004-4df6-99b6-699d86624ae7" type="box">1</container> <container parent="f162c5c5-f004-4df6-99b6-699d86624ae7" type="folder">16</container> 
+	 			<unittitle>Fellini, Federico Lunch Date,
+	 				<unitdate>1963</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="afeb6813-d1a9-4881-871f-68d26418c9c8" type="box">1</container> <container parent="afeb6813-d1a9-4881-871f-68d26418c9c8" type="folder">17</container> 
+	 			<unittitle>Female Faults: Is One of These Yours?,
+	 				<unitdate>1986</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="401dd799-26c4-4637-8860-daed49708a8d" type="box">1</container> <container parent="401dd799-26c4-4637-8860-daed49708a8d" type="folder">18</container> 
+	 			<unittitle>Frost, David Paradine Interview,
+	 				<unitdate>1969</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="bba5f46f-b52e-4425-af47-027837ba8abd" type="box">1</container> <container parent="bba5f46f-b52e-4425-af47-027837ba8abd" type="folder">19</container> 
+	 			<unittitle>Gimbel, Peter Interview,
+	 				<unitdate>1971</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="97c49d7d-6013-44d3-9456-d6b964c25cf1" type="box">1</container> <container parent="97c49d7d-6013-44d3-9456-d6b964c25cf1" type="folder">20</container> 
+	 			<unittitle>Grant, Cary Lunch Date,
+	 				<unitdate>1962</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="02f48e2a-78bd-405d-a5ae-f6933f4edce4" type="box">1</container> <container parent="02f48e2a-78bd-405d-a5ae-f6933f4edce4" type="folder">21</container> 
+	 			<unittitle>Helen,
+	 				<unitdate>1972</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="3bb44b93-06f0-48c1-bdd9-0b09f4c7caf7" type="box">1</container> <container parent="3bb44b93-06f0-48c1-bdd9-0b09f4c7caf7" type="folder">22</container> 
+	 			<unittitle>Helen,
+	 				<unitdate>undated</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="ead2a2dd-4a29-4581-8b23-1f1654b5f27d" type="box">1</container> <container parent="ead2a2dd-4a29-4581-8b23-1f1654b5f27d" type="folder">23</container> 
+	 			<unittitle>How to Interpret Local Movie and Theater Ads,
+	 				<unitdate>undated</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="d2115f39-afff-4996-b260-951ab836533d" type="box">1</container> <container parent="d2115f39-afff-4996-b260-951ab836533d" type="folder">24</container> 
+	 			<unittitle>How to Interpret Your Job Interviews,
+	 				<unitdate>undated</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="57d781e2-5876-4773-a3be-aa0f9b98d219" type="box">1</container> <container parent="57d781e2-5876-4773-a3be-aa0f9b98d219" type="folder">25</container> 
+	 			<unittitle>I Passed as a Teenager (1 of 2),
+	 				<unitdate>1967</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c3032d20-023a-4651-a481-308fc7a40021" type="box">1</container> <container parent="c3032d20-023a-4651-a481-308fc7a40021" type="folder">26</container> 
+	 			<unittitle>I Passed as a Teenager (2 of 2),
+	 				<unitdate>1967</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="6db70395-6673-45a3-b6a3-771b75b0909e" type="box">2</container> <container parent="6db70395-6673-45a3-b6a3-771b75b0909e" type="folder">1</container> 
+	 			<unittitle>Interview Research Materials,
+	 				<unitdate>1949-1962</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="a886ff3e-5605-4997-99a7-d055fcc130d4" type="box">2</container> <container parent="a886ff3e-5605-4997-99a7-d055fcc130d4" type="folder">2</container> 
+	 			<unittitle>Koch, Ed Interview,
+	 				<unitdate>1981</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="a68ef36e-e59e-4150-bacf-c6e27dab2ee6" type="box">2</container> <container parent="a68ef36e-e59e-4150-bacf-c6e27dab2ee6" type="folder">3</container> 
+	 			<unittitle>Kubrick, Stanley,
+	 				<unitdate>1963</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="103d9aa5-5417-406e-a853-0a8e8d697ad9" type="box">2</container> <container parent="103d9aa5-5417-406e-a853-0a8e8d697ad9" type="folder">4</container> 
+	 			<unittitle>Lemmon, Jack Lunch Date,
+	 				<unitdate>1960</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="4b3e7348-af7b-4b77-886c-c3f737f120cd" type="box">2</container> <container parent="4b3e7348-af7b-4b77-886c-c3f737f120cd" type="folder">5</container> 
+	 			<unittitle>Long Live the King Background Research,
+	 				<unitdate>1970</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="5c76f49f-e3cd-4869-81e5-881755c89cc5" type="box">2</container> <container parent="5c76f49f-e3cd-4869-81e5-881755c89cc5" type="folder">6</container> 
+	 			<unittitle>Mastroianni, Marcello Lunch Date,
+	 				<unitdate>1962</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="c4417ce6-3e3f-44b1-9b1c-7f15a03d3c15" type="box">2</container> <container parent="c4417ce6-3e3f-44b1-9b1c-7f15a03d3c15" type="folder">7</container> 
+	 			<unittitle>Moon People,
+	 				<unitdate>1970</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="e15bc7de-1406-4728-9e37-0ad593aebd0c" type="box">2</container> <container parent="e15bc7de-1406-4728-9e37-0ad593aebd0c" type="folder">8</container> 
+	 			<unittitle>On Your Feet, Lysistrata, It's Time to go Where the Men Are,
+	 				<unitdate>1964 November 05</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="4c1f0dd6-ae89-45f3-922e-8c7ae6841f30" type="box">2</container> <container parent="4c1f0dd6-ae89-45f3-922e-8c7ae6841f30" type="folder">9</container> 
+	 			<unittitle>Palmer, Arnold Interview,
+	 				<unitdate>1972</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="14a2c78f-6cbf-4a35-9130-aeaba9427315" type="box">2</container> <container parent="14a2c78f-6cbf-4a35-9130-aeaba9427315" type="folder">10</container> 
+	 			<unittitle>Sonny,
+	 				<unitdate>1982</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="685123d0-727f-4f91-a158-e9f0a39f4d58" type="box">2</container> <container parent="685123d0-727f-4f91-a158-e9f0a39f4d58" type="folder">11</container> 
+	 			<unittitle>Title One,
+	 				<unitdate>1964</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="bf1a3b14-967f-495e-be51-1ad6221f2e68" type="box">2</container> <container parent="bf1a3b14-967f-495e-be51-1ad6221f2e68" type="folder">12</container> 
+	 			<unittitle>War Wives,
+	 				<unitdate>1966</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="af0ad24a-b147-400c-be5f-0885afff0568" type="box">2</container> <container parent="af0ad24a-b147-400c-be5f-0885afff0568" type="folder">13</container> 
+	 			<unittitle>What Goes on at the Betty Ford Center,
+	 				<unitdate>1989</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="4673e173-25aa-41df-96f3-b2586e8d768f" type="box">2</container> <container parent="4673e173-25aa-41df-96f3-b2586e8d768f" type="folder">14</container> 
+	 			<unittitle>What’s a Jewish Girl?,
+	 				<unitdate>1989</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="5dd827fa-5866-441a-8d8f-a170b7ca2225" type="box">2</container> <container parent="5dd827fa-5866-441a-8d8f-a170b7ca2225" type="folder">15</container> 
+	 			<unittitle>Winfrey, Oprah Interview,
+	 				<unitdate>1986</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+			<unittitle>Series 4: Published Materials, 
+			 <unitdate normal="1958/2000" type="inclusive">1958-2000</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="85c4adc7-23cd-4090-932f-6d6fafddc51d" type="box">2</container> <container parent="85c4adc7-23cd-4090-932f-6d6fafddc51d" type="folder">16</container> 
+		  	<unittitle>Cosmopolitan, 
+				<unitdate>1958-1980</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="90e5ba49-c826-41c0-9eb6-2043afdd9130" type="box">2</container> <container parent="90e5ba49-c826-41c0-9eb6-2043afdd9130" type="folder">17</container> 
+		  	<unittitle>Cosmopolitan,
+				<unitdate>1981-1991</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="3cb5e8f3-c5a8-4070-ba6b-13b29cb59b00" type="box">2</container> <container parent="3cb5e8f3-c5a8-4070-ba6b-13b29cb59b00" type="folder">18</container> 
+		  	<unittitle>Esquire,
+				<unitdate>1965</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="848cae78-a6e4-4f97-9209-c49f0d53c126" type="box">2</container> <container parent="848cae78-a6e4-4f97-9209-c49f0d53c126" type="folder">19</container> 
+	 			<unittitle>Family Circle,
+	 				<unitdate>1972-1982</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="516a5b73-24b0-493d-b354-4511381f03f6" type="box">2</container> <container parent="516a5b73-24b0-493d-b354-4511381f03f6" type="folder">20</container> 
+	 			<unittitle>General,
+	 				<unitdate>1963-2000</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="6109dd0f-5daf-44ce-b03d-5b79ebd5ab1c" type="box">2</container> <container parent="6109dd0f-5daf-44ce-b03d-5b79ebd5ab1c" type="folder">21</container> 
+	 			<unittitle>Ladies Home Journal,
+	 				<unitdate>1973-1976</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="f2889d2a-877e-4612-b896-f1bfa815f3e4" type="box">2</container> <container parent="f2889d2a-877e-4612-b896-f1bfa815f3e4" type="folder">22</container> 
+	 			<unittitle>McCalls,
+	 				<unitdate>1969-1971</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="91bef780-f342-403e-9c12-e92cefb01661" type="box">2</container> <container parent="91bef780-f342-403e-9c12-e92cefb01661" type="folder">23</container> 
+	 			<unittitle>Pennsylvania State College,
+	 				<unitdate>1951-1952</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container id="fa96a643-525d-4966-bb92-26b7e2af9467" type="box">2</container> <container parent="fa96a643-525d-4966-bb92-26b7e2af9467" type="folder">24</container> 
+	 			<unittitle>Woman’s Day,
+	 				<unitdate>1977-1988</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+			<unittitle>Series 5: Photographs, 
+			 <unitdate normal=" circa 1952/2004" type="inclusive">circa 1952-2004 (bulk circa 1962-1972)</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container id="907043ca-905b-47b6-93ea-6c3d6b4d5337" type="box">2</container> <container parent="907043ca-905b-47b6-93ea-6c3d6b4d5337" type="folder">25</container> 
+		  	<unittitle>gable, Clark  
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="cc6296df-373c-4c5e-aa90-3698bbd2b766" type="box">2</container> <container parent="cc6296df-373c-4c5e-aa90-3698bbd2b766" type="folder">26</container> 
+		  	<unittitle>General (1 of 2), 
+		  		<unitdate>circa 1962-2004</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container id="75e4c669-69d7-4ca3-a128-244b00b22dc6" type="box">2</container> <container parent="75e4c669-69d7-4ca3-a128-244b00b22dc6" type="folder">27</container> 
+		  	<unittitle>General (2 of 2),  
+		  		<unitdate>circa 1962-2004</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container id="be570e78-5169-4546-9d18-72c5150f9b76" type="box">2</container> <container parent="be570e78-5169-4546-9d18-72c5150f9b76" type="folder">28</container> 
+	 			<unittitle>Tornabene, Lyn  
+	 				<unitdate>circa 1952-1972</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> 
+	 </c01> 
+  	<c01 level="series"> 
+  		<did> 
+  			<unittitle>Series 6: Audio Recordings, 
+  				<unitdate normal=" circa 1974/1991" type="inclusive">1974-1991</unitdate></unittitle> 
+  		</did>
+  		<scopecontent><p>Box 3, tapes 4-10 are restricted.</p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container id="80be48de-f2bb-4ea5-9d03-a63fa8c59ed1" type="box">3</container> <container parent="80be48de-f2bb-4ea5-9d03-a63fa8c59ed1" type="tape">1</container> 
+  				<unittitle>Brokaw, Tom, Part 1, Microcassette, 
+  					<unitdate>1982</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="9d429df7-b2ec-4b3b-81d5-5ffcbb0a3ce6" type="box">3</container> <container parent="9d429df7-b2ec-4b3b-81d5-5ffcbb0a3ce6" type="tape">2</container> 
+  				<unittitle>Brokaw, Tom, Part 2, Microcassette, 
+  					<unitdate>1982</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container id="14435117-6502-4381-b7bc-01a18ecc2142" type="box">3</container> <container parent="14435117-6502-4381-b7bc-01a18ecc2142" type="tape">3</container> 
+  				<unittitle>Brokaw, Tom, Part 3, Microcassette, 
+  					<unitdate>1982</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="d02bb518-bdfd-4c90-a8a7-249dd4d3aff5" type="box">3</container> <container parent="d02bb518-bdfd-4c90-a8a7-249dd4d3aff5" type="tape">4</container> 
+  				<unittitle>Brown, Helen Gurley, Part 1, Audiocassette, (RESTRICTED)
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container id="76ab7481-0a12-4aaf-859d-65fa7df39d32" type="box">3</container> <container parent="76ab7481-0a12-4aaf-859d-65fa7df39d32" type="tape">5</container> 
+  				<unittitle>Brown, Helen Gurley, Part 2, Audiocassette, (RESTRICTED)
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container id="6ed8f7d8-0a04-4776-81af-f073c4555b0a" type="box">3</container> <container parent="6ed8f7d8-0a04-4776-81af-f073c4555b0a" type="tape">6</container> 
+  				<unittitle>Brown, Helen Gurley, Part 3, Audiocassette, (RESTRICTED)
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container id="9ceb82ea-030d-4d3f-b9fc-89289d760ac1" type="box">3</container> <container parent="9ceb82ea-030d-4d3f-b9fc-89289d760ac1" type="tape">7</container> 
+  				<unittitle>Brown, Helen Gurley, Part 4, Audiocassette, (RESTRICTED)
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="cb0d1dc1-ac18-4e50-a0e9-95308d7e04f2" type="box">3</container> <container parent="cb0d1dc1-ac18-4e50-a0e9-95308d7e04f2" type="tape">8</container> 
+  				<unittitle>Brown, Helen Gurley, Part 5, Audiocassette, (RESTRICTED)
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="d271590c-8d59-4501-934d-18ec8cf1a74a" type="box">3</container> <container parent="d271590c-8d59-4501-934d-18ec8cf1a74a" type="tape">9</container> 
+  				<unittitle>Brown, Helen Gurley, Part 6, Audiocassette, (RESTRICTED)
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="9d0e5fcf-5f6c-48e8-bf80-1576f5d08c32" type="box">3</container> <container parent="9d0e5fcf-5f6c-48e8-bf80-1576f5d08c32" type="tape">10</container> 
+  				<unittitle>Brown, Helen Gurley, Part 7, Audiocassette, (RESTRICTED)
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="b0d1a0a5-3570-4881-a330-b3c02b1604b4" type="box">3</container> <container parent="b0d1a0a5-3570-4881-a330-b3c02b1604b4" type="tape">10 A</container> 
+  				<unittitle>Brown, Helen Gurley, Compact Disc, (RESTRICTED)
+  					<unitdate>undated</unitdate></unittitle> 
+  				
+  			</did> 
+  			<scopecontent><p>Compact Disc that contains content from box 3, tapes 4-10.</p></scopecontent>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="3a037206-b3d5-4159-bf05-f34d9755b2ca" type="box">3</container> <container parent="3a037206-b3d5-4159-bf05-f34d9755b2ca" type="tape">11</container> 
+  				<unittitle>Cain, Michael, Part 1, Audiocassette,
+  					<unitdate>1980</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="1b67290f-e46e-45b7-95b8-eed3a5d5e771" type="box">3</container> <container parent="1b67290f-e46e-45b7-95b8-eed3a5d5e771" type="tape">12</container> 
+  				<unittitle>Cain, Michael, Part 2, Audiocassette,
+  					<unitdate>1980</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="19d1824d-082d-4769-81a8-6acc5100c86d" type="box">3</container> <container parent="19d1824d-082d-4769-81a8-6acc5100c86d" type="tape">13</container> 
+  				<unittitle>Cher, Audiocassette,
+  					<unitdate>1974 April 09</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="c2b0ce64-db9b-4600-a0c3-aa67deac626c" type="box">3</container> <container parent="c2b0ce64-db9b-4600-a0c3-aa67deac626c" type="tape">14</container> 
+  				<unittitle>Cher, Part 1-2, Microcassette,
+  					<unitdate>1988</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="0cfbcebc-38cf-4f64-bd7c-53d8cad17e33" type="box">3</container> <container parent="0cfbcebc-38cf-4f64-bd7c-53d8cad17e33" type="tape">15</container> 
+  				<unittitle>Cher, Part 3, Microcassette,
+  					<unitdate>1988</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="498ddeb0-0242-4ee6-b410-7b4ef7a85824" type="box">3</container> <container parent="498ddeb0-0242-4ee6-b410-7b4ef7a85824" type="tape">16</container> 
+  				<unittitle>Cronkite, Walter, Audiocassette,
+  					<unitdate>1977 November 17</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="b273ebbb-2347-4ed3-8cee-4b714ad658e7" type="box">3</container> <container parent="b273ebbb-2347-4ed3-8cee-4b714ad658e7" type="tape">17</container> 
+  				<unittitle>Cronkite, Walter, Audiocassette,
+  					<unitdate>1977 November 20</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="1f420df8-89c9-4b19-a1cf-480d6ad328f5" type="box">3</container> <container parent="1f420df8-89c9-4b19-a1cf-480d6ad328f5" type="tape">18</container> 
+  				<unittitle>Cronkite, Walter, Audiocassette,
+  					<unitdate>1978 January 13</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		
+  		<c02 level="file"> 
+  			<did> <container id="edcb939c-f1e2-4409-9356-fecfb30c30b2" type="box">4</container> <container parent="edcb939c-f1e2-4409-9356-fecfb30c30b2" type="tape">1</container> 
+  				<unittitle>Side A – Fonda, Jane, Side B- Graham, Billy, Microcassette,
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="8538d3d9-87b7-40d1-9ab7-b078aaf13d39" type="box">4</container> <container parent="8538d3d9-87b7-40d1-9ab7-b078aaf13d39" type="tape">2</container> 
+  				<unittitle>Gimbel, Paul, Part 1, Audiocassette,
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="061f5528-857c-4324-ab09-a254891bd1c3" type="box">4</container> <container parent="061f5528-857c-4324-ab09-a254891bd1c3" type="tape">3</container> 
+  				<unittitle>Gimbel, Paul, Part 2, Audiocassette,
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="41fe8a26-6563-4a3d-97eb-67e02b8dd295" type="box">4</container> <container parent="41fe8a26-6563-4a3d-97eb-67e02b8dd295" type="tape">4</container> 
+  				<unittitle>Kennedy, Joan, Part 1, Audiocassette,
+  					<unitdate>1978 April 03</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="21cb6d25-1a74-467c-90bf-a55913454441" type="box">4</container> <container parent="21cb6d25-1a74-467c-90bf-a55913454441" type="tape">5</container> 
+  				<unittitle>Kennedy, Joan, Part 2, Audiocassette,
+  					<unitdate>1978 April 03</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="b2de5928-1e13-446b-9c72-b5ca212a203b" type="box">4</container> <container parent="b2de5928-1e13-446b-9c72-b5ca212a203b" type="tape">6</container> 
+  				<unittitle>Kennedy, Joan, Part 3, Audiocassette,
+  					<unitdate>1978 April 03</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="8b4f8b56-5c20-4358-ba05-330f36626622" type="box">4</container> <container parent="8b4f8b56-5c20-4358-ba05-330f36626622" type="tape">7</container> 
+  				<unittitle>Klein, Calvin, Part 1, Microcassette,
+  					<unitdate>1985</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="60b02b10-e833-4cbb-9bad-dec19e43028c" type="box">4</container> <container parent="60b02b10-e833-4cbb-9bad-dec19e43028c" type="tape">8</container> 
+  				<unittitle>Klein, Calvin, Part 2-3, Microcassette,
+  					<unitdate>1985</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="802c5e80-92d9-4f5d-b0d3-e76753f5708c" type="box">4</container> <container parent="802c5e80-92d9-4f5d-b0d3-e76753f5708c" type="tape">9</container> 
+  				<unittitle>Koch, Ed, Part 1, Microcassette,
+  					<unitdate>1981 April 01</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="d75e4e95-c7ac-4e98-bc64-0adb533bcae6" type="box">4</container> <container parent="d75e4e95-c7ac-4e98-bc64-0adb533bcae6" type="tape">10</container> 
+  				<unittitle>Koch, Ed, Part 2, Microcassette,
+  					<unitdate>1981 April 01</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="4ff4ab27-81bb-43f1-b61b-cbf41148d979" type="box">4</container> <container parent="4ff4ab27-81bb-43f1-b61b-cbf41148d979" type="tape">11</container> 
+  				<unittitle>Koch, Ed, Part 2, Microcassette,
+  					<unitdate>1981 April 20</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="37762bf7-fc7c-4d9c-9ac6-58c8097b0c35" type="box">4</container> <container parent="37762bf7-fc7c-4d9c-9ac6-58c8097b0c35" type="tape">12</container> 
+  				<unittitle>Koch, Ed, Part 2, Microcassette,
+  					<unitdate>1981 May 12</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="f04ce5f0-1050-4644-a4a7-e2a24d5676fd" type="box">4</container> <container parent="f04ce5f0-1050-4644-a4a7-e2a24d5676fd" type="tape">13</container> 
+  				<unittitle>Koch, Ed, Part 2, Microcassette,
+  					<unitdate>1981 May 13</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="d14b6239-25d8-4c9c-8b9d-fc76b34a355d" type="box">4</container> <container parent="d14b6239-25d8-4c9c-8b9d-fc76b34a355d" type="tape">14</container> 
+  				<unittitle>Koch, Ed, Microcassette,
+  					<unitdate>1981</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="fcdbf22e-99db-4f93-adbb-4e6626fadff4" type="box">4</container> <container parent="fcdbf22e-99db-4f93-adbb-4e6626fadff4" type="tape">15</container> 
+  				<unittitle>Koch, Ed, Microcassette,
+  					<unitdate>1981</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="e527e3ab-75e1-4603-82c9-8d0af9c6a8ca" type="box">4</container> <container parent="e527e3ab-75e1-4603-82c9-8d0af9c6a8ca" type="tape">16</container> 
+  				<unittitle>Kristofferson, Kris, Part 1, Microcassette,
+  					<unitdate>1984</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="2be31a85-b70f-469e-beed-e0a94cddfaff" type="box">4</container> <container parent="2be31a85-b70f-469e-beed-e0a94cddfaff" type="tape">17</container> 
+  				<unittitle>Kristofferson, Kris, Part 2, Microcassette,
+  					<unitdate>1984</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="d7b31a24-cfbc-4af0-969b-e9e3fceb8f47" type="box">4</container> <container parent="d7b31a24-cfbc-4af0-969b-e9e3fceb8f47" type="tape">18</container> 
+  				<unittitle>Lauren, Ralph, Part 1, Microcassette,
+  					<unitdate>1986 October 14</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="6a73b0de-434f-4534-b9a4-1419cf6d8485" type="box">4</container> <container parent="6a73b0de-434f-4534-b9a4-1419cf6d8485" type="tape">19</container> 
+  				<unittitle>Lauren, Ralph, Part 2, Microcassette,
+  					<unitdate>1986 October 14</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="0aebb698-e27a-4b6a-ad86-0800a2332d4d" type="box">5</container> <container parent="0aebb698-e27a-4b6a-ad86-0800a2332d4d" type="tape">1</container> 
+  				<unittitle>Moore, Dudley, Part 1, Microcassette,
+  					<unitdate>1982</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="4ebb74c0-d476-4074-89b1-4f4922a667fc" type="box">5</container> <container parent="4ebb74c0-d476-4074-89b1-4f4922a667fc" type="tape">2</container> 
+  				<unittitle>Moore, Dudley, Part 2, Microcassette,
+  					<unitdate>1982</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="483f4b4a-1d63-48f9-98a2-bf77684bf5fa" type="box">5</container> <container parent="483f4b4a-1d63-48f9-98a2-bf77684bf5fa" type="tape">3</container> 
+  				<unittitle>Moore, Dudley, Audiocassette,
+  					<unitdate>1982</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="74fb62f8-c0b1-4b2c-9ea0-65c3742c1d61" type="box">5</container> <container parent="74fb62f8-c0b1-4b2c-9ea0-65c3742c1d61" type="tape">4</container> 
+  				<unittitle>Moore, Roger,
+  					<unitdate>1980 June</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="0ff1155a-82aa-4260-9c0a-1abc34833514" type="box">5</container> <container parent="0ff1155a-82aa-4260-9c0a-1abc34833514" type="tape">5</container> 
+  				<unittitle>Parton, Dolly, Microcassette,
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="fd358f7d-bfba-4895-a1c2-5f50cf043549" type="box">5</container> <container parent="fd358f7d-bfba-4895-a1c2-5f50cf043549" type="tape">6</container> 
+  				<unittitle>Rivera, Geraldo, Part 1, Microcassette,
+  					<unitdate>1988</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="97c10566-5561-43a2-9cb9-45356e670c5d" type="box">5</container> <container parent="97c10566-5561-43a2-9cb9-45356e670c5d" type="tape">7</container> 
+  				<unittitle>Rivera, Geraldo, Part 2, Microcassette,
+  					<unitdate>1988</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="85f829a0-f53c-4022-8b2c-99c99d6fa7a4" type="box">5</container> <container parent="85f829a0-f53c-4022-8b2c-99c99d6fa7a4" type="tape">8</container> 
+  				<unittitle>Scheider, Roy, Part 1, Microcassette,
+  					<unitdate>1983 March</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="889f5c67-f97c-4e4c-868e-291eed4b5a89" type="box">5</container> <container parent="889f5c67-f97c-4e4c-868e-291eed4b5a89" type="tape">9</container> 
+  				<unittitle>Scheider, Roy, Part 2, Microcassette,
+  					<unitdate>1983 March</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="820fa9d9-0282-4b51-920c-6183778fa000" type="box">5</container> <container parent="820fa9d9-0282-4b51-920c-6183778fa000" type="tape">10</container> 
+  				<unittitle>Schwarzlose, John, Microcassette,
+  					<unitdate>1980</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="457bd0a8-ce41-4b77-9389-c29890af944d" type="box">5</container> <container parent="457bd0a8-ce41-4b77-9389-c29890af944d" type="tape">11</container> 
+  				<unittitle>Streep, Meryl, Part 1, Microcassette,
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="9354957b-103b-4e6e-8d36-a53fa39a7e29" type="box">5</container> <container parent="9354957b-103b-4e6e-8d36-a53fa39a7e29" type="tape">12</container> 
+  				<unittitle>Streep, Meryl, Part 2, Microcassette,
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="ba2c2fdf-0cec-4d45-925c-9ad5242396e1" type="box">5</container> <container parent="ba2c2fdf-0cec-4d45-925c-9ad5242396e1" type="tape">13</container> 
+  				<unittitle>Willis, Bruce, Part 1, Microcassette,
+  					<unitdate>1991 February</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="ea8f9765-4656-4ed7-a766-573ae9da2e06" type="box">5</container> <container parent="ea8f9765-4656-4ed7-a766-573ae9da2e06" type="tape">14</container> 
+  				<unittitle>Willis, Bruce, Part 2, Microcassette,
+  					<unitdate>1991 February</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="905cf1f1-764b-4f1a-856b-fdabf345d75c" type="box">5</container> <container parent="905cf1f1-764b-4f1a-856b-fdabf345d75c" type="tape">15</container> 
+  				<unittitle>Winfrey, Oprah, Part 1, Microcassette,
+  					<unitdate>1986</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="d61a6174-85d0-4586-91ff-4d72e49c061c" type="box">5</container> <container parent="d61a6174-85d0-4586-91ff-4d72e49c061c" type="tape">16</container> 
+  				<unittitle>Winfrey, Oprah, Part 2, Microcassette,
+  					<unitdate>1986</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="59ed9f8e-eb35-4ddf-9aa3-c7cab5015278" type="box">5</container> <container parent="59ed9f8e-eb35-4ddf-9aa3-c7cab5015278" type="tape">17-24</container> 
+  				<unittitle>Unidentified,
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  	</c01>
+  	<c01 level="series"> 
+  		<did> 
+  			<unittitle>Series 7: Oversize Materials, 
+  				<unitdate normal=" circa 1962/1967" type="inclusive">circa 1962-1967</unitdate></unittitle> 
+  		</did>
+  		<c02 level="file"> 
+  			<did> <container id="3244654e-7c9c-45c2-9f98-a3c43f60a29d" type="box">6</container> <container parent="3244654e-7c9c-45c2-9f98-a3c43f60a29d" type="folder">1</container> 
+  				<unittitle>Oversize Photographs,
+  					<unitdate>circa 1962-1967</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="6d5f4680-7e05-45ca-b895-ca5e1135fbbb" type="box">6</container> <container parent="6d5f4680-7e05-45ca-b895-ca5e1135fbbb" type="folder">2</container> 
+  				<unittitle>Lyn Tornabene Interview with Henry Morgan, ¼" Reel to Reel,
+  					<unitdate>1966 December 13</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="af9bb06d-ed76-4aab-83af-5d6f4c042dc0" type="item">1</container>
+  				<unittitle>Framed Poster – In celebration: the 50th Anniversary of the Literary Guild,
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="1dc2353f-3454-47c6-9f73-a9ba986830ad" type="item">2</container>
+  				<unittitle>Framed Poster – Lyn Tornabene as Scarlet O’Hara in GWTW,
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container id="f527b2bf-6538-47ed-9294-aabc22354863" type="item">3</container>
+  				<unittitle>Mounted Article – How I made Jean – Claude Killy the World’s Champion Skier,
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  	</c01>
+  </dsc> 
+</archdesc></ead>

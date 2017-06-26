@@ -1,0 +1,4253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+		<eadid encodinganalog="856$u">UAMS406</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="245$a">William R. Mathews papers
+					<date>1870-1980</date></titleproper>
+				<author encodinganalog="245$c">Inventory prepared by Barbara Teso.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+					Collections</publisher>
+				<address>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+				</address>
+				<date>2007</date>
+				<p>Arizona Board of Regents. All Rights Reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation encodinganalog="500">Inventory encoded by C. Wommack. <date>September,
+					2007</date></creation>
+			<langusage>Inventory is in<language encodinganalog="546" langcode="eng"
+					>English.</language></langusage>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date normal="2017-06-22">2017-06-22</date>
+				<item>This finding aid was updated in alignment with LC EAD 2.0 specifications using
+					a python script created by Erik Radio.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<titleproper encodinganalog="245$a">William R. Mathews papers
+				<date>1870-1980</date></titleproper>
+			<num>Collection Number: MS 406</num>
+			<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+				Collections</publisher>
+			<list>
+				<defitem>
+					<label>Processed by:</label>
+					<item>Barbara Teso</item>
+				</defitem>
+				<defitem>
+					<label>Date completed:</label>
+					<item>
+						<date>December, 2006</date></item>
+				</defitem>
+				<defitem>
+					<label>Encoded by:</label>
+					<item>C. Wommack</item>
+				</defitem>
+			</list>
+			<p>© 2007. Arizona Board of Regents. All rights reserved.</p>
+		</titlepage>
+	</frontmatter>
+	<archdesc encodinganalog="351$c" level="collection">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle encodinganalog="245" label="Collection Name"> William R. Mathews papers
+					<unitdate normal="1870/1980" type="inclusive">1870-1980</unitdate></unittitle>
+			<unitid countrycode="US" encodinganalog="099" label="Collection Number"
+				repositorycode="US-azu">MS 406</unitid>
+			<origination label="Creator">
+				<persname encodinganalog="100">Matthews, William R.</persname>
+			</origination>
+			<abstract altrender="" label="Abstract">The William R. Mathews papers (1870-1980)
+				primarily documents his journalism career as editor and publisher of the <title
+					render="italic">Arizona Daily Star</title> (1930-1967). The collection also
+				includes material relating to Mathews' military service in World War I, and his role
+				as an official war correspondent in World War II. Also included are the family
+				papers of William R. Mathews and his wife, Betty B. Mathews. </abstract>
+			<physdesc encodinganalog="300$a" label="Physical Description"><extent
+					encodinganalog="300">18.0 linear feet</extent></physdesc>
+			<repository label="Repository">
+				<corpname encodinganalog="110">University of Arizona Libraries, Special
+					Collections</corpname>
+				<address>
+					<addressline>University of Arizona</addressline>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+				</address></repository>
+		</did>
+		<accessrestrict encodinganalog="506">
+			<head>Restrictions</head>
+			<p>None. </p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Copyright</head>
+			<p>It is the responsibility of the user to obtain permission to publish from the owner
+				of the copyright (the institution, the creator of the record, the author or his/her
+				transferees, heirs, legates, or literary executors). The user agrees to indemnify
+				and hold harmless the Arizona Board of Regents for the University of Arizona, its
+				officers, employees, and agents from and against all claims made by any person
+				asserting that he or she is an owner of copyright.</p>
+		</userestrict>
+		<prefercite encodinganalog="524">
+			<head>Credit Line</head>
+			<p>The William R. Mathews papers (MS 406). Special Collections, University of Arizona
+				Libraries.</p>
+		</prefercite>
+
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>William R. Mathews (1893-1969) was an accomplished journalist, newspaper editor and
+				publisher. Born in Lexington, Kentucky in 1893, he attended elementary and high
+				school in Indianapolis, Indiana, and graduated with an A.B. degree in Money and
+				Banking from the University of Illinois in 1917. He served as a Second Lieutenant
+				and Captain in the Fifth Regiment of the Second Division of the United States Marine
+				Corps during World War I. He fought in the battles of Belleau Wood and Soissons, in
+				France, and was wounded in the attack on Blanc Mont. Mr. Mathews earned numerous
+				awards and citations, including the French Croix de Guerre with Palm, in 1918, for
+				capturing 75 German soldiers. After the war he worked as an advertising solicitor
+				for the San Francisco Chronicle. He married Betty Boyers, in 1919, and they had four
+				children. From 1920-1924, he was the business manager of the Santa Barbara Morning
+				Press. In 1924, he and business partner Ralph E. Ellinwood purchased the <title
+					render="italic">Arizona Daily Star</title> in Tucson, Arizona. Mr. Mathews
+				served as the general manager from 1924-1930 and as editor and publisher from
+				1930-1967.</p>
+			<p>Mr. Mathews' extensive travels enabled him to focus his journalism on international
+				politics and foreign affairs. He served as an accredited military correspondent and
+				completed nine trips around the world. He witnessed and documented unique historical
+				events, such as the signing of the Japanese Surrender aboard the U.S.S. Missouri in
+				1945, the Bikini Bomb Test in 1946 and the John Foster Dulles trip to Japan and
+				Korea, just prior to the outbreak of the Korean Conflict. Mr. Mathews was active in
+				public service and his appointments include: special adviser to James B. Forrestal,
+				Secretary of Defense (1948-1950), member of the Pulitzer Prize Committee, member of
+				the Board of Regents of the University of Arizona, and Chairman of the Citizens'
+				Public Utilities and Citizens' Water Advisory Committees for the City of Tucson. In
+				1940 he ran for public office as a democratic representative for Congress. </p>
+		</bioghist>
+		<arrangement>
+			<head>Organization</head>
+			<p>This collection is organized into 12 series. 3 series contain subseries: Writings,
+				Photographs and Scrapbooks. </p>
+			<list>
+				<item>Series 1: Biographical files, <unitdate normal="1925/1971" type="inclusive"
+						>1925-1971</unitdate></item>
+			</list>
+			<list>
+				<item>Series 2: Correspondence files, <unitdate normal="1924/1969" type="inclusive"
+						>1924-1969</unitdate></item>
+			</list>
+			<list>
+				<item>Series 3: Writings, <unitdate normal="1919/1967" type="inclusive"
+						>1919-1967</unitdate></item>
+			</list>
+			<list>
+				<item>Subseries 1: Articles and editorials, <unitdate normal="1919/1967"
+						type="inclusive">1919-1967</unitdate></item>
+			</list>
+			<list>
+				<item>Subseries 2: Oversize articles and editorials, <unitdate normal="1937/1949"
+						type="inclusive">1937-1949</unitdate></item>
+			</list>
+			<list>
+				<item>Subseries 3: Manuscripts, <unitdate normal="1939/1962" type="inclusive"
+						>1939-1962</unitdate></item>
+			</list>
+			<list>
+				<item>Series 4: Speech files, <unitdate normal="1937/1967" type="inclusive"
+						>1937-1967</unitdate></item>
+			</list>
+			<list>
+				<item>Series 5: Public Service, <unitdate normal="1926/1964" type="inclusive"
+						>1926-1964</unitdate></item>
+			</list>
+			<list>
+				<item>Series 6: Travel files, <unitdate normal="1937/1968" type="inclusive"
+						>1937-1968</unitdate></item>
+			</list>
+			<list>
+				<item>Series 7: Photographs, <unitdate normal="1886/1980" type="inclusive"
+						>1886-1980</unitdate></item>
+			</list>
+			<list>
+				<item>Subseries 1: General, <unitdate normal="1886/1940" type="inclusive"
+						>1886-circa 1940</unitdate></item>
+			</list>
+			<list>
+				<item>Subseries 2: Albums, <unitdate normal="1928/1969" type="inclusive"
+						>1928-1969</unitdate></item>
+			</list>
+			<list>
+				<item>Subseries 3: Oversize, <unitdate normal="1943/1980" type="inclusive"
+						>1943-1980</unitdate></item>
+			</list>
+			<list>
+				<item>Series 8: Scrapbooks, <unitdate normal="1916/1968" type="inclusive"
+						>1916-1968</unitdate></item>
+			</list>
+			<list>
+				<item>Subseries 1: Military, <unitdate normal="1916/1968" type="inclusive"
+						>1916-1968</unitdate></item>
+			</list>
+			<list>
+				<item>Subseries 2: Newspaper clippings, <unitdate normal="1942/1968"
+						type="inclusive">1942-1968</unitdate></item>
+			</list>
+			<list>
+				<item>Subseries 3: Travel and event, <unitdate normal="1945/1967"
+						type="inclusive">1945-1950, 1967</unitdate></item>
+			</list>
+			<list>
+				<item>Series 9: William R. Mathews family papers, <unitdate normal="1939/1966"
+						type="inclusive">1939-1966</unitdate></item>
+			</list>
+			<list>
+				<item>Series 10: Betty B. Mathews family papers, <unitdate normal="1870/1975"
+						type="inclusive">1870-1975</unitdate></item>
+			</list>
+			<list>
+				<item>Series 11: Newspaper clippings, <unitdate normal="1949/1974" type="inclusive"
+						>1949-1974</unitdate></item>
+			</list>
+			<list>
+				<item>Series 12: Ledgers, <unitdate normal="1916" type="inclusive"
+						>1916-undated</unitdate></item>
+			</list>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p altrender="">The William R. Mathews papers (1870-1980) primarily document his
+				journalism career as editor and publisher of the <title render="italic">Arizona
+					Daily Star</title> (1930-1967), and also includes material relating to Mathews'
+				military service in World War I, and his role as an official war correspondent in
+				World War II. These papers also contain the family papers of William R. Mathews as
+				well as those of his wife, Betty B. Mathews. This collection consists of
+				biographical information, correspondence, photographs, scrapbooks, writings,
+				speeches, public service files, travel files, family papers, ledgers, and newspaper
+				clippings. </p>
+		</scopecontent>
+		<controlaccess>
+			<persname>Matthews, William R.</persname>
+			<persname>Matthews, Betty B.</persname>
+			<corpname>Arizona Daily Star -- History -- Sources.</corpname>
+			<subject>Journalists -- Arizona. </subject>
+			<subject>Newspaper editors. </subject>
+			<subject>War correspondents -- United States. </subject>
+			<genreform>Correspondence</genreform>
+			<genreform>Scrapbooks</genreform>
+			<genreform>Ledgers</genreform>
+			<genreform>Photographs</genreform>
+		</controlaccess>
+		<dsc type="combined">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unitid>Series I:</unitid>
+					<unittitle>Biographical files, <unitdate>1925-1971</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>Biographical files document Mr. Mathew's military service and
+						accomplishments, along with his experience and achievements as a newspaper
+						journalist, editor and publisher. They include personal and professional
+						recollections and discussions of significant national and international
+						events and leaders during the early to mid-twentieth century. His public
+						service activities at the local, state and national levels are also
+						documented in this series, as well as litigation against the state of
+						Arizona for access to public information. Arrangement is alphabetical.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="71b32b8c-8a65-4b36-8cae-d08a722fe837" type="box"
+							>1</container>
+						<container parent="71b32b8c-8a65-4b36-8cae-d08a722fe837" type="folder"
+							>1</container>
+						<unittitle><title render="italic">Arizona Daily Star</title> stationery,
+								<unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ffe98a60-3521-4b9d-9d7f-76bc1d22e2ba" type="box"
+							>1</container>
+						<container parent="ffe98a60-3521-4b9d-9d7f-76bc1d22e2ba" type="folder"
+							>2</container>
+						<unittitle> Autobiography; chapters I-VII,
+							<unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="714c191b-bf16-412f-a94e-7320194b237d" type="box"
+							>1</container>
+						<container parent="714c191b-bf16-412f-a94e-7320194b237d" type="folder"
+							>3</container>
+						<unittitle> Autobiography; chapters VIII-XVI,
+							<unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c15ea362-9c5c-42e1-897e-5fcc5a12367b" type="box"
+							>1</container>
+						<container parent="c15ea362-9c5c-42e1-897e-5fcc5a12367b" type="folder"
+							>4</container>
+						<unittitle> Autobiography; revision, chapters I-XVI,
+								<unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="244f635d-e53a-442c-b4fc-d84ff0fe147e" type="box"
+							>1</container>
+						<container parent="244f635d-e53a-442c-b4fc-d84ff0fe147e" type="folder"
+							>5</container>
+						<unittitle> Autobiography; rough draft, chapters I-XVI,
+								<unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="734544cc-0844-464c-9e3d-800d271e0845" type="box"
+							>1</container>
+						<container parent="734544cc-0844-464c-9e3d-800d271e0845" type="folder"
+							>6</container>
+						<unittitle> Cartoon by Thomoson of William R. Mathews in WWI,
+								<unitdate>1938</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fb14f66a-4bf2-4af1-990e-3527812d4aef" type="box"
+							>1</container>
+						<container parent="fb14f66a-4bf2-4af1-990e-3527812d4aef" type="folder"
+							>7</container>
+						<unittitle> Certificate of retirement; Federal Reserve Bank of Dallas,
+								<unitdate>1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2b9bd419-7136-4533-b976-da8b05ab4779" type="box"
+							>1</container>
+						<container parent="2b9bd419-7136-4533-b976-da8b05ab4779" type="folder"
+							>8</container>
+						<unittitle> General, <unitdate>1952-1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e73d0f2f-885d-4b7c-92d6-4bde487f9067" type="box"
+							>1</container>
+						<container parent="e73d0f2f-885d-4b7c-92d6-4bde487f9067" type="folder"
+							>9</container>
+						<unittitle>Marine Corps Reserve 50th Anniversary commemorative postage
+							stamp, <unitdate>1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5b755459-2ea8-4381-bab8-2d95c06998a8" type="box"
+							>1</container>
+						<container parent="5b755459-2ea8-4381-bab8-2d95c06998a8" type="folder"
+							>10</container>
+						<unittitle>Mathews for Congress pamphlet,
+							<unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="48910a67-dba5-4025-bf5f-a2059cfb1ac5" type="box"
+							>1</container>
+						<container parent="48910a67-dba5-4025-bf5f-a2059cfb1ac5" type="folder"
+							>11</container>
+						<unittitle>Mathews, William R; Articles about,
+								<unitdate>1940-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ebbbd858-0f71-480e-91ae-f307d4a8ed03" type="box"
+							>1</container>
+						<container parent="ebbbd858-0f71-480e-91ae-f307d4a8ed03" type="folder"
+							>12</container>
+						<unittitle> Mathews, William R. vs. Governor of State of Arizona,
+								<unitdate>1952-1953</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="21934aa0-b975-46de-8580-1784827e3f95" type="box"
+							>1</container>
+						<container parent="21934aa0-b975-46de-8580-1784827e3f95" type="folder"
+							>13</container>
+						<unittitle> Military Records and correspondence,
+								<unitdate>1925-1935</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="863b8ee4-7127-454a-9fdf-49c36765c9e3" type="box"
+							>1</container>
+						<container parent="863b8ee4-7127-454a-9fdf-49c36765c9e3" type="folder"
+							>14</container>
+						<unittitle> Obituaries, <unitdate>1969-1971</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="829c888e-2fff-4084-b142-d6a5e6b4fe2b" type="box"
+							>1</container>
+						<container parent="829c888e-2fff-4084-b142-d6a5e6b4fe2b" type="folder"
+							>15</container>
+						<unittitle> Special Navy consultant,
+							<unitdate>1949-1963</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>Series II:</unitid>
+					<unittitle>Correspondence files, <unitdate>1929-1969</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>Correspondence files primarily document Mr. Mathews' professional
+						communication with colleagues and local, state, national and international
+						political and military leaders and other notable individuals. Correspondence
+						in his capacity as editor of the <title render="italic">Arizona Daily
+							Star</title> is also included. Some files contain research information
+						and news articles by William R. Mathews. Arrangement is alphabetical.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="8c5cef14-6687-428a-a9aa-7a9109353e4d" type="box"
+							>1</container>
+						<container parent="8c5cef14-6687-428a-a9aa-7a9109353e4d" type="folder"
+							>16</container>
+						<unittitle>American National Red Cross,
+							<unitdate>1950</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9697d058-640a-4f65-a4c5-080166f038eb" type="box"
+							>1</container>
+						<container parent="9697d058-640a-4f65-a4c5-080166f038eb" type="folder"
+							>17</container>
+						<unittitle><title render="italic">Arizona Daily Star</title>,
+								<unitdate>1924-1940</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="39ef3932-b348-4e2a-b354-82c0352466ee" type="box"
+							>1</container>
+						<container parent="39ef3932-b348-4e2a-b354-82c0352466ee" type="folder"
+							>18</container>
+						<unittitle>Arizona State Welfare Board,
+							<unitdate>1941</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b9e84372-b5a9-4e50-a193-155dea6dd01e" type="box"
+							>1</container>
+						<container parent="b9e84372-b5a9-4e50-a193-155dea6dd01e" type="folder"
+							>19</container>
+						<unittitle>Arizona Tax Research Association,
+							<unitdate>1945-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="106645f9-c129-41ca-b9ce-5d0f86dfb69d" type="box"
+							>1</container>
+						<container parent="106645f9-c129-41ca-b9ce-5d0f86dfb69d" type="folder"
+							>20</container>
+						<unittitle>Astor, David, <unitdate>1935-1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8d761086-ef4b-46d4-b417-489f72f2015b" type="box"
+							>1</container>
+						<container parent="8d761086-ef4b-46d4-b417-489f72f2015b" type="folder"
+							>21</container>
+						<unittitle>Atomic Energy Commission, <unitdate>1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="be1f6dfd-16c0-4c11-94da-0f28a867cb40" type="box"
+							>1</container>
+						<container parent="be1f6dfd-16c0-4c11-94da-0f28a867cb40" type="folder"
+							>22</container>
+						<unittitle>Bohlen, Charles, <unitdate>1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c133ad5f-2123-4c4e-909c-404b7bcdaad5" type="box"
+							>1</container>
+						<container parent="c133ad5f-2123-4c4e-909c-404b7bcdaad5" type="folder"
+							>23</container>
+						<unittitle>Bolin, Wesley, <unitdate>1949-1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="26360b1c-5eaa-47ca-b82c-4f9a75dee0e8" type="box"
+							>1</container>
+						<container parent="26360b1c-5eaa-47ca-b82c-4f9a75dee0e8" type="folder"
+							>24</container>
+						<unittitle>Buckley, William F., Jr.,
+							<unitdate>1956-1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0d878348-aed8-49f1-b84e-485270c17c1a" type="box"
+							>1</container>
+						<container parent="0d878348-aed8-49f1-b84e-485270c17c1a" type="folder"
+							>25</container>
+						<unittitle>Butler University, <unitdate>1956-1969</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a22d41fb-2a86-458e-abff-907aec774fbb" type="box"
+							>1</container>
+						<container parent="a22d41fb-2a86-458e-abff-907aec774fbb" type="folder"
+							>26</container>
+						<unittitle>Central Intelligence Agency; J.E. Hoover and A. Dulles,
+								<unitdate>1951-1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c8e4b23c-1b4e-46d1-be07-e342054490a6" type="box"
+							>1</container>
+						<container parent="c8e4b23c-1b4e-46d1-be07-e342054490a6" type="folder"
+							>27</container>
+						<unittitle>Clay, Lucius D., <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4f270448-7a89-488a-af8e-6a3a14b98b30" type="box"
+							>1</container>
+						<container parent="4f270448-7a89-488a-af8e-6a3a14b98b30" type="folder"
+							>28</container>
+						<unittitle>Cusick, Watkins and Frey, <unitdate>1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="22cfd896-fe66-47f6-a32f-e8cf39e4a941" type="box"
+							>1</container>
+						<container parent="22cfd896-fe66-47f6-a32f-e8cf39e4a941" type="folder"
+							>29</container>
+						<unittitle>Daniels, Josephus, <unitdate>1937-1942</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="85a6d273-cb0b-4e8f-a117-8fc52bddcbb4" type="box"
+							>1</container>
+						<container parent="85a6d273-cb0b-4e8f-a117-8fc52bddcbb4" type="folder"
+							>30</container>
+						<unittitle>Dawes, General Charles G.,
+							<unitdate>1936-1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3fceaff1-4658-4313-985b-d9d92e754121" type="box"
+							>1</container>
+						<container parent="3fceaff1-4658-4313-985b-d9d92e754121" type="folder"
+							>31</container>
+						<unittitle>Dulles, John Foster, <unitdate>1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="011ada6e-a866-4058-bc7e-50c7f0516a23" type="box"
+							>1</container>
+						<container parent="011ada6e-a866-4058-bc7e-50c7f0516a23" type="folder"
+							>32</container>
+						<unittitle>Eisenhower, President Dwight D.,
+							<unitdate>1953-1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="dccf9756-8407-4d93-b296-870c1a114c1d" type="box"
+							>1</container>
+						<container parent="dccf9756-8407-4d93-b296-870c1a114c1d" type="folder"
+							>33</container>
+						<unittitle>Forrestal, James; Secretary of Defense,
+								<unitdate>1944-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="39890b7c-065e-4365-b831-17d25f396624" type="box"
+							>1</container>
+						<container parent="39890b7c-065e-4365-b831-17d25f396624" type="folder"
+							>34</container>
+						<unittitle>Fredericks, Pierce G., <unitdate>1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ff324942-ed4b-4127-a502-e4352ad2a915" type="box"
+							>1</container>
+						<container parent="ff324942-ed4b-4127-a502-e4352ad2a915" type="folder"
+							>35</container>
+						<unittitle>Fund for the Republic Inc.,
+							<unitdate>1957-1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8d5cdd46-b0e8-4288-8114-b91f0f3642b8" type="box"
+							>1</container>
+						<container parent="8d5cdd46-b0e8-4288-8114-b91f0f3642b8" type="folder"
+							>36</container>
+						<unittitle>Galbraith, John Kenneth, <unitdate>1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="15f756b1-d7e0-4e75-8028-1ea4a56ff1e7" type="box"
+							>1</container>
+						<container parent="15f756b1-d7e0-4e75-8028-1ea4a56ff1e7" type="folder"
+							>37</container>
+						<unittitle>Garvey, Dan, <unitdate>1957</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f59d2953-ac7b-4f8a-b1aa-ef3fa1c92d4b" type="box"
+							>1a</container>
+						<container parent="f59d2953-ac7b-4f8a-b1aa-ef3fa1c92d4b" type="folder"
+							>1</container>
+						<unittitle>General, (1 of 3) <unitdate>1957-1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d160d6ec-0c4c-4252-b763-cf74b2a18203" type="box"
+							>1a</container>
+						<container parent="d160d6ec-0c4c-4252-b763-cf74b2a18203" type="folder"
+							>2</container>
+						<unittitle>General, (2 of 3) <unitdate>1957-1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9a2f7789-4b8f-47d0-bb06-b1643c91549e" type="box"
+							>1a</container>
+						<container parent="9a2f7789-4b8f-47d0-bb06-b1643c91549e" type="folder"
+							>3</container>
+						<unittitle>General, (3 of 3) <unitdate>1957-1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="776edfda-9fb3-4b62-9a20-acadb121a65b" type="box"
+							>1a</container>
+						<container parent="776edfda-9fb3-4b62-9a20-acadb121a65b" type="folder"
+							>4</container>
+						<unittitle>Goldwater, Barry, <unitdate>1952-1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="714b9b26-2fbd-4dc7-9380-7a348afb9edc" type="box"
+							>1a</container>
+						<container parent="714b9b26-2fbd-4dc7-9380-7a348afb9edc" type="folder"
+							>5</container>
+						<unittitle>Goldwater, Barry, (1 of 2)
+							<unitdate>1952-1969</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="51e88998-6b6d-4bf4-b502-891d59d82706" type="box"
+							>1a</container>
+						<container parent="51e88998-6b6d-4bf4-b502-891d59d82706" type="folder"
+							>6</container>
+						<unittitle>Goldwater, Barry, (2 of 2)
+							<unitdate>1952-1969</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6f196ad6-2c97-4e60-ba74-43712ff41a8a" type="box"
+							>1a</container>
+						<container parent="6f196ad6-2c97-4e60-ba74-43712ff41a8a" type="folder"
+							>7</container>
+						<unittitle>Grand Canyon Dams, <unitdate>1950-1966</unitdate></unittitle>
+					</did>
+				</c02>
+
+				<c02 level="file">
+					<did>
+						<container id="7806d529-a207-48f6-ad63-06a42ed56b2d" type="box"
+							>2</container>
+						<container parent="7806d529-a207-48f6-ad63-06a42ed56b2d" type="folder"
+							>1</container>
+						<unittitle> Great Leaders, <unitdate>1934-1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c140cc78-514b-4414-8826-527bcf63b4bb" type="box"
+							>2</container>
+						<container parent="c140cc78-514b-4414-8826-527bcf63b4bb" type="folder"
+							>2</container>
+						<unittitle> Hadow, R.H., <unitdate>1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="595864c7-2e9c-48a8-bb3d-268db7771aa0" type="box"
+							>2</container>
+						<container parent="595864c7-2e9c-48a8-bb3d-268db7771aa0" type="folder"
+							>3</container>
+						<unittitle> Halifax, H.E. and Lady,
+							<unitdate>1942-1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="10a81af7-b45d-464a-bb02-5ca523c44313" type="box"
+							>2</container>
+						<container parent="10a81af7-b45d-464a-bb02-5ca523c44313" type="folder"
+							>4</container>
+						<unittitle> Harbord, James G., <unitdate>1924-1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="448db348-d76c-45a3-bbdf-6fd7126bef22" type="box"
+							>2</container>
+						<container parent="448db348-d76c-45a3-bbdf-6fd7126bef22" type="folder"
+							>5-7</container>
+						<unittitle> Hayden, Carl, <unitdate>1939-1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6cc3641c-a4b4-4393-b197-9de832092bfb" type="box"
+							>2</container>
+						<container parent="6cc3641c-a4b4-4393-b197-9de832092bfb" type="folder"
+							>8-10</container>
+						<unittitle> Hayden, Carl, <unitdate>1956-1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0b906754-e2a0-4189-983a-7bf235ef314e" type="box"
+							>2</container>
+						<container parent="0b906754-e2a0-4189-983a-7bf235ef314e" type="folder"
+							>11</container>
+						<unittitle> Hayden, Carl; Budget Letters,
+							<unitdate>1935-1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="815474c9-ea01-4f98-b010-8c319edf59f7" type="box"
+							>2</container>
+						<container parent="815474c9-ea01-4f98-b010-8c319edf59f7" type="folder"
+							>12</container>
+						<unittitle> Hoover, Herbert, <unitdate>1941-1943</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a8f2e114-d608-4b31-a8a9-9beffc3412d5" type="box"
+							>2</container>
+						<container parent="a8f2e114-d608-4b31-a8a9-9beffc3412d5" type="folder"
+							>13</container>
+						<unittitle> Hoover, J. Edgar, <unitdate>1950-1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="574337dd-2c7b-414a-9b04-0a7547722064" type="box"
+							>2</container>
+						<container parent="574337dd-2c7b-414a-9b04-0a7547722064" type="folder"
+							>14</container>
+						<unittitle> Inskeep Resignation, <unitdate>1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1106e225-40b3-49f5-b0cd-4d406bba5be6" type="box"
+							>2</container>
+						<container parent="1106e225-40b3-49f5-b0cd-4d406bba5be6" type="folder"
+							>15</container>
+						<unittitle> Internal Revenue Service,
+							<unitdate>1942-1950</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1e23ba42-d0b4-40c1-988b-230abf07dd05" type="box"
+							>2</container>
+						<container parent="1e23ba42-d0b4-40c1-988b-230abf07dd05" type="folder"
+							>16</container>
+						<unittitle> International Correspondence,
+							<unitdate>1961-1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="14573985-f71b-4af0-b48e-f9396a780ff2" type="box"
+							>2</container>
+						<container parent="14573985-f71b-4af0-b48e-f9396a780ff2" type="folder"
+							>17</container>
+						<unittitle> Janeway, Eliot, <unitdate>1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b873c8c4-b7f7-49a3-bcc6-b5d45f8b47a2" type="box"
+							>2</container>
+						<container parent="b873c8c4-b7f7-49a3-bcc6-b5d45f8b47a2" type="folder"
+							>18</container>
+						<unittitle> Kennedy, John. F. <unitdate>1959-1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="28bd3be5-02b9-4bce-a28f-d0f6cab59a11" type="box"
+							>2</container>
+						<container parent="28bd3be5-02b9-4bce-a28f-d0f6cab59a11" type="folder"
+							>19</container>
+						<unittitle> Keyser, Ralph S., <unitdate>1950-1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2291dfae-ab09-4375-8675-8c395342c4d4" type="box"
+							>2</container>
+						<container parent="2291dfae-ab09-4375-8675-8c395342c4d4" type="folder"
+							>20</container>
+						<unittitle> Kissinger, Henry, <unitdate>1960-1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f4163b6f-c845-4715-8c6b-5ca7547c1a95" type="box"
+							>2</container>
+						<container parent="f4163b6f-c845-4715-8c6b-5ca7547c1a95" type="folder"
+							>21</container>
+						<unittitle> Kitchel, Denison, <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4af1ea19-2259-45ac-98ca-61ef6b89ac86" type="box"
+							>2</container>
+						<container parent="4af1ea19-2259-45ac-98ca-61ef6b89ac86" type="folder"
+							>22</container>
+						<unittitle> Krock, Arthur, <unitdate>1964-1965</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2f988971-28bb-4240-ad37-d22626bb3540" type="box"
+							>2</container>
+						<container parent="2f988971-28bb-4240-ad37-d22626bb3540" type="folder"
+							>23</container>
+						<unittitle> Landon, Alf M., <unitdate>1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="bcc82657-f9b7-4b13-8c57-7e3cd6973e21" type="box"
+							>2</container>
+						<container parent="bcc82657-f9b7-4b13-8c57-7e3cd6973e21" type="folder"
+							>24</container>
+						<unittitle> Lewis, Anthony, <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ef584525-da46-4956-802d-92cd7952d2e7" type="box"
+							>2</container>
+						<container parent="ef584525-da46-4956-802d-92cd7952d2e7" type="folder"
+							>25</container>
+						<unittitle> Lilienthal, Alfred M.,
+							<unitdate>1940-1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f9327b5b-5d4d-4a49-aa78-0c1cf27265e0" type="box"
+							>2</container>
+						<container parent="f9327b5b-5d4d-4a49-aa78-0c1cf27265e0" type="folder"
+							>26</container>
+						<unittitle> Lodge, Henry Cabot, <unitdate>1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f860329d-bb53-4c31-8971-e55e277bcba6" type="box"
+							>2</container>
+						<container parent="f860329d-bb53-4c31-8971-e55e277bcba6" type="folder"
+							>27</container>
+						<unittitle> Mannini-Klafter Realty, <unitdate>1953</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c10e79f8-0e96-469a-8c32-2423c57e1868" type="box"
+							>2</container>
+						<container parent="c10e79f8-0e96-469a-8c32-2423c57e1868" type="folder"
+							>28</container>
+						<unittitle> Marines, <unitdate>1917-1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8bd521bb-3363-4a00-a8ed-90db27aeeefa" type="box"
+							>2</container>
+						<container parent="8bd521bb-3363-4a00-a8ed-90db27aeeefa" type="folder"
+							>29</container>
+						<unittitle> Marshall, George C., <unitdate>1955-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a9e135ab-797d-46e4-b46a-d7d7f2d000ae" type="box"
+							>2</container>
+						<container parent="a9e135ab-797d-46e4-b46a-d7d7f2d000ae" type="folder"
+							>30-31</container>
+						<unittitle> McFarland, Ernest, <unitdate>1942-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="deb77897-5d58-4875-be5b-d31dca460522" type="box"
+							>2</container>
+						<container parent="deb77897-5d58-4875-be5b-d31dca460522" type="folder"
+							>32</container>
+						<unittitle> McNamara, Robert S., <unitdate>1961</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7af07193-297d-4e69-85ca-ddd32ba5fc4c" type="box"
+							>2</container>
+						<container parent="7af07193-297d-4e69-85ca-ddd32ba5fc4c" type="folder"
+							>33</container>
+						<unittitle> Morgenthau, Henry Jr., <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0ea57dbf-d187-47f8-84a8-b22953ba05f3" type="box"
+							>2</container>
+						<container parent="0ea57dbf-d187-47f8-84a8-b22953ba05f3" type="folder"
+							>34</container>
+						<unittitle> National Press Club, <unitdate>1942-1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="effa4c4b-2284-4dde-9ed4-816b600aa46f" type="box"
+							>2</container>
+						<container parent="effa4c4b-2284-4dde-9ed4-816b600aa46f" type="folder"
+							>35</container>
+						<unittitle> Navy Department, <unitdate>1949-1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4c9307c2-28f6-4caa-bd9f-b36b002f9430" type="box"
+							>2</container>
+						<container parent="4c9307c2-28f6-4caa-bd9f-b36b002f9430" type="folder"
+							>36</container>
+						<unittitle> Newspaper Editors, <unitdate>1940-1965</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9e263b05-24bb-4271-86c3-a50bf96b4bad" type="box"
+							>2</container>
+						<container parent="9e263b05-24bb-4271-86c3-a50bf96b4bad" type="folder"
+							>37-38</container>
+						<unittitle> Newspapers and magazines,
+							<unitdate>1942-1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9e7c79e0-55cf-44b8-9493-e8cade318a22" type="box"
+							>2</container>
+						<container parent="9e7c79e0-55cf-44b8-9493-e8cade318a22" type="folder"
+							>39</container>
+						<unittitle> Nixon, Richard M. <unitdate>1956-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="df9c74c2-a8cb-4a5c-bcb4-8817269a03d3" type="box"
+							>2a</container>
+						<container parent="df9c74c2-a8cb-4a5c-bcb4-8817269a03d3" type="folder"
+							>1</container>
+						<unittitle> Osborn, Sidney P., <unitdate>1941-1947</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="24867883-ffe7-4e77-b7eb-91afcfcc6609" type="box"
+							>2a</container>
+						<container parent="24867883-ffe7-4e77-b7eb-91afcfcc6609" type="folder"
+							>2</container>
+						<unittitle> P., (1 of 3) <unitdate>1945-1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1021dfc6-f12c-4c54-8323-3cefe5efc37c" type="box"
+							>2a</container>
+						<container parent="1021dfc6-f12c-4c54-8323-3cefe5efc37c" type="folder"
+							>3</container>
+						<unittitle> P., (2 of 3) <unitdate>1945-1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="41f167e2-3123-4a47-85f8-e7c7895e4d5c" type="box"
+							>2a</container>
+						<container parent="41f167e2-3123-4a47-85f8-e7c7895e4d5c" type="folder"
+							>4</container>
+						<unittitle> P., (3 of 3) <unitdate>1945-1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2a547069-8ae7-4f50-beb6-accfe7b52d02" type="box"
+							>2a</container>
+						<container parent="2a547069-8ae7-4f50-beb6-accfe7b52d02" type="folder"
+							>5</container>
+						<unittitle> Patten, Harold A. (Porque),
+							<unitdate>1949-1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="811c3047-fdab-479e-ab68-bd6124a14e2f" type="box"
+							>2a</container>
+						<container parent="811c3047-fdab-479e-ab68-bd6124a14e2f" type="folder"
+							>6</container>
+						<unittitle> Pegler, Westbrook, <unitdate>1941-1962</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="76508ef5-8a05-49eb-8be2-c45b74b8d6f1" type="box"
+							>2a</container>
+						<container parent="76508ef5-8a05-49eb-8be2-c45b74b8d6f1" type="folder"
+							>7</container>
+						<unittitle> Perkins, Milo. <unitdate>1961</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="18c29420-cbc0-40ab-bbcd-b95864d4c6e0" type="box"
+							>2a</container>
+						<container parent="18c29420-cbc0-40ab-bbcd-b95864d4c6e0" type="folder"
+							>8</container>
+						<unittitle> Pershing, John J., <unitdate>1936-1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ea04e97a-f0fe-4802-a8f9-fa2bfe935421" type="box"
+							>2a</container>
+						<container parent="ea04e97a-f0fe-4802-a8f9-fa2bfe935421" type="folder"
+							>9</container>
+						<unittitle> Phoenix, Arizona, <unitdate>1940-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5008c0e8-626f-42e5-a790-ac4791c12605" type="box"
+							>3</container>
+						<container parent="5008c0e8-626f-42e5-a790-ac4791c12605" type="folder"
+							>1</container>
+						<unittitle> Phoenix newspapers, <unitdate>1949-1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ab5faf8a-9b61-4721-aa46-5418f0ad9871" type="box"
+							>3</container>
+						<container parent="ab5faf8a-9b61-4721-aa46-5418f0ad9871" type="folder"
+							>2</container>
+						<unittitle> Powell River company, <unitdate>1949-1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="61770eb0-774e-4001-bb49-d8f67e79c02b" type="box"
+							>3</container>
+						<container parent="61770eb0-774e-4001-bb49-d8f67e79c02b" type="folder"
+							>3</container>
+						<unittitle> Presidential election predictions,
+							<unitdate>1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="424b4d5a-1b4f-4e5a-b757-3505f67d0345" type="box"
+							>3</container>
+						<container parent="424b4d5a-1b4f-4e5a-b757-3505f67d0345" type="folder"
+							>4</container>
+						<unittitle> Presidential candidates and possibilities,
+								<unitdate>1943-1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="bda172a1-8f95-49cc-b1c6-5680e6e0e6fe" type="box"
+							>3</container>
+						<container parent="bda172a1-8f95-49cc-b1c6-5680e6e0e6fe" type="folder"
+							>5</container>
+						<unittitle> Primary gubernatorial campaigns,
+							<unitdate>1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="05b71509-3309-4937-b8a5-ac44c0401822" type="box"
+							>3</container>
+						<container parent="05b71509-3309-4937-b8a5-ac44c0401822" type="folder"
+							>6</container>
+						<unittitle> Pulitzer, Joseph, <unitdate>1947-1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9c3cf4da-d0c2-496b-8572-14ecd2bc4a95" type="box"
+							>3</container>
+						<container parent="9c3cf4da-d0c2-496b-8572-14ecd2bc4a95" type="folder"
+							>7</container>
+						<unittitle> Prisoners of war, <unitdate>1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a2ea3df6-a408-412d-a75a-841e82016e2c" type="box"
+							>3</container>
+						<container parent="a2ea3df6-a408-412d-a75a-841e82016e2c" type="folder"
+							>8</container>
+						<unittitle> Pyle, Howard, <unitdate>1950-1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a04a207c-19b3-4f58-84e9-2d04c832e145" type="box"
+							>3</container>
+						<container parent="a04a207c-19b3-4f58-84e9-2d04c832e145" type="folder"
+							>9</container>
+						<unittitle> R., <unitdate>1944-1961</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="be77babd-c1aa-43ee-8104-cbc1c5dd8098" type="box"
+							>3</container>
+						<container parent="be77babd-c1aa-43ee-8104-cbc1c5dd8098" type="folder"
+							>10</container>
+						<unittitle> Ramey, Roger, <unitdate>1947</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="cf24b9d5-f95a-4636-b4b4-4c6b12bdf4e7" type="box"
+							>3</container>
+						<container parent="cf24b9d5-f95a-4636-b4b4-4c6b12bdf4e7" type="folder"
+							>11</container>
+						<unittitle> Rankin Family, <unitdate>1944-1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d007dad8-a1fe-492c-b211-d19fad61da60" type="box"
+							>3</container>
+						<container parent="d007dad8-a1fe-492c-b211-d19fad61da60" type="folder"
+							>12</container>
+						<unittitle> Reston, James, <unitdate>1963-1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b3381c4c-c67f-4492-baa0-ee18cdeb1ba0" type="box"
+							>3</container>
+						<container parent="b3381c4c-c67f-4492-baa0-ee18cdeb1ba0" type="folder"
+							>13</container>
+						<unittitle> Rhodes, John J., <unitdate>1953-1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c8e13864-005a-4356-82fb-fce4a26fbd7a" type="box"
+							>3</container>
+						<container parent="c8e13864-005a-4356-82fb-fce4a26fbd7a" type="folder"
+							>14</container>
+						<unittitle> Rockefeller, John D. III.,
+							<unitdate>1952-1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e750c7f1-f0ae-4358-8d4b-efd76752cdd3" type="box"
+							>3</container>
+						<container parent="e750c7f1-f0ae-4358-8d4b-efd76752cdd3" type="folder"
+							>15</container>
+						<unittitle> Romine, L.A., <unitdate>1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1f484b52-b06f-4202-837f-6d6ef2b1af2a" type="box"
+							>3</container>
+						<container parent="1f484b52-b06f-4202-837f-6d6ef2b1af2a" type="folder"
+							>16</container>
+						<unittitle> Roosevelt, Franklin D.,
+							<unitdate>1931-1943</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8a3a02c0-37b8-4973-9a0c-a761b527b869" type="box"
+							>3</container>
+						<container parent="8a3a02c0-37b8-4973-9a0c-a761b527b869" type="folder"
+							>17</container>
+						<unittitle> Rosenberg, Anna M., <unitdate>1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2ccd63dc-3ece-4823-ba4d-28d0e4051e35" type="box"
+							>3</container>
+						<container parent="2ccd63dc-3ece-4823-ba4d-28d0e4051e35" type="folder"
+							>18</container>
+						<unittitle> Rougeron, Camille. <unitdate>1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a406ce0d-40e5-4655-b653-8fadf97cca14" type="box"
+							>3</container>
+						<container parent="a406ce0d-40e5-4655-b653-8fadf97cca14" type="folder"
+							>19-21</container>
+						<unittitle> S., <unitdate>1941-1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0da35f68-643f-43f8-9da4-eccfad971847" type="box"
+							>3</container>
+						<container parent="0da35f68-643f-43f8-9da4-eccfad971847" type="folder"
+							>22-23</container>
+						<unittitle> S., <unitdate>1961-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0abb278b-c469-4842-ad42-4008e5c137ca" type="box"
+							>3</container>
+						<container parent="0abb278b-c469-4842-ad42-4008e5c137ca" type="folder"
+							>24</container>
+						<unittitle> Sale of <title render="italic">Arizona Daily Star</title>,
+								<unitdate>1964-1969</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ac1dd1b1-7584-4365-bf73-68516b671de0" type="box"
+							>3</container>
+						<container parent="ac1dd1b1-7584-4365-bf73-68516b671de0" type="folder"
+							>25</container>
+						<unittitle> Salzberger, Arthur Ochs,
+							<unitdate>1963-1965</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a1c31d0e-a856-44ad-bb41-bf9cdb3c9950" type="box"
+							>3</container>
+						<container parent="a1c31d0e-a856-44ad-bb41-bf9cdb3c9950" type="folder"
+							>26</container>
+						<unittitle>
+							<title render="italic">Santa Barbara Daily News</title>,
+								<unitdate>1959-1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="82147862-7be8-40c3-b5eb-29b4647a5734" type="box"
+							>3</container>
+						<container parent="82147862-7be8-40c3-b5eb-29b4647a5734" type="folder"
+							>27</container>
+						<unittitle> Sarnoff, David, <unitdate>1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6011c080-541b-4a9e-a983-ba9317f02a76" type="box"
+							>3</container>
+						<container parent="6011c080-541b-4a9e-a983-ba9317f02a76" type="folder"
+							>28</container>
+						<unittitle> Schlager, Sig, <unitdate>1954-1957</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a4876a48-0943-4e34-afd9-95c5d8b268a3" type="box"
+							>3</container>
+						<container parent="a4876a48-0943-4e34-afd9-95c5d8b268a3" type="folder"
+							>29</container>
+						<unittitle> Schweitzer, Albert, <unitdate>1965</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="cf74c8b4-118e-4dcf-be20-5bf8a78b9faa" type="box"
+							>3</container>
+						<container parent="cf74c8b4-118e-4dcf-be20-5bf8a78b9faa" type="folder"
+							>30</container>
+						<unittitle> Sedgwick, Ellery, <unitdate>1936-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="be238318-ff8d-4112-99fb-70e50308974d" type="box"
+							>3</container>
+						<container parent="be238318-ff8d-4112-99fb-70e50308974d" type="folder"
+							>31</container>
+						<unittitle> Sen, Sachin; Visit to Tucson,
+							<unitdate>1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3eab7c11-b8ba-4002-b4af-a384efe9e54c" type="box"
+							>3</container>
+						<container parent="3eab7c11-b8ba-4002-b4af-a384efe9e54c" type="folder"
+							>32</container>
+						<unittitle> Shepherd, Lemuel C., <unitdate>1935-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="60db5477-c3e7-4b2e-91d0-a7b2a48a2ae5" type="box"
+							>3</container>
+						<container parent="60db5477-c3e7-4b2e-91d0-a7b2a48a2ae5" type="folder"
+							>33</container>
+						<unittitle> Slee, Margaret Sanger,
+							<unitdate>1949-1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c663878e-cfb6-4911-8050-c2124d72e08a" type="box"
+							>3</container>
+						<container parent="c663878e-cfb6-4911-8050-c2124d72e08a" type="folder"
+							>34</container>
+						<unittitle> Small loan companies, <unitdate>1954-1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c26303b6-b328-448e-b3be-0532676a9576" type="box"
+							>3</container>
+						<container parent="c26303b6-b328-448e-b3be-0532676a9576" type="folder"
+							>35</container>
+						<unittitle> Smith, Howard J., <unitdate>1953</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3a0ab80b-b616-4cae-ba3a-bea32bfe3b77" type="box"
+							>3</container>
+						<container parent="3a0ab80b-b616-4cae-ba3a-bea32bfe3b77" type="folder"
+							>36</container>
+						<unittitle> Smith, Ralph C., <unitdate>1950</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a176b7c9-7928-4eeb-9f5e-63b66eee8b2f" type="box"
+							>3</container>
+						<container parent="a176b7c9-7928-4eeb-9f5e-63b66eee8b2f" type="folder"
+							>37</container>
+						<unittitle> Social security and welfare,
+							<unitdate>1942-1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e7554046-f61a-4a53-94bb-325baf3ca30d" type="box"
+							>3</container>
+						<container parent="e7554046-f61a-4a53-94bb-325baf3ca30d" type="folder"
+							>38</container>
+						<unittitle> South American tabloid, <unitdate>1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ce75e6b7-857a-4b18-a2d7-12e0c5a92278" type="box"
+							>3</container>
+						<container parent="ce75e6b7-857a-4b18-a2d7-12e0c5a92278" type="folder"
+							>39</container>
+						<unittitle> Special Senate Committee Testimony,
+								<unitdate>1940-1957</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="63bbce3b-0773-4472-a6d0-434296077d87" type="box"
+							>3</container>
+						<container parent="63bbce3b-0773-4472-a6d0-434296077d87" type="folder"
+							>40-42</container>
+						<unittitle> State Department, <unitdate>1938-1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="12d50851-e0eb-484c-bbc1-688aadff0a7d" type="box"
+							>4</container>
+						<container parent="12d50851-e0eb-484c-bbc1-688aadff0a7d" type="folder"
+							>1</container>
+						<unittitle> State Department, <unitdate>1956-1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="cc0c6b58-fef0-4961-8588-14ed28d42732" type="box"
+							>4</container>
+						<container parent="cc0c6b58-fef0-4961-8588-14ed28d42732" type="folder"
+							>2</container>
+						<unittitle> Stauffer, Oscar; Menninger Foundation,
+								<unitdate>1958-1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0888934d-2dd8-41cd-884c-bf78004058ab" type="box"
+							>4</container>
+						<container parent="0888934d-2dd8-41cd-884c-bf78004058ab" type="folder"
+							>3</container>
+						<unittitle> Stevenson, Adlai, <unitdate>1956-1965</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="87a99988-1606-4e05-93eb-690ccd701b78" type="box"
+							>4</container>
+						<container parent="87a99988-1606-4e05-93eb-690ccd701b78" type="folder"
+							>4</container>
+						<unittitle> Stitt, Phil, <unitdate>1950-1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a7cad4f5-4375-4af0-a06a-a59904cf1340" type="box"
+							>4</container>
+						<container parent="a7cad4f5-4375-4af0-a06a-a59904cf1340" type="folder"
+							>5</container>
+						<unittitle> Stocker, Joseph, <unitdate>1949-1957</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="712606d9-1049-4c19-aac9-4e98752d5c7e" type="box"
+							>4</container>
+						<container parent="712606d9-1049-4c19-aac9-4e98752d5c7e" type="folder"
+							>6</container>
+						<unittitle> Stolpe, Bert, <unitdate>1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="97878dd1-3787-40a8-9a66-a2b72488fb4d" type="box"
+							>4</container>
+						<container parent="97878dd1-3787-40a8-9a66-a2b72488fb4d" type="folder"
+							>7</container>
+						<unittitle> Swanson, Theodore and company,
+							<unitdate>1949-1950</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="59ab4c64-51a8-433d-9b57-65f3b9c446fa" type="box"
+							>4</container>
+						<container parent="59ab4c64-51a8-433d-9b57-65f3b9c446fa" type="folder"
+							>8</container>
+						<unittitle> Swinehart, Gerry, <unitdate>1960-1965</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="09f52615-f79c-44ea-bdab-86d13890054e" type="box"
+							>4</container>
+						<container parent="09f52615-f79c-44ea-bdab-86d13890054e" type="folder"
+							>9</container>
+						<unittitle> Symington, Stuart W., <unitdate>1950-1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b836d222-4339-452e-a6cd-b8cd09a4acff" type="box"
+							>4</container>
+						<container parent="b836d222-4339-452e-a6cd-b8cd09a4acff" type="folder"
+							>10</container>
+						<unittitle> T., <unitdate>1950-1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6ebe025f-0eae-4324-a316-f082223e3c1a" type="box"
+							>4</container>
+						<container parent="6ebe025f-0eae-4324-a316-f082223e3c1a" type="folder"
+							>11</container>
+						<unittitle> Tabloid requests, <unitdate>1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2219a2b3-094b-4946-8871-752e2d01c119" type="box"
+							>4</container>
+						<container parent="2219a2b3-094b-4946-8871-752e2d01c119" type="folder"
+							>12</container>
+						<unittitle> Taft, Robert A., <unitdate>1949-1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="76bd755e-48d1-4fd3-b554-c0735964adc6" type="box"
+							>4</container>
+						<container parent="76bd755e-48d1-4fd3-b554-c0735964adc6" type="folder"
+							>13</container>
+						<unittitle> Telegrams, <unitdate>1921-1941</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="35ac1e5a-7e2d-4eb1-843e-be53145f9aae" type="box"
+							>4</container>
+						<container parent="35ac1e5a-7e2d-4eb1-843e-be53145f9aae" type="folder"
+							>14</container>
+						<unittitle> Thacher, A.G., <unitdate>1931-1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="36822a56-b857-40da-839d-6edaf25db567" type="box"
+							>4</container>
+						<container parent="36822a56-b857-40da-839d-6edaf25db567" type="folder"
+							>15</container>
+						<unittitle> Thomason, John William, Jr.
+							<unitdate>1940-1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ae821311-8f4c-41a8-bb27-60c4a4eb6545" type="box"
+							>4</container>
+						<container parent="ae821311-8f4c-41a8-bb27-60c4a4eb6545" type="folder"
+							>16</container>
+						<unittitle> Thompson, Dorothy, <unitdate>1944-1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c756f88f-974c-48d7-94a2-211ac8987719" type="box"
+							>4</container>
+						<container parent="c756f88f-974c-48d7-94a2-211ac8987719" type="folder"
+							>17</container>
+						<unittitle> Times Letters to the Editor; "German recovery",
+								<unitdate>1948</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="82255038-57e8-481e-97ba-3e8e72bfa531" type="box"
+							>4</container>
+						<container parent="82255038-57e8-481e-97ba-3e8e72bfa531" type="folder"
+							>18</container>
+						<unittitle> Times Letters to the Editor; "Indonesia",
+								<unitdate>1949-1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ac1d6bae-fa6e-4683-bf93-24c64e529444" type="box"
+							>4</container>
+						<container parent="ac1d6bae-fa6e-4683-bf93-24c64e529444" type="folder"
+							>19</container>
+						<unittitle> Times Letters to the Editor; "Moderation in Japan urged",
+								<unitdate>1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="13200bc1-b377-4559-8d15-c17010ecc219" type="box"
+							>4</container>
+						<container parent="13200bc1-b377-4559-8d15-c17010ecc219" type="folder"
+							>20-21</container>
+						<unittitle> Times Letters to the Editor; "Repatriating prisoners",
+								<unitdate>1952-1953</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d1204c9e-7545-4dea-a4cc-275c06d6bb0f" type="box"
+							>4</container>
+						<container parent="d1204c9e-7545-4dea-a4cc-275c06d6bb0f" type="folder"
+							>22</container>
+						<unittitle> Times Letters to the Editor; "Report from Tucson on foreign
+							policy", <unitdate>1952-1953</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="163ba079-9100-4f2f-b36c-b091fb0d8731" type="box"
+							>4</container>
+						<container parent="163ba079-9100-4f2f-b36c-b091fb0d8731" type="folder"
+							>23</container>
+						<unittitle> Times Letters to the editor; "Tucson Looks at the World",
+								<unitdate>1953</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="cc644681-48b7-4101-ac28-368e52470350" type="box"
+							>4</container>
+						<container parent="cc644681-48b7-4101-ac28-368e52470350" type="folder"
+							>24</container>
+						<unittitle> Times Letters to the Editor; "Use of atomic energy",
+								<unitdate>1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3188b6d8-7d3c-4dbe-a622-feaf4b795543" type="box"
+							>4</container>
+						<container parent="3188b6d8-7d3c-4dbe-a622-feaf4b795543" type="folder"
+							>25</container>
+						<unittitle> Townley, Josephine, <unitdate>1929-1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4295e469-3511-4d6e-858c-be8afed7f34b" type="box"
+							>4</container>
+						<container parent="4295e469-3511-4d6e-858c-be8afed7f34b" type="folder"
+							>26</container>
+						<unittitle> Truman, Harry S., <unitdate>1945-1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2935e5e1-937e-42c4-82b6-111cb37deca1" type="box"
+							>4</container>
+						<container parent="2935e5e1-937e-42c4-82b6-111cb37deca1" type="folder"
+							>27</container>
+						<unittitle> Turner, Lillian, <unitdate>1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1533ab18-ea6a-40e4-a928-eb6cded3ed29" type="box"
+							>4</container>
+						<container parent="1533ab18-ea6a-40e4-a928-eb6cded3ed29" type="folder"
+							>28-29</container>
+						<unittitle> Udall, Congressman Stewart L.,
+							<unitdate>1949-1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="470a4dc5-8294-462b-b7a7-1808b1095372" type="box"
+							>4</container>
+						<container parent="470a4dc5-8294-462b-b7a7-1808b1095372" type="folder"
+							>30</container>
+						<unittitle> Udall, Congressman Morris K.,
+							<unitdate>1963-1965</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="024c8a2b-6afd-484f-83b4-9c3d91b46d54" type="box"
+							>4</container>
+						<container parent="024c8a2b-6afd-484f-83b4-9c3d91b46d54" type="folder"
+							>31</container>
+						<unittitle> U.S. High Commissioner for Germany,
+							<unitdate>1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e5a4f782-728b-4c09-8b94-960db215f693" type="box"
+							>4</container>
+						<container parent="e5a4f782-728b-4c09-8b94-960db215f693" type="folder"
+							>32</container>
+						<unittitle> Vanderbilt, Neil, <unitdate>1953-1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="85c66313-5167-4664-938c-fa56768b9b85" type="box"
+							>4</container>
+						<container parent="85c66313-5167-4664-938c-fa56768b9b85" type="folder"
+							>33</container>
+						<unittitle> Von Royen, J.H., <unitdate>1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="68b3150b-3c9d-45d4-a1d3-e89a67d8dbfa" type="box"
+							>4</container>
+						<container parent="68b3150b-3c9d-45d4-a1d3-e89a67d8dbfa" type="folder"
+							>34-35</container>
+						<unittitle> W., <unitdate>1949-1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="359daa26-dbfd-4baa-8cdb-3244961a9be7" type="box"
+							>4</container>
+						<container parent="359daa26-dbfd-4baa-8cdb-3244961a9be7" type="folder"
+							>36</container>
+						<unittitle> Waldman, Louis, <unitdate>1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fe0bb7b9-516c-4e5c-9061-057abfc0e7e6" type="box"
+							>4</container>
+						<container parent="fe0bb7b9-516c-4e5c-9061-057abfc0e7e6" type="folder"
+							>37</container>
+						<unittitle> Wall Street Journal; "By Our Silence",
+							<unitdate>1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a6b7055e-2796-4427-aecb-0dc9230124e3" type="box"
+							>4</container>
+						<container parent="a6b7055e-2796-4427-aecb-0dc9230124e3" type="folder"
+							>38</container>
+						<unittitle> War College, <unitdate>1945-1948</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1defc376-a4e2-44e1-8115-ee324a222602" type="box"
+							>4</container>
+						<container parent="1defc376-a4e2-44e1-8115-ee324a222602" type="folder"
+							>39</container>
+						<unittitle> War Department, <unitdate>1940-1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="58971dc6-be48-4843-91aa-2657acc41b6d" type="box"
+							>4</container>
+						<container parent="58971dc6-be48-4843-91aa-2657acc41b6d" type="folder"
+							>40</container>
+						<unittitle> War Department; censorship,
+							<unitdate>1940-1948</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5d3c52a3-160f-4d38-bea8-27a875e143ca" type="box"
+							>4</container>
+						<container parent="5d3c52a3-160f-4d38-bea8-27a875e143ca" type="folder"
+							>41</container>
+						<unittitle> War predictions, <unitdate>1938-1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9dcf4a51-72e0-4365-afed-d1f92a566bd9" type="box"
+							>4</container>
+						<container parent="9dcf4a51-72e0-4365-afed-d1f92a566bd9" type="folder"
+							>42</container>
+						<unittitle> Wedemeyer, A.L., <unitdate>1949-1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ef137352-2126-4e71-8fb8-ba0d0e497a34" type="box"
+							>4</container>
+						<container parent="ef137352-2126-4e71-8fb8-ba0d0e497a34" type="folder"
+							>43</container>
+						<unittitle> White House, <unitdate>1953-1965</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f0e1832b-5756-466a-bd23-8467813ce7f0" type="box"
+							>4</container>
+						<container parent="f0e1832b-5756-466a-bd23-8467813ce7f0" type="folder"
+							>44</container>
+						<unittitle> Whitton, Margaret, <unitdate>1957-1961</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="46419336-f7c8-4263-be52-a289c661d6a4" type="box"
+							>4</container>
+						<container parent="46419336-f7c8-4263-be52-a289c661d6a4" type="folder"
+							>45</container>
+						<unittitle> Williams, Herschel, <unitdate>1950-1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2440fd44-728a-4b82-95d2-ad225c4b8275" type="box"
+							>4</container>
+						<container parent="2440fd44-728a-4b82-95d2-ad225c4b8275" type="folder"
+							>46</container>
+						<unittitle> Wilson, Delmar E., <unitdate>1957-1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3f837e11-e9e2-4628-b311-5d56b610cfb8" type="box"
+							>4</container>
+						<container parent="3f837e11-e9e2-4628-b311-5d56b610cfb8" type="folder"
+							>47</container>
+						<unittitle> Wilson, Lyle C., <unitdate>1948-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a7e1bd99-d32d-43bb-aad3-ecf28fa00bc6" type="box"
+							>4</container>
+						<container parent="a7e1bd99-d32d-43bb-aad3-ecf28fa00bc6" type="folder"
+							>48</container>
+						<unittitle> Wolff, Robert, <unitdate>1943</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>Series III:</unitid>
+					<unittitle>Writings, <unitdate normal="1919/1967" type="inclusive"
+							>1919-1967</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>This series is divided into three subseries: Articles and Editorials
+						(1919-1967), Oversize Articles and Editorials (1937-1949), and Manuscripts
+						(1939-1962). Articles and Editorials includes writings by Mr. Mathews,
+						primarily in his capacity as editor of the <title render="italic">Arizona
+							Daily Star</title>, documenting his interviews with notable individuals,
+						global travels, and local, state, national and international affairs and
+						politics. The arrangement is alphabetical with the bulk of this series
+						organized chronologically under the 'General' category. Manuscripts include
+						several revised and re-titled versions of Mr. Mathews' unpublished book on
+						his military and other professional experiences.</p>
+				</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unitid>Subseries 1:</unitid>
+						<unittitle>Articles and Editorials;
+							<unitdate>1919-1967</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="d56617a5-c999-4e3d-8fff-4a86aa2bfc59" type="box"
+								>5</container>
+							<container parent="d56617a5-c999-4e3d-8fff-4a86aa2bfc59" type="folder"
+								>1</container>
+							<unittitle>
+								<title>"30 Days in Equatorial Africa",</title>
+								<unitdate>1961</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="3491272d-9de0-4e1b-8b69-e4aab32499f7" type="box"
+								>5</container>
+							<container parent="3491272d-9de0-4e1b-8b69-e4aab32499f7" type="folder"
+								>2</container>
+							<unittitle>
+								<title>"Age of Continents",</title>
+								<unitdate>1956</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="97a26b30-1fa0-44e3-abcc-96c588368665" type="box"
+								>5</container>
+							<container parent="97a26b30-1fa0-44e3-abcc-96c588368665" type="folder"
+								>3</container>
+							<unittitle>
+								<title>"Are We Being Shouted Into an Unwanted War?",</title>
+								<unitdate>1951</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="36aaa1db-49b6-4e98-88e7-f53f8d8027c1" type="box"
+								>5</container>
+							<container parent="36aaa1db-49b6-4e98-88e7-f53f8d8027c1" type="folder"
+								>4</container>
+							<unittitle>
+								<title>"Arizona and the Colorado", </title>
+								<unitdate>1944</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e28983e3-27fa-4e03-843c-958a8865631e" type="box"
+								>5</container>
+							<container parent="e28983e3-27fa-4e03-843c-958a8865631e" type="folder"
+								>5</container>
+							<unittitle>Australia and New Zealand,
+								<unitdate>1965</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="01e6cc03-5a98-4c17-8ab3-1e608c2db12b" type="box"
+								>5</container>
+							<container parent="01e6cc03-5a98-4c17-8ab3-1e608c2db12b" type="folder"
+								>6</container>
+							<unittitle>
+								<title>"Awakening of South America",</title>
+								<unitdate>1955</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="862cf9b6-11c9-4467-ab01-496b1e838e24" type="box"
+								>5</container>
+							<container parent="862cf9b6-11c9-4467-ab01-496b1e838e24" type="folder"
+								>7</container>
+							<unittitle>
+								<title>"Battle of Belleau Wood",</title>
+								<unitdate>1965</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="25c3f22f-f19e-4cbe-96d7-4865762eae7f" type="box"
+								>5</container>
+							<container parent="25c3f22f-f19e-4cbe-96d7-4865762eae7f" type="folder"
+								>8-12</container>
+							<unittitle> Battle of Belleau Wood-Research,
+									<unitdate>1919-1967</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="6f5953d4-1b33-400d-8a98-bedc20f20d63" type="box"
+								>5</container>
+							<container parent="6f5953d4-1b33-400d-8a98-bedc20f20d63" type="folder"
+								>13</container>
+							<unittitle> England, <unitdate>1942</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="77547279-0e47-4204-8cfc-b97f235929bc" type="box"
+								>5</container>
+							<container parent="77547279-0e47-4204-8cfc-b97f235929bc" type="folder"
+								>14</container>
+							<unittitle>
+								<title>"Europe Will Recover", </title>
+								<unitdate>1947</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b3e4f6d1-6e1f-4b9f-af56-91e37e28ce3e" type="box"
+								>5</container>
+							<container parent="b3e4f6d1-6e1f-4b9f-af56-91e37e28ce3e" type="folder"
+								>15</container>
+							<unittitle> European Trip, <unitdate>1966</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="6fae1061-7e8d-449f-88cf-e36ab76052e1" type="box"
+								>5</container>
+							<container parent="6fae1061-7e8d-449f-88cf-e36ab76052e1" type="folder"
+								>16-21</container>
+							<unittitle> General, <unitdate>1933-1944</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="ed523b09-04fa-4eb5-b622-6b599277983e" type="box"
+								>5</container>
+							<container parent="ed523b09-04fa-4eb5-b622-6b599277983e" type="folder"
+								>22</container>
+							<unittitle> General, <unitdate>1945</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="18783269-d555-4679-9119-631d8ab21351" type="box"
+								>5</container>
+							<container parent="18783269-d555-4679-9119-631d8ab21351" type="folder"
+								>23</container>
+							<unittitle> General, <unitdate>1946</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="c58183b1-d09b-4e21-bb73-ab9f2aef425c" type="box"
+								>5</container>
+							<container parent="c58183b1-d09b-4e21-bb73-ab9f2aef425c" type="folder"
+								>24-26</container>
+							<unittitle> General, <unitdate>1947</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b8b66394-3273-4f63-8376-d2ed4a3e871b" type="box"
+								>5</container>
+							<container parent="b8b66394-3273-4f63-8376-d2ed4a3e871b" type="folder"
+								>27</container>
+							<unittitle> General, <unitdate>1948</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e3426b56-1ad1-4ec4-a738-674247872d22" type="box"
+								>6</container>
+							<container parent="e3426b56-1ad1-4ec4-a738-674247872d22" type="folder"
+								>1-4</container>
+							<unittitle> General, <unitdate>1949</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="839d2b3e-3046-47a9-a0f8-3097c7b06a9b" type="box"
+								>6</container>
+							<container parent="839d2b3e-3046-47a9-a0f8-3097c7b06a9b" type="folder"
+								>5-6</container>
+							<unittitle> General, <unitdate>1950</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f86cde21-c970-4243-9110-fbaea5a75fef" type="box"
+								>6</container>
+							<container parent="f86cde21-c970-4243-9110-fbaea5a75fef" type="folder"
+								>7</container>
+							<unittitle> General <unitdate>1951</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="06148b64-2336-45de-b84c-1ef42fb79a6d" type="box"
+								>6</container>
+							<container parent="06148b64-2336-45de-b84c-1ef42fb79a6d" type="folder"
+								>8</container>
+							<unittitle> General, <unitdate>1952-1955</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="307a355b-f36d-4e2f-94c6-0f16b5143e8e" type="box"
+								>6</container>
+							<container parent="307a355b-f36d-4e2f-94c6-0f16b5143e8e" type="folder"
+								>9</container>
+							<unittitle> General, <unitdate>1957-1961</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="285b8111-49fa-4f5d-8670-4fc98728a2b9" type="box"
+								>6</container>
+							<container parent="285b8111-49fa-4f5d-8670-4fc98728a2b9" type="folder"
+								>10</container>
+							<unittitle>
+								<title>"Indonesia Report," Foreward</title>
+								<unitdate>1949</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="47df3cdf-1de5-421d-a5fc-7927f5bc88dc" type="box"
+								>6</container>
+							<container parent="47df3cdf-1de5-421d-a5fc-7927f5bc88dc" type="folder"
+								>11</container>
+							<unittitle>
+								<title>"Interview with General Douglas MacArthur",</title>
+								<unitdate>1945-1955</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="926403f7-2bd7-4023-96b1-3e0c5225bd06" type="box"
+								>6</container>
+							<container parent="926403f7-2bd7-4023-96b1-3e0c5225bd06" type="folder"
+								>12</container>
+							<unittitle>
+								<title>"Let's Remember the Rule of Law",</title>
+								<unitdate>1960</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="5e3b381a-5ba5-44b6-8b30-dc5496f47167" type="box"
+								>6</container>
+							<container parent="5e3b381a-5ba5-44b6-8b30-dc5496f47167" type="folder"
+								>13</container>
+							<unittitle>
+								<title>"Letter to the New President"; The Atlantic Monthly,</title>
+								<unitdate>1961</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e8dfff6d-a437-4d43-a8bd-11e108caf906" type="box"
+								>6</container>
+							<container parent="e8dfff6d-a437-4d43-a8bd-11e108caf906" type="folder"
+								>14</container>
+							<unittitle> Letters to the Times; "Use of Atomic Energy",
+									<unitdate>1954</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="43ffbf40-6506-4831-a52b-9a330e286e49" type="box"
+								>6</container>
+							<container parent="43ffbf40-6506-4831-a52b-9a330e286e49" type="folder"
+								>15</container>
+							<unittitle>
+								<title>"Marines WWII Battles Detailed",</title>
+								<unitdate>1967</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="2d5ac86a-d76e-4f51-af3a-24307646d00c" type="box"
+								>6</container>
+							<container parent="2d5ac86a-d76e-4f51-af3a-24307646d00c" type="folder"
+								>16</container>
+							<unittitle>
+								<title>"Marshall Plan Pays Off",</title>
+								<unitdate>1951</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="641ee1d8-c9f2-40c3-8ac0-906f3e999258" type="box"
+								>6</container>
+							<container parent="641ee1d8-c9f2-40c3-8ac0-906f3e999258" type="folder"
+								>17</container>
+							<unittitle> Pan-American; Lima, Peru,
+								<unitdate>1966</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="9487dcb4-e173-4209-a299-f8a8f8141832" type="box"
+								>6</container>
+							<container parent="9487dcb4-e173-4209-a299-f8a8f8141832" type="folder"
+								>18</container>
+							<unittitle>
+								<title>"Peace by Negotiation and the Press",</title>
+								<unitdate>1954</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f5af30ef-6eee-468d-96d1-a221b2e185a7" type="box"
+								>6</container>
+							<container parent="f5af30ef-6eee-468d-96d1-a221b2e185a7" type="folder"
+								>19</container>
+							<unittitle>
+								<title>"Prediction of Soviet Intentions",</title>
+								<unitdate>1945</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="27403867-c14e-44d5-aa35-50aa8168315f" type="box"
+								>6</container>
+							<container parent="27403867-c14e-44d5-aa35-50aa8168315f" type="folder"
+								>20</container>
+							<unittitle>
+								<title>"Prelude to War",</title>
+								<unitdate>1939</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e8215de4-d52e-46f6-b32a-bbac7abb5417" type="box"
+								>6</container>
+							<container parent="e8215de4-d52e-46f6-b32a-bbac7abb5417" type="folder"
+								>21-24</container>
+							<unittitle> Public Utilities Purchase,
+								<unitdate>1943-1948</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b01e7d57-0a23-456a-910e-2223b1e2118f" type="box"
+								>6</container>
+							<container parent="b01e7d57-0a23-456a-910e-2223b1e2118f" type="folder"
+								>25</container>
+							<unittitle> Pulitzer, Joseph, <unitdate>1955</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="4f2e4f7e-3b1a-4db8-b04d-91234b173437" type="box"
+								>6</container>
+							<container parent="4f2e4f7e-3b1a-4db8-b04d-91234b173437" type="folder"
+								>26</container>
+							<unittitle> Republican Convention, <unitdate>1948</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="c04c5d77-cea8-4fd4-b307-b41459e8960f" type="box"
+								>6</container>
+							<container parent="c04c5d77-cea8-4fd4-b307-b41459e8960f" type="folder"
+								>27</container>
+							<unittitle>
+								<title>"Roundup, 10 Days Behind the Iron Curtain",</title>
+								<unitdate>1954</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="cde30a38-cb09-405d-a576-b1a56eeac6fd" type="box"
+								>6</container>
+							<container parent="cde30a38-cb09-405d-a576-b1a56eeac6fd" type="folder"
+								>28</container>
+							<unittitle> Russia, <unitdate>1943</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="a5246b67-7ede-4b54-9823-544b317ca914" type="box"
+								>6</container>
+							<container parent="a5246b67-7ede-4b54-9823-544b317ca914" type="folder"
+								>29</container>
+							<unittitle> Russian Trip, <unitdate>1954</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="184971d0-0054-4386-824c-394e6a9f610b" type="box"
+								>6</container>
+							<container parent="184971d0-0054-4386-824c-394e6a9f610b" type="folder"
+								>30</container>
+							<unittitle>
+								<title>"Senator Robert Taft Dying of Cancer", </title>
+								<unitdate>1953</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="96d46af5-fdce-4971-8a91-33b8b6bd48ed" type="box"
+								>6</container>
+							<container parent="96d46af5-fdce-4971-8a91-33b8b6bd48ed" type="folder"
+								>31</container>
+							<unittitle> South America, <unitdate normal="1955" type="inclusive"
+									>1955</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="d673c73a-336e-4c17-9f6c-0ac2a2a55e6a" type="box"
+								>6</container>
+							<container parent="d673c73a-336e-4c17-9f6c-0ac2a2a55e6a" type="folder"
+								>32</container>
+							<unittitle> Sunland Gardens, <unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b607facd-4e9a-4628-b80e-881fedad23f9" type="box"
+								>6</container>
+							<container parent="b607facd-4e9a-4628-b80e-881fedad23f9" type="folder"
+								>33</container>
+							<unittitle> Trotsky, Leon, <unitdate>1942-1960</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e3c1bcd5-08bc-4be7-8cb4-800d7810c10d" type="box"
+								>6</container>
+							<container parent="e3c1bcd5-08bc-4be7-8cb4-800d7810c10d" type="folder"
+								>34</container>
+							<unittitle> U.S. Naval Institute Proceedings Comments,
+									<unitdate>1953</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="2b99f706-69e7-4d31-9974-aa7bd6c5428e" type="box"
+								>6</container>
+							<container parent="2b99f706-69e7-4d31-9974-aa7bd6c5428e" type="folder"
+								>35</container>
+							<unittitle> Viet Nam, <unitdate>1965</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f7e7d199-4a96-4136-93c9-3c2d53d486d3" type="box"
+								>6</container>
+							<container parent="f7e7d199-4a96-4136-93c9-3c2d53d486d3" type="folder"
+								>36</container>
+							<unittitle>
+								<title>"War with Japan", </title>
+								<unitdate>1966</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="377b8909-4ec6-4ce6-9c85-42d09eade4bf" type="box"
+								>6</container>
+							<container parent="377b8909-4ec6-4ce6-9c85-42d09eade4bf" type="folder"
+								>37</container>
+							<unittitle>
+								<title>"We Conquer Japan", </title>
+								<unitdate>1945</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="918e1767-69c4-4c26-9543-5d350069b129" type="box"
+								>6</container>
+							<container parent="918e1767-69c4-4c26-9543-5d350069b129" type="folder"
+								>38</container>
+							<unittitle>
+								<title>"Weapon That Will Prolong the War", </title>
+								<unitdate>1942</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="a6f7ad0a-df6c-4424-ac6f-db02c9ede4d5" type="box"
+								>6</container>
+							<container parent="a6f7ad0a-df6c-4424-ac6f-db02c9ede4d5" type="folder"
+								>39</container>
+							<unittitle>
+								<title>"When F.D.R. Was Floored", </title>
+								<unitdate>1958</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="8a44d86f-a15f-4986-a9e8-fed14166b311" type="box"
+								>6</container>
+							<container parent="8a44d86f-a15f-4986-a9e8-fed14166b311" type="folder"
+								>40</container>
+							<unittitle>
+								<title>"When Peace Breaks Out: Can We Afford It?", </title>
+								<unitdate>1959</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="27cc7d09-a362-4fd7-88a0-c348d978663a" type="box"
+								>6</container>
+							<container parent="27cc7d09-a362-4fd7-88a0-c348d978663a" type="folder"
+								>41</container>
+							<unittitle> "Why Not Learn From Our Experiences",
+									<unitdate>1960</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="82bf23c5-888f-42c4-9672-00abfc7160ee" type="box"
+								>6</container>
+							<container parent="82bf23c5-888f-42c4-9672-00abfc7160ee" type="folder"
+								>42</container>
+							<unittitle> Wilson vs. State Consolidated and Morrison.
+									<unitdate>1952</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f43b050f-8cc1-4f53-8aaf-ba0520ea7837" type="box"
+								>6</container>
+							<container parent="f43b050f-8cc1-4f53-8aaf-ba0520ea7837" type="folder"
+								>43</container>
+							<unittitle> "With Dulles in Korea and Japan",
+								<unitdate>1967</unitdate></unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>Subseries 2:</unitid>
+						<unittitle>Oversize Articles and Editorials,
+							<unitdate>1937-1949</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="1bfbb94e-ecaa-4866-88f3-d6e972a4e672" type="box"
+								>6a</container>
+							<unittitle>
+								<title>"Around the Seething World",</title>
+								<unitdate>1937</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="60c3b9bf-9f6f-49f2-851d-70600588217d" type="box"
+								>6a</container>
+							<unittitle>
+								<title>"Europe Goes Goosestep",</title>
+								<unitdate>1935</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="6ff8ab97-4f90-4f93-9098-6d692e7b4ff8" type="box"
+								>6a</container>
+							<unittitle>
+								<title>"Arizona and the Colorado",</title>
+								<unitdate>1944</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="e4577d10-dbb7-451c-a873-1d488357c209" type="box"
+								>6a</container>
+							<unittitle>
+								<title>"England at War",</title>
+								<unitdate>1942</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="5df86f67-5738-4869-bacb-95c483e81cd9" type="box"
+								>6a</container>
+							<unittitle>
+								<title>"We Conquer Japan",</title>
+								<unitdate>1945</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="19c9a81e-dd44-4b5f-be63-dfcdf9bfb5a9" type="box"
+								>6a</container>
+							<unittitle>
+								<title>"Europe Will Recover",</title>
+								<unitdate>1947</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="3a9f1889-0fe7-4cc5-b3ba-82d0d06bf513" type="box"
+								>6a</container>
+							<unittitle>
+								<title>"Europe Will Recover",</title>
+								<unitdate>1949</unitdate></unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>Subseries 3:</unitid>
+						<unittitle>Manuscripts, <unitdate>1939-1962</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="7121afba-319c-4080-bd2d-b768de7616c2" type="box"
+								>7</container>
+							<container parent="7121afba-319c-4080-bd2d-b768de7616c2" type="folder"
+								>1</container>
+							<unittitle>
+								<title>"America Cannot Escape History",</title>
+								<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="4e45d4f4-9180-42a1-bea4-60227ce5116b" type="box"
+								>7</container>
+							<container parent="4e45d4f4-9180-42a1-bea4-60227ce5116b" type="folder"
+								>2</container>
+							<unittitle>
+								<title>"America Cannot Escape History"; Chapters I-VII, </title>
+								<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="c3d20490-34a6-46bd-9152-94fc7d7fa7f0" type="box"
+								>7</container>
+							<container parent="c3d20490-34a6-46bd-9152-94fc7d7fa7f0" type="folder"
+								>3</container>
+							<unittitle>
+								<title>"America Cannot Escape History"; Chapters VIII-XX,</title>
+								<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="67695dd5-00ca-4511-89f2-2b800d635635" type="box"
+								>7</container>
+							<container parent="67695dd5-00ca-4511-89f2-2b800d635635" type="folder"
+								>4</container>
+							<unittitle>
+								<title>"America Cannot Escape History"; Chapter VIII "Germany and
+									Synthetic Character",</title>
+								<unitdate>1961</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="a0eee959-4c9a-41e7-8fc0-9348a07fab53" type="box"
+								>7</container>
+							<container parent="a0eee959-4c9a-41e7-8fc0-9348a07fab53" type="folder"
+								>5</container>
+							<unittitle>
+								<title>"America Cannot Escape History"; Miscellaneous
+									Chapters,</title>
+								<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="818eeb69-bbde-4470-8b58-6778b7fca19b" type="box"
+								>7</container>
+							<container parent="818eeb69-bbde-4470-8b58-6778b7fca19b" type="folder"
+								>6</container>
+							<unittitle>
+								<title>"America Cannot Escape History"; Original Draft,</title>
+								<unitdate>1941</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="289e9db4-baf5-4ae6-9bed-7daa14aac95d" type="box"
+								>7</container>
+							<container parent="289e9db4-baf5-4ae6-9bed-7daa14aac95d" type="folder"
+								>7</container>
+							<unittitle>
+								<title> "America Cannot Escape History"; Research,</title>
+								<unitdate>1939-1962</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="3daf9f10-af06-4c8a-9ec5-d9396fbc3483" type="box"
+								>7</container>
+							<container parent="3daf9f10-af06-4c8a-9ec5-d9396fbc3483" type="folder"
+								>8</container>
+							<unittitle>
+								<title>"America Cannot Escape History"; Research about Raw
+									Materials,</title>
+								<unitdate>1939-1944</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="2362e2f1-51c2-443e-9c16-58e9a23d9e18" type="box"
+								>7</container>
+							<container parent="2362e2f1-51c2-443e-9c16-58e9a23d9e18" type="folder"
+								>9-10</container>
+							<unittitle>
+								<title>"America Cannot Escape History"; Research, Population
+									Association of America,</title>
+								<unitdate>1943-1954</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b6e42dd1-462c-4f7d-bc8b-b9a5935f307c" type="box"
+								>7</container>
+							<container parent="b6e42dd1-462c-4f7d-bc8b-b9a5935f307c" type="folder"
+								>11-13</container>
+							<unittitle>
+								<title>"America Cannot Escape History"; Research, Population
+									Reference Bureau,</title>
+								<unitdate>1940-1943</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="97353d88-673e-4117-bfdc-9f22292ee652" type="box"
+								>7</container>
+							<container parent="97353d88-673e-4117-bfdc-9f22292ee652" type="folder"
+								>14-15</container>
+							<unittitle>
+								<title>"America Will Make, Not Escape History", </title>
+								<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="6570283c-7b14-41b3-ba80-43d39326157c" type="box"
+								>7</container>
+							<container parent="6570283c-7b14-41b3-ba80-43d39326157c" type="folder"
+								>16-17</container>
+							<unittitle>
+								<title>"America Will Make, Not Escape History"; Incomplete</title>
+								<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f6515cbf-1575-4ee2-a789-bc99c01addb6" type="box"
+								>7</container>
+							<container parent="f6515cbf-1575-4ee2-a789-bc99c01addb6" type="folder"
+								>18</container>
+							<unittitle>
+								<title>"America Will Make, Not Escape, History",</title>
+								<unitdate>1962</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="c69d951d-7bdd-4798-8988-33d1e746ba27" type="box"
+								>7</container>
+							<container parent="c69d951d-7bdd-4798-8988-33d1e746ba27" type="folder"
+								>19</container>
+							<unittitle>
+								<title>"America Will Make, Not Escape History"; Chapters VI-
+									XV,</title>
+								<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="94441ffe-c163-4f82-bde1-a03cce7af20c" type="box"
+								>7</container>
+							<container parent="94441ffe-c163-4f82-bde1-a03cce7af20c" type="folder"
+								>20</container>
+							<unittitle>
+								<title>"America Will Make, Not Escape History"; Autobiographical
+									version,</title>
+								<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="d466add4-0452-4873-a475-28518c4de0db" type="box"
+								>7</container>
+							<container parent="d466add4-0452-4873-a475-28518c4de0db" type="folder"
+								>21</container>
+							<unittitle>
+								<title>"Brief Summary of Belleau Wood",</title>
+								<unitdate>1959</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="fb85c9e0-5c37-41d3-be08-d9bce8d19dbc" type="box"
+								>8</container>
+							<container parent="fb85c9e0-5c37-41d3-be08-d9bce8d19dbc" type="folder"
+								>1</container>
+							<unittitle>
+								<title>"Coming of Medical Education to Arizona",</title>
+								<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>Series IV:</unitid>
+					<unittitle>Speech Files, <unitdate>1937-1967 </unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p> This series includes professional and public speeches, primarily on national
+						and international affairs. The arrangement is alphabetical with the bulk of
+						this series organized chronologically under the 'General' category.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="2973827c-24b8-4532-bc4b-0e95c21a3b9e" type="box"
+							>8</container>
+						<container parent="2973827c-24b8-4532-bc4b-0e95c21a3b9e" type="folder"
+							>2</container>
+						<unittitle>
+							<title>"America Marches on to its Destiny",</title>
+							<unitdate>1962</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3bb31e9e-b349-4e1f-b02b-ae535f45d436" type="box"
+							>8</container>
+						<container parent="3bb31e9e-b349-4e1f-b02b-ae535f45d436" type="folder"
+							>3</container>
+						<unittitle>
+							<title>"An American Empire?", </title>
+							<unitdate>1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8099d6b1-ed09-4cbc-9bfa-b830979ac2ec" type="box"
+							>8</container>
+						<container parent="8099d6b1-ed09-4cbc-9bfa-b830979ac2ec" type="folder"
+							>4</container>
+						<unittitle> Channel Club, Santa Barbara,
+							<unitdate>1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="25cad2f8-5d7f-4307-b196-b2b3f0b6c46e" type="box"
+							>8</container>
+						<container parent="25cad2f8-5d7f-4307-b196-b2b3f0b6c46e" type="folder"
+							>5</container>
+						<unittitle>
+							<title>"Food, People and War", </title>
+							<unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8996ba5f-5e72-4c55-8f6a-ca0a72ed3776" type="box"
+							>8</container>
+						<container parent="8996ba5f-5e72-4c55-8f6a-ca0a72ed3776" type="folder"
+							>6</container>
+						<unittitle> General, <unitdate>1937-1940</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a0cded05-68a8-4592-b7c1-0345465655ca" type="box"
+							>8</container>
+						<container parent="a0cded05-68a8-4592-b7c1-0345465655ca" type="folder"
+							>7-8</container>
+						<unittitle> General, <unitdate>1942-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b6416327-43ef-47dc-83b0-5b9b7c747cc4" type="box"
+							>8</container>
+						<container parent="b6416327-43ef-47dc-83b0-5b9b7c747cc4" type="folder"
+							>9-12</container>
+						<unittitle> General, <unitdate>1950-1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="cfc0e364-152b-49f3-a339-88eb816f0ebd" type="box"
+							>8</container>
+						<container parent="cfc0e364-152b-49f3-a339-88eb816f0ebd" type="folder"
+							>13</container>
+						<unittitle> General Shepherd's Remarks at Dinner for Bill Mathews,
+								<unitdate>1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d555c288-faaa-4736-871f-f1f5c22b9a56" type="box"
+							>8</container>
+						<container parent="d555c288-faaa-4736-871f-f1f5c22b9a56" type="folder"
+							>14</container>
+						<unittitle> Mathews Candidate for Congress,
+							<unitdate>1940</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5cd77d77-f2c8-477c-9f15-710cd02ad5da" type="box"
+							>8</container>
+						<container parent="5cd77d77-f2c8-477c-9f15-710cd02ad5da" type="folder"
+							>15</container>
+						<unittitle> Other Authors, <unitdate>1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="39bbf43e-4e08-42b5-b0ff-36d6543d52a5" type="box"
+							>8</container>
+						<container parent="39bbf43e-4e08-42b5-b0ff-36d6543d52a5" type="folder"
+							>16</container>
+						<unittitle> Radio Broadcasts, <unitdate>1943</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b486807d-9441-46df-9703-05c35c380784" type="box"
+							>8</container>
+						<container parent="b486807d-9441-46df-9703-05c35c380784" type="folder"
+							>17</container>
+						<unittitle>
+							<title>"Recent Travels and Observations in the Middle East"; Tucson
+								Committee on Foreign Relations,</title>
+							<unitdate>1962</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7ea70a28-5ff5-4e9b-a661-36c3929d99d9" type="box"
+							>8</container>
+						<container parent="7ea70a28-5ff5-4e9b-a661-36c3929d99d9" type="folder"
+							>18</container>
+						<unittitle>
+							<title>"Resume of War"; Rotary Club,</title>
+							<unitdate>1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="786b9e67-a4f4-4690-b767-8b4cf16669ca" type="box"
+							>8</container>
+						<container parent="786b9e67-a4f4-4690-b767-8b4cf16669ca" type="folder"
+							>19</container>
+						<unittitle>
+							<title>"South Viet Nam and American Destiny",</title>
+							<unitdate>1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="dba3e4c0-7f3d-4788-a7de-a8affd449fca" type="box"
+							>8</container>
+						<container parent="dba3e4c0-7f3d-4788-a7de-a8affd449fca" type="folder"
+							>20</container>
+						<unittitle>
+							<title>"Spanish Element in Our Nationality"; Speech to Spanish
+								Americans,</title>
+							<unitdate normal="1916/1971" type="inclusive"
+							>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="57d4adce-a1fd-4d46-917a-732c288607db" type="box"
+							>8</container>
+						<container parent="57d4adce-a1fd-4d46-917a-732c288607db" type="folder"
+							>21</container>
+						<unittitle>
+							<title>"Yalta Conference", </title>
+							<unitdate>1945</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>Series V:</unitid>
+					<unittitle>Public Service Files, <unitdate normal="1930/1963" type="inclusive"
+							>1926-1964</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>This series documents Mr. Mathews' local, state and national public service
+						activities, including his campaign for Congress in 1940. Arrangement is
+						alphabetical.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="19dc4d61-401b-4862-8ca8-96ec95d5e9bf" type="box"
+							>8</container>
+						<container parent="19dc4d61-401b-4862-8ca8-96ec95d5e9bf" type="folder"
+							>22</container>
+						<unittitle>Arizona State Office Building Committee,
+								<unitdate>1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c209c9d3-fd72-45a0-879b-05f37929bd70" type="box"
+							>8</container>
+						<container parent="c209c9d3-fd72-45a0-879b-05f37929bd70" type="folder"
+							>23</container>
+						<unittitle> Board of Governors; Federal Reserve System,
+								<unitdate>1958-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b3d90143-e9b6-4009-a8d6-1554c32f7e6a" type="box"
+							>8</container>
+						<container parent="b3d90143-e9b6-4009-a8d6-1554c32f7e6a" type="folder"
+							>24</container>
+						<unittitle> Board of Regents; University and State Colleges of Arizona,
+								<unitdate>1949-1961</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="94baab61-1483-4a38-821f-ad5b652efeb8" type="box"
+							>8</container>
+						<container parent="94baab61-1483-4a38-821f-ad5b652efeb8" type="folder"
+							>25</container>
+						<unittitle> Board of Regents; University and State Colleges of Arizona-
+							Meeting Agendas, <unitdate>1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="daa5280e-e05e-45b9-b961-9ade95f1dc1b" type="box"
+							>8</container>
+						<container parent="daa5280e-e05e-45b9-b961-9ade95f1dc1b" type="folder"
+							>26</container>
+						<unittitle> Campaign for Congress; Publicity.
+							<unitdate>1940</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e5c747f6-b974-494e-b927-b20b2245de21" type="box"
+							>8</container>
+						<container parent="e5c747f6-b974-494e-b927-b20b2245de21" type="folder"
+							>27</container>
+						<unittitle> Campaign for Congress; Republican Hand Bill,
+								<unitdate>1940-1944</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="90fda9d7-2331-4fd9-8b6f-607845a17327" type="box"
+							>8</container>
+						<container parent="90fda9d7-2331-4fd9-8b6f-607845a17327" type="folder"
+							>28</container>
+						<unittitle> Citizens' Advisory Water Committee,
+								<unitdate>1930-1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6d54475b-a84f-45ee-a26f-41e26e343ea0" type="box"
+							>8</container>
+						<container parent="6d54475b-a84f-45ee-a26f-41e26e343ea0" type="folder"
+							>29</container>
+						<unittitle> Citizens' Advisory Water Committee,
+								<unitdate>1940-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fc4eeaa4-b559-4ae7-8541-942314a73cbd" type="box"
+							>8</container>
+						<container parent="fc4eeaa4-b559-4ae7-8541-942314a73cbd" type="folder"
+							>30</container>
+						<unittitle> Citizens' Advisory Water Committee; Avra-Altar Valley Water,
+								<unitdate>1951-1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e404f6b2-a8d6-49f9-854d-801a7448715f" type="box"
+							>8</container>
+						<container parent="e404f6b2-a8d6-49f9-854d-801a7448715f" type="folder"
+							>31</container>
+						<unittitle> Citizens' Public Utilities Committee,
+								<unitdate>1943-1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1df8e0c3-8b55-4c5c-b1d0-6d79b58e728a" type="box"
+							>8</container>
+						<container parent="1df8e0c3-8b55-4c5c-b1d0-6d79b58e728a" type="folder"
+							>32</container>
+						<unittitle> Citizens' Public Utilities Committee; Arizona Corporation
+							Commission Hearing, <unitdate>1944-1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a6b675c5-5bad-4fc8-9ade-ca9dd7960603" type="box"
+							>8</container>
+						<container parent="a6b675c5-5bad-4fc8-9ade-ca9dd7960603" type="folder"
+							>33</container>
+						<unittitle> Citizens' Public Utilities Committee; Arizona Edison Company,
+								<unitdate>1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7d178fc1-1392-4330-8026-ed60b5d15003" type="box"
+							>8</container>
+						<container parent="7d178fc1-1392-4330-8026-ed60b5d15003" type="folder"
+							>34</container>
+						<unittitle> Citizens' Public Utilities Committee; Arizona Power Authority,
+								<unitdate>1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ac01b307-91e1-4308-8e70-08269e772ec5" type="box"
+							>8</container>
+						<container parent="ac01b307-91e1-4308-8e70-08269e772ec5" type="folder"
+							>35</container>
+						<unittitle> Citizens' Public Utilities Committee; Bond Houses,
+								<unitdate>1942-1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e0e5aa28-c047-42d7-940a-e13b7041f25b" type="box"
+							>8</container>
+						<container parent="e0e5aa28-c047-42d7-940a-e13b7041f25b" type="folder"
+							>36</container>
+						<unittitle> Citizens' Public Utilities Committee; Central Arizona Light and
+							Power Company, <unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="76ff9e70-ab64-4bd0-a087-9f2a57f363d3" type="box"
+							>8</container>
+						<container parent="76ff9e70-ab64-4bd0-a087-9f2a57f363d3" type="folder"
+							>37</container>
+						<unittitle> Citizens' Public Utilities Committee; Charter Amendment,
+								<unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="53fdb582-ffb7-4852-a9f0-13b096fa5702" type="box"
+							>8</container>
+						<container parent="53fdb582-ffb7-4852-a9f0-13b096fa5702" type="folder"
+							>38</container>
+						<unittitle> Citizens' Public Utilities Committee; City Attorney,
+								<unitdate>1940-1947</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e6cba8f3-be69-4a90-9848-9cd3653db638" type="box"
+							>9</container>
+						<container parent="e6cba8f3-be69-4a90-9848-9cd3653db638" type="folder"
+							>1</container>
+						<unittitle> Citizens' Public Utilities Committee; Electric Power Board of
+							Chattanooga, <unitdate>1943-1944</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1ec74cb4-37ee-4173-87ad-57b08e774002" type="box"
+							>9</container>
+						<container parent="1ec74cb4-37ee-4173-87ad-57b08e774002" type="folder"
+							>2</container>
+						<unittitle> Citizens' Public Utilities Committee; Engineering Firms,
+								<unitdate>1944</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7e6ad510-9acf-401c-b32d-d1baa7504acd" type="box"
+							>9</container>
+						<container parent="7e6ad510-9acf-401c-b32d-d1baa7504acd" type="folder"
+							>3</container>
+						<unittitle> Citizens' Public Utilities Committee; Federal Light and Traction
+							Company, <unitdate>1942-1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9dc1654a-5d80-4038-8a17-509f02eb5e96" type="box"
+							>9</container>
+						<container parent="9dc1654a-5d80-4038-8a17-509f02eb5e96" type="folder"
+							>4</container>
+						<unittitle> Citizens' Public Utilities Committee; Federal Power Commission,
+								<unitdate>1938-1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="72cf7a87-168b-4908-8cd2-5bab7db10a49" type="box"
+							>9</container>
+						<container parent="72cf7a87-168b-4908-8cd2-5bab7db10a49" type="folder"
+							>5</container>
+						<unittitle> Citizens' Public Utilities Committee; Holding Companies,
+								<unitdate>1943</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2f18990c-49cc-4b11-bdbb-410418fb57dc" type="box"
+							>9</container>
+						<container parent="2f18990c-49cc-4b11-bdbb-410418fb57dc" type="folder"
+							>6</container>
+						<unittitle> Citizens' Public Utilities Committee; Information from Other
+							Cities, Re: Boards, <unitdate>1929-1943</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0d0276de-9747-41d5-ae4f-b024c56a83d4" type="box"
+							>9</container>
+						<container parent="0d0276de-9747-41d5-ae4f-b024c56a83d4" type="folder"
+							>7</container>
+						<unittitle> Citizens' Public Utilities Committee; Initiative Petition,
+								<unitdate>1944</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4fa2461b-66b9-429e-97f3-9d283942b58b" type="box"
+							>9</container>
+						<container parent="4fa2461b-66b9-429e-97f3-9d283942b58b" type="folder"
+							>8</container>
+						<unittitle> Citizens' Public Utilities Committee; Knoxville Electric Power
+							and Water Board, <unitdate>1935-1943</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="37af9603-7917-4e5f-85c7-d9b617a033d2" type="box"
+							>9</container>
+						<container parent="37af9603-7917-4e5f-85c7-d9b617a033d2" type="folder"
+							>9</container>
+						<unittitle> Citizens' Public Utilities Committee; Meeting Minutes,
+								<unitdate>1943</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5389ff91-aba6-44d6-b443-fbe155336086" type="box"
+							>9</container>
+						<container parent="5389ff91-aba6-44d6-b443-fbe155336086" type="folder"
+							>10</container>
+						<unittitle> Citizens' Public Utilities Committee; Ordinance Acquisition
+							Election, <unitdate>1944</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="91f6edf9-7ee0-400a-b28b-56d53f996fc6" type="box"
+							>9</container>
+						<container parent="91f6edf9-7ee0-400a-b28b-56d53f996fc6" type="folder"
+							>11-13</container>
+						<unittitle> Citizens' Public Utilities Committee; Rates Comparisons,
+								<unitdate>1926-1947</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a7ffe248-a079-4c3d-a894-5c374f543b45" type="box"
+							>9</container>
+						<container parent="a7ffe248-a079-4c3d-a894-5c374f543b45" type="folder"
+							>14</container>
+						<unittitle> Citizens' Public Utilities Committee; Reports: Burns and
+							McDonnell Engineering Company,
+							<unitdate>1935-1944</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ff9b31cf-6f65-40c0-90d5-b4f098d8520f" type="box"
+							>9</container>
+						<container parent="ff9b31cf-6f65-40c0-90d5-b4f098d8520f" type="folder"
+							>15</container>
+						<unittitle> Citizens' Public Utilities Committee; Reports: Duff and Phelps.
+								<unitdate>1944</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d2e61bb3-b5df-4ab1-82ab-b5f68b4d40b7" type="box"
+							>9</container>
+						<container parent="d2e61bb3-b5df-4ab1-82ab-b5f68b4d40b7" type="folder"
+							>16</container>
+						<unittitle> Citizens' Public Utilities Committee; Reports: Finance
+							Committee, <unitdate>1943</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1e63fa4b-cd86-48a9-a9eb-848a313b7281" type="box"
+							>9</container>
+						<container parent="1e63fa4b-cd86-48a9-a9eb-848a313b7281" type="folder"
+							>17</container>
+						<unittitle> Citizens' Public Utilities Committee; Resolutions: Dahlberg and
+							Durand, <unitdate>1941-1943</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0d1aa142-888e-4f7b-8024-d4d11f3285bd" type="box"
+							>9</container>
+						<container parent="0d1aa142-888e-4f7b-8024-d4d11f3285bd" type="folder"
+							>18</container>
+						<unittitle> Citizens' Public Utilities Committee; Resolutions: Stranahan,
+							Harris and Company, Inc., <unitdate>1944</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1087fe68-b102-4fec-9134-20de398f597c" type="box"
+							>9</container>
+						<container parent="1087fe68-b102-4fec-9134-20de398f597c" type="folder"
+							>19</container>
+						<unittitle> Citizens' Public Utilities Committee; Safford Utility Court
+							Decision, <unitdate>1944</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ae3205b5-9323-4111-ac17-dab516b98b12" type="box"
+							>9</container>
+						<container parent="ae3205b5-9323-4111-ac17-dab516b98b12" type="folder"
+							>20</container>
+						<unittitle> Citizens' Public Utilities Committee; San Antonio Utility
+							Purchase, <unitdate>1943-1944</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b953a507-d6c3-48e4-8520-432d5b386799" type="box"
+							>9</container>
+						<container parent="b953a507-d6c3-48e4-8520-432d5b386799" type="folder"
+							>21</container>
+						<unittitle> Citizens' Public Utilities Committee; Security and Exchange
+							Commission, <unitdate>1942-1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1ecab9fa-36dc-4c69-bd14-aeb200ded108" type="box"
+							>9</container>
+						<container parent="1ecab9fa-36dc-4c69-bd14-aeb200ded108" type="folder"
+							>22</container>
+						<unittitle> Citizens' Public Utilities Committee; Tucson Gas, Electric Light
+							and Power Company, Analysis from,
+							<unitdate>1936-1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7a3b3a05-7441-41b3-a1c2-91070c70c80a" type="box"
+							>9</container>
+						<container parent="7a3b3a05-7441-41b3-a1c2-91070c70c80a" type="folder"
+							>23</container>
+						<unittitle> Citizens' Public Utilities Committee; Tucson Gas, Electric Light
+							and Power Company, Annual Meeting Notice,
+							<unitdate>1948</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d97e1ffa-0f36-477a-a669-08382299032d" type="box"
+							>9</container>
+						<container parent="d97e1ffa-0f36-477a-a669-08382299032d" type="folder"
+							>24</container>
+						<unittitle> Citizens' Public Utilities Committee; Tucson Gas, Electric Light
+							and Power Company, Annual Reports, <unitdate>1941</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e8fccf55-eafd-41dc-8e12-0c29f9b7ad3d" type="box"
+							>9</container>
+						<container parent="e8fccf55-eafd-41dc-8e12-0c29f9b7ad3d" type="folder"
+							>25</container>
+						<unittitle> Citizens' Public Utilities Committee; Tucson Gas, Electric Light
+							and Power Company, Annual Reports, <unitdate>1942</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d697f3e9-6149-4cf3-8618-2d0f6a25bda1" type="box"
+							>9</container>
+						<container parent="d697f3e9-6149-4cf3-8618-2d0f6a25bda1" type="folder"
+							>26</container>
+						<unittitle> Citizens' Public Utilities Committee; Tucson Gas, Electric Light
+							and Power Company, Annual Reports,
+							<unitdate>1944-1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4c40c834-b8cc-47a5-a285-0dcf6b0a73e9" type="box"
+							>9</container>
+						<container parent="4c40c834-b8cc-47a5-a285-0dcf6b0a73e9" type="folder"
+							>27</container>
+						<unittitle> Citizens' Public Utilities Committee; Tucson Gas, Electric Light
+							and Power Company, Income Tax Returns,
+							<unitdate>1937</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="756ad128-11cb-4fa8-9b4e-09df4344c70b" type="box"
+							>9</container>
+						<container parent="756ad128-11cb-4fa8-9b4e-09df4344c70b" type="folder"
+							>28</container>
+						<unittitle> Citizens' Public Utilities Committee; Tucson Gas, Electric Light
+							and Power Company, Pension Trust Plan,
+							<unitdate>1953</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1a694719-4db9-4461-b894-3f76421eb26e" type="box"
+							>9</container>
+						<container parent="1a694719-4db9-4461-b894-3f76421eb26e" type="folder"
+							>29</container>
+						<unittitle> Citizens' Public Utilities Committee; Utilities Purchase,
+							Mayor's Statement, <unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="bd56fa8f-778f-4f84-a0d4-dc47eac2a06a" type="box"
+							>9</container>
+						<container parent="bd56fa8f-778f-4f84-a0d4-dc47eac2a06a" type="folder"
+							>30-31</container>
+						<unittitle> Mid-Century Conference on Resources for the Future Steering
+							Committee, <unitdate>1953-1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7d14aba2-d27c-45df-aaa6-e8b93f3a760d" type="box"
+							>9</container>
+						<container parent="7d14aba2-d27c-45df-aaa6-e8b93f3a760d" type="folder"
+							>32</container>
+						<unittitle> Pima County Zoning, <unitdate>1928-1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0d3b7347-ed87-4676-985a-8d7709b6b8f2" type="box"
+							>9</container>
+						<container parent="0d3b7347-ed87-4676-985a-8d7709b6b8f2" type="folder"
+							>33</container>
+						<unittitle> Pulitzer Prize Committee,
+							<unitdate>1954-1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="683907ef-0e72-4c73-9a01-4650a4e929b2" type="box"
+							>9</container>
+						<container parent="683907ef-0e72-4c73-9a01-4650a4e929b2" type="folder"
+							>34</container>
+						<unittitle> State School Funds, <unitdate>1951-1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8c7b9ad7-01b1-45bc-ba70-e465aad3e366" type="box"
+							>10</container>
+						<container parent="8c7b9ad7-01b1-45bc-ba70-e465aad3e366" type="folder"
+							>1</container>
+						<unittitle> Sunshine Climate Club,
+							<unitdate>1951-1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="bb589cb5-def2-49b1-8863-fe4754ca5d5d" type="box"
+							>10</container>
+						<container parent="bb589cb5-def2-49b1-8863-fe4754ca5d5d" type="folder"
+							>2</container>
+						<unittitle> Tucson School Bond Elections,
+							<unitdate>1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4d90264f-9924-4426-a9a4-92b07ae77506" type="box"
+							>10</container>
+						<container parent="4d90264f-9924-4426-a9a4-92b07ae77506" type="folder"
+							>3</container>
+						<unittitle> United States Atomic Energy Commission,
+								<unitdate>1947</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f1455c16-1d87-4da8-8de6-61bc79730227" type="box"
+							>10</container>
+						<container parent="f1455c16-1d87-4da8-8de6-61bc79730227" type="folder"
+							>4</container>
+						<unittitle> Young Women's Christian Association; New Building Committee,
+								<unitdate normal="1950/1954" type="inclusive"
+							>1950-1954</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>Series VI:</unitid>
+					<unittitle>Travel Files, <unitdate>1937-1968</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p> This series documents Mr. Mathews' extensive international travels. The
+						files include travel itineraries, photographs, field notebooks, dispatches
+						and other writings and memorabilia. Arrangement is alphabetical.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="b6bc890a-47a6-46cc-ace6-7475781fc480" type="box"
+							>10</container>
+						<container parent="b6bc890a-47a6-46cc-ace6-7475781fc480" type="folder"
+							>5</container>
+						<unittitle> Africa; 1961, <unitdate>1961-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="079807fd-c950-444a-9fa3-4fd2525fdcd2" type="box"
+							>10</container>
+						<container parent="079807fd-c950-444a-9fa3-4fd2525fdcd2" type="folder"
+							>6</container>
+						<unittitle> Alaska, <unitdate>1957-1962</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4b882606-b717-4065-a615-7a8e59531695" type="box"
+							>10</container>
+						<container parent="4b882606-b717-4065-a615-7a8e59531695" type="folder"
+							>7-9</container>
+						<unittitle> Antarctica; 1961, <unitdate>1961-1962</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3d481139-b95f-492f-87fa-d72fecc94531" type="box"
+							>10</container>
+						<container parent="3d481139-b95f-492f-87fa-d72fecc94531" type="folder"
+							>10</container>
+						<unittitle> Bikini; 1946, <unitdate>1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="765cef68-1d63-4a09-922c-5a987b7b8256" type="box"
+							>10</container>
+						<container parent="765cef68-1d63-4a09-922c-5a987b7b8256" type="folder"
+							>11</container>
+						<unittitle> China; 1937, <unitdate>1937-1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0ebec826-5f92-4499-86a4-88a703513509" type="box"
+							>10</container>
+						<container parent="0ebec826-5f92-4499-86a4-88a703513509" type="folder"
+							>12</container>
+						<unittitle> Dutch Indonesia; 1949,
+							<unitdate>1949-1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c79e8412-0b53-4b45-baa5-c04807cd2e86" type="box"
+							>10</container>
+						<container parent="c79e8412-0b53-4b45-baa5-c04807cd2e86" type="folder"
+							>13</container>
+						<unittitle> Europe; 1945-1947, <unitdate>1945-1947</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="04f2a04a-d2e4-4aa5-951b-4fbcae0c87cc" type="box"
+							>10</container>
+						<container parent="04f2a04a-d2e4-4aa5-951b-4fbcae0c87cc" type="folder"
+							>14</container>
+						<unittitle> Europe; 1951, <unitdate>1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9918fd83-bbd1-4011-941c-8bed7ee222e3" type="box"
+							>10</container>
+						<container parent="9918fd83-bbd1-4011-941c-8bed7ee222e3" type="folder"
+							>15</container>
+						<unittitle> Germany; 1962, <unitdate>1962-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6ce2c949-0659-464f-b088-5f5b5e520f61" type="box"
+							>10</container>
+						<container parent="6ce2c949-0659-464f-b088-5f5b5e520f61" type="folder"
+							>16-17</container>
+						<unittitle> Korea; Dulles Mission; 1950,
+							<unitdate>1950-1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a83f8df6-9421-497c-99c9-dc179fcd50cf" type="box"
+							>10</container>
+						<container parent="a83f8df6-9421-497c-99c9-dc179fcd50cf" type="folder"
+							>18</container>
+						<unittitle> Near East; 1962, <unitdate>1962</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="df32207c-0df6-4c4d-b079-0627bec9a672" type="box"
+							>10</container>
+						<container parent="df32207c-0df6-4c4d-b079-0627bec9a672" type="folder"
+							>19-20</container>
+						<unittitle> Orient; 1945, <unitdate>1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2922e107-7a5f-4fea-8f5c-07ad2746da0a" type="box"
+							>11</container>
+						<container parent="2922e107-7a5f-4fea-8f5c-07ad2746da0a" type="folder"
+							>1</container>
+						<unittitle>Pearl Harbor; Aboard U.S.S. Oriskany (CVA34),
+								<unitdate>1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b80d3e59-4ad4-444c-9716-420f8b558dd0" type="box"
+							>11</container>
+						<container parent="b80d3e59-4ad4-444c-9716-420f8b558dd0" type="folder"
+							>2-3</container>
+						<unittitle>South America; 1955-1956,
+							<unitdate>1955-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9e32f983-0ae9-4bdd-9543-653ff7404985" type="box"
+							>11</container>
+						<container parent="9e32f983-0ae9-4bdd-9543-653ff7404985" type="folder"
+							>4</container>
+						<unittitle>South Viet Nam; 1966, <unitdate>1965-1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6f54c994-df32-4a40-84ac-7d6adc574d0c" type="box"
+							>11</container>
+						<container parent="6f54c994-df32-4a40-84ac-7d6adc574d0c" type="folder"
+							>5-6</container>
+						<unittitle>Soviet Union; 1954, <unitdate>1942-1957</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3f872887-18c2-4c62-8d45-9b3a6dfb544a" type="box"
+							>11</container>
+						<container parent="3f872887-18c2-4c62-8d45-9b3a6dfb544a" type="folder"
+							>7</container>
+						<unittitle>Venezuela; Meeting in Caracas, 1963,
+							<unitdate>1963</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>Series VII:</unitid>
+					<unittitle>Photographs, <unitdate>1886--1980</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>This series is divided into three subseries: General (1886-circa 1940),
+						Albums (1928-1969) and Oversize (1943-1980). General includes military
+						photographs that document U.S. Navy and Marine Corps training exercises and
+						facilities, World War I personal and aerial photos, and images of William R.
+						Mathews. Albums include photographs documenting Mr. Mathews' travels,
+						meetings with notable individuals and leaders, as well as his military
+						interests and public service activities. Of note are photographs documenting
+						the signing of the Japanese surrender ending World War II and images of the
+						Bikini Bomb Test from aboard the U.S.S. Appalachian. Oversize includes items
+						from both the General and Albums subseries and also includes the family
+						photographs of the Boyers and Mathews families.</p>
+				</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unitid>Subseries 1:</unitid>
+						<unittitle>General; <unitdate>1886-circa 1940</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="d59148c9-0235-406d-9075-6d57d945bb29" type="box"
+								>11</container>
+							<container parent="d59148c9-0235-406d-9075-6d57d945bb29" type="folder"
+								>8</container>
+							<unittitle> Marine Corps Air Station; Physical Fitness Center,
+									<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f1ae2fa4-ab91-44db-8941-e097139eb958" type="box"
+								>11</container>
+							<container parent="f1ae2fa4-ab91-44db-8941-e097139eb958" type="folder"
+								>9</container>
+							<unittitle> Navy Training, <unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="01f73c53-9b34-42cc-9fd3-3011984fd80b" type="box"
+								>11</container>
+							<container parent="01f73c53-9b34-42cc-9fd3-3011984fd80b" type="folder"
+								>10</container>
+							<unittitle> World War I, Aerial Photos of Battle Areas,
+									<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="88d88d1e-30c0-49f2-9dab-b512786fcac6" type="box"
+								>11</container>
+							<container parent="88d88d1e-30c0-49f2-9dab-b512786fcac6" type="folder"
+								>11</container>
+							<unittitle> World War I; Photos Carried by Mathews, William R.,
+									<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="359804c6-426a-49fd-bc2b-7f0e2382ca2c" type="box"
+								>11</container>
+							<container parent="359804c6-426a-49fd-bc2b-7f0e2382ca2c" type="folder"
+								>12</container>
+							<unittitle> Mathews and Boyers Family Photos, <unitdate>1886-circa
+									1940</unitdate></unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>Subseries 2:</unitid>
+						<unittitle>Albums, <unitdate>1928-1969</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="8fd4d464-6d03-49f3-ba83-893c5e2fef4c" type="box"
+								>11</container>
+							<container parent="8fd4d464-6d03-49f3-ba83-893c5e2fef4c" type="folder"
+								>13</container>
+							<unittitle> Japanese Military, <unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="849bb31d-55a2-416b-b034-37648c7c94f1" type="box"
+								>11</container>
+							<container parent="849bb31d-55a2-416b-b034-37648c7c94f1" type="folder"
+								>14</container>
+							<unittitle> Military and International Leaders,
+									<unitdate>1928-1969</unitdate></unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>Subseries 3:</unitid>
+						<unittitle>Oversize, <unitdate>1943-1980</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="cb8ebffe-15de-44b2-bfb2-ba68bc976622" type="box"
+								>12</container>
+							<container parent="cb8ebffe-15de-44b2-bfb2-ba68bc976622" type="folder"
+								>1</container>
+							<unittitle> Albums; International Travel,
+								<unitdate>1944-1968</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="95e7f680-7099-41c8-ba17-d6c39ba19baf" type="box"
+								>12</container>
+							<container parent="95e7f680-7099-41c8-ba17-d6c39ba19baf" type="folder"
+								>2-3</container>
+							<unittitle> Albums; Marine Corps and Navy,
+									<unitdate>1943-1963</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="6667a162-7cec-45d8-a11e-98b7261351d2" type="box"
+								>12</container>
+							<container parent="6667a162-7cec-45d8-a11e-98b7261351d2" type="folder"
+								>4-6</container>
+							<unittitle> Albums; Professional and Public Service.
+									<unitdate>1947-1965</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="3a9f9b1c-2d43-4ad1-89d3-18764b1af6c4" type="box"
+								>12</container>
+							<container parent="3a9f9b1c-2d43-4ad1-89d3-18764b1af6c4" type="folder"
+								>7</container>
+							<unittitle> Mathews, William R. <unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f5fe6582-e0c1-4e06-8737-3cd1b0034d03" type="box"
+								>12a</container>
+							<unittitle> 4 framed photographs of Mathews and Boyers family,
+									<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="033eeca9-8b29-4c15-8122-dee292433cfa" type="box"
+								>12a</container>
+							<unittitle> Framed certificate to Mrs. Betty Boyers; University of
+								Arizona Health Sciences Center,
+								<unitdate>1980</unitdate></unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>Series VIII:</unitid>
+					<unittitle>Scrapbooks, <unitdate>1916-1968</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p> This series is divided into three subseries: Military (1916-1968), Newspaper
+						Clippings (1942-1968) and Travel and Events (1945-1950, 1967). Military
+						includes documentation of Mr. Mathews' numerous military awards and
+						citations, extensive travels, meetings with notable individuals and military
+						and civilian leaders, speeches, writings, and memorabilia. Newspaper
+						Clippings document Mr. Mathews' prolific writing career as a journalist,
+						most notably as editor and publisher of the <title render="italic">Arizona
+							Daily Star</title> and his extensive travels. The writings of other
+						journalists on particular topics of interest to Mr. Mathews are also
+						documented in this subseries. Travel and Events document Mr. Mathews’
+						extensive travels and special events held in his honor. Arrangement is
+						alphabetical.</p>
+				</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unitid>Subseries 1:</unitid>
+						<unittitle>Military, <unitdate normal="1923/1968" type="inclusive"
+								>1923-1968</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="39888861-680c-4cef-a032-695453eb2747" type="box"
+								>13</container>
+							<container parent="39888861-680c-4cef-a032-695453eb2747" type="folder"
+								>1</container>
+							<unittitle> General Pershing's Funeral,
+								<unitdate>1948-1968</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="95119252-92d3-4be1-aaf3-946afb1387a4" type="box"
+								>13</container>
+							<container parent="95119252-92d3-4be1-aaf3-946afb1387a4" type="folder"
+								>2</container>
+							<unittitle> Military and Professional Awards,
+									<unitdate>1923-1966</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="2d3744ac-18bb-4838-8e24-46ac945fd1ae" type="box"
+								>13</container>
+							<container parent="2d3744ac-18bb-4838-8e24-46ac945fd1ae" type="folder"
+								>3</container>
+							<unittitle> World War I; Awards and Photographs.
+									<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="5ce57f13-6ed9-44ef-952f-68de434c0323" type="box"
+								>13</container>
+							<container parent="5ce57f13-6ed9-44ef-952f-68de434c0323" type="folder"
+								>4</container>
+							<unittitle> World War I; Photographs and Clippings.
+									<unitdate>1917-1919</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="fce83c7b-f747-4061-9764-5b81be792566" type="box"
+								>13</container>
+							<container parent="fce83c7b-f747-4061-9764-5b81be792566" type="folder"
+								>5</container>
+							<unittitle> World War II; Europe,
+								<unitdate>1916-1942</unitdate></unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>Subseries 2:</unitid>
+						<unittitle>Newspaper Clippings, <unitdate normal="1942/1965"
+								type="inclusive">1942-1965</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="6aecfafc-018c-4766-a5dd-ce33e9baaad0" type="box"
+								>14</container>
+							<container parent="6aecfafc-018c-4766-a5dd-ce33e9baaad0" type="folder"
+								>1</container>
+							<unittitle> Cuban Revolution, Africa, Alaska and Antarctica Trips,
+									<unitdate>1958-1961</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="f7a37424-6e93-4495-95c2-53bdd9d00047" type="box"
+								>14</container>
+							<container parent="f7a37424-6e93-4495-95c2-53bdd9d00047" type="folder"
+								>2</container>
+							<unittitle> Dutch Indonesia, Orient and Korea Trips; Public Service.
+									<unitdate>1948-1950</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="40611c29-730c-4713-8d41-b4e820641713" type="box"
+								>14</container>
+							<container parent="40611c29-730c-4713-8d41-b4e820641713" type="folder"
+								>3</container>
+							<unittitle> European Trip; Public Service.
+									<unitdate>1966-1968</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b9c2a1b1-3d5a-438b-a285-3e5f30077356" type="box"
+								>14</container>
+							<container parent="b9c2a1b1-3d5a-438b-a285-3e5f30077356" type="folder"
+								>4</container>
+							<unittitle> Mathews Newspaper Cartoon,
+								<unitdate>undated</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="b88a88b3-c3fa-4819-a74e-ee37a9816bd8" type="box"
+								>14</container>
+							<container parent="b88a88b3-c3fa-4819-a74e-ee37a9816bd8" type="folder"
+								>5</container>
+							<unittitle> Near East, Germany, Venezuela and Viet Nam Trips; Public
+								Service. <unitdate>1962-1965</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="889fca07-9912-4d17-aa05-9bf329cf02ba" type="box"
+								>15</container>
+							<container parent="889fca07-9912-4d17-aa05-9bf329cf02ba" type="folder"
+								>1</container>
+							<unittitle> Other Writers, <unitdate>1951-1953</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="d81178f6-15b2-42da-8f69-fbd27e7dd4d5" type="box"
+								>15</container>
+							<container parent="d81178f6-15b2-42da-8f69-fbd27e7dd4d5" type="folder"
+								>2</container>
+							<unittitle> Soviet Union Trip,
+								<unitdate>1945-1951</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="31e277c7-c65d-4863-b6a0-99ad37a5651e" type="box"
+								>15</container>
+							<container parent="31e277c7-c65d-4863-b6a0-99ad37a5651e" type="folder"
+								>3</container>
+							<unittitle> World War II; Atomic Bomb, England and Near East Trips,
+									<unitdate>1942-1947</unitdate></unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>Subseries 3:</unitid>
+						<unittitle>Travel and Events, <unitdate>1945-1950,
+							1967</unitdate></unittitle>
+					</did>
+					<c03 level="file">
+						<did>
+							<container id="a793ca70-37a4-4465-8ef2-3d9563adfcee" type="box"
+								>15a</container>
+							<unittitle>500 Arizonans Honor Star's Editor at Banquet,
+									<unitdate>1966</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="98de1e44-4618-4064-a924-8c58940cca79" type="box"
+								>15a</container>
+							<unittitle>The Bikini 'A' Bomb Test; Aboard the USS Appalachian,
+									<unitdate>1946</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="0cec7ab0-3140-48f7-88ea-08c1726e571a" type="box"
+								>15a</container>
+							<unittitle>From London to Toyko, <unitdate>1945</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="563eda77-ed50-4c3f-b298-68bd239928ca" type="box"
+								>15a</container>
+							<unittitle>Letters from the Pacific and the Third Fleet,
+									<unitdate>Summer 1945</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="6c7b7025-e55d-40b3-a691-c1cdfe4dc727" type="box"
+								>15a</container>
+							<unittitle>General Lemuel C. Shepherd Jr. Visit, <unitdate>May
+									1967</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="eb9ecf4f-c9e9-4654-b5c5-093416716e34" type="box"
+								>15a</container>
+							<unittitle>Korea, the 38th parallel and Toyko,
+								<unitdate>1950</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="6cee0aaf-5aee-4ae4-89f4-79ee4f9ea382" type="box"
+								>15a</container>
+							<unittitle>Letters from Europe and the Mediterranean, <unitdate>Summer
+									1947</unitdate></unittitle>
+						</did>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container id="bf6f8052-678f-435e-8c41-3a81c798a78f" type="box"
+								>15a</container>
+							<unittitle>Letters from Indonesia and the Pacific, <unitdate>Summer
+									1949</unitdate></unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>Series IX:</unitid>
+					<unittitle>William R. Mathews Family Papers,
+						<unitdate>1939-1966</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>The William R. Mathews Family Papers document the correspondence of Mr.
+						Mathews’ mother as well as correspondence regarding the potential
+						publication of her handwritten autobiography. Also included are several
+						writings regarding the Strong family including historical sketches and
+						genealogical notes representing Mother Mathews’ family.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="9b8022b1-36a6-40fd-8579-bb79b34102a4" type="box"
+							>16</container>
+						<container parent="9b8022b1-36a6-40fd-8579-bb79b34102a4" type="folder"
+							>1</container>
+						<unittitle>Correspondence: Mathews, William R. Re: publication of “Mother
+							Mathews Life Story”, <unitdate>1943-1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7cf03b5d-071e-4063-95ac-edcfa731492f" type="box"
+							>16</container>
+						<container parent="7cf03b5d-071e-4063-95ac-edcfa731492f" type="folder"
+							>2</container>
+						<unittitle>Correspondence: Mother Mathews,
+							<unitdate>1942</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="84af8acb-b00d-4671-9f26-11fcb51de923" type="box"
+							>16</container>
+						<container parent="84af8acb-b00d-4671-9f26-11fcb51de923" type="folder"
+							>3</container>
+						<unittitle>"Mother Mathews Life Story"; copy, <unitdate>circa
+								1965</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="bd1ef7cc-9c29-4de0-852e-2bc8db68c207" type="box"
+							>16</container>
+						<container parent="bd1ef7cc-9c29-4de0-852e-2bc8db68c207" type="folder"
+							>4</container>
+						<unittitle>"Mother Mathews Life Story"; Original draft,
+								<unitdate>1939</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f9e65ea6-3c24-4b1e-9af9-d8a9c9f0bee1" type="box"
+							>16</container>
+						<container parent="f9e65ea6-3c24-4b1e-9af9-d8a9c9f0bee1" type="folder"
+							>5</container>
+						<unittitle>Sketch of the Life of Robert T. Mathews,
+								<unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c5fea47d-d0d4-4f67-ae76-4f1f109fdf34" type="box"
+							>16</container>
+						<container parent="c5fea47d-d0d4-4f67-ae76-4f1f109fdf34" type="folder"
+							>6</container>
+						<unittitle>The Strong Family in Indiana,
+							<unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5899b94d-f129-462d-b605-f4a9b613e87d" type="box"
+							>16</container>
+						<container parent="5899b94d-f129-462d-b605-f4a9b613e87d" type="folder"
+							>7</container>
+						<unittitle>Typed copies of Strong Family History,
+								<unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="48490637-3458-4b3d-a143-259f7dff094c" type="box"
+							>16</container>
+						<container parent="48490637-3458-4b3d-a143-259f7dff094c" type="folder"
+							>8</container>
+						<unittitle>The Western Branch of the Strong Family by Clara Murray Mathews,
+								<unitdate>1943</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>Series X:</unitid>
+					<unittitle>Betty B. Mathews Family Papers,
+						<unitdate>1870-1975</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>This series documents Bettty B. Mathews and the Boyers family through
+						correspondence, journals and diaries. It also includes various papers
+						relating to Betty B. Mathews, including hand copied medical research
+						articles.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="34814626-a668-4b45-b090-872544e3da92" type="box"
+							>17</container>
+						<container parent="34814626-a668-4b45-b090-872544e3da92" type="folder"
+							>1</container>
+						<unittitle>Betty B. Mathews Journal, <unitdate>1972</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="38a69030-e35e-4a52-8b26-1036ec06c8da" type="box"
+							>17</container>
+						<container parent="38a69030-e35e-4a52-8b26-1036ec06c8da" type="folder"
+							>2</container>
+						<unittitle>Betty B. Mathews Trips Journal,
+							<unitdate>1935-1937</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6c7199e0-2929-4086-8f2c-75846bb8be5e" type="box"
+							>17</container>
+						<container parent="6c7199e0-2929-4086-8f2c-75846bb8be5e" type="folder"
+							>3</container>
+						<unittitle>Correspondence: Butler University,
+							<unitdate>1972-1975</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ebec20ec-ea7d-4aeb-b59b-43bf9604e528" type="box"
+							>17</container>
+						<container parent="ebec20ec-ea7d-4aeb-b59b-43bf9604e528" type="folder"
+							>4</container>
+						<unittitle>Correspondence: Mathews, Betty B.,
+							<unitdate>1971-1973</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8575cf44-7438-4584-8040-5a03934fd95e" type="box"
+							>17</container>
+						<container parent="8575cf44-7438-4584-8040-5a03934fd95e" type="folder"
+							>5</container>
+						<unittitle>Diary of Eva E. Boyers,
+							<unitdate>1927-1937</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="01dce611-79fb-4c73-bae2-716ebe8aaa4a" type="box"
+							>17</container>
+						<container parent="01dce611-79fb-4c73-bae2-716ebe8aaa4a" type="folder"
+							>6</container>
+						<unittitle>Diary of Mrs. J.S. Boyers,
+							<unitdate>1890-1909</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="44e4e6b5-54ee-485a-9ebf-d897b864961a" type="box"
+							>17</container>
+						<container parent="44e4e6b5-54ee-485a-9ebf-d897b864961a" type="folder"
+							>7</container>
+						<unittitle>J.S. Boyers; Account of Experiences,
+								<unitdate>1870-1879</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="255d603e-f785-4827-987e-e2d6a7fba189" type="box"
+							>17</container>
+						<container parent="255d603e-f785-4827-987e-e2d6a7fba189" type="folder"
+							>8</container>
+						<unittitle>Medical Research Materials, <unitdate>1970</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="34cc0c10-12c6-4bda-91de-41cdbb18e093" type="box"
+							>17</container>
+						<container parent="34cc0c10-12c6-4bda-91de-41cdbb18e093" type="folder"
+							>9</container>
+						<unittitle>"Silent Influences"; James S. Boyers,M.D., <unitdate>circa
+								1900</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>Series XI:</unitid>
+					<unittitle>Magazine and Newspaper Clippings,
+						<unitdate>1949-1974</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>This series consists of newspaper clippings collected by William R. Mathews
+						and his wife Betty B. Mathews. Clippings and magazines relating to Watergate
+						and Richard Nixon’s resignation as President of the United States are also
+						represented in this series. These materials were collected by Betty B.
+						Mathews after the death of William R. Mathews.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="fdb2790f-3daf-491a-bc63-58efc6c4cc7f" type="box"
+							>18</container>
+						<container parent="fdb2790f-3daf-491a-bc63-58efc6c4cc7f" type="folder"
+							>1</container>
+						<unittitle><title render="italic">Arizona Daily Star</title>,
+								<unitdate>1949-1953, 1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="72662b6f-9232-4ed4-b1e7-8aca35b9cd49" type="box"
+							>18</container>
+						<container parent="72662b6f-9232-4ed4-b1e7-8aca35b9cd49" type="folder"
+							>2</container>
+						<unittitle>National Newspapers, <unitdate>1949-1962,
+							1973</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="03df3f8a-6f07-4e07-bb57-3b4f5f6dd518" type="box"
+							>18</container>
+						<container parent="03df3f8a-6f07-4e07-bb57-3b4f5f6dd518" type="folder"
+							>3</container>
+						<unittitle>NNixon Related Clippings,
+							<unitdate>1972-1973</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5ea36beb-4ca0-4f7b-a61b-d0927220b66e" type="box"
+							>18</container>
+						<container parent="5ea36beb-4ca0-4f7b-a61b-d0927220b66e" type="folder"
+							>4</container>
+						<unittitle>Nixon Related Magazines,
+							<unitdate>1973-1974</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b9ac6fe6-c72a-4837-a32c-b1993449ace0" type="box"
+							>18</container>
+						<container parent="b9ac6fe6-c72a-4837-a32c-b1993449ace0" type="folder"
+							>5</container>
+						<unittitle>Scrapbook of Nixon Related Political Cartoons,
+								<unitdate>1973</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unitid>Series XII:</unitid>
+					<unittitle>Ledgers, <unitdate>1916-undated</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>This series consists of ledgers belonging to William R. Mathews during his
+						undergraduate education at the University of Illinois. Accounts and receipts
+						for dairy purchases are noted, along with the account name. Most accounts
+						were held by University of Illinois fraternities and sororities.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="afd88d90-f553-4ccc-a59d-8b344f69d681" type="box"
+							>19</container>
+						<unittitle>Ledger, <unitdate>1916</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2a58a29d-6fa4-4340-a748-cad37281fc10" type="box"
+							>19</container>
+						<unittitle>Ledger, <unitdate>1916</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="af3850a1-c123-489d-95f7-2c5dfb91b07c" type="box"
+							>19</container>
+						<unittitle>Ledger, <unitdate>undated</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

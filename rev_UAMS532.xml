@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid encodinganalog="852">UAMS532</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title"> Jacob C. Solovay Papers,
+	 		<date calendar="gregorian" certainty="approximate" era="ce" normal="1947/1988" type="inclusive">1947-1988</date>
+	 		</titleproper>
+	 	<titleproper altrender="nodisplay" type="filing"> Solovay, Jacob C. Papers,
+	 		</titleproper>
+	 	<author>Processed by Ofelia Zepeda.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date calendar="gregorian" era="ce" normal="2014">2014</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Katie Young. 
+  		<date encodinganalog="date" era="ce" normal="20141204">December 4, 2014</date></creation>
+	 <langusage>Finding aid is in<language langcode="eng"> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-23">2017-06-23</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+
+	<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name"> Jacob C. Solovay Papers,
+  		<unitdate label="Dates" normal="1947/1988" type="inclusive">1947-1988</unitdate></unittitle>
+	 <unitid countrycode="US" encodinganalog="MS532" label="Collection Number" repositorycode="US-azu">MS 532</unitid>
+	 <origination label="Creator"> 
+	 	<persname encodinganalog="100" source="lcnaf">Solovay, Jacob C.</persname> </origination>
+  	<abstract label="Abstract">The collection of Jacob C. Solovay contains unpublished and published poetry; two unpublished manuscripts; and personal correspondence pertaining to Mr. Solovay’s published material. </abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description"><extent>1.25 linear ft.</extent></physdesc>	 
+	 <repository label="Repository"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Jacob C. Solovay Papers (MS 532). Special Collections, University of Arizona Libraries.</p>
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Jacob “Jack” C. Solovay (1909-1986) was a high school English teacher and journalism adviser at Fort Hamilton High School in Brooklyn, New York. In 1964, he was the Columbia Scholastic Press’s Gold Key Recipient as recognition for his teaching excellence and advising in journalism. After developing heart health issues, Mr. Solovay and his wife Ethel retired to Tucson. Meanwhile, Mr. Solovay published two collections of poetry, <title render="italic" />Headspins of a Pedagog (1959) and <title render="italic">Sherlock Holmes: Two Sonnet Sequences </title>(1969). Additionally, some 200 separate poems were reproduced in many publications ranging from the English Review to the New York Times. His publications span between the years 1947-1970.  His poetry addressed light and serious tones, education, literature, nature, and philosophy.</p> <p>Upon his passing, Mr. Solovay’s family and friends bestowed memorial donations of his published titles to the University of Arizona Poetry Center as well as a combined collection of his published titles and a selection of his favorite works of literature to the Wilmot Branch of the Pima County Public Library in 1988.</p>
+  </bioghist> 
+  <arrangement encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into 3 series.</p>	 
+  	<list>
+  		<item>Series I:Poetry
+  			<unitdate>1947-1970</unitdate></item>
+  		<item>Series II:Manuscripts
+  			<unitdate>Undated</unitdate></item>
+  		<item>Series III:Correspondence
+  			<unitdate>1958-1988</unitdate></item>
+  	</list>
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>This collection mainly consists of Jacob C. Solovay’s poetry and manuscripts. There is not much information on Solovay’s personal life in this collection. The poetry series consists of two parts, unpublished and published poetry.  The unpublished poetry is divided into light and serious volumes. The light unpublished poetry consists of a solitary volume and folder containing his wife’s favorite unpublished works. The unpublished serious poetry is divided into two volumes, A-M and N-Z. The published poetry is self-bound and loose-leaf with a listing of corresponding publications.  The second series of the collection also includes two unpublished manuscripts written in mixed points of view. One manuscript is titled, Peppy, the Story of a House Finch which includes the point of view of a house finch and that of Mr. Jess.  The second manuscript is titled, Mama is a Hummingbird, which is told from the point of view a black chin hummingbird and that of Mr. Jess, a shared character in both manuscripts. The third series is correspondence which contains Christmas cards imprinted with his poetry. There are also letters regarding Mr. Solovay’s poetry and donations to the Wilmot Branch of the Pima County Public Library.</p> 
+  </scopecontent> 
+	
+  	<controlaccess>
+  		<subject>Education-- Teachers-- High School--Literature.</subject><subject>Nature--Fiction</subject><geogname>Tucson--Arizona--United States.</geogname><subject>Poetry—Light Verse</subject><subject>Verses (Poetry)</subject></controlaccess>
+  
+<dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+			<unittitle>Series I: Poetry</unittitle> 
+			<unitdate type="inclusive">1947-1970</unitdate>
+		</did>
+	 	<scopecontent><p>Contains unpublished light and serious verse and published verse.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="fa95ce1a-8f12-46cd-9b1e-3ca586a7e680" type="box">1</container> 
+				<container parent="fa95ce1a-8f12-46cd-9b1e-3ca586a7e680" type="folder">1</container> 
+				<unittitle>Unpublished Light Verse,</unittitle>
+				<unitdate>Undated</unitdate>
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6bed287c-5881-4c73-b4ca-c12e6639b171" type="box">1</container> 
+	 			<container parent="6bed287c-5881-4c73-b4ca-c12e6639b171" type="folder">2</container> 
+	 			<unittitle>Unpublished Serious Verse A-M,</unittitle>
+	 			<unitdate>Undated</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="810b1224-2a1f-48ba-ac30-cdc353278d3a" type="box">1</container> 
+	 			<container parent="810b1224-2a1f-48ba-ac30-cdc353278d3a" type="folder">3</container> 
+	 			<unittitle>Unpublished Serious Verse N-Z,</unittitle>
+	 			<unitdate>Undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="df869edb-9a1e-4958-9d15-548140835c4c" type="box">1</container> 
+	 			<container parent="df869edb-9a1e-4958-9d15-548140835c4c" type="folder">4</container> 
+	 			<unittitle>The English Review,</unittitle>
+	 			<unitdate>1959</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="73730e2d-4013-4899-932f-a7084954a80a" type="box">2</container> 
+	 			<container parent="73730e2d-4013-4899-932f-a7084954a80a" type="folder">1</container> 
+	 			<unittitle>Published Poems: Volume 1,</unittitle>
+	 			<unitdate>1947-1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6e397700-42de-4a33-af43-803bc8dbbedf" type="box">2</container> 
+	 			<container parent="6e397700-42de-4a33-af43-803bc8dbbedf" type="folder">2</container> 
+	 			<unittitle>Published Poems: Volume 2,</unittitle>
+	 			<unitdate>1957-1970</unitdate>
+	 		</did> 
+	 	</c02>
+	 </c01> 
+	<c01 level="series"> 
+		<did> 
+			<unittitle>Series II: Manuscripts</unittitle> 
+			<unitdate type="inclusive">Undated</unitdate>
+		</did>
+		<scopecontent><p>This series contains Solovay’s unpublished manuscripts.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="1a4f9da7-605d-4452-afac-c6dc40f12197" type="box">2</container> 
+				<container parent="1a4f9da7-605d-4452-afac-c6dc40f12197" type="folder">3</container> 
+				<unittitle>Peppy, the Story of a House Finch, Contains A Table of Contents, Chapter synopses, Author’s Note,</unittitle>
+				<unitdate>Undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="17e41d94-f493-4103-beae-cc1bfcf50797" type="box">2</container> 
+				<container parent="17e41d94-f493-4103-beae-cc1bfcf50797" type="folder">4</container> 
+				<unittitle>Mama is a Hummingbird: Original Manuscript,</unittitle>
+				<unitdate>Undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container id="73d77dcd-ae29-432f-991e-5c45e4f606b2" type="box">2</container> 
+				<container parent="73d77dcd-ae29-432f-991e-5c45e4f606b2" type="folder">5</container> 
+				<unittitle>Peppy, the Story of a House Finch, Chapter 5: Chatterboxes,</unittitle>
+				<unitdate>Undated</unitdate>
+			</did> 
+		</c02>
+		
+		
+	</c01>
+	<c01 level="series"> 
+		<did> 
+			<unittitle>Series III: Personal Correspondence</unittitle> 
+			<unitdate type="inclusive">1958-1988</unitdate>
+		</did>
+		<scopecontent><p>Solovay’s correspondence contains a listing of publications, Christmas card poems, and letters of awards. </p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="6a8a1f6c-c0d0-4b07-8bb0-8b07d7784ff7" type="box">3</container> 
+				<container parent="6a8a1f6c-c0d0-4b07-8bb0-8b07d7784ff7" type="folder">1</container> 
+				<unittitle>Correspondence,</unittitle>
+				<unitdate>1958-1988</unitdate>
+			</did> 
+		</c02>
+		</c01>
+	
+  </dsc> 
+</archdesc></ead>

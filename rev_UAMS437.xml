@@ -1,0 +1,705 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="complete" langencoding="ISO_639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid encodinganalog="856$u">UAMS437</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="245">Leo Goldschmidt Photograph Collection, <date encodinganalog="245$f">1878-1899 </date>
+               <num>MS 437</num>
+            </titleproper>
+            <author audience="internal">Processed by Helen Quihuis &amp; Edna Galvez</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>University of Arizona Libraries, Special Collections</publisher>
+            <date calendar="gregorian" era="ce">2010</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Machine-readable finding guide and skeletal markup derived via template; markup checked and completed by Helen F. Quihuis, 
+            <date calendar="gregorian" era="ce">May 2010</date>
+         </creation>
+         <langusage>Finding guide is in <language langcode="eng">English</language>
+         </langusage>
+      </profiledesc>
+   <revisiondesc><change><date normal="2017-06-22">2017-06-22</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader>
+   <archdesc encodinganalog="351$c" level="collection">
+      <did>
+         <unittitle>Leo Goldschmidt Photograph Collection
+            <unitdate normal="1878/1899" type="inclusive">1878-1899,</unitdate>
+         <unitdate normal="1880/1889" type="bulk">(bulk 1880-1889)</unitdate></unittitle>
+         <unitid countrycode="US" encodinganalog="099" repositorycode="US-azu">Collection Number: MS 437</unitid>
+         <origination label="Creator"><persname encodinganalog="100" rules="aacr2">Goldschmidt, Leo</persname></origination>
+         <abstract encodinganalog="520">Glass plate negatives and some printed material, 1878-1899 (bulk 1880-1889). The bulk of the material is comprised of the photographic plates taken by Leo Goldschmidt, a pioneer of the Tucson area. The plates cover a range of persons, subjects and locations, including; family, businesses, personal residences in Arizona and Sonora, Mexico.</abstract>
+         <physdesc><extent encodinganalog="300">2 linear feet</extent></physdesc>
+         <langmaterial>
+            <language encodinganalog="546" langcode="eng">English</language>
+         </langmaterial>
+         <repository label="Repository"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+               <addressline>PO Box 210055</addressline> 
+               <addressline>Tucson, AZ 85721-0055</addressline> 
+               <addressline>Phone: 520-621-6423</addressline> 
+               <addressline>Fax: 520-621-9733</addressline> 
+               <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+            </address></repository> 
+      </did>
+      <descgrp type="admininfo">
+         <accessrestrict encodinganalog="506">
+            <p>None</p></accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>It is the responsibility of the user to obtain permission to publish
+               from the owner of the copyright (the institution, the creator of the record,
+               the author or his/her transferees, heirs, legates, or literary executors). The
+               user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+               University of Arizona, its officers, employees, and agents from and against all
+               claims made by any person asserting that he or she is an owner of
+               copyright.</p>
+         </userestrict>
+         
+         <prefercite encodinganalog="524">
+            <p>Leo Goldschmidt Photograph Collection (MS 437). Special Collections, University of Arizona Libraries.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist encodinganalog="545"><head>Biographical Note</head>
+         <p>Leo Goldschmidt was born September 15, 1852 in Hamburg, Germany, died January 25, 1944 in Tucson, Arizona. Goldschmidt came to the United States at the age of eighteen where he later became a successful businessman and amateur photographer.</p>
+         <p>He began his business career in New Mexico with his brother, Adolf and moved to Tucson Arizona in 1878 where he opened a furniture store that later became the furniture department of the Zeckendorf and Steinfeld department stores.  In 1888, he bought the Eagle Flour Milling Company and built it into the most modern mills of its time. He was also a director of the Consolidated National Bank which later became the Valley National Bank and is now Chase Bank.</p>
+         <p>The glass plates cover a range of persons, subjects and locations including family, businesses, personal residences in the Arizona and Sonora, Mexico area. One of his four sisters, Eva, was married to Jacob Mansfeld, another pioneer in the Tucson area.</p>
+      </bioghist>
+      <arrangement encodinganalog="351$a">
+         <p>This Collections is arranged into 3 series</p>
+         <list>
+            <item>Series 1: People <unitdate>1880-1899</unitdate></item>
+            <item>Series 2: Subjects <unitdate>1880-1899</unitdate></item>
+            <item>Series 3: Places <unitdate>1880-1899</unitdate></item>
+         </list>
+      </arrangement>
+      <scopecontent encodinganalog="520">
+         <p>Glass plate negatives (bulk 1880-1899). The bulk of the collection is comprised of glass plates of Leo Goldschmidt and family members at their Tucson residences. Goldschmidt was never married and many of his photographs are of his nieces and nephews. The collection also consists of plates of Goldschmidt businesses and places of interest in Arizona, such as the Eagle Milling Company, San Xavier Del Bac Mission and the University of Arizona.</p>
+      </scopecontent>
+      <relatedmaterial><p>University of Arizona Special Collections, Bloom Southwest Jewish Archives, SJA 002
+         Arizona Historical Society/Tucson, Goldschmidt photograph collection, ca. 1885-1920.</p></relatedmaterial>
+      <controlaccess>
+         <persname encodinganalog="600" source="lcnaf">Goldschmidt, Leo, 1852-1944 -- Photographs. </persname>
+         <famname encodinganalog="600" source="lcnaf">Goldschmidt family -- Photographs. </famname>
+         <famname encodinganalog="600" source="local">Mansfeld family -– Photographs</famname>
+         <corpname encodinganalog="610" source="lcnaf">Campana Mill (Sonora, Mexico) -– Photographs </corpname>
+         <corpname encodinganalog="610" source="local">Eagle Flour Mill (Tucson, Ariz.)-- Photographs</corpname>
+         <corpname encodinganalog="610" source="lcnaf">Mission San Xavier del Bac (Tucson, Ariz.) -– Photographs</corpname>
+         <corpname encodinganalog="610" source="local">Old Main (Tucson, Ariz.) -– Photographs</corpname>
+         <corpname encodinganalog="610" source="local">Owl’s Club (Tucson, Ariz.) -- Photographs</corpname>
+         <corpname encodinganalog="610" source="lcnaf">University of Arizona -– Photographs</corpname>
+         <subject encodinganalog="650" source="lcsh">Bankers -– Arizona -– Tucson -– History</subject>
+         <subject encodinganalog="650" source="lcsh">Businessmen -– Arizona -– Tucson -- History.</subject>
+         <subject encodinganalog="650" source="lcsh">Flour mills -– Arizona -– Tucson -- History</subject>
+         <subject encodinganalog="650" source="lcsh">Furniture industry and trade -– Arizona -– Tucson -- History</subject>
+         <subject encodinganalog="650" source="lcsh">Merchants – Arizona – Tucson – History</subject>
+         <subject encodinganalog="650" source="lcsh">Pioneers -– Arizona – Tucson -- History</subject>
+         <geogname encodinganalog="651" source="lcsh">Baboquivari Peak (Ariz.) -– Photographs </geogname>
+         <geogname encodinganalog="651" source="local">Sentinel Peak (Tucson, Ariz.) -– Photographs</geogname>
+         <geogname encodinganalog="651" source="lcsh">Santa Cruz River (Ariz. and Mexico) -– Photographs</geogname>
+         <geogname encodinganalog="651" source="lcsh">Sonora (Mexico : State) -– History -– Photographs</geogname>
+         <geogname encodinganalog="651" source="lcsh">Tucson (Ariz.) -– History -– Photographs</geogname>
+         <genreform encodinganalog="655" source="tgm">glass negatives</genreform>
+      </controlaccess>
+      <dsc type="combined">
+         <c01 level="series">
+            <did><unittitle>Series I: People, 1880-1899</unittitle></did>
+            <arrangement><p>Arrangement: Alphabetical. This series contains glass plates of Leo Goldschmidt’s sisters, nieces, nephews and other family members in Tucson, Arizona. It also contains plates of Leo Goldschmidt and others at one of his places of business, La Campana Mill in Sonora, Mexico. </p></arrangement>
+               <c02 level="file">
+                  <did><unittitle>Bertho and nurse </unittitle>
+                     <unitdate normal="1899">1899 </unitdate>
+                     <container id="b11a7b3c-c574-4d2c-bdfa-858e2b6ca681" type="Box">1</container>
+                     <container parent="b11a7b3c-c574-4d2c-bdfa-858e2b6ca681" type="Folder">1</container></did>
+               </c02>    
+<c02 level="file">
+   <did><unittitle>Eza, Beckie and friend under an umbrella</unittitle>
+      <unitdate normal="1887">1887</unitdate>
+   <container id="164502e2-cdee-4c6e-9f2d-79d48dabbd77" type="Box">1</container>
+   <container parent="164502e2-cdee-4c6e-9f2d-79d48dabbd77" type="Folder">2</container></did> 
+</c02>
+<c02 level="file">
+   <did><unittitle>Fenner, Gibbon &amp; Rocha in Gibbons yard<unitdate>1890</unitdate></unittitle>
+   <container id="b08e1298-7cc5-45ae-982f-aa2f0391c922" type="Box">1</container>
+   <container parent="b08e1298-7cc5-45ae-982f-aa2f0391c922" type="Folder">3</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Fenner, Mrs., Miss Henmore and Mr. Blake (by Herbert Tenney)<unitdate>1800s</unitdate> </unittitle>
+   <container id="0730ef99-6051-4b94-8080-71d1ba36e277" type="Box">1</container>
+   <container parent="0730ef99-6051-4b94-8080-71d1ba36e277" type="Folder">4</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Gertrude<unitdate>1887</unitdate></unittitle>
+   <container id="023258a1-b398-42f1-a26e-43c999ab4d89" type="Box">1</container>
+   <container parent="023258a1-b398-42f1-a26e-43c999ab4d89" type="Folder">5</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Gilchrist and myself at El Grupo Sonora<unitdate>1895</unitdate> </unittitle>
+   <container id="508a6ff3-be3e-4e25-aa2f-49aa1395c075" type="Box">1</container>
+   <container parent="508a6ff3-be3e-4e25-aa2f-49aa1395c075" type="Folder">6</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Goldschmidt sisters: Mrs. Adolf Goldschmidt, Mrs. Erce Mansfeld, Mrs. Gertrude Florsheim, Mrs. Aaron Zeckendorf, Mrs. Helen Leventhal<unitdate>1880s</unitdate></unittitle>
+      <physdesc><extent>2 plates</extent></physdesc>
+      <container id="16e3bb14-7ba7-4880-8497-1538aad3179a" type="Box">1</container>
+   <container parent="16e3bb14-7ba7-4880-8497-1538aad3179a" type="Folder">7,8</container></did>
+   
+</c02>
+<c02 level="file">
+   <did><unittitle>Goldschmidt, Doris<unitdate>1897</unitdate></unittitle>
+   <container id="06c73c18-a9ec-4761-a451-0876b2742fae" type="Box">1</container>
+   <container parent="06c73c18-a9ec-4761-a451-0876b2742fae" type="Folder">9</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Goldschmidt, Leo<unitdate>1800s</unitdate></unittitle>
+      <physdesc><extent>2 plates</extent></physdesc>
+   <container id="395ffabe-367e-44a7-893e-c10464df4f4a" type="Box">1</container>
+   <container parent="395ffabe-367e-44a7-893e-c10464df4f4a" type="Folder">10, 11, 12</container></did>
+</c02>
+ <c02 level="file">
+    <did><unittitle>Goldschmidt, Leo (bedroom)<unitdate>1800s</unitdate> </unittitle>
+    <container id="d72317ae-2774-4dbf-8244-895e8fdc34c5" type="Box">1</container>
+    <container parent="d72317ae-2774-4dbf-8244-895e8fdc34c5" type="Folder">13</container></did>
+ </c02>
+ <c02 level="file">
+    <did><unittitle>Goldschmidt, Leo (yard)<unitdate>1800s</unitdate></unittitle>
+    <container id="4b600112-4ea3-4d6e-985c-f37daf099032" type="Box">1</container>
+    <container parent="4b600112-4ea3-4d6e-985c-f37daf099032" type="Folder">14</container></did>
+ </c02>
+ <c02 level="file">
+    <did><unittitle>Goldschmidt, Leo (?) Portrait of man<unitdate>1800s</unitdate> </unittitle>
+    <container id="bfad9d33-2b00-452e-bebf-6155f9b69056" type="Box">1</container>
+    <container parent="bfad9d33-2b00-452e-bebf-6155f9b69056" type="Folder">15</container></did>
+ </c02>
+<c02 level="file">
+   <did><unittitle>Goldschmidt, Samuel – First baby picture<unitdate>1895</unitdate> </unittitle>
+   <container id="6592febc-586d-4afb-a0ae-7cd2b093024a" type="Box">1</container>
+   <container parent="6592febc-586d-4afb-a0ae-7cd2b093024a" type="Folder">16</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Helen, Marianne and Hannah at Gibbon garden Tucson, Arizona<unitdate>1887</unitdate> </unittitle>
+   <container id="28847f61-c377-464a-b6ff-46508e5df918" type="Box">1</container>
+   <container parent="28847f61-c377-464a-b6ff-46508e5df918" type="Folder">17</container></did>
+</c02>
+ <c02 level="file">
+    <did><unittitle>Howe, Charlie on horseback<unitdate>1889</unitdate> </unittitle>
+    <container id="541e4cf4-e17e-44bf-815d-d164ed85f02b" type="Box">1</container>
+    <container parent="541e4cf4-e17e-44bf-815d-d164ed85f02b" type="Folder">18</container></did>
+ </c02>
+ <c02 level="file">
+    <did><unittitle>Indian Duzlinga at El Toen Sonora, México<unitdate>February 1897</unitdate> </unittitle>
+    <container id="a4eb2dfd-fae9-4f1c-853c-a0bbbc0e5ebd" type="Box">1</container>
+    <container parent="a4eb2dfd-fae9-4f1c-853c-a0bbbc0e5ebd" type="Folder">19</container></did>
+ </c02>
+<c02 level="file">
+<did><unittitle>Luke and his barnyard at El Grupo (Sonora, Mexico)<unitdate>July 1896</unitdate> </unittitle>
+   <container id="964753a5-75d9-4b5c-9b3f-9fd7b64d1a00" type="Box">1</container>
+   <container parent="964753a5-75d9-4b5c-9b3f-9fd7b64d1a00" type="Folder">20</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Mansfeld, Eva<unitdate>1888 or 1889</unitdate></unittitle>
+   <container id="fc019cfc-777d-4c2c-ab1f-024a6c598d96" type="Box">2</container>
+   <container parent="fc019cfc-777d-4c2c-ab1f-024a6c598d96" type="Folder">1</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Mansfeld, Sammie on bike<unitdate>1894</unitdate></unittitle>
+   <container id="820d0df1-0641-4a51-994c-ca61543504a1" type="Box">2</container>
+      <physdesc><extent>3 plates</extent></physdesc>
+   <container parent="820d0df1-0641-4a51-994c-ca61543504a1" type="Folder">2, 3, 4</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Phyllis, Jeanne Z (Zeckendorf?) and two friends in Mansfeld Yard Tucson, Arizona <unitdate>1894</unitdate></unittitle>
+   <container id="a2665663-26a3-4052-b36d-2a4257544d05" type="Box">2</container>
+   <container parent="a2665663-26a3-4052-b36d-2a4257544d05" type="Folder">5</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Unidentified Kids dancing (family)<unitdate>1800s</unitdate>)</unittitle>
+   <container id="d2f759e7-71fd-4942-8628-81a677db96fa" type="Box">2</container>
+   <container parent="d2f759e7-71fd-4942-8628-81a677db96fa" type="Folder">6</container></did>
+</c02>
+ <c02 level="file">
+    <did><unittitle>Unidentified kids on a step ladder 1895<unitdate>1895</unitdate></unittitle>
+       <physdesc><extent>2 plates</extent></physdesc>
+    <container id="4d010cbf-59ee-4fe4-b5e5-93c5f3146bd0" type="Box">2</container>
+    <container parent="4d010cbf-59ee-4fe4-b5e5-93c5f3146bd0" type="Folder">7, 8</container></did>
+ </c02>
+ <c02 level="file">
+    <did><unittitle>Unidentified man<unitdate> 1800s</unitdate> </unittitle>
+    <container id="b446cdf4-1be0-4455-b023-d083375c1759" type="Box">2</container>
+    <container parent="b446cdf4-1be0-4455-b023-d083375c1759" type="Folder">9</container></did>
+ </c02>
+<c02 level="file">
+   <did><unittitle>Unidentified man at writing table in a bedroom<unitdate>1800s</unitdate></unittitle>
+   <container id="7431b107-2d35-45c7-ad16-242f51e9de1f" type="Box">2</container>
+   <container parent="7431b107-2d35-45c7-ad16-242f51e9de1f" type="Folder">10</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Unidentified man in glasses<unitdate>1800s</unitdate></unittitle>
+   <container id="caac55d7-a4b6-430c-87e3-2cbeb5cdd808" type="Box">2</container>
+   <container parent="caac55d7-a4b6-430c-87e3-2cbeb5cdd808" type="Folder">11</container></did>
+</c02>
+ <c02 level="file">
+    <did><unittitle>Unidentified men sitting at table reading<unitdate>1800s</unitdate> </unittitle>
+       <physdesc>Broken plate</physdesc>
+    <container id="c32134bf-f544-46fa-a608-0463cfbaa609" type="Box">2</container>
+    <container parent="c32134bf-f544-46fa-a608-0463cfbaa609" type="Folder">12</container></did>
+ </c02>
+ <c02 level="file">
+    <did><unittitle>Unidentified Mexicans boys playing marbles<unitdate>1894</unitdate></unittitle>
+    <container id="c134b1af-fff6-4fbe-8d20-2dc52a5896a4" type="Box">2</container>
+    <container parent="c134b1af-fff6-4fbe-8d20-2dc52a5896a4" type="Folder">13</container></did>
+ </c02>
+<c02 level="file">
+   <did><unittitle>Unidentified people with W.J. Gibbon <unitdate>1890</unitdate></unittitle>
+      <physdesc>Broken plate</physdesc>
+   <container id="b030e304-8329-47ef-a3fe-b2442f1f0c7b" type="Box">2</container>
+   <container parent="b030e304-8329-47ef-a3fe-b2442f1f0c7b" type="Folder">14</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Unidentified woman<unitdate>1800s</unitdate> </unittitle>
+   <container id="78bbccb9-7eca-48a4-b54f-482c3918f5c8" type="Box">2</container>
+   <container parent="78bbccb9-7eca-48a4-b54f-482c3918f5c8" type="Folder">15</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Unidentified woman in chair<unitdate />1800s</unittitle>
+   <container id="48d3d54b-62ef-441a-aa09-173d31dd767e" type="Box">2</container>
+   <container parent="48d3d54b-62ef-441a-aa09-173d31dd767e" type="Folder">16</container></did>
+</c02>
+ <c02 level="file">
+    <did><unittitle>Unidentified woman with young boy and rocking horse<unitdate>1800s</unitdate> </unittitle>
+    <container id="bb156445-0673-4116-b212-ab716ac208eb" type="Box">2</container>
+    <container parent="bb156445-0673-4116-b212-ab716ac208eb" type="Folder">17</container></did>
+ </c02>
+<c02 level="file">
+   <did><unittitle>Unidentified women at table/fireplace<unitdate>1800s</unitdate> </unittitle>
+   <container id="7d66ab88-fe5f-44c6-8e29-e38eacd51f81" type="Box">2</container>
+   <container parent="7d66ab88-fe5f-44c6-8e29-e38eacd51f81" type="Folder">18</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Unidentified young boy<unitdate>1800s</unitdate></unittitle>
+   <container id="91fa40ab-ef22-4ad9-8a0a-1338d529a6a7" type="Box">2</container>
+   <container parent="91fa40ab-ef22-4ad9-8a0a-1338d529a6a7" type="Folder">19</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Unidentified young boy on rocking horse<unitdate>1800s</unitdate> </unittitle>
+   <container id="f0ec2f9b-278c-4d7c-90f8-d12f9c72e0ba" type="Box">2</container>
+   <container parent="f0ec2f9b-278c-4d7c-90f8-d12f9c72e0ba" type="Folder">20</container></did>
+</c02>
+ <c02 level="file">
+    <did><unittitle>Unidentified young man <unitdate>1800s</unitdate></unittitle>
+    <container id="13548f35-7dc2-40c2-a8ca-578bda47d931" type="Box">2</container>
+    <container parent="13548f35-7dc2-40c2-a8ca-578bda47d931" type="Folder">21</container></did>
+ </c02>
+<c02 level="file">
+   <did><unittitle>Unidentified young man<unitdate>circa 1899</unitdate></unittitle>
+   <container id="fd59b184-22a7-42d1-9101-d1f6aefcdc07" type="Box">2</container>
+   <container parent="fd59b184-22a7-42d1-9101-d1f6aefcdc07" type="Folder">22</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Unidentified young men<unitdate>1800s</unitdate></unittitle>
+   <container id="c4507a20-9c91-48dd-a154-182b0c0feea1" type="Box">2</container>
+   <container parent="c4507a20-9c91-48dd-a154-182b0c0feea1" type="Folder">23</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Tenney, Herbert &amp; Herford, Frank under fig tree in Gibbon yard<unitdate>1800s</unitdate></unittitle>
+      <physdesc>Broken plate</physdesc>
+   <container id="fa9bcf5d-3dfb-4fcc-bf7a-f4700d721bb1" type="Box">2</container>
+   <container parent="fa9bcf5d-3dfb-4fcc-bf7a-f4700d721bb1" type="Folder">24</container></did>
+</c02>
+</c01> 
+<c01 level="series">
+   <did><unittitle>Series II: Subjects, 1880-1899</unittitle></did>
+   <arrangement><p>Arrangement:  Geographical by Arizona and Sonora, Mexico, Alphabetical.</p></arrangement>
+   <scopecontent><p>This series contains glass plates of the exterior and interior of Leo Goldschmidt’s place of residence, The Owl’s Club. Also included are general subjects of interest to Mr. Goldschmidt as a photographer such as the Mission San Xavier del Bac, the University of Arizona and various street scenes of Tucson, Arizona in the late 1800s. The series also contains plates of the Eagle Flour Mill in Tucson, Arizona and the Campana Mill and various, associated buildings of the business in Sonora, Mexico. </p></scopecontent>
+   <c02 level="file">
+   <did><unittitle>Canvas tent in landscape Tohons? Stockade?<unitdate>1800s</unitdate> </unittitle>
+   <container id="36fe25bc-8269-4c34-ad2e-cde7eb3598bf" type="Box">3</container>
+   <container parent="36fe25bc-8269-4c34-ad2e-cde7eb3598bf" type="Folder">1</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Church building Exterior view<unitdate />1800s</unittitle>
+   <container id="285b4b93-18ff-4d4a-ba77-c5424297ba86" type="Box">3</container>
+   <container parent="285b4b93-18ff-4d4a-ba77-c5424297ba86" type="Folder">2</container></did>
+</c02>
+<c02>
+   <did><unittitle>Church Plaza “Old Catholic Church” St. Augustine Cathedral<unitdate>1896</unitdate> </unittitle>
+   <container id="80eef095-93d4-4803-b51e-d17a412cea25" type="Box">3</container>
+   <container parent="80eef095-93d4-4803-b51e-d17a412cea25" type="Folder">3</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Cows in field<unitdate>1890s</unitdate></unittitle>
+   <container id="b028523a-ee3f-4297-89c8-1cee54ce5262" type="Box">3</container>
+   <container parent="b028523a-ee3f-4297-89c8-1cee54ce5262" type="Folder">4</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Cows under trees<unitdate>1890s</unitdate></unittitle>
+   <container id="d448df9c-3fa6-4763-b057-59f34a3051cf" type="Box">3</container>
+   <container parent="d448df9c-3fa6-4763-b057-59f34a3051cf" type="Folder">5</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Dog sitting on rug<unitdate>1890s</unitdate></unittitle>
+      <physdesc><extent>2 plates</extent></physdesc>
+   <container id="f12f5f6b-8693-486a-9282-302c5a7d79d9" type="Box">3</container>
+   <container parent="f12f5f6b-8693-486a-9282-302c5a7d79d9" type="Folder">6, 7</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Eagle Mill and tanks<unitdate>July 1986</unitdate></unittitle>
+   <container id="73e7adbc-1b35-4269-842c-83831c65eb0a" type="Box">3</container>
+   <container parent="73e7adbc-1b35-4269-842c-83831c65eb0a" type="Folder">8</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Eagle Mill Belts and Machines<unitdate>1880s</unitdate></unittitle>
+      <physdesc><extent>2 plates</extent></physdesc>
+   <container id="fa60c8e9-981e-44f0-a232-e4b2e793476e" type="Box">3</container>
+   <container parent="fa60c8e9-981e-44f0-a232-e4b2e793476e" type="Folder">9, 10</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Eagle Mill from South Main Street<unitdate>1895</unitdate></unittitle>
+   <container id="b33920cd-eb50-43be-a353-6966e7456a18" type="Box">3</container>
+   <container parent="b33920cd-eb50-43be-a353-6966e7456a18" type="Folder">11</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Eagle Mill Interior 4th Floor Daylight<unitdate>1890s</unitdate> </unittitle>
+      <physdesc><extent>4 plates</extent></physdesc>
+   <container id="f7b4f2a6-7d1c-4a20-8a44-7d48a38cfd1b" type="Box">3</container>
+   <container parent="f7b4f2a6-7d1c-4a20-8a44-7d48a38cfd1b" type="Folder">12, 13, 14, 15</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Eagle Mill Interior 4th Floor Flashlight – Leo Goldschmidt<unitdate>1890s</unitdate></unittitle>
+   <container id="7d415ad2-eee9-4503-ab14-0529abc5aa2f" type="Box">3</container>
+   <container parent="7d415ad2-eee9-4503-ab14-0529abc5aa2f" type="Folder">16</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Eagle Mill Roller Floor<unitdate>1890s</unitdate></unittitle>
+   <container id="d1a26058-b622-471c-8c6c-2781001f7d7a" type="Box">3</container>
+   <container parent="d1a26058-b622-471c-8c6c-2781001f7d7a" type="Folder">17</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Eagle Mill Third Floor<unitdate>1800s</unitdate></unittitle>
+   <container id="1098677d-f365-476d-ac84-e7945ed6bc5f" type="Box">3</container>
+   <container parent="1098677d-f365-476d-ac84-e7945ed6bc5f" type="Folder">18</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Eagle Milling Company Roller Process Floor mills<unitdate>1890s</unitdate></unittitle>
+      <physdesc>Broken plate</physdesc>
+   <container id="c0d5101f-6148-49c2-bfd2-5984cbe3217f" type="Box">3</container>
+   <container parent="c0d5101f-6148-49c2-bfd2-5984cbe3217f" type="Folder">19</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Episcopal Church (Tucson, Arizona) <unitdate>1895</unitdate></unittitle>
+   <container id="84d4697b-5b7a-4326-940f-db82b0c9b11d" type="Box">4</container>
+   <container parent="84d4697b-5b7a-4326-940f-db82b0c9b11d" type="Folder">1</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Episcopal Church (Tucson, Arizona) left side, blurred <unitdate>1895</unitdate></unittitle>
+   <container id="21a9d1f2-6384-4b92-91fc-207176bd8a21" type="Box">4</container>
+   <container parent="21a9d1f2-6384-4b92-91fc-207176bd8a21" type="Folder">2</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Landscape – Unidentified Building<unitdate>1890s</unitdate></unittitle>
+   <container id="3f258078-222a-4a5e-989f-09d72194a532" type="Box">4</container>
+   <container parent="3f258078-222a-4a5e-989f-09d72194a532" type="Folder">3</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Landscape - Unidentified Building and water tanks<unitdate>1890s</unitdate></unittitle>
+   <container id="eabec72c-01ea-4d63-b414-b3ef4b1963b2" type="Box">4</container>
+   <container parent="eabec72c-01ea-4d63-b414-b3ef4b1963b2" type="Folder">4</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>New Eagle Flour Mills (Tucson, Arizona) <unitdate>1899</unitdate></unittitle>
+   <container id="c002569b-9694-4c08-8968-df72e8878501" type="Box">4</container>
+   <container parent="c002569b-9694-4c08-8968-df72e8878501" type="Folder">5</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Old Eagle Mill on South Main Street shortly after purchase from E.N. Fish<unitdate>1890</unitdate></unittitle>
+      <physdesc>Broken plate</physdesc>
+   <container id="c9582563-81bc-4b0c-af02-031c61affc98" type="Box">4</container>
+   <container parent="c9582563-81bc-4b0c-af02-031c61affc98" type="Folder">6</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Owl’s Club - Bedroom<unitdate>1895</unitdate></unittitle>
+      <physdesc><extent>3 plates</extent></physdesc>
+   <container id="792f5cbd-d048-4127-9df6-62f0cc5f8b97" type="Box">4</container>
+   <container parent="792f5cbd-d048-4127-9df6-62f0cc5f8b97" type="Folder">7, 8, 9</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Owl’s Club Christmas decorations<unitdate>1895</unitdate></unittitle>
+   <container id="4ad1adff-699b-4fa4-bce3-90199c22376f" type="Box">4</container>
+   <container parent="4ad1adff-699b-4fa4-bce3-90199c22376f" type="Folder">10</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Owl’s Club - Dining room<unitdate>1890s</unitdate></unittitle>
+   <container id="f314dfcb-ecc0-488d-8e48-9192904306bc" type="Box">4</container>
+   <container parent="f314dfcb-ecc0-488d-8e48-9192904306bc" type="Folder">11</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Owl’s Club - Dining room with fireplace<unitdate>1890s</unitdate></unittitle>
+   <container id="5b23649b-b478-4b71-84b3-6d362b57498e" type="Box">4</container>
+   <container parent="5b23649b-b478-4b71-84b3-6d362b57498e" type="Folder">12</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Owl’s Club - Dr. Fenner’s House-The Owls original annex<unitdate>1892</unitdate></unittitle>
+   <container id="0b1d64b4-c706-4fca-99e1-b00bed8ba2d3" type="Box">4</container>
+   <container parent="0b1d64b4-c706-4fca-99e1-b00bed8ba2d3" type="Folder">13</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Owl’s Club - Interior of residence sitting/living room<unitdate>1890s</unitdate></unittitle>
+   <container id="495e1f64-f7b7-41ef-9aca-43c0ec3c755b" type="Box">4</container>
+   <container parent="495e1f64-f7b7-41ef-9aca-43c0ec3c755b" type="Folder">14</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Owl’s Club - Interior residence table<unitdate>1890s</unitdate></unittitle>
+   <container id="126abb87-540a-45d8-8aea-1ec78a36dde0" type="Box">4</container>
+   <container parent="126abb87-540a-45d8-8aea-1ec78a36dde0" type="Folder">15</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Owl’s Club - My room (no info.)<unitdate>1890s</unitdate></unittitle>
+   <container id="b38bcbfd-92de-4791-8f57-94ddc63b6457" type="Box">4</container>
+   <container parent="b38bcbfd-92de-4791-8f57-94ddc63b6457" type="Folder">16</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Owl’s Club on Main Street - facade of building <unitdate>1890s</unitdate></unittitle>
+   <container id="3600994c-068c-4476-b0bb-243f23b02874" type="Box">4</container>
+   <container parent="3600994c-068c-4476-b0bb-243f23b02874" type="Folder">17</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Owl’s Club - Sitting/living room <unitdate>1890s</unitdate></unittitle>
+   <container id="27a1d0f8-240f-438b-971c-1b53636da138" type="Box">4</container>
+   <container parent="27a1d0f8-240f-438b-971c-1b53636da138" type="Folder">18</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Owl’s Club - Unidentified room <unitdate>1890s</unitdate></unittitle>
+   <container id="76fc1233-61d7-43f7-a0ac-ba4992d8fb3c" type="Box">4</container>
+   <container parent="76fc1233-61d7-43f7-a0ac-ba4992d8fb3c" type="Folder">19</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Owl’s Club – Unidentified room with stairway <unitdate>1890s</unitdate></unittitle>
+   <container id="9d81ecc8-d53e-49f2-a961-978a88811e48" type="Box">4</container>
+   <container parent="9d81ecc8-d53e-49f2-a961-978a88811e48" type="Folder">20</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Royal A. Johnson’s Iceworks <unitdate>1889</unitdate></unittitle>
+   <container id="06968829-a69e-41e8-9196-fc5adfd7ebd6" type="Box">5</container>
+   <container parent="06968829-a69e-41e8-9196-fc5adfd7ebd6" type="Folder">1</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Saginaw Mill Exterior 	<unitdate>1800s</unitdate></unittitle>
+   <container id="62cc46c4-4c90-4a53-83c0-9f3132d17fda" type="Box">5</container>
+   <container parent="62cc46c4-4c90-4a53-83c0-9f3132d17fda" type="Folder">2</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>San Xavier del Bac (Tucson, Arizona) Exterior <unitdate>1887</unitdate></unittitle>
+   <container id="3345489f-6d98-440d-9e0b-1821bd85b502" type="Box">5</container>
+   <container parent="3345489f-6d98-440d-9e0b-1821bd85b502" type="Folder">3</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>San Xavier del Bac (Tucson, Arizona) Interior <unitdate>1887</unitdate></unittitle>
+   <container id="aa696c0e-78a9-40a7-99da-0cc3a53d6bdf" type="Box">5</container>
+   <container parent="aa696c0e-78a9-40a7-99da-0cc3a53d6bdf" type="Folder">4</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>San Xavier Hotel Tucson, Arizona<unitdate>1890</unitdate> </unittitle>
+   <container id="3bb80338-227f-4815-b71a-c8efae892def" type="Box">5</container>
+   <container parent="3bb80338-227f-4815-b71a-c8efae892def" type="Folder">5</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>San Xavier Mission – Mortuary chapel Tucson, Arizona<unitdate>1888</unitdate>				
+   </unittitle>
+      <physdesc>Broken plate)</physdesc>
+   <container id="bdf25f77-f374-4502-96ea-25473003bb67" type="Box">5</container>
+   <container parent="bdf25f77-f374-4502-96ea-25473003bb67" type="Folder">6</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Southern Pacific Depots (Slide said: California East Freight line)<unitdate>1890</unitdate></unittitle>
+   <container id="ad72a45f-399f-4330-9293-23d72d6b948b" type="Box">5</container>
+   <container parent="ad72a45f-399f-4330-9293-23d72d6b948b" type="Folder">7</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Unidentified building<unitdate>1890s</unitdate></unittitle>
+      <physdesc>Broken plate</physdesc>
+   <container id="dca7d95e-0b5c-443c-afc0-81e1417b612c" type="Box">5</container>
+   <container parent="dca7d95e-0b5c-443c-afc0-81e1417b612c" type="Folder">8</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>University of Arizona Panorama <unitdate>1800s</unitdate></unittitle>
+   <container id="07bb69cc-2cfc-4afd-8f3c-4bd3b58043af" type="Box">5</container>
+   <container parent="07bb69cc-2cfc-4afd-8f3c-4bd3b58043af" type="Folder">9, 10, 11, 12</container></did>
+</c02>
+   <c02 level="file">
+      <did><unittitle>Panorama View of Tucson <unitdate>1800s</unitdate></unittitle>
+         <container id="08482da7-3f9c-4a37-a950-99924cea656e" type="Box">5</container>
+         <container parent="08482da7-3f9c-4a37-a950-99924cea656e" type="Folder">13</container></did>
+   </c02>
+   <c02 level="file">
+   <did><unittitle>Panorama View of Tucson Mountains <unitdate>1800s</unitdate></unittitle>
+      <container id="21cbb8b3-d80b-482b-b922-6871fe64d5cf" type="Box">5</container>
+      <container parent="21cbb8b3-d80b-482b-b922-6871fe64d5cf" type="Folder">14</container></did>
+      </c02>
+<c02 level="file">
+   <did><unittitle>University of Arizona, Old Main (Tucson, Ariz.) <unitdate>1895</unitdate></unittitle>
+   <container id="090dc2a2-7239-456d-968e-7e5328956ef0" type="Box">5</container>
+   <container parent="090dc2a2-7239-456d-968e-7e5328956ef0" type="Folder">15</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Campana Mill<unitdate>1897</unitdate></unittitle>
+   <container id="b38f08cc-dc02-4867-9fc7-82bf62f12ec2" type="Box">6</container>
+   <container parent="b38f08cc-dc02-4867-9fc7-82bf62f12ec2" type="Folder">1</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Campana Mill February<unitdate>1897</unitdate></unittitle>
+   <container id="84a1bc09-be99-4041-abb3-ebdcd7b486a5" type="Box">6</container>
+   <container parent="84a1bc09-be99-4041-abb3-ebdcd7b486a5" type="Folder">2</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Campana Mill Blacksmith Shop<unitdate>circa 1896-1897</unitdate></unittitle>
+   <container id="3929482d-e09f-4773-9261-e2ff4998ba8e" type="Box">6</container>
+   <container parent="3929482d-e09f-4773-9261-e2ff4998ba8e" type="Folder">3</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Campana Mill – Brush house<unitdate>February 1897</unitdate></unittitle>
+   <container id="c9aa233f-8aa9-4f11-aff2-657935b192d4" type="Box">6</container>
+   <container parent="c9aa233f-8aa9-4f11-aff2-657935b192d4" type="Folder">4</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Campana Mill-Front view<unitdate>1897</unitdate></unittitle>
+   <container id="eb61575d-37b6-4132-91ad-db6c8713de6f" type="Box">6</container>
+   <container parent="eb61575d-37b6-4132-91ad-db6c8713de6f" type="Folder">5</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Campana Mill-Side view<unitdate>1897</unitdate></unittitle>
+   <container id="0376b2ec-aea9-4cd2-a6bf-d104174d784a" type="Box">6</container>
+   <container parent="0376b2ec-aea9-4cd2-a6bf-d104174d784a" type="Folder">6</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>El Grupo Sonora (Mexico) - Assay Office &amp; tanks<unitdate>circa 1896-1897</unitdate></unittitle>
+   <container id="3b96a365-d5ed-42ba-998a-48d2c0a65159" type="Box">6</container>
+   <container parent="3b96a365-d5ed-42ba-998a-48d2c0a65159" type="Folder">7</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>El Grupo Store &amp; San Joaquin Ranch House<unitdate>1896</unitdate></unittitle>
+   <container id="ef3343cf-baca-4ddc-b57b-412a4886e2d8" type="Box">6</container>
+   <container parent="ef3343cf-baca-4ddc-b57b-412a4886e2d8" type="Folder">8</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Panorama of El Grupo Mill??? House from Reservoir Dam<unitdate>July 1896</unitdate></unittitle>
+   <container id="ad881c8e-dd68-4456-835e-993b9a57571c" type="Box">6</container>
+   <container parent="ad881c8e-dd68-4456-835e-993b9a57571c" type="Folder">9</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>El Grupo Sonora (Mexico) - Superintendent’s House and 
+      2 unidentified people<unitdate>1896</unitdate></unittitle>
+   <container id="f075f90a-82a1-4a21-9386-0916660ce0d9" type="Box">6</container>
+   <container parent="f075f90a-82a1-4a21-9386-0916660ce0d9" type="Folder">10</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>“Place de la Bastille” copy  (Paris, France)<unitdate>1890s</unitdate></unittitle></did>
+</c02>
+</c01>
+      <c01 level="series">
+      <did><unittitle>Series III:  Places, 1880-1899</unittitle></did>
+      <arrangement><p>Arrangement:  Alphabetical.</p></arrangement>
+      <c02 level="file">
+         <did><unittitle>Baboquivari Park from Buenos Ayres<unitdate>1897</unitdate></unittitle>
+         <container id="0fdc5b98-8e0d-41d8-b9ee-7598bab454c9" type="Box">7</container>
+         <container parent="0fdc5b98-8e0d-41d8-b9ee-7598bab454c9" type="Folder">1</container></did>
+      </c02>
+<c02>
+   <did><unittitle>Bear Canyon, Catalina Mountains taken by Prof. Tommey<unitdate>1896</unitdate></unittitle>
+   <container id="f22c40cf-79ff-4a20-80ed-96fb1ba11f1b" type="Box">7</container>
+   <container parent="f22c40cf-79ff-4a20-80ed-96fb1ba11f1b" type="Folder">2</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Main Street looking North 1895 (Tucson, Arizona)<unitdate>1895</unitdate></unittitle>
+   <container id="2cb81532-6dc3-4d20-8c6a-e44ef4b0175f" type="Box">7</container>
+   <container parent="2cb81532-6dc3-4d20-8c6a-e44ef4b0175f" type="Folder">3</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Santa Cruz River Scene (Tucson, Arizona)<unitdate>1892</unitdate></unittitle>
+   <container id="f8a93c23-1ac7-4b16-85c2-610f130a53aa" type="Box">7</container>
+   <container parent="f8a93c23-1ac7-4b16-85c2-610f130a53aa" type="Folder">4</container></did>
+</c02>
+<c02 level="file">
+         <did><unittitle>Sentinel Park (Tucson Mountains, Arizona)<unitdate>1895</unitdate></unittitle>
+         <container id="b42a3424-8a9b-4feb-aefc-a24f89b641da" type="Box">7</container>
+         <container parent="b42a3424-8a9b-4feb-aefc-a24f89b641da" type="Folder">5</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Silver Lake (Tucson, Arizona)<unitdate>1888</unitdate></unittitle>
+   <container id="44517e96-a7db-4603-8482-108565a55ac4" type="Box">7</container>
+   <container parent="44517e96-a7db-4603-8482-108565a55ac4" type="Folder">6</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Silver Lake (Tucson, Arizona) (Broken plate)<unitdate>1888</unitdate></unittitle>
+   <container id="f5ad0cb0-9e4c-45d1-b11d-f58a6bec6f9a" type="Box">7</container>
+   <container parent="f5ad0cb0-9e4c-45d1-b11d-f58a6bec6f9a" type="Folder">7</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Some old willow trees (Tucson, Arizona) River below Main Street<unitdate>1892</unitdate></unittitle>
+   <container id="1a79d04b-27f4-47c5-84cf-73f308e08a61" type="Box">7</container>
+   <container parent="1a79d04b-27f4-47c5-84cf-73f308e08a61" type="Folder">8</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>South Main Ave. (Tucson, Arizona)<unitdate>1890</unitdate></unittitle>
+   <container id="42f8a1ba-b8b7-4c1c-a3f6-21e45651345e" type="Box">7</container>
+   <container parent="42f8a1ba-b8b7-4c1c-a3f6-21e45651345e" type="Folder">9</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>South Main Street Eagle Mills<unitdate>1895</unitdate></unittitle>
+   <container id="af97a56e-92a0-43c8-99db-166fbccbe4b0" type="Box">7</container>
+   <container parent="af97a56e-92a0-43c8-99db-166fbccbe4b0" type="Folder">10</container></did>
+</c02>
+<c02 level="file">
+   <did><unittitle>Tucson, Arizona from Ice Works<unitdate>1887</unitdate></unittitle>
+   <container id="f80a4029-0b43-4225-898a-a5f2ffcc4962" type="Box">7</container>
+   <container parent="f80a4029-0b43-4225-898a-a5f2ffcc4962" type="Folder">11</container></did>
+</c02>
+ <c02 level="file">
+    <did><unittitle>Unidentified Panorama (Old sleeve says “Iron Horse”)<unitdate>circa 1800</unitdate></unittitle>
+       <container id="84301c27-61b9-40d0-ad50-a368a7e233bc" type="Box">7</container>
+       <container parent="84301c27-61b9-40d0-ad50-a368a7e233bc" type="Folder">12</container>
+    </did>
+ </c02>      
+ </c01>
+         <c01 level="series">
+         <did><unittitle>Series IV:  Prints, 1880-1899</unittitle></did>
+            <arrangement><p>Arrangement:  Box level.</p></arrangement>
+            <c02>
+<did><unittitle>Box 1 prints, Series I: People<unitdate>1880-1889</unitdate></unittitle>
+<container id="f519c04e-0eda-41e8-ba5f-f3d1ee827cba" type="Box">8</container>
+<container parent="f519c04e-0eda-41e8-ba5f-f3d1ee827cba" type="Folder">1</container></did>
+  </c02>
+<c02>
+<did><unittitle>Box 2 prints, Series I: People<unitdate>1880-1889</unitdate></unittitle>
+ <container id="5eb2e695-f256-4b0f-93ce-0e68babde953" type="Box">8</container>
+<container parent="5eb2e695-f256-4b0f-93ce-0e68babde953" type="Folder">2</container></did>
+ </c02>
+ <c02>
+ <did><unittitle>Box 3 prints, Series II: Subjects<unitdate>1880-1889</unitdate></unittitle>
+ <container id="ae328439-7408-4380-bf94-5eef149e0622" type="Box">8</container>
+ <container parent="ae328439-7408-4380-bf94-5eef149e0622" type="Folder">3</container></did>
+  </c02>
+<c02>
+ <did><unittitle>Box 4 prints, Series II: Subjects<unitdate>1880-1889</unitdate></unittitle>
+ <container id="800de3fe-9d1d-432a-b7e3-77ed25e15937" type="Box">8</container>
+ <container parent="800de3fe-9d1d-432a-b7e3-77ed25e15937" type="Folder">4</container></did>
+ </c02>
+ <c02>
+  <did><unittitle>Box 5 prints, Series II: Subjects<unitdate>1880-1889</unitdate></unittitle>
+ <container id="2b59375c-9e35-46a5-aa44-0a5a5467ec01" type="Box">8</container>
+  <container parent="2b59375c-9e35-46a5-aa44-0a5a5467ec01" type="Folder">5</container></did>
+ </c02>
+<c02>
+<did><unittitle>Box 6 prints, Series II: Subjects<unitdate>1880-1889</unitdate></unittitle>
+  <container id="fac14518-8092-43c8-894b-823efc0d76e1" type="Box">8</container>
+ <container parent="fac14518-8092-43c8-894b-823efc0d76e1" type="Folder">6</container></did>
+ </c02>
+ <c02>
+ <did><unittitle>Box 7 prints, Series III: Places<unitdate>1880-1889</unitdate></unittitle>
+ <container id="a7ec4fa0-9ce8-430c-81f7-49ba0818b2a6" type="Box">8</container>
+  <container parent="a7ec4fa0-9ce8-430c-81f7-49ba0818b2a6" type="Folder">7</container></did>
+</c02>
+</c01>
+</dsc>   
+   </archdesc>
+</ead>

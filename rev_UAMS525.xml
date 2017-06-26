@@ -1,0 +1,2765 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid encodinganalog="852">UAMS525</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title">Anthony Boucher Fanzine Collection,
+	 		<date calendar="gregorian" certainty="approximate" era="ce" normal="1941/1973" type="inclusive">1941-1973</date>
+	 		</titleproper>
+	 	<titleproper altrender="nodisplay" type="filing">Boucher, Anthony B. Fanzine Collection
+	 			</titleproper>
+	 	<author>Processed by Trent Purdy.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date calendar="gregorian" era="ce" normal="2014">2014</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Sharlot Hart. 
+  		<date encodinganalog="date" era="ce" normal="20140718">2014 July 18</date></creation>
+	 <langusage>Finding aid is in<language langcode="eng"> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-23">2017-06-23</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+
+	<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name"> Anthony Boucher Fanzine Collection,
+  		<unitdate label="Dates" normal="1941/1973" type="inclusive">1941-1973</unitdate></unittitle>
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 525</unitid> 
+	 <origination label="Creator"> 
+	 	<persname encodinganalog="100" source="lcnaf">Boucher, Anthony, 1911-1968</persname> </origination> 
+  	<abstract label="Abstract">This collection is comprised of fanzines, which are self-published, small 
+  		circulation magazines.  The majority of the materials are dedicated to science fiction literature, 
+  		but other topics are also covered including fandom, fantasy, comics, the horror genre, and general topics.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description"><extent>12.5 Linear Feet</extent></physdesc>	 
+	 <repository label="Repository"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng">English,</language>
+  		<language encodinganalog="546" langcode="fre" scriptcode="Latin">French,</language>
+  		<language encodinganalog="546" langcode="ger" scriptcode="Latin">and German</language>
+  	</langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Anthony Boucher Fanzine Collection (MS 525). Special
+  		Collections, University of Arizona Libraries.</p>
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>This collection was a gift of Anthony Boucher and contains fanzines that he collected.  
+  		Boucher was born in Oakland, CA and was an esteemed science fiction author, critic, and 
+  		editor of Ellery Queen's Mystery Magazine and The Magazine of Science Fiction and Fantasy, 
+  		the latter of which he was also the co-founder.  Boucher was also the author of <emph render="italic">Rocket to 
+  		the Morgue</emph> from 1942 which is widely acknowledged as a sci-fi mystery classic and the first 
+  		novel to combine the two genres.   In 1946, Boucher helped establish the Mystery Writers of 
+  		America, an organization of mystery and crime writers.  In 1957 and again in 1958, The Magazine 
+  		of Science Fiction and Fantasy won the Hugo Award, an annual award given for best science fiction 
+  		or fantasy works, for best professional magazine. In 1970, his short story "The Quest for Saint 
+  		Aquin" was selected as one of the best science fiction stories of all time by the Science Fiction 
+  		Writers of America. Boucher died in 1968.</p> 
+  </bioghist> 
+  <arrangement encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into 2 series.</p>	 
+  	<list>
+  		<item>Series I: Fanzines, 
+  			<unitdate>1941-1973</unitdate></item>
+  		<item>Series II: Unidentified Pages, 
+  			<unitdate>1957, 1958, 1961, 1965</unitdate>
+  		</item>
+  	</list>
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>This collection is comprised of amateur and semi-professional fanzines which were collected 
+  		by Anthony Boucher.  The materials are primarily dedicated to the science fiction genre of 
+  		literature, but other topics and genres including fandom, fantasy, Sword and Sorcery (a 
+  		sub-genre of fantasy), horror, comics, and miscellaneous topics are represented.  A myriad 
+  		of printing processes were used in the creation of these materials including mimeograph, ditto, 
+  		offset, and silkscreen.  Materials are primarily in English, but materials in German and French are also present.</p> 
+  </scopecontent> 
+  	<controlaccess>
+  		<subject>Fan magazines.</subject><subject>Science fiction--20th century--History and criticism.</subject><subject>Science fiction and fantasy criticism.</subject><subject>Science fiction--Collectors and collecting.</subject><subject>Science fiction--Illustrations—Periodicals.</subject><subject>Horror tales, American—Periodicals.</subject><subject>Horror tales--Appreciation.</subject><subject>Fantasy fiction, American—Appreciation.</subject><subject>Fantasy fiction, American--History and criticism.</subject></controlaccess>
+  
+<dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+			<unittitle>Series I: Fanzines,
+				</unittitle> 
+			<unitdate type="inclusive">1941-1973</unitdate>
+		</did>
+	 	<scopecontent><p>Series is arranged alphabetically by title.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container id="9ea2b28d-b535-449c-82b5-ba0a19f9740c" type="box">1</container> 
+				<container parent="9ea2b28d-b535-449c-82b5-ba0a19f9740c" type="folder">1</container> 
+				<unittitle>Fanzine Collection Index</unittitle>
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5559baab-14b3-405e-971f-d82053cec8c6" type="box">1</container> 
+	 			<container parent="5559baab-14b3-405e-971f-d82053cec8c6" type="folder">2</container> 
+	 			<unittitle>Abstract, no. 1, 8,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="da2c7546-795d-4c68-8569-b999bada52cc" type="box">1</container> 
+	 			<container parent="da2c7546-795d-4c68-8569-b999bada52cc" type="folder">3</container> 
+	 			<unittitle>Acolyte, v. 1, no. 1-2, 4; v. 2, no. 1-4,</unittitle>
+	 			<unitdate>1942-1944</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="694d1e5a-e01a-4369-b631-6576cffe1ca7" type="box">1</container> 
+	 			<container parent="694d1e5a-e01a-4369-b631-6576cffe1ca7" type="folder">4</container> 
+	 			<unittitle>Acolyte, v. 3, no. 1-4; v. 4, no. 1-2,</unittitle>
+	 			<unitdate>1945-1946</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d11c55fc-940c-433b-b6ac-34ef6bcdaa6c" type="box">1</container> 
+	 			<container parent="d11c55fc-940c-433b-b6ac-34ef6bcdaa6c" type="folder">5</container> 
+	 			<unittitle>Ailleurs, no. 38,</unittitle>
+	 			<unitdate>1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e8733543-f721-4d84-a566-079da3c13034" type="box">1</container> 
+	 			<container parent="e8733543-f721-4d84-a566-079da3c13034" type="folder">6</container> 
+	 			<unittitle>The Alden Press, no. 2,</unittitle>
+	 			<unitdate>1945</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4eec6ada-d7fd-4abd-bd93-fe8fac3691a1" type="box">1</container> 
+	 			<container parent="4eec6ada-d7fd-4abd-bd93-fe8fac3691a1" type="folder">7</container> 
+	 			<unittitle>Alien Critic, v. 2, no. 3,</unittitle>
+	 			<unitdate>1973</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="63b3ce1e-e944-409d-a3fd-e7967635810b" type="box">1</container> 
+	 			<container parent="63b3ce1e-e944-409d-a3fd-e7967635810b" type="folder">8</container> 
+	 			<unittitle>ALIF, no. 1, 4, 14, 20,</unittitle>
+	 			<unitdate>1960, undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3e221780-0bb4-407d-9c2c-b68cfdad8727" type="box">1</container> 
+	 			<container parent="3e221780-0bb4-407d-9c2c-b68cfdad8727" type="folder">9</container> 
+	 			<unittitle>Alors, no. 8,</unittitle>
+	 			<unitdate>1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="8f6a9837-01f0-49b6-bdaf-69dea42aac2b" type="box">1</container> 
+	 			<container parent="8f6a9837-01f0-49b6-bdaf-69dea42aac2b" type="folder">10</container> 
+	 			<unittitle>The American Journal of Oculenteratology, v. 1, no. 1,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="787ae72a-c52a-496a-8359-9472931bbe46" type="box">1</container> 
+	 			<container parent="787ae72a-c52a-496a-8359-9472931bbe46" type="folder">11</container> 
+	 			<unittitle>Amra, v. 2, no. 1-12,</unittitle>
+	 			<unitdate>1959-1960</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d9f76eed-9f44-439a-bc22-1390871b86b6" type="box">2</container> 
+	 			<container parent="d9f76eed-9f44-439a-bc22-1390871b86b6" type="folder">1</container> 
+	 			<unittitle>Amra, v. 2, no. 14-24,</unittitle>
+	 			<unitdate>1961-1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6cb7d905-6033-4db5-aed9-8fc7f3593940" type="box">2</container> 
+	 			<container parent="6cb7d905-6033-4db5-aed9-8fc7f3593940" type="folder">2</container> 
+	 			<unittitle>Amra, v. 2, no. 25-35,</unittitle>
+	 			<unitdate>1963-1965</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="483dc9ee-b1a5-421c-ad12-28cadb7036c2" type="box">2</container> 
+	 			<container parent="483dc9ee-b1a5-421c-ad12-28cadb7036c2" type="folder">3</container> 
+	 			<unittitle>Amra, v. 2, no. 36-45,</unittitle>
+	 			<unitdate>1965-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3b8ce85f-ee0c-4cf7-9608-d7f261350672" type="box">2</container> 
+	 			<container parent="3b8ce85f-ee0c-4cf7-9608-d7f261350672" type="folder">4</container> 
+	 			<unittitle>Andro, no. 2,</unittitle>
+	 			<unitdate>1955</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e0b35524-c85d-4555-8497-75e7002f558a" type="box">2</container> 
+	 			<container parent="e0b35524-c85d-4555-8497-75e7002f558a" type="folder">5</container> 
+	 			<unittitle>Asp, no. 4,</unittitle>
+	 			<unitdate>1965</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="76771ac9-e4ae-4b3a-a067-a5f4fce07d3b" type="box">2</container> 
+	 			<container parent="76771ac9-e4ae-4b3a-a067-a5f4fce07d3b" type="folder">6</container> 
+	 			<unittitle>Axe, no. 1-4,</unittitle>
+	 			<unitdate>1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7fc01116-259d-4072-a20b-5187ec0fc9fe" type="box">2</container> 
+	 			<container parent="7fc01116-259d-4072-a20b-5187ec0fc9fe" type="folder">7</container> 
+	 			<unittitle>Bane, no. 1,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9d3a8d7d-b8fb-46e9-b081-877e373f3bc6" type="box">2</container> 
+	 			<container parent="9d3a8d7d-b8fb-46e9-b081-877e373f3bc6" type="folder">8</container> 
+	 			<unittitle>Baum Bugle, v. 1, no. 1, Anniversary Issue 1959, August 1959, Christmas 1959, August 1960, Christmas 1960,</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b1129ff3-4255-4d9c-93a7-88056266924a" type="box">2</container> 
+	 			<container parent="b1129ff3-4255-4d9c-93a7-88056266924a" type="folder">9</container> 
+	 			<unittitle>Bibliographica Futurica Fantastica, v. 1, no. 3,</unittitle>
+	 			<unitdate>1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="cfedcb50-f0af-488f-b382-4754df1d880e" type="box">2</container> 
+	 			<container parent="cfedcb50-f0af-488f-b382-4754df1d880e" type="folder">10</container> 
+	 			<unittitle>Big O, v. 1, no. 3,</unittitle>
+	 			<unitdate>1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="368fa429-623a-4fdb-a80b-2e3771e8674a" type="box">2</container> 
+	 			<container parent="368fa429-623a-4fdb-a80b-2e3771e8674a" type="folder">11</container> 
+	 			<unittitle>Bixel, no. 1,</unittitle>
+	 			<unitdate>1962</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="304f7769-d29f-41d5-9e92-07c0f3b49fce" type="box">2</container> 
+	 			<container parent="304f7769-d29f-41d5-9e92-07c0f3b49fce" type="folder">12</container> 
+	 			<unittitle>Bixel Bunk, v. 1, no. 1,</unittitle>
+	 			<unitdate>1944</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2726a833-a4e7-4bc1-89fb-ff6b0db9ad73" type="box">2</container> 
+	 			<container parent="2726a833-a4e7-4bc1-89fb-ff6b0db9ad73" type="folder">13</container> 
+	 			<unittitle>Bloomington Newsletter, September 1948; February, April, June, August, September, October, 1949; December 1950,</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="453b08b3-235a-4f56-ad05-5fc4fbc286b3" type="box">2</container> 
+	 			<container parent="453b08b3-235a-4f56-ad05-5fc4fbc286b3" type="folder">14</container> 
+	 			<unittitle>Bob Shaw Appreciation Magazine, v. 1, no. 1,</unittitle>
+	 			<unitdate>1952</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d79577c7-51bf-42aa-8dd8-40550496e6f1" type="box">2</container> 
+	 			<container parent="d79577c7-51bf-42aa-8dd8-40550496e6f1" type="folder">15</container> 
+	 			<unittitle>Bulletin of the Cleveland Science Fiction Society, no. 14-16,</unittitle>
+	 			<unitdate>1952</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c2a58f06-7223-4055-87ef-2509c4779a2b" type="box">3</container> 
+	 			<container parent="c2a58f06-7223-4055-87ef-2509c4779a2b" type="folder">1</container> 
+	 			<unittitle>Bulletin of the Philadelphia Astronautical Society, v. 2, no. 6,</unittitle>
+	 			<unitdate>1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="38fe6f2c-f617-45d3-b58c-a70609e29200" type="box">3</container> 
+	 			<container parent="38fe6f2c-f617-45d3-b58c-a70609e29200" type="folder">2</container> 
+	 			<unittitle>Burroughsania, v. 2, no. 16,</unittitle>
+	 			<unitdate>1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="13987b85-f269-438e-b113-f5f55c835298" type="box">3</container> 
+	 			<container parent="13987b85-f269-438e-b113-f5f55c835298" type="folder">3</container> 
+	 			<unittitle>Cali, no. 2, 4,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3fee344e-47eb-4749-8578-db7ce50f611c" type="box">3</container> 
+	 			<container parent="3fee344e-47eb-4749-8578-db7ce50f611c" type="folder">4</container> 
+	 			<unittitle>Califan, no. 1,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7281e6eb-5820-4b0d-8580-bd87bccb5272" type="box">3</container> 
+	 			<container parent="7281e6eb-5820-4b0d-8580-bd87bccb5272" type="folder">5</container> 
+	 			<unittitle>California Mercury, v. 2, no. 3; v. 3, no. 1-2,</unittitle>
+	 			<unitdate>1942</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0588e06a-e82b-42a1-8a50-f8ac08616e96" type="box">3</container> 
+	 			<container parent="0588e06a-e82b-42a1-8a50-f8ac08616e96" type="folder">6</container> 
+	 			<unittitle>Centauri, no. 2-4,</unittitle>
+	 			<unitdate>1944-1945</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="85d976b7-43ad-4f95-b15a-c43798c1f167" type="box">3</container> 
+	 			<container parent="85d976b7-43ad-4f95-b15a-c43798c1f167" type="folder">7</container> 
+	 			<unittitle>Chanticleer, v. 1, no. 2-3,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0d5321a0-bf06-41ff-bc21-060c132e1dd1" type="box">3</container> 
+	 			<container parent="0d5321a0-bf06-41ff-bc21-060c132e1dd1" type="folder">8</container> 
+	 			<unittitle>Cole Fan, no. 2,</unittitle>
+	 			<unitdate>1959</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="419b80a3-3f1e-40e8-a443-97860d4d9d77" type="box">3</container> 
+	 			<container parent="419b80a3-3f1e-40e8-a443-97860d4d9d77" type="folder">9</container> 
+	 			<unittitle>Colony, no. 1,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7da21598-3662-4f4c-b961-c13c865a112f" type="box">3</container> 
+	 			<container parent="7da21598-3662-4f4c-b961-c13c865a112f" type="folder">10</container> 
+	 			<unittitle>Comic Art, no. 2-6,</unittitle>
+	 			<unitdate>circa 1962-1966</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c16b378a-da3e-4176-a630-0d7154852fbc" type="box">3</container> 
+	 			<container parent="c16b378a-da3e-4176-a630-0d7154852fbc" type="folder">11</container> 
+	 			<unittitle>Confusion, v. 1, no. 7,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="866ec11f-713a-485f-b1af-102fa5de7d0c" type="box">3</container> 
+	 			<container parent="866ec11f-713a-485f-b1af-102fa5de7d0c" type="folder">12</container> 
+	 			<unittitle>Crifanac, no. 4-5, The World Fanclub List,</unittitle>
+	 			<unitdate>1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="318eed21-1a30-4247-9103-2fdd3af2eb2b" type="box">3</container> 
+	 			<container parent="318eed21-1a30-4247-9103-2fdd3af2eb2b" type="folder">13</container> 
+	 			<unittitle>Cry, no. 169,</unittitle>
+	 			<unitdate>1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="64370011-5a50-4ca0-919d-1e0cb780ae2f" type="box">3</container> 
+	 			<container parent="64370011-5a50-4ca0-919d-1e0cb780ae2f" type="folder">14</container> 
+	 			<unittitle>Cry of the Nameless, no. 86, 91, 106-107,</unittitle>
+	 			<unitdate>1955-1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="17e2fb4d-d726-4299-b3f8-0d0ebf7cc10a" type="box">3</container> 
+	 			<container parent="17e2fb4d-d726-4299-b3f8-0d0ebf7cc10a" type="folder">15</container> 
+	 			<unittitle>The Crystal Cube, v. 1, no. 1,</unittitle>
+	 			<unitdate>1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3949826a-8b3a-487d-b580-1af43cbf7bd8" type="box">3</container> 
+	 			<container parent="3949826a-8b3a-487d-b580-1af43cbf7bd8" type="folder">16</container> 
+	 			<unittitle>DaFoe, no. 1-3,</unittitle>
+	 			<unitdate>1960</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="30d0bb27-db3a-41d7-9441-fdee3ffd6965" type="box">3</container> 
+	 			<container parent="30d0bb27-db3a-41d7-9441-fdee3ffd6965" type="folder">17</container> 
+	 			<unittitle>Dark Star, no. 1-2,</unittitle>
+	 			<unitdate>1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="123eb404-8077-4e95-9432-f2db3d9935b8" type="box">3</container> 
+	 			<container parent="123eb404-8077-4e95-9432-f2db3d9935b8" type="folder">18</container> 
+	 			<unittitle>Dawn,</unittitle>
+	 			<unitdate>1943</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e124c67f-aa4b-4268-bed1-2b44eb0c62f3" type="box">4</container> 
+	 			<container parent="e124c67f-aa4b-4268-bed1-2b44eb0c62f3" type="folder">1</container> 
+	 			<unittitle>De Profundis, no. 1-3, 8,</unittitle>
+	 			<unitdate>1965-1966</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2f826864-68b8-4111-b8d4-41006b212347" type="box">4</container> 
+	 			<container parent="2f826864-68b8-4111-b8d4-41006b212347" type="folder">2</container> 
+	 			<unittitle>Destiny, v. 1, no. 1-3, 7-11,</unittitle>
+	 			<unitdate>0950-0954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="cb2a5994-9536-4015-aa11-189de76c9b6c" type="box">4</container> 
+	 			<container parent="cb2a5994-9536-4015-aa11-189de76c9b6c" type="folder">3</container> 
+	 			<unittitle>Deviant, no. 1,</unittitle>
+	 			<unitdate>1945</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="980e1048-8cc9-4f47-8658-b8409b4584f2" type="box">4</container> 
+	 			<container parent="980e1048-8cc9-4f47-8658-b8409b4584f2" type="folder">4</container> 
+	 			<unittitle>Diablerie, v. 1, no. 1-2,</unittitle>
+	 			<unitdate>1944</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="589abd5d-801c-4cfd-b204-37972bc620d5" type="box">4</container> 
+	 			<container parent="589abd5d-801c-4cfd-b204-37972bc620d5" type="folder">5</container> 
+	 			<unittitle>Dianoura, v. 1, no. 1,</unittitle>
+	 			<unitdate>1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7aa75650-8cc6-45c7-af04-92a8834523a7" type="box">4</container> 
+	 			<container parent="7aa75650-8cc6-45c7-af04-92a8834523a7" type="folder">6</container> 
+	 			<unittitle>Differential, no. 3, 6-12,</unittitle>
+	 			<unitdate>1962-1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="648fc9a7-7ba9-4e40-90d3-1900ffae7efc" type="box">4</container> 
+	 			<container parent="648fc9a7-7ba9-4e40-90d3-1900ffae7efc" type="folder">7</container> 
+	 			<unittitle>Digit, v. 1, no. 1,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9560e280-adf9-49a4-b024-5991d71c4a79" type="box">4</container> 
+	 			<container parent="9560e280-adf9-49a4-b024-5991d71c4a79" type="folder">8</container> 
+	 			<unittitle>Dimensions, no. 13-15,</unittitle>
+	 			<unitdate>1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c03e1405-ffd3-4bdb-98a4-ba76354b84a6" type="box">4</container> 
+	 			<container parent="c03e1405-ffd3-4bdb-98a4-ba76354b84a6" type="folder">9</container> 
+	 			<unittitle>Dinky Bird, no. 11,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="521694db-d7d5-4b30-9ab1-e648a0bd6d6c" type="box">4</container> 
+	 			<container parent="521694db-d7d5-4b30-9ab1-e648a0bd6d6c" type="folder">10</container> 
+	 			<unittitle>Double Bill, v. 1, no. 6; v. 2, no. 1,</unittitle>
+	 			<unitdate>1963-1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="23bc28ba-0837-4e55-a281-e4b480394e74" type="box">4</container> 
+	 			<container parent="23bc28ba-0837-4e55-a281-e4b480394e74" type="folder">11</container> 
+	 			<unittitle>Double Bill, v. 2, no. 2-4,</unittitle>
+	 			<unitdate>1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0773584f-ce03-4d1e-9b05-1bca593d3983" type="box">4</container> 
+	 			<container parent="0773584f-ce03-4d1e-9b05-1bca593d3983" type="folder">12</container> 
+	 			<unittitle>Dream Quest, no. 9,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="157af868-ea7a-4cd7-9af1-051d53c5732e" type="box">4</container> 
+	 			<container parent="157af868-ea7a-4cd7-9af1-051d53c5732e" type="folder">13</container> 
+	 			<unittitle>Duesenberg, v. 2, FR 169,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="408994e4-6a9f-4b44-9f4a-368d08351055" type="box">5</container> 
+	 			<container parent="408994e4-6a9f-4b44-9f4a-368d08351055" type="folder">1</container> 
+	 			<unittitle>Earth Woman's Burden,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="fbafd375-b3f8-4da4-ab76-eee0851ef223" type="box">5</container> 
+	 			<container parent="fbafd375-b3f8-4da4-ab76-eee0851ef223" type="folder">2</container> 
+	 			<unittitle>Eccentrics Orbit, v. 1, no. 1,</unittitle>
+	 			<unitdate>1944</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0bf6599b-26bb-411d-b0a6-b64ac9fc143d" type="box">5</container> 
+	 			<container parent="0bf6599b-26bb-411d-b0a6-b64ac9fc143d" type="folder">3</container> 
+	 			<unittitle>The Electric Bibliograph, no. 10-11,</unittitle>
+	 			<unitdate>1971</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="98f534f4-6de5-403e-89c5-f6f0c9f7d8ea" type="box">5</container> 
+	 			<container parent="98f534f4-6de5-403e-89c5-f6f0c9f7d8ea" type="folder">4</container> 
+	 			<unittitle>Epitome, no. 4,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e42ac04c-f39e-44d0-a7f3-167096ad50c9" type="box">5</container> 
+	 			<container parent="e42ac04c-f39e-44d0-a7f3-167096ad50c9" type="folder">5</container> 
+	 			<unittitle>Escape, v. 1, no. 1,</unittitle>
+	 			<unitdate>1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c378a52e-d410-401b-84f8-8d679bf0116c" type="box">5</container> 
+	 			<container parent="c378a52e-d410-401b-84f8-8d679bf0116c" type="folder">6</container> 
+	 			<unittitle>Esoterique, no. 4-5,</unittitle>
+	 			<unitdate>1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2b4493b8-c000-4e5d-8a9d-022a15923204" type="box">5</container> 
+	 			<container parent="2b4493b8-c000-4e5d-8a9d-022a15923204" type="folder">7</container> 
+	 			<unittitle>Etherline, no. 44, 54-63,</unittitle>
+	 			<unitdate>1955-1956</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d85ffdbc-0867-4ffb-904a-071a367bd9a6" type="box">5</container> 
+	 			<container parent="d85ffdbc-0867-4ffb-904a-071a367bd9a6" type="folder">8</container> 
+	 			<unittitle>Etherline, no. 64-73,</unittitle>
+	 			<unitdate>1956</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9c13b3ef-78ee-4bb7-b985-fecf76998304" type="box">5</container> 
+	 			<container parent="9c13b3ef-78ee-4bb7-b985-fecf76998304" type="folder">9</container> 
+	 			<unittitle>Etherline, no. 74-82,</unittitle>
+	 			<unitdate>1956</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="f2e14ebe-cf15-44e3-92aa-2c85dea7ea41" type="box">5</container> 
+	 			<container parent="f2e14ebe-cf15-44e3-92aa-2c85dea7ea41" type="folder">10</container> 
+	 			<unittitle>Etherline, no. 83-91,</unittitle>
+	 			<unitdate>1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="34554c18-39e4-46be-89b1-6ca6b61c3c49" type="box">6</container> 
+	 			<container parent="34554c18-39e4-46be-89b1-6ca6b61c3c49" type="folder">1</container> 
+	 			<unittitle>Etherline, no. 92-101,</unittitle>
+	 			<unitdate>1957-1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="667df5dc-a293-4234-a700-e197ea280172" type="box">6</container> 
+	 			<container parent="667df5dc-a293-4234-a700-e197ea280172" type="folder">2</container> 
+	 			<unittitle>Eusifanso, v. 1, no. 6; v. 2, no. 4-5,</unittitle>
+	 			<unitdate>1950-1952</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="db821aa5-39f4-4f31-9179-c7607699f034" type="box">6</container> 
+	 			<container parent="db821aa5-39f4-4f31-9179-c7607699f034" type="folder">3</container> 
+	 			<unittitle>F and SF, v. 1, no. 1-3,</unittitle>
+	 			<unitdate>1958-1959</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5a22d67c-7c71-4f41-b112-65d7c9129441" type="box">6</container> 
+	 			<container parent="5a22d67c-7c71-4f41-b112-65d7c9129441" type="folder">4</container> 
+	 			<unittitle>FFM, April 1957, no. 1-3,</unittitle>
+	 			<unitdate>1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="fe2b0242-64c2-49eb-8638-19192968c037" type="box">6</container> 
+	 			<container parent="fe2b0242-64c2-49eb-8638-19192968c037" type="folder">5</container> 
+	 			<unittitle>FFM Ending, no. 1-4,</unittitle>
+	 			<unitdate>1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2cddf2ca-f212-4992-b00e-67026d627395" type="box">6</container> 
+	 			<container parent="2cddf2ca-f212-4992-b00e-67026d627395" type="folder">6</container> 
+	 			<unittitle>Fadaway, v. 3, no. 2,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="20f48f32-e3e0-4a3c-9a42-e68bc11efbc6" type="box">6</container> 
+	 			<container parent="20f48f32-e3e0-4a3c-9a42-e68bc11efbc6" type="folder">7</container> 
+	 			<unittitle>Famous Monsters, no. 44,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7509553f-7c83-4a1c-8901-63c38a0da71e" type="box">6</container> 
+	 			<container parent="7509553f-7c83-4a1c-8901-63c38a0da71e" type="folder">8</container> 
+	 			<unittitle>Fan, no. 5,</unittitle>
+	 			<unitdate>1945</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a2599c01-40ac-44b6-a774-792258775269" type="box">6</container> 
+	 			<container parent="a2599c01-40ac-44b6-a774-792258775269" type="folder">9</container> 
+	 			<unittitle>Fan-Attic, v. 1, no. 1,</unittitle>
+	 			<unitdate>1956</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="626138cf-6ece-41ea-994d-f90cbac9f3bc" type="box">6</container> 
+	 			<container parent="626138cf-6ece-41ea-994d-f90cbac9f3bc" type="folder">10</container> 
+	 			<unittitle>Fan Slants, v. 1, no. 1,</unittitle>
+	 			<unitdate>1943</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="740fbbbf-7215-4af0-b8da-0174d4d36f43" type="box">6</container> 
+	 			<container parent="740fbbbf-7215-4af0-b8da-0174d4d36f43" type="folder">11</container> 
+	 			<unittitle>Fan-Vet, v. 1, no. 1-2, 5-11; v. 2, no. 3-5; v. 3. no. 1-3, 5-8; v. 4. no. 2; v. 5, no. 2,</unittitle>
+	 			<unitdate>1950-1955</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6edba339-2c88-4850-92bd-0fb8c5dc489c" type="box">6</container> 
+	 			<container parent="6edba339-2c88-4850-92bd-0fb8c5dc489c" type="folder">12</container> 
+	 			<unittitle>Fanac, no. 7-21, 78,</unittitle>
+	 			<unitdate>1958-1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3e28a2b2-7d9d-4a06-b7ac-f227ac34b0cf" type="box">6</container> 
+	 			<container parent="3e28a2b2-7d9d-4a06-b7ac-f227ac34b0cf" type="folder">13</container> 
+	 			<unittitle>Fandom &amp; NFFF,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="f25654e3-348e-473e-891f-0111f4715063" type="box">6</container> 
+	 			<container parent="f25654e3-348e-473e-891f-0111f4715063" type="folder">14</container> 
+	 			<unittitle>Fandom's Burden, no. 1-3,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="fd92e4da-a0b0-41f2-b688-3a6090647df5" type="box">6</container> 
+	 			<container parent="fd92e4da-a0b0-41f2-b688-3a6090647df5" type="folder">15</container> 
+	 			<unittitle>Fanfare Supplement, no. 1,</unittitle>
+	 			<unitdate>1941</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7c193a8e-9d4e-47c5-b69c-e0d5f4f57040" type="box">6</container> 
+	 			<container parent="7c193a8e-9d4e-47c5-b69c-e0d5f4f57040" type="folder">16</container> 
+	 			<unittitle>Fanhistory, no. 1-3,</unittitle>
+	 			<unitdate>1956</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="42b4ead5-c210-41e5-bfdf-ecdf312c5410" type="box">6</container> 
+	 			<container parent="42b4ead5-c210-41e5-bfdf-ecdf312c5410" type="folder">17</container> 
+	 			<unittitle>Fanscient, no. 3-14,</unittitle>
+	 			<unitdate>1948-1951</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="44008db5-6d8f-4be4-b47c-93fffd8103ba" type="box">7</container> 
+	 			<container parent="44008db5-6d8f-4be4-b47c-93fffd8103ba" type="folder">1</container> 
+	 			<unittitle>Fantasia, no. 17-18,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4601fd2c-d967-4415-828f-a6280bcc80d3" type="box">7</container> 
+	 			<container parent="4601fd2c-d967-4415-828f-a6280bcc80d3" type="folder">2</container> 
+	 			<unittitle>Fantasmagorique, no. 3,</unittitle>
+	 			<unitdate>1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3deb3f16-542c-40c1-a6f0-54acd8ac88a2" type="box">7</container> 
+	 			<container parent="3deb3f16-542c-40c1-a6f0-54acd8ac88a2" type="folder">3</container> 
+	 			<unittitle>Fantasy Advertiser, v. 1, no. 1, 3-6,</unittitle>
+	 			<unitdate>1946-1947</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="40bff412-778d-4f44-a683-4b3560eb6cdb" type="box">7</container> 
+	 			<container parent="40bff412-778d-4f44-a683-4b3560eb6cdb" type="folder">4</container> 
+	 			<unittitle>Fantasy Advertiser, v. 2, no.1-6; v. 3, no. 1-5,</unittitle>
+	 			<unitdate>1947-1949</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="18313983-2354-474e-a4e8-9d4d894ff834" type="box">7</container> 
+	 			<container parent="18313983-2354-474e-a4e8-9d4d894ff834" type="folder">5</container> 
+	 			<unittitle>Fantasy Advertiser, v. 4, no. 1-6; v. 5, no. 3,</unittitle>
+	 			<unitdate>1950-1951</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="08f6e1bf-c756-48bf-9e88-ecd3c465332d" type="box">7</container> 
+	 			<container parent="08f6e1bf-c756-48bf-9e88-ecd3c465332d" type="folder">6</container> 
+	 			<unittitle>Fantasy Commentator, v. 1, no. 1, 3, 5, 10-12; v.2, no. 1-3,</unittitle>
+	 			<unitdate>1943-1947</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e9d9b9ad-3896-4d71-bb78-a1d20a574892" type="box">7</container> 
+	 			<container parent="e9d9b9ad-3896-4d71-bb78-a1d20a574892" type="folder">7</container> 
+	 			<unittitle>Fantasy Commentator, v.2, no. 4, 8; v. 3, no. 1-6,</unittitle>
+	 			<unitdate>1947-1952</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4e3aaeb4-e579-45c9-a23f-a1a7d480412e" type="box">7</container> 
+	 			<container parent="4e3aaeb4-e579-45c9-a23f-a1a7d480412e" type="folder">8</container> 
+	 			<unittitle>Fantasy Fiction Field, v. 6, no. 95, 203,</unittitle>
+	 			<unitdate>1942-1944</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="8fc2da56-9b4e-4f12-b198-e3e82d33a305" type="box">7</container> 
+	 			<container parent="8fc2da56-9b4e-4f12-b198-e3e82d33a305" type="folder">9</container> 
+	 			<unittitle>The Fantasy Field, v.1, no. 1-2,</unittitle>
+	 			<unitdate>1948</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ff938c00-a054-4b59-b76b-afc9ed398965" type="box">8</container> 
+	 			<container parent="ff938c00-a054-4b59-b76b-afc9ed398965" type="folder">1</container> 
+	 			<unittitle>Fantasy Jackass, no. 1,</unittitle>
+	 			<unitdate>1951</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e0c03da4-e411-4063-bbbc-790a0a23b6f5" type="box">8</container> 
+	 			<container parent="e0c03da4-e411-4063-bbbc-790a0a23b6f5" type="folder">2</container> 
+	 			<unittitle>Fantasy News, v. 7, no. 4-6, 9-14,</unittitle>
+	 			<unitdate>1941-1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6b613f92-e9c8-45e1-b418-b7005d3f1133" type="box">8</container> 
+	 			<container parent="6b613f92-e9c8-45e1-b418-b7005d3f1133" type="folder">3</container> 
+	 			<unittitle>Fantasy Pseudonyms,</unittitle>
+	 			<unitdate>1956</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d99f89d0-075f-4ec7-8169-056ab7220801" type="box">8</container> 
+	 			<container parent="d99f89d0-075f-4ec7-8169-056ab7220801" type="folder">4</container> 
+	 			<unittitle>Fantasy Times, v. 1, no. 4; v. 2, no. 2; v. 4, no. 21, 23; v. 5, no. 1-2, 4-21, 23-24, (Whole no. 11, 94-96, 98, 100-117, 119-120),</unittitle>
+	 			<unitdate>1941, 1949-1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="459ed3e3-ca98-4fca-97f5-bce4a7de395a" type="box">8</container> 
+	 			<container parent="459ed3e3-ca98-4fca-97f5-bce4a7de395a" type="folder">5</container> 
+	 			<unittitle>Fantasy Times, v. 6, no. 1-18, 20-24; v. 7, no. 1-6, (Whole no. 121-138, 140-150),</unittitle>
+	 			<unitdate>1951-1952</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d94222af-5210-4aac-8578-e57c33299a80" type="box">8</container> 
+	 			<container parent="d94222af-5210-4aac-8578-e57c33299a80" type="folder">6</container> 
+	 			<unittitle>Fantasy Times, v. 7, no. 7, 9-24; v. 8, no. 1-13 (Whole no. 151, 153-181),</unittitle>
+	 			<unitdate>1951-1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0343f075-c772-4c15-b144-a09ebad814ab" type="box">8</container> 
+	 			<container parent="0343f075-c772-4c15-b144-a09ebad814ab" type="folder">7</container> 
+	 			<unittitle>Fantasy Times, v. 8, no. 14-24; v. 9, no. 1-11; v. 9, no. 204-213, (Whole no. 182-213),</unittitle>
+	 			<unitdate>1953-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="97124046-ca51-4e61-966e-4ba897c52b67" type="box">8</container> 
+	 			<container parent="97124046-ca51-4e61-966e-4ba897c52b67" type="folder">8</container> 
+	 			<unittitle>Fantasy Times, v. 10-11, no. 214-249, 251-252,</unittitle>
+	 			<unitdate>1954-1955</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="540d88aa-7f26-45b4-9a93-2d67d299ad4b" type="box">9</container> 
+	 			<container parent="540d88aa-7f26-45b4-9a93-2d67d299ad4b" type="folder">1</container> 
+	 			<unittitle>Fantasy Times, v. 11-12, no. 253-269,</unittitle>
+	 			<unitdate>1956-1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a760df34-6e9d-462e-97b8-c9ef662f6680" type="box">9</container> 
+	 			<container parent="a760df34-6e9d-462e-97b8-c9ef662f6680" type="folder">2</container> 
+	 			<unittitle>Fantopics, no. 4,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4f69a2c8-6416-4255-970e-a795afb096ab" type="box">9</container> 
+	 			<container parent="4f69a2c8-6416-4255-970e-a795afb096ab" type="folder">3</container> 
+	 			<unittitle>Fen, no. 2,</unittitle>
+	 			<unitdate>circa 1944</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9d85d0fe-b989-42b0-b624-41271efa343d" type="box">9</container> 
+	 			<container parent="9d85d0fe-b989-42b0-b624-41271efa343d" type="folder">4</container> 
+	 			<unittitle>Fen Crittur,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="550700f7-e073-4111-904e-b9cd51e8d6aa" type="box">9</container> 
+	 			<container parent="550700f7-e073-4111-904e-b9cd51e8d6aa" type="folder">5</container> 
+	 			<unittitle>Future Fandom Stories, no. 1,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="614cc423-b640-4011-a485-a8e150d6e89d" type="box">9</container> 
+	 			<container parent="614cc423-b640-4011-a485-a8e150d6e89d" type="folder">6</container> 
+	 			<unittitle>Fijah, no. 3,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="86bd4776-0dcb-444f-8386-0c48d0508d9b" type="box">9</container> 
+	 			<container parent="86bd4776-0dcb-444f-8386-0c48d0508d9b" type="folder">7</container> 
+	 			<unittitle>Forerunner, no. 2,</unittitle>
+	 			<unitdate>1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="643a3a7e-a9b5-45fa-83b0-028ad8bc296c" type="box">9</container> 
+	 			<container parent="643a3a7e-a9b5-45fa-83b0-028ad8bc296c" type="folder">8</container> 
+	 			<unittitle>Futurian Advance, v. 1, no. 1,</unittitle>
+	 			<unitdate>1944</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d817ceea-3e04-4bbd-9cae-2e50920c3f35" type="box">9</container> 
+	 			<container parent="d817ceea-3e04-4bbd-9cae-2e50920c3f35" type="folder">9</container> 
+	 			<unittitle>Futurian Letters, no. 1,</unittitle>
+	 			<unitdate>1944</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7fb90024-1e91-4dcb-a537-5bae6801690b" type="box">9</container> 
+	 			<container parent="7fb90024-1e91-4dcb-a537-5bae6801690b" type="folder">10</container> 
+	 			<unittitle>Futurian Society News, no. 11,</unittitle>
+	 			<unitdate>1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="eccdf416-b936-41ea-ad36-ad8c0a17caa9" type="box">9</container> 
+	 			<container parent="eccdf416-b936-41ea-ad36-ad8c0a17caa9" type="folder">11</container> 
+	 			<unittitle>G2, v. 1, no. 1-4; v.3 , no. 7; v. 5, no. 3,</unittitle>
+	 			<unitdate>1961-1965</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="40ad9ced-43a4-4849-8408-9702cfc46eec" type="box">9</container> 
+	 			<container parent="40ad9ced-43a4-4849-8408-9702cfc46eec" type="folder">12</container> 
+	 			<unittitle>Galac-Ticks, v. 1, no. 6, 15,</unittitle>
+	 			<unitdate>1959</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9c77d75c-5607-46e9-a6a1-1baea9c3e634" type="box">9</container> 
+	 			<container parent="9c77d75c-5607-46e9-a6a1-1baea9c3e634" type="folder">13</container> 
+	 			<unittitle>Garden Library News and World Report, 5 issues,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c4d3544f-38e7-4e5a-a512-5a015a11ce50" type="box">9</container> 
+	 			<container parent="c4d3544f-38e7-4e5a-a512-5a015a11ce50" type="folder">14</container> 
+	 			<unittitle>Ghuvna, v. 1, no. 1,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="8dfdceb5-8836-4914-8e69-70b86969c28a" type="box">9</container> 
+	 			<container parent="8dfdceb5-8836-4914-8e69-70b86969c28a" type="folder">15</container> 
+	 			<unittitle>Gigantic, v. 1, no. 1,</unittitle>
+	 			<unitdate>1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ff5fd8a5-717c-467b-aba3-36c4a4e363cb" type="box">9</container> 
+	 			<container parent="ff5fd8a5-717c-467b-aba3-36c4a4e363cb" type="folder">16</container> 
+	 			<unittitle>Glom, no. 6, 13,</unittitle>
+	 			<unitdate>1947, 1949</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="bd543956-03fe-46f9-8c3a-1ab7b6c4e1d7" type="box">9</container> 
+	 			<container parent="bd543956-03fe-46f9-8c3a-1ab7b6c4e1d7" type="folder">17</container> 
+	 			<unittitle>Golden Atom,</unittitle>
+	 			<unitdate>1955</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d85e07d7-534a-4b9a-86d3-7461b1ec4f3c" type="box">9</container> 
+	 			<container parent="d85e07d7-534a-4b9a-86d3-7461b1ec4f3c" type="folder">18</container> 
+	 			<unittitle>Grapevine, no. 60,</unittitle>
+	 			<unitdate>1959</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5f86197a-bdf2-444a-8c5a-3b5bc5dae70e" type="box">9</container> 
+	 			<container parent="5f86197a-bdf2-444a-8c5a-3b5bc5dae70e" type="folder">19</container> 
+	 			<unittitle>Ground Zero, no. 1-5,</unittitle>
+	 			<unitdate>1958-1960</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a48d1f34-bd3f-4b0b-892a-4ed966e62a32" type="box">9</container> 
+	 			<container parent="a48d1f34-bd3f-4b0b-892a-4ed966e62a32" type="folder">20</container> 
+	 			<unittitle>Grue, no. 20,</unittitle>
+	 			<unitdate>1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ec147095-62fb-4f3c-82ba-ecd0081330e1" type="box">9</container> 
+	 			<container parent="ec147095-62fb-4f3c-82ba-ecd0081330e1" type="folder">21</container> 
+	 			<unittitle>Guliard, no. 838,</unittitle>
+	 			<unitdate>1966</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="44c921d2-4841-4f1f-8f1c-d5ce42065dc1" type="box">9</container> 
+	 			<container parent="44c921d2-4841-4f1f-8f1c-d5ce42065dc1" type="folder">22</container> 
+	 			<unittitle>Gumbie, no. 1,</unittitle>
+	 			<unitdate>1960</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ba191e4d-0add-4c98-83fb-7c55680edb9c" type="box">9</container> 
+	 			<container parent="ba191e4d-0add-4c98-83fb-7c55680edb9c" type="folder">23</container> 
+	 			<unittitle>Habakkuk, no. 6; Chapter 2, Verse 1,</unittitle>
+	 			<unitdate>1961, 1966</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2156ceb5-9442-4471-8db7-052c1571fc05" type="box">10</container> 
+	 			<container parent="2156ceb5-9442-4471-8db7-052c1571fc05" type="folder">1</container> 
+	 			<unittitle>Habakkuk, Chapter 2, Verse 2-3,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5d0e07a4-64a4-4ffd-af68-d4e52a865c78" type="box">10</container> 
+	 			<container parent="5d0e07a4-64a4-4ffd-af68-d4e52a865c78" type="folder">2</container> 
+	 			<unittitle>Haunted, v. 1, no. 1-2,</unittitle>
+	 			<unitdate>1963-1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3a16a940-9174-4564-a6a3-ac840071afe4" type="box">10</container> 
+	 			<container parent="3a16a940-9174-4564-a6a3-ac840071afe4" type="folder">3</container> 
+	 			<unittitle>Hello Out There,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="fac2c989-2cbb-477c-b475-bf83ffc097b1" type="box">10</container> 
+	 			<container parent="fac2c989-2cbb-477c-b475-bf83ffc097b1" type="folder">4</container> 
+	 			<unittitle>Hklplod Gnome, no. 2,</unittitle>
+	 			<unitdate>1962</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="dd1a45b5-cfd7-4e82-9714-fe8818245e7c" type="box">10</container> 
+	 			<container parent="dd1a45b5-cfd7-4e82-9714-fe8818245e7c" type="folder">5</container> 
+	 			<unittitle>Hobgoblin, no. 14,</unittitle>
+	 			<unitdate>1965</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2e9ecc74-ffc0-4e96-a23f-0401c7d4319c" type="box">10</container> 
+	 			<container parent="2e9ecc74-ffc0-4e96-a23f-0401c7d4319c" type="folder">6</container> 
+	 			<unittitle>Homunculus, no. 3,</unittitle>
+	 			<unitdate>circa 1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="bbc35ffe-9557-4b87-acf5-ac0be821eb23" type="box">10</container> 
+	 			<container parent="bbc35ffe-9557-4b87-acf5-ac0be821eb23" type="folder">7</container> 
+	 			<unittitle>Hugo Report, no. 1-2,</unittitle>
+	 			<unitdate>1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c80c6730-1d3a-4ca3-8a1e-82bcb3cae661" type="box">10</container> 
+	 			<container parent="c80c6730-1d3a-4ca3-8a1e-82bcb3cae661" type="folder">8</container> 
+	 			<unittitle>Hydra Club Bulletin, v. 1, no. 1,</unittitle>
+	 			<unitdate>1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5db06efa-236b-4405-bf70-d479d9b1b863" type="box">10</container> 
+	 			<container parent="5db06efa-236b-4405-bf70-d479d9b1b863" type="folder">9</container> 
+	 			<unittitle>Hyphen, no. 1-5, 7,</unittitle>
+	 			<unitdate>1952-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="1822cf54-b8c0-49f1-a206-86a372415f3f" type="box">10</container> 
+	 			<container parent="1822cf54-b8c0-49f1-a206-86a372415f3f" type="folder">10</container> 
+	 			<unittitle>Hyphen, no. 9-12, 14-16, 18,</unittitle>
+	 			<unitdate>1954-1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c524e5d5-0741-41cf-9898-753fbd48c75a" type="box">10</container> 
+	 			<container parent="c524e5d5-0741-41cf-9898-753fbd48c75a" type="folder">11</container> 
+	 			<unittitle>I-Palantir, no. 1,</unittitle>
+	 			<unitdate>1960</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="54cfbde5-0a11-416e-b4d7-439c52252f4f" type="box">10</container> 
+	 			<container parent="54cfbde5-0a11-416e-b4d7-439c52252f4f" type="folder">12</container> 
+	 			<unittitle>IBM Fanalog Fanzine,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ea42ae0c-9a5e-482c-af5c-43e7ab2546fb" type="box">10</container> 
+	 			<container parent="ea42ae0c-9a5e-482c-af5c-43e7ab2546fb" type="folder">13</container> 
+	 			<unittitle>If, v. 1, no.5,</unittitle>
+	 			<unitdate>1949</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="eb708bf2-fe74-4ea3-86fc-334767cf9f74" type="box">10</container> 
+	 			<container parent="eb708bf2-fe74-4ea3-86fc-334767cf9f74" type="folder">14</container> 
+	 			<unittitle>Improbable, v. 1, no. 2,</unittitle>
+	 			<unitdate>circa 1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="10aae48f-5975-47ce-8b14-95a9571ddb1c" type="box">10</container> 
+	 			<container parent="10aae48f-5975-47ce-8b14-95a9571ddb1c" type="folder">15</container> 
+	 			<unittitle>Incinerations, v. 1, no. 1-4,</unittitle>
+	 			<unitdate>1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="bf67ddb5-64f2-4407-927f-d109d6824dbd" type="box">10</container> 
+	 			<container parent="bf67ddb5-64f2-4407-927f-d109d6824dbd" type="folder">16</container> 
+	 			<unittitle>Information Bulletin, no. 1,</unittitle>
+	 			<unitdate>1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c85ef3b6-8fe9-4a49-9396-ecbe1e0d72e5" type="box">10</container> 
+	 			<container parent="c85ef3b6-8fe9-4a49-9396-ecbe1e0d72e5" type="folder">17</container> 
+	 			<unittitle>Innavigable Mouth, no. 1-5,</unittitle>
+	 			<unitdate>1957-1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="188ac8ca-ac8d-4012-9632-95463cbc00d4" type="box">10</container> 
+	 			<container parent="188ac8ca-ac8d-4012-9632-95463cbc00d4" type="folder">18</container> 
+	 			<unittitle>Innuendo, no. 8,</unittitle>
+	 			<unitdate>1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="fe6fd389-72ef-4449-bfe1-e13a7d75a652" type="box">10</container> 
+	 			<container parent="fe6fd389-72ef-4449-bfe1-e13a7d75a652" type="folder">19</container> 
+	 			<unittitle>Ishbar, no. 1,</unittitle>
+	 			<unitdate>1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d49ce91e-efb2-4924-a8ca-7335c977ac93" type="box">11</container> 
+	 			<container parent="d49ce91e-efb2-4924-a8ca-7335c977ac93" type="folder">1</container> 
+	 			<unittitle>Inside, no. 3-4, 7-12,</unittitle>
+	 			<unitdate>1953-1955</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3beff434-9bcc-4f4d-bf01-a945c0f6c908" type="box">11</container> 
+	 			<container parent="3beff434-9bcc-4f4d-bf01-a945c0f6c908" type="folder">2</container> 
+	 			<unittitle>Inside, no. 13-17, no. 52; v. 2, no. 1-2,</unittitle>
+	 			<unitdate>1956-1957, 1962-1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="12c3e30b-0870-4eaf-b899-0b065057b19f" type="box">11</container> 
+	 			<container parent="12c3e30b-0870-4eaf-b899-0b065057b19f" type="folder">3</container> 
+	 			<unittitle>It, v. 1, no. 4-6,</unittitle>
+	 			<unitdate>1953-1956</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="05c56019-f4a4-4714-b77a-691d9e4f1a09" type="box">11</container> 
+	 			<container parent="05c56019-f4a4-4714-b77a-691d9e4f1a09" type="folder">4</container> 
+	 			<unittitle>Knight's Mare, no. 1,</unittitle>
+	 			<unitdate>1956</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="8dfa94f0-991a-4af7-b0ef-7aeb2a007e2a" type="box">11</container> 
+	 			<container parent="8dfa94f0-991a-4af7-b0ef-7aeb2a007e2a" type="folder">5</container> 
+	 			<unittitle>LASFS Newsletter, no. 2, 23-24; v. 5, no. 1-2, 2 bulletins,</unittitle>
+	 			<unitdate>1964, undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="56489b4d-8b9f-45d9-a302-7c0bb04ad2d6" type="box">11</container> 
+	 			<container parent="56489b4d-8b9f-45d9-a302-7c0bb04ad2d6" type="folder">6</container> 
+	 			<unittitle>L'Affaires Shangri Fact &amp; Friction, no. 49,</unittitle>
+	 			<unitdate>1960</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="f6471329-b45b-4aa1-904d-4a410d849d2d" type="box">11</container> 
+	 			<container parent="f6471329-b45b-4aa1-904d-4a410d849d2d" type="folder">7</container> 
+	 			<unittitle>Lethe, no. 1, 5, 7,</unittitle>
+	 			<unitdate>1944-1947</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="eecebd1e-4a74-4401-a5f3-ccf6eb6c553e" type="box">11</container> 
+	 			<container parent="eecebd1e-4a74-4401-a5f3-ccf6eb6c553e" type="folder">8</container> 
+	 			<unittitle>Lighthouse, no. 14-15,</unittitle>
+	 			<unitdate>1966-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4ffd7e9f-d2b2-4ffc-a5a7-a2cc2a8f9dda" type="box">11</container> 
+	 			<container parent="4ffd7e9f-d2b2-4ffc-a5a7-a2cc2a8f9dda" type="folder">9</container> 
+	 			<unittitle>The Loyal Opposition,</unittitle>
+	 			<unitdate>1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="68d2872a-25f9-4198-b20e-768deb3142c5" type="box">11</container> 
+	 			<container parent="68d2872a-25f9-4198-b20e-768deb3142c5" type="folder">10</container> 
+	 			<unittitle>Lunar Look, v. 1, no. 1,</unittitle>
+	 			<unitdate>1962</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6df0fbf0-5c5b-42fd-9861-942a6ebd4c07" type="box">11</container> 
+	 			<container parent="6df0fbf0-5c5b-42fd-9861-942a6ebd4c07" type="folder">11</container> 
+	 			<unittitle>MFS Bulletin, v. 3, no. 8, 10-11, (whole no. 20, 22-23),</unittitle>
+	 			<unitdate>1943</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b6969acb-e046-4e74-84af-f53d91455d31" type="box">11</container> 
+	 			<container parent="b6969acb-e046-4e74-84af-f53d91455d31" type="folder">12</container> 
+	 			<unittitle>Macabre, no. 1, 14,</unittitle>
+	 			<unitdate>1952, 1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="765dcbbf-36b6-45a2-a799-74ba126d9c7f" type="box">12</container> 
+	 			<container parent="765dcbbf-36b6-45a2-a799-74ba126d9c7f" type="folder">1</container> 
+	 			<unittitle>Magnitude, v. 1, no.3-4,</unittitle>
+	 			<unitdate>1956-1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0ceac439-7633-4c2d-94dc-ea8627b0f63e" type="box">12</container> 
+	 			<container parent="0ceac439-7633-4c2d-94dc-ea8627b0f63e" type="folder">2</container> 
+	 			<unittitle>Maneki-Neko, no. 1,</unittitle>
+	 			<unitdate>circa 1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3f4bab91-ec5e-45ad-b326-cfeb724df7f8" type="box">12</container> 
+	 			<container parent="3f4bab91-ec5e-45ad-b326-cfeb724df7f8" type="folder">3</container> 
+	 			<unittitle>Mark V,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d92abb8b-bcbb-4df8-bf5f-72ff811b5f15" type="box">12</container> 
+	 			<container parent="d92abb8b-bcbb-4df8-bf5f-72ff811b5f15" type="folder">4</container> 
+	 			<unittitle>Masque, v. 2, no. 1, 5,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="624f033e-b644-45bf-b9d1-8bfddc72d97e" type="box">12</container> 
+	 			<container parent="624f033e-b644-45bf-b9d1-8bfddc72d97e" type="folder">5</container> 
+	 			<unittitle>Metrofan, no. 7-9,</unittitle>
+	 			<unitdate>1957-1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9d283a42-2c96-461b-a55f-6fe0fbcb558b" type="box">12</container> 
+	 			<container parent="9d283a42-2c96-461b-a55f-6fe0fbcb558b" type="folder">6</container> 
+	 			<unittitle>Meuh, no. 1-3,</unittitle>
+	 			<unitdate>1956-1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b451612f-d3fb-4d7e-881d-7109ea7a01f5" type="box">12</container> 
+	 			<container parent="b451612f-d3fb-4d7e-881d-7109ea7a01f5" type="folder">7</container> 
+	 			<unittitle>Miafan, no. 7,</unittitle>
+	 			<unitdate>1962</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0badcfdf-9ea5-468a-973e-2250227af43a" type="box">12</container> 
+	 			<container parent="0badcfdf-9ea5-468a-973e-2250227af43a" type="folder">8</container> 
+	 			<unittitle>Midge, no. 3-4,</unittitle>
+	 			<unitdate>1943-1944</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="15cb3ceb-5258-4d7b-9be3-5e46c5648d74" type="box">12</container> 
+	 			<container parent="15cb3ceb-5258-4d7b-9be3-5e46c5648d74" type="folder">9</container> 
+	 			<unittitle>Mimsy, no. 1-2,</unittitle>
+	 			<unitdate>circa 1959</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="cd210155-d06a-48dd-9d38-9ad8db272683" type="box">12</container> 
+	 			<container parent="cd210155-d06a-48dd-9d38-9ad8db272683" type="folder">10</container> 
+	 			<unittitle>Monster Times, no. 1,</unittitle>
+	 			<unitdate>1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="bc90c75a-d91e-40cd-89d3-5633bbde7dfd" type="box">12</container> 
+	 			<container parent="bc90c75a-d91e-40cd-89d3-5633bbde7dfd" type="folder">11</container> 
+	 			<unittitle>Moor Park, no. 2,</unittitle>
+	 			<unitdate>1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ee1dfede-646c-403c-8772-2ae969252692" type="box">12</container> 
+	 			<container parent="ee1dfede-646c-403c-8772-2ae969252692" type="folder">12</container> 
+	 			<unittitle>Moonweb,</unittitle>
+	 			<unitdate>1966</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="615182cd-f9f8-49fe-9599-a71996b877ad" type="box">12</container> 
+	 			<container parent="615182cd-f9f8-49fe-9599-a71996b877ad" type="folder">13</container> 
+	 			<unittitle>Muzzy, no. 5,</unittitle>
+	 			<unitdate>1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6c43d5e2-910c-435b-a0b9-6bc011ef32ef" type="box">12</container> 
+	 			<container parent="6c43d5e2-910c-435b-a0b9-6bc011ef32ef" type="folder">14</container> 
+	 			<unittitle>Namelessessentials, no. 1,</unittitle>
+	 			<unitdate>1951</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b30a217c-c7bf-4d60-ae39-85caa9ba2220" type="box">12</container> 
+	 			<container parent="b30a217c-c7bf-4d60-ae39-85caa9ba2220" type="folder">15</container> 
+	 			<unittitle>National Fantasy Fan, v. 15, no. 2,</unittitle>
+	 			<unitdate>1956</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="fdda4fd2-db68-4d5a-9df9-f4634621a021" type="box">12</container> 
+	 			<container parent="fdda4fd2-db68-4d5a-9df9-f4634621a021" type="folder">16</container> 
+	 			<unittitle>The Nehwon Review, no. 2,</unittitle>
+	 			<unitdate>1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e2cc9077-d187-41bb-b62e-4caa7d817a2e" type="box">12</container> 
+	 			<container parent="e2cc9077-d187-41bb-b62e-4caa7d817a2e" type="folder">17</container> 
+	 			<unittitle>Nematode, no. 5,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="86e052b6-8e2d-48a9-a57f-d437ee05a6e1" type="box">12</container> 
+	 			<container parent="86e052b6-8e2d-48a9-a57f-d437ee05a6e1" type="folder">18</container> 
+	 			<unittitle>News Edited Today, no. 1,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2e85cf00-9647-4588-8a8d-7492da1aec03" type="box">12</container> 
+	 			<container parent="2e85cf00-9647-4588-8a8d-7492da1aec03" type="folder">19</container> 
+	 			<unittitle>Niekas, no. 6-11,</unittitle>
+	 			<unitdate>1963-1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9407ddb4-62cc-4480-9488-5d7588805c95" type="box">12</container> 
+	 			<container parent="9407ddb4-62cc-4480-9488-5d7588805c95" type="folder">20</container> 
+	 			<unittitle>Niekas, no. 12-14,</unittitle>
+	 			<unitdate>1964-1965</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="871a8521-3ee1-401d-b035-c837b8e8dad6" type="box">13</container> 
+	 			<container parent="871a8521-3ee1-401d-b035-c837b8e8dad6" type="folder">1</container> 
+	 			<unittitle>Niekas, no. 15-17,</unittitle>
+	 			<unitdate>1966</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="094f5f40-599e-46c5-a04f-1a812d01c62b" type="box">13</container> 
+	 			<container parent="094f5f40-599e-46c5-a04f-1a812d01c62b" type="folder">2</container> 
+	 			<unittitle>Niekas, no. 18-19,</unittitle>
+	 			<unitdate>1967-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6ba9c66f-325a-42f9-b091-63f60a2ada04" type="box">13</container> 
+	 			<container parent="6ba9c66f-325a-42f9-b091-63f60a2ada04" type="folder">3</container> 
+	 			<unittitle>Nighshade, v. 1, no.6,</unittitle>
+	 			<unitdate>1966</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4fac2b59-7b59-4fce-a72e-bb0fafbaab5b" type="box">13</container> 
+	 			<container parent="4fac2b59-7b59-4fce-a72e-bb0fafbaab5b" type="folder">4</container> 
+	 			<unittitle>Nyarlathotep, no. 1,</unittitle>
+	 			<unitdate>1965</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="db9a4e5f-bbe0-42f1-8aff-f8651a356658" type="box">13</container> 
+	 			<container parent="db9a4e5f-bbe0-42f1-8aff-f8651a356658" type="folder">5</container> 
+	 			<unittitle>Oakventioneer, no. 0-3,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0373ea44-c2e6-4e1b-bf6e-1550e886c663" type="box">13</container> 
+	 			<container parent="0373ea44-c2e6-4e1b-bf6e-1550e886c663" type="folder">6</container> 
+	 			<unittitle>Obgis, no. 1,</unittitle>
+	 			<unitdate>1959</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d2545e08-9f15-4223-9812-3871ad695825" type="box">13</container> 
+	 			<container parent="d2545e08-9f15-4223-9812-3871ad695825" type="folder">7</container> 
+	 			<unittitle>Oblique, no. 4,</unittitle>
+	 			<unitdate>1955</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6c1af978-71b6-4d26-b365-f30a73191958" type="box">13</container> 
+	 			<container parent="6c1af978-71b6-4d26-b365-f30a73191958" type="folder">8</container> 
+	 			<unittitle>Odd, no. 16-18,</unittitle>
+	 			<unitdate>1967-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="189d45c8-d0b0-4bb9-9275-7e75d5634dc0" type="box">13</container> 
+	 			<container parent="189d45c8-d0b0-4bb9-9275-7e75d5634dc0" type="folder">9</container> 
+	 			<unittitle>Offshoot, no. 5,</unittitle>
+	 			<unitdate>1960</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="58580830-0bdb-41af-afbe-d1d9af4230d9" type="box">13</container> 
+	 			<container parent="58580830-0bdb-41af-afbe-d1d9af4230d9" type="folder">10</container> 
+	 			<unittitle>Old Maid's Gazette,</unittitle>
+	 			<unitdate>1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e118dacb-34c4-42f4-887b-e9c30a6f4592" type="box">13</container> 
+	 			<container parent="e118dacb-34c4-42f4-887b-e9c30a6f4592" type="folder">11</container> 
+	 			<unittitle>One Fingers-Four Fingers, no. 4,</unittitle>
+	 			<unitdate>1945</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c47fc733-b48b-40ac-b972-3b9f7ddd9b1d" type="box">13</container> 
+	 			<container parent="c47fc733-b48b-40ac-b972-3b9f7ddd9b1d" type="folder">12</container> 
+	 			<unittitle>Oopsla, no. 9,13, 15-18,</unittitle>
+	 			<unitdate>1953-1955</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b2b63193-9b97-4c1f-a0cc-d3565ae3b491" type="box">13</container> 
+	 			<container parent="b2b63193-9b97-4c1f-a0cc-d3565ae3b491" type="folder">13</container> 
+	 			<unittitle>Oopsla, no. 19-25,</unittitle>
+	 			<unitdate>1955-1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="db284e69-597e-4d95-8394-fc885c1806ef" type="box">14</container> 
+	 			<container parent="db284e69-597e-4d95-8394-fc885c1806ef" type="folder">1</container> 
+	 			<unittitle>Operation Fantast, v. 1, no. 7-8, Handbook 1952, Handbook 1953, 1951-1953,</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="8df87d70-122f-4f7b-99ed-52370497fbf1" type="box">14</container> 
+	 			<container parent="8df87d70-122f-4f7b-99ed-52370497fbf1" type="folder">2</container> 
+	 			<unittitle>Orgasm, v. 1, no. 2,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="46b37492-35b5-43f8-b8e2-8e3c0578a5d1" type="box">14</container> 
+	 			<container parent="46b37492-35b5-43f8-b8e2-8e3c0578a5d1" type="folder">3</container> 
+	 			<unittitle>The Outlander, no. 1, 13, August 1956, 1951, 1956,</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="32b78ee0-f7b0-44c6-b486-6d0cfc8531f9" type="box">14</container> 
+	 			<container parent="32b78ee0-f7b0-44c6-b486-6d0cfc8531f9" type="folder">4</container> 
+	 			<unittitle>Outlandi,</unittitle>
+	 			<unitdate>1944</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2ad00d3e-22ca-4ae3-aa6f-f536e26cf76d" type="box">14</container> 
+	 			<container parent="2ad00d3e-22ca-4ae3-aa6f-f536e26cf76d" type="folder">5</container> 
+	 			<unittitle>Outre, v. 1, no. 2,</unittitle>
+	 			<unitdate>1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ceb287bb-77a0-4db2-9741-c2c6fc075e3d" type="box">14</container> 
+	 			<container parent="ceb287bb-77a0-4db2-9741-c2c6fc075e3d" type="folder">6</container> 
+	 			<unittitle>Parsection, no. 7,</unittitle>
+	 			<unitdate>1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4bbcc1e5-168d-4851-83d8-98a621eb06cf" type="box">14</container> 
+	 			<container parent="4bbcc1e5-168d-4851-83d8-98a621eb06cf" type="folder">7</container> 
+	 			<unittitle>Pastell, v. 5, no. 1,</unittitle>
+	 			<unitdate>1965</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0a03aeee-fe88-4c5d-ba33-6488cb18721e" type="box">14</container> 
+	 			<container parent="0a03aeee-fe88-4c5d-ba33-6488cb18721e" type="folder">8</container> 
+	 			<unittitle>Peon, v. 1 no. 2-3; v. 2, no. 1-6; v. 3, no. 1 (2copies), (whole no. 2-13),</unittitle>
+	 			<unitdate>1948-1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ce84fe5e-b32d-426a-8c2c-d453a56b0167" type="box">14</container> 
+	 			<container parent="ce84fe5e-b32d-426a-8c2c-d453a56b0167" type="folder">9</container> 
+	 			<unittitle>Peon, v. 3, no. 2-4; v. 4, no. 1-5, (whole no. 14-21),</unittitle>
+	 			<unitdate>1950-1951</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="1cf5dbc4-93ce-49a1-94ff-549dc53b54c0" type="box">14</container> 
+	 			<container parent="1cf5dbc4-93ce-49a1-94ff-549dc53b54c0" type="folder">10</container> 
+	 			<unittitle>Peon, v. 4, no. 5; v. 5, no. 1-4; v. 6, no. 1-4, (whole no. 21-28),</unittitle>
+	 			<unitdate>1950-1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c96ffef8-ca23-4108-998e-6ab69332bd84" type="box">14</container> 
+	 			<container parent="c96ffef8-ca23-4108-998e-6ab69332bd84" type="folder">11</container> 
+	 			<unittitle>Peon, v. 6, no. 5; v. 7, no. 1-3, (whole no. 29-32),</unittitle>
+	 			<unitdate>1953-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="f9a40675-186a-413b-986d-21ff00e920cb" type="box">15</container> 
+	 			<container parent="f9a40675-186a-413b-986d-21ff00e920cb" type="folder">1</container> 
+	 			<unittitle>Peon, v. 7, no. 3; v. 8, no. 1-3; v. 9, no. 1; v. 10, no. 1, (whole no. 33-38),</unittitle>
+	 			<unitdate>1954-1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0610550f-c76b-450e-851a-41d1144aacd3" type="box">15</container> 
+	 			<container parent="0610550f-c76b-450e-851a-41d1144aacd3" type="folder">2</container> 
+	 			<unittitle>PITFCS, no. 127-137,</unittitle>
+	 			<unitdate>circa 1958-1960</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6b0f8cec-5968-4050-b440-b36557c3ad66" type="box">15</container> 
+	 			<container parent="6b0f8cec-5968-4050-b440-b36557c3ad66" type="folder">3</container> 
+	 			<unittitle>PITFCS, no. 138-143,</unittitle>
+	 			<unitdate>1960-1962</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="aa7ed163-cce4-4f61-afbc-82e42d343d34" type="box">15</container> 
+	 			<container parent="aa7ed163-cce4-4f61-afbc-82e42d343d34" type="folder">4</container> 
+	 			<unittitle>Ploy, no. 14,</unittitle>
+	 			<unitdate>1959</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a3397669-d527-4b32-b372-b844ecc8aac5" type="box">15</container> 
+	 			<container parent="a3397669-d527-4b32-b372-b844ecc8aac5" type="folder">5</container> 
+	 			<unittitle>Polestar Chapbook, no. 1,</unittitle>
+	 			<unitdate>1960</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="13eadd35-58ce-4c65-80ff-a125823cabf7" type="box">15</container> 
+	 			<container parent="13eadd35-58ce-4c65-80ff-a125823cabf7" type="folder">6</container> 
+	 			<unittitle>Poor Richard's Almanac, no. 9,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="26415818-9745-48a6-866d-3f24ff7f7264" type="box">15</container> 
+	 			<container parent="26415818-9745-48a6-866d-3f24ff7f7264" type="folder">7</container> 
+	 			<unittitle>Probe,</unittitle>
+	 			<unitdate>1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="66172de2-3605-4a43-9ff3-94ca2d37f0cf" type="box">15</container> 
+	 			<container parent="66172de2-3605-4a43-9ff3-94ca2d37f0cf" type="folder">8</container> 
+	 			<unittitle>Profanity, no. 1-2,</unittitle>
+	 			<unitdate>1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2dd27073-ebca-4767-b2de-f9f8078bff4f" type="box">15</container> 
+	 			<container parent="2dd27073-ebca-4767-b2de-f9f8078bff4f" type="folder">9</container> 
+	 			<unittitle>PS SF Bulletin, v. 3, no. 5,</unittitle>
+	 			<unitdate>1949</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5ebf7fca-5c72-4137-9a35-cc7c3fca197d" type="box">15</container> 
+	 			<container parent="5ebf7fca-5c72-4137-9a35-cc7c3fca197d" type="folder">10</container> 
+	 			<unittitle>Psychotic, no. 5, 17-20, 23-24,</unittitle>
+	 			<unitdate>circa 1952-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="99db6590-fd0b-455a-aea6-66205ec8f924" type="box">16</container> 
+	 			<container parent="99db6590-fd0b-455a-aea6-66205ec8f924" type="folder">1</container> 
+	 			<unittitle>QAR, no. 1, (2 copies),</unittitle>
+	 			<unitdate>1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="19ceb857-ce80-4aa5-874f-4aadf030b953" type="box">16</container> 
+	 			<container parent="19ceb857-ce80-4aa5-874f-4aadf030b953" type="folder">2</container> 
+	 			<unittitle>QRM, no. 1,</unittitle>
+	 			<unitdate>1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2877b209-ac2a-4113-8b50-45da3e3ab372" type="box">16</container> 
+	 			<container parent="2877b209-ac2a-4113-8b50-45da3e3ab372" type="folder">3</container> 
+	 			<unittitle>Quandry, no. 12, 23-29,</unittitle>
+	 			<unitdate>1952-1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0f536251-e5a2-4a66-ab9d-de717244b997" type="box">16</container> 
+	 			<container parent="0f536251-e5a2-4a66-ab9d-de717244b997" type="folder">4</container> 
+	 			<unittitle>Quanta, v. 1, no. 4,</unittitle>
+	 			<unitdate>1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d7326b01-c526-43b1-abb8-b7b67eafb843" type="box">16</container> 
+	 			<container parent="d7326b01-c526-43b1-abb8-b7b67eafb843" type="folder">5</container> 
+	 			<unittitle>Question Mark, no. 1,</unittitle>
+	 			<unitdate>1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6d3e5104-865c-415d-bc6f-8cc9ea14966e" type="box">16</container> 
+	 			<container parent="6d3e5104-865c-415d-bc6f-8cc9ea14966e" type="folder">6</container> 
+	 			<unittitle>Reader and Collector, v. 3, no. 3-6; v. 4, no. 1-2,</unittitle>
+	 			<unitdate>1944-1946</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4db5d4b1-c791-41f0-b024-7e6f0b51eaad" type="box">16</container> 
+	 			<container parent="4db5d4b1-c791-41f0-b024-7e6f0b51eaad" type="folder">7</container> 
+	 			<unittitle>Renascence, no. 1,</unittitle>
+	 			<unitdate>1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d91e2239-f747-49ee-8033-d7ec02ed9015" type="box">16</container> 
+	 			<container parent="d91e2239-f747-49ee-8033-d7ec02ed9015" type="folder">8</container> 
+	 			<unittitle>Report to Science Fiction Fandom: Jack Speer and the Anti-C.C. Campaign,</unittitle>
+	 			<unitdate>1944</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e6b64212-de9e-4e4d-9bf2-7f9adb1e79e8" type="box">16</container> 
+	 			<container parent="e6b64212-de9e-4e4d-9bf2-7f9adb1e79e8" type="folder">9</container> 
+	 			<unittitle>Retrique, no. 1,</unittitle>
+	 			<unitdate>circa 1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="856d277a-9fe9-4c35-a903-03b6cd0141aa" type="box">16</container> 
+	 			<container parent="856d277a-9fe9-4c35-a903-03b6cd0141aa" type="folder">10</container> 
+	 			<unittitle>Review V, v. 1, no. 5,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c8e067ea-1062-4636-b456-c57ebd61a4d1" type="box">16</container> 
+	 			<container parent="c8e067ea-1062-4636-b456-c57ebd61a4d1" type="folder">11</container> 
+	 			<unittitle>Revolution,</unittitle>
+	 			<unitdate>circa 1959</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="1c39e106-5fd6-42c1-bb1d-5da63e4f2a0a" type="box">16</container> 
+	 			<container parent="1c39e106-5fd6-42c1-bb1d-5da63e4f2a0a" type="folder">12</container> 
+	 			<unittitle>Rhodomagnetic Digest, v. 1, no. 1-2, 4-6,</unittitle>
+	 			<unitdate>1949-1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ff327b96-6b6f-4ba5-8b0f-777ad537922d" type="box">16</container> 
+	 			<container parent="ff327b96-6b6f-4ba5-8b0f-777ad537922d" type="folder">13</container> 
+	 			<unittitle>Rhodomagnetic Digest, v. 1, no. 7; v. 2, no. 1-4, 6,</unittitle>
+	 			<unitdate>1950-1951</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="829ac4c1-8002-4e1d-a7ec-00028a28f962" type="box">17</container> 
+	 			<container parent="829ac4c1-8002-4e1d-a7ec-00028a28f962" type="folder">1</container> 
+	 			<unittitle>Rhodomagnetic Digest, v. 3, no. 1, 3-5,</unittitle>
+	 			<unitdate>1951</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0a34445e-85b3-4894-bc95-2c01f87f89c9" type="box">17</container> 
+	 			<container parent="0a34445e-85b3-4894-bc95-2c01f87f89c9" type="folder">2</container> 
+	 			<unittitle>Rhodomagnetic Digest, v. 3, no. 6; v. 4, no. 1-2; v. 5, no. 1-2,</unittitle>
+	 			<unitdate>1952, 1962</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="78f834fb-f8b2-4f99-aadb-71eb5e4cbc8e" type="box">17</container> 
+	 			<container parent="78f834fb-f8b2-4f99-aadb-71eb5e4cbc8e" type="folder">3</container> 
+	 			<unittitle>Riverside Quarterly, v. 1, no. 3-4; v. 2, no. 1-2,</unittitle>
+	 			<unitdate>1965-1966</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0756fdd0-e3bf-4821-95e3-64d2db528e78" type="box">17</container> 
+	 			<container parent="0756fdd0-e3bf-4821-95e3-64d2db528e78" type="folder">4</container> 
+	 			<unittitle>Riverside Quarterly, v. 2, no. 3-4; v. 3, no. 1-2,</unittitle>
+	 			<unitdate>1966-1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="225a83f7-ba71-4947-915a-4a299cb437c2" type="box">17</container> 
+	 			<container parent="225a83f7-ba71-4947-915a-4a299cb437c2" type="folder">5</container> 
+	 			<unittitle>ROT, no. 1, 5,</unittitle>
+	 			<unitdate>1955, 1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="231d92b9-c208-4d3e-a751-68b9988398c0" type="box">17</container> 
+	 			<container parent="231d92b9-c208-4d3e-a751-68b9988398c0" type="folder">6</container> 
+	 			<unittitle>Rur, no. 8-10, 12-14, 16-17,</unittitle>
+	 			<unitdate>circa 1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3b8491f6-1cd1-4af1-89ac-a565c29d276c" type="box">17</container> 
+	 			<container parent="3b8491f6-1cd1-4af1-89ac-a565c29d276c" type="folder">7</container> 
+	 			<unittitle>SF, no. 6-7,</unittitle>
+	 			<unitdate>1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ea4f4e7e-47cd-4350-b202-91ce5b04fba7" type="box">18</container> 
+	 			<container parent="ea4f4e7e-47cd-4350-b202-91ce5b04fba7" type="folder">1</container> 
+	 			<unittitle>SF Bulletin, v. 1, no. 2-3,</unittitle>
+	 			<unitdate>1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="85904bb4-0e6a-433c-ab0c-621d5d85a005" type="box">18</container> 
+	 			<container parent="85904bb4-0e6a-433c-ab0c-621d5d85a005" type="folder">2</container> 
+	 			<unittitle>Safari, no. 47-50,</unittitle>
+	 			<unitdate>1959-1960</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="30fb6f90-f41f-4350-bb3b-081ac3ac5d7f" type="box">18</container> 
+	 			<container parent="30fb6f90-f41f-4350-bb3b-081ac3ac5d7f" type="folder">3</container> 
+	 			<unittitle>Sappho, v. 1, no. 1-2,</unittitle>
+	 			<unitdate>1943</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3407811a-7047-4ac7-815e-1fe1ca3f0a1a" type="box">18</container> 
+	 			<container parent="3407811a-7047-4ac7-815e-1fe1ca3f0a1a" type="folder">4</container> 
+	 			<unittitle>Sata Illustrated, no. 1, 8-9,</unittitle>
+	 			<unitdate>1956-1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="0662ec82-bb61-4c2f-8eb2-4d1a8745fea7" type="box">18</container> 
+	 			<container parent="0662ec82-bb61-4c2f-8eb2-4d1a8745fea7" type="folder">5</container> 
+	 			<unittitle>Science and Science-Fantasy Fiction Review, v. 1, no. 3,</unittitle>
+	 			<unitdate>1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d89d331d-e277-4ac6-8d48-4a0668305a53" type="box">18</container> 
+	 			<container parent="d89d331d-e277-4ac6-8d48-4a0668305a53" type="folder">6</container> 
+	 			<unittitle>Science Fantasy Bulletin, no. 6-8,</unittitle>
+	 			<unitdate>1952</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7ad0cdf5-cc50-43bc-8dc7-de320db8d98c" type="box">18</container> 
+	 			<container parent="7ad0cdf5-cc50-43bc-8dc7-de320db8d98c" type="folder">7</container> 
+	 			<unittitle>Science Fantasy Bulletin, no. 9-13,</unittitle>
+	 			<unitdate>1952-1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="dfedb6db-03bf-4c86-a41e-9b3a976b473d" type="box">18</container> 
+	 			<container parent="dfedb6db-03bf-4c86-a41e-9b3a976b473d" type="folder">8</container> 
+	 			<unittitle>Science Fantasy Report Card, no. 4,</unittitle>
+	 			<unitdate>1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7362f7c4-9395-4730-ba1a-80b98a9b6d26" type="box">18</container> 
+	 			<container parent="7362f7c4-9395-4730-ba1a-80b98a9b6d26" type="folder">9</container> 
+	 			<unittitle>Science Fiction Advertiser, v. 5, no. 5; v. 6, no. 5; v. 7, no. 1,</unittitle>
+	 			<unitdate>1952-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e431198b-a75c-4f8f-9737-e0cd620eadc7" type="box">18</container> 
+	 			<container parent="e431198b-a75c-4f8f-9737-e0cd620eadc7" type="folder">10</container> 
+	 			<unittitle>The Science Fiction Bookman, v. 1, no. 3-4; v. 2, no. 1,</unittitle>
+	 			<unitdate>1948-1949</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c39237c3-b61f-4f67-8385-50d768588f4d" type="box">18</container> 
+	 			<container parent="c39237c3-b61f-4f67-8385-50d768588f4d" type="folder">11</container> 
+	 			<unittitle>Science Fiction Five-Yearly,</unittitle>
+	 			<unitdate>1956-1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="51fc678c-b927-4f92-871d-2e8f0f6a49ab" type="box">18</container> 
+	 			<container parent="51fc678c-b927-4f92-871d-2e8f0f6a49ab" type="folder">12</container> 
+	 			<unittitle>Science Fiction News, no. 1-9, 11,</unittitle>
+	 			<unitdate>1953-1955</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3de807c2-be58-4a82-a137-0fc988dc6664" type="box">19</container> 
+	 			<container parent="3de807c2-be58-4a82-a137-0fc988dc6664" type="folder">1</container> 
+	 			<unittitle>Science Fiction Newsletter, 16-17, 19-27, 29,</unittitle>
+	 			<unitdate>1950-1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e2794e45-5171-45bb-bb80-c2cca84d9a09" type="box">19</container> 
+	 			<container parent="e2794e45-5171-45bb-bb80-c2cca84d9a09" type="folder">2</container> 
+	 			<unittitle>Science Fiction Parade, no. 2-8,</unittitle>
+	 			<unitdate>1956-1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="500c54b9-6a5b-4f77-a5c1-b98f8fbb7c3f" type="box">19</container> 
+	 			<container parent="500c54b9-6a5b-4f77-a5c1-b98f8fbb7c3f" type="folder">3</container> 
+	 			<unittitle>Science Fiction Reader, no. 1,</unittitle>
+	 			<unitdate>circa 1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="90ff8d9b-151c-4cfd-988f-73fadef2c333" type="box">19</container> 
+	 			<container parent="90ff8d9b-151c-4cfd-988f-73fadef2c333" type="folder">4</container> 
+	 			<unittitle>Science Fiction Review, no. 21-23; v. 2, no. 1-2, 8, 10, 13, 16, 21, 29,</unittitle>
+	 			<unitdate>1955, 1963-1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="bb67136a-2036-4434-bc1b-708f3d96c6d9" type="box">19</container> 
+	 			<container parent="bb67136a-2036-4434-bc1b-708f3d96c6d9" type="folder">5</container> 
+	 			<unittitle>Science Fiction Times, v. 9, no. 2; v. 12, no. 270-305; v. 14, no. 1—6, (whole no.270-311),</unittitle>
+	 			<unitdate>1957-1959</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c86bc007-447f-4c59-a420-aadd24a8bbcb" type="box">19</container> 
+	 			<container parent="c86bc007-447f-4c59-a420-aadd24a8bbcb" type="folder">6</container> 
+	 			<unittitle>Science Fiction Times, v. 14, no.7-24; v. 15, no. 1-13, (whole no.312-340),</unittitle>
+	 			<unitdate>1959-1960</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2f7e6159-790d-4ee3-9a71-688732a29d38" type="box">19</container> 
+	 			<container parent="2f7e6159-790d-4ee3-9a71-688732a29d38" type="folder">7</container> 
+	 			<unittitle>Science Fiction Times, v. 15, no. 14-25; v. 16, no. 1-17, (whole no.341-369),</unittitle>
+	 			<unitdate>1960-1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c018f291-616d-4a64-a375-6e92f0c22672" type="box">19</container> 
+	 			<container parent="c018f291-616d-4a64-a375-6e92f0c22672" type="folder">8</container> 
+	 			<unittitle>Science Fiction Times, v. 16, no. 18; v. 17, no. 2-10, (whole no.370, 378-386),</unittitle>
+	 			<unitdate>1961-1962</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="38a44b98-2fd1-46e3-a07d-50d2233530c6" type="box">20</container> 
+	 			<container parent="38a44b98-2fd1-46e3-a07d-50d2233530c6" type="folder">1</container> 
+	 			<unittitle>The Science Fiction Yearbook, no. 1-2,</unittitle>
+	 			<unitdate>1957-1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="12f1e9a0-bab6-404c-87e5-c8fe7bca223c" type="box">20</container> 
+	 			<container parent="12f1e9a0-bab6-404c-87e5-c8fe7bca223c" type="folder">2</container> 
+	 			<unittitle>Scottishe, no. 41,</unittitle>
+	 			<unitdate>1966</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5c43e0e6-53de-4beb-a4be-3599b9aac714" type="box">20</container> 
+	 			<container parent="5c43e0e6-53de-4beb-a4be-3599b9aac714" type="folder">3</container> 
+	 			<unittitle>See Tee, v. 1, no. 1,</unittitle>
+	 			<unitdate>1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6105be21-da33-43eb-84c1-d1f1dc346209" type="box">20</container> 
+	 			<container parent="6105be21-da33-43eb-84c1-d1f1dc346209" type="folder">4</container> 
+	 			<unittitle>Sfari, no. 1-3,</unittitle>
+	 			<unitdate>circa 1956</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="18ee0f07-56e0-4b0b-b03b-d6e76eab5a54" type="box">20</container> 
+	 			<container parent="18ee0f07-56e0-4b0b-b03b-d6e76eab5a54" type="folder">5</container> 
+	 			<unittitle>Shadowland, v. 1, no. 1,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b2def317-ae12-41db-9c00-918db9c05fbb" type="box">20</container> 
+	 			<container parent="b2def317-ae12-41db-9c00-918db9c05fbb" type="folder">6</container> 
+	 			<unittitle>Shangri-La, no. 2, 4, 10, 13, 26, 31-32, 45,</unittitle>
+	 			<unitdate>1942-1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="cc9248ce-8b8d-4175-9da5-7234696187df" type="box">20</container> 
+	 			<container parent="cc9248ce-8b8d-4175-9da5-7234696187df" type="folder">7</container> 
+	 			<unittitle>Shangri-La Affaires, no. 11, 13-15, 17, 19-20, 22-23,</unittitle>
+	 			<unitdate>1943-1945</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a29bcc45-9ae9-46a8-82e5-99bf1476211b" type="box">20</container> 
+	 			<container parent="a29bcc45-9ae9-46a8-82e5-99bf1476211b" type="folder">8</container> 
+	 			<unittitle>Shangri-La Affaires, no. 24-26, 28-29, 31,</unittitle>
+	 			<unitdate>1945-1946</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e0d01d4b-3d9c-4243-bccf-dc5aa9dc3305" type="box">20</container> 
+	 			<container parent="e0d01d4b-3d9c-4243-bccf-dc5aa9dc3305" type="folder">9</container> 
+	 			<unittitle>Shangri-La Affaires, no. 32-34, 36-39,</unittitle>
+	 			<unitdate>1946-1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="1945a312-6136-4938-b6cc-3871ab66127a" type="box">20</container> 
+	 			<container parent="1945a312-6136-4938-b6cc-3871ab66127a" type="folder">10</container> 
+	 			<unittitle>Shangri-La Affaires, no. 44-46, 72,</unittitle>
+	 			<unitdate>1959, 1968</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5281185d-87c4-4f57-b0fa-2de04e6f72e5" type="box">21</container> 
+	 			<container parent="5281185d-87c4-4f57-b0fa-2de04e6f72e5" type="folder">1</container> 
+	 			<unittitle>Si Fan, no. 4,</unittitle>
+	 			<unitdate>1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4b6d9267-a24e-4b77-9172-3398c5de67d2" type="box">21</container> 
+	 			<container parent="4b6d9267-a24e-4b77-9172-3398c5de67d2" type="folder">2</container> 
+	 			<unittitle>Sinus Fiction,</unittitle>
+	 			<unitdate>1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5695c881-23b3-40db-b900-14e5952cedd2" type="box">21</container> 
+	 			<container parent="5695c881-23b3-40db-b900-14e5952cedd2" type="folder">3</container> 
+	 			<unittitle>Skyhook, no. 15-21,</unittitle>
+	 			<unitdate>1952-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="af742134-9c2c-4aa3-b37b-8d626c9967c6" type="box">21</container> 
+	 			<container parent="af742134-9c2c-4aa3-b37b-8d626c9967c6" type="folder">4</container> 
+	 			<unittitle>Skyhook, no. 22-25,</unittitle>
+	 			<unitdate>1954-1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="be294ea4-d8fe-4e36-8f9a-81689f0b72d2" type="box">21</container> 
+	 			<container parent="be294ea4-d8fe-4e36-8f9a-81689f0b72d2" type="folder">5</container> 
+	 			<unittitle>Slant, no. 3-7,</unittitle>
+	 			<unitdate>1952-1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9ca351dd-84dc-4184-b390-55b02e29dac5" type="box">21</container> 
+	 			<container parent="9ca351dd-84dc-4184-b390-55b02e29dac5" type="folder">6</container> 
+	 			<unittitle>Smudge, no. 1, 3-4,</unittitle>
+	 			<unitdate>1962</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b9cebd51-ea03-4414-95f8-ed9316f41e87" type="box">21</container> 
+	 			<container parent="b9cebd51-ea03-4414-95f8-ed9316f41e87" type="folder">7</container> 
+	 			<unittitle>Sol Reader,</unittitle>
+	 			<unitdate>1962</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="9fb61ce0-d5c6-4b18-bfa5-6eec42ef752a" type="box">21</container> 
+	 			<container parent="9fb61ce0-d5c6-4b18-bfa5-6eec42ef752a" type="folder">8</container> 
+	 			<unittitle>Something about a Fifth,</unittitle>
+	 			<unitdate>circa 1960</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="f6e23863-d2db-44e2-9f26-c15850644092" type="box">21</container> 
+	 			<container parent="f6e23863-d2db-44e2-9f26-c15850644092" type="folder">9</container> 
+	 			<unittitle>Spaceways, v. 3, no. 6,</unittitle>
+	 			<unitdate>1941</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d501c049-05f5-49e2-89d1-cc652e6f01c1" type="box">21</container> 
+	 			<container parent="d501c049-05f5-49e2-89d1-cc652e6f01c1" type="folder">10</container> 
+	 			<unittitle>Spatial Drive, v. 1, no. 1,</unittitle>
+	 			<unitdate>1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="1ab6fd88-8ff0-442d-8b2e-f7526987188f" type="box">21</container> 
+	 			<container parent="1ab6fd88-8ff0-442d-8b2e-f7526987188f" type="folder">11</container> 
+	 			<unittitle>Spearhead, v. 2, no. 1,</unittitle>
+	 			<unitdate>1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="eaae0f7e-1003-4a95-b1cc-d0780b29e6c7" type="box">21</container> 
+	 			<container parent="eaae0f7e-1003-4a95-b1cc-d0780b29e6c7" type="folder">12</container> 
+	 			<unittitle>Special Today, no. 5,</unittitle>
+	 			<unitdate>1962</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6272b827-39e5-4c56-878e-1c0105078543" type="box">21</container> 
+	 			<container parent="6272b827-39e5-4c56-878e-1c0105078543" type="folder">13</container> 
+	 			<unittitle>Spectrum, no. 1-2,</unittitle>
+	 			<unitdate>1962-1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="87062b79-ed4a-40e4-8e27-5adaad0a07b8" type="box">21</container> 
+	 			<container parent="87062b79-ed4a-40e4-8e27-5adaad0a07b8" type="folder">14</container> 
+	 			<unittitle>Speculative Review, no. 1-2,</unittitle>
+	 			<unitdate>1957-1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a54b52dd-e181-4897-9776-c2cd94a3caf3" type="box">21</container> 
+	 			<container parent="a54b52dd-e181-4897-9776-c2cd94a3caf3" type="folder">15</container> 
+	 			<unittitle>Sphere, v. 1, no. 1-2,</unittitle>
+	 			<unitdate>1956</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="f0722d26-84d0-4daa-b24f-e5a07e079d93" type="box">21</container> 
+	 			<container parent="f0722d26-84d0-4daa-b24f-e5a07e079d93" type="folder">16</container> 
+	 			<unittitle>Staplecon, no. 2,</unittitle>
+	 			<unitdate>1943</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="bd4c6384-3d7f-4cef-b0f7-21f7a8b88f7a" type="box">21</container> 
+	 			<container parent="bd4c6384-3d7f-4cef-b0f7-21f7a8b88f7a" type="folder">17</container> 
+	 			<unittitle>Starlight, v. 1, no. 1,</unittitle>
+	 			<unitdate>1953</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="400a6d45-0d37-443a-a6e0-ba6f83434c5c" type="box">21</container> 
+	 			<container parent="400a6d45-0d37-443a-a6e0-ba6f83434c5c" type="folder">18</container> 
+	 			<unittitle>Starspinkle,</unittitle>
+	 			<unitdate>1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3636340d-641b-41d9-9246-238ddd6b1ed5" type="box">22</container> 
+	 			<container parent="3636340d-641b-41d9-9246-238ddd6b1ed5" type="folder">1</container> 
+	 			<unittitle>Stefantasy, v. 3, no. 1; v. 6, no. 3; v. 7, no. 2; v. 8, no. 1-3; v. 9, no. 1-2; v. 10, no. 1-3, (whole no. 20, 22-30),</unittitle>
+	 			<unitdate>1950-1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3efa89a0-8ea1-47c5-9c6d-ce8af36f73ff" type="box">22</container> 
+	 			<container parent="3efa89a0-8ea1-47c5-9c6d-ce8af36f73ff" type="folder">2</container> 
+	 			<unittitle>Stefantasy, v. 10, no. 4; v. 11, no. 1-3; v. 12, no. 1-3; v. 13, no. 1-2; v. 14, no. 1-2; v. 15, no. 2, (whole no. 31-43),</unittitle>
+	 			<unitdate>1954-1959</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="31a5147c-2031-4f88-85f8-be5136a7d5bf" type="box">22</container> 
+	 			<container parent="31a5147c-2031-4f88-85f8-be5136a7d5bf" type="folder">3</container> 
+	 			<unittitle>Stefantasy, v. 16, no. 1-2; v. 17, no. 1-2; v. 18, no. 1-2; v. 19, no. 1, (whole no. 44-50),</unittitle>
+	 			<unitdate>1960-1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="68475fd4-5e82-43c2-b0d8-479a52fc0c02" type="box">22</container> 
+	 			<container parent="68475fd4-5e82-43c2-b0d8-479a52fc0c02" type="folder">4</container> 
+	 			<unittitle>Stellar, no. 12-13,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="8ddd2073-f546-4988-a127-bfaf3b1e031b" type="box">22</container> 
+	 			<container parent="8ddd2073-f546-4988-a127-bfaf3b1e031b" type="folder">5</container> 
+	 			<unittitle>Sun Spots, v. 5, no. 4, (whole no. 20),</unittitle>
+	 			<unitdate>1941</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="17281a96-98f5-489a-8a04-3e56644d38db" type="box">22</container> 
+	 			<container parent="17281a96-98f5-489a-8a04-3e56644d38db" type="folder">6</container> 
+	 			<unittitle>Talisman, v. 1, no. 1-2,</unittitle>
+	 			<unitdate>1949-1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3ab7df6e-b6b9-40d8-8605-dc999e3379e6" type="box">22</container> 
+	 			<container parent="3ab7df6e-b6b9-40d8-8605-dc999e3379e6" type="folder">7</container> 
+	 			<unittitle>Telephonicon,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="354cbc19-05a7-4aa6-b2e5-72070e059287" type="box">22</container> 
+	 			<container parent="354cbc19-05a7-4aa6-b2e5-72070e059287" type="folder">8</container> 
+	 			<unittitle>Terrane, no. 3,</unittitle>
+	 			<unitdate>1954</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="6c11630b-99c3-4a7f-aa1e-a8b8db775994" type="box">22</container> 
+	 			<container parent="6c11630b-99c3-4a7f-aa1e-a8b8db775994" type="folder">9</container> 
+	 			<unittitle>Terror, no. 4,</unittitle>
+	 			<unitdate>1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c9bdf528-e4d9-427f-88a5-20294b2aea2b" type="box">22</container> 
+	 			<container parent="c9bdf528-e4d9-427f-88a5-20294b2aea2b" type="folder">10</container> 
+	 			<unittitle>The Thing, no. 1-3,</unittitle>
+	 			<unitdate>1946</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4d3e8ca1-f3b2-42d3-a3c1-6ecbbfb4a8b9" type="box">22</container> 
+	 			<container parent="4d3e8ca1-f3b2-42d3-a3c1-6ecbbfb4a8b9" type="folder">11</container> 
+	 			<unittitle>Thru the Haze, no. 16-20, 22, 24-28,</unittitle>
+	 			<unitdate>1962-1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="19fcef32-7db7-441c-af81-723fc1ade525" type="box">23</container> 
+	 			<container parent="19fcef32-7db7-441c-af81-723fc1ade525" type="folder">1</container> 
+	 			<unittitle>Tiempo de Fantasia, v. 1 , no. 2,</unittitle>
+	 			<unitdate>1949</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="3cab2ae7-2d4e-4926-93d6-ae45345bfd12" type="box">23</container> 
+	 			<container parent="3cab2ae7-2d4e-4926-93d6-ae45345bfd12" type="folder">2</container> 
+	 			<unittitle>Tight Beam, no. 24,</unittitle>
+	 			<unitdate>1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="048fa21f-ff21-4415-b1af-62e85b177adb" type="box">23</container> 
+	 			<container parent="048fa21f-ff21-4415-b1af-62e85b177adb" type="folder">3</container> 
+	 			<unittitle>Time Stream, no. 2,</unittitle>
+	 			<unitdate>1951</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="a072f47c-70af-4d99-acbe-bd5d018de922" type="box">23</container> 
+	 			<container parent="a072f47c-70af-4d99-acbe-bd5d018de922" type="folder">4</container> 
+	 			<unittitle>TNFF, v. 23, no. 1,</unittitle>
+	 			<unitdate>1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="90f85d15-3d16-4725-8202-8d3bbc42de8b" type="box">23</container> 
+	 			<container parent="90f85d15-3d16-4725-8202-8d3bbc42de8b" type="folder">5</container> 
+	 			<unittitle>Tomorrow?, v. 1, no. 1-2 1/2,</unittitle>
+	 			<unitdate>1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c97d90de-a8d3-4985-a926-88f4420e8054" type="box">23</container> 
+	 			<container parent="c97d90de-a8d3-4985-a926-88f4420e8054" type="folder">6</container> 
+	 			<unittitle>Toward Tomorrow, no. 1, 3-4,</unittitle>
+	 			<unitdate>1942-1943</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="bc9a466a-3055-497f-8f45-d631fddef5ac" type="box">23</container> 
+	 			<container parent="bc9a466a-3055-497f-8f45-d631fddef5ac" type="folder">7</container> 
+	 			<unittitle>Twilight, no. 1,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="67f1959e-9100-42c8-849f-c536aa6c69b0" type="box">23</container> 
+	 			<container parent="67f1959e-9100-42c8-849f-c536aa6c69b0" type="folder">8</container> 
+	 			<unittitle>Twilight-Zine, v. 1, no. 2; v. 2, no. 1, 4,</unittitle>
+	 			<unitdate>circa 1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="8d667217-b60d-4db5-82f3-b3a3b75362a4" type="box">23</container> 
+	 			<container parent="8d667217-b60d-4db5-82f3-b3a3b75362a4" type="folder">9</container> 
+	 			<unittitle>Ty-dings,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7ffdda3f-f674-413c-9b5f-71e4984eb8f0" type="box">23</container> 
+	 			<container parent="7ffdda3f-f674-413c-9b5f-71e4984eb8f0" type="folder">10</container> 
+	 			<unittitle>Uchujin, no. 1,</unittitle>
+	 			<unitdate>circa 1956</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="72d57dce-9b28-4b5b-8d63-f017e0989c4f" type="box">23</container> 
+	 			<container parent="72d57dce-9b28-4b5b-8d63-f017e0989c4f" type="folder">11</container> 
+	 			<unittitle>The UFA Bulletin, v. 1, no. 1,</unittitle>
+	 			<unitdate>1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ff813d1f-3c11-4605-b1a4-5e6ccc668900" type="box">23</container> 
+	 			<container parent="ff813d1f-3c11-4605-b1a4-5e6ccc668900" type="folder">12</container> 
+	 			<unittitle>Vagabond, no. 1,</unittitle>
+	 			<unitdate>1955</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="2ffabcad-6a55-464f-8c31-220be4ad4c92" type="box">23</container> 
+	 			<container parent="2ffabcad-6a55-464f-8c31-220be4ad4c92" type="folder">13</container> 
+	 			<unittitle>Vector, no. 1,</unittitle>
+	 			<unitdate>1952</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c20f47ca-c477-4e49-a43e-56cc3c6d20a8" type="box">23</container> 
+	 			<container parent="c20f47ca-c477-4e49-a43e-56cc3c6d20a8" type="folder">14</container> 
+	 			<unittitle>Venus, no. 1,</unittitle>
+	 			<unitdate>1944</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="02dc0be2-0e8d-4913-a91a-043f49cddb56" type="box">23</container> 
+	 			<container parent="02dc0be2-0e8d-4913-a91a-043f49cddb56" type="folder">15</container> 
+	 			<unittitle>Le Vie Dello Spazio, v. 1, no. 1,</unittitle>
+	 			<unitdate>1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="cc408ea9-8858-48fb-9c31-bb66291486b8" type="box">23</container> 
+	 			<container parent="cc408ea9-8858-48fb-9c31-bb66291486b8" type="folder">16</container> 
+	 			<unittitle>View Points, no. 2,</unittitle>
+	 			<unitdate>1952</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="bc73fdab-d8f9-4fa5-93bd-5558a3f5e400" type="box">23</container> 
+	 			<container parent="bc73fdab-d8f9-4fa5-93bd-5558a3f5e400" type="folder">17</container> 
+	 			<unittitle>The Vinegar Worm, v. 1, no. 2-4; v. 2, no. 1-5, 8-10,</unittitle>
+	 			<unitdate>circa 1958-1967</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d761847c-c4a6-41dc-892a-5f949c134525" type="box">23</container> 
+	 			<container parent="d761847c-c4a6-41dc-892a-5f949c134525" type="folder">18</container> 
+	 			<unittitle>Vintkat, no. 1,</unittitle>
+	 			<unitdate>1956</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="517d0879-64f7-44c9-b93d-8fe4bf6be227" type="box">23</container> 
+	 			<container parent="517d0879-64f7-44c9-b93d-8fe4bf6be227" type="folder">19</container> 
+	 			<unittitle>Viper, no. 3-6,</unittitle>
+	 			<unitdate>1961-1962</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="cb718653-1559-4313-8928-f6b91c52f712" type="box">24</container> 
+	 			<container parent="cb718653-1559-4313-8928-f6b91c52f712" type="folder">1</container> 
+	 			<unittitle>Vom, no. 18, 23-24, 27-30, 33-38,</unittitle>
+	 			<unitdate>1941-1945</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="4f393281-151f-406b-9b54-032097fdb0e7" type="box">24</container> 
+	 			<container parent="4f393281-151f-406b-9b54-032097fdb0e7" type="folder">2</container> 
+	 			<unittitle>Vom, no. 39-48, 50,</unittitle>
+	 			<unitdate>1945-1947</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d196eaa1-e321-4a3d-bac9-a8ff99f7882c" type="box">24</container> 
+	 			<container parent="d196eaa1-e321-4a3d-bac9-a8ff99f7882c" type="folder">3</container> 
+	 			<unittitle>Vorpal Glass, no. 2, 4-5,</unittitle>
+	 			<unitdate>1962-1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="63d9645a-9a96-4fb7-9ca3-f8abf9b0a947" type="box">24</container> 
+	 			<container parent="63d9645a-9a96-4fb7-9ca3-f8abf9b0a947" type="folder">4</container> 
+	 			<unittitle>Warhoon, no. 12, 14-16,</unittitle>
+	 			<unitdate>1961-1962</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="695bfb17-5b76-43b3-b263-4c3dedfd2da8" type="box">24</container> 
+	 			<container parent="695bfb17-5b76-43b3-b263-4c3dedfd2da8" type="folder">5</container> 
+	 			<unittitle>Warhoon, no. 17, 19-20,</unittitle>
+	 			<unitdate>1962, 1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="5ac1cd7a-79a6-46eb-bc57-d7f5de360764" type="box">24</container> 
+	 			<container parent="5ac1cd7a-79a6-46eb-bc57-d7f5de360764" type="folder">6</container> 
+	 			<unittitle>Weird Unsolved Mysteries, v. 1, no. 1,</unittitle>
+	 			<unitdate>1947</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="28b8146a-9e72-4321-834f-bf26f434f897" type="box">24</container> 
+	 			<container parent="28b8146a-9e72-4321-834f-bf26f434f897" type="folder">7</container> 
+	 			<unittitle>Western Star, no. 1-3,</unittitle>
+	 			<unitdate>1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="e468a747-3788-4465-b22e-98a83568a736" type="box">24</container> 
+	 			<container parent="e468a747-3788-4465-b22e-98a83568a736" type="folder">8</container> 
+	 			<unittitle>What, Neffer?  Well, Hardly Effer, no. 1,</unittitle>
+	 			<unitdate>1965</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="7250f407-9968-4c18-a2fa-b0a3a3aabccd" type="box">24</container> 
+	 			<container parent="7250f407-9968-4c18-a2fa-b0a3a3aabccd" type="folder">9</container> 
+	 			<unittitle>Who is This Man?,</unittitle>
+	 			<unitdate>1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ce7bd305-14e3-4387-9870-a0a82d59794d" type="box">24</container> 
+	 			<container parent="ce7bd305-14e3-4387-9870-a0a82d59794d" type="folder">10</container> 
+	 			<unittitle>Why Not, no. 7,</unittitle>
+	 			<unitdate>circa 1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="f9d52fe2-a97a-4f28-89b7-aaf9fe49c728" type="box">24</container> 
+	 			<container parent="f9d52fe2-a97a-4f28-89b7-aaf9fe49c728" type="folder">11</container> 
+	 			<unittitle>Willis Discovers America,</unittitle>
+	 			<unitdate>1952</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="b0e603ec-2174-4b1c-a84a-8811c268f7b8" type="box">25</container> 
+	 			<container parent="b0e603ec-2174-4b1c-a84a-8811c268f7b8" type="folder">1</container> 
+	 			<unittitle>Within, no. 4,</unittitle>
+	 			<unitdate>1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="d782a3db-d719-4ddd-910e-f3622bd107f6" type="box">25</container> 
+	 			<container parent="d782a3db-d719-4ddd-910e-f3622bd107f6" type="folder">2</container> 
+	 			<unittitle>Xero, no. 4-6,</unittitle>
+	 			<unitdate>1961</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="54e9958b-0d60-49bf-8927-247a5824e50c" type="box">25</container> 
+	 			<container parent="54e9958b-0d60-49bf-8927-247a5824e50c" type="folder">3</container> 
+	 			<unittitle>Xero, no. 8-9, Index,</unittitle>
+	 			<unitdate>1962-1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="dbda0964-e9a3-4fed-b3a9-b115c3bc160d" type="box">25</container> 
+	 			<container parent="dbda0964-e9a3-4fed-b3a9-b115c3bc160d" type="folder">4</container> 
+	 			<unittitle>Yandro, v. 4, no. 8; v. 5, no. 3; v. 6, no. 12, (whole no. 43, 50, 71),</unittitle>
+	 			<unitdate>1956-1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="c9b33d9f-8e3b-4afc-b6d0-c144d74b771b" type="box">25</container> 
+	 			<container parent="c9b33d9f-8e3b-4afc-b6d0-c144d74b771b" type="folder">5</container> 
+	 			<unittitle>Yonder, no. 1,</unittitle>
+	 			<unitdate>1963</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="ac00b292-e8ec-4521-8992-c74e4cdeb32d" type="box">25</container> 
+	 			<container parent="ac00b292-e8ec-4521-8992-c74e4cdeb32d" type="folder">6</container> 
+	 			<unittitle>Zap, no. 1,</unittitle>
+	 			<unitdate>1957</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="acad5dd3-e831-46cf-81da-9577c21205c7" type="box">25</container> 
+	 			<container parent="acad5dd3-e831-46cf-81da-9577c21205c7" type="folder">7</container> 
+	 			<unittitle>The Zed, no. 58, 778-782, 785, 798, 801, 803,</unittitle>
+	 			<unitdate>circa 1954-1956</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="74e65bef-42d2-48bb-8741-8236075f62c7" type="box">25</container> 
+	 			<container parent="74e65bef-42d2-48bb-8741-8236075f62c7" type="folder">8</container> 
+	 			<unittitle>Die Zeitschrift fur Vollstandigen Unsinn, no. 775, 2 unnumbered,</unittitle>
+	 			<unitdate>1954, 1960</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="fe17e90c-c8b8-456b-b22e-cb61f3859a8a" type="box">25</container> 
+	 			<container parent="fe17e90c-c8b8-456b-b22e-cb61f3859a8a" type="folder">9</container> 
+	 			<unittitle>Zenith, no. 5,</unittitle>
+	 			<unitdate>1964</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container id="42c89e13-edd4-408e-9b74-8c74ec18d6e7" type="box">25</container> 
+	 			<container parent="42c89e13-edd4-408e-9b74-8c74ec18d6e7" type="folder">10</container> 
+	 			<unittitle>Le Zombie, no. 64-65,</unittitle>
+	 			<unitdate>1955, 1958</unitdate>
+	 		</did> 
+	 	</c02>
+	 </c01> 
+	<c01 level="series">
+		<did> 
+			<unittitle>Series II: Unidentified Pages,
+				</unittitle> 
+			<unitdate type="inclusive">1957, 1958, 1961, 1965</unitdate>
+		</did>
+		<scopecontent><p>Series has no arrangement and contains loose pages from unidentified fanzines.</p></scopecontent>
+
+		<c02 level="file"> 
+			<did> 
+				<container id="5b97ae23-6477-4106-8272-51b4050da339" type="box">25</container> 
+				<container parent="5b97ae23-6477-4106-8272-51b4050da339" type="folder">11</container> 
+				<unittitle>Unidentified Pages,</unittitle>
+				<unitdate>1957, 1958, 1961, 1965, undated</unitdate>
+		</did> 
+		</c02>
+	</c01> 
+  </dsc> 
+</archdesc></ead>

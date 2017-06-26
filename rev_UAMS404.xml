@@ -1,0 +1,3209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+  <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	 <eadid encodinganalog="856$u">UAMS404</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="245$a">Ethel Hopkins papers, 
+			 <date>1933-1954</date></titleproper> 
+		  <author encodinganalog="245$c">Daisy DeCoster</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+			 Collections</publisher> 
+		  <address> 
+			 <addressline>PO Box 210055</addressline> 
+			 <addressline>Tucson, AZ 85721-0055</addressline> 
+			 <addressline>Phone: 520-621-6423</addressline> 
+			 <addressline>Fax: 520-621-9733</addressline> 
+			 <addressline>URL: http://speccoll.library.arizona.edu/</addressline> 
+		  </address> 
+		  <date>2007</date> 
+		  <p>Arizona Board of Regents. All Rights Reserved.</p> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation encodinganalog="500">Inventory encoded by Daisy DeCoster. 
+		  <date>March 2007</date></creation> 
+		<langusage>Inventory is in<language encodinganalog="546" langcode="eng"> English.</language></langusage> 
+	 </profiledesc> 
+  <revisiondesc><change><date normal="2017-06-22">2017-06-22</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper encodinganalog="245$a">Ethel Hopkins papers, 
+		  <date>1933-1954</date></titleproper> 
+		<num>Collection Number: MS 404</num> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<list> 
+		  <defitem> 
+			 <label>Processed by:</label> 
+			 <item>Daisy DeCoster</item> 
+		  </defitem> 
+		  <defitem> 
+			 <label>Date completed:</label> 
+			 <item>
+				<date>November 2006</date></item> 
+		  </defitem> 
+		  <defitem> 
+			 <label>Encoded by:</label> 
+			 <item>Daisy DeCoster</item> 
+		  </defitem> 
+		</list> 
+		<p>© 2006. Arizona Board of Regents. All rights reserved.</p> 
+	 </titlepage> 
+  </frontmatter> 
+  <archdesc encodinganalog="351$c" level="collection"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<unittitle encodinganalog="245" label="Collection Name">Ethel Hopkins
+		  papers, 
+		  <unitdate normal="1933/1954" type="inclusive">1933-1954</unitdate></unittitle> 
+		<unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 404</unitid> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="100">Ethel Hopkins</persname> </origination> 
+		<abstract label="Abstract">Papers, 1933-1954. This collection is
+		  composed of the papers of Ethel "Ma" Hopkins. The bulk of the material is
+		  correspondence relating to her position as editor and publisher of 
+		  <title>Hoofs and Horns</title> Magazine. Also included are photographs
+		  and prints, mostly depicting rodeo characters, rodeo scenes, and Western ranch
+		  activities of the period.</abstract> 
+		<physdesc encodinganalog="300$a" label="Physical Description"><extent encodinganalog="300">9.75 Linear Feet (Approximately 12,800
+		  items)</extent></physdesc> 
+		<repository label="Repository"> 
+		  <corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
+		  <address> 
+			 <addressline>University of Arizona</addressline> 
+			 <addressline>PO Box 210055</addressline> 
+			 <addressline>Tucson, AZ 85721-0055</addressline> 
+			 <addressline>Phone: 520-621-6423</addressline> 
+			 <addressline>Fax: 520-621-9733</addressline> 
+			 <addressline>URL: http://speccoll.library.arizona.edu/</addressline> 
+		  </address></repository> 
+	 </did>
+		<accessrestrict encodinganalog="506"> 
+		  <head>Restrictions</head> 
+		  <p>None.</p> 
+		</accessrestrict> 
+		<userestrict encodinganalog="540"> 
+		  <head>Copyright</head> 
+		  <p>It is the responsibility of the user to obtain permission to publish
+			 from the owner of the copyright (the institution, the creator of the record,
+			 the author or his/her transferees, heirs, legates, or literary executors). The
+			 user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+			 University of Arizona, its officers, employees, and agents from and against all
+			 claims made by any person asserting that he or she is an owner of
+			 copyright.</p> 
+		</userestrict> 
+		<prefercite encodinganalog="524"> 
+		  <head>Credit Line</head> 
+		  <p>Ethel Hopkins papers (MS 404). Special Collections, University of Arizona Libraries.</p> 
+		</prefercite> 
+	  
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Ethel A. Hopkins was born and raised on a farm in Missouri. She
+		  graduated from the University of Missouri in 1908 and worked as a school
+		  teacher in both Missouri and Oklahoma. She came to Tucson in 1916 due to the
+		  ill health of her husband and continued to work, first as a school teacher and
+		  later as a stenographer and secretary at the University of Arizona. After the
+		  passing of her first husband she married J. W. Hopkins, an officer at the Acme
+		  Printing Company. In 1933 Mrs. Hopkins purchased 
+		<title>Hoofs and Horns</title> Magazine, a weekly cattle paper that had
+		ceased publication during the depression. She re-conceptualized 
+		<title>Hoofs and Horns</title>, first publishing it in October of 1933 as
+		a monthly magazine, shifting the focus towards the sport of rodeo while still
+		accommodating the interests of cattlemen. Mrs. Hopkins acted as publisher and
+		editor of 
+		<title>Hoofs and Horns</title> until 1954, crafting the magazine to
+		contain a "balanced ration of sense and nonsense": featuring news articles,
+		verse, humor, and poetry intended for "simple cow country folk." An ardent
+		rodeo fan, Mrs. Hopkins came to meet, befriend, and correspond with many rodeo
+		personalities and contestants while promoting and seeking submissions and
+		advertisements for her publication.</p> 
+	 </bioghist> 
+	 <arrangement> 
+		<head>Organization</head> 
+		<p>The collection is divided into two series: Correspondence Files and
+		  Photographs and Prints. The Correspondence Series is divided into six
+		  subseries. The Photographs and Prints Series is divided into three subseries.
+		  The contents of each series and subsequent subseries are arranged
+		  alphabetically. In many cases original folder titles were retained.</p> 
+		<list> 
+		  <item>Series I: Correspondence, 
+			 <unitdate normal="1933/1948" type="inclusive">1933-1948</unitdate></item>
+		  <item>Subseries:Advertising Files,
+			 <unitdate normal="1938/1948" type="inclusive">1938-1948</unitdate></item>
+		  <item>Subseries:Circulation Files,
+			 <unitdate normal="1935/1948" type="inclusive">1935-1948</unitdate></item>
+		  <item>Subseries:General Files,
+			 <unitdate normal="1934/1948" type="inclusive">1934-1948</unitdate></item>
+		  <item>Subseries:Performers,
+			 <unitdate normal="1936/1948" type="inclusive">1936-1948</unitdate></item>
+		  <item>Subseries:Rodeo Files,
+			 <unitdate normal="1933/1948" type="inclusive">1933-1948</unitdate></item>
+		  <item>Subseries:Submission Files,
+			 <unitdate normal="1933/1948" type="inclusive">1933-1948</unitdate></item>
+		</list> 
+		<list>
+		  <item>Series II: Photographs and Prints, 
+			 <unitdate normal="1936/1954" type="inclusive">1936-1954</unitdate></item>
+		  <item>Subseries:Photographs,
+			 <unitdate normal="1936/1954" type="inclusive">1936-1954</unitdate></item>
+		  <item>Subseries:Prints,
+			 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></item>
+		  <item>Subseries:Oversized Materials,
+			 <unitdate normal="1939/1950" type="inclusive">1939-1950</unitdate></item> 
+		</list> 
+	 </arrangement> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>Papers, 1933-1948. This collection is composed of the papers of Ethel
+		  "Ma" Hopkins. Primarily containing correspondence and her photograph collection
+		  amassed during her tenure as editor and publisher of 
+		<title>Hoofs and Horns</title> Magazine. Ethel Hopkins' correspondence
+		includes letters discussing rodeo events, advertising, rodeo performers,
+		magazine submissions of all kinds, and magazine subscriptions and circulation.
+		Ethel Hopkins maintained close relationships with many Western writers and
+		rodeo personalities, and there is a personal element throughout much of her
+		correspondence. The General Series includes correspondence documenting daily
+		life in Tucson, the social climate created by World War II, the changing
+		Western landscape, and various accounts of the trials and tribulations of
+		cowboys, ranchers, and rodeo folk. Similarly the photographs and prints
+		contained in the collection include materials gathered for publication in 
+		<title>Hoofs and Horns</title>, as well as items inscribed to Mrs.
+		Hopkins personally, illustrating her relationship with specific rodeo
+		characters.</p></scopecontent>
+		<scopecontent>
+		<head>Materials Cataloged Separately</head>
+		<p>Four monographs from the collection were cataloged separately. They
+		  are as follows and can be accessed through the University of Arizona Library
+		  Catalog.</p>
+		<p>
+		<title>Songs of the Southwest</title>, by Juanita Elliott</p>
+		<p>
+		<title>Autumn Leaves</title>, by May Stevens Isaacs</p>
+		<p>
+		<title>Left Handed Law</title>, by Charles M. Martin</p>
+		<p>
+		<title>Rodeo Cowboy</title>, by Charles M. Martin</p>
+	 </scopecontent> 
+	 <controlaccess> 
+		<subject>American periodicals -- History -- 20th
+				century</subject><subject>Hoofs and Horns Magazine -- Records and
+				correspondence</subject><subject>Rodeo performers -- United States</subject><subject>Rodeos -- United States -- History</subject><subject>Women in Rodeos</subject><subject>World War, 1939-1945 -- Arizona -- Tucson</subject><genreform>Photographs</genreform></controlaccess> 
+	 <dsc type="combined"> 
+		<head>Container List</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Correspondence Files, 
+				<unitdate normal="1933/1948" type="inclusive">1933-1948</unitdate></unittitle> 
+		  </did>
+		  <scopecontent>
+			 <p>7.25 Linear Feet (Approximately 10,875 items)</p>
+			 <p>Arrangement: Alphabetical</p>
+			 <p>The Correspondence Files Series is divided into six subseries.</p>
+			 
+			 <p>Advertising Files (1934-1948) contain correspondence regarding
+				prospective and ongoing advertising in 
+			 <title>Hoofs and Horns</title> Magazine. The letterhead and business
+			 workings of various industries that advertised in 
+			 <title>Hoofs and Horns</title>--notably livestock production and
+			 western apparel manufacturing--are represented here. Also included is
+			 correspondence regarding classified advertisements of all varieties, appealing
+			 to individuals in the rodeo community. Note, some advertising correspondence is
+			 attributed to 
+			 <title>Hoofs and Horns</title> office staff: William Sheldon,
+			 Virginia Smith, and Dorothy Bell. </p>
+			 <p>Circulation Files (1935-1948) is comprised of correspondence
+				regarding the circulation of 
+			 <title>Hoofs and Horns</title>, including subscriptions, payments,
+			 "boost letters" -applauding aspects of 
+			 <title>Hoofs and Horns</title>, specific copy requests, and copy
+			 exchange agreements with other serial publications. </p>
+			 <p>General Files (1934-1948) contain general inquiries and
+				correspondence relating to the sport of rodeo but not specifically with the
+				publication of 
+			 <title>Hoofs and Horns</title>. Including correspondence (arranged
+			 alphabetically by individual) discussing rodeo, Western life, and personal
+			 affairs, and correspondence documenting the assorted inquiries sent to Mrs.
+			 Hopkins by readers, organized by subject matter. </p>
+			 <p>Performers (1936-1948) contain correspondence to and from rodeo
+				performers--announcers, clowns, trick riders and ropers--including several
+				programs and photo representations depicting specific acts of the time.</p>
+			 <p>Rodeo Files (1933-1948) contain correspondence and announcements
+				between Mrs. Hopkins and rodeo producers and local rodeo associations regarding
+				rodeo events. Rodeo files are arranged alphabetically by the city in which they
+				occurred, with the exception of three "General" files with correspondence
+				regarding rodeo dates, rules, and results that are not attributed to one
+				specific city. Of note in the Rodeo Files are the many colorful, detailed rodeo
+				programs and "Western" stationary elements present in the correspondence. Also
+				included in the Rodeo Files is Mrs. Hopkins' extensive correspondence with the
+				Rodeo Association of America, of which 
+			 <title>Hoofs and Horns</title> was the official publication. </p>
+			 <p>Submission Files (1933-1948) contain correspondence regarding
+				material submitted to 
+			 <title>Hoofs and Horns</title>: stories, poems, photographs,
+			 illustrations, news items, corrections, and announcements. </p> 
+		  </scopecontent> 
+		  <c02 level="subseries"> 
+			 <did>
+				<unittitle>Subseries:Advertising Files</unittitle> 
+			 </did>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="1e84d67d-bb34-4fb7-ad78-acfdb3cf145a" type="box">1</container> 
+				  <container parent="1e84d67d-bb34-4fb7-ad78-acfdb3cf145a" type="folder">1-2</container> 
+				  <unittitle>Classified Advertisements. 
+					 <unitdate normal="1938/1948" type="inclusive">1938-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="36524f61-3150-47d3-b399-463dcc57c869" type="box">1</container> 
+				  <container parent="36524f61-3150-47d3-b399-463dcc57c869" type="folder">3</container> 
+				  <unittitle>General. 
+					 <unitdate normal="1936/1948" type="inclusive">1936-1948</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0d9b1d7f-b8a4-43a0-bcc4-05f1233f742b" type="box">1</container> 
+				  <container parent="0d9b1d7f-b8a4-43a0-bcc4-05f1233f742b" type="folder">4</container> 
+				  <unittitle>Liquor--Acme Beer and Ale. 
+					 <unitdate normal="1938/1941" type="inclusive">1938-1941</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c6df9f41-7417-43e1-afe1-7f94a708954e" type="box">1</container> 
+				  <container parent="c6df9f41-7417-43e1-afe1-7f94a708954e" type="folder">5</container> 
+				  <unittitle>Liquor--Blatz Brewing Company. 
+					 <unitdate normal="1934/1939" type="inclusive">1934-1939</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="893b4387-1c6b-4717-aede-74c28901954a" type="box">1</container> 
+				  <container parent="893b4387-1c6b-4717-aede-74c28901954a" type="folder">6</container> 
+				  <unittitle>Liquor--General. 
+					 <unitdate normal="1934/1939" type="inclusive">1934-1939</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4fe8ec17-4c66-4d22-82cb-c4088ccba972" type="box">1</container> 
+				  <container parent="4fe8ec17-4c66-4d22-82cb-c4088ccba972" type="folder">7</container> 
+				  <unittitle>Livestock--Armour and Company. 
+					 <unitdate normal="1934/1939" type="inclusive">1934-1939</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4c756e7c-f758-4d9f-8d13-bea9dbde6787" type="box">1</container> 
+				  <container parent="4c756e7c-f758-4d9f-8d13-bea9dbde6787" type="folder">8</container> 
+				  <unittitle>Livestock--Barmby, Bob. 
+					 <unitdate normal="1939/1943" type="inclusive">1939-1943</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9548a4d6-1eb1-4b90-86e3-2ac7f9727a46" type="box">1</container> 
+				  <container parent="9548a4d6-1eb1-4b90-86e3-2ac7f9727a46" type="folder">9</container> 
+				  <unittitle>Livestock--Beutler Brothers. 
+					 <unitdate normal="1938/1946" type="inclusive">1938-1946</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="30d4b02e-d2e5-4e6c-8e90-9d6cfeeddee6" type="box">1</container> 
+				  <container parent="30d4b02e-d2e5-4e6c-8e90-9d6cfeeddee6" type="folder">10</container> 
+				  <unittitle>Livestock--Bradford, Bill. 
+					 <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6ec76b63-6c10-43b8-baa1-fcec3cf36f91" type="box">1</container> 
+				  <container parent="6ec76b63-6c10-43b8-baa1-fcec3cf36f91" type="folder">11</container> 
+				  <unittitle>Livestock--Burrell, Cuff. 
+					 <unitdate normal="1936/1941" type="inclusive">1936-1941</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8ccc49a5-90ba-444f-be51-96e8d68a74f1" type="box">1</container> 
+				  <container parent="8ccc49a5-90ba-444f-be51-96e8d68a74f1" type="folder">12</container> 
+				  <unittitle>Livestock--Case, J. L. 
+					 <unitdate normal="1937/1941" type="inclusive">1937-1941</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="eb3a3f81-4915-473c-9204-186e027d16d0" type="box">1</container> 
+				  <container parent="eb3a3f81-4915-473c-9204-186e027d16d0" type="folder">13</container> 
+				  <unittitle>Livestock--Christensen Brothers. 
+					 <unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e1dd90d3-462d-46bd-a2dc-19ec8f1bfb75" type="box">1</container> 
+				  <container parent="e1dd90d3-462d-46bd-a2dc-19ec8f1bfb75" type="folder">14</container> 
+				  <unittitle>Livestock--Cooper, Hall. 
+					 <unitdate normal="1941/1946" type="inclusive">1941-1946</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8cf74164-ee54-4936-8546-1efbe765ac8b" type="box">1</container> 
+				  <container parent="8cf74164-ee54-4936-8546-1efbe765ac8b" type="folder">15</container> 
+				  <unittitle>Livestock--Creed, "Shorty" L. U. 
+					 <unitdate normal="1940/1946" type="inclusive">1940-1946</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5dfb3363-81fe-4b46-8f6d-fa360fce452f" type="box">1</container> 
+				  <container parent="5dfb3363-81fe-4b46-8f6d-fa360fce452f" type="folder">16</container> 
+				  <unittitle>Livestock--Fisher Palomino Farms. 
+					 <unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="162fe8b9-06bb-480c-887b-11e0442b59b2" type="box">1</container> 
+				  <container parent="162fe8b9-06bb-480c-887b-11e0442b59b2" type="folder">17</container> 
+				  <unittitle>Livestock--Gene Autry and Associates. 
+					 <unitdate normal="1944" type="inclusive">1944</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0b559be7-c357-4859-9b77-50cb522e3dcd" type="box">1</container> 
+				  <container parent="0b559be7-c357-4859-9b77-50cb522e3dcd" type="folder">18</container> 
+				  <unittitle>Livestock--General. 
+					 <unitdate normal="1937/1948" type="inclusive">1937-1948</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="594b7347-dcac-400f-97f7-db8ca3f89079" type="box">1</container> 
+				  <container parent="594b7347-dcac-400f-97f7-db8ca3f89079" type="folder">19</container> 
+				  <unittitle>Livestock--International Livestock Exposition. 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e4933d74-8bca-4a1e-ae57-4e9a1e85e834" type="box">1</container> 
+				  <container parent="e4933d74-8bca-4a1e-ae57-4e9a1e85e834" type="folder">20</container> 
+				  <unittitle>Livestock--Jory, Ben. 
+					 <unitdate normal="1938/1946" type="inclusive">1938-1946</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5a646474-2e00-49b0-9b5d-d775a9a80b0b" type="box">1</container> 
+				  <container parent="5a646474-2e00-49b0-9b5d-d775a9a80b0b" type="folder">21</container> 
+				  <unittitle>Livestock--King, Ray. 
+					 <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="870472c6-330c-4067-a908-fdbc04ce34d5" type="box">1</container> 
+				  <container parent="870472c6-330c-4067-a908-fdbc04ce34d5" type="folder">22</container> 
+				  <unittitle>Livestock--Magann, C. C. 
+					 <unitdate normal="1940/1944" type="inclusive">1940-1944</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d2cb7124-54aa-4a2c-948a-ce9888b56122" type="box">2</container> 
+				  <container parent="d2cb7124-54aa-4a2c-948a-ce9888b56122" type="folder">1</container> 
+				  <unittitle>Livestock--Pasco, Luke. 
+					 <unitdate normal="1939/1941" type="inclusive">1939-1941</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="34717105-46fb-4a51-bad0-3f642fd2568f" type="box">2</container> 
+				  <container parent="34717105-46fb-4a51-bad0-3f642fd2568f" type="folder">2</container> 
+				  <unittitle>Livestock--Ritcher, R. A. 
+					 <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d2ce00a3-81c4-4795-8d3f-16465d442df2" type="box">2</container> 
+				  <container parent="d2ce00a3-81c4-4795-8d3f-16465d442df2" type="folder">3</container> 
+				  <unittitle>Livestock--Selby, Amos. 
+					 <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ab93b817-5847-42a7-a5b9-1c663350ba3b" type="box">2</container> 
+				  <container parent="ab93b817-5847-42a7-a5b9-1c663350ba3b" type="folder">4</container> 
+				  <unittitle>Livestock--Smith-Mahoney Cattle. 
+					 <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="7af9441c-a14b-40fd-9d88-827dcb49f454" type="box">2</container> 
+				  <container parent="7af9441c-a14b-40fd-9d88-827dcb49f454" type="folder">5</container> 
+				  <unittitle>Manufacturers--Chapstick Company. 
+					 <unitdate normal="1941" type="inclusive">1941</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2744fea5-43f6-4532-b849-5979238e5702" type="box">2</container> 
+				  <container parent="2744fea5-43f6-4532-b849-5979238e5702" type="folder">6</container> 
+				  <unittitle>Manufacturers--Dow Chemical Company. 
+					 <unitdate normal="1942" type="inclusive">1942</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2fcb4e42-9712-4b9d-91cf-f92c6b557296" type="box">2</container> 
+				  <container parent="2fcb4e42-9712-4b9d-91cf-f92c6b557296" type="folder">7</container> 
+				  <unittitle>Manufacturers--General. 
+					 <unitdate normal="1942" type="inclusive">1942</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a0837926-8789-4110-94ec-f66cbf9e46d2" type="box">2</container> 
+				  <container parent="a0837926-8789-4110-94ec-f66cbf9e46d2" type="folder">8</container> 
+				  <unittitle>Manufacturers--Grey Welding and Trailer Works. 
+					 <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="fab93098-211b-4f7e-ac6b-f40b3f3de432" type="box">2</container> 
+				  <container parent="fab93098-211b-4f7e-ac6b-f40b3f3de432" type="folder">9</container> 
+				  <unittitle>Manufacturers--Johnson Ideal Halter Co. 
+					 <unitdate normal="1942/1948" type="inclusive">1942-1948</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ab0da73c-0017-4550-a342-d8e473c81ce1" type="box">2</container> 
+				  <container parent="ab0da73c-0017-4550-a342-d8e473c81ce1" type="folder">10</container> 
+				  <unittitle>Manufacturers--J. M. Cattoor and Sons. 
+					 <unitdate normal="1943" type="inclusive">1943</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="25e198ee-e8a7-465e-a87d-45cf386dba14" type="box">2</container> 
+				  <container parent="25e198ee-e8a7-465e-a87d-45cf386dba14" type="folder">11</container> 
+				  <unittitle>Manufacturers--O. M. Franklin Serum Co. 
+					 <unitdate normal="1941/1943" type="inclusive">1941-1943</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="1cd912d1-7fec-4493-bcd6-0fac5af01f78" type="box">2</container> 
+				  <container parent="1cd912d1-7fec-4493-bcd6-0fac5af01f78" type="folder">12</container> 
+				  <unittitle>Manufacturers--Perforated Pad Co. 
+					 <unitdate normal="1941" type="inclusive">1941</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2c0c99fa-e6f2-481f-9814-c7eb36000fe1" type="box">2</container> 
+				  <container parent="2c0c99fa-e6f2-481f-9814-c7eb36000fe1" type="folder">13</container> 
+				  <unittitle>Manufacturers--President Novelty and Jewelry. 
+					 <unitdate normal="1940" type="inclusive">1940</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="57726571-4a18-4ab0-bf02-efeb7d068c6a" type="box">2</container> 
+				  <container parent="57726571-4a18-4ab0-bf02-efeb7d068c6a" type="folder">14</container> 
+				  <unittitle>Manufacturers--Roberts Livestock Spray Co. 
+					 <unitdate normal="1941/1942" type="inclusive">1941-1942</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="aaa2581e-05aa-4171-8ee3-b052eb0c0ade" type="box">2</container> 
+				  <container parent="aaa2581e-05aa-4171-8ee3-b052eb0c0ade" type="folder">15</container> 
+				  <unittitle>Manufacturers--S. B. Kitchel. 
+					 <unitdate normal="1939/1942" type="inclusive">1939-1942</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="909f1b7f-3c67-44e1-afa7-0c5613a41ad1" type="box">2</container> 
+				  <container parent="909f1b7f-3c67-44e1-afa7-0c5613a41ad1" type="folder">16</container> 
+				  <unittitle>Manufacturers--Table Top Rodeo Game. 
+					 <unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="3520f21b-8c7f-46da-b4aa-7e242a725aef" type="box">2</container> 
+				  <container parent="3520f21b-8c7f-46da-b4aa-7e242a725aef" type="folder">17</container> 
+				  <unittitle>Political. 
+					 <unitdate normal="1940/1944" type="inclusive">1940-1944</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="578ef151-f30c-4c67-a7f1-77cea50390f6" type="box">2</container> 
+				  <container parent="578ef151-f30c-4c67-a7f1-77cea50390f6" type="folder">18</container> 
+				  <unittitle>Publications--Bit and Spur. 
+					 <unitdate normal="1940/1945" type="inclusive">1940-1945</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="26bf33e7-ce84-4c81-93b2-e4942c8fd7d0" type="box">2</container> 
+				  <container parent="26bf33e7-ce84-4c81-93b2-e4942c8fd7d0" type="folder">19</container> 
+				  <unittitle>Publications--Cattleman. 
+					 <unitdate normal="1941/1944" type="inclusive">1941-1944</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="94df80be-e97e-4d81-a2e3-852468365a62" type="box">2</container> 
+				  <container parent="94df80be-e97e-4d81-a2e3-852468365a62" type="folder">20</container> 
+				  <unittitle>Publications--Desert Magazine. 
+					 <unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="36583208-8f17-4d46-9858-f23d2efb6ab9" type="box">2</container> 
+				  <container parent="36583208-8f17-4d46-9858-f23d2efb6ab9" type="folder">21</container> 
+				  <unittitle>Publications--Horse and Mule Association. 
+					 <unitdate normal="1939/1941" type="inclusive">1939-1941</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d63f60d1-81fe-43a0-b455-92fbb2080bd9" type="box">2</container> 
+				  <container parent="d63f60d1-81fe-43a0-b455-92fbb2080bd9" type="folder">22</container> 
+				  <unittitle>Publications--Macmillan Co. 
+					 <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="67b38098-311c-48a4-801e-366edb3b6a9e" type="box">2</container> 
+				  <container parent="67b38098-311c-48a4-801e-366edb3b6a9e" type="folder">23</container> 
+				  <unittitle>Publications--National Charro Association. 
+					 <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="1609b163-3f96-4ff0-a7a6-a90e4f0ce36b" type="box">2</container> 
+				  <container parent="1609b163-3f96-4ff0-a7a6-a90e4f0ce36b" type="folder">24</container> 
+				  <unittitle>Publications--New Mexico Stockman. 
+					 <unitdate normal="1939/1947" type="inclusive">1939-1947</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a90dc334-0a82-45cc-953f-b2ed5859025b" type="box">2</container> 
+				  <container parent="a90dc334-0a82-45cc-953f-b2ed5859025b" type="folder">25</container> 
+				  <unittitle>Publications--Ranch Romances. 
+					 <unitdate normal="1936/1941" type="inclusive">1936-1941</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="95f7b44f-ea3e-47a4-a400-e3b808b6f765" type="box">2</container> 
+				  <container parent="95f7b44f-ea3e-47a4-a400-e3b808b6f765" type="folder">26</container> 
+				  <unittitle>Publications--Texas Livestock Journal. 
+					 <unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4d09dcd5-e1a1-448e-9f09-c15015ae5f2c" type="box">2</container> 
+				  <container parent="4d09dcd5-e1a1-448e-9f09-c15015ae5f2c" type="folder">27</container> 
+				  <unittitle>Publications--Westermeier, Clifford. 
+					 <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="bf00aa7a-8f44-4676-a976-73e8be59952d" type="box">2</container> 
+				  <container parent="bf00aa7a-8f44-4676-a976-73e8be59952d" type="folder">28</container> 
+				  <unittitle>Publications--Western Horseman. 
+					 <unitdate normal="1937/1940" type="inclusive">1937-1940</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4c9ad9c2-7dc9-4c20-9f40-369366fc43a3" type="box">2</container> 
+				  <container parent="4c9ad9c2-7dc9-4c20-9f40-369366fc43a3" type="folder">29</container> 
+				  <unittitle>Railroads--Atchison, Topeka and Santa Fe Railway Co. 
+					 <unitdate normal="1934/1937" type="inclusive">1934-1937</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9a69617e-e39e-4334-9690-374250a3dc90" type="box">2</container> 
+				  <container parent="9a69617e-e39e-4334-9690-374250a3dc90" type="folder">30</container> 
+				  <unittitle>Railroads--Chicago, Rock Island and Pacific Railway
+					 Co. 
+					 <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ffaa6b4f-6960-4f04-b7e5-f5a05fd5f875" type="box">2</container> 
+				  <container parent="ffaa6b4f-6960-4f04-b7e5-f5a05fd5f875" type="folder">31</container> 
+				  <unittitle>Railroads--General. 
+					 <unitdate normal="1935/1943" type="inclusive">1935-1943</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="474266eb-65fe-4faf-93ba-020d1cec563e" type="box">2</container> 
+				  <container parent="474266eb-65fe-4faf-93ba-020d1cec563e" type="folder">32</container> 
+				  <unittitle>Railroads--Southern Pacific. 
+					 <unitdate normal="1935/1943" type="inclusive">1935-1943</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e5c40284-eeb5-410f-b7f0-13bfb141af76" type="box">2</container> 
+				  <container parent="e5c40284-eeb5-410f-b7f0-13bfb141af76" type="folder">33</container> 
+				  <unittitle>Railroads--Union Pacific Railroad. 
+					 <unitdate normal="1935/1937" type="inclusive">1935-1937</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="681fa055-62fa-4671-9390-a57a2660aee1" type="box">2</container> 
+				  <container parent="681fa055-62fa-4671-9390-a57a2660aee1" type="folder">34</container> 
+				  <unittitle>Real Estate--General. 
+					 <unitdate normal="1938/1945" type="inclusive">1938-1945</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b922f993-7adf-4882-86ed-6a25afa40aed" type="box">2</container> 
+				  <container parent="b922f993-7adf-4882-86ed-6a25afa40aed" type="folder">35</container> 
+				  <unittitle>Real Estate--Palmer House. 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="31b2caac-da20-47eb-8a77-c52f3c55df7a" type="box">3</container> 
+				  <container parent="31b2caac-da20-47eb-8a77-c52f3c55df7a" type="folder">1</container> 
+				  <unittitle>Real Estate--W. F. McIlvain. 
+					 <unitdate normal="1939/1941" type="inclusive">1939-1941</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d474ca29-f34c-4491-9298-d0125bc39577" type="box">3</container> 
+				  <container parent="d474ca29-f34c-4491-9298-d0125bc39577" type="folder">2</container> 
+				  <unittitle>Retail--Montgomery Ward. 
+					 <unitdate normal="1939/1942" type="inclusive">1939-1942</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="572df600-0a02-464f-a8ae-0cca76f16faa" type="box">3</container> 
+				  <container parent="572df600-0a02-464f-a8ae-0cca76f16faa" type="folder">3</container> 
+				  <unittitle>Services--General. 
+					 <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="28eb9868-83e7-47e2-8280-cd6d42feb9b6" type="box">3</container> 
+				  <container parent="28eb9868-83e7-47e2-8280-cd6d42feb9b6" type="folder">4</container> 
+				  <unittitle>Services--Harry Roe Co. 
+					 <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="7548c5a7-cccd-4d24-88cf-dbc233136c41" type="box">3</container> 
+				  <container parent="7548c5a7-cccd-4d24-88cf-dbc233136c41" type="folder">5</container> 
+				  <unittitle>Services--Nix, Loyd. 
+					 <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="dc6e3431-6d7a-4ea1-9d5e-12aa86cc7638" type="box">3</container> 
+				  <container parent="dc6e3431-6d7a-4ea1-9d5e-12aa86cc7638" type="folder">6</container> 
+				  <unittitle>Services--Warren Decorating Co. 
+					 <unitdate normal="1943" type="inclusive">1943</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b1897736-bcf7-41c7-8ecb-7f6452cb7b0f" type="box">3</container> 
+				  <container parent="b1897736-bcf7-41c7-8ecb-7f6452cb7b0f" type="folder">7-8</container> 
+				  <unittitle>Solicitations 
+					 <unitdate normal="1940/1948" type="inclusive">1940-1948</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e2364c95-4ccc-40fa-865b-9dc97774c581" type="box">3</container> 
+				  <container parent="e2364c95-4ccc-40fa-865b-9dc97774c581" type="folder">9</container> 
+				  <unittitle>Taxidermists--Bertilllion, L.D. 
+					 <unitdate normal="1938/1946" type="inclusive">1938-1946</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="914b0367-42fd-45e2-baf9-fa4af72577a1" type="box">3</container> 
+				  <container parent="914b0367-42fd-45e2-baf9-fa4af72577a1" type="folder">10</container> 
+				  <unittitle>Taxidermists--Jones, Gilbert. 
+					 <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ade29bfa-7d67-467c-ac8d-a321a5938986" type="box">3</container> 
+				  <container parent="ade29bfa-7d67-467c-ac8d-a321a5938986" type="folder">11</container> 
+				  <unittitle>Taxidermists--Nowotny, M. 
+					 <unitdate normal="1941/1942" type="inclusive">1941-1942</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="04882273-8e94-44fc-9b2a-e6b0223c138d" type="box">3</container> 
+				  <container parent="04882273-8e94-44fc-9b2a-e6b0223c138d" type="folder">12</container> 
+				  <unittitle>Tobacco--American Tobacco Co. 
+					 <unitdate normal="1937/1941" type="inclusive">1937-1941</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0f3f46a0-a4a3-409b-a286-9f4919da8e20" type="box">3</container> 
+				  <container parent="0f3f46a0-a4a3-409b-a286-9f4919da8e20" type="folder">13</container> 
+				  <unittitle>Tobacco--B. F. Choate. 
+					 <unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="035954c3-a525-43ec-a28e-5f4312b6b29b" type="box">3</container> 
+				  <container parent="035954c3-a525-43ec-a28e-5f4312b6b29b" type="folder">14</container> 
+				  <unittitle>Tobacco--Brown and Williamson Tobacco. 
+					 <unitdate normal="1937/1942" type="inclusive">1937-1942</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5c84a68b-6be7-462f-a0ee-92d95ecc031c" type="box">3</container> 
+				  <container parent="5c84a68b-6be7-462f-a0ee-92d95ecc031c" type="folder">15</container> 
+				  <unittitle>Tobacco--General. 
+					 <unitdate normal="1935/1942" type="inclusive">1935-1942</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="7ebbbf13-af2a-49fc-8553-3ead39c67246" type="box">3</container> 
+				  <container parent="7ebbbf13-af2a-49fc-8553-3ead39c67246" type="folder">16</container> 
+				  <unittitle>Tobacco--Philip Morris and Co. 
+					 <unitdate normal="1938/1941" type="inclusive">1938-1941</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="96889f3e-90ed-4101-9b34-963037bcbab4" type="box">3</container> 
+				  <container parent="96889f3e-90ed-4101-9b34-963037bcbab4" type="folder">17</container> 
+				  <unittitle>Tobacco--Tobacco By-Products and Chemical. 
+					 <unitdate normal="1938/1941" type="inclusive">1938-1941</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="49cb52c2-286d-424f-bfaf-a1b37b2b5c81" type="box">3</container> 
+				  <container parent="49cb52c2-286d-424f-bfaf-a1b37b2b5c81" type="folder">18</container> 
+				  <unittitle>Western Wear--Baughman's. 
+					 <unitdate normal="1939/1944" type="inclusive">1939-1944</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f1c9e44c-0b60-4a5b-9f70-e32301924054" type="box">3</container> 
+				  <container parent="f1c9e44c-0b60-4a5b-9f70-e32301924054" type="folder">19</container> 
+				  <unittitle>Western Wear--Ben the Rodeo Tailor. 
+					 <unitdate normal="1939/1944" type="inclusive">1939-1944</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8ba17a17-0eba-4aba-915d-8c981444b876" type="box">3</container> 
+				  <container parent="8ba17a17-0eba-4aba-915d-8c981444b876" type="folder">20</container> 
+				  <unittitle>Western Wear--Carson, Buss. 
+					 <unitdate normal="1943/1947" type="inclusive">1943-1947</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="bd08a231-166a-49a4-8015-39a7bdfcb088" type="box">4</container> 
+				  <container parent="bd08a231-166a-49a4-8015-39a7bdfcb088" type="folder">1</container> 
+				  <unittitle>Western Wear--Dickey, E.M. 
+					 <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="befc80e0-1e12-49d6-8a32-5c275e5a68e4" type="box">4</container> 
+				  <container parent="befc80e0-1e12-49d6-8a32-5c275e5a68e4" type="folder">2</container> 
+				  <unittitle>Western Wear--General. 
+					 <unitdate normal="1941/1946" type="inclusive">1941-1946</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5bcbad85-da14-4d37-9de9-0242860947da" type="box">4</container> 
+				  <container parent="5bcbad85-da14-4d37-9de9-0242860947da" type="folder">3</container> 
+				  <unittitle>Western Wear--Globe Tailors. 
+					 <unitdate normal="1942" type="inclusive">1942</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c4f0d687-f0dc-4760-b202-dfd16cdce6c7" type="box">4</container> 
+				  <container parent="c4f0d687-f0dc-4760-b202-dfd16cdce6c7" type="folder">4</container> 
+				  <unittitle>Western Wear--Hamley and Co. 
+					 <unitdate normal="1942/1946" type="inclusive">1942-1946</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="fffc2281-90d2-4358-bbae-312cfb25d6b9" type="box">4</container> 
+				  <container parent="fffc2281-90d2-4358-bbae-312cfb25d6b9" type="folder">5-6</container> 
+				  <unittitle>Western Wear--H.D. Lee and Co. 
+					 <unitdate normal="1940/1947" type="inclusive">1940-1947</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="3c499ea2-6375-4a28-a832-2a7dfe364782" type="box">4</container> 
+				  <container parent="3c499ea2-6375-4a28-a832-2a7dfe364782" type="folder">7</container> 
+				  <unittitle>Western Wear--Laredo Hat Co. 
+					 <unitdate normal="1940/1942" type="inclusive">1940-1942</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="07333d56-032d-4508-9b06-97b6d06a6c05" type="box">4</container> 
+				  <container parent="07333d56-032d-4508-9b06-97b6d06a6c05" type="folder">8</container> 
+				  <unittitle>Western Wear--Levi Strauss. 
+					 <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="03b8a5b3-0403-4335-8323-2c9387d5178c" type="box">4</container> 
+				  <container parent="03b8a5b3-0403-4335-8323-2c9387d5178c" type="folder">9</container> 
+				  <unittitle>Western Wear--Mundy, Irby. 
+					 <unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6e46119c-d70e-4fb3-9be7-a6d5040c71a8" type="box">4</container> 
+				  <container parent="6e46119c-d70e-4fb3-9be7-a6d5040c71a8" type="folder">10</container> 
+				  <unittitle>Western Wear--Newell's Cowboy Store. 
+					 <unitdate normal="1939/1947" type="inclusive">1939-1947</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8b615ca4-3d1c-4b7d-b104-02b1f08f6ac0" type="box">4</container> 
+				  <container parent="8b615ca4-3d1c-4b7d-b104-02b1f08f6ac0" type="folder">11</container> 
+				  <unittitle>Western Wear--Porter's. 
+					 <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="874a041c-a0df-4e20-aa1d-2ff76b5b572f" type="box">4</container> 
+				  <container parent="874a041c-a0df-4e20-aa1d-2ff76b5b572f" type="folder">12</container> 
+				  <unittitle>Western Wear--Ray, Allen F. 
+					 <unitdate normal="1943/1948" type="inclusive">1943-1948</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2948410f-31a1-489d-9bec-c146f9e8294f" type="box">4</container> 
+				  <container parent="2948410f-31a1-489d-9bec-c146f9e8294f" type="folder">13</container> 
+				  <unittitle>Western Wear--Texas Harvest Hat Co. 
+					 <unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="df2ae44b-3b58-4038-9a87-db4103c1805f" type="box">4</container> 
+				  <container parent="df2ae44b-3b58-4038-9a87-db4103c1805f" type="folder">14</container> 
+				  <unittitle>Western Wear--Trego's Western Girl 
+					 <unitdate normal="1938/1941" type="inclusive">1938-1941</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2f868fed-0240-40a1-9ac7-9a8f6a9f2a48" type="box">4</container> 
+				  <container parent="2f868fed-0240-40a1-9ac7-9a8f6a9f2a48" type="folder">15</container> 
+				  <unittitle>Western Wear--Ward, Fay. 
+					 <unitdate normal="1939/1946" type="inclusive">1939-1946</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e40fb72a-481a-4ede-b7d9-cfc915b640bc" type="box">4</container> 
+				  <container parent="e40fb72a-481a-4ede-b7d9-cfc915b640bc" type="folder">16</container> 
+				  <unittitle>Western Wear--Western Art Leather Co. 
+					 <unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate></unittitle> 
+				</did>
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0c20e8c0-2fb0-4eb2-a1b6-f8b9c9f8f5ac" type="box">4</container> 
+				  <container parent="0c20e8c0-2fb0-4eb2-a1b6-f8b9c9f8f5ac" type="folder">17</container> 
+				  <unittitle>Western Wear--Willig, William. 
+					 <unitdate normal="1940/1942" type="inclusive">1940-1942</unitdate></unittitle> 
+				</did>
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did>
+				<unittitle>Subseries:Circulation Files</unittitle> 
+			 </did>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="521356f0-1ca5-49d3-bece-178459df01a2" type="box">4</container> 
+				  <container parent="521356f0-1ca5-49d3-bece-178459df01a2" type="folder">18</container> 
+				  <unittitle>Boost Letters. 
+					 <unitdate normal="1935/1941" type="inclusive">1935-1941</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0fb66f59-ac54-42d8-8047-5941631db203" type="box">4</container> 
+				  <container parent="0fb66f59-ac54-42d8-8047-5941631db203" type="folder">19</container> 
+				  <unittitle>Copy Requests. 
+					 <unitdate normal="1933/1948" type="inclusive">1933-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a517f469-67ab-4d91-b526-f2ace2259e95" type="box">4</container> 
+				  <container parent="a517f469-67ab-4d91-b526-f2ace2259e95" type="folder">20</container> 
+				  <unittitle>Publication Exchanges. 
+					 <unitdate normal="1938/1947" type="inclusive">1938-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0e99f296-f043-42e7-96ff-28d11fb8e831" type="box">5</container> 
+				  <container parent="0e99f296-f043-42e7-96ff-28d11fb8e831" type="folder">1-5</container> 
+				  <unittitle>Subscriptions. 
+					 <unitdate normal="1935/1948" type="inclusive">1935-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="fa675a32-5f50-4713-8de2-346a09fd6966" type="box">6</container> 
+				  <container parent="fa675a32-5f50-4713-8de2-346a09fd6966" type="folder">1-2</container> 
+				  <unittitle>Subscriptions. 
+					 <unitdate normal="1935/1948" type="inclusive">1935-1948</unitdate></unittitle> 
+				</did>
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did>
+				<unittitle>Subseries:General Files</unittitle> 
+			 </did>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="97c16d66-3701-426a-90ea-d893f370d9ee" type="box">6</container> 
+				  <container parent="97c16d66-3701-426a-90ea-d893f370d9ee" type="folder">3</container> 
+				  <unittitle>A-F, Miscellaneous. 
+					 <unitdate normal="1938/1949" type="inclusive">1938-1949</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4fbe9dde-0d28-4f55-affb-c13efd2491f8" type="box">6</container> 
+				  <container parent="4fbe9dde-0d28-4f55-affb-c13efd2491f8" type="folder">4</container> 
+				  <unittitle>American Saddle and Driving Club. 
+					 <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="dc7e9a1b-5137-43e9-bb28-30e50af336de" type="box">6</container> 
+				  <container parent="dc7e9a1b-5137-43e9-bb28-30e50af336de" type="folder">5</container> 
+				  <unittitle>Austin, Tex. 
+					 <unitdate normal="1945" type="inclusive">1945</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4ac88c20-b03f-4860-b0de-0c9a44e1e4fb" type="box">6</container> 
+				  <container parent="4ac88c20-b03f-4860-b0de-0c9a44e1e4fb" type="folder">6</container> 
+				  <unittitle>Australian Rough Riders Association. 
+					 <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5e439acd-c6c4-4016-ac4f-c4e7f0eb1509" type="box">6</container> 
+				  <container parent="5e439acd-c6c4-4016-ac4f-c4e7f0eb1509" type="folder">7</container> 
+				  <unittitle>Bessler, Joseph. 
+					 <unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="783f3a6b-f8f0-43a5-8641-3284eca5dbf0" type="box">6</container> 
+				  <container parent="783f3a6b-f8f0-43a5-8641-3284eca5dbf0" type="folder">8</container> 
+				  <unittitle>Chippendale, Mildred. 
+					 <unitdate normal="1943/1947" type="inclusive">1943-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b5f23948-26fc-4701-8a45-a03b65564a9d" type="box">6</container> 
+				  <container parent="b5f23948-26fc-4701-8a45-a03b65564a9d" type="folder">9</container> 
+				  <unittitle>Crosse, Tex. 
+					 <unitdate normal="1946" type="inclusive">1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="eb7495dc-647b-47b6-9428-3bd76cd0f981" type="box">6</container> 
+				  <container parent="eb7495dc-647b-47b6-9428-3bd76cd0f981" type="folder">10</container> 
+				  <unittitle>Davis, Slim. 
+					 <unitdate normal="1946" type="inclusive">1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="bc5d336f-bff8-46f4-b9cc-2e6cf69679e9" type="box">6</container> 
+				  <container parent="bc5d336f-bff8-46f4-b9cc-2e6cf69679e9" type="folder">11</container> 
+				  <unittitle>Elliot, Juanita. 
+					 <unitdate normal="1944/1947" type="inclusive">1944-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5e3ea5e0-e90a-4170-903a-a34abc592492" type="box">6</container> 
+				  <container parent="5e3ea5e0-e90a-4170-903a-a34abc592492" type="folder">12</container> 
+				  <unittitle>Forrest, Smokey. 
+					 <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a518fff8-1108-4155-93df-f32551f2d069" type="box">6</container> 
+				  <container parent="a518fff8-1108-4155-93df-f32551f2d069" type="folder">13</container> 
+				  <unittitle>G-L, Miscellaneous. 
+					 <unitdate normal="1935/1947" type="inclusive">1935-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="bd2d3546-564b-4f5c-86f2-f808c6dd7d73" type="box">7</container> 
+				  <container parent="bd2d3546-564b-4f5c-86f2-f808c6dd7d73" type="folder">1</container> 
+				  <unittitle>Hammerschmidt, Helen. 
+					 <unitdate normal="1944/1947" type="inclusive">1944-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6e1fd4c3-c7f8-4584-af67-dcd01b0b0b24" type="box">7</container> 
+				  <container parent="6e1fd4c3-c7f8-4584-af67-dcd01b0b0b24" type="folder">2</container> 
+				  <unittitle>Inquiries--Addresses. 
+					 <unitdate normal="1937/1947" type="inclusive">1937-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2455ba05-99b5-4e24-a2da-2689f932f90e" type="box">7</container> 
+				  <container parent="2455ba05-99b5-4e24-a2da-2689f932f90e" type="folder">3</container> 
+				  <unittitle>Inquiries--Employment. 
+					 <unitdate normal="1937/1947" type="inclusive">1937-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="203bde1c-de80-4957-996c-679484732fb5" type="box">7</container> 
+				  <container parent="203bde1c-de80-4957-996c-679484732fb5" type="folder">4</container> 
+				  <unittitle>Inquiries--Lodging/Housing. 
+					 <unitdate normal="1936/1948" type="inclusive">1936-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="1a02b563-8993-4193-ac1e-442674273a04" type="box">7</container> 
+				  <container parent="1a02b563-8993-4193-ac1e-442674273a04" type="folder">5</container> 
+				  <unittitle>King, Mat. 
+					 <unitdate normal="1942/1947" type="inclusive">1942-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="93de5508-eeb7-4d6e-b43b-ae6eea42a10f" type="box">7</container> 
+				  <container parent="93de5508-eeb7-4d6e-b43b-ae6eea42a10f" type="folder">6</container> 
+				  <unittitle>Lauber, Joan. 
+					 <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="134da5f4-fdd5-4c1b-aef3-753391a72604" type="box">7</container> 
+				  <container parent="134da5f4-fdd5-4c1b-aef3-753391a72604" type="folder">7</container> 
+				  <unittitle>M-P, Miscellaneous. 
+					 <unitdate normal="1937/1947" type="inclusive">1937-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2d63da07-b178-45eb-9c7f-4c2db22bf239" type="box">7</container> 
+				  <container parent="2d63da07-b178-45eb-9c7f-4c2db22bf239" type="folder">8</container> 
+				  <unittitle>McBride, Vera. 
+					 <unitdate normal="1943/1947" type="inclusive">1943-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6531698a-a743-4558-8594-227f53ca181a" type="box">7</container> 
+				  <container parent="6531698a-a743-4558-8594-227f53ca181a" type="folder">9</container> 
+				  <unittitle>Nick Harris Finance Exchange. 
+					 <unitdate normal="1940/1942" type="inclusive">1940-1942</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f0979c9d-2022-4589-b713-0703b294d42e" type="box">7</container> 
+				  <container parent="f0979c9d-2022-4589-b713-0703b294d42e" type="folder">10</container> 
+				  <unittitle>Palmer, Walter. 
+					 <unitdate normal="1946" type="inclusive">1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f65b7270-8683-4080-ba8e-2df5c31b88bb" type="box">7</container> 
+				  <container parent="f65b7270-8683-4080-ba8e-2df5c31b88bb" type="folder">11</container> 
+				  <unittitle>Perry, Reba. 
+					 <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="79645ff0-bca3-4861-a457-ad763ff6d4e5" type="box">7</container> 
+				  <container parent="79645ff0-bca3-4861-a457-ad763ff6d4e5" type="folder">12</container> 
+				  <unittitle>Pillow, Bob. 
+					 <unitdate normal="1933/1938" type="inclusive">1933-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9e03c6bd-cd94-4f0b-b79c-edb5c4c7e6db" type="box">7</container> 
+				  <container parent="9e03c6bd-cd94-4f0b-b79c-edb5c4c7e6db" type="folder">13</container> 
+				  <unittitle>R-S, Miscellaneous. 
+					 <unitdate normal="1937/1947" type="inclusive">1937-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="64ebc4de-9294-4223-8df4-932aa241f3e9" type="box">7</container> 
+				  <container parent="64ebc4de-9294-4223-8df4-932aa241f3e9" type="folder">14</container> 
+				  <unittitle>Rendlen, Jean. 
+					 <unitdate normal="1936" type="inclusive">1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9fc79c94-814f-4e26-b6df-3d2b80de4c75" type="box">7</container> 
+				  <container parent="9fc79c94-814f-4e26-b6df-3d2b80de4c75" type="folder">15</container> 
+				  <unittitle>Ross, E. A. 
+					 <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f77d133a-7846-49a0-9bc0-a762af4479e4" type="box">7</container> 
+				  <container parent="f77d133a-7846-49a0-9bc0-a762af4479e4" type="folder">16</container> 
+				  <unittitle>Sanderson, Irene. 
+					 <unitdate normal="1934/1936" type="inclusive">1934-1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f1013722-b90f-41bc-82bc-47dfc574ca2a" type="box">7</container> 
+				  <container parent="f1013722-b90f-41bc-82bc-47dfc574ca2a" type="folder">17</container> 
+				  <unittitle>Scott, Willis. 
+					 <unitdate normal="1934/1938" type="inclusive">1934-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="182e4b07-32b0-466d-a5ee-0d430fdde8ef" type="box">7</container> 
+				  <container parent="182e4b07-32b0-466d-a5ee-0d430fdde8ef" type="folder">18</container> 
+				  <unittitle>Shaw, Richard. 
+					 <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a2ff09dc-ae89-49a1-a1a1-5a645765be07" type="box">8</container> 
+				  <container parent="a2ff09dc-ae89-49a1-a1a1-5a645765be07" type="folder">1</container> 
+				  <unittitle>Shivley, Tex. 
+					 <unitdate normal="1945/1947" type="inclusive">1945-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a6624326-8904-403c-a1e0-bca0a58c3dae" type="box">8</container> 
+				  <container parent="a6624326-8904-403c-a1e0-bca0a58c3dae" type="folder">2</container> 
+				  <unittitle>Snook, E. E. 
+					 <unitdate normal="1934" type="inclusive">1934</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="60d75175-7152-4111-b49b-80e2ea4a7467" type="box">8</container> 
+				  <container parent="60d75175-7152-4111-b49b-80e2ea4a7467" type="folder">3</container> 
+				  <unittitle>Society for Crippled Children. 
+					 <unitdate normal="1943/1946" type="inclusive">1943-1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6d15e253-26f1-44ea-ac41-0b2921b0d9a8" type="box">8</container> 
+				  <container parent="6d15e253-26f1-44ea-ac41-0b2921b0d9a8" type="folder">4</container> 
+				  <unittitle>Stanley, Benoin. 
+					 <unitdate normal="1934/1936" type="inclusive">1934-1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c7cbee6b-4944-4430-973f-d50a4372879c" type="box">8</container> 
+				  <container parent="c7cbee6b-4944-4430-973f-d50a4372879c" type="folder">5</container> 
+				  <unittitle>Stevens, Harry. 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="1683980a-2980-4b67-a29d-ff7b87aa10bb" type="box">8</container> 
+				  <container parent="1683980a-2980-4b67-a29d-ff7b87aa10bb" type="folder">6</container> 
+				  <unittitle>Stubblefield, Aubrey. 
+					 <unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="1b7f54a8-b2ec-40c5-8c33-a9c3a6808b94" type="box">8</container> 
+				  <container parent="1b7f54a8-b2ec-40c5-8c33-a9c3a6808b94" type="folder">7</container> 
+				  <unittitle>T-Z, Miscellaneous. 
+					 <unitdate normal="1935/1948" type="inclusive">1935-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8b8fa1fd-3992-4dc2-a367-9bbd728b7d21" type="box">8</container> 
+				  <container parent="8b8fa1fd-3992-4dc2-a367-9bbd728b7d21" type="folder">8</container> 
+				  <unittitle>Taillon, Cy. 
+					 <unitdate normal="1945/1948" type="inclusive">1945-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6c25585c-b6bb-4b2e-9d40-0019f9074600" type="box">8</container> 
+				  <container parent="6c25585c-b6bb-4b2e-9d40-0019f9074600" type="folder">9</container> 
+				  <unittitle>Truehart, Billy. 
+					 <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6c2937f3-5478-40be-b966-0f600d17a6f3" type="box">8</container> 
+				  <container parent="6c2937f3-5478-40be-b966-0f600d17a6f3" type="folder">10</container> 
+				  <unittitle>Wallin', Shorty. 
+					 <unitdate normal="1944/1947" type="inclusive">1944-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="04dffdec-8134-4050-bdf2-f9b67fc2e9e5" type="box">8</container> 
+				  <container parent="04dffdec-8134-4050-bdf2-f9b67fc2e9e5" type="folder">11</container> 
+				  <unittitle>Wilkinson, Ella. 
+					 <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0bd91207-a9f4-4294-b01e-35547eed95ac" type="box">8</container> 
+				  <container parent="0bd91207-a9f4-4294-b01e-35547eed95ac" type="folder">12</container> 
+				  <unittitle>Williams, Frederic Allen. 
+					 <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4aefe0d1-5a12-45d1-b8ad-32bd0c91bd64" type="box">8</container> 
+				  <container parent="4aefe0d1-5a12-45d1-b8ad-32bd0c91bd64" type="folder">13</container> 
+				  <unittitle>Wright, Cecil. 
+					 <unitdate normal="1944/1947" type="inclusive">1944-1947</unitdate></unittitle> 
+				</did>
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did>
+				<unittitle>Subseries:Performers</unittitle> 
+			 </did>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="39595f8f-c719-44c1-83f0-79ae50537ce9" type="box">8</container> 
+				  <container parent="39595f8f-c719-44c1-83f0-79ae50537ce9" type="folder">14</container> 
+				  <unittitle>Announcers--Bentley, "Bud". 
+					 <unitdate normal="1944/1947" type="inclusive">1944-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="bb4941d7-1156-4585-aba9-205ce27fc271" type="box">8</container> 
+				  <container parent="bb4941d7-1156-4585-aba9-205ce27fc271" type="folder">15</container> 
+				  <unittitle>Announcers--Denslow, Ed. 
+					 <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e664e457-077e-478c-ab4a-bac6171d50f4" type="box">8</container> 
+				  <container parent="e664e457-077e-478c-ab4a-bac6171d50f4" type="folder">16</container> 
+				  <unittitle>Announcers--General. 
+					 <unitdate normal="1941/1947" type="inclusive">1941-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="426049a5-052f-4c67-841d-d0f7191b45bf" type="box">8</container> 
+				  <container parent="426049a5-052f-4c67-841d-d0f7191b45bf" type="folder">17</container> 
+				  <unittitle>Announcers--Hazen, Jimmie. 
+					 <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="38439d89-255d-49a2-8542-7d835bd108f6" type="box">8</container> 
+				  <container parent="38439d89-255d-49a2-8542-7d835bd108f6" type="folder">18</container> 
+				  <unittitle>Announcers--Holland, Blair. 
+					 <unitdate normal="1946" type="inclusive">1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d5cd0cbe-52e9-481b-b0d3-c746e0e3c97c" type="box">8</container> 
+				  <container parent="d5cd0cbe-52e9-481b-b0d3-c746e0e3c97c" type="folder">19</container> 
+				  <unittitle>Announcers--Irby, E. W. 
+					 <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0abf21ec-d9b7-4687-b7ba-711c126d333e" type="box">8</container> 
+				  <container parent="0abf21ec-d9b7-4687-b7ba-711c126d333e" type="folder">20</container> 
+				  <unittitle>Announcers--Jordan, John. 
+					 <unitdate normal="1944/1946" type="inclusive">1944-1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5da9df32-096b-4e23-a1ee-385648714dda" type="box">8</container> 
+				  <container parent="5da9df32-096b-4e23-a1ee-385648714dda" type="folder">21</container> 
+				  <unittitle>Announcers--Klein, Geo. 
+					 <unitdate normal="1945/1947" type="inclusive">1945-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="28ca255f-5ca5-4b68-b4b8-8b2656d99bd8" type="box">8</container> 
+				  <container parent="28ca255f-5ca5-4b68-b4b8-8b2656d99bd8" type="folder">22</container> 
+				  <unittitle>Announcers--Logan, Pete. 
+					 <unitdate normal="1945/1948" type="inclusive">1945-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="96d55439-fc3e-4b94-8000-17c865551a41" type="box">8</container> 
+				  <container parent="96d55439-fc3e-4b94-8000-17c865551a41" type="folder">23</container> 
+				  <unittitle>Announcers--Normand, Hobart. 
+					 <unitdate normal="1943/1948" type="inclusive">1943-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="7839c01b-f747-4600-a657-688c3a6ef2cb" type="box">8</container> 
+				  <container parent="7839c01b-f747-4600-a657-688c3a6ef2cb" type="folder">24</container> 
+				  <unittitle>Announcers--Oakey, Jack. 
+					 <unitdate normal="1944/1946" type="inclusive">1944-1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="aa4b9943-12af-4be4-8f6c-1b64d8d24618" type="box">8</container> 
+				  <container parent="aa4b9943-12af-4be4-8f6c-1b64d8d24618" type="folder">25</container> 
+				  <unittitle>Announcers--Payne, Gene. 
+					 <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c0a5cf53-e0f7-4354-803c-29d4abce7a82" type="box">8</container> 
+				  <container parent="c0a5cf53-e0f7-4354-803c-29d4abce7a82" type="folder">26</container> 
+				  <unittitle>Announcers--Schrade, Jack. 
+					 <unitdate normal="1944/1946" type="inclusive">1944-1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2a54fbea-7ce6-47e1-be87-d362b4fbb320" type="box">8</container> 
+				  <container parent="2a54fbea-7ce6-47e1-be87-d362b4fbb320" type="folder">27</container> 
+				  <unittitle>Clowns--Bowery, Fred. 
+					 <unitdate normal="1945/1948" type="inclusive">1945-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9313f75a-b0cf-4161-a38a-262dd513e561" type="box">8</container> 
+				  <container parent="9313f75a-b0cf-4161-a38a-262dd513e561" type="folder">28</container> 
+				  <unittitle>Clowns--Dickson, Jimmy. 
+					 <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="208148ca-2b3b-45c5-bbe3-f1665ad2f280" type="box">9</container> 
+				  <container parent="208148ca-2b3b-45c5-bbe3-f1665ad2f280" type="folder">1</container> 
+				  <unittitle>Clowns--General. 
+					 <unitdate normal="1938/1947" type="inclusive">1938-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8dd8f28c-852e-496a-9f19-78e3a68290f5" type="box">9</container> 
+				  <container parent="8dd8f28c-852e-496a-9f19-78e3a68290f5" type="folder">2</container> 
+				  <unittitle>Clowns--Hill, Bobbi. 
+					 <unitdate normal="1939/1946" type="inclusive">1939-1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="331a3e33-fb80-4816-8151-1b4b67046ebb" type="box">9</container> 
+				  <container parent="331a3e33-fb80-4816-8151-1b4b67046ebb" type="folder">3</container> 
+				  <unittitle>Clowns--O'Neil, Harold and Howard. 
+					 <unitdate normal="1943/1948" type="inclusive">1943-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a996d6dc-a3ab-4333-bdae-5677c8bce189" type="box">9</container> 
+				  <container parent="a996d6dc-a3ab-4333-bdae-5677c8bce189" type="folder">4</container> 
+				  <unittitle>Clowns--Reynolds, Fees. 
+					 <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d0859a1e-efcf-408a-8ca0-35913d74ca1c" type="box">9</container> 
+				  <container parent="d0859a1e-efcf-408a-8ca0-35913d74ca1c" type="folder">5</container> 
+				  <unittitle>Clowns--Slim, Dakota. 
+					 <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9ed42483-a179-413f-88e0-bd3e475ea059" type="box">9</container> 
+				  <container parent="9ed42483-a179-413f-88e0-bd3e475ea059" type="folder">6</container> 
+				  <unittitle>Clowns--Sublett, Red. 
+					 <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="84ee0bba-bf9d-40ba-a01f-084cc4595a86" type="box">9</container> 
+				  <container parent="84ee0bba-bf9d-40ba-a01f-084cc4595a86" type="folder">7</container> 
+				  <unittitle>Miscellaneous--Allen, Ted. 
+					 <unitdate normal="1938/1946" type="inclusive">1938-1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c7b0709a-3dda-4934-b767-fab7905a3946" type="box">9</container> 
+				  <container parent="c7b0709a-3dda-4934-b767-fab7905a3946" type="folder">8</container> 
+				  <unittitle>Miscellaneous--Andrews, Jack. 
+					 <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0635ddfa-6496-4e7d-bf26-c672f6e46a9b" type="box">9</container> 
+				  <container parent="0635ddfa-6496-4e7d-bf26-c672f6e46a9b" type="folder">9</container> 
+				  <unittitle>Miscellaneous--General. 
+					 <unitdate normal="1944/1948" type="inclusive">1944-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="48a4e133-4212-4d15-aa17-aa3373a1d93f" type="box">9</container> 
+				  <container parent="48a4e133-4212-4d15-aa17-aa3373a1d93f" type="folder">10</container> 
+				  <unittitle>Trick Riders--Bragg, Nancy. 
+					 <unitdate normal="1940/1948" type="inclusive">1940-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6d553649-9452-489d-8d0a-a5abbc75d36f" type="box">9</container> 
+				  <container parent="6d553649-9452-489d-8d0a-a5abbc75d36f" type="folder">11</container> 
+				  <unittitle>Trick Riders--Carson, Buss. 
+					 <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="15b29ae1-2b7e-4915-a23c-c51bb1641723" type="box">9</container> 
+				  <container parent="15b29ae1-2b7e-4915-a23c-c51bb1641723" type="folder">12</container> 
+				  <unittitle>Trick Riders--Elder, Jack. 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="791bbbea-1f7f-4eda-a01e-ce07230a25b9" type="box">9</container> 
+				  <container parent="791bbbea-1f7f-4eda-a01e-ce07230a25b9" type="folder">13</container> 
+				  <unittitle>Trick Riders--General. 
+					 <unitdate normal="1939/1946" type="inclusive">1939-1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9841599a-5a2e-4858-965f-d250258c82e7" type="box">9</container> 
+				  <container parent="9841599a-5a2e-4858-965f-d250258c82e7" type="folder">14</container> 
+				  <unittitle>Trick Riders--Griffith, Dick. 
+					 <unitdate normal="1940/1942" type="inclusive">1940-1942</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8bba87bd-234f-4f6f-852b-4706bbab78b0" type="box">9</container> 
+				  <container parent="8bba87bd-234f-4f6f-852b-4706bbab78b0" type="folder">15</container> 
+				  <unittitle>Trick Riders--Guskey Family. 
+					 <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ec105e59-3cf3-4482-bc6d-6d164c099c84" type="box">9</container> 
+				  <container parent="ec105e59-3cf3-4482-bc6d-6d164c099c84" type="folder">16</container> 
+				  <unittitle>Trick Riders--Hendricks, Byron. 
+					 <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="791b5e5e-24cc-4213-9a9e-d9204115e1cc" type="box">9</container> 
+				  <container parent="791b5e5e-24cc-4213-9a9e-d9204115e1cc" type="folder">17</container> 
+				  <unittitle>Trick Riders--Henry, Pat. 
+					 <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b99c1d8d-0e7c-4832-94bf-ef69cd12154b" type="box">9</container> 
+				  <container parent="b99c1d8d-0e7c-4832-94bf-ef69cd12154b" type="folder">18</container> 
+				  <unittitle>Trick Riders--Howell, Chet and Juanita. 
+					 <unitdate normal="1945/1947" type="inclusive">1945-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6ebf278d-6bda-49bd-968a-d2df07f81f7c" type="box">9</container> 
+				  <container parent="6ebf278d-6bda-49bd-968a-d2df07f81f7c" type="folder">19</container> 
+				  <unittitle>Trick Riders--Jernigan, Vance. 
+					 <unitdate normal="1944/1947" type="inclusive">1944-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="61b924a3-e5e8-4c8d-9ad0-7c2b789aab9f" type="box">9</container> 
+				  <container parent="61b924a3-e5e8-4c8d-9ad0-7c2b789aab9f" type="folder">20</container> 
+				  <unittitle>Trick Riders--Lamb, Ted and Betty. 
+					 <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ecc61f0a-28b4-457c-b793-ae8efbdb534e" type="box">9</container> 
+				  <container parent="ecc61f0a-28b4-457c-b793-ae8efbdb534e" type="folder">21</container> 
+				  <unittitle>Trick Riders--Lewis, Kay. 
+					 <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c155b671-8600-4403-933b-22a73a2cd3c8" type="box">9</container> 
+				  <container parent="c155b671-8600-4403-933b-22a73a2cd3c8" type="folder">22</container> 
+				  <unittitle>Trick Riders--McLennan, Don and Hope. 
+					 <unitdate normal="1946" type="inclusive">1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a4940dab-aa1c-4be0-918d-a368ee1dde1e" type="box">9</container> 
+				  <container parent="a4940dab-aa1c-4be0-918d-a368ee1dde1e" type="folder">23</container> 
+				  <unittitle>Trick Riders--Montana, Montie. 
+					 <unitdate normal="1943/1946" type="inclusive">1943-1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="aacc1d32-8168-4ea8-afd7-aa5b858e4df2" type="box">9</container> 
+				  <container parent="aacc1d32-8168-4ea8-afd7-aa5b858e4df2" type="folder">24</container> 
+				  <unittitle>Trick Riders--Pickard, Dick and Pauline. 
+					 <unitdate normal="1940/1948" type="inclusive">1940-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b7895eb5-d665-4b2e-85e6-425ac2e0c3b1" type="box">9</container> 
+				  <container parent="b7895eb5-d665-4b2e-85e6-425ac2e0c3b1" type="folder">25</container> 
+				  <unittitle>Trick Riders--Rex, Harvey. 
+					 <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="bf313e0c-8667-41a6-88a6-a491e097e022" type="box">9</container> 
+				  <container parent="bf313e0c-8667-41a6-88a6-a491e097e022" type="folder">26</container> 
+				  <unittitle>Trick Riders--Rivers, Jonnie. 
+					 <unitdate normal="1945/1948" type="inclusive">1945-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="903367c2-efe7-4ec1-8d9b-2fbafa4982fd" type="box">9</container> 
+				  <container parent="903367c2-efe7-4ec1-8d9b-2fbafa4982fd" type="folder">27</container> 
+				  <unittitle>Trick Riders--Swanson, "Lefty" 
+					 <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4372b1b4-aad8-4be4-a1b2-a5c6fd5446e2" type="box">9</container> 
+				  <container parent="4372b1b4-aad8-4be4-a1b2-a5c6fd5446e2" type="folder">28</container> 
+				  <unittitle>Trick Riders--Walker, George. 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="3e830ac4-81e5-47c9-ac6f-9acd21e68a9a" type="box">9</container> 
+				  <container parent="3e830ac4-81e5-47c9-ac6f-9acd21e68a9a" type="folder">29</container> 
+				  <unittitle>Trick Ropers--Braun, Sylvester. 
+					 <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ed27799c-1f55-4ec7-b6c2-010e1058335e" type="box">9</container> 
+				  <container parent="ed27799c-1f55-4ec7-b6c2-010e1058335e" type="folder">30</container> 
+				  <unittitle>Trick Ropers--Dean, Bernice and Frank. 
+					 <unitdate normal="1943/1947" type="inclusive">1943-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c15e8743-e406-4b92-a8a9-6e3cd74dde06" type="box">9</container> 
+				  <container parent="c15e8743-e406-4b92-a8a9-6e3cd74dde06" type="folder">31</container> 
+				  <unittitle>Trick Ropers--Doss, Jimmie. 
+					 <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="18ea4ed2-99e2-49a7-ada0-ad0e007cf3c7" type="box">9</container> 
+				  <container parent="18ea4ed2-99e2-49a7-ada0-ad0e007cf3c7" type="folder">32</container> 
+				  <unittitle>Trick Ropers--General. 
+					 <unitdate normal="1940/1947" type="inclusive">1940-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="957f8ea2-9a02-4ff4-8bb1-cc553b33ec17" type="box">9</container> 
+				  <container parent="957f8ea2-9a02-4ff4-8bb1-cc553b33ec17" type="folder">33</container> 
+				  <unittitle>Trick Ropers--Groves, Jimmie. 
+					 <unitdate normal="1946" type="inclusive">1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c02e081c-4885-46c5-9fab-83869be9fa70" type="box">10</container> 
+				  <container parent="c02e081c-4885-46c5-9fab-83869be9fa70" type="folder">1</container> 
+				  <unittitle>Trick Ropers--Seward, Roy. 
+					 <unitdate normal="1943/1948" type="inclusive">1943-1948</unitdate></unittitle> 
+				</did>
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did>
+				<unittitle>Subseries:Rodeo Files</unittitle> 
+			 </did>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="3b23e09e-6ba0-4ae9-a718-cb4c57b83e3d" type="box">10</container> 
+				  <container parent="3b23e09e-6ba0-4ae9-a718-cb4c57b83e3d" type="folder">2</container> 
+				  <unittitle>Alden (Kansas). 
+					 <unitdate normal="1943/1948" type="inclusive">1943-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4fac674f-4418-4902-b9b7-a2244a24b58f" type="box">10</container> 
+				  <container parent="4fac674f-4418-4902-b9b7-a2244a24b58f" type="folder">3</container> 
+				  <unittitle>Ardmore (Oklahoma). 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6cbfa84d-174e-40f0-88ef-c022a1bc35b8" type="box">10</container> 
+				  <container parent="6cbfa84d-174e-40f0-88ef-c022a1bc35b8" type="folder">4</container> 
+				  <unittitle>Baker (Montana). 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b4b179c1-5db5-428d-ac5e-41f0c0249858" type="box">10</container> 
+				  <container parent="b4b179c1-5db5-428d-ac5e-41f0c0249858" type="folder">5</container> 
+				  <unittitle>Bakersfield (California). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="adeced16-9579-49df-9eb1-ec3783d12b7a" type="box">10</container> 
+				  <container parent="adeced16-9579-49df-9eb1-ec3783d12b7a" type="folder">6</container> 
+				  <unittitle>Belle Fourche (South Dakota). 
+					 <unitdate normal="1934/1938" type="inclusive">1934-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4b62dea3-c98b-452a-9ad4-03eae3acbac1" type="box">10</container> 
+				  <container parent="4b62dea3-c98b-452a-9ad4-03eae3acbac1" type="folder">7</container> 
+				  <unittitle>Benson (Arizona). 
+					 <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="37943a91-f7d6-4d4e-960c-83668d29e2a5" type="box">10</container> 
+				  <container parent="37943a91-f7d6-4d4e-960c-83668d29e2a5" type="folder">8</container> 
+				  <unittitle>Big Spring (Texas). 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="eaa30629-fc07-4786-8a6f-cb11e7ff9ad3" type="box">10</container> 
+				  <container parent="eaa30629-fc07-4786-8a6f-cb11e7ff9ad3" type="folder">9</container> 
+				  <unittitle>Blackfoot (Idaho). 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c0a752a9-a796-4a33-b8f8-c5b4476df6e2" type="box">10</container> 
+				  <container parent="c0a752a9-a796-4a33-b8f8-c5b4476df6e2" type="folder">10</container> 
+				  <unittitle>Blythe (California). 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="276e21c3-f862-4644-8335-5fac9c225076" type="box">10</container> 
+				  <container parent="276e21c3-f862-4644-8335-5fac9c225076" type="folder">11</container> 
+				  <unittitle>Boise (Idaho). 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="36ad6517-dcf7-4bce-a84c-c5a311f15df3" type="box">10</container> 
+				  <container parent="36ad6517-dcf7-4bce-a84c-c5a311f15df3" type="folder">12</container> 
+				  <unittitle>Boston (Massachusetts). 
+					 <unitdate normal="1934/1937" type="inclusive">1934-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="803ea9f1-6d0e-4a3f-a82f-bf1ad9909976" type="box">10</container> 
+				  <container parent="803ea9f1-6d0e-4a3f-a82f-bf1ad9909976" type="folder">13</container> 
+				  <unittitle>Buffalo (Oklahoma). 
+					 <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f7572a92-29c6-4121-a1ee-c474a4a9e438" type="box">10</container> 
+				  <container parent="f7572a92-29c6-4121-a1ee-c474a4a9e438" type="folder">14</container> 
+				  <unittitle>Burwell (Nebraska). 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="433c4925-7432-499f-acd3-68fa515f083e" type="box">10</container> 
+				  <container parent="433c4925-7432-499f-acd3-68fa515f083e" type="folder">15</container> 
+				  <unittitle>Butte (Montana). 
+					 <unitdate normal="1935/1939" type="inclusive">1935-1939</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6faabc6b-2591-4dbc-9f78-cf90b7f2f6d9" type="box">10</container> 
+				  <container parent="6faabc6b-2591-4dbc-9f78-cf90b7f2f6d9" type="folder">16</container> 
+				  <unittitle>Caldwell (Idaho). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2aeaa524-efd8-432d-997c-be502870b024" type="box">10</container> 
+				  <container parent="2aeaa524-efd8-432d-997c-be502870b024" type="folder">17</container> 
+				  <unittitle>Calgary (Alberta, Canada). 
+					 <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="aba12f8c-73e3-4ab7-b8fc-192f86aeb15c" type="box">10</container> 
+				  <container parent="aba12f8c-73e3-4ab7-b8fc-192f86aeb15c" type="folder">18</container> 
+				  <unittitle>Canadian (Texas). 
+					 <unitdate normal="1933/1938" type="inclusive">1933-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c91bd2ec-89cc-439c-8502-25ead0710040" type="box">10</container> 
+				  <container parent="c91bd2ec-89cc-439c-8502-25ead0710040" type="folder">19</container> 
+				  <unittitle>Cardston (Alberta, Canada). 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="1b5407b8-0b40-4536-b558-d90b52efea39" type="box">10</container> 
+				  <container parent="1b5407b8-0b40-4536-b558-d90b52efea39" type="folder">20</container> 
+				  <unittitle>Carlsbad (New Mexico). 
+					 <unitdate normal="1938" type="inclusive">1936, 1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="26c0d49b-fa36-4641-957c-1353caed566d" type="box">10</container> 
+				  <container parent="26c0d49b-fa36-4641-957c-1353caed566d" type="folder">21</container> 
+				  <unittitle>Casa Grande (Arizona). 
+					 <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b0b9d7d7-2c66-4829-862f-9f7b538772ef" type="box">10</container> 
+				  <container parent="b0b9d7d7-2c66-4829-862f-9f7b538772ef" type="folder">22</container> 
+				  <unittitle>Chandler (Arizona). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ae5dd7e1-ec44-4be4-8648-922d87517e0c" type="box">10</container> 
+				  <container parent="ae5dd7e1-ec44-4be4-8648-922d87517e0c" type="folder">23</container> 
+				  <unittitle>Colorado Springs (Colorado). 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4af39eec-9838-4da9-acf2-20c1599a7cdc" type="box">10</container> 
+				  <container parent="4af39eec-9838-4da9-acf2-20c1599a7cdc" type="folder">24</container> 
+				  <unittitle>Darmstadt (Germany). 
+					 <unitdate normal="1946" type="inclusive">1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="89bec43a-ed4d-4b3c-a7d1-be7c6c4b4474" type="box">10</container> 
+				  <container parent="89bec43a-ed4d-4b3c-a7d1-be7c6c4b4474" type="folder">25</container> 
+				  <unittitle>Dinuba (California). 
+					 <unitdate normal="1936" type="inclusive">1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c4f67014-6cdf-491a-b3fb-ff8536e90dd1" type="box">10</container> 
+				  <container parent="c4f67014-6cdf-491a-b3fb-ff8536e90dd1" type="folder">26</container> 
+				  <unittitle>Durango (Colorado). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="52c93348-8c81-4ad1-bcac-a6719b244b06" type="box">10</container> 
+				  <container parent="52c93348-8c81-4ad1-bcac-a6719b244b06" type="folder">27</container> 
+				  <unittitle>Ekalaka (Montana). 
+					 <unitdate normal="1945/1948" type="inclusive">1945-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d55bdf5e-a922-449d-965b-b3e0d16d7cb2" type="box">10</container> 
+				  <container parent="d55bdf5e-a922-449d-965b-b3e0d16d7cb2" type="folder">28</container> 
+				  <unittitle>El Paso (Texas). 
+					 <unitdate normal="1938" type="inclusive">1933, 1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="22439c66-93ac-48d6-a9f5-5f66be2badac" type="box">10</container> 
+				  <container parent="22439c66-93ac-48d6-a9f5-5f66be2badac" type="folder">29</container> 
+				  <unittitle>Ennis (Montana). 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="be59777c-574c-4236-a8a0-b0998bbed87f" type="box">10</container> 
+				  <container parent="be59777c-574c-4236-a8a0-b0998bbed87f" type="folder">30</container> 
+				  <unittitle>Evanston (Wyoming). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="31303b26-3b7d-43f4-bf3a-14dae413d178" type="box">10</container> 
+				  <container parent="31303b26-3b7d-43f4-bf3a-14dae413d178" type="folder">31</container> 
+				  <unittitle>Filler (Idaho). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="96af08f1-a12c-4367-ad25-daf5c74187b7" type="box">10</container> 
+				  <container parent="96af08f1-a12c-4367-ad25-daf5c74187b7" type="folder">32</container> 
+				  <unittitle>Florence (Arizona). 
+					 <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5d485b38-7c59-447b-bd97-4ed8e4b10477" type="box">10</container> 
+				  <container parent="5d485b38-7c59-447b-bd97-4ed8e4b10477" type="folder">33</container> 
+				  <unittitle>Fort Worth (Texas). 
+					 <unitdate normal="1935/1937" type="inclusive">1935-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="38ae668b-651d-4647-bb46-331e19e14a46" type="box">10</container> 
+				  <container parent="38ae668b-651d-4647-bb46-331e19e14a46" type="folder">34</container> 
+				  <unittitle>Gatesville (Texas). 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a40567c2-1526-4e5a-9c93-dc10089fbd27" type="box">10</container> 
+				  <container parent="a40567c2-1526-4e5a-9c93-dc10089fbd27" type="folder">35</container> 
+				  <unittitle>General--Dates. 
+					 <unitdate normal="1935/1947" type="inclusive">1935-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="967e07d1-7898-4842-a4b1-c2fe82e79895" type="box">11</container> 
+				  <container parent="967e07d1-7898-4842-a4b1-c2fe82e79895" type="folder">1</container> 
+				  <unittitle>General--Inquiries. 
+					 <unitdate normal="1938/1948" type="inclusive">1938-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4f35335d-dcc0-4a3c-96fe-f49e75415b70" type="box">11</container> 
+				  <container parent="4f35335d-dcc0-4a3c-96fe-f49e75415b70" type="folder">2</container> 
+				  <unittitle>General--Results. 
+					 <unitdate normal="1944/1948" type="inclusive">1944-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b1ee11fe-33d3-4c2b-a2a2-30677be0d512" type="box">11</container> 
+				  <container parent="b1ee11fe-33d3-4c2b-a2a2-30677be0d512" type="folder">3</container> 
+				  <unittitle>Gillette (Wyoming). 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="cd7dd089-693d-4173-94e8-c26f6765b913" type="box">11</container> 
+				  <container parent="cd7dd089-693d-4173-94e8-c26f6765b913" type="folder">4</container> 
+				  <unittitle>Gilroy (California). 
+					 <unitdate normal="1934/1936" type="inclusive">1934-1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="abca94ce-744d-4c9b-a040-5dbc4c38f2d6" type="box">11</container> 
+				  <container parent="abca94ce-744d-4c9b-a040-5dbc4c38f2d6" type="folder">5</container> 
+				  <unittitle>Gooding (Idaho). 
+					 <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9d775b47-02c0-4f6a-9cda-a990ab1cd634" type="box">11</container> 
+				  <container parent="9d775b47-02c0-4f6a-9cda-a990ab1cd634" type="folder">6</container> 
+				  <unittitle>Great Falls (Montana). 
+					 <unitdate normal="1935/1937" type="inclusive">1935-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c08046f8-8747-4666-a8c0-9d5d457b59db" type="box">11</container> 
+				  <container parent="c08046f8-8747-4666-a8c0-9d5d457b59db" type="folder">7</container> 
+				  <unittitle>Hanford (California). 
+					 <unitdate normal="1935/1937" type="inclusive">1935-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="571f41bf-7975-4498-a9c7-ebb2cb37b7ab" type="box">11</container> 
+				  <container parent="571f41bf-7975-4498-a9c7-ebb2cb37b7ab" type="folder">8</container> 
+				  <unittitle>Hinton (Oklahoma). 
+					 <unitdate normal="1935/1937" type="inclusive">1935-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d1973e70-b025-4f12-a064-81bbeb6f0058" type="box">11</container> 
+				  <container parent="d1973e70-b025-4f12-a064-81bbeb6f0058" type="folder">9</container> 
+				  <unittitle>Hollister (California). 
+					 <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="08a5da54-3eba-4a6a-ba64-72b4dba78ec8" type="box">11</container> 
+				  <container parent="08a5da54-3eba-4a6a-ba64-72b4dba78ec8" type="folder">10</container> 
+				  <unittitle>Houston (Texas). 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="91247beb-ea81-4f66-a609-2b80d2a8bb20" type="box">11</container> 
+				  <container parent="91247beb-ea81-4f66-a609-2b80d2a8bb20" type="folder">11</container> 
+				  <unittitle>Huntsville (Texas). 
+					 <unitdate normal="1939" type="inclusive">1939</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="697b40b9-03e6-483e-bfca-fcb7f18b7d96" type="box">11</container> 
+				  <container parent="697b40b9-03e6-483e-bfca-fcb7f18b7d96" type="folder">12</container> 
+				  <unittitle>Idaho Falls (Idaho). 
+					 <unitdate normal="1937" type="inclusive">1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0ad3e296-1144-4d1a-95df-29c39b715dcb" type="box">11</container> 
+				  <container parent="0ad3e296-1144-4d1a-95df-29c39b715dcb" type="folder">13</container> 
+				  <unittitle>King City (California). 
+					 <unitdate normal="1937" type="inclusive">1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ccdafd5e-5e1e-4dda-b632-0e898f5e0e1e" type="box">11</container> 
+				  <container parent="ccdafd5e-5e1e-4dda-b632-0e898f5e0e1e" type="folder">14</container> 
+				  <unittitle>Kingman (Arizona). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6d302af1-aa69-4db8-bcd9-ab02daa11e38" type="box">11</container> 
+				  <container parent="6d302af1-aa69-4db8-bcd9-ab02daa11e38" type="folder">15</container> 
+				  <unittitle>Lakeside (California). 
+					 <unitdate normal="1935/1937" type="inclusive">1935-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4b01af16-1756-4aa4-aa2a-e19a38f72c79" type="box">11</container> 
+				  <container parent="4b01af16-1756-4aa4-aa2a-e19a38f72c79" type="folder">16</container> 
+				  <unittitle>Lakeview (Oregon). 
+					 <unitdate normal="1935/1939" type="inclusive">1935-1939</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e882aef4-ed2a-42c6-ae5a-7f9ff69dc6cd" type="box">11</container> 
+				  <container parent="e882aef4-ed2a-42c6-ae5a-7f9ff69dc6cd" type="folder">17</container> 
+				  <unittitle>Las Vegas (New Mexico). 
+					 <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8effccfc-ef22-46e1-bcf9-2d076fc7ed70" type="box">11</container> 
+				  <container parent="8effccfc-ef22-46e1-bcf9-2d076fc7ed70" type="folder">18</container> 
+				  <unittitle>Las Vegas (Nevada). 
+					 <unitdate normal="1936" type="inclusive">1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="fb551699-a4d4-43d2-961c-265759ad8e8e" type="box">11</container> 
+				  <container parent="fb551699-a4d4-43d2-961c-265759ad8e8e" type="folder">19</container> 
+				  <unittitle>Lewiston (Montana). 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a79a9f2e-adbb-4f75-9e6c-948fc14f504a" type="box">11</container> 
+				  <container parent="a79a9f2e-adbb-4f75-9e6c-948fc14f504a" type="folder">20</container> 
+				  <unittitle>Little Rock (Arkansas). 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f26f6171-1735-49ed-ab33-2134f11d4350" type="box">11</container> 
+				  <container parent="f26f6171-1735-49ed-ab33-2134f11d4350" type="folder">21</container> 
+				  <unittitle>Livermore (California). 
+					 <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6018b9ec-6edf-466a-88be-c6d1cc06fb27" type="box">11</container> 
+				  <container parent="6018b9ec-6edf-466a-88be-c6d1cc06fb27" type="folder">22</container> 
+				  <unittitle>Livingston (Montana). 
+					 <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="12c55fe8-4dd6-46b4-9324-3f8fa9aefc5e" type="box">11</container> 
+				  <container parent="12c55fe8-4dd6-46b4-9324-3f8fa9aefc5e" type="folder">23</container> 
+				  <unittitle>Los Angeles (California). 
+					 <unitdate normal="1937/1944" type="inclusive">1937-1944</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="fdcb980e-363b-4805-8a91-7d0a380cf8b0" type="box">11</container> 
+				  <container parent="fdcb980e-363b-4805-8a91-7d0a380cf8b0" type="folder">24</container> 
+				  <unittitle>Magnum (Oklahoma). 
+					 <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2c346d5b-00f8-4583-8f60-7693a8f261ec" type="box">11</container> 
+				  <container parent="2c346d5b-00f8-4583-8f60-7693a8f261ec" type="folder">25</container> 
+				  <unittitle>Marysville (California). 
+					 <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c71f1579-c44b-4a87-89fe-d0a57910524e" type="box">11</container> 
+				  <container parent="c71f1579-c44b-4a87-89fe-d0a57910524e" type="folder">26</container> 
+				  <unittitle>Medicine Hat (Alberta, Canada). 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b572f671-03ff-41a2-882b-8565b1359453" type="box">11</container> 
+				  <container parent="b572f671-03ff-41a2-882b-8565b1359453" type="folder">27</container> 
+				  <unittitle>Memphis (Tennessee). 
+					 <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="532c4437-b794-4dff-9993-a11fe8a6cd06" type="box">11</container> 
+				  <container parent="532c4437-b794-4dff-9993-a11fe8a6cd06" type="folder">28</container> 
+				  <unittitle>Midland (Texas). 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="698bbf58-2d6e-472b-9e3d-ed64ff137c74" type="box">11</container> 
+				  <container parent="698bbf58-2d6e-472b-9e3d-ed64ff137c74" type="folder">29</container> 
+				  <unittitle>Minot (North Dakota). 
+					 <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5c5c5402-6291-41ab-aacc-c42b7bddaea9" type="box">11</container> 
+				  <container parent="5c5c5402-6291-41ab-aacc-c42b7bddaea9" type="folder">30</container> 
+				  <unittitle>Monte Vista (Colorado). 
+					 <unitdate normal="1934/1938" type="inclusive">1934-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c3346879-93f4-4419-a7f0-306f9c829066" type="box">11</container> 
+				  <container parent="c3346879-93f4-4419-a7f0-306f9c829066" type="folder">31</container> 
+				  <unittitle>Montrose (California). 
+					 <unitdate normal="1938" type="inclusive">1934, 1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b399738e-c765-4e3e-ac9b-499e797bc74b" type="box">11</container> 
+				  <container parent="b399738e-c765-4e3e-ac9b-499e797bc74b" type="folder">32</container> 
+				  <unittitle>Nampa (Idaho). 
+					 <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d77b68e4-fa13-4259-ace1-ca9cc42ba10a" type="box">11</container> 
+				  <container parent="d77b68e4-fa13-4259-ace1-ca9cc42ba10a" type="folder">33</container> 
+				  <unittitle>Nephi (Utah). 
+					 <unitdate normal="1936" type="inclusive">1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4230c93f-0c0f-40fd-9f69-800ac35b5c94" type="box">11</container> 
+				  <container parent="4230c93f-0c0f-40fd-9f69-800ac35b5c94" type="folder">34</container> 
+				  <unittitle>New York (New York). 
+					 <unitdate normal="1934/1938" type="inclusive">1934-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4b52c741-46a1-4cdc-83df-c7a8d92495be" type="box">12</container> 
+				  <container parent="4b52c741-46a1-4cdc-83df-c7a8d92495be" type="folder">1</container> 
+				  <unittitle>North Platte (Nebraska). 
+					 <unitdate normal="1934/1938" type="inclusive">1934-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="111fd0f1-7044-4cf3-9b2d-c732b4b0bd99" type="box">12</container> 
+				  <container parent="111fd0f1-7044-4cf3-9b2d-c732b4b0bd99" type="folder">2</container> 
+				  <unittitle>Oakland (Nebraska). 
+					 <unitdate normal="1936" type="inclusive">1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="608ee637-b1c8-4e40-94fd-cf3e8540f769" type="box">12</container> 
+				  <container parent="608ee637-b1c8-4e40-94fd-cf3e8540f769" type="folder">3</container> 
+				  <unittitle>Ogden (Utah). 
+					 <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="61095795-e5f6-4ff2-a450-2fc0894df9c9" type="box">12</container> 
+				  <container parent="61095795-e5f6-4ff2-a450-2fc0894df9c9" type="folder">4</container> 
+				  <unittitle>Oklahoma City (Oklahoma). 
+					 <unitdate normal="1935/1937" type="inclusive">1935-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="990d22ab-fb28-4736-aad6-f02c6b64d24f" type="box">12</container> 
+				  <container parent="990d22ab-fb28-4736-aad6-f02c6b64d24f" type="folder">5</container> 
+				  <unittitle>Olton (Texas). 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a274993d-2220-42e5-a452-004cabe26fbe" type="box">12</container> 
+				  <container parent="a274993d-2220-42e5-a452-004cabe26fbe" type="folder">6</container> 
+				  <unittitle>Pecos (Texas). 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="18864a95-2d22-419e-a749-f404b2927e56" type="box">12</container> 
+				  <container parent="18864a95-2d22-419e-a749-f404b2927e56" type="folder">7</container> 
+				  <unittitle>Pendleton (Oregon). 
+					 <unitdate normal="1937/1947" type="inclusive">1937-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e45ffac4-a61b-4573-b78b-95271db873dd" type="box">12</container> 
+				  <container parent="e45ffac4-a61b-4573-b78b-95271db873dd" type="folder">8</container> 
+				  <unittitle>Palatka (Florida). 
+					 <unitdate normal="1948" type="inclusive">1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="de55ff52-d1c4-4e21-aa7a-8a923a0864b5" type="box">12</container> 
+				  <container parent="de55ff52-d1c4-4e21-aa7a-8a923a0864b5" type="folder">9</container> 
+				  <unittitle>Phillipsburg (Kansas). 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9edc4c72-141a-4339-bfb3-6ddb895f13e1" type="box">12</container> 
+				  <container parent="9edc4c72-141a-4339-bfb3-6ddb895f13e1" type="folder">10</container> 
+				  <unittitle>Phoenix (Arizona). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9c19b6a8-39d0-48e6-948a-81e6dbe941e4" type="box">12</container> 
+				  <container parent="9c19b6a8-39d0-48e6-948a-81e6dbe941e4" type="folder">11</container> 
+				  <unittitle>Pocatello (Idaho). 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2d8b4fe4-df24-496a-b4c2-efe3f1b99a06" type="box">12</container> 
+				  <container parent="2d8b4fe4-df24-496a-b4c2-efe3f1b99a06" type="folder">12</container> 
+				  <unittitle>Porterville (California). 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="897f157d-1767-4b42-b639-bce622041b92" type="box">12</container> 
+				  <container parent="897f157d-1767-4b42-b639-bce622041b92" type="folder">13</container> 
+				  <unittitle>Pueblo (Colorado). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="41f85dc9-f8d4-4678-9578-ea685471d1f3" type="box">12</container> 
+				  <container parent="41f85dc9-f8d4-4678-9578-ea685471d1f3" type="folder">14</container> 
+				  <unittitle>Red Bluff (California). 
+					 <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="199d1728-2f4b-4e15-ae4d-bbce5436337d" type="box">12</container> 
+				  <container parent="199d1728-2f4b-4e15-ae4d-bbce5436337d" type="folder">15</container> 
+				  <unittitle>Red Lodge (Montana). 
+					 <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="feacce66-b7eb-4a01-a388-6dcb61ef7a1e" type="box">12</container> 
+				  <container parent="feacce66-b7eb-4a01-a388-6dcb61ef7a1e" type="folder">16</container> 
+				  <unittitle>Redondo Beach (California). 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="86933534-ce47-44ac-8772-ca525f78091b" type="box">12</container> 
+				  <container parent="86933534-ce47-44ac-8772-ca525f78091b" type="folder">17</container> 
+				  <unittitle>Reno (Nevada). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="336592b8-e7fa-4158-8f28-ebcc83c22a68" type="box">12</container> 
+				  <container parent="336592b8-e7fa-4158-8f28-ebcc83c22a68" type="folder">18</container> 
+				  <unittitle>Riggins (Idaho). 
+					 <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="506f4832-e665-4334-8053-e812390fae07" type="box">12</container> 
+				  <container parent="506f4832-e665-4334-8053-e812390fae07" type="folder">19</container> 
+				  <unittitle>Rochester (New York). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="744592a9-ef53-4829-b0e7-1345c24db75f" type="box">12</container> 
+				  <container parent="744592a9-ef53-4829-b0e7-1345c24db75f" type="folder">20-21</container> 
+				  <unittitle>Rodeo Association of America. 
+					 <unitdate normal="1933/1945" type="inclusive">1933-1945</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f9fb03db-34f2-4cd6-9045-8e28b6b1382f" type="box">13</container> 
+				  <container parent="f9fb03db-34f2-4cd6-9045-8e28b6b1382f" type="folder">1</container> 
+				  <unittitle>Rodeo Association of America. 
+					 <unitdate normal="1933/1945" type="inclusive">1933-1945</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ba1394f8-29f3-4b6a-ad18-5dc617a5a4ee" type="box">13</container> 
+				  <container parent="ba1394f8-29f3-4b6a-ad18-5dc617a5a4ee" type="folder">2</container> 
+				  <unittitle>Sacramento (California). 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5e864eac-8188-4596-9d90-76970a106d82" type="box">13</container> 
+				  <container parent="5e864eac-8188-4596-9d90-76970a106d82" type="folder">3</container> 
+				  <unittitle>Salinas (California). 
+					 <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c9a79d44-c3e3-4d4e-bcc0-950d55e8a706" type="box">13</container> 
+				  <container parent="c9a79d44-c3e3-4d4e-bcc0-950d55e8a706" type="folder">4</container> 
+				  <unittitle>Salt Lake City (Utah). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e157fe5c-b581-4853-9056-d3d6e6cfb962" type="box">13</container> 
+				  <container parent="e157fe5c-b581-4853-9056-d3d6e6cfb962" type="folder">5</container> 
+				  <unittitle>San Angelo (Texas). 
+					 <unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="3987ebea-bf86-43ef-b50f-8321ae9b4ad6" type="box">13</container> 
+				  <container parent="3987ebea-bf86-43ef-b50f-8321ae9b4ad6" type="folder">6</container> 
+				  <unittitle>San Antonio (Texas). 
+					 <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="78e9d662-e249-451d-8a30-5f0587ee8dad" type="box">13</container> 
+				  <container parent="78e9d662-e249-451d-8a30-5f0587ee8dad" type="folder">7</container> 
+				  <unittitle>San Jacinto (California). 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="bf30936a-5b02-4792-9782-334e99878e89" type="box">13</container> 
+				  <container parent="bf30936a-5b02-4792-9782-334e99878e89" type="folder">8</container> 
+				  <unittitle>Sanderson (Texas). 
+					 <unitdate normal="1937" type="inclusive">1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8c4e46ff-b45e-4470-9871-ca227e2b1dca" type="box">13</container> 
+				  <container parent="8c4e46ff-b45e-4470-9871-ca227e2b1dca" type="folder">9</container> 
+				  <unittitle>Seattle (Washington). 
+					 <unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4ab6bffc-d8c1-4f5f-a7b7-13c02c89ccbc" type="box">13</container> 
+				  <container parent="4ab6bffc-d8c1-4f5f-a7b7-13c02c89ccbc" type="folder">10</container> 
+				  <unittitle>Sheridan (Wyoming). 
+					 <unitdate normal="1934/1938" type="inclusive">1934-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e5fed13b-1f99-47f5-9142-5dc2d57ce42e" type="box">13</container> 
+				  <container parent="e5fed13b-1f99-47f5-9142-5dc2d57ce42e" type="folder">11</container> 
+				  <unittitle>Sidney (Iowa). 
+					 <unitdate normal="1935/1937" type="inclusive">1935-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9b127e9d-26d3-4ce2-bd01-59b571544e0a" type="box">13</container> 
+				  <container parent="9b127e9d-26d3-4ce2-bd01-59b571544e0a" type="folder">12</container> 
+				  <unittitle>Silver City (New Mexico). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="98348f72-7ffd-467e-a102-5956105b558d" type="box">13</container> 
+				  <container parent="98348f72-7ffd-467e-a102-5956105b558d" type="folder">13</container> 
+				  <unittitle>Soda Springs (Idaho). 
+					 <unitdate normal="1934/1937" type="inclusive">1934-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="979d7bf0-bf2f-4e89-8c34-b1be53106144" type="box">13</container> 
+				  <container parent="979d7bf0-bf2f-4e89-8c34-b1be53106144" type="folder">14</container> 
+				  <unittitle>Sonora (California). 
+					 <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ff936e3d-28eb-4a72-8759-5db6beb2c98d" type="box">13</container> 
+				  <container parent="ff936e3d-28eb-4a72-8759-5db6beb2c98d" type="folder">15</container> 
+				  <unittitle>Spokane (Washington). 
+					 <unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="bc8f76cf-6cdf-4d07-877f-bf50655dbd0f" type="box">13</container> 
+				  <container parent="bc8f76cf-6cdf-4d07-877f-bf50655dbd0f" type="folder">16</container> 
+				  <unittitle>Springerville (Arizona). 
+					 <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9bb14bc0-fcad-4a7e-8dfd-7bbde969286c" type="box">13</container> 
+				  <container parent="9bb14bc0-fcad-4a7e-8dfd-7bbde969286c" type="folder">17</container> 
+				  <unittitle>Stamford (Texas). 
+					 <unitdate normal="1934/1938" type="inclusive">1934-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="736a4c28-4ba3-4618-b6de-731492844692" type="box">13</container> 
+				  <container parent="736a4c28-4ba3-4618-b6de-731492844692" type="folder">18</container> 
+				  <unittitle>Sun City (Kansas). 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ebe0c47d-7e20-4051-9d6f-d971e79d4d06" type="box">13</container> 
+				  <container parent="ebe0c47d-7e20-4051-9d6f-d971e79d4d06" type="folder">19</container> 
+				  <unittitle>Sweetwater (Texas). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="be652ca6-2350-4cb8-a95a-dc42c3a6cdce" type="box">13</container> 
+				  <container parent="be652ca6-2350-4cb8-a95a-dc42c3a6cdce" type="folder">20</container> 
+				  <unittitle>Tahlequah (Oklahoma). 
+					 <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0f8c9dbb-a130-473f-b84a-c4e08c4f2aa3" type="box">13</container> 
+				  <container parent="0f8c9dbb-a130-473f-b84a-c4e08c4f2aa3" type="folder">21</container> 
+				  <unittitle>Thermopolis (Wyoming). 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5414beea-9092-4c82-84ef-84a94567711e" type="box">13</container> 
+				  <container parent="5414beea-9092-4c82-84ef-84a94567711e" type="folder">22</container> 
+				  <unittitle>Victorville (California). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="bead01aa-d91c-43ca-8152-6e180a2cab18" type="box">13</container> 
+				  <container parent="bead01aa-d91c-43ca-8152-6e180a2cab18" type="folder">23</container> 
+				  <unittitle>Vinita (Oklahoma). 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d0e2cc01-5fe4-4092-b19b-fea7056a5117" type="box">13</container> 
+				  <container parent="d0e2cc01-5fe4-4092-b19b-fea7056a5117" type="folder">24</container> 
+				  <unittitle>Wahoo (Nebraska). 
+					 <unitdate normal="1935" type="inclusive">1935</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="39184caa-ac68-455a-9e43-b27b4ec7595d" type="box">13</container> 
+				  <container parent="39184caa-ac68-455a-9e43-b27b4ec7595d" type="folder">25</container> 
+				  <unittitle>Wilcox (Arizona). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="cedfe707-9cda-42fa-9184-d89bb6524838" type="box">13</container> 
+				  <container parent="cedfe707-9cda-42fa-9184-d89bb6524838" type="folder">26</container> 
+				  <unittitle>Winnemucca (Nevada). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e7f902e9-bf7b-4cc3-b70f-5e187ad131d1" type="box">13</container> 
+				  <container parent="e7f902e9-bf7b-4cc3-b70f-5e187ad131d1" type="folder">27</container> 
+				  <unittitle>Wolf Point (Montana). 
+					 <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2596e140-7127-467c-95b7-9d6278433af2" type="box">13</container> 
+				  <container parent="2596e140-7127-467c-95b7-9d6278433af2" type="folder">28</container> 
+				  <unittitle>Woodstown (New Jersey). 
+					 <unitdate normal="1935/1938" type="inclusive">1935-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5c9ecd90-abf3-4b67-b442-1565d9a4865b" type="box">14</container> 
+				  <container parent="5c9ecd90-abf3-4b67-b442-1565d9a4865b" type="folder">1</container> 
+				  <unittitle>Woodward (Oklahoma). 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did>
+				<unittitle>Subseries:Submission Files</unittitle> 
+			 </did>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f96e9806-6b1f-43c4-bbbf-f2546142827e" type="box">14</container> 
+				  <container parent="f96e9806-6b1f-43c4-bbbf-f2546142827e" type="folder">2</container> 
+				  <unittitle>Announcements--General. 
+					 <unitdate normal="1936/1948" type="inclusive">1936-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d1c29811-62ec-4b67-9e1e-a76a99dcd382" type="box">14</container> 
+				  <container parent="d1c29811-62ec-4b67-9e1e-a76a99dcd382" type="folder">3</container> 
+				  <unittitle>Announcements--Political Candidacy. 
+					 <unitdate normal="1938/1944" type="inclusive">1938-1944</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="27553586-6e03-4030-865d-ac2031ff24f7" type="box">14</container> 
+				  <container parent="27553586-6e03-4030-865d-ac2031ff24f7" type="folder">4</container> 
+				  <unittitle>Armstrong, Earl. 
+					 <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="52229b3d-fdce-41ef-9340-124c64902e38" type="box">14</container> 
+				  <container parent="52229b3d-fdce-41ef-9340-124c64902e38" type="folder">5</container> 
+				  <unittitle>Art Work--General. 
+					 <unitdate normal="1937/1948" type="inclusive">1937-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="df3527d9-46cb-4799-b325-90a65aabc54d" type="box">14</container> 
+				  <container parent="df3527d9-46cb-4799-b325-90a65aabc54d" type="folder">6</container> 
+				  <unittitle>Chamberlain, Jim. 
+					 <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2a1110c7-ba93-496b-9004-3fe0c050e9ec" type="box">14</container> 
+				  <container parent="2a1110c7-ba93-496b-9004-3fe0c050e9ec" type="folder">7</container> 
+				  <unittitle>Corrections--General. 
+					 <unitdate normal="1936/1948" type="inclusive">1936-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4f2c8d82-5e17-475f-bc8a-41f52dabde71" type="box">14</container> 
+				  <container parent="4f2c8d82-5e17-475f-bc8a-41f52dabde71" type="folder">8</container> 
+				  <unittitle>Helfrich, DeVere. 
+					 <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="21eecbe2-4cb5-4616-813d-16ad27b650c0" type="box">14</container> 
+				  <container parent="21eecbe2-4cb5-4616-813d-16ad27b650c0" type="folder">9</container> 
+				  <unittitle>Henderson, Tex. 
+					 <unitdate normal="1947" type="inclusive">1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ab7313e8-74d2-4a22-af20-92aba6ffb4d6" type="box">14</container> 
+				  <container parent="ab7313e8-74d2-4a22-af20-92aba6ffb4d6" type="folder">10</container> 
+				  <unittitle>Magee, John A. 
+					 <unitdate normal="1945/1947" type="inclusive">1945-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="7e80a9ef-3a05-4369-8d02-4d02a0f31f79" type="box">14</container> 
+				  <container parent="7e80a9ef-3a05-4369-8d02-4d02a0f31f79" type="folder">11</container> 
+				  <unittitle>Naegle, Marguerite. 
+					 <unitdate normal="1936" type="inclusive">1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="3f145abf-b516-4e87-98f7-88057023f457" type="box">14</container> 
+				  <container parent="3f145abf-b516-4e87-98f7-88057023f457" type="folder">12</container> 
+				  <unittitle>Napoletano, Al. 
+					 <unitdate normal="1944/1946" type="inclusive">1944-1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b7a083a0-4810-4d9e-9b11-9e60e0c47622" type="box">14</container> 
+				  <container parent="b7a083a0-4810-4d9e-9b11-9e60e0c47622" type="folder">13</container> 
+				  <unittitle>News Items--General. 
+					 <unitdate normal="1937/1947" type="inclusive">1937-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0824611f-5267-4497-8add-4d7e0fce7771" type="box">14</container> 
+				  <container parent="0824611f-5267-4497-8add-4d7e0fce7771" type="folder">14</container> 
+				  <unittitle>Photographs--General. 
+					 <unitdate normal="1937/1947" type="inclusive">1937-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="100ccfac-bda2-4091-a7c6-c46b2684f51e" type="box">14</container> 
+				  <container parent="100ccfac-bda2-4091-a7c6-c46b2684f51e" type="folder">15</container> 
+				  <unittitle>Poems--General. 
+					 <unitdate normal="1935/1947" type="inclusive">1935-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="bf7d36a3-02f7-472b-944a-51744cd2455b" type="box">14</container> 
+				  <container parent="bf7d36a3-02f7-472b-944a-51744cd2455b" type="folder">16</container> 
+				  <unittitle>Ralston, Harry. 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a1d2ef7b-5096-45a9-b462-4d23e2a4f730" type="box">14</container> 
+				  <container parent="a1d2ef7b-5096-45a9-b462-4d23e2a4f730" type="folder">17</container> 
+				  <unittitle>Ricketts, Viva Leone. 
+					 <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c5e76ed6-7817-4b03-9124-30f80f958cb9" type="box">14</container> 
+				  <container parent="c5e76ed6-7817-4b03-9124-30f80f958cb9" type="folder">18</container> 
+				  <unittitle>Rock, Florian. 
+					 <unitdate normal="1943/1946" type="inclusive">1943-1946</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="166839df-08fc-43ea-a4ad-7334eff41f07" type="box">14</container> 
+				  <container parent="166839df-08fc-43ea-a4ad-7334eff41f07" type="folder">19</container> 
+				  <unittitle>Rognan, Don. 
+					 <unitdate normal="1934/1936" type="inclusive">1934-1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="61072f5a-0088-4533-bb85-cde8b27c99c4" type="box">14</container> 
+				  <container parent="61072f5a-0088-4533-bb85-cde8b27c99c4" type="folder">20</container> 
+				  <unittitle>Roth, Henry. 
+					 <unitdate normal="1936" type="inclusive">1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="7ffe246e-4f8f-4a23-b845-cbd1cd778222" type="box">15</container> 
+				  <container parent="7ffe246e-4f8f-4a23-b845-cbd1cd778222" type="folder">1</container> 
+				  <unittitle>Sandborgh, Bert. 
+					 <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6594ebff-34f0-4275-8666-6ceb65b8daa5" type="box">15</container> 
+				  <container parent="6594ebff-34f0-4275-8666-6ceb65b8daa5" type="folder">2</container> 
+				  <unittitle>Shafer, Filomina. 
+					 <unitdate normal="1936/1938" type="inclusive">1936-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="38d5b830-447e-4fb1-b25b-17e2ad351183" type="box">15</container> 
+				  <container parent="38d5b830-447e-4fb1-b25b-17e2ad351183" type="folder">3</container> 
+				  <unittitle>Shore, Hardy. 
+					 <unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="42ace4c0-a099-4d94-a511-3cb8657ca9cb" type="box">15</container> 
+				  <container parent="42ace4c0-a099-4d94-a511-3cb8657ca9cb" type="folder">4</container> 
+				  <unittitle>Smith, Ida. 
+					 <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0a19c243-99aa-4e10-a4d1-c11bb6eb07c6" type="box">15</container> 
+				  <container parent="0a19c243-99aa-4e10-a4d1-c11bb6eb07c6" type="folder">5</container> 
+				  <unittitle>Smith, "Plucky". 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4b906794-ef7a-4e52-9d57-02f6e388b25b" type="box">15</container> 
+				  <container parent="4b906794-ef7a-4e52-9d57-02f6e388b25b" type="folder">6</container> 
+				  <unittitle>Stories--General. 
+					 <unitdate normal="1936/1948" type="inclusive">1936-1948</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2a92a730-a185-4938-9f93-6feb24398f7a" type="box">15</container> 
+				  <container parent="2a92a730-a185-4938-9f93-6feb24398f7a" type="folder">7</container> 
+				  <unittitle>Vaden, Clay. 
+					 <unitdate normal="1933/1937" type="inclusive">1933-1937</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="12a0d032-ef38-4922-831d-9cf5360a927d" type="box">15</container> 
+				  <container parent="12a0d032-ef38-4922-831d-9cf5360a927d" type="folder">8</container> 
+				  <unittitle>Williford, Opal. 
+					 <unitdate normal="1938" type="inclusive">1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="97d41b9c-4a4f-4eca-9cda-5466cfbaf530" type="box">15</container> 
+				  <container parent="97d41b9c-4a4f-4eca-9cda-5466cfbaf530" type="folder">9</container> 
+				  <unittitle>Woods, Harry. 
+					 <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="785a098a-e6fa-4d7b-a107-75d504416d7f" type="box">15</container> 
+				  <container parent="785a098a-e6fa-4d7b-a107-75d504416d7f" type="folder">10</container> 
+				  <unittitle>Works Progress Administration. 
+					 <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f328d99f-6fd3-44a1-9550-3292ced4def4" type="box">15</container> 
+				  <container parent="f328d99f-6fd3-44a1-9550-3292ced4def4" type="folder">11</container> 
+				  <unittitle>Wuori, Tyyne. 
+					 <unitdate normal="1937/1939" type="inclusive">1937-1939</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="de8329b4-3a69-47ad-b864-352a6b3bb1e1" type="box">15</container> 
+				  <container parent="de8329b4-3a69-47ad-b864-352a6b3bb1e1" type="folder">12</container> 
+				  <unittitle>Yokum, J. C. 
+					 <unitdate normal="1933/1936" type="inclusive">1933-1936</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="3186e696-068d-46e1-a283-969b37c0bed0" type="box">15</container> 
+				  <container parent="3186e696-068d-46e1-a283-969b37c0bed0" type="folder">13</container> 
+				  <unittitle>Young, Fred. 
+					 <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate></unittitle> 
+				</did>
+			 </c03> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Photographs and Prints, 
+				<unitdate normal="1936/1954" type="inclusive">1936-1954</unitdate></unittitle> 
+		  </did>
+		  <scopecontent>
+			 <p>2.5 Linear Feet (Approximately 1,890 items)</p>
+			 <p>Arrangement: Alphabetical</p>
+			 <p>The Photographs and Prints Series (1936-1954) is divided into
+				three subseries.</p>
+			 <p>Subseries: Photographs (1936-1934) contains the bulk of the
+				series, with the majority of the photographs depicting rodeo characters or
+				scenes, including portraits, professional action photos, and candid shots. Mrs.
+				Hopkins' scrapbooks have been disassembled but maintained in their original
+				order with her inventories present. Of note are many signed portraits,
+				inscribed to Ethel Hopkins. Most photographs are undated.</p>
+			 <p>Subseries: Prints (undated) contains a small number of pictorial
+				prints generally reflecting rodeo or Western themes.</p>
+			 <p>Subseries: Oversized Materials (1939-1950) contains group and
+				individual photographs of rodeo folk.</p> 
+		  </scopecontent> 
+		  <c02 level="subseries"> 
+			 <did>
+				<unittitle>Subseries:Photographs</unittitle> 
+			 </did>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="259c6ebf-8981-40a7-881a-92734e7e3524" type="box">15</container> 
+				  <container parent="259c6ebf-8981-40a7-881a-92734e7e3524" type="folder">14-15</container> 
+				  <unittitle>Animals. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e35833c2-855b-4376-af5c-f1ade438afa3" type="box">15</container> 
+				  <container parent="e35833c2-855b-4376-af5c-f1ade438afa3" type="folder">16</container> 
+				  <unittitle>Clowns. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2c8ea865-a868-4326-835b-33a13f3f884a" type="box">15</container> 
+				  <container parent="2c8ea865-a868-4326-835b-33a13f3f884a" type="folder">17-18</container> 
+				  <unittitle>Cowboys. 
+					 <unitdate normal="" type="inclusive">1945-1953, undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="04356cec-837c-4bdc-b1dc-03c79b64570e" type="box">15</container> 
+				  <container parent="04356cec-837c-4bdc-b1dc-03c79b64570e" type="folder">19</container> 
+				  <unittitle>Families and Children. 
+					 <unitdate normal="NaN" type="inclusive">1951, 1954, undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="3775c661-76ff-4959-88f8-14f2af71550b" type="box">15</container> 
+				  <container parent="3775c661-76ff-4959-88f8-14f2af71550b" type="folder">20</container> 
+				  <unittitle>Groups. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d7b563b0-0858-4d1d-bb3c-436cd376e177" type="box">16</container> 
+				  <container parent="d7b563b0-0858-4d1d-bb3c-436cd376e177" type="folder">1</container> 
+				  <unittitle>Hopkins, Ethel. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="94e3a82c-a7d6-43ba-b2d4-f2d6471dc0e1" type="box">16</container> 
+				  <container parent="94e3a82c-a7d6-43ba-b2d4-f2d6471dc0e1" type="folder">2</container> 
+				  <unittitle>Landscapes. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a6372b4b-9ffe-4908-adcb-f04067b2f28b" type="box">16</container> 
+				  <container parent="a6372b4b-9ffe-4908-adcb-f04067b2f28b" type="folder">3</container> 
+				  <unittitle>Miscellaneous. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="dab6ed78-79ec-4b78-be96-0bde78431401" type="box">16</container> 
+				  <container parent="dab6ed78-79ec-4b78-be96-0bde78431401" type="folder">4</container> 
+				  <unittitle>Performers--General. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="72c0f0ce-0888-4a69-a697-8d41700e796b" type="box">16</container> 
+				  <container parent="72c0f0ce-0888-4a69-a697-8d41700e796b" type="folder">5-6</container> 
+				  <unittitle>Portraits. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="1ce09f00-a9bf-4c7a-b0aa-e4b0e9a112bd" type="box">16</container> 
+				  <container parent="1ce09f00-a9bf-4c7a-b0aa-e4b0e9a112bd" type="folder">7</container> 
+				  <unittitle>Postcards. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2736db89-5884-4bfc-98c7-74c0e28b43c4" type="box">16</container> 
+				  <container parent="2736db89-5884-4bfc-98c7-74c0e28b43c4" type="folder">8</container> 
+				  <unittitle>Rodeo Competition. 
+					 <unitdate normal="1952/1954" type="inclusive">1952-1954</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ded07bf5-082f-47d8-80a0-d2a387fe48dc" type="box">16</container> 
+				  <container parent="ded07bf5-082f-47d8-80a0-d2a387fe48dc" type="folder">9-10</container> 
+				  <unittitle>Scrapbook I. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0a63abb1-df2f-4232-add2-35298dabe911" type="box">16</container> 
+				  <container parent="0a63abb1-df2f-4232-add2-35298dabe911" type="folder">11-12</container> 
+				  <unittitle>Scrapbook II. 
+					 <unitdate normal="" type="inclusive">1936-1946, undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e00e4d6d-8fae-4b80-be68-f46869190b44" type="box">16</container> 
+				  <container parent="e00e4d6d-8fae-4b80-be68-f46869190b44" type="folder">13</container> 
+				  <unittitle>Scrapbook III. 
+					 <unitdate normal="" type="inclusive">1943-1946, undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ce56515f-6eff-4ba8-b352-5b7c2531b03d" type="box">16</container> 
+				  <container parent="ce56515f-6eff-4ba8-b352-5b7c2531b03d" type="folder">14</container> 
+				  <unittitle>Scrapbook IV. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="96f0b286-d6c6-47c8-9dcb-327e6bd49ecf" type="box">17</container> 
+				  <container parent="96f0b286-d6c6-47c8-9dcb-327e6bd49ecf" type="folder">1-11</container> 
+				  <unittitle>Scrapbook IV. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c682ce03-6377-4481-b6d4-ea0a8d5798f3" type="box">17</container> 
+				  <container parent="c682ce03-6377-4481-b6d4-ea0a8d5798f3" type="folder">12</container> 
+				  <unittitle>Trick Riders. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f69ef028-5b45-49c4-aee2-862763098486" type="box">17</container> 
+				  <container parent="f69ef028-5b45-49c4-aee2-862763098486" type="folder">13</container> 
+				  <unittitle>Trick Ropers. 
+					 <unitdate normal="NaN" type="inclusive">1948, 1953, undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4792c8c2-b0ff-49be-80d1-7123e41cd476" type="box">17</container> 
+				  <container parent="4792c8c2-b0ff-49be-80d1-7123e41cd476" type="folder">14</container> 
+				  <unittitle>Trophies. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did>
+				<unittitle>Subseries:Prints</unittitle> 
+			 </did>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e840e07e-aafa-4336-a52a-e93321f32272" type="box">17</container> 
+				  <container parent="e840e07e-aafa-4336-a52a-e93321f32272" type="folder">15-16</container> 
+				  <unittitle>General. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did>
+				<unittitle>Subseries:Oversized Materials</unittitle> 
+			 </did>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b5b6978c-bf40-468f-955a-a821f9710246" type="box">18</container> 
+				  <container parent="b5b6978c-bf40-468f-955a-a821f9710246" type="folder">1</container> 
+				  <unittitle>International Rodeo Association
+					 Convention--Officers,Delegates, and Visitors. 
+					 <unitdate normal="1950" type="inclusive">1950</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d45c1b99-a77d-444d-a80a-f9c10fc5e649" type="box">18</container> 
+				  <container parent="d45c1b99-a77d-444d-a80a-f9c10fc5e649" type="folder">2</container> 
+				  <unittitle>Portraits. 
+					 <unitdate normal="1933/1954" type="inclusive">undated</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0255d924-c873-4202-9c8b-4540f127cbd5" type="box">18</container> 
+				  <container parent="0255d924-c873-4202-9c8b-4540f127cbd5" type="folder">3</container> 
+				  <unittitle>Portraits. 
+					 <unitdate normal="1940" type="inclusive">1938, 1940</unitdate></unittitle> 
+				</did>
+			 </c03>
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4a9d997b-9a81-42f2-a940-668bbd554a22" type="box">18</container> 
+				  <container parent="4a9d997b-9a81-42f2-a940-668bbd554a22" type="folder">4</container> 
+				  <unittitle>Rodeo Association of American Convention--Delegates
+					 and Visitors. 
+					 <unitdate normal="1939" type="inclusive">1939</unitdate></unittitle> 
+				</did>
+			 </c03> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

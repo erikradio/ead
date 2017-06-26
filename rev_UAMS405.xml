@@ -1,0 +1,3234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b">
+		<eadid encodinganalog="856$u">UAMS405</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="245$a">Jacome's Department Store records,
+						<date>1901-1980</date></titleproper>
+				<author encodinganalog="245$c">Inventory prepared by Sean H. Crane.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+					Collections</publisher>
+				<address>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+
+				</address>
+				<date>2007</date>
+				<p>Arizona Board of Regents. All Rights Reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation encodinganalog="500">Inventory encoded by C. Wommack. <date>March,
+				2007</date></creation>
+			<langusage>Inventory is in<language encodinganalog="546" langcode="eng">
+					English.</language></langusage>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date normal="2017-06-22">2017-06-22</date>
+				<item>This finding aid was updated in alignment with LC EAD 2.0 specifications using
+					a python script created by Erik Radio.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<titleproper encodinganalog="245$a">Jacome's Department Store records,
+					<date>1901-1980</date></titleproper>
+			<num>Collection Number: MS 405</num>
+			<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+				Collections</publisher>
+			<list>
+				<defitem>
+					<label>Processed by:</label>
+					<item>Sean H. Crane.</item>
+				</defitem>
+				<defitem>
+					<label>Date completed:</label>
+					<item>
+						<date>March, 2007</date></item>
+				</defitem>
+				<defitem>
+					<label>Encoded by:</label>
+					<item>C. Wommack</item>
+				</defitem>
+			</list>
+			<p>© 2007. Arizona Board of Regents. All rights reserved.</p>
+		</titlepage>
+	</frontmatter>
+	<archdesc encodinganalog="351$c" level="collection">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle encodinganalog="245" label="Collection Name"> Jacome's Department Store
+				records, <unitdate normal="1901/1980" type="inclusive"
+				>1901-1980</unitdate></unittitle>
+			<unitid countrycode="US" encodinganalog="099" label="Collection Number"
+				repositorycode="US-azu">MS 405</unitid>
+			<origination label="Creator">
+				<persname encodinganalog="100">Jacome's Department Store</persname>
+			</origination>
+			<abstract label="Abstract">Records, 1901-1980. This collection includes material
+				regarding company founder Carlos C. Jacome; material regarding company president
+				Alex G. Jacome; company history materials, including photocopies of news clippings;
+				business correspondence; accounting and finance material (mainly business ledgers
+				from 1903 to 1973, including a large payroll ledger covering the years 1939-1950);
+				material related to the Hispanic fraternal benefit society Alianza
+				Hispano-Americana; photographs, including images of Jacome family members, La
+				Bonanza General Store (interior and exterior), and Jacome's Department Store
+				(interior and exterior); real estate documents (legal documents, plans, and
+				blueprints); and scrapbooks. </abstract>
+			<physdesc encodinganalog="300$a" label="Physical Description">About 17,000 items <extent
+					encodinganalog="300">25 linear feet</extent></physdesc>
+			<repository label="Repository">
+				<corpname encodinganalog="110">University of Arizona Libraries, Special
+					Collections</corpname>
+				<address>
+					<addressline>University of Arizona</addressline>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+
+				</address></repository>
+		</did>
+		<accessrestrict encodinganalog="506">
+			<head>Restrictions</head>
+			<p>None.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Copyright</head>
+			<p>It is the responsibility of the user to obtain permission to publish from the owner
+				of the copyright (the institution, the creator of the record, the author or his/her
+				transferees, heirs, legates, or literary executors). The user agrees to indemnify
+				and hold harmless the Arizona Board of Regents for the University of Arizona, its
+				officers, employees, and agents from and against all claims made by any person
+				asserting that he or she is an owner of copyright.</p>
+		</userestrict>
+		<prefercite encodinganalog="524">
+			<head>Credit Line</head>
+			<p>Jacome's Department Store records (MS 405). Special Collections, University of
+				Arizona Libraries.</p>
+		</prefercite>
+		<bioghist encodinganalog="545">
+			<head>Historical Note</head>
+			<p>Jacome's Department Store began in 1896 as La Bonanza General Store. Company founder
+				Carlos C. Jacome initially partnered with Loreto Carrillo and opened a store located
+				at 84 West Congress Street, Tucson, Arizona. Jacome then partnered with Genaro S.
+				Manzo in 1902. During their business partnership, Jacome and Manzo were involved
+				with the Alianza Hispano-Americana, a fraternal benefit society for
+				Mexican-Americans. The partnership between Jacome and Manzo was dissolved in 1913
+				and the store remained within the Jacome family until 1980 (Manzo later returned to
+				work for the store as an employee). In addition to operating La Bonanza, Jacome was
+				involved in Arizona territorial politics. He was the only person of Mexican-descent
+				selected for Arizona's constitutional convention in 1910 and his active membership
+				with the convention contributed to Arizona's obtaining of statehood in 1912. The
+				store's name was changed from La Bonanza to Jacome's Department Store c. 1921 and it
+				was incorporated in 1928. Carlos's son, Alex G. Jacome graduated from the University
+				of Arizona with the degree Bachelor of Science in Business Administration in 1927
+				and served internships with department stores in New York City and Laredo, Texas
+				before returning to Tucson to work at Jacome's. Alex was named vice-president of the
+				company in 1928. The company's board of directors installed Alex as president upon
+				the death of Carlos in 1932. Alex maintained ties with the University of Arizona
+				throughout his life. He established and oversaw a scholarship fund named in honor of
+				his father. He received the University of Arizona Distinguished Citizen Award in
+				1966 and he was awarded an honorary Doctor of Laws degree in 1974. Over the years,
+				Alex served on several boards of directors. He also was a member of the Arizona
+				Board of Regents from 1952 to 1961. One of the highlights of Alex's tenure as
+				president of Jacome's was the construction and grand opening of a $1,000,000 store
+				at Stone and Pennington in Tucson in 1951. Alex became chairman of the board of
+				Jacome's in 1972 and his son, Alex F. Jacome, was named president of the company.
+				Alex G. Jacome died in 1980. Jacome's Department Store closed in April of 1980 and
+				its assets were divided among the stockholders. </p>
+			<list>
+				<item><emph render="bold">Store Locations and Expansions</emph></item>
+				<item>La Bonanza, 84 W. Congress, 1896-1902</item>
+				<item>La Bonanza, 90 W. Congress, 1902</item>
+				<item>La Bonanza, 86 W. Congress, 1907</item>
+				<item>Jacome's Department Store, 87-93 W. Congress, c. 1921-1951 (expanded
+					1937)</item>
+				<item>Jacome's Department Store, Stone and Pennington, 1951-1980 (expanded
+					1957)</item>
+				<item>Hayden, Arizona, branch store, c. 1943-1954</item>
+			</list>
+		</bioghist>
+		<arrangement encodinganalog="351$a">
+			<head>Arrangement</head>
+			<p>This collection is organized into ten series. </p>
+			<list>
+				<item>Series 1: Carlos C. Jacome, Founder; <unitdate normal="1904/1933"
+						type="inclusive">1904-1933</unitdate></item>
+			</list>
+			<list>
+				<item> Series 2: Alex G. Jacome, President; <unitdate normal="1941/1979"
+						type="inclusive">1941-1979 </unitdate></item>
+			</list>
+			<list>
+				<item>Series 3: Company History; <unitdate normal="1904/1980" type="inclusive"
+						>1904-1980 </unitdate></item>
+			</list>
+			<list>
+				<item>Series 4: Business Correspondence; <unitdate normal="1905/1978"
+						type="inclusive">1905-1978 </unitdate></item>
+			</list>
+			<list>
+				<item>Series 5: Accounting and Finance; <unitdate normal="1903/1980"
+						type="inclusive">1903-1980 </unitdate></item>
+			</list>
+			<list>
+				<item>Series 6: Alianza Hispano-Americana; <unitdate normal="1913/1947"
+						type="inclusive">1913-1947 </unitdate></item>
+			</list>
+			<list>
+				<item>Series 7: Photographs; <unitdate normal="1922/1966" type="inclusive">1922-1966
+					</unitdate></item>
+			</list>
+			<list>
+				<item>Series 8: Real Estate; <unitdate normal="1901/1980" type="inclusive">1901-1980
+					</unitdate></item>
+			</list>
+			<list>
+				<item>Series 9: Scrapbooks; <unitdate normal="1950/1967" type="inclusive"
+						>1950-1967</unitdate></item>
+			</list>
+			<list>
+				<item>Series 10: Oversized Materials <unitdate normal="1939/1979" type="inclusive"
+						>1939-1979</unitdate></item>
+			</list>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Records, 1901-1980. Collection consists of the records of Jacome's Department Store,
+				a family-owned business in operation in Tucson, Arizona from 1896 to 1980. The
+				collection contains the papers of company founder Carlos C. Jacome and the papers of
+				his son, long-time company president Alex G. Jacome. A portion of Alex G. Jacome's
+				papers includes personal correspondence with notable politicians including Senators
+				Barry Goldwater and Dennis DeConcini, and Congressmen Morris and Stewart Udall. The
+				collection also includes material relating to company history, including photocopies
+				of news clippings (of note, there is a brief 1950 Time magazine article detailing
+				the building of the new Stone and Pennington store in Tucson); business
+				correspondence; and accounting and finance records. The accounting and finance
+				records, mainly in the form of business ledgers from 1903 to 1973, make up the bulk
+				of the collection. Additionally, the collection includes material related to the
+				Hispanic fraternal benefit society Alianza Hispano-Americana; photographs, including
+				images of Jacome family members, La Bonanza General Store (interior and exterior),
+				and Jacome's Department Store (interior and exterior); real estate documents (legal
+				documents, plans, and blueprints); and scrapbooks (the scrapbooks mainly contain
+				photographs, news clippings, and store advertisements). Several items in the
+				collection are in Spanish-these items consist mostly of correspondence or news
+				clippings. </p>
+		</scopecontent>
+		<controlaccess>
+			<corpname>Jacome's Department Store -- Records and correspondence</corpname>
+			<corpname>La Bonanza General Store -- Records and correspondence</corpname>
+			<persname>Jacome, Alex G. -- Archives</persname>
+			<persname>Jacome, Carlos C. -- Archives</persname>
+			<corpname>Alianza Hispano-Americana -- Archives</corpname>
+			<corpname>University of Arizona -- Alumni and alumnae</corpname>
+			<subject>Family-owned business enterprises</subject>
+			<subject>Department stores -- Arizona -- Tucson</subject>
+			<subject>Stores, Retail -- Tucson, Arizona</subject>
+			<subject>Mining claims</subject>
+			<subject>Store decoration</subject>
+		</controlaccess>
+		<dsc type="combined">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unittitle> Series 1: Carlos C. Jacome, Founder; <unitdate normal="1904/1933"
+							type="inclusive">1904-1933</unitdate></unittitle>
+					<physdesc>About 250 items <extent encodinganalog="300">(.4 linear
+						feet)</extent></physdesc>
+				</did>
+				<scopecontent>
+					<p>This series concerns Carlos C. Jacome, founder of La Bonanza General Store in
+						Tucson, Arizona, which later became Jacome's Department Store. It contains
+						legal documents; correspondence relating to several mining stake claims
+						owned by Carlos; correspondence with family members-particularly with
+						relatives living in Los Angeles and San Francisco, California;
+						correspondence with his attorney, John B. Wright; miscellaneous postcards;
+						and a savings book for an account with the Southern Arizona Bank and Trust
+						Company.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="1d7b32c9-6c6b-4130-b9e0-35c842922575" type="box"
+							>1</container>
+						<container parent="1d7b32c9-6c6b-4130-b9e0-35c842922575" type="folder"
+							>1</container>
+						<unittitle> Legal; Miscellaneous. <unitdate normal="1910/1932"
+								type="inclusive">1910-1932</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="166c3b01-9584-4de2-a999-b1877893617d" type="box"
+							>1</container>
+						<container parent="166c3b01-9584-4de2-a999-b1877893617d" type="folder"
+							>2</container>
+						<unittitle> Miscellaneous; Administrator of Francisco Estrada Estate.
+								<unitdate normal="1907/1908" type="inclusive"
+							>1907-1908</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0dbf15bd-1c71-4b96-83cf-2dfdb3036cd8" type="box"
+							>1</container>
+						<container parent="0dbf15bd-1c71-4b96-83cf-2dfdb3036cd8" type="folder"
+							>3</container>
+						<unittitle> Personal Correspondence; Mining Claims. <unitdate
+								normal="1906/1933" type="inclusive">1906-1933</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1d8dee5e-d765-4a7a-92e0-405312a6eac6" type="box"
+							>1</container>
+						<container parent="1d8dee5e-d765-4a7a-92e0-405312a6eac6" type="folder"
+							>4</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1904/1909" type="inclusive">1904-1909</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="79298ab6-9f72-4988-9e85-7d609c7677de" type="box"
+							>1</container>
+						<container parent="79298ab6-9f72-4988-9e85-7d609c7677de" type="folder"
+							>5</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1910/1915" type="inclusive">1910-1915</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e61683dc-404f-4034-b235-c775506e5e10" type="box"
+							>1</container>
+						<container parent="e61683dc-404f-4034-b235-c775506e5e10" type="folder"
+							>6</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1916/1919" type="inclusive">1916-1919</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b009069a-c2b7-4664-b797-31711c5fb6ec" type="box"
+							>1</container>
+						<container parent="b009069a-c2b7-4664-b797-31711c5fb6ec" type="folder"
+							>7</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1920/1922" type="inclusive">1920-1922</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9a65af77-4f6c-4ec6-a0ee-bbf8f79fa2bd" type="box"
+							>1</container>
+						<container parent="9a65af77-4f6c-4ec6-a0ee-bbf8f79fa2bd" type="folder"
+							>8</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1923/1931" type="inclusive">1923-1931</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2f712fe0-81ba-479c-a400-400380979a24" type="box"
+							>1</container>
+						<container parent="2f712fe0-81ba-479c-a400-400380979a24" type="folder"
+							>9</container>
+						<unittitle> Personal Correspondence; Wright, John B., Attorney. <unitdate
+								normal="1907/1913" type="inclusive">1907-1913</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="389f6195-6e90-410a-bd08-ec4bdc2acba8" type="box"
+							>1</container>
+						<container parent="389f6195-6e90-410a-bd08-ec4bdc2acba8" type="folder"
+							>10</container>
+						<unittitle> Postcards; Miscellaneous. <unitdate normal="1919/1924"
+								type="inclusive">1919-1924</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9f194b0f-684f-42fb-b4c9-2ac4751acfed" type="box"
+							>1</container>
+						<container parent="9f194b0f-684f-42fb-b4c9-2ac4751acfed" type="folder"
+							>11</container>
+						<unittitle> Savings Book; Southern Arizona Bank and Trust Company. <unitdate
+								normal="1921" type="inclusive">1921</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series 2: Alex G. Jacome, President; <unitdate normal="1941/1979"
+							type="inclusive">1941-1979</unitdate></unittitle>
+					<physdesc>About 1,250 items <extent encodinganalog="300">(1.75 linear
+							feet)</extent></physdesc>
+				</did>
+				<scopecontent>
+					<p>This series concerns Alex G. Jacome, long-time president of the company and
+						son of Carlos C. Jacome. It contains material regarding board memberships
+						and public service activities; material regarding the bestowal of an
+						honorary degree on Alex by the University of Arizona; speeches; and personal
+						correspondence, including correspondence with Arizona political figures such
+						as Senators Carl Hayden, Paul Fannin, Barry Goldwater, and Dennis DeConcini,
+						and Congressmen Morris and Stewart Udall. Some of the correspondence is in
+						Spanish. </p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="b928eeb5-40eb-4f96-92e9-072f82c1539f" type="box"
+							>1</container>
+						<container parent="b928eeb5-40eb-4f96-92e9-072f82c1539f" type="folder"
+							>12</container>
+						<unittitle> Board Memberships; Helio Associates, Inc. <unitdate
+								normal="1971/1972" type="inclusive">1971-1972</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="63bfc5d3-f4a0-46a2-aa74-57a95c77df03" type="box"
+							>1</container>
+						<container parent="63bfc5d3-f4a0-46a2-aa74-57a95c77df03" type="folder"
+							>13</container>
+						<unittitle> Board Memberships; Helio Associates, Inc. <unitdate
+								normal="1972" type="inclusive">1972</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="af42c751-544e-4cca-858c-3874e7c093ab" type="box"
+							>1</container>
+						<container parent="af42c751-544e-4cca-858c-3874e7c093ab" type="folder"
+							>14</container>
+						<unittitle> Board Memberships; Helio Associates, Inc. <unitdate
+								normal="1973/1974" type="inclusive">1973-1974</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="23228046-9bed-49d8-8c41-1bf945a3bb29" type="box"
+							>1</container>
+						<container parent="23228046-9bed-49d8-8c41-1bf945a3bb29" type="folder"
+							>15</container>
+						<unittitle> Board Memberships; Helio Associates, Inc. <unitdate
+								normal="1974/1975" type="inclusive">1974-1975</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8c635468-8046-48dc-b2e2-d954425e1c22" type="box"
+							>1</container>
+						<container parent="8c635468-8046-48dc-b2e2-d954425e1c22" type="folder"
+							>16</container>
+						<unittitle> Board Memberships; Northwestern Mutual Life Insurance Company.
+								<unitdate normal="1953/1957" type="inclusive"
+							>1953-1957</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="58c31a4d-263e-4cf2-8e0d-db5a4349c413" type="box"
+							>1</container>
+						<container parent="58c31a4d-263e-4cf2-8e0d-db5a4349c413" type="folder"
+							>17</container>
+						<unittitle> Board Memberships; Northwestern Mutual Life Insurance Company
+							(1of 4). <unitdate normal="1958" type="inclusive"
+							>1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6e4affd5-393c-4d5c-84d3-c6ac0d94b03a" type="box"
+							>1</container>
+						<container parent="6e4affd5-393c-4d5c-84d3-c6ac0d94b03a" type="folder"
+							>18</container>
+						<unittitle> Board Memberships; Northwestern Mutual Life Insurance Company (2
+							of 4). <unitdate normal="1958" type="inclusive"
+							>1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7687ec93-def2-4ac4-93a9-0341eb129882" type="box"
+							>1</container>
+						<container parent="7687ec93-def2-4ac4-93a9-0341eb129882" type="folder"
+							>19</container>
+						<unittitle> Board Memberships; Northwestern Mutual Life Insurance Company (3
+							of 4). <unitdate normal="1958" type="inclusive"
+							>1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="040e6f1d-b716-444f-a2ad-99603f5c4d2a" type="box"
+							>1</container>
+						<container parent="040e6f1d-b716-444f-a2ad-99603f5c4d2a" type="folder"
+							>20</container>
+						<unittitle> Board Memberships; Northwestern Mutual Life Insurance Company (4
+							of 4). <unitdate normal="1958" type="inclusive"
+							>1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="42694528-1b13-479b-b6df-f5a69fe269e9" type="box"
+							>1</container>
+						<container parent="42694528-1b13-479b-b6df-f5a69fe269e9" type="folder"
+							>21</container>
+						<unittitle> Board Memberships; Northwestern Mutual Life Insurance Company.
+								<unitdate normal="1958/1958" type="inclusive"
+							>1958-1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="03897b6d-589a-45f6-b95e-bca6353d2f75" type="box"
+							>1</container>
+						<container parent="03897b6d-589a-45f6-b95e-bca6353d2f75" type="folder"
+							>22</container>
+						<unittitle> Board Memberships; Northwestern Mutual Life Insurance Company (1
+							of 2). <unitdate normal="1959" type="inclusive"
+							>1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c816824b-b762-4a79-814a-68bbbd97768f" type="box"
+							>1</container>
+						<container parent="c816824b-b762-4a79-814a-68bbbd97768f" type="folder"
+							>23</container>
+						<unittitle> Board Memberships; Northwestern Mutual Life Insurance Company (2
+							of 2). <unitdate normal="1959" type="inclusive"
+							>1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f79ac53b-2c2b-4460-a8c6-30f3936b2129" type="box"
+							>1</container>
+						<container parent="f79ac53b-2c2b-4460-a8c6-30f3936b2129" type="folder"
+							>24</container>
+						<unittitle> Miscellaneous; European Travel Brochures. <unitdate
+								normal="1901/1980" type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="622a7ab2-250b-4675-802e-aa54d4a94c62" type="box"
+							>1</container>
+						<container parent="622a7ab2-250b-4675-802e-aa54d4a94c62" type="folder"
+							>25</container>
+						<unittitle> Miscellaneous; European Travel Brochures. <unitdate
+								normal="1963/1966" type="inclusive">1963-1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="45582237-9a53-4eb6-9ce4-482cf9aaf0c1" type="box"
+							>1</container>
+						<container parent="45582237-9a53-4eb6-9ce4-482cf9aaf0c1" type="folder"
+							>26</container>
+						<unittitle> Miscellaneous; Family Tree. <unitdate normal="1901/1980"
+								type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5a42574c-2b7a-43da-abc3-3e5358343f87" type="box"
+							>1</container>
+						<container parent="5a42574c-2b7a-43da-abc3-3e5358343f87" type="folder"
+							>27</container>
+						<unittitle> Miscellaneous; U.S. Trade Mission to Spain (includes
+							photographs). <unitdate normal="1959" type="inclusive"
+							>1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fd2764e2-b330-4f84-8e29-fcbbdb96fd5a" type="box"
+							>1</container>
+						<container parent="fd2764e2-b330-4f84-8e29-fcbbdb96fd5a" type="folder"
+							>28</container>
+						<unittitle> Personal Correspondence; Arizona Research Foundation Board.
+								<unitdate normal="1963/1973" type="inclusive"
+							>1963-1973</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="963fe28e-8d8f-4782-8134-79a34fcf4cb1" type="box"
+							>1</container>
+						<container parent="963fe28e-8d8f-4782-8134-79a34fcf4cb1" type="folder"
+							>29</container>
+						<unittitle> Personal Correspondence; Arizona Statehood Fiftieth Anniversary
+							Stamp. <unitdate normal="1962" type="inclusive"
+							>1962</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8fdf36d4-2f27-4b62-be74-8e1575275a1c" type="box"
+							>1</container>
+						<container parent="8fdf36d4-2f27-4b62-be74-8e1575275a1c" type="folder"
+							>30</container>
+						<unittitle> Personal Correspondence; Arizona-Mexico West Coast Trade
+							Mission. <unitdate normal="1959/1963" type="inclusive"
+								>1959-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="636f1174-6916-4bd3-93c7-ba9a755128a0" type="box"
+							>1</container>
+						<container parent="636f1174-6916-4bd3-93c7-ba9a755128a0" type="folder"
+							>31</container>
+						<unittitle> Personal Correspondence; Consular Corps of Arizona. <unitdate
+								normal="1969/1970" type="inclusive">1969-1970</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6032484d-1116-46e2-99fc-069d20494911" type="box"
+							>1</container>
+						<container parent="6032484d-1116-46e2-99fc-069d20494911" type="folder"
+							>32</container>
+						<unittitle> Personal Correspondence; DeConcini, Senator Dennis. <unitdate
+								normal="1977/1979" type="inclusive">1977-1979</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a9a8bd33-83fd-4db9-8a7e-2eb7b9e3abcd" type="box"
+							>1</container>
+						<container parent="a9a8bd33-83fd-4db9-8a7e-2eb7b9e3abcd" type="folder"
+							>33</container>
+						<unittitle> Personal Correspondence; Fannin, Senator Paul J. <unitdate
+								normal="1967/1976" type="inclusive">1967-1976</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="27f375fe-4db3-4924-9fc4-ab6df9e51645" type="box"
+							>1</container>
+						<container parent="27f375fe-4db3-4924-9fc4-ab6df9e51645" type="folder"
+							>34</container>
+						<unittitle> Personal Correspondence; Goldwater, Senator Barry M. <unitdate
+								normal="1956/1959" type="inclusive">1956-1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="18fbb0df-69c4-43df-adfa-bcbadd3d8be2" type="box"
+							>1</container>
+						<container parent="18fbb0df-69c4-43df-adfa-bcbadd3d8be2" type="folder"
+							>35</container>
+						<unittitle> Personal Correspondence; Goldwater, Senator Barry M. <unitdate
+								normal="1960/1969" type="inclusive">1960-1969</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7d2e1193-98ac-4b72-bfdb-0f4024404e51" type="box"
+							>1</container>
+						<container parent="7d2e1193-98ac-4b72-bfdb-0f4024404e51" type="folder"
+							>36</container>
+						<unittitle> Personal Correspondence; Goldwater, Senator Barry M. <unitdate
+								normal="1970/1977" type="inclusive">1970-1977</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="900f0d7f-54bb-4016-baf7-fdf90ff7ea54" type="box"
+							>1</container>
+						<container parent="900f0d7f-54bb-4016-baf7-fdf90ff7ea54" type="folder"
+							>37</container>
+						<unittitle> Personal Correspondence; Harvill, Richard-Recognition Dinner.
+								<unitdate normal="1965" type="inclusive">1965</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b977b10f-a9b7-4865-af70-2cd8e35eecf4" type="box"
+							>1</container>
+						<container parent="b977b10f-a9b7-4865-af70-2cd8e35eecf4" type="folder"
+							>38</container>
+						<unittitle> Personal Correspondence; Hayden, Senator Carl. <unitdate
+								normal="1959/1967" type="inclusive">1959-1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a2c2f918-8e9d-4bcc-80f2-f60d4a8eaabd" type="box"
+							>1</container>
+						<container parent="a2c2f918-8e9d-4bcc-80f2-f60d4a8eaabd" type="folder"
+							>39</container>
+						<unittitle> Personal Correspondence; Internal Revenue Service (IRS).
+								<unitdate normal="1946" type="inclusive">1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8ddc5424-352e-4dc7-88f7-703d28d26578" type="box"
+							>1</container>
+						<container parent="8ddc5424-352e-4dc7-88f7-703d28d26578" type="folder"
+							>40</container>
+						<unittitle> Personal Correspondence; Carlos C. Jacome Memorial Scholarship.
+								<unitdate normal="1944/1979" type="inclusive"
+							>1944-1979</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="97236f6b-83b4-4d9e-88c0-32abb5659667" type="box"
+							>1</container>
+						<container parent="97236f6b-83b4-4d9e-88c0-32abb5659667" type="folder"
+							>41</container>
+						<unittitle> Personal Correspondence; "The Jacome Story." <unitdate
+								normal="1957" type="inclusive">1957</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="bd29d48f-5843-40e3-9ae5-0cc70e3f0d65" type="box"
+							>1</container>
+						<container parent="bd29d48f-5843-40e3-9ae5-0cc70e3f0d65" type="folder"
+							>42</container>
+						<unittitle> Personal Correspondence; Jacome's Sunday Closing. <unitdate
+								normal="1970/1971" type="inclusive">1970-1971</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5c1d2046-f551-4cf9-96d4-27956eb10ad0" type="box"
+							>1</container>
+						<container parent="5c1d2046-f551-4cf9-96d4-27956eb10ad0" type="folder"
+							>43</container>
+						<unittitle> Personal Correspondence; Mexican Correspondence. <unitdate
+								normal="1957/1958" type="inclusive">1957-1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fe880070-f944-4752-81f3-35dc1f34c44f" type="box"
+							>1</container>
+						<container parent="fe880070-f944-4752-81f3-35dc1f34c44f" type="folder"
+							>44</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1901/1980" type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="89477261-6c77-4e45-91f9-0c4171a8242b" type="box"
+							>1</container>
+						<container parent="89477261-6c77-4e45-91f9-0c4171a8242b" type="folder"
+							>45</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1941/1953" type="inclusive">1941-1953</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="36a33697-e9d0-4d83-8b85-da8ec1eb1c93" type="box"
+							>1</container>
+						<container parent="36a33697-e9d0-4d83-8b85-da8ec1eb1c93" type="folder"
+							>46</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1955/1958" type="inclusive">1955-1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ee213b96-6e9f-4877-9797-6dbe50d40b91" type="box"
+							>2</container>
+						<container parent="ee213b96-6e9f-4877-9797-6dbe50d40b91" type="folder"
+							>1</container>
+						<unittitle> Personal Correspondence; Miscellaneous (1 of 2). <unitdate
+								normal="1957/1968" type="inclusive">1957-1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2ca54c17-0b85-4fad-8a99-d9b37c94f927" type="box"
+							>2</container>
+						<container parent="2ca54c17-0b85-4fad-8a99-d9b37c94f927" type="folder"
+							>2</container>
+						<unittitle> Personal Correspondence; Miscellaneous (2 of 2). <unitdate
+								normal="1957/1968" type="inclusive">1957-1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="517f402e-fda5-47be-803e-2c7401af5700" type="box"
+							>2</container>
+						<container parent="517f402e-fda5-47be-803e-2c7401af5700" type="folder"
+							>3</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1958/1964" type="inclusive">1958-1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0f8a08c1-fce7-4140-8b72-7033a2536e60" type="box"
+							>2</container>
+						<container parent="0f8a08c1-fce7-4140-8b72-7033a2536e60" type="folder"
+							>4</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1959/1961" type="inclusive">1959-1961</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d99208fb-633f-4873-bb68-d43f237d64ae" type="box"
+							>2</container>
+						<container parent="d99208fb-633f-4873-bb68-d43f237d64ae" type="folder"
+							>5</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1959/1962" type="inclusive">1959-1962</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a99c0a37-ab96-42a4-bb5a-420c1d9f9b3d" type="box"
+							>2</container>
+						<container parent="a99c0a37-ab96-42a4-bb5a-420c1d9f9b3d" type="folder"
+							>6</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1965/1966" type="inclusive">1965-1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="50d6b1b7-28c7-4fae-a1a7-262c26c98d5f" type="box"
+							>2</container>
+						<container parent="50d6b1b7-28c7-4fae-a1a7-262c26c98d5f" type="folder"
+							>7</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1967/1969" type="inclusive">1967-1969</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3d31c50b-fadb-4dd6-ae50-b75ba3829f9e" type="box"
+							>2</container>
+						<container parent="3d31c50b-fadb-4dd6-ae50-b75ba3829f9e" type="folder"
+							>8</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1969/1974" type="inclusive">1969-1974</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3aa5741a-a0b6-422f-bd7b-6b3250e11dcb" type="box"
+							>2</container>
+						<container parent="3aa5741a-a0b6-422f-bd7b-6b3250e11dcb" type="folder"
+							>9</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1970/1971" type="inclusive">1970-1971</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="04a2a709-701d-4c76-ab9e-383413d69f14" type="box"
+							>2</container>
+						<container parent="04a2a709-701d-4c76-ab9e-383413d69f14" type="folder"
+							>10</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1970/1974" type="inclusive">1970-1974</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="639dc7b5-706e-44e6-b7a0-7941c83b33c0" type="box"
+							>2</container>
+						<container parent="639dc7b5-706e-44e6-b7a0-7941c83b33c0" type="folder"
+							>11</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1974/1977" type="inclusive">1974-1977</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="061818b0-9bb9-4828-be9a-89aff3889eb3" type="box"
+							>2</container>
+						<container parent="061818b0-9bb9-4828-be9a-89aff3889eb3" type="folder"
+							>12</container>
+						<unittitle> Personal Correspondence; Miscellaneous. <unitdate
+								normal="1978/1979" type="inclusive">1978-1979</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1ea9558f-851d-4ba1-bdef-e493b7328b6e" type="box"
+							>2</container>
+						<container parent="1ea9558f-851d-4ba1-bdef-e493b7328b6e" type="folder"
+							>13</container>
+						<unittitle> Personal Correspondence; Political Correspondence. <unitdate
+								normal="1959/1977" type="inclusive">1959-1977</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d14f4e2b-58ab-4486-98ec-d14fdfb86c98" type="box"
+							>2</container>
+						<container parent="d14f4e2b-58ab-4486-98ec-d14fdfb86c98" type="folder"
+							>14</container>
+						<unittitle> Personal Correspondence; Primer Congreso Industrialde Sonora.
+								<unitdate normal="1962" type="inclusive">1962</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e6d40907-7d73-498b-a64a-28e265439ac6" type="box"
+							>2</container>
+						<container parent="e6d40907-7d73-498b-a64a-28e265439ac6" type="folder"
+							>15</container>
+						<unittitle> Personal Correspondence; Rhodes, Senator John J. <unitdate
+								normal="1959/1975" type="inclusive">1959-1975</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fb99d8c4-dc52-485b-a24d-aeeec368042a" type="box"
+							>2</container>
+						<container parent="fb99d8c4-dc52-485b-a24d-aeeec368042a" type="folder"
+							>16</container>
+						<unittitle> Personal Correspondence; Enrique Rodriguez Hospital Stay.
+								<unitdate normal="1975" type="inclusive">1975</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8e1201ae-20d5-4bb7-a048-8df77288a426" type="box"
+							>2</container>
+						<container parent="8e1201ae-20d5-4bb7-a048-8df77288a426" type="folder"
+							>17</container>
+						<unittitle> Personal Correspondence; Selective Service System Board.
+								<unitdate normal="1961/1965" type="inclusive"
+							>1961-1965</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c34ed959-c9d1-49a2-94c1-ac18663e1470" type="box"
+							>2</container>
+						<container parent="c34ed959-c9d1-49a2-94c1-ac18663e1470" type="folder"
+							>18</container>
+						<unittitle> Personal Correspondence; Summer Institute of Linguistics.
+								<unitdate normal="1960" type="inclusive">1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b1596060-ed20-4a37-98cc-88280c37d35b" type="box"
+							>2</container>
+						<container parent="b1596060-ed20-4a37-98cc-88280c37d35b" type="folder"
+							>19</container>
+						<unittitle> Personal Correspondence; Trade Mission to Spain. <unitdate
+								normal="1959/1960" type="inclusive">1959-1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="16aa5340-f196-4c56-87f3-d820665ce74d" type="box"
+							>2</container>
+						<container parent="16aa5340-f196-4c56-87f3-d820665ce74d" type="folder"
+							>20</container>
+						<unittitle> Personal Correspondence; Udall, Rep. Morris K. <unitdate
+								normal="1961/1979" type="inclusive">1961-1979</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f61e9a11-cc23-48ce-ad60-105c9e1ae4a9" type="box"
+							>2</container>
+						<container parent="f61e9a11-cc23-48ce-ad60-105c9e1ae4a9" type="folder"
+							>21</container>
+						<unittitle> Personal Correspondence; Udall, Rep. Stewart L. <unitdate
+								normal="1959/1960" type="inclusive">1959-1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="64a61e7c-693f-490a-b423-12e4d518cb3a" type="box"
+							>2</container>
+						<container parent="64a61e7c-693f-490a-b423-12e4d518cb3a" type="folder"
+							>22</container>
+						<unittitle> Public Service; Arizona Board of Regents. <unitdate
+								normal="1957/1973" type="inclusive">1957-1973</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8bbe28c4-5a87-4495-ba76-85b7d524424b" type="box"
+							>2</container>
+						<container parent="8bbe28c4-5a87-4495-ba76-85b7d524424b" type="folder"
+							>23</container>
+						<unittitle> Public Service; National Citizen's Committee for Public
+							Television. <unitdate normal="1967" type="inclusive"
+							>1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8ca10a5b-e171-4314-91ba-4026874c9bc7" type="box"
+							>2</container>
+						<container parent="8ca10a5b-e171-4314-91ba-4026874c9bc7" type="folder"
+							>24</container>
+						<unittitle> Public Service; Pima County Hospital Citizens Advisory
+							Committee. <unitdate normal="1962/1963" type="inclusive"
+								>1962-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="700a2c3e-ad6f-40ec-ad36-e2cf4125169c" type="box"
+							>2</container>
+						<container parent="700a2c3e-ad6f-40ec-ad36-e2cf4125169c" type="folder"
+							>24</container>
+						<unittitle> Public Service; Pima County Hospital Citizens Advisory
+							Committee. <unitdate normal="1962/1963" type="inclusive"
+								>1962-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="57f3fb43-826a-46ec-aa34-9c07ec89fa37" type="box"
+							>2</container>
+						<container parent="57f3fb43-826a-46ec-aa34-9c07ec89fa37" type="folder"
+							>26</container>
+						<unittitle> Public Service; Tucson Airport Authority. <unitdate
+								normal="1958/1979" type="inclusive">1958-1979</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e0fe6e2e-3b5b-462b-85c1-60094d433171" type="box"
+							>2</container>
+						<container parent="e0fe6e2e-3b5b-462b-85c1-60094d433171" type="folder"
+							>27</container>
+						<unittitle> Speeches; Miscellaneous. <unitdate normal="1963"
+								type="inclusive">1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fbd3553c-69fb-4b12-9cbe-92795e20a310" type="box"
+							>2</container>
+						<container parent="fbd3553c-69fb-4b12-9cbe-92795e20a310" type="folder"
+							>28</container>
+						<unittitle> University of Arizona; Honorary Degree. <unitdate normal="1974"
+								type="inclusive">1974</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series 3: Company History; <unitdate normal="1904/1980"
+							type="inclusive">1904-1980</unitdate></unittitle>
+					<physdesc>About 1,500 items <extent encodinganalog="300">(2.25 linear
+							feet)</extent></physdesc>
+				</did>
+				<scopecontent>
+					<p> The Company History Series contains material about the company's fiftieth
+						anniversary, business associate Genaro S. Manzo, news articles and
+						advertising regarding the Stone and Pennington store that opened in 1951,
+						news clippings relating to the company, Jacome's Department Store circulars,
+						price lists, and wholesalers' catalogs. Several of the news clippings are in
+						Spanish. [Note: Additional Company History items are located in Series 10:
+						Oversized Materials]. </p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="79cc9af6-92b1-4b0f-8d3f-2dc34653a202" type="box"
+							>2</container>
+						<container parent="79cc9af6-92b1-4b0f-8d3f-2dc34653a202" type="folder"
+							>29</container>
+						<unittitle> Anniversary, 50th; Correspondence. <unitdate normal="1946"
+								type="inclusive">1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b84eeb0e-2b68-4212-9aae-dab9316f8638" type="box"
+							>2</container>
+						<container parent="b84eeb0e-2b68-4212-9aae-dab9316f8638" type="folder"
+							>30</container>
+						<unittitle> Anniversary, 50th; Miscellaneous. <unitdate normal="1946"
+								type="inclusive">1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fb78ef26-b854-48b4-be36-91bb3322d459" type="box"
+							>2</container>
+						<container parent="fb78ef26-b854-48b4-be36-91bb3322d459" type="folder"
+							>31</container>
+						<unittitle> Business Associates; Manzo, Genaro S. <unitdate
+								normal="1925/1950" type="inclusive">1925-1950</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e01c79e8-1907-47f9-b6f4-7168f1d4e072" type="box"
+							>2</container>
+						<container parent="e01c79e8-1907-47f9-b6f4-7168f1d4e072" type="folder"
+							>32</container>
+						<unittitle> Miscellaneous; Articles of Incorporation. <unitdate
+								normal="1928" type="inclusive">1928</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9a58636f-129c-4b89-b904-36b1960271de" type="box"
+							>2</container>
+						<container parent="9a58636f-129c-4b89-b904-36b1960271de" type="folder"
+							>33</container>
+						<unittitle> Miscellaneous; Miscellaneous. <unitdate normal="1901/1980"
+								type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e228b482-ab58-4abd-af4c-fa67598fc57e" type="box"
+							>2</container>
+						<container parent="e228b482-ab58-4abd-af4c-fa67598fc57e" type="folder"
+							>34</container>
+						<unittitle> Miscellaneous; Miscellaneous. <unitdate normal="1949/1979"
+								type="inclusive">1949-1979</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7f89a323-956e-4112-ba94-ea6748269b5a" type="box"
+							>2</container>
+						<container parent="7f89a323-956e-4112-ba94-ea6748269b5a" type="folder"
+							>35</container>
+						<unittitle> New Store; Department Store Brochures. <unitdate normal="1950"
+								type="inclusive">1950</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="486ad888-6f04-4756-9916-44e4d760cbaa" type="box"
+							>2</container>
+						<container parent="486ad888-6f04-4756-9916-44e4d760cbaa" type="folder"
+							>36</container>
+						<unittitle> New Store; Proposed Department Area Allocations. <unitdate
+								normal="1976" type="inclusive">1976</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="45519018-b60d-4aa9-8543-556427e62ffb" type="box"
+							>2</container>
+						<container parent="45519018-b60d-4aa9-8543-556427e62ffb" type="folder"
+							>37</container>
+						<unittitle> New Store; Sketches. <unitdate normal="1901/1980"
+								type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c3d7216a-2341-4426-b67f-fdf3b0161066" type="box"
+							>2</container>
+						<container parent="c3d7216a-2341-4426-b67f-fdf3b0161066" type="folder"
+							>38</container>
+						<unittitle> News Articles; Miscellaneous. <unitdate normal="1938/1980"
+								type="inclusive">1938-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a2534344-9dd7-4d93-a6e3-4bbf077ad3f2" type="box"
+							>2</container>
+						<container parent="a2534344-9dd7-4d93-a6e3-4bbf077ad3f2" type="folder"
+							>39</container>
+						<unittitle> Printed Material; Miscellaneous. <unitdate normal="1904/1962"
+								type="inclusive">1904-1962</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="557d3a03-2dd8-4a6e-8ccd-7c2234f734f3" type="box"
+							>2</container>
+						<container parent="557d3a03-2dd8-4a6e-8ccd-7c2234f734f3" type="folder"
+							>40</container>
+						<unittitle> Sales, Marketing, and Advertising; Arizona Advertising Campaign.
+								<unitdate normal="1950" type="inclusive">1950</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="98fee71f-3a17-4759-b80e-f473dc77d1e5" type="box"
+							>2</container>
+						<container parent="98fee71f-3a17-4759-b80e-f473dc77d1e5" type="folder"
+							>41</container>
+						<unittitle> Sales, Marketing, and Advertising; Jacome's Circulars. <unitdate
+								normal="1901/1980" type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ccacdee1-4c3d-4ca5-abe9-e181ff0d5ce6" type="box"
+							>2</container>
+						<container parent="ccacdee1-4c3d-4ca5-abe9-e181ff0d5ce6" type="folder"
+							>42</container>
+						<unittitle> Sales, Marketing, and Advertising; Jacome's Circulars. <unitdate
+								normal="1951" type="inclusive">1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="282f0c8d-a0a7-4e5a-9c00-0fb628ff698b" type="box"
+							>2</container>
+						<container parent="282f0c8d-a0a7-4e5a-9c00-0fb628ff698b" type="folder"
+							>43</container>
+						<unittitle> Sales, Marketing, and Advertising; Lord &amp; Taylor Cashier's
+							Packing Manual. <unitdate normal="1929" type="inclusive"
+							>1929</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f8dd7fdc-fc3f-47a6-b66a-38001439cdca" type="box"
+							>2</container>
+						<container parent="f8dd7fdc-fc3f-47a6-b66a-38001439cdca" type="folder"
+							>44</container>
+						<unittitle> Sales, Marketing, and Advertising; National Retail Merchants
+							Association Publications. <unitdate normal="1901/1980" type="inclusive"
+								>1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="16c3604f-87ba-4fe7-ad4c-3960ddfd0990" type="box"
+							>2</container>
+						<container parent="16c3604f-87ba-4fe7-ad4c-3960ddfd0990" type="folder"
+							>45</container>
+						<unittitle> Sales, Marketing, and Advertising; National Retail Merchants
+							Association Publications. <unitdate normal="1973" type="inclusive"
+								>1973</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="afca74f7-d8c1-440e-a1e5-7b339226a2a0" type="box"
+							>2</container>
+						<container parent="afca74f7-d8c1-440e-a1e5-7b339226a2a0" type="folder"
+							>46</container>
+						<unittitle> Sales, Marketing, and Advertising; National Retail Merchants
+							Association Publications. <unitdate normal="1976" type="inclusive"
+								>1976</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9b6f0bb7-cfdf-493b-aa32-362b5f1e715d" type="box"
+							>2</container>
+						<container parent="9b6f0bb7-cfdf-493b-aa32-362b5f1e715d" type="folder"
+							>47</container>
+						<unittitle> Sales, Marketing, and Advertising; NCR Cash Register Manual.
+								<unitdate normal="1901/1980" type="inclusive"
+							>1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f51fbc79-3f44-480d-8732-13caaef3c4a2" type="box"
+							>3</container>
+						<container parent="f51fbc79-3f44-480d-8732-13caaef3c4a2" type="folder"
+							>1</container>
+						<unittitle> Sales, Marketing, and Advertising; Nelly Don, Inc. <unitdate
+								normal="1958" type="inclusive">1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9f98076f-344e-42a1-aace-68bf5e04c427" type="box"
+							>3</container>
+						<container parent="9f98076f-344e-42a1-aace-68bf5e04c427" type="folder"
+							>2</container>
+						<unittitle> Sales, Marketing, and Advertising; OPA Base Date Pricing Chart
+							(1 of 2). <unitdate normal="1901/1980" type="inclusive"
+								>1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5ce00389-1bea-4135-a330-35d51e35068a" type="box"
+							>3</container>
+						<container parent="5ce00389-1bea-4135-a330-35d51e35068a" type="folder"
+							>3</container>
+						<unittitle> Sales, Marketing, and Advertising; OPA Base Date Pricing Chart
+							(2 of 2). <unitdate normal="1901/1980" type="inclusive"
+								>1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4af8e217-f318-4494-8e79-0492173ecae7" type="box"
+							>3</container>
+						<container parent="4af8e217-f318-4494-8e79-0492173ecae7" type="folder"
+							>4</container>
+						<unittitle> Sales, Marketing, and Advertising; University of Arizona Retail
+							Sales Class. <unitdate normal="1956/1958" type="inclusive"
+								>1956-1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e4d678f9-3472-432a-8661-0aa059ee119a" type="box"
+							>3</container>
+						<container parent="e4d678f9-3472-432a-8661-0aa059ee119a" type="folder"
+							>5</container>
+						<unittitle> Sales, Marketing, and Advertising; Wholesalers' Catalogs (1 of
+							2). <unitdate normal="1901/1980" type="inclusive"
+							>1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d9e85b75-3c85-4863-8db5-6ac3b9cef2f6" type="box"
+							>3</container>
+						<container parent="d9e85b75-3c85-4863-8db5-6ac3b9cef2f6" type="folder"
+							>6</container>
+						<unittitle> Sales, Marketing, and Advertising; Wholesalers' Catalogs (2 of
+							2). <unitdate normal="1901/1980" type="inclusive"
+							>1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="13956941-09b4-4116-b867-082cff27239c" type="box"
+							>3</container>
+						<container parent="13956941-09b4-4116-b867-082cff27239c" type="folder"
+							>7</container>
+						<unittitle> Sales, Marketing, and Advertising; Wholesalers' Catalogs.
+								<unitdate normal="1957" type="inclusive">1957</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4ac9d2ed-2dd1-49be-984f-1d666e82d7bf" type="box"
+							>3</container>
+						<container parent="4ac9d2ed-2dd1-49be-984f-1d666e82d7bf" type="folder"
+							>8</container>
+						<unittitle> Sales, Marketing, and Advertising; Wholesalers' Catalogs.
+								<unitdate normal="1970" type="inclusive">1970</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="10174665-77e4-4823-b18a-d97dee2f3984" type="box"
+							>3</container>
+						<container parent="10174665-77e4-4823-b18a-d97dee2f3984" type="folder"
+							>9</container>
+						<unittitle> Sales, Marketing, and Advertising; Wholesalers' Catalogs.
+								<unitdate normal="1974" type="inclusive">1974</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d96628d7-ffda-4d24-8f1e-9a4c0c0ba156" type="box"
+							>3</container>
+						<container parent="d96628d7-ffda-4d24-8f1e-9a4c0c0ba156" type="folder"
+							>10</container>
+						<unittitle> Sales, Marketing, and Advertising; Wholesalers' Price Lists.
+								<unitdate normal="1901/1980" type="inclusive"
+							>1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9eb7cd53-9f40-43c5-b9b2-416cdab76763" type="box"
+							>3</container>
+						<container parent="9eb7cd53-9f40-43c5-b9b2-416cdab76763" type="folder"
+							>11</container>
+						<unittitle> Sales, Marketing, and Advertising; Wholesalers' Price Lists.
+								<unitdate normal="1966" type="inclusive">1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2984589e-5a5e-4795-b192-09671d499b2e" type="box"
+							>3</container>
+						<container parent="2984589e-5a5e-4795-b192-09671d499b2e" type="folder"
+							>12</container>
+						<unittitle> Sales, Marketing, and Advertising; Wholesalers' Price Lists.
+								<unitdate normal="1967" type="inclusive">1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4dc934f6-7b78-40be-bc3a-d5066bd3cf2f" type="box"
+							>3</container>
+						<container parent="4dc934f6-7b78-40be-bc3a-d5066bd3cf2f" type="folder"
+							>13</container>
+						<unittitle> Sales, Marketing, and Advertising; Wholesalers' Price Lists.
+								<unitdate normal="1968" type="inclusive">1968</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series 4: Business Correspondence; <unitdate normal="1905/1978"
+							type="inclusive">1905-1978</unitdate></unittitle>
+					<physdesc>About 1,000 items <extent encodinganalog="300">(1.5 linear
+							feet)</extent></physdesc>
+				</did>
+				<scopecontent>
+					<p> The bulk of the Business Correspondence series is composed of miscellaneous
+						correspondence. The series also contains correspondence with particular
+						wholesalers as well as correspondence on the subject of store events such as
+						Christmas displays and the 1951 new store grand opening for the Stone and
+						Pennington store. Some of the correspondence is in Spanish. </p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="541df6c4-f2fe-4a32-9541-9fc3abdb483c" type="box"
+							>3</container>
+						<container parent="541df6c4-f2fe-4a32-9541-9fc3abdb483c" type="folder"
+							>14</container>
+						<unittitle> Arizona Corporation Commission. <unitdate normal="1926"
+								type="inclusive">1926</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6d624583-f6e2-4f0c-978b-6b644eb43343" type="box"
+							>3</container>
+						<container parent="6d624583-f6e2-4f0c-978b-6b644eb43343" type="folder"
+							>15</container>
+						<unittitle> Arizona State Tax Commission. <unitdate normal="1937/1946"
+								type="inclusive">1937-1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="de42956f-53ac-49f9-a5c5-f12ad8f9a774" type="box"
+							>3</container>
+						<container parent="de42956f-53ac-49f9-a5c5-f12ad8f9a774" type="folder"
+							>16</container>
+						<unittitle> Christmas Club Corporation. <unitdate normal="1943/1949"
+								type="inclusive">1943-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a5dbb429-73e9-4644-8aa5-e3d21d18a7b0" type="box"
+							>3</container>
+						<container parent="a5dbb429-73e9-4644-8aa5-e3d21d18a7b0" type="folder"
+							>17</container>
+						<unittitle> Christmas Displays. <unitdate normal="1951/1952"
+								type="inclusive">1951-1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b397bd05-42ad-49bb-9d57-2aeb172c7c13" type="box"
+							>3</container>
+						<container parent="b397bd05-42ad-49bb-9d57-2aeb172c7c13" type="folder"
+							>18</container>
+						<unittitle> Walter T. Dickerson Footwear Company. <unitdate
+								normal="1943/1946" type="inclusive">1943-1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="218c5c04-2368-4a18-b5a5-18f762fa6636" type="box"
+							>3</container>
+						<container parent="218c5c04-2368-4a18-b5a5-18f762fa6636" type="folder"
+							>19</container>
+						<unittitle> Gruen and Krummeck Architects. <unitdate normal="1949/1950"
+								type="inclusive">1949-1950</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="04c6b6cd-fab8-4aa3-bc14-492203e596c1" type="box"
+							>3</container>
+						<container parent="04c6b6cd-fab8-4aa3-bc14-492203e596c1" type="folder"
+							>20</container>
+						<unittitle> Houck, Gerald W. <unitdate normal="1932/1934" type="inclusive"
+								>1932-1934</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="76fa552b-6939-43b0-bbb6-4e40240210e5" type="box"
+							>3</container>
+						<container parent="76fa552b-6939-43b0-bbb6-4e40240210e5" type="folder"
+							>21</container>
+						<unittitle> The Industrial Commission of Arizona. <unitdate
+								normal="1936/1949" type="inclusive">1936-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="897639d1-4cd7-4d06-8f3d-29fc9348baad" type="box"
+							>3</container>
+						<container parent="897639d1-4cd7-4d06-8f3d-29fc9348baad" type="folder"
+							>22</container>
+						<unittitle> Intermountain Building and Loan Association. <unitdate
+								normal="1929/1941" type="inclusive">1929-1941</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5bb3fa32-3893-4442-bf78-d55fd134977b" type="box"
+							>3</container>
+						<container parent="5bb3fa32-3893-4442-bf78-d55fd134977b" type="folder"
+							>23</container>
+						<unittitle> Internal Revenue Service. <unitdate normal="1929/1946"
+								type="inclusive">1929-1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c84b8172-495b-4eeb-8a00-7632bd881dfc" type="box"
+							>3</container>
+						<container parent="c84b8172-495b-4eeb-8a00-7632bd881dfc" type="folder"
+							>24</container>
+						<unittitle> Jacome's New Store Grand Opening (1 of 2). <unitdate
+								normal="1951" type="inclusive">1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0e61f18d-073c-4be1-a3aa-2eb7352a425a" type="box"
+							>3</container>
+						<container parent="0e61f18d-073c-4be1-a3aa-2eb7352a425a" type="folder"
+							>25</container>
+						<unittitle> Jacome's New Store Grand Opening (2 of 2). <unitdate
+								normal="1951" type="inclusive">1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="378e86dd-32ea-4f9d-b343-e915d6dcbacd" type="box"
+							>3</container>
+						<container parent="378e86dd-32ea-4f9d-b343-e915d6dcbacd" type="folder"
+							>26</container>
+						<unittitle> Miscellaneous. <unitdate normal="1901/1980" type="inclusive"
+								>1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f9bbe04c-a071-4635-a1a5-b853e29f1090" type="box"
+							>3</container>
+						<container parent="f9bbe04c-a071-4635-a1a5-b853e29f1090" type="folder"
+							>27</container>
+						<unittitle> Miscellaneous. <unitdate normal="1905/1927" type="inclusive"
+								>1905-1927</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="22c0edbe-8c5e-4228-8b30-17fa2024fb56" type="box"
+							>3</container>
+						<container parent="22c0edbe-8c5e-4228-8b30-17fa2024fb56" type="folder"
+							>28</container>
+						<unittitle> Miscellaneous. <unitdate normal="1930/1939" type="inclusive"
+								>1930-1939</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3fd30fdd-2cb4-4adf-966a-9784c92b5dc0" type="box"
+							>3</container>
+						<container parent="3fd30fdd-2cb4-4adf-966a-9784c92b5dc0" type="folder"
+							>29</container>
+						<unittitle> Miscellaneous. <unitdate normal="1940/1946" type="inclusive"
+								>1940-1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7715670d-017a-4f86-ae25-e58c802c3e8c" type="box"
+							>3</container>
+						<container parent="7715670d-017a-4f86-ae25-e58c802c3e8c" type="folder"
+							>30</container>
+						<unittitle> Miscellaneous. <unitdate normal="1940/1955" type="inclusive"
+								>1940-1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e874a566-a938-4cf6-9c42-49a096d15882" type="box"
+							>3</container>
+						<container parent="e874a566-a938-4cf6-9c42-49a096d15882" type="folder"
+							>31</container>
+						<unittitle> Miscellaneous. <unitdate normal="1947/1949" type="inclusive"
+								>1947-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="27e84f69-0af1-461f-b631-10ac0407c3a3" type="box"
+							>3</container>
+						<container parent="27e84f69-0af1-461f-b631-10ac0407c3a3" type="folder"
+							>32</container>
+						<unittitle> Miscellaneous. <unitdate normal="1960/1970" type="inclusive"
+								>1960-1970</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="770b591c-f8c9-4144-8ee2-a7c644b20274" type="box"
+							>3</container>
+						<container parent="770b591c-f8c9-4144-8ee2-a7c644b20274" type="folder"
+							>33</container>
+						<unittitle> Northwestern Mutual Life Insurance Company. <unitdate
+								normal="1925/1950" type="inclusive">1925-1950</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b2c6fc69-d8a5-4952-92de-87d5bfaa4cd7" type="box"
+							>3</container>
+						<container parent="b2c6fc69-d8a5-4952-92de-87d5bfaa4cd7" type="folder"
+							>34</container>
+						<unittitle> Parking Meters Removal Request. <unitdate normal="1967"
+								type="inclusive">1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2d1d05ec-61d0-4012-a5c7-6feb7879dc46" type="box"
+							>3</container>
+						<container parent="2d1d05ec-61d0-4012-a5c7-6feb7879dc46" type="folder"
+							>35</container>
+						<unittitle> Small Business Administration Nondiscrimination Compliance.
+								<unitdate normal="1978" type="inclusive">1978</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f50425f9-4a6a-4c0a-8634-1baa571d9205" type="box"
+							>3</container>
+						<container parent="f50425f9-4a6a-4c0a-8634-1baa571d9205" type="folder"
+							>36</container>
+						<unittitle> Society Brand Clothes. <unitdate normal="1966/1967"
+								type="inclusive">1966-1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2af011e2-091e-4d8b-8363-45b79acab864" type="box"
+							>3</container>
+						<container parent="2af011e2-091e-4d8b-8363-45b79acab864" type="folder"
+							>37</container>
+						<unittitle> Southern Arizona Bank and Trust Company as Trustee for Frank
+							Jacome. <unitdate normal="1936" type="inclusive"
+							>1936</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series 5: Accounting and Finance; <unitdate normal="1903/1980"
+							type="inclusive">1903-1980 </unitdate></unittitle>
+					<physdesc>About 6,000 items <extent encodinganalog="300">(9.0 linear
+							feet)</extent></physdesc>
+				</did>
+				<scopecontent>
+					<p> The bulk of the Accounting and Finance series consists of bound business
+						ledgers with handwritten entries. Some business ledgers from the Hayden
+						branch store are included in this series. Also, the series contains some
+						statements and reports prepared for the Pima County and state tax
+						commissions. [Note: an oversized payroll ledger for the years 1939-1950 is
+						found in Series 10: Oversized Materials].</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="06c1a1f0-1f4e-4a15-80dc-c4a8127900fb" type="box"
+							>3</container>
+						<container parent="06c1a1f0-1f4e-4a15-80dc-c4a8127900fb" type="folder"
+							>38</container>
+						<unittitle> Business Ledgers; Accounts Receivable. <unitdate
+								normal="1951/1953" type="inclusive">1951-1953</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="162ef04b-2db2-421f-9e27-723ecf7c3d65" type="box"
+							>3</container>
+						<container parent="162ef04b-2db2-421f-9e27-723ecf7c3d65" type="folder"
+							>39</container>
+						<unittitle> Business Ledgers; Accounts Receivable. <unitdate
+								normal="1953/1954" type="inclusive">1953-1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7ccf8339-1dc6-49f5-a83c-16bef4a0345c" type="box"
+							>3</container>
+						<container parent="7ccf8339-1dc6-49f5-a83c-16bef4a0345c" type="folder"
+							>40</container>
+						<unittitle> Business Ledgers; Accounts Receivable. <unitdate
+								normal="1955/1956" type="inclusive">1955-1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5addca6b-367c-4eff-a172-7a885a908914" type="box"
+							>3</container>
+						<container parent="5addca6b-367c-4eff-a172-7a885a908914" type="folder"
+							>41</container>
+						<unittitle> Business Ledgers; Accounts Receivable. <unitdate
+								normal="1956/1957" type="inclusive">1956-1957</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1db7f5c6-61e7-486c-895d-f15be419dde2" type="box"
+							>3</container>
+						<container parent="1db7f5c6-61e7-486c-895d-f15be419dde2" type="folder"
+							>42</container>
+						<unittitle> Business Ledgers; Accounts Receivable. <unitdate
+								normal="1957/1958" type="inclusive">1957-1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="93ffc5a0-01c7-4301-9b2c-0af53fc6cc0c" type="box"
+							>4</container>
+						<container parent="93ffc5a0-01c7-4301-9b2c-0af53fc6cc0c" type="folder"
+							>1</container>
+						<unittitle> Business Ledgers; Accounts Receivable. <unitdate
+								normal="1958/1960" type="inclusive">1958-1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3a9036b8-0acb-4a75-864f-2bbf82731d00" type="box"
+							>4</container>
+						<container parent="3a9036b8-0acb-4a75-864f-2bbf82731d00" type="folder"
+							>2</container>
+						<unittitle> Business Ledgers; Accounts Receivable. <unitdate
+								normal="1960/1962" type="inclusive">1960-1962</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="eb9822b0-883b-4671-98cb-fb082d114bb3" type="box"
+							>4</container>
+						<container parent="eb9822b0-883b-4671-98cb-fb082d114bb3" type="folder"
+							>3</container>
+						<unittitle> Business Ledgers; Accounts Receivable. <unitdate
+								normal="1962/1964" type="inclusive">1962-1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="9adaf4fa-f3b8-4580-9da5-3a4733a54fa9" type="box"
+							>4</container>
+						<container parent="9adaf4fa-f3b8-4580-9da5-3a4733a54fa9" type="folder"
+							>4</container>
+						<unittitle> Business Ledgers; Accounts Receivable. <unitdate
+								normal="1964/1967" type="inclusive">1964-1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d7de5b55-028a-4705-8749-068e39eb3444" type="box"
+							>4</container>
+						<container parent="d7de5b55-028a-4705-8749-068e39eb3444" type="folder"
+							>5</container>
+						<unittitle> Business Ledgers; Accounts Receivable. <unitdate
+								normal="1967/1970" type="inclusive">1967-1970</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b54f286b-5402-4a01-86dd-764721bcd756" type="box"
+							>4</container>
+						<container parent="b54f286b-5402-4a01-86dd-764721bcd756" type="folder"
+							>6</container>
+						<unittitle> Business Ledgers; Accounts Receivable. <unitdate
+								normal="1970/1972" type="inclusive">1970-1972</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="32aff500-b4e1-462b-adec-b09564bbd0ae" type="box"
+							>4</container>
+						<container parent="32aff500-b4e1-462b-adec-b09564bbd0ae" type="folder"
+							>7</container>
+						<unittitle> Business Ledgers; Accounts Receivable. <unitdate
+								normal="1972/1974" type="inclusive">1972-1974</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2d9de68d-7c19-4ed8-a7a1-15aec8f68000" type="box"
+							>4</container>
+						<container parent="2d9de68d-7c19-4ed8-a7a1-15aec8f68000" type="folder"
+							>8</container>
+						<unittitle> Business Ledgers; Credit Bureau Report Log. <unitdate
+								normal="1958/1959" type="inclusive">1958-1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2ef23ea1-a577-48b3-8d86-39f807c80c21" type="box"
+							>4</container>
+						<container parent="2ef23ea1-a577-48b3-8d86-39f807c80c21" type="folder"
+							>9</container>
+						<unittitle> Business Ledgers; Daily Charges. <unitdate normal="1951/1952"
+								type="inclusive">1951-1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="25e397f3-076d-4801-9df1-ef6eb1740ac4" type="box"
+							>4</container>
+						<container parent="25e397f3-076d-4801-9df1-ef6eb1740ac4" type="folder"
+							>10</container>
+						<unittitle> Business Ledgers; Daily Charges. <unitdate normal="1952/1953"
+								type="inclusive">1952-1953</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="67c2595b-ab65-4a80-abe3-d147d7c68ba0" type="box"
+							>4</container>
+						<container parent="67c2595b-ab65-4a80-abe3-d147d7c68ba0" type="folder"
+							>11</container>
+						<unittitle> Business Ledgers; Daily Charges. <unitdate normal="1954/1956"
+								type="inclusive">1954-1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fede85bd-f4f1-43f6-ab73-690aba7b2e1a" type="box"
+							>4</container>
+						<container parent="fede85bd-f4f1-43f6-ab73-690aba7b2e1a" type="folder"
+							>12</container>
+						<unittitle> Business Ledgers; Daily Charges. <unitdate normal="1962/1964"
+								type="inclusive">1962-1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="12e7a706-47fa-49ad-82a3-3de4efab578b" type="box"
+							>5</container>
+						<container parent="12e7a706-47fa-49ad-82a3-3de4efab578b" type="folder"
+							>1</container>
+						<unittitle> Business Ledgers; Daily Charges. <unitdate normal="1964/1966"
+								type="inclusive">1964-1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d718e92f-1a4e-4723-8af4-511aabe26cdc" type="box"
+							>5</container>
+						<container parent="d718e92f-1a4e-4723-8af4-511aabe26cdc" type="folder"
+							>2</container>
+						<unittitle> Business Ledgers; Department Sales Figures. <unitdate
+								normal="1965/1967" type="inclusive">1965-1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="27805067-b51e-48e2-88c0-28745e6e8f07" type="box"
+							>5</container>
+						<container parent="27805067-b51e-48e2-88c0-28745e6e8f07" type="folder"
+							>3</container>
+						<unittitle> Business Ledgers; Department Sales Figures. <unitdate
+								normal="1967/1969" type="inclusive">1967-1969</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d1856c7b-a126-4098-a629-b6b172c3ad00" type="box"
+							>5</container>
+						<container parent="d1856c7b-a126-4098-a629-b6b172c3ad00" type="folder"
+							>4</container>
+						<unittitle> Business Ledgers; Department Sales Figures. <unitdate
+								normal="1969/1971" type="inclusive">1969-1971</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f46d863e-abf2-440a-8f71-88e4660b1c0f" type="box"
+							>5</container>
+						<container parent="f46d863e-abf2-440a-8f71-88e4660b1c0f" type="folder"
+							>5</container>
+						<unittitle> Business Ledgers; Department Sales Figures. <unitdate
+								normal="1971/1973" type="inclusive">1971-1973</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="319d569f-b493-4ab6-b61b-6a8e150a8222" type="box"
+							>5</container>
+						<container parent="319d569f-b493-4ab6-b61b-6a8e150a8222" type="folder"
+							>6</container>
+						<unittitle> Business Ledgers; General. <unitdate normal="1903/1918"
+								type="inclusive">1903-1918</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="614068af-9422-4247-83e1-92d9719c7c85" type="box"
+							>5</container>
+						<container parent="614068af-9422-4247-83e1-92d9719c7c85" type="folder"
+							>7</container>
+						<unittitle> Business Ledgers; General (1 of 6). <unitdate normal="1928/1938"
+								type="inclusive">1928-1938</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="831dc600-89c7-4b66-a425-1536af58f042" type="box"
+							>5</container>
+						<container parent="831dc600-89c7-4b66-a425-1536af58f042" type="folder"
+							>8</container>
+						<unittitle> Business Ledgers; General (2 of 6). <unitdate normal="1928/1938"
+								type="inclusive">1928-1938</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="cb777ba4-4bad-490d-9d26-74f31dd28665" type="box"
+							>5</container>
+						<container parent="cb777ba4-4bad-490d-9d26-74f31dd28665" type="folder"
+							>9</container>
+						<unittitle> Business Ledgers; General (3 of 6). <unitdate normal="1928/1938"
+								type="inclusive">1928-1938</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f1c19f8b-d152-466d-94f1-1971eb554769" type="box"
+							>5</container>
+						<container parent="f1c19f8b-d152-466d-94f1-1971eb554769" type="folder"
+							>10</container>
+						<unittitle> Business Ledgers; General (4 of 6). <unitdate normal="1928/1938"
+								type="inclusive">1928-1938</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="dd59cf47-e1d8-4f57-b62c-5ae42f34c1a4" type="box"
+							>5</container>
+						<container parent="dd59cf47-e1d8-4f57-b62c-5ae42f34c1a4" type="folder"
+							>11</container>
+						<unittitle> Business Ledgers; General (5 of 6). <unitdate normal="1928/1938"
+								type="inclusive">1928-1938</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2709bcab-3e14-4323-9b87-8cd7c517bb36" type="box"
+							>6</container>
+						<container parent="2709bcab-3e14-4323-9b87-8cd7c517bb36" type="folder"
+							>1</container>
+						<unittitle> Business Ledgers; General (6 of 6). <unitdate normal="1928/1938"
+								type="inclusive">1928-1938</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f4b2b4ac-60a1-4f78-90fa-ee49f4c06fca" type="box"
+							>6</container>
+						<container parent="f4b2b4ac-60a1-4f78-90fa-ee49f4c06fca" type="folder"
+							>2</container>
+						<unittitle> Business Ledgers; General (1 of 2). <unitdate normal="1928/1949"
+								type="inclusive">1928-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="dcd0e702-4090-4829-9ba3-e6ae67fe0e45" type="box"
+							>6</container>
+						<container parent="dcd0e702-4090-4829-9ba3-e6ae67fe0e45" type="folder"
+							>3</container>
+						<unittitle> Business Ledgers; General (2 of 2). <unitdate normal="1928/1949"
+								type="inclusive">1928-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="01d33b08-7755-4312-8c4f-4a50f3e6d430" type="box"
+							>7</container>
+						<container parent="01d33b08-7755-4312-8c4f-4a50f3e6d430" type="folder"
+							>1</container>
+						<unittitle> Business Ledgers; General. <unitdate normal="1939/1949"
+								type="inclusive">1939-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0567aae5-29db-4689-a6f0-d40985b2947d" type="box"
+							>8</container>
+						<container parent="0567aae5-29db-4689-a6f0-d40985b2947d" type="folder"
+							>1</container>
+						<unittitle> Business Ledgers; General. <unitdate normal="1945/1949"
+								type="inclusive">1945-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="590bbb82-f2b6-4625-983b-f6daf0a408a1" type="box"
+							>8</container>
+						<container parent="590bbb82-f2b6-4625-983b-f6daf0a408a1" type="folder"
+							>2</container>
+						<unittitle> Business Ledgers; General. <unitdate normal="1949/1953"
+								type="inclusive">1949-1953</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="75b43bd3-3407-446b-a4d8-840f8af3eb7d" type="box"
+							>8</container>
+						<container parent="75b43bd3-3407-446b-a4d8-840f8af3eb7d" type="folder"
+							>3</container>
+						<unittitle> Business Ledgers; General. <unitdate normal="1953/1955"
+								type="inclusive">1953-1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="33919311-c810-42f7-89b8-21a4f7c94a7c" type="box"
+							>8</container>
+						<container parent="33919311-c810-42f7-89b8-21a4f7c94a7c" type="folder"
+							>4</container>
+						<unittitle> Business Ledgers; General. <unitdate normal="1955/1958"
+								type="inclusive">1955-1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="13d7d228-e30a-4c36-b2fa-ba49306b8f0b" type="box"
+							>8</container>
+						<container parent="13d7d228-e30a-4c36-b2fa-ba49306b8f0b" type="folder"
+							>5</container>
+						<unittitle> Business Ledgers; General. <unitdate normal="1958/1961"
+								type="inclusive">1958-1961</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e2b85f03-df32-4faa-9e2f-148cc75c9960" type="box"
+							>8</container>
+						<container parent="e2b85f03-df32-4faa-9e2f-148cc75c9960" type="folder"
+							>6</container>
+						<unittitle> Business Ledgers; General. <unitdate normal="1961/1964"
+								type="inclusive">1961-1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2e4817e1-e0ad-45a8-861a-77ab0a18cd99" type="box"
+							>8</container>
+						<container parent="2e4817e1-e0ad-45a8-861a-77ab0a18cd99" type="folder"
+							>7</container>
+						<unittitle> Business Ledgers; General. <unitdate normal="1965/1968"
+								type="inclusive">1965-1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ca7cd02d-3126-45c4-a0aa-0f184b3cbcda" type="box"
+							>8</container>
+						<container parent="ca7cd02d-3126-45c4-a0aa-0f184b3cbcda" type="folder"
+							>8</container>
+						<unittitle> Business Ledgers; General. <unitdate normal="1968/1973"
+								type="inclusive">1968-1973</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7c2c9184-fbdb-4261-8a20-fd4fd211403a" type="box"
+							>8</container>
+						<container parent="7c2c9184-fbdb-4261-8a20-fd4fd211403a" type="folder"
+							>9</container>
+						<unittitle> Business Ledgers; Hayden Branch Sales Records. <unitdate
+								normal="1943/1951" type="inclusive">1943-1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="78d1e87c-8b6d-41d4-8792-67f5ea1f9824" type="box"
+							>8</container>
+						<container parent="78d1e87c-8b6d-41d4-8792-67f5ea1f9824" type="folder"
+							>10</container>
+						<unittitle> Business Ledgers; Hayden Branch Sales Records. <unitdate
+								normal="1950/1954" type="inclusive">1950-1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a7866940-24e5-46e7-b544-3f2078ef297a" type="box"
+							>9</container>
+						<container parent="a7866940-24e5-46e7-b544-3f2078ef297a" type="folder"
+							>2</container>
+						<unittitle> Business Ledgers; Sales Audit Summary and Department Sales
+							Analysis. <unitdate normal="1952/1955" type="inclusive"
+								>1952-1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="02e7481f-7a74-425a-aede-eb2a7483c92f" type="box"
+							>9</container>
+						<container parent="02e7481f-7a74-425a-aede-eb2a7483c92f" type="folder"
+							>3</container>
+						<unittitle> Business Ledgers; Sales Audit Summary and Department Sales
+							Analysis. <unitdate normal="1955/1958" type="inclusive"
+								>1955-1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="81f4a1bd-3158-4195-9b67-e8292a520706" type="box"
+							>9</container>
+						<container parent="81f4a1bd-3158-4195-9b67-e8292a520706" type="folder"
+							>4</container>
+						<unittitle> Business Ledgers; Sales Audit Summary and Department Sales
+							Analysis. <unitdate normal="1958/1960" type="inclusive"
+								>1958-1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8039fcf7-9ab4-4202-9199-d8b457cb2c35" type="box"
+							>9</container>
+						<container parent="8039fcf7-9ab4-4202-9199-d8b457cb2c35" type="folder"
+							>5</container>
+						<unittitle> Business Ledgers; Sales Audit Summary and Department Sales
+							Analysis. <unitdate normal="1960/1962" type="inclusive"
+								>1960-1962</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="16dfea90-9e26-417a-ae78-a5de08672d60" type="box"
+							>9</container>
+						<container parent="16dfea90-9e26-417a-ae78-a5de08672d60" type="folder"
+							>6</container>
+						<unittitle> Business Ledgers; Sales Audit Summary and Department Sales
+							Analysis. <unitdate normal="1962/1964" type="inclusive"
+								>1962-1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d7927e5a-464e-4f60-8569-6996f10b75c5" type="box"
+							>9</container>
+						<container parent="d7927e5a-464e-4f60-8569-6996f10b75c5" type="folder"
+							>7</container>
+						<unittitle> Business Ledgers; Sales Audit Summary and Department Sales
+							Analysis. <unitdate normal="1964/1966" type="inclusive"
+								>1964-1966</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e53e6bc8-a094-4579-b7ab-2f58b1d072fc" type="box"
+							>9</container>
+						<container parent="e53e6bc8-a094-4579-b7ab-2f58b1d072fc" type="folder"
+							>8</container>
+						<unittitle> Business Ledgers; Sales Audit Summary and Department Sales
+							Analysis. <unitdate normal="1966/1968" type="inclusive"
+								>1966-1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2f88ce00-9194-4043-b00a-5a1be1c7421d" type="box"
+							>9</container>
+						<container parent="2f88ce00-9194-4043-b00a-5a1be1c7421d" type="folder"
+							>9</container>
+						<unittitle> Business Ledgers; Sales Audit Summary and Department Sales
+							Analysis. <unitdate normal="1968/1970" type="inclusive"
+								>1968-1970</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7d61db2d-9809-466d-a083-81cb0f52aba1" type="box"
+							>9</container>
+						<container parent="7d61db2d-9809-466d-a083-81cb0f52aba1" type="folder"
+							>10</container>
+						<unittitle> Business Ledgers; Sales Audit Summary and Department Sales
+							Analysis. <unitdate normal="1970/1972" type="inclusive"
+								>1970-1972</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="12eebf55-fbca-4249-95d9-22eb852ea7cc" type="box"
+							>9</container>
+						<container parent="12eebf55-fbca-4249-95d9-22eb852ea7cc" type="folder"
+							>11</container>
+						<unittitle> Business Ledgers; Sales Audit Summary and Department Sales
+							Analysis. <unitdate normal="1972/1973" type="inclusive"
+								>1972-1973</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7629db1a-a4ab-49a6-b646-b72f44aac227" type="box"
+							>10</container>
+						<container parent="7629db1a-a4ab-49a6-b646-b72f44aac227" type="folder"
+							>1</container>
+						<unittitle> Financial Statements; Miscellaneous. <unitdate
+								normal="1907/1947" type="inclusive">1907-1947</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a3b1a378-db27-44f3-b0f0-bd84a48e39dd" type="box"
+							>10</container>
+						<container parent="a3b1a378-db27-44f3-b0f0-bd84a48e39dd" type="folder"
+							>2</container>
+						<unittitle> Payroll E.D.P. Input Notations. <unitdate normal="1978/1980"
+								type="inclusive">1978-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ed8499b1-7778-4862-9383-0ac727f3c44b" type="box"
+							>10</container>
+						<container parent="ed8499b1-7778-4862-9383-0ac727f3c44b" type="folder"
+							>3</container>
+						<unittitle> Pima County Tax Assessment; Merchant's Personal Property
+							Statement. <unitdate normal="1901/1980" type="inclusive"
+								>1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="40f94ce2-1557-422b-ab8a-539cebf1bd13" type="box"
+							>10</container>
+						<container parent="40f94ce2-1557-422b-ab8a-539cebf1bd13" type="folder"
+							>4</container>
+						<unittitle> Pima County Tax Assessment; Merchant's Personal Property
+							Statement. <unitdate normal="1922/1930" type="inclusive"
+								>1922-1930</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c9e84335-db19-4025-9b94-dbc00f76f6bc" type="box"
+							>10</container>
+						<container parent="c9e84335-db19-4025-9b94-dbc00f76f6bc" type="folder"
+							>5</container>
+						<unittitle> State Tax Commission; Sales Tax Audit Report. <unitdate
+								normal="1942" type="inclusive">1942</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="28f776f0-c489-4432-b908-e3fbc13a0ef6" type="box"
+							>10</container>
+						<container parent="28f776f0-c489-4432-b908-e3fbc13a0ef6" type="folder"
+							>6</container>
+						<unittitle> State Tax Commission; Statement of Income and Expenditures.
+								<unitdate normal="1921/1936" type="inclusive"
+							>1921-1936</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series 6: Alianza Hispano-Americana; <unitdate normal="1913/1947"
+							type="inclusive">1913-1947</unitdate></unittitle>
+					<physdesc>About 250 items <extent encodinganalog="300">(.4 linear
+						feet)</extent></physdesc>
+				</did>
+				<scopecontent>
+					<p> This series contains correspondence between Carlos C. Jacome, Genaro S.
+						Manzo, and other members of Alianza Hispano-Americana (AHA). The series also
+						contains a bank book, financial statements, publications, and miscellaneous
+						documents concerning AHA activities. Many items are in Spanish. </p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="1eb2ccba-80ae-4757-86f2-b3dc59903cce" type="box"
+							>10</container>
+						<container parent="1eb2ccba-80ae-4757-86f2-b3dc59903cce" type="folder"
+							>7</container>
+						<unittitle>
+							<title render="italic"> Arizona v. Alianza Hispano-Americana</title>
+							documents. <unitdate normal="1941" type="inclusive"
+							>1941</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d7b1d2ed-ffc7-4190-8883-5ae3f2c4616c" type="box"
+							>10</container>
+						<container parent="d7b1d2ed-ffc7-4190-8883-5ae3f2c4616c" type="folder"
+							>8</container>
+						<unittitle> Bank Book. <unitdate normal="1926" type="inclusive"
+								>1926</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="53f19732-7efc-4da9-9614-a930f6378cf1" type="box"
+							>10</container>
+						<container parent="53f19732-7efc-4da9-9614-a930f6378cf1" type="folder"
+							>9</container>
+						<unittitle> Correspondence. <unitdate normal="1913/1927" type="inclusive"
+								>1913-1927</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ce485f41-fb29-49c8-ad5b-d10b4c47fb3f" type="box"
+							>10</container>
+						<container parent="ce485f41-fb29-49c8-ad5b-d10b4c47fb3f" type="folder"
+							>10</container>
+						<unittitle> Correspondence. <unitdate normal="1936/1940" type="inclusive"
+								>1936-1940</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6badedf1-3246-494e-aa36-c932287b79b7" type="box"
+							>10</container>
+						<container parent="6badedf1-3246-494e-aa36-c932287b79b7" type="folder"
+							>11</container>
+						<unittitle> Financial Statements. <unitdate normal="1913/1947"
+								type="inclusive">1913-1947</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a35df963-a957-4ad0-9a34-d9cd4120df24" type="box"
+							>10</container>
+						<container parent="a35df963-a957-4ad0-9a34-d9cd4120df24" type="folder"
+							>12</container>
+						<unittitle> Miscellaneous. <unitdate normal="1901/1980" type="inclusive"
+								>1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="3ef89135-222c-4f0e-833b-9e70457697c6" type="box"
+							>10</container>
+						<container parent="3ef89135-222c-4f0e-833b-9e70457697c6" type="folder"
+							>13</container>
+						<unittitle> Publications. <unitdate normal="1914/1942" type="inclusive"
+								>1914-1942</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series 7: Photographs; <unitdate normal="1922/1966" type="inclusive"
+							>1922-1966</unitdate></unittitle>
+					<physdesc>About 250 items <extent encodinganalog="300">(.4 linear
+						feet)</extent></physdesc>
+				</did>
+				<scopecontent>
+					<p> The Photographs series contains dated and undated photographs including
+						images of the Stone and Pennington store while under construction,
+						festivities surrounding the grand opening of the Stone and Pennington store
+						in 1951 (interior and exterior), the unveiling of the Jacome's 58th
+						anniversary logo, and miscellaneous store window displays. Also included are
+						miscellaneous photographs of Alex G. Jacome dining with Mexican government
+						officials as well as picture postcards of family members. [Note: Additional
+						photographs are found in Series 10: Oversized Materials]. </p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="67ad3833-f285-4ca1-a8b1-2c5435bc9a24" type="box"
+							>10</container>
+						<container parent="67ad3833-f285-4ca1-a8b1-2c5435bc9a24" type="folder"
+							>14</container>
+						<unittitle> Miscellaneous. <unitdate normal="1901/1980" type="inclusive"
+								>1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f7da5b84-e101-4a06-b746-9b0cfc2baf4f" type="box"
+							>10</container>
+						<container parent="f7da5b84-e101-4a06-b746-9b0cfc2baf4f" type="folder"
+							>15</container>
+						<unittitle> Miscellaneous. <unitdate normal="1922/1966" type="inclusive"
+								>1922-1966</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Series 8: Real Estate; <unitdate normal="1901/1980" type="inclusive"
+							>1901-1980</unitdate></unittitle>
+					<physdesc>About 2,500 items <extent encodinganalog="300">(3.5 linear
+							feet)</extent></physdesc>
+				</did>
+				<scopecontent>
+					<p> The Real Estate series contains insurance policy information; legal
+						documents including abstracts of title, contracts, deeds, leases, mortgages,
+						and zoning provisions; and plans and blueprints for new stores and the
+						expansion of existing stores. [Note: Additional building plans are located
+						in Series 10: Oversized Material].</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="0a010f2d-1fe2-4b38-8a4e-0246cfa3b2e4" type="box"
+							>10</container>
+						<container parent="0a010f2d-1fe2-4b38-8a4e-0246cfa3b2e4" type="folder"
+							>16</container>
+						<unittitle> Insurance; Policy Information. <unitdate normal="1951/1954"
+								type="inclusive">1951-1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="11d2094b-eba4-40b2-a6a5-4e77901a77cc" type="box"
+							>10</container>
+						<container parent="11d2094b-eba4-40b2-a6a5-4e77901a77cc" type="folder"
+							>17</container>
+						<unittitle> Legal; Abstract of Title. <unitdate normal="1907"
+								type="inclusive">1907</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f42fa987-f601-4a29-8cb2-b31ec94e5a9d" type="box"
+							>10</container>
+						<container parent="f42fa987-f601-4a29-8cb2-b31ec94e5a9d" type="folder"
+							>18</container>
+						<unittitle> Legal; Abstract of Title. <unitdate normal="1909"
+								type="inclusive">1909</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="50c1e513-04a9-4027-8b1b-6b9f1bfdc3f8" type="box"
+							>10</container>
+						<container parent="50c1e513-04a9-4027-8b1b-6b9f1bfdc3f8" type="folder"
+							>19</container>
+						<unittitle> Legal; Abstract of Title. <unitdate normal="1914"
+								type="inclusive">1914</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0740caa7-7140-45ef-b125-962d63ccff5e" type="box"
+							>10</container>
+						<container parent="0740caa7-7140-45ef-b125-962d63ccff5e" type="folder"
+							>20</container>
+						<unittitle> Legal; Abstract of Title. <unitdate normal="1930"
+								type="inclusive">1930</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="cdf107d3-2c93-407b-b9a4-a76f49f7ea34" type="box"
+							>10</container>
+						<container parent="cdf107d3-2c93-407b-b9a4-a76f49f7ea34" type="folder"
+							>21</container>
+						<unittitle> Legal; Abstract of Title. <unitdate normal="1931"
+								type="inclusive">1931</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0fdb42b7-d5b1-4e6e-9392-de19fb7f55e9" type="box"
+							>10</container>
+						<container parent="0fdb42b7-d5b1-4e6e-9392-de19fb7f55e9" type="folder"
+							>22</container>
+						<unittitle> Legal; Abstract of Title. <unitdate normal="1934"
+								type="inclusive">1934</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="86ac5441-52e5-4e9f-a341-b731ed075f4a" type="box"
+							>10</container>
+						<container parent="86ac5441-52e5-4e9f-a341-b731ed075f4a" type="folder"
+							>23</container>
+						<unittitle> Legal; Abstract of Title. <unitdate normal="1938"
+								type="inclusive">1938</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="73331485-afe0-4665-b66a-02b2bfeee557" type="box"
+							>10</container>
+						<container parent="73331485-afe0-4665-b66a-02b2bfeee557" type="folder"
+							>24</container>
+						<unittitle> Legal; Abstract of Title. <unitdate normal="1941"
+								type="inclusive">1941</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="02099455-27a4-431e-a922-80ac45b6ff33" type="box"
+							>10</container>
+						<container parent="02099455-27a4-431e-a922-80ac45b6ff33" type="folder"
+							>25</container>
+						<unittitle> Legal; Certificate of Title. <unitdate normal="1905"
+								type="inclusive">1905</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b52df903-3d49-4355-9924-aae4b796f196" type="box"
+							>10</container>
+						<container parent="b52df903-3d49-4355-9924-aae4b796f196" type="folder"
+							>26</container>
+						<unittitle> Legal; Contract for the Construction of a Residence and Garage.
+								<unitdate normal="1937" type="inclusive">1937</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0b1739b8-7e24-4843-ac42-bbbe445a3f8e" type="box"
+							>10</container>
+						<container parent="0b1739b8-7e24-4843-ac42-bbbe445a3f8e" type="folder"
+							>27</container>
+						<unittitle> Legal; Contract for Remodeling of Department Store. <unitdate
+								normal="1901/1980" type="inclusive">undated</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8f5f1362-7a39-4c4e-a061-cfa0270a71b6" type="box"
+							>10</container>
+						<container parent="8f5f1362-7a39-4c4e-a061-cfa0270a71b6" type="folder"
+							>28</container>
+						<unittitle> Legal; Contracts for the Sale of Real Estate. <unitdate
+								normal="1938/1948" type="inclusive">1938-1948</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4ed2d89c-f2b3-44d2-b8f4-aa23d5df54c9" type="box"
+							>10</container>
+						<container parent="4ed2d89c-f2b3-44d2-b8f4-aa23d5df54c9" type="folder"
+							>29</container>
+						<unittitle> Legal; Deeds. <unitdate normal="1901/1980" type="inclusive"
+								>1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8ec53e13-d299-4f7c-a1d0-778e4256b561" type="box"
+							>10</container>
+						<container parent="8ec53e13-d299-4f7c-a1d0-778e4256b561" type="folder"
+							>30</container>
+						<unittitle> Legal; Deeds. <unitdate normal="1901/1913" type="inclusive"
+								>1901-1913</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6e70b6da-7d49-468e-82ed-cf3ac582b913" type="box"
+							>10</container>
+						<container parent="6e70b6da-7d49-468e-82ed-cf3ac582b913" type="folder"
+							>31</container>
+						<unittitle> Legal; Deeds. <unitdate normal="1920/1934" type="inclusive"
+								>1920-1934</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="d14a8198-9b83-47c5-806e-8057e7a2f4a4" type="box"
+							>10</container>
+						<container parent="d14a8198-9b83-47c5-806e-8057e7a2f4a4" type="folder"
+							>32</container>
+						<unittitle> Legal; Deeds. <unitdate normal="1944/1945" type="inclusive"
+								>1944-1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b5eb8812-ceeb-452a-b3e7-c70ddd8b9f52" type="box"
+							>10</container>
+						<container parent="b5eb8812-ceeb-452a-b3e7-c70ddd8b9f52" type="folder"
+							>33</container>
+						<unittitle> Legal; Escrow. <unitdate normal="1926" type="inclusive"
+								>1926</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="aa0b0f9c-7cc8-4574-9b39-b61d520e5ec2" type="box"
+							>10</container>
+						<container parent="aa0b0f9c-7cc8-4574-9b39-b61d520e5ec2" type="folder"
+							>34</container>
+						<unittitle> Legal; Leases. <unitdate normal="1901/1980" type="inclusive"
+								>1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4392cf66-a9b1-4319-bb69-e602ae91b161" type="box"
+							>10</container>
+						<container parent="4392cf66-a9b1-4319-bb69-e602ae91b161" type="folder"
+							>35</container>
+						<unittitle> Legal; Leases. <unitdate normal="1937" type="inclusive"
+								>1937</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4c078202-567c-493f-b133-c8f566230af3" type="box"
+							>10</container>
+						<container parent="4c078202-567c-493f-b133-c8f566230af3" type="folder"
+							>36</container>
+						<unittitle> Legal; Leases. <unitdate normal="1938/1939" type="inclusive"
+								>1938-1939</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="85dbdd03-786a-4334-9cf2-1ae8e6b7b15e" type="box"
+							>10</container>
+						<container parent="85dbdd03-786a-4334-9cf2-1ae8e6b7b15e" type="folder"
+							>37</container>
+						<unittitle> Legal; Leases. <unitdate normal="1940" type="inclusive"
+								>1940</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="58b37513-3e7b-4cd0-b8b4-7c60982da3e2" type="box"
+							>10</container>
+						<container parent="58b37513-3e7b-4cd0-b8b4-7c60982da3e2" type="folder"
+							>38</container>
+						<unittitle> Legal; Leases. <unitdate normal="1940/1950" type="inclusive"
+								>1940-1950</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="069a26b3-ca57-477f-b7dc-4f7a5d556d2b" type="box"
+							>10</container>
+						<container parent="069a26b3-ca57-477f-b7dc-4f7a5d556d2b" type="folder"
+							>39</container>
+						<unittitle> Legal; Leases. <unitdate normal="1942" type="inclusive"
+								>1942</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="25f32fb9-9062-4f46-bfea-4dd97f0141c6" type="box"
+							>10</container>
+						<container parent="25f32fb9-9062-4f46-bfea-4dd97f0141c6" type="folder"
+							>40</container>
+						<unittitle> Legal; Leases. <unitdate normal="1945" type="inclusive"
+								>1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ba2345cb-26a6-434d-a6ac-633d3cbf267a" type="box"
+							>10</container>
+						<container parent="ba2345cb-26a6-434d-a6ac-633d3cbf267a" type="folder"
+							>41</container>
+						<unittitle> Legal; Leases. <unitdate normal="1946" type="inclusive"
+								>1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6f77f1fb-174b-4709-8eca-fbcd021c72fc" type="box"
+							>10</container>
+						<container parent="6f77f1fb-174b-4709-8eca-fbcd021c72fc" type="folder"
+							>42</container>
+						<unittitle> Legal; Leases. <unitdate normal="1947" type="inclusive"
+								>1947</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="99c62542-da41-4147-8c39-2747f6ce2f1e" type="box"
+							>10</container>
+						<container parent="99c62542-da41-4147-8c39-2747f6ce2f1e" type="folder"
+							>43</container>
+						<unittitle> Legal; Miscellaneous. <unitdate normal="1901/1980"
+								type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="69e32dab-20bd-4630-9d12-ded48ef86aba" type="box"
+							>10</container>
+						<container parent="69e32dab-20bd-4630-9d12-ded48ef86aba" type="folder"
+							>44</container>
+						<unittitle> Legal; Miscellaneous. <unitdate normal="1903/1931"
+								type="inclusive">1903-1931</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="dd3055d8-774a-491d-ad27-56a0b3cb6376" type="box"
+							>10</container>
+						<container parent="dd3055d8-774a-491d-ad27-56a0b3cb6376" type="folder"
+							>45</container>
+						<unittitle> Legal; Mortgages. <unitdate normal="1904/1914" type="inclusive"
+								>1904-1914</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="474c7a4a-96c4-4f44-a396-8386fb5eb5a2" type="box"
+							>10</container>
+						<container parent="474c7a4a-96c4-4f44-a396-8386fb5eb5a2" type="folder"
+							>46</container>
+						<unittitle> Legal; Mortgages. <unitdate normal="1921/1930" type="inclusive"
+								>1921-1930</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="397516a1-18cb-4b1f-bc2e-02fe0845b983" type="box"
+							>10</container>
+						<container parent="397516a1-18cb-4b1f-bc2e-02fe0845b983" type="folder"
+							>47</container>
+						<unittitle> Legal; Mortgages. <unitdate normal="1937/1946" type="inclusive"
+								>1937-1946</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="49788e6f-ab91-4b5e-a80b-eb1199169c43" type="box"
+							>10</container>
+						<container parent="49788e6f-ab91-4b5e-a80b-eb1199169c43" type="folder"
+							>48</container>
+						<unittitle> Legal; Mortgages. <unitdate normal="1940/1945" type="inclusive"
+								>1940-1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="02a12088-829d-4fc2-9939-566c9b3cdd8b" type="box"
+							>10</container>
+						<container parent="02a12088-829d-4fc2-9939-566c9b3cdd8b" type="folder"
+							>49</container>
+						<unittitle> Legal; Zoning Provisions. <unitdate normal="1901/1980"
+								type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a95aa858-0146-4694-812f-dfd1739ecd35" type="box"
+							>11</container>
+						<container parent="a95aa858-0146-4694-812f-dfd1739ecd35" type="folder"
+							>1</container>
+						<unittitle> Plans and Blueprints; Arizona Bank Plaza. <unitdate
+								normal="1975" type="inclusive">1975</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="804afd73-2154-4c37-9ff0-fb4ced4b555d" type="box"
+							>11</container>
+						<container parent="804afd73-2154-4c37-9ff0-fb4ced4b555d" type="folder"
+							>2</container>
+						<unittitle> Plans and Blueprints; Arizona Building Company. <unitdate
+								normal="1955" type="inclusive">1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7c5ef6d3-5e29-49f5-8d6d-0caa5e70014a" type="box"
+							>11</container>
+						<container parent="7c5ef6d3-5e29-49f5-8d6d-0caa5e70014a" type="folder"
+							>3</container>
+						<unittitle> Plans and Blueprints; Custom Built Fixtures. <unitdate
+								normal="1957" type="inclusive">1957</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5a699dae-e98b-4a05-92c9-b0101b59adcb" type="box"
+							>11</container>
+						<container parent="5a699dae-e98b-4a05-92c9-b0101b59adcb" type="folder"
+							>4</container>
+						<unittitle> Plans and Blueprints; Coronado Village. <unitdate normal="1977"
+								type="inclusive">1977</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="bb08138f-323f-405c-a55d-7a33f633545d" type="box"
+							>11</container>
+						<container parent="bb08138f-323f-405c-a55d-7a33f633545d" type="folder"
+							>5</container>
+						<unittitle> Plans and Blueprints; El Capri Shoppes. <unitdate normal="1976"
+								type="inclusive">1976</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="c222b7a5-f05a-4b12-8e6f-f0abcbba3282" type="box"
+							>11</container>
+						<container parent="c222b7a5-f05a-4b12-8e6f-f0abcbba3282" type="folder"
+							>6</container>
+						<unittitle> Plans and Blueprints; Jacome's Alterations. <unitdate
+								normal="1964" type="inclusive">1964</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4a1ae34e-0f1a-4dc9-9a7c-dcfd8f14a42e" type="box"
+							>11</container>
+						<container parent="4a1ae34e-0f1a-4dc9-9a7c-dcfd8f14a42e" type="folder"
+							>7</container>
+						<unittitle> Plans and Blueprints; Jacome's Expansion. <unitdate
+								normal="1956" type="inclusive">1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="e0096d12-c58d-4e95-8d73-d8395c3e72bf" type="box"
+							>11</container>
+						<container parent="e0096d12-c58d-4e95-8d73-d8395c3e72bf" type="folder"
+							>8</container>
+						<unittitle> Plans and Blueprints; Jacome's Gift Department. <unitdate
+								normal="1963" type="inclusive">1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="8bd39d18-1e94-4375-a50b-534b22d811dc" type="box"
+							>11</container>
+						<container parent="8bd39d18-1e94-4375-a50b-534b22d811dc" type="folder"
+							>9</container>
+						<unittitle> Plans and Blueprints; Jacome's Men's Shop. <unitdate
+								normal="1967" type="inclusive">1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="fd5bc390-7d24-4fbb-85b5-c387255e4dff" type="box"
+							>11</container>
+						<container parent="fd5bc390-7d24-4fbb-85b5-c387255e4dff" type="folder"
+							>10</container>
+						<unittitle> Plans and Blueprints; Jacome's Pennington &amp; Stone Store (1
+							of 2). <unitdate normal="1956" type="inclusive"
+							>1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="82a06b60-5a58-42af-b42a-6f0cd4dc6f5d" type="box"
+							>11</container>
+						<container parent="82a06b60-5a58-42af-b42a-6f0cd4dc6f5d" type="folder"
+							>11</container>
+						<unittitle> Plans and Blueprints; Jacome's Pennington &amp; Stone Store (2
+							of 2). <unitdate normal="1956" type="inclusive"
+							>1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f9fb2f26-bad9-4fe9-8ee9-9ca1e758ffd7" type="box"
+							>11</container>
+						<container parent="f9fb2f26-bad9-4fe9-8ee9-9ca1e758ffd7" type="folder"
+							>12</container>
+						<unittitle> Plans and Blueprints; Jacome's Renovation. <unitdate
+								normal="1975" type="inclusive">1975</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5d51c4f1-40c7-424b-bb85-1c78e3177108" type="box"
+							>12</container>
+						<container parent="5d51c4f1-40c7-424b-bb85-1c78e3177108" type="folder"
+							>1</container>
+						<unittitle> Plans and Blueprints; Jacome's Sierra Vista. <unitdate
+								normal="1976" type="inclusive">1976</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5bd4f00b-4727-4b5e-82dc-2eda025990b3" type="box"
+							>12</container>
+						<container parent="5bd4f00b-4727-4b5e-82dc-2eda025990b3" type="folder"
+							>2</container>
+						<unittitle> Plans and Blueprints; Jacome's Sierra Vista. <unitdate
+								normal="1976/1977" type="inclusive">1976-1977</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="575b7a68-7697-43d1-bfad-79a364ba45b7" type="box"
+							>12</container>
+						<container parent="575b7a68-7697-43d1-bfad-79a364ba45b7" type="folder"
+							>3</container>
+						<unittitle> Plans and Blueprints; La Placita Village. <unitdate
+								normal="1978" type="inclusive">1978</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4cc781d0-6050-46e6-b755-033d795f9ff1" type="box"
+							>12</container>
+						<container parent="4cc781d0-6050-46e6-b755-033d795f9ff1" type="folder"
+							>4</container>
+						<unittitle> Plans and Blueprints; Park and Mill Street Building. <unitdate
+								normal="1901/1980" type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4c536368-831b-40db-b781-91a96cfe4f59" type="box"
+							>12</container>
+						<container parent="4c536368-831b-40db-b781-91a96cfe4f59" type="folder"
+							>5</container>
+						<unittitle> Plans and Blueprints; Sierra Vista Ventures. <unitdate
+								normal="1901/1980" type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1abf7d5b-8d97-4e3e-aa34-d49a787ca00a" type="box"
+							>12</container>
+						<container parent="1abf7d5b-8d97-4e3e-aa34-d49a787ca00a" type="folder"
+							>6</container>
+						<unittitle> Plans and Blueprints; Store Additions and Alterations by
+							Architect Terry Atkinson. <unitdate normal="1956" type="inclusive"
+								>1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="f7cde316-98c0-473a-9577-b6714a4f0eb6" type="box"
+							>12</container>
+						<container parent="f7cde316-98c0-473a-9577-b6714a4f0eb6" type="folder"
+							>7</container>
+						<unittitle> Plans and Blueprints; Store Equipment (1 of 2). <unitdate
+								normal="1950" type="inclusive">1950</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ef479cd0-5b6f-4032-988b-3a6809b475cf" type="box"
+							>12</container>
+						<container parent="ef479cd0-5b6f-4032-988b-3a6809b475cf" type="folder"
+							>8</container>
+						<unittitle> Plans and Blueprints; Store Equipment (2 of 2). <unitdate
+								normal="1950" type="inclusive">1950</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="2bfb362b-1e77-4bc6-88ed-64b97c9d3edc" type="box"
+							>12</container>
+						<container parent="2bfb362b-1e77-4bc6-88ed-64b97c9d3edc" type="folder"
+							>9</container>
+						<unittitle> Plans and Blueprints; Store Furnishings. <unitdate
+								normal="1901/1980" type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="94386900-b4fd-43f1-9a2c-eb3496bf203b" type="box"
+							>12</container>
+						<container parent="94386900-b4fd-43f1-9a2c-eb3496bf203b" type="folder"
+							>10</container>
+						<unittitle> Plans and Blueprints; Store Layout. <unitdate normal="1901/1980"
+								type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="0df87d53-621b-4435-885b-6e21c5675b2f" type="box"
+							>12</container>
+						<container parent="0df87d53-621b-4435-885b-6e21c5675b2f" type="folder"
+							>11</container>
+						<unittitle> Plans and Blueprints; Survey Map. <unitdate normal="1980"
+								type="inclusive">1980</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series 9: Scrapbooks; <unitdate normal="1950/1967" type="inclusive"
+							>1950-1967</unitdate></unittitle>
+					<physdesc>About 1,000 items <extent encodinganalog="300">(1.5 linear
+							feet)</extent></physdesc>
+				</did>
+				<scopecontent>
+					<p> The Scrapbook series contains a scrapbook highlighting the activities of the
+						Jacome's Hi Board High School Fashion Club; two scrapbooks contemporaneous
+						with the building of the new store at Stone and Pennington Streets in 1951,
+						and a historical overview of the store at Stone and Pennington put together
+						in 1967. The scrapbooks include photographs, news clippings, radio scripts,
+						advertisements, and a few 35mm slides. </p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="bfbb60d6-3480-4855-b532-6d0835c14e5d" type="box"
+							>13</container>
+						<container parent="bfbb60d6-3480-4855-b532-6d0835c14e5d" type="folder"
+							>1</container>
+						<unittitle> Jacome's Hi Board. <unitdate normal="1961/1967" type="inclusive"
+								>1961-1967</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="00e38f04-80d5-4017-a08f-87939c283c57" type="box"
+							>13</container>
+						<container parent="00e38f04-80d5-4017-a08f-87939c283c57" type="folder"
+							>2</container>
+						<unittitle> New Store. <unitdate normal="1950/1951" type="inclusive"
+								>1950-1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="6d37055e-99b2-42ae-98b3-cada7797cc90" type="box"
+							>13</container>
+						<container parent="6d37055e-99b2-42ae-98b3-cada7797cc90" type="folder"
+							>3</container>
+						<unittitle> The Story of Jacome's Modern Store at Stone and Pennington.
+								<unitdate normal="1950/1951" type="inclusive"
+							>1950-1951</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="897d3d94-6f1d-429b-8bba-69952887b6a7" type="box"
+							>14</container>
+						<container parent="897d3d94-6f1d-429b-8bba-69952887b6a7" type="folder"
+							>1</container>
+						<unittitle> The Story of Jacome's Modern Store at Stone and Pennington.
+								<unitdate normal="1967" type="inclusive">1967</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle> Series 10: Oversized Materials; <unitdate normal="1939/1979"
+							type="inclusive">1939-1979</unitdate></unittitle>
+					<physdesc>About 3,000 items <extent encodinganalog="300">(4.5 linear
+							feet)</extent></physdesc>
+				</did>
+				<scopecontent>
+					<p> The Oversized Materials series contains items from other series that are too
+						large to fit in standard record cartons. Items include a payroll ledger
+						covering the years 1939-1950, advertising artwork, and several large
+						photographs. The photographs include an undated poster-sized print of an
+						aerial view of downtown Tucson, undated poster-prints of the exteriors and
+						interiors of La Bonanza General Store and Jacome's Department Store, an
+						undated poster-sized print of the Park Brewery in Tucson, and several large
+						inscribed photographs of Mexican governmental officials given to Alex G.
+						Jacome between the years 1955-1979. </p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container id="60162b43-4773-4816-b579-0d05cf4b05a1" type="box"
+							>15</container>
+						<container parent="60162b43-4773-4816-b579-0d05cf4b05a1" type="folder"
+							>1</container>
+						<unittitle> Accounting and Finance; Payroll. <unitdate normal="1939/1950"
+								type="inclusive">1939-1950</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="89367d0b-8653-4e23-86ad-45ab465f97bf" type="box"
+							>16</container>
+						<container parent="89367d0b-8653-4e23-86ad-45ab465f97bf" type="folder"
+							>1</container>
+						<unittitle> Company History; Sales, Marketing, and Advertising Artwork.
+								<unitdate normal="1901/1980" type="inclusive"
+							>1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b3d473c7-111d-4a67-ba3a-2d1680359d77" type="box"
+							>16</container>
+						<container parent="b3d473c7-111d-4a67-ba3a-2d1680359d77" type="folder"
+							>2</container>
+						<unittitle> Company History; Sales, Marketing, and Advertising Artwork.
+								<unitdate normal="1951/1963" type="inclusive"
+							>1951-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b2beaf21-0787-4604-86d1-ad55ad7d212a" type="box"
+							>16</container>
+						<container parent="b2beaf21-0787-4604-86d1-ad55ad7d212a" type="folder"
+							>3</container>
+						<unittitle> Company History; Sales, Marketing, and Advertising Breakdown.
+								<unitdate normal="1960/1969" type="inclusive"
+							>1960-1969</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="1db1c21f-5e75-47da-86ea-0d4a4be8ae91" type="box"
+							>17</container>
+						<container parent="1db1c21f-5e75-47da-86ea-0d4a4be8ae91" type="folder"
+							>1</container>
+						<unittitle> Photographs; Aerial View of Downtown Tucson. <unitdate
+								normal="1901/1980" type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="623a1683-83c2-4162-8545-b2bf9c65d5a2" type="box"
+							>17</container>
+						<container parent="623a1683-83c2-4162-8545-b2bf9c65d5a2" type="folder"
+							>2</container>
+						<unittitle> Photographs; Inscribed (1 of 2). <unitdate normal="1955"
+								type="inclusive">1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7acc9eb8-612d-4838-a34f-d46683423eba" type="box"
+							>17</container>
+						<container parent="7acc9eb8-612d-4838-a34f-d46683423eba" type="folder"
+							>3</container>
+						<unittitle> Photographs; Inscribed (2 of 2). <unitdate normal="1955"
+								type="inclusive">1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="dc52d29b-465d-4526-8d13-e068cf3ac009" type="box"
+							>17</container>
+						<container parent="dc52d29b-465d-4526-8d13-e068cf3ac009" type="folder"
+							>4</container>
+						<unittitle> Photographs; Inscribed. <unitdate normal="1956" type="inclusive"
+								>1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="b53f6da8-2f98-4fa3-8e9a-e65da25ce19d" type="box"
+							>17</container>
+						<container parent="b53f6da8-2f98-4fa3-8e9a-e65da25ce19d" type="folder"
+							>5</container>
+						<unittitle> Photographs; Inscribed. <unitdate normal="1963" type="inclusive"
+								>1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="a2694423-1a45-40f9-a03e-d5c15f0c5d4c" type="box"
+							>17</container>
+						<container parent="a2694423-1a45-40f9-a03e-d5c15f0c5d4c" type="folder"
+							>6</container>
+						<unittitle> Photographs; Inscribed. <unitdate normal="1968" type="inclusive"
+								>1968</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="01b23b54-058f-4e48-9b63-7b3f15485bc7" type="box"
+							>17</container>
+						<container parent="01b23b54-058f-4e48-9b63-7b3f15485bc7" type="folder"
+							>7</container>
+						<unittitle> Photographs; Inscribed. <unitdate normal="1975" type="inclusive"
+								>1975</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="ed381c43-1834-45bf-9a1a-081765a78bd0" type="box"
+							>17</container>
+						<container parent="ed381c43-1834-45bf-9a1a-081765a78bd0" type="folder"
+							>8</container>
+						<unittitle> Photographs; Inscribed. <unitdate normal="1979" type="inclusive"
+								>1979</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="7226ad41-b344-427e-9506-f9856bb2dc41" type="box"
+							>17</container>
+						<container parent="7226ad41-b344-427e-9506-f9856bb2dc41" type="folder"
+							>9</container>
+						<unittitle> Photographs: Jacome's Exterior. <unitdate normal="1901/1980"
+								type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5af1bfe1-c6c4-4dac-aeab-5c4bd2a3f63e" type="box"
+							>17</container>
+						<container parent="5af1bfe1-c6c4-4dac-aeab-5c4bd2a3f63e" type="folder"
+							>10</container>
+						<unittitle> Photographs; Jacomes and Governor Obregon (Mexico). <unitdate
+								normal="1901/1980" type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="73ec22fd-6a66-47b9-a457-b608c5823779" type="box"
+							>17</container>
+						<container parent="73ec22fd-6a66-47b9-a457-b608c5823779" type="folder"
+							>11</container>
+						<unittitle> Photographs; Jacome's Interior. <unitdate normal="1901/1980"
+								type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="4312e1d5-8f2c-4fe6-8824-f80629094910" type="box"
+							>17</container>
+						<container parent="4312e1d5-8f2c-4fe6-8824-f80629094910" type="folder"
+							>12</container>
+						<unittitle> Photographs; La Bonanza Exterior. <unitdate normal="1901/1980"
+								type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="56d116a6-e869-4e24-9f6a-cedce312c9d0" type="box"
+							>17</container>
+						<container parent="56d116a6-e869-4e24-9f6a-cedce312c9d0" type="folder"
+							>13</container>
+						<unittitle> Photographs; La Bonanza Interior. <unitdate normal="1901/1980"
+								type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="5d0a93b5-a09f-437c-bf21-649fc9c561cb" type="box"
+							>17</container>
+						<container parent="5d0a93b5-a09f-437c-bf21-649fc9c561cb" type="folder"
+							>14</container>
+						<unittitle> Photographs; Park Brewery. <unitdate normal="1901/1980"
+								type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container id="459cd36a-e541-4c4c-9543-60ac755278c9" type="box"
+							>17</container>
+						<container parent="459cd36a-e541-4c4c-9543-60ac755278c9" type="folder"
+							>15</container>
+						<unittitle> Real Estate; Existing and Proposed Plans. <unitdate
+								normal="1901/1980" type="inclusive">1901-1980</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

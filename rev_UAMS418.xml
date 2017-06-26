@@ -1,0 +1,1856 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid encodinganalog="852">UAMS418</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Mary Louise Mabie Papers
+	 		<date calendar="gregorian" era="ce" normal="1864/1975">1864-1975</date></titleproper> 
+	 	<author>Processed by Michael J. Shallcross</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date calendar="gregorian" era="ce" normal="2011">2011</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Michael J. Shallcross. 
+		<date encodinganalog="date" era="ce" normal="200806">June 2008</date></creation> 
+	 <langusage>Finding aid is in<language langcode="eng"> English.</language></langusage> 
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-22">2017-06-22</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Mary Louise Mabie Papers,<date calendar="gregorian" era="ce">1864-1975</date></titleproper> 
+	 <num>Collection Number: MS 418</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+			<item>Michael J. Shallcross</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>June 2008</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Natalia Fernandez</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 20011. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name">Mary Louise Mabie Papers
+  		<unitdate label="Dates" normal="1864/1975" type="inclusive">1864-1975</unitdate></unittitle>	 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 418</unitid> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100">Mabie, Mary Louise</persname> </origination> 
+  	<abstract label="Abstract">Papers, 1864-1975 (bulk 1904-1972). This
+  		collection is comprised of the papers of Mary Louise Mabie. The bulk of the
+  		material relates to her lengthy literary career. The collection includes
+  		personal and professional correspondence, published and unpublished
+  		manuscripts, short stories, novels, poetry, a play, articles, and diaries. Also
+  		included are research material, legal papers, photographs, and scrapbooks. The
+  		collection also contains material relating to other members of her family.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent>9 linear feet</extent></physdesc>	 
+	 <repository label="Repository"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>No restrictions</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Mary Louise Mabie Papers(MS 418). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Mary Louise Mabie was born in 1904 at the home of her maternal
+  		grandparents, James H. and Mary Kennedy, in St. Nicholas Place, NYC. Her
+  		father, Webster Boutelle Mabie, was a New York real estate broker and her
+  		mother, Louise Kennedy Mabie, was a prolific short story writer whose work
+  		regularly appeared in magazines such as <emph render="italic">The Saturday
+  			Evening Post </emph>and <emph render="italic">Ladies' Home Journal</emph>. Her
+  		parents divorced in 1909 and Mary Louise Mabie was raised primarily by her
+  		mother and grandparents. She enjoyed a privileged upbringing: holidays spent in
+  		fashionable resorts, a secondary education at a private girls' school in New
+  		Jersey, and a European tour in 1922. As a teen she began writing stories and,
+  		under the pseudonym Hall Pegg, poems, many of which were published in
+  		newspapers and magazines. The Kennedy-Mabie household moved to California in
+  		1926 where mother and daughter continued their literary efforts. In 1928, Mary
+  		Louise Mabie's first novel, <emph render="italic">The Long Knives
+  			Walked</emph>, appeared in serial form (published in one volume in 1932); she
+  		would eventually produce a raft of short stories and four other novels:
+  		<emph render="italic">The Saints, the Devil, and the King</emph> (1930),
+  		<emph render="italic">The Pale Survivors</emph> (1934), <emph render="italic">The Root of the Lotus</emph> (1938), and <emph render="italic">Prepare Them for Caesar</emph> (1949). In 1948 she and her
+  		mother moved to Flagstaff, AZ and resided together until Louise Kennedy Mabie
+  		was confined to a sanitarium in the early 1950s. Around this time, Mary Louise
+  		Mabie began working as a reporter for <emph render="italic">The Arizona
+  			Republic</emph>, <emph render="italic">The Daily Sun</emph>, and Flagstaff's
+  		radio station KCLS. She was also briefly married to John "Slim" Ellis in the
+  		late 1950s; the union ended in divorce in 1960. After her mother's death in
+  		1957, Mary Louise Mabie achieved little literary success although she worked
+  		assiduously on projects concerning George Washington, Alexander Hamilton, and
+  		the Earl of Sandwich throughout the 1960s. She was declared mentally
+  		incompetent in 1971 and died the following year at the state hospital in
+  		Phoenix.</p>  
+  </bioghist> 
+  <arrangement encodinganalog="351$a"> 
+	 <head>Arrangement</head> 	 
+  	<p>This Collection is organized into 6 series (and 10 subseries)</p> 
+  	<list> 
+  		<item>Series I: Biographical Files, 
+  			<unitdate>1864-1975</unitdate></item> 
+  		<item>Series II: Correspondence, 
+  			<unitdate>1912-1970</unitdate></item> 
+  		<item>subseries 1: Business, 
+  			<unitdate>1913-1969</unitdate></item> 
+  		<item>subseries 2: Personal, 
+  			<unitdate>1912-1970</unitdate></item> 
+  		<item>Series III: Writings, 
+  			<unitdate>1916-1972</unitdate></item> 
+  		<item>subseries 1: Short Stories, 
+  			<unitdate>1918-1941</unitdate></item> 
+  		<item>subseries 2: Novels, 
+  			<unitdate>undated</unitdate></item> 
+  		<item>subseries 3: Plays, 
+  			<unitdate>undated</unitdate></item> 
+  		<item>subseries 4: Poetry, 
+  			<unitdate>1918-1972</unitdate></item> 
+  		<item>subseries 5: Articles, 
+  			<unitdate>1955-1961</unitdate></item> 
+  		<item>subseries 6: Research Files, 
+  			<unitdate>undated</unitdate></item> 
+  		<item>subseries 7: Legal Files, 
+  			<unitdate>1949-1961</unitdate></item> 
+  		<item>subseries 8: Diaries, 
+  			<unitdate>1916-1923, 1966</unitdate></item> 
+  		<item>Series IV: Photographs, 
+  			<unitdate>1866-1957</unitdate></item> 
+  		<item>Series V: Scrapbooks, 
+  			<unitdate>1900-1947</unitdate></item> 
+  		<item>Series VI: Oversize Photographs and Scrapbooks, 
+  			<unitdate>1908-1950</unitdate></item> 
+  	</list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p> Papers, 1864-1975 (bulk 1904-1972). This collection consists of the
+  		papers of the author Mary Louise Mabie. The bulk of the papers contain personal
+  		and professional correspondence, published and unpublished manuscripts, short
+  		stories, novels, poetry, a play, articles, and diaries. Also included are
+  		research material, legal papers, photographs, and scrapbooks. The collection
+  		also contains material relating to other members of her family, primarily
+  		biographical material, writings, correspondence, photographs, and
+  		scrapbooks.</p>  
+  </scopecontent> 
+  <controlaccess> 
+	 <persname>Mabie, Mary Louise</persname><persname>Mabie, Louise Kennedy</persname><subject>Women authors</subject><subject>Authors, American - 20th century - Archives</subject></controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		  <did> 
+			 <unittitle>Series I: Biographical Files 
+				<unitdate type="inclusive">1864-1975</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>This series contains biographical materials associated with Mary
+				Louise Mabie. It includes a baby book, certificates, drawings, news clippings,
+				and material associated with her estate as well as materials relating to her
+				parents and maternal grandfather.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="e20f3982-38a8-48b7-8444-c663bd2017f6" type="box">1</container> 
+				<container parent="e20f3982-38a8-48b7-8444-c663bd2017f6" type="folder">1</container> 
+				<unittitle>Kennedy, James H - General. 
+				  <unitdate>1864-1940</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="be38f516-3b6a-4262-8b6f-6923065feb8f" type="box">1</container> 
+				<container parent="be38f516-3b6a-4262-8b6f-6923065feb8f" type="folder">2</container> 
+				<unittitle>Mabie Family - Portrait. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="c7727f4a-48b8-439e-8f57-11de56e8e29a" type="box">1</container> 
+				<container parent="c7727f4a-48b8-439e-8f57-11de56e8e29a" type="folder">3</container> 
+				<unittitle>Mabie, Louise Kennedy - General. 
+				  <unitdate>1900-1957</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="6fa22399-dd46-4fe9-b272-f1424a678b2c" type="box">1</container> 
+				<container parent="6fa22399-dd46-4fe9-b272-f1424a678b2c" type="folder">4</container> 
+				<unittitle>Mabie, Mary Louise - <emph render="italic">The Baby's
+				  Biography</emph>. 
+				  <unitdate>1904-1910</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="de122120-93fb-4e83-8104-4c47252b8576" type="box">1</container> 
+				<container parent="de122120-93fb-4e83-8104-4c47252b8576" type="folder">5</container> 
+				<unittitle>Mabie, Mary Louise - Certificates and Identification. 
+				  <unitdate>1904-1972</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="bee068d1-8122-43ac-9d88-1307aeb30fd8" type="box">1</container> 
+				<container parent="bee068d1-8122-43ac-9d88-1307aeb30fd8" type="folder">6</container> 
+				<unittitle>Mabie, Mary Louise - Drawings. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="019b37c4-67cb-498d-8a8b-617c11a235fc" type="box">1</container> 
+				<container parent="019b37c4-67cb-498d-8a8b-617c11a235fc" type="folder">7</container> 
+				<unittitle>Mabie, Mary Louise - Estate. 
+				  <unitdate>undated, 1971-1972</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="23c21eb7-0272-4543-8a16-086f6ed5aa4e" type="box">1</container> 
+				<container parent="23c21eb7-0272-4543-8a16-086f6ed5aa4e" type="folder">8</container> 
+				<unittitle>Mabie, Mary Louise - General. 
+				  <unitdate>undated, 1922-1933</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="81b5f04c-bad8-4f85-b083-e8bd34735af9" type="box">1</container> 
+				<container parent="81b5f04c-bad8-4f85-b083-e8bd34735af9" type="folder">9</container> 
+				<unittitle>Mabie, Mary Louise - News Clippings. 
+				  <unitdate>1921-1972</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="43f88697-1d31-4055-b847-6780e77c8b8f" type="box">1</container> 
+				<container parent="43f88697-1d31-4055-b847-6780e77c8b8f" type="folder">10</container> 
+				<unittitle>Mabie, Mary Louise - Personal Remembrances. 
+				  <unitdate>1972-1975</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="9ff4c650-8e5f-4e52-a3be-8a32f942ce84" type="box">1</container> 
+				<container parent="9ff4c650-8e5f-4e52-a3be-8a32f942ce84" type="folder">11</container> 
+				<unittitle>Mabie, Webster Boutelle - General. 
+				  <unitdate>1894-1940</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series II: Correspondence, 
+				<unitdate type="inclusive">1912-1970</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>This series is divided into two subseries:</p>
+			 <p> <emph render="bold">Business (1913-1969)</emph> contains correspondence between Mary
+				Louise Mabie and various publishers, agents, and editors. Also included is the
+				business correspondence of Louise Kennedy Mabie.</p>
+				<p> <emph render="bold">Personal (1912-1970)</emph> contains correspondence between Mary Louise Mabie and
+				family, friends, and the Christian Children's Fund. It also includes the
+				personal correspondence of various family members. </p> 
+		  </scopecontent> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>subseries 1: Business, 
+				  <unitdate type="inclusive">1913-1969</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="24d24f10-f3bd-4df6-8ffc-bf49ba63b562" type="box">1</container> 
+				  <container parent="24d24f10-f3bd-4df6-8ffc-bf49ba63b562" type="folder">12</container> 
+				  <unittitle> Mabie, Louise Kennedy - General. 
+					 <unitdate>undated, 1913-1957</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="905a8e1f-65ac-4ac9-aa67-803b30be26a8" type="box">1</container> 
+				  <container parent="905a8e1f-65ac-4ac9-aa67-803b30be26a8" type="folder">13</container> 
+				  <unittitle> Mabie, Mary Louise - Brandt and Brandt. 
+					 <unitdate>1953-1968</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c570c372-2e1d-47df-aaf6-7381c3771579" type="box">1</container> 
+				  <container parent="c570c372-2e1d-47df-aaf6-7381c3771579" type="folder">14</container> 
+				  <unittitle> Mabie, Mary Louise - <emph render="italic">The Daily
+					 Sun</emph> (Flagstaff). 
+					 <unitdate>1954</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f1cf811d-64b6-4588-8fbc-fd4fd6b2ae75" type="box">1</container> 
+				  <container parent="f1cf811d-64b6-4588-8fbc-fd4fd6b2ae75" type="folder">15</container> 
+				  <unittitle> Mabie, Mary Louise - General. 
+					 <unitdate>undated, 1942-1969</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f44b41f0-d4e3-4dc2-99cb-9d5b754561cb" type="box">1</container> 
+				  <container parent="f44b41f0-d4e3-4dc2-99cb-9d5b754561cb" type="folder">16</container> 
+				  <unittitle> Mabie, Mary Louise - Paul R. Reynolds &amp; Sons. 
+					 <unitdate>1956-1969</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="41cb7c44-70fa-4d76-b018-08d98617a5ef" type="box">1</container> 
+				  <container parent="41cb7c44-70fa-4d76-b018-08d98617a5ef" type="folder">17</container> 
+				  <unittitle> Mabie, Mary Louise - Laura Wilck. 
+					 <unitdate>1952-1960</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>subseries 2: Personal, 
+				  <unitdate type="inclusive">1912-1970</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="01638dc2-7455-43c0-a764-b5da8322d832" type="box">1</container> 
+				  <container parent="01638dc2-7455-43c0-a764-b5da8322d832" type="folder">18</container> 
+				  <unittitle> Ellis, John ("Slim")- General. 
+					 <unitdate>1958-1960</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="539b337f-c3d2-4d70-a46a-7a4d05658422" type="box">1</container> 
+				  <container parent="539b337f-c3d2-4d70-a46a-7a4d05658422" type="folder">19</container> 
+				  <unittitle> Kennedy Family - General. 
+					 <unitdate>undated, 1922-1932</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="cdc187bc-ee8f-4a2e-81e7-ecdfeaced6e4" type="box">1</container> 
+				  <container parent="cdc187bc-ee8f-4a2e-81e7-ecdfeaced6e4" type="folder">20</container> 
+				  <unittitle> Mabie, Louise Kennedy - General. 
+					 <unitdate>undated, 1913-1949</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="44296ee0-ea4c-4312-9961-fbf0d526aa6f" type="box">1</container> 
+				  <container parent="44296ee0-ea4c-4312-9961-fbf0d526aa6f" type="folder">21</container> 
+				  <unittitle> Mabie, Mary Louise - Christian Children's Fund. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ac0bb2ae-d4eb-40b5-a0e5-73b50056dcef" type="box">1</container> 
+				  <container parent="ac0bb2ae-d4eb-40b5-a0e5-73b50056dcef" type="folder">22</container> 
+				  <unittitle> Mabie, Mary Louise - Christian Children's Fund. 
+					 <unitdate>1954-1959</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="7e79a08e-96f8-4da7-9b26-7a8b73fd8dd6" type="box">1</container> 
+				  <container parent="7e79a08e-96f8-4da7-9b26-7a8b73fd8dd6" type="folder">23</container> 
+				  <unittitle> Mabie, Mary Louise - General. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="46fca089-039e-41e4-b456-271f6e6b9d34" type="box">1</container> 
+				  <container parent="46fca089-039e-41e4-b456-271f6e6b9d34" type="folder">24</container> 
+				  <unittitle> Mabie, Mary Louise - General. 
+					 <unitdate>1912-1948</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5f9a66c6-4634-4372-ba09-364ba5d434e1" type="box">1</container> 
+				  <container parent="5f9a66c6-4634-4372-ba09-364ba5d434e1" type="folder">25</container> 
+				  <unittitle> Mabie, Mary Louise - General. 
+					 <unitdate>1950-1970</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a7d0abea-0bfc-4596-9414-7aecf32553b8" type="box">1</container> 
+				  <container parent="a7d0abea-0bfc-4596-9414-7aecf32553b8" type="folder">26</container> 
+				  <unittitle> Mabie, Mary Louise - John Hecker. 
+					 <unitdate>1918-1919</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series III: Writings, 
+				<unitdate type="inclusive">1916-1972</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>This series contains the published and unpublished writings of
+				Mary Louise Mabie. The Writings Series is divided into eight subseries:</p> 
+			 <p><emph render="bold">Subseries 1: Short Stories, 1918-1941</emph>
+				contains mostly undated drafts of stories by Mary Louise Mabie (including
+				several written under the nom de plume "Webster Boutelle") as well as those by
+				Louise Kennedy Mabie and James H. Kennedy.</p> 
+			 <p><emph render="bold"> Subseries 2: Novels, undated </emph> contains
+				drafts of published and unpublished novels by Mary Louise Mabie.</p> 
+			 <p> <emph render="bold">Subseries 3: Plays, undated</emph> contains a
+				draft of a play written by Mary Louise Mabie.</p> 
+			 <p><emph render="bold">Subseries 4: Poetry, 1918-1972</emph> contains
+				writing journals and poems produced by Mary Louise Mabie under her own name as
+				well as under the pseudonym Hall Pegg.</p> 
+			 <p> <emph render="bold"> Subseries 5: Articles, 1955-1961</emph>
+				contains articles and news clippings written by Mary Louise Mabie.</p> 
+			 <p><emph render="bold"> Subseries 6: Research Files, undated </emph>
+				contains research materials largely composed of Mary Louise Mabie's reading
+				notes as well as information on northern Arizona.</p> 
+			 <p><emph render="bold"> Subseries 7: Legal Files, 1949-1961 </emph>
+				contains contracts, copyrights, and royalty statements.</p> 
+			 <p> <emph render="bold">Subseries 8: Diaries, 1916-1923, 1966</emph>
+				contains the personal diaries of Mary Louise Mabie.</p> 
+		  </scopecontent> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>subseries 1: Short Stories, 
+				  <unitdate type="inclusive">1918-1941</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="34684892-a015-49b2-95be-2db252e2bd35" type="box">1</container> 
+				  <container parent="34684892-a015-49b2-95be-2db252e2bd35" type="folder">27</container> 
+				  <unittitle> "The Ambassador Has a Wife." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a8732402-6d89-4e6b-a933-04432ed2db43" type="box">1</container> 
+				  <container parent="a8732402-6d89-4e6b-a933-04432ed2db43" type="folder">28</container> 
+				  <unittitle> "And the Finns Came." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2024567a-4ecf-434b-b5d0-5388665110f8" type="box">1</container> 
+				  <container parent="2024567a-4ecf-434b-b5d0-5388665110f8" type="folder">29</container> 
+				  <unittitle> "Ballerina, Dance." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="85cc6ca3-4833-40b3-ba61-99d15f6f40ec" type="box">1</container> 
+				  <container parent="85cc6ca3-4833-40b3-ba61-99d15f6f40ec" type="folder">30</container> 
+				  <unittitle> "Bappy and the Ford." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="47b80158-df17-47e7-a839-5397b25209b6" type="box">1</container> 
+				  <container parent="47b80158-df17-47e7-a839-5397b25209b6" type="folder">31</container> 
+				  <unittitle> "Black John's Rock." 
+					 <unitdate>1937</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="46289cb7-99cb-4dab-a545-6d4389a5dbfe" type="box">1</container> 
+				  <container parent="46289cb7-99cb-4dab-a545-6d4389a5dbfe" type="folder">32</container> 
+				  <unittitle> "Bracelets." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b1b8f1ae-38f3-4ed0-a12f-5c029a2b916f" type="box">1</container> 
+				  <container parent="b1b8f1ae-38f3-4ed0-a12f-5c029a2b916f" type="folder">33</container> 
+				  <unittitle> "Bucky." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5fccce11-3595-4f7e-90db-207b86990a40" type="box">1</container> 
+				  <container parent="5fccce11-3595-4f7e-90db-207b86990a40" type="folder">34</container> 
+				  <unittitle> "The Chromium Penny." 
+					 <unitdate>1940</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="ebbd2019-18fb-4856-b1ec-2d2c7dc42db8" type="box">1</container> 
+				  <container parent="ebbd2019-18fb-4856-b1ec-2d2c7dc42db8" type="folder">35</container> 
+				  <unittitle> "Cicero and Cleopatra." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="13b6442f-4910-48b2-b36d-369d1391fb69" type="box">1</container> 
+				  <container parent="13b6442f-4910-48b2-b36d-369d1391fb69" type="folder">36</container> 
+				  <unittitle> "Deb." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f46abf29-010c-4de1-b142-a14085c2d166" type="box">1</container> 
+				  <container parent="f46abf29-010c-4de1-b142-a14085c2d166" type="folder">37</container> 
+				  <unittitle> "The Drinking Man." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6fc5fe05-a035-4f07-b79f-fbef56dbe59f" type="box">1</container> 
+				  <container parent="6fc5fe05-a035-4f07-b79f-fbef56dbe59f" type="folder">38</container> 
+				  <unittitle> "Front Street." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="7a0fb9f6-384c-47f4-a22c-79c51f42e345" type="box">1</container> 
+				  <container parent="7a0fb9f6-384c-47f4-a22c-79c51f42e345" type="folder">39-40</container> 
+				  <unittitle> "The Frozen Piano." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="46102502-d8f1-434e-8efa-78cff4f348e1" type="box">1</container> 
+				  <container parent="46102502-d8f1-434e-8efa-78cff4f348e1" type="folder">41-42</container> 
+				  <unittitle> "How Mother Won the First World War." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0ac5dfbf-78cb-455f-b36d-5d048dc966bf" type="box">1</container> 
+				  <container parent="0ac5dfbf-78cb-455f-b36d-5d048dc966bf" type="folder">43</container> 
+				  <unittitle> "Hunger Moon." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="05647a19-4c10-44b3-a35e-159586a106ca" type="box">1</container> 
+				  <container parent="05647a19-4c10-44b3-a35e-159586a106ca" type="folder">44</container> 
+				  <unittitle> "Luck at Trenton in the Snow." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e8f79e2e-22ab-4827-b636-12d6d9e4add4" type="box">1</container> 
+				  <container parent="e8f79e2e-22ab-4827-b636-12d6d9e4add4" type="folder">45</container> 
+				  <unittitle> "Mr. J." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="de9ce5db-14b8-4de1-ba5d-cfa6e3c979d9" type="box">1</container> 
+				  <container parent="de9ce5db-14b8-4de1-ba5d-cfa6e3c979d9" type="folder">46</container> 
+				  <unittitle> "Never Meet a Stranger." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="325dc3b2-0193-485d-8373-f0d6a26da529" type="box">1</container> 
+				  <container parent="325dc3b2-0193-485d-8373-f0d6a26da529" type="folder">47-48</container> 
+				  <unittitle> "No Details" (by Webster Boutelle). 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6424133c-295a-4e28-ae7a-5a592d7290a5" type="box">1</container> 
+				  <container parent="6424133c-295a-4e28-ae7a-5a592d7290a5" type="folder">49</container> 
+				  <unittitle> "One Cocker Spaniel Going North." 
+					 <unitdate>1925</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="cc9c93ba-8d2f-4001-85d8-5b50fe9b94c8" type="box">1</container> 
+				  <container parent="cc9c93ba-8d2f-4001-85d8-5b50fe9b94c8" type="folder">50</container> 
+				  <unittitle> "One Cocker Spaniel Going North." 
+					 <unitdate>1926</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="af673a76-bc45-4890-9c0d-b1e83317f5a8" type="box">1</container> 
+				  <container parent="af673a76-bc45-4890-9c0d-b1e83317f5a8" type="folder">51</container> 
+				  <unittitle> "Someone's Waiting to Get You." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8fb71acf-6951-46a6-9fc4-a40c1e497dcb" type="box">1</container> 
+				  <container parent="8fb71acf-6951-46a6-9fc4-a40c1e497dcb" type="folder">52</container> 
+				  <unittitle> "Three Days Away from This Town." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4ec365da-d466-4003-a483-eb2f2a500fc1" type="box">1</container> 
+				  <container parent="4ec365da-d466-4003-a483-eb2f2a500fc1" type="folder">53-54</container> 
+				  <unittitle> "Thunder Gust." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="81abfe61-0e62-4564-abbd-fae324b32d78" type="box">1</container> 
+				  <container parent="81abfe61-0e62-4564-abbd-fae324b32d78" type="folder">55</container> 
+				  <unittitle>Boutelle, Webster - "Tumbleweed." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="17d5c59a-90b1-4256-8ba3-964c57bd042f" type="box">1</container> 
+				  <container parent="17d5c59a-90b1-4256-8ba3-964c57bd042f" type="folder">56</container> 
+				  <unittitle>Boutelle, Webster - "Two Stars Collide." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="018a662b-b7bd-4801-9938-e6ef047fb9d0" type="box">1</container> 
+				  <container parent="018a662b-b7bd-4801-9938-e6ef047fb9d0" type="folder">57</container> 
+				  <unittitle>Boutelle, Webster - "The Wedding." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="fdaac4c3-8d8f-492f-b060-d7d17f324996" type="box">1</container> 
+				  <container parent="fdaac4c3-8d8f-492f-b060-d7d17f324996" type="folder">58</container> 
+				  <unittitle>Boutelle, Webster - "Whipping the Devil Around a
+					 Stump." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="83d86b38-07bb-427d-827e-df7c390fb204" type="box">1</container> 
+				  <container parent="83d86b38-07bb-427d-827e-df7c390fb204" type="folder">59</container> 
+				  <unittitle>Kennedy, James H. - "John Brombacher's Hired Man." 
+					 <unitdate>1918</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8e44b934-7966-44a4-838b-776bdc56da3e" type="box">1</container> 
+				  <container parent="8e44b934-7966-44a4-838b-776bdc56da3e" type="folder">60</container> 
+				  <unittitle>Kennedy, James H. - "Side-Stepping the Clocks." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6a35daec-d382-4f90-b707-eb975bfe73bb" type="box">1</container> 
+				  <container parent="6a35daec-d382-4f90-b707-eb975bfe73bb" type="folder">61</container> 
+				  <unittitle>Mabie, Louise Kennedy - "The Alaskan Serial." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4a4162c5-cfd2-49ad-8abd-6b6f806bb0ef" type="box">1</container> 
+				  <container parent="4a4162c5-cfd2-49ad-8abd-6b6f806bb0ef" type="folder">62</container> 
+				  <unittitle>Mabie, Louise Kennedy - "And a Man Named Wall." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e13c6768-4e2e-4351-8f70-eb055d5c1038" type="box">1</container> 
+				  <container parent="e13c6768-4e2e-4351-8f70-eb055d5c1038" type="folder">63</container> 
+				  <unittitle>Mabie, Louise Kennedy - "The Artificial Moon." 
+					 <unitdate>1929</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5e8c2088-1925-4f7f-b43a-8e4e13e6297c" type="box">1</container> 
+				  <container parent="5e8c2088-1925-4f7f-b43a-8e4e13e6297c" type="folder">64</container> 
+				  <unittitle>Mabie, Louise Kennedy - "At the Drop of a Hat." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4f0dfa6d-1c90-433f-9e8d-566094d2c990" type="box">2</container> 
+				  <container parent="4f0dfa6d-1c90-433f-9e8d-566094d2c990" type="folder">1</container> 
+				  <unittitle>Mabie, Louise Kennedy - "The Bird of Paradise." 
+					 <unitdate>1921</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="79811de3-e660-4e2b-875a-2f46b0de0e6e" type="box">2</container> 
+				  <container parent="79811de3-e660-4e2b-875a-2f46b0de0e6e" type="folder">2</container> 
+				  <unittitle>Mabie, Louise Kennedy - "Come In, Ellen." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c0514293-a258-4f71-8658-fecfb09b5343" type="box">2</container> 
+				  <container parent="c0514293-a258-4f71-8658-fecfb09b5343" type="folder">3</container> 
+				  <unittitle>Mabie, Louise Kennedy - "The Doctor." 
+					 <unitdate>1934</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a97284b6-fdb1-496a-a18c-2942abf4fd75" type="box">2</container> 
+				  <container parent="a97284b6-fdb1-496a-a18c-2942abf4fd75" type="folder">4</container> 
+				  <unittitle>Mabie, Louise Kennedy - "The Duchess Wore Black." 
+					 <unitdate>1941</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c88f8c9b-bb0d-4942-ad28-cb976e1672fd" type="box">2</container> 
+				  <container parent="c88f8c9b-bb0d-4942-ad28-cb976e1672fd" type="folder">5</container> 
+				  <unittitle>Mabie, Louise Kennedy - "Farthest West." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="fadfa45a-7424-4ae2-8b4e-c3a9a1418a2d" type="box">2</container> 
+				  <container parent="fadfa45a-7424-4ae2-8b4e-c3a9a1418a2d" type="folder">6</container> 
+				  <unittitle>Mabie, Louise Kennedy - "The First Mrs. Carrick." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f17057f2-60e3-4330-b73d-6f4095225c3d" type="box">2</container> 
+				  <container parent="f17057f2-60e3-4330-b73d-6f4095225c3d" type="folder">7</container> 
+				  <unittitle>Mabie, Louise Kennedy - "Five Painted Star." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8c4217e4-6dfb-4024-b28a-f14b8a736ff4" type="box">2</container> 
+				  <container parent="8c4217e4-6dfb-4024-b28a-f14b8a736ff4" type="folder">8</container> 
+				  <unittitle>Mabie, Louise Kennedy - "Flower of a Chance." 
+					 <unitdate>1934</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c5b0e4ab-729b-4c83-b6d4-506b9687a8fd" type="box">2</container> 
+				  <container parent="c5b0e4ab-729b-4c83-b6d4-506b9687a8fd" type="folder">9</container> 
+				  <unittitle>Mabie, Louise Kennedy - "General Grant's Bedroom." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b280da4d-4c8a-4a53-a881-710f495b37c5" type="box">2</container> 
+				  <container parent="b280da4d-4c8a-4a53-a881-710f495b37c5" type="folder">10</container> 
+				  <unittitle>Mabie, Louise Kennedy - "John All Alone." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6682ea97-c38e-475b-959e-03a55424a630" type="box">2</container> 
+				  <container parent="6682ea97-c38e-475b-959e-03a55424a630" type="folder">11</container> 
+				  <unittitle>Mabie, Louise Kennedy - "A Kiss for Mr. Lincoln." 
+					 <unitdate>1941</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="3afa7020-5951-4311-83f9-fd0bdd842893" type="box">2</container> 
+				  <container parent="3afa7020-5951-4311-83f9-fd0bdd842893" type="folder">12</container> 
+				  <unittitle>Mabie, Louise Kennedy - "The Ladies from Colorado." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="842b4818-0658-44f4-a771-04d321623959" type="box">2</container> 
+				  <container parent="842b4818-0658-44f4-a771-04d321623959" type="folder">13</container> 
+				  <unittitle>Mabie, Louise Kennedy - "Madame Venus." 
+					 <unitdate>1928</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="b572ea63-9904-4592-a80b-1c3ac8151a8b" type="box">2</container> 
+				  <container parent="b572ea63-9904-4592-a80b-1c3ac8151a8b" type="folder">14</container> 
+				  <unittitle>Mabie, Louise Kennedy - "A Modern Fable." 
+					 <unitdate>1918</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="982b93fd-d179-4e53-ba91-46ea9eccc1d8" type="box">2</container> 
+				  <container parent="982b93fd-d179-4e53-ba91-46ea9eccc1d8" type="folder">15</container> 
+				  <unittitle>Mabie, Louise Kennedy - "The Tinselfish." 
+					 <unitdate>1929</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="66e873d1-958f-41e6-ba6f-a345117377ae" type="box">2</container> 
+				  <container parent="66e873d1-958f-41e6-ba6f-a345117377ae" type="folder">16</container> 
+				  <unittitle>Mabie, Louise Kennedy - "Willow Street Door." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>subseries 2: Novels, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8b549583-e2d2-4ac6-b40b-95192c71ae8e" type="box">2</container> 
+				  <container parent="8b549583-e2d2-4ac6-b40b-95192c71ae8e" type="folder">17</container> 
+				  <unittitle> <emph render="italic">Call Colonel Hamilton</emph>. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="1a314346-d2e1-4ed2-a8b9-ad1adc63cb51" type="box">2</container> 
+				  <container parent="1a314346-d2e1-4ed2-a8b9-ad1adc63cb51" type="folder">18-19</container> 
+				  <unittitle> <emph render="italic">Martel</emph>. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9413db95-ece1-41d8-adf4-439772c331c0" type="box">2</container> 
+				  <container parent="9413db95-ece1-41d8-adf4-439772c331c0" type="folder">20-21</container> 
+				  <unittitle> <emph render="italic">My Country, My Country, My
+					 Country</emph>. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="3572d66d-795b-4897-bf7e-caf61fbf56bd" type="box">2</container> 
+				  <container parent="3572d66d-795b-4897-bf7e-caf61fbf56bd" type="folder">22-23</container> 
+				  <unittitle> <emph render="italic">The Pale Survivors</emph>. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="fe678301-7e5e-4580-8483-60800bd73a15" type="box">2</container> 
+				  <container parent="fe678301-7e5e-4580-8483-60800bd73a15" type="folder">24</container> 
+				  <unittitle> <emph render="italic">Prepare Them for Caesar</emph>.
+					 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f62fe11d-c679-4b90-9d4e-7b75ac0699a6" type="box">2</container> 
+				  <container parent="f62fe11d-c679-4b90-9d4e-7b75ac0699a6" type="folder">25-26</container> 
+				  <unittitle> <emph render="italic">The Saints, the Devil and the
+					 King</emph>. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>subseries 3: Plays, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="3e9735d9-8a8b-404e-84c9-07012b84efb3" type="box">2</container> 
+				  <container parent="3e9735d9-8a8b-404e-84c9-07012b84efb3" type="folder">27</container> 
+				  <unittitle> <emph render="italic">Concerto</emph>. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>subseries 4: Poetry, 
+				  <unitdate type="inclusive">1918-1972</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c2856b3a-8439-483d-8c48-979617e80616" type="box">2</container> 
+				  <container parent="c2856b3a-8439-483d-8c48-979617e80616" type="folder">28</container> 
+				  <unittitle> "America." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a1a9b705-78ec-466b-9a36-19af41298551" type="box">2</container> 
+				  <container parent="a1a9b705-78ec-466b-9a36-19af41298551" type="folder">29</container> 
+				  <unittitle> "Bright Ashes." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="07c264a9-e3c1-40ad-86f8-a09e6214c09d" type="box">2</container> 
+				  <container parent="07c264a9-e3c1-40ad-86f8-a09e6214c09d" type="folder">30</container> 
+				  <unittitle> "Bright Ashes." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="433cd2c5-386b-4958-a032-b606cd629dd7" type="box">2</container> 
+				  <container parent="433cd2c5-386b-4958-a032-b606cd629dd7" type="folder">31</container> 
+				  <unittitle> Manuscripts. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="570c970e-dda3-4d4d-9c44-a1137ba6b1cb" type="box">2</container> 
+				  <container parent="570c970e-dda3-4d4d-9c44-a1137ba6b1cb" type="folder">32</container> 
+				  <unittitle> Post Card Poems. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d9218fb2-6c95-47db-a874-7cede7eeda73" type="box">2</container> 
+				  <container parent="d9218fb2-6c95-47db-a874-7cede7eeda73" type="folder">33</container> 
+				  <unittitle> "The Red Feather" (in <emph render="italic">Opus
+					 Scribendi</emph>). 
+					 <unitdate>1918</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="7c5090db-8110-414a-ba04-c29635138cf9" type="box">2</container> 
+				  <container parent="7c5090db-8110-414a-ba04-c29635138cf9" type="folder">34</container> 
+				  <unittitle> "Summer Storms" (in <emph render="italic">Pacifica</emph>). 
+					 <unitdate>1972</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9d1d5ca5-ed89-476a-ba0d-18696826c3a5" type="box">3</container> 
+				  <container parent="9d1d5ca5-ed89-476a-ba0d-18696826c3a5" type="folder">1</container> 
+				  <unittitle> Notebooks. 
+					 <unitdate>1921-1923</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c245b38b-97a3-4666-9a7d-e75dd433ed7c" type="box">3</container> 
+				  <container parent="c245b38b-97a3-4666-9a7d-e75dd433ed7c" type="folder">2</container> 
+				  <unittitle> Notebooks. 
+					 <unitdate>1923-1924</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e096e23c-0152-4f2e-9d3c-c2dd9b69ca22" type="box">3</container> 
+				  <container parent="e096e23c-0152-4f2e-9d3c-c2dd9b69ca22" type="folder">3</container> 
+				  <unittitle> Notebooks. 
+					 <unitdate>1950s</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="852ddea6-8c52-4cc4-9814-44a3868245bc" type="box">3</container> 
+				  <container parent="852ddea6-8c52-4cc4-9814-44a3868245bc" type="folder">4</container> 
+				  <unittitle> Pegg, Hall - Notebooks. 
+					 <unitdate>1923-1928</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>subseries 5: Articles, 
+				  <unitdate type="inclusive">1955-1961</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2075166b-49df-4ead-ae68-1495baf0c11c" type="box">3</container> 
+				  <container parent="2075166b-49df-4ead-ae68-1495baf0c11c" type="folder">5</container> 
+				  <unittitle> <emph render="italic">Arizona Republic</emph>. 
+					 <unitdate>1955</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8705d79a-31a6-4ae6-99b2-ceec0b292411" type="box">3</container> 
+				  <container parent="8705d79a-31a6-4ae6-99b2-ceec0b292411" type="folder">6</container> 
+				  <unittitle> <emph render="italic">Arizona Republic</emph>. 
+					 <unitdate>1956</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e18d038f-40b9-48ff-9faf-7fe5b08388a7" type="box">3</container> 
+				  <container parent="e18d038f-40b9-48ff-9faf-7fe5b08388a7" type="folder">7</container> 
+				  <unittitle> <emph render="italic">Arizona Republic</emph>. 
+					 <unitdate>1957</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="29a236ff-508f-40fa-aeea-3a3000db9ef6" type="box">3</container> 
+				  <container parent="29a236ff-508f-40fa-aeea-3a3000db9ef6" type="folder">8</container> 
+				  <unittitle> <emph render="italic">Arizona Republic</emph>. 
+					 <unitdate>1958</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="54be0ed4-8182-4bef-87fe-6337d2bc4de4" type="box">3</container> 
+				  <container parent="54be0ed4-8182-4bef-87fe-6337d2bc4de4" type="folder">9</container> 
+				  <unittitle> "Blaw Knox at the Dam." 
+					 <unitdate>1961</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4305f926-d68d-4e16-89c8-6aa9000a3cde" type="box">3</container> 
+				  <container parent="4305f926-d68d-4e16-89c8-6aa9000a3cde" type="folder">10</container> 
+				  <unittitle> "Careful, Pardner - I am Referring to the Town I
+					 Love." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="9edba851-a1de-4aa2-894e-93874c279a1c" type="box">3</container> 
+				  <container parent="9edba851-a1de-4aa2-894e-93874c279a1c" type="folder">11</container> 
+				  <unittitle> Crime Reporting. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a137836f-a9cf-4c21-b598-185a5e731dcc" type="box">3</container> 
+				  <container parent="a137836f-a9cf-4c21-b598-185a5e731dcc" type="folder">12-15</container> 
+				  <unittitle> General. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="cc313349-7517-4c5c-8779-fad597c233bc" type="box">3</container> 
+				  <container parent="cc313349-7517-4c5c-8779-fad597c233bc" type="folder">16</container> 
+				  <unittitle> KCLS Radio Reports. 
+					 <unitdate>1955-1957</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="334456b6-cc66-45bc-a30c-fce4c04b5a13" type="box">3</container> 
+				  <container parent="334456b6-cc66-45bc-a30c-fce4c04b5a13" type="folder">17</container> 
+				  <unittitle> Obituaries. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e758cf60-c10f-4ee9-894e-c1a0b5cdf859" type="box">3</container> 
+				  <container parent="e758cf60-c10f-4ee9-894e-c1a0b5cdf859" type="folder">18</container> 
+				  <unittitle> "A Spanish Wedding Near Us in Ciudad Obregon,
+					 Sonora." 
+					 <unitdate>1957</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="68413dae-1dc1-46e3-8767-f3385e830def" type="box">3</container> 
+				  <container parent="68413dae-1dc1-46e3-8767-f3385e830def" type="folder">19</container> 
+				  <unittitle> "You can Have Supai." 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>subseries 6: Research Files, 
+				  <unitdate type="inclusive">undated</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="faa8ca33-05c2-42ad-8f39-8f8a43101917" type="box">3</container> 
+				  <container parent="faa8ca33-05c2-42ad-8f39-8f8a43101917" type="folder">20</container> 
+				  <unittitle> Literature - Auden, W.H. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f0bc9da9-39cc-4541-b0bd-b321fa2048d0" type="box">3</container> 
+				  <container parent="f0bc9da9-39cc-4541-b0bd-b321fa2048d0" type="folder">21</container> 
+				  <unittitle> Literature - Boswell, James. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="8f1731fe-efe7-4111-9521-2b6f67e584f2" type="box">3</container> 
+				  <container parent="8f1731fe-efe7-4111-9521-2b6f67e584f2" type="folder">22</container> 
+				  <unittitle> Literature - Browning, Elizabeth Barrett. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="1292c612-c2fe-41ce-98f2-41d4c9bfa7ae" type="box">3</container> 
+				  <container parent="1292c612-c2fe-41ce-98f2-41d4c9bfa7ae" type="folder">23</container> 
+				  <unittitle> Literature - Buck, Pearl S. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="3e2f4d07-daa2-4157-a2c9-3cbed46f907e" type="box">3</container> 
+				  <container parent="3e2f4d07-daa2-4157-a2c9-3cbed46f907e" type="folder">24</container> 
+				  <unittitle> Literature - Cather, Willa. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="abdcd7e3-131d-44e2-8eec-85f3c91b32f2" type="box">3</container> 
+				  <container parent="abdcd7e3-131d-44e2-8eec-85f3c91b32f2" type="folder">25</container> 
+				  <unittitle> Literature - Collier, Jeremy. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6258726f-f4f2-4d50-bc21-f3b4d6ce6c3f" type="box">3</container> 
+				  <container parent="6258726f-f4f2-4d50-bc21-f3b4d6ce6c3f" type="folder">26</container> 
+				  <unittitle> Literature - Dobson, Austen. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e3413426-8e57-4b53-bfb3-e08bcffecf64" type="box">3</container> 
+				  <container parent="e3413426-8e57-4b53-bfb3-e08bcffecf64" type="folder">27</container> 
+				  <unittitle> Literature - Douglas, Norman. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d30f1c7a-9f1b-4797-bd64-132b049c92f2" type="box">3</container> 
+				  <container parent="d30f1c7a-9f1b-4797-bd64-132b049c92f2" type="folder">28</container> 
+				  <unittitle> Literature - Faulkner, William. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="5229c276-8a41-4c07-bd1b-7394997e54b0" type="box">3</container> 
+				  <container parent="5229c276-8a41-4c07-bd1b-7394997e54b0" type="folder">29</container> 
+				  <unittitle> Literature - Frost, Robert. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f85dc53c-4882-45c4-b8c9-f3f2b546467b" type="box">3</container> 
+				  <container parent="f85dc53c-4882-45c4-b8c9-f3f2b546467b" type="folder">30</container> 
+				  <unittitle> Literature - Goldsmith, Oliver. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="0247753b-f0a2-43f5-99c8-71ccb429a825" type="box">3</container> 
+				  <container parent="0247753b-f0a2-43f5-99c8-71ccb429a825" type="folder">31</container> 
+				  <unittitle> Literature - Greek Drama. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="33a467af-43ba-410b-8cf9-38fcb3ba00ac" type="box">3</container> 
+				  <container parent="33a467af-43ba-410b-8cf9-38fcb3ba00ac" type="folder">32</container> 
+				  <unittitle> Literature - Johnson, Samuel. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="37481b9d-44e5-4728-967f-3f41f18b51c0" type="box">3</container> 
+				  <container parent="37481b9d-44e5-4728-967f-3f41f18b51c0" type="folder">33</container> 
+				  <unittitle> Literature - de Maupassant, Guy. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e96e3452-73f3-4ed4-9be0-f0ada744c3dd" type="box">3</container> 
+				  <container parent="e96e3452-73f3-4ed4-9be0-f0ada744c3dd" type="folder">34</container> 
+				  <unittitle> Literature - Meredith, George. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="6c1cc265-a0e1-44b0-bdb6-d6b0a4f98de2" type="box">3</container> 
+				  <container parent="6c1cc265-a0e1-44b0-bdb6-d6b0a4f98de2" type="folder">35</container> 
+				  <unittitle> Literature - O'Neill, Eugene. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="3f88ac5f-1971-42cc-bcff-84ce7c166300" type="box">3</container> 
+				  <container parent="3f88ac5f-1971-42cc-bcff-84ce7c166300" type="folder">36</container> 
+				  <unittitle> Literature - Proust, Marcel. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a4379481-d2f2-4e40-a42d-501866673cf9" type="box">3</container> 
+				  <container parent="a4379481-d2f2-4e40-a42d-501866673cf9" type="folder">37</container> 
+				  <unittitle> Literature - Rilke, Rainier Maria. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="7220cc9e-1324-474b-b56d-1bc791eb4be5" type="box">3</container> 
+				  <container parent="7220cc9e-1324-474b-b56d-1bc791eb4be5" type="folder">38</container> 
+				  <unittitle> Literature - Roberts, Elizabeth. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="aeaad339-36df-48e6-8d98-f50e5ffaa54b" type="box">3</container> 
+				  <container parent="aeaad339-36df-48e6-8d98-f50e5ffaa54b" type="folder">39</container> 
+				  <unittitle> Literature - Rossetti, Dante Gabriel. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4d59ecb5-5955-4c45-b636-71abe460a985" type="box">3</container> 
+				  <container parent="4d59ecb5-5955-4c45-b636-71abe460a985" type="folder">40</container> 
+				  <unittitle> Literature - Sidgewick, Ethel. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="4a057d14-526b-4925-9ef2-3e6694f051d1" type="box">3</container> 
+				  <container parent="4a057d14-526b-4925-9ef2-3e6694f051d1" type="folder">41</container> 
+				  <unittitle> Literature - Strachey, Lytton. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2947fc4e-57b6-46fb-93b2-ad961bef348d" type="box">3</container> 
+				  <container parent="2947fc4e-57b6-46fb-93b2-ad961bef348d" type="folder">42</container> 
+				  <unittitle> Literature - Tolstoi, Leo (folder 1 of 3). 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e1c3ebee-3308-4d52-b283-b6cb128246f6" type="box">4</container> 
+				  <container parent="e1c3ebee-3308-4d52-b283-b6cb128246f6" type="folder">1-2</container> 
+				  <unittitle> Literature - Tolstoi, Leo (folders 2 and 3 of 3). 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a1e35dfc-54fb-4331-847e-b3dee082d272" type="box">4</container> 
+				  <container parent="a1e35dfc-54fb-4331-847e-b3dee082d272" type="folder">3</container> 
+				  <unittitle> Literature - Winwar, Francis. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="90d532a9-9c76-4589-a7de-3b4607c52933" type="box">4</container> 
+				  <container parent="90d532a9-9c76-4589-a7de-3b4607c52933" type="folder">4</container> 
+				  <unittitle> Northern Arizona - General. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>subseries 7: Legal Files, 
+				  <unitdate type="inclusive">1949-1961</unitdate></unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="512cb764-e552-4fc7-9d24-cc777e8ef788" type="box">4</container> 
+				  <container parent="512cb764-e552-4fc7-9d24-cc777e8ef788" type="folder">5</container> 
+				  <unittitle> "A Kiss for Mr. Lincoln" ("The Wayward Kiss") -
+					 Contracts. 
+					 <unitdate>1954</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="d2ff8f63-6a3f-4f0b-aef6-82b1423315ed" type="box">4</container> 
+				  <container parent="d2ff8f63-6a3f-4f0b-aef6-82b1423315ed" type="folder">6</container> 
+				  <unittitle> "A Kiss for Mr. Lincoln" ("The Wayward Kiss") -
+					 Royalties. 
+					 <unitdate>1954-1955</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="f169929a-88d8-4ffc-8596-4995358d7555" type="box">4</container> 
+				  <container parent="f169929a-88d8-4ffc-8596-4995358d7555" type="folder">7</container> 
+				  <unittitle> <emph render="italic">The Long Knives Walked</emph> -
+					 Contracts. 
+					 <unitdate>1959</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="57d3a692-60bb-47e9-9b0a-53612117fcc4" type="box">4</container> 
+				  <container parent="57d3a692-60bb-47e9-9b0a-53612117fcc4" type="folder">8</container> 
+				  <unittitle> <emph render="italic">The Pale Survivors</emph> -
+					 Copyright. 
+					 <unitdate>1961</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="1a0daf28-b9cb-47e9-84c6-a4f439bbb975" type="box">4</container> 
+				  <container parent="1a0daf28-b9cb-47e9-84c6-a4f439bbb975" type="folder">9</container> 
+				  <unittitle> <emph render="italic">Prepare Them for Caesar</emph>
+					 - Contracts. 
+					 <unitdate>1949</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="051a3cb6-c6c2-4d58-9235-76ca60485acf" type="box">4</container> 
+				  <container parent="051a3cb6-c6c2-4d58-9235-76ca60485acf" type="folder">10</container> 
+				  <unittitle> <emph render="italic">Prepare Them for Caesar</emph>
+					 - Copyright. 
+					 <unitdate>1949</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="fb23bb02-abb7-4ab8-8921-d60480eaace6" type="box">4</container> 
+				  <container parent="fb23bb02-abb7-4ab8-8921-d60480eaace6" type="folder">11</container> 
+				  <unittitle> <emph render="italic">Prepare Them for Caesar</emph>
+					 - Royalties. 
+					 <unitdate>1949</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>subseries 8: Diaries, 
+				  <unitdate type="inclusive">1916-1923, 1966</unitdate></unittitle>
+				
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="dfb73585-3681-4294-9a99-cb02fb61a9ec" type="box">4</container> 
+				  <container parent="dfb73585-3681-4294-9a99-cb02fb61a9ec" type="folder">12</container> 
+				  <unittitle>California Diary. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e075294b-e1f0-47ae-9d85-37f14e24f684" type="box">4</container> 
+				  <container parent="e075294b-e1f0-47ae-9d85-37f14e24f684" type="folder">13</container> 
+				  <unittitle>New York City Diary. 
+					 <unitdate>undated</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="a82cf4b6-852b-4250-9311-e71b29a0bd1c" type="box">4</container> 
+				  <container parent="a82cf4b6-852b-4250-9311-e71b29a0bd1c" type="folder">14</container> 
+				  <unittitle>Personal Diary. 
+					 <unitdate>1916</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="75ab6c5a-2fd7-4f3b-962e-a2de5ca81c19" type="box">4</container> 
+				  <container parent="75ab6c5a-2fd7-4f3b-962e-a2de5ca81c19" type="folder">15</container> 
+				  <unittitle>Personal Diary. 
+					 <unitdate>1917</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="2950bb96-ec81-418b-b23a-1d2afb2c1ba2" type="box">4</container> 
+				  <container parent="2950bb96-ec81-418b-b23a-1d2afb2c1ba2" type="folder">16</container> 
+				  <unittitle>Personal Diary. 
+					 <unitdate>1918</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="e6e1f475-779a-4a81-af19-ec830e77ade5" type="box">4</container> 
+				  <container parent="e6e1f475-779a-4a81-af19-ec830e77ade5" type="folder">17</container> 
+				  <unittitle>Personal Diary. 
+					 <unitdate>1919</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="30f7172d-dce1-4af2-a1de-7d110fa5957f" type="box">4</container> 
+				  <container parent="30f7172d-dce1-4af2-a1de-7d110fa5957f" type="folder">18</container> 
+				  <unittitle>Personal Diary. 
+					 <unitdate>1920</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="c19a18ad-e508-40c0-85db-13664f80740e" type="box">4</container> 
+				  <container parent="c19a18ad-e508-40c0-85db-13664f80740e" type="folder">19</container> 
+				  <unittitle>European Vacation. 
+					 <unitdate>1922</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="cf8b31a7-42d6-4589-a95f-84e80a880df5" type="box">4</container> 
+				  <container parent="cf8b31a7-42d6-4589-a95f-84e80a880df5" type="folder">20</container> 
+				  <unittitle>Travel Diary. 
+					 <unitdate>1922-1923</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container id="61b086b8-687e-48fe-89ce-db020e650c66" type="box">4</container> 
+				  <container parent="61b086b8-687e-48fe-89ce-db020e650c66" type="folder">21</container> 
+				  <unittitle>Personal Diary. 
+					 <unitdate>1966</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series IV: Photographs, 
+				<unitdate type="inclusive">1866-1957</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>This series contains albums, photographs, daguerreotypes, and
+				several negatives and slides. Subjects include various members of the Mabie
+				family, pets, landscapes, and unidentified others. </p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="a7d12b55-fddd-4f70-8458-f3a74cbffd25" type="box">5</container> 
+				<container parent="a7d12b55-fddd-4f70-8458-f3a74cbffd25" type="folder">1-2</container> 
+				<unittitle>Flagstaff. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="76004c1a-9eb4-4c24-8f28-53bdead4356c" type="box">5</container> 
+				<container parent="76004c1a-9eb4-4c24-8f28-53bdead4356c" type="folder">3</container> 
+				<unittitle>Graffman, Gary. 
+				  <unitdate>1954</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="be1c98fa-2b91-4d97-bf4a-ec45645d29af" type="box">5</container> 
+				<container parent="be1c98fa-2b91-4d97-bf4a-ec45645d29af" type="folder">4</container> 
+				<unittitle>The "John Sherwin." 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="8c9d8df7-36ab-4038-8b53-c5eb647c61d0" type="box">5</container> 
+				<container parent="8c9d8df7-36ab-4038-8b53-c5eb647c61d0" type="folder">5-6</container> 
+				<unittitle>Kennedy Family. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="200fdc07-98ce-4267-842d-1b453cbbda24" type="box">5</container> 
+				<container parent="200fdc07-98ce-4267-842d-1b453cbbda24" type="folder">7</container> 
+				<unittitle>Kennedy Family. 
+				  <unitdate>1866-1926</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="3dba677c-6994-4568-a86e-8d80a27c3edc" type="box">5</container> 
+				<container parent="3dba677c-6994-4568-a86e-8d80a27c3edc" type="folder">8</container> 
+				<unittitle>Kennedy Family - Daguerreotypes. 
+				  <unitdate>undated, 1890</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="20fe497f-6a51-4573-a5f4-d59cf9b69e69" type="box">5</container> 
+				<container parent="20fe497f-6a51-4573-a5f4-d59cf9b69e69" type="folder">9</container> 
+				<unittitle>Mabie Family - Album. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="253e33a9-d79d-43e3-8025-4fa9256a456d" type="box">5</container> 
+				<container parent="253e33a9-d79d-43e3-8025-4fa9256a456d" type="folder">10</container> 
+				<unittitle>Mabie Family - Album. 
+				  <unitdate>1904-1913</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="5db5aaba-7edc-41c3-828e-656d6c9f13d3" type="box">5</container> 
+				<container parent="5db5aaba-7edc-41c3-828e-656d6c9f13d3" type="folder">11</container> 
+				<unittitle>Mabie Family - Album. 
+				  <unitdate>1927-1928</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="ab3ab663-642e-4ce1-938c-cfb2048ac3e8" type="box">5</container> 
+				<container parent="ab3ab663-642e-4ce1-938c-cfb2048ac3e8" type="folder">12-13</container> 
+				<unittitle>Mabie Family - General. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="9927b067-7805-4742-90e3-35756cedd9a1" type="box">5</container> 
+				<container parent="9927b067-7805-4742-90e3-35756cedd9a1" type="folder">14</container> 
+				<unittitle>Mabie, Louise Kennedy - General. 
+				  <unitdate>undated, 1895-1897</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="f8146738-178c-4b94-b61f-00b1851ac4b8" type="box">5</container> 
+				<container parent="f8146738-178c-4b94-b61f-00b1851ac4b8" type="folder">15-16</container> 
+				<unittitle>Mabie, Louise Kennedy - General. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="b6cd165e-f5f9-4ef4-9e72-0f32fb680931" type="box">5</container> 
+				<container parent="b6cd165e-f5f9-4ef4-9e72-0f32fb680931" type="folder">17-18</container> 
+				<unittitle>Mabie, Mary Louise - Childhood. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="561e07e5-cda4-4378-b12b-ab3988e050c9" type="box">5</container> 
+				<container parent="561e07e5-cda4-4378-b12b-ab3988e050c9" type="folder">19</container> 
+				<unittitle>Mabie, Mary Louise - Childhood. 
+				  <unitdate>1905-1908</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="29615bf1-524c-4981-a2f7-12b9a4a94425" type="box">5</container> 
+				<container parent="29615bf1-524c-4981-a2f7-12b9a4a94425" type="folder">20</container> 
+				<unittitle>Mabie, Mary Louise - Adolescence. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="2b9a11f3-82a7-4b8d-859f-f886e6e9f06b" type="box">5</container> 
+				<container parent="2b9a11f3-82a7-4b8d-859f-f886e6e9f06b" type="folder">21-22</container> 
+				<unittitle>Mabie, Mary Louise - General. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="208e573e-c654-4c4c-b650-7429bfc6d129" type="box">5</container> 
+				<container parent="208e573e-c654-4c4c-b650-7429bfc6d129" type="folder">23</container> 
+				<unittitle>Mabie, Mary Louise - School Photographs. 
+				  <unitdate>1910s</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="5a4c1a72-d588-4ee4-9df2-814c67d4ebe9" type="box">5</container> 
+				<container parent="5a4c1a72-d588-4ee4-9df2-814c67d4ebe9" type="folder">24</container> 
+				<unittitle>Mexican Wedding (<emph render="italic">Life</emph>
+				  Article). 
+				  <unitdate>1957</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="dfad8159-7299-47f2-8462-02f92b5f9c26" type="box">5</container> 
+				<container parent="dfad8159-7299-47f2-8462-02f92b5f9c26" type="folder">25</container> 
+				<unittitle>Military Encampment. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="11e554ba-499a-4e41-a6ba-57eb94159c64" type="box">5</container> 
+				<container parent="11e554ba-499a-4e41-a6ba-57eb94159c64" type="folder">26</container> 
+				<unittitle>Military Re-enactment. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="d4345a50-1e8e-46d2-87e9-aa917880f2ec" type="box">5</container> 
+				<container parent="d4345a50-1e8e-46d2-87e9-aa917880f2ec" type="folder">27</container> 
+				<unittitle>Negatives and Slides. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="37e44242-fa83-4c45-8c61-57c79a6f8850" type="box">5</container> 
+				<container parent="37e44242-fa83-4c45-8c61-57c79a6f8850" type="folder">28</container> 
+				<unittitle>Pets. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="bbafdb56-52b2-491d-b2d4-ed77a74e5d36" type="box">5</container> 
+				<container parent="bbafdb56-52b2-491d-b2d4-ed77a74e5d36" type="folder">29</container> 
+				<unittitle>Residences - General. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="2a40b5bd-bffd-4e51-8dab-428394d731bd" type="box">5</container> 
+				<container parent="2a40b5bd-bffd-4e51-8dab-428394d731bd" type="folder">30</container> 
+				<unittitle>Residences - The Little House (Flagstaff, AZ). 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="12916311-071d-4d05-a2dc-23944aa35062" type="box">5</container> 
+				<container parent="12916311-071d-4d05-a2dc-23944aa35062" type="folder">31</container> 
+				<unittitle>Stilwell, Ethel. 
+				  <unitdate>1895</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="ec133ad8-7d1c-4cd7-93c6-b6acbfde5c57" type="box">5</container> 
+				<container parent="ec133ad8-7d1c-4cd7-93c6-b6acbfde5c57" type="folder">32-35</container> 
+				<unittitle>Travel Photographs. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="dbd30693-7230-419b-b516-38de4cee8b22" type="box">5</container> 
+				<container parent="dbd30693-7230-419b-b516-38de4cee8b22" type="folder">36-38</container> 
+				<unittitle>Unidentified 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series V: Scrapbooks, 
+				<unitdate type="inclusive">1900-1947</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>This series contains scrapbooks relating to the literary careers
+				of Mary Louise Mabie and her grandfather, James H. Kennedy.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="e68d9303-da26-4721-8f4b-4f045510bd34" type="box">6</container> 
+				<container parent="e68d9303-da26-4721-8f4b-4f045510bd34" type="folder">1</container> 
+				<unittitle>Kennedy, James H. 
+				  <unitdate>1900-1902</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="d6b96a9a-675d-49c3-a8d8-45f78eaf4484" type="box">6</container> 
+				<container parent="d6b96a9a-675d-49c3-a8d8-45f78eaf4484" type="folder">2</container> 
+				<unittitle>Kennedy, James H. 
+				  <unitdate>1903-1907</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="777dba52-3a9f-49f9-a5d5-88485c2b6f84" type="box">6</container> 
+				<container parent="777dba52-3a9f-49f9-a5d5-88485c2b6f84" type="folder">3</container> 
+				<unittitle>Mabie, Mary Louise. 
+				  <unitdate>1924-1947</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="aff2584d-b12b-4e7c-bd30-c4165b340ff0" type="box">6</container> 
+				<container parent="aff2584d-b12b-4e7c-bd30-c4165b340ff0" type="folder">4</container> 
+				<unittitle>Mabie, Mary Louise. 
+				  <unitdate>1929-1930</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="e2819dcc-15a8-4de5-9b2c-c57b891d0a4c" type="box">6</container> 
+				<container parent="e2819dcc-15a8-4de5-9b2c-c57b891d0a4c" type="folder">5</container> 
+				<unittitle>Mabie, Mary Louise. 
+				  <unitdate>1930-1932</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series VI: Oversize Photographs and Scrapbooks, 
+				<unitdate type="inclusive">1908-1950</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>This series contains oversize materials from the photographs and
+				scrapbooks series.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="7bede3b9-0c52-4446-923a-7f892b8aef6b" type="box">7</container> 
+				<container parent="7bede3b9-0c52-4446-923a-7f892b8aef6b" type="folder">1</container> 
+				<unittitle>Photographs - Mabie, Mary Louise. 
+				  <unitdate>1908-1948</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="fbb707a6-5141-4cec-badb-3e6cdc21edaa" type="box">7</container> 
+				<container parent="fbb707a6-5141-4cec-badb-3e6cdc21edaa" type="folder">2</container> 
+				<unittitle>Photographs - Unidentified. 
+				  <unitdate>undated, 1931</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="f61490f8-ca9c-4c83-b5b2-fadf170bd6f1" type="box">7</container> 
+				<container parent="f61490f8-ca9c-4c83-b5b2-fadf170bd6f1" type="folder">3</container> 
+				<unittitle>Scrapbooks - Mabie, Louise Kennedy. 
+				  <unitdate>1921-1931</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="e41fca14-9c2f-41d0-b464-454001c5522b" type="box">7</container> 
+				<container parent="e41fca14-9c2f-41d0-b464-454001c5522b" type="folder">4</container> 
+				<unittitle>Scrapbooks - Mabie, Louise Kennedy. 
+				  <unitdate>1931-1937</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="d731a3df-12d1-4c20-befd-f62810da470b" type="box">8</container> 
+				<container parent="d731a3df-12d1-4c20-befd-f62810da470b" type="folder">1</container> 
+				<unittitle>Scrapbooks - Mabie, Louise Kennedy. 
+				  <unitdate>1938-1944</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="ae33487d-992e-4e44-b87c-9a22bec4eb1c" type="box">8</container> 
+				<container parent="ae33487d-992e-4e44-b87c-9a22bec4eb1c" type="folder">2</container> 
+				<unittitle>Scrapbooks - Mabie, Mary Louise. 
+				  <unitdate>1932-1940</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container id="c78a0d88-c00f-4921-ad9c-02c56973f49d" type="box">9</container> 
+				<container parent="c78a0d88-c00f-4921-ad9c-02c56973f49d" type="folder">1</container> 
+				<unittitle>Scrapbooks - Mabie, Mary Louise. 
+				  <unitdate>1949-1950</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc> 
+</ead>

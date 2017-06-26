@@ -1,0 +1,657 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+<eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+	<eadid encodinganalog="852">UAMS556</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title"> University of Arizona Fine Arts Library Music Reference Files Collection,
+	 		<date calendar="gregorian" certainty="approximate" era="ce" normal="1918/1995" type="inclusive">1918-1995</date>  
+	 		</titleproper>
+	 	<titleproper altrender="nodisplay" type="filing"> University of Arizona Fine Arts Library Music Reference Files Collection,
+	 		</titleproper>
+	 	<author>Processed by Steven Burg.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		</address> 
+		<date calendar="gregorian" era="ce" normal="2015">2015</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+  		<date encodinganalog="date" era="ce" normal="20151103">November 03, 2015</date></creation>
+	 <langusage>Finding aid is in<language langcode="eng"> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+<revisiondesc><change><date normal="2017-06-23">2017-06-23</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+	<archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+  <did> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name"> University of Arizona Fine Arts Library Music Reference Files Collection,
+  		<unitdate label="Dates" normal="1918/1995" type="inclusive">1918-1995</unitdate>
+  	</unittitle> 
+	 <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 556</unitid>
+	 <origination label="Creator"> 
+	 	<corpname encodinganalog="110" source="lcnaf">University of Arizona. Fine Arts Library</corpname> </origination> 
+  	<abstract label="Abstract">This collection contains subject files referencing musical topics including composers, music history, music theory, suggested repertoire for individuals and ensembles, and other broad topics. These files were used as reference files at the University of Arizona Fine Arts Library.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description"><extent>5 linear feet</extent></physdesc>	 
+	 <repository label="Repository"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		</address></repository>
+  	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English,</language>with materials in<language encodinganalog="546" langcode="spa"> Spanish,</language><language encodinganalog="546" langcode="ger"> German,</language><language encodinganalog="546" langcode="fre"> French,</language> and<language encodinganalog="546" langcode="cze"> Czech.</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>University of Arizona Fine Arts Library Music Reference Files Collection (MS 556). Special
+  		Collections, University of Arizona Libraries.</p>
+  </prefercite> 
+  <processinfo>
+  	<head>Processing History</head>
+  	<p>Processed by Steven Burg.</p>
+  </processinfo>
+  <bioghist encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>These files were gathered from the University of Arizona Fine Arts Library where they served as reference files.</p> 
+  </bioghist> 
+  <arrangement encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection of files is organized alphabetically by subject.</p>
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Papers 1918-1995: This collection consists of the reference files kept by the University of Arizona Fine Arts Library. 
+  	The bulk of the material consists of three to five-paneled 9 inch by 4 inch pamphlets pertaining to individual composer biographies, catalog of works, 
+  	and other related information. Other items in the collection are educational and group-focused materials in the form of periodicals, articles, repertoire lists, 
+  	programs as well as papers on a variety of musical subjects. They are arranged alphabetically by subject. Notable examples are various charts visualizing music history, 
+  	an accordion chart, and papers detailing the music of Colonial America.</p> 
+  </scopecontent> 
+  	<controlaccess>
+  		<subject>American Academy of Teachers of Singing.</subject><subject>Composer--Biography.</subject><subject>Music Instruction and study.</subject></controlaccess>
+<dsc type="combined"> 
+	 <head>Container List</head>
+	<p>This collection is arranged alphabetically by subject title.</p>
+	 
+				<c01 level="file"> 
+				<did> 
+					<container id="2530d618-1d45-4b6f-a70c-60add04f7e04" type="box">1</container> 
+					<container parent="2530d618-1d45-4b6f-a70c-60add04f7e04" type="folder">1</container> 
+					<unittitle>A (1 of 2),</unittitle>
+					<unitdate>1945-1989</unitdate>
+				</did>
+				</c01>
+	<c01 level="file"> 
+	<did> 
+		<container id="0e2f7dfa-af14-40a8-b09e-606ffd627319" type="box">1</container> 
+		<container parent="0e2f7dfa-af14-40a8-b09e-606ffd627319" type="folder">2</container> 
+		<unittitle>A (2 of 2),</unittitle>
+		<unitdate>1945-1989</unitdate>
+	</did> 
+	</c01>
+	<c01 level="file">
+	<did>
+		<container id="7cd8f74e-a926-4bcf-b851-47a64b218929" type="box">1</container>
+		<container parent="7cd8f74e-a926-4bcf-b851-47a64b218929" type="folder">3</container>
+		<unittitle>B (1 of 7),</unittitle>
+		<unitdate>1930-1995</unitdate>
+	</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="8dc59a81-c05e-4000-993c-66d873e09ae9" type="box">1</container>
+			<container parent="8dc59a81-c05e-4000-993c-66d873e09ae9" type="folder">4</container>
+			<unittitle>B (2 of 7),</unittitle>
+			<unitdate>1930-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="48e1cf4c-a4f6-43c7-bff6-73a076bf511d" type="box">1</container>
+			<container parent="48e1cf4c-a4f6-43c7-bff6-73a076bf511d" type="folder">5</container>
+			<unittitle>B (3 of 7),</unittitle>
+			<unitdate>1930-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="72f92649-525e-4bf0-aad8-117e653dd31e" type="box">1</container>
+			<container parent="72f92649-525e-4bf0-aad8-117e653dd31e" type="folder">6</container>
+			<unittitle>B (4 of 7),</unittitle>
+			<unitdate>1930-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="cbfb79e1-267b-45fb-9a2b-e3891747009b" type="box">1</container>
+			<container parent="cbfb79e1-267b-45fb-9a2b-e3891747009b" type="folder">7</container>
+			<unittitle>B (5 of 7),</unittitle>
+			<unitdate>1930-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="2c266d5c-7d19-4942-b2a3-b2ff3db8daed" type="box">1</container>
+			<container parent="2c266d5c-7d19-4942-b2a3-b2ff3db8daed" type="folder">8</container>
+			<unittitle>B (6 of 7),</unittitle>
+			<unitdate>1930-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="77cbc9e6-fc15-4d47-9689-284a61f9be81" type="box">1</container>
+			<container parent="77cbc9e6-fc15-4d47-9689-284a61f9be81" type="folder">9</container>
+			<unittitle>B (7 of 7),</unittitle>
+			<unitdate>1930-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="144d2070-febb-4ef1-a212-9d99c081ae9b" type="box">1</container>
+			<container parent="144d2070-febb-4ef1-a212-9d99c081ae9b" type="folder">10</container>
+			<unittitle>C (1 of 6),</unittitle>
+			<unitdate>1933-1994</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="91f9508b-9034-4431-bdd3-562199d1ffd1" type="box">1</container>
+			<container parent="91f9508b-9034-4431-bdd3-562199d1ffd1" type="folder">11</container>
+			<unittitle>C (2 of 6),</unittitle>
+			<unitdate>1933-1994</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="bf3a9a2e-090f-465b-99f8-f77aaf3a2485" type="box">1</container>
+			<container parent="bf3a9a2e-090f-465b-99f8-f77aaf3a2485" type="folder">12</container>
+			<unittitle>C (3 of 6),</unittitle>
+			<unitdate>1933-1994</unitdate>
+		</did>
+	</c01>
+				<c01 level="file">
+					<did>
+						<container id="911242b6-eec0-420d-bc0c-2ad2e48e2cf2" type="box">2</container>
+						<container parent="911242b6-eec0-420d-bc0c-2ad2e48e2cf2" type="folder">1</container>
+						<unittitle>C (4 of 6),</unittitle>
+						<unitdate>1933-1994</unitdate>
+					</did>
+				</c01>
+	<c01 level="file">
+		<did>
+			<container id="d3e17131-cd93-4e1a-a585-f79aece8111b" type="box">2</container>
+			<container parent="d3e17131-cd93-4e1a-a585-f79aece8111b" type="folder">2</container>
+			<unittitle>C (5 of 6),</unittitle>
+			<unitdate>1933-1994</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="66304dde-c622-4bf8-b908-f807b466ecc7" type="box">2</container>
+			<container parent="66304dde-c622-4bf8-b908-f807b466ecc7" type="folder">3</container>
+			<unittitle>C (6 of 6),</unittitle>
+			<unitdate>1933-1994</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="3561a3ee-e2af-4ce0-aa62-f8ff91f9a338" type="box">2</container>
+			<container parent="3561a3ee-e2af-4ce0-aa62-f8ff91f9a338" type="folder">4</container>
+			<unittitle>D (1 of 2),</unittitle>
+			<unitdate>1960-1993</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="c4d7d29b-be18-447c-acb6-0ef07128d3c1" type="box">2</container>
+			<container parent="c4d7d29b-be18-447c-acb6-0ef07128d3c1" type="folder">5</container>
+			<unittitle>D (2 of 2),</unittitle>
+			<unitdate>1960-1993</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="c05d94c7-29e8-4bab-ad31-136de4b42b47" type="box">2</container>
+			<container parent="c05d94c7-29e8-4bab-ad31-136de4b42b47" type="folder">6</container>
+			<unittitle>E (1 of 2),</unittitle>
+			<unitdate>1960-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="d1055fb7-23c6-4785-b070-8e9dc96ed683" type="box">2</container>
+			<container parent="d1055fb7-23c6-4785-b070-8e9dc96ed683" type="folder">7</container>
+			<unittitle>E (2 of 2),</unittitle>
+			<unitdate>1960-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="64f63a61-a16b-4d99-a0e9-cd39984612e6" type="box">2</container>
+			<container parent="64f63a61-a16b-4d99-a0e9-cd39984612e6" type="folder">8</container>
+			<unittitle>F (1 of 4),</unittitle>
+			<unitdate>1918-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="62774bc3-2910-4d2b-a51b-1c45830b49d9" type="box">2</container>
+			<container parent="62774bc3-2910-4d2b-a51b-1c45830b49d9" type="folder">9</container>
+			<unittitle>F (2 of 4),</unittitle>
+			<unitdate>1918-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="b0ed20d2-7412-48fb-a5e8-02bbea4bf045" type="box">2</container>
+			<container parent="b0ed20d2-7412-48fb-a5e8-02bbea4bf045" type="folder">10</container>
+			<unittitle>F (3 of 4),</unittitle>
+			<unitdate>1918-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="26db44ce-4d85-493a-a871-aa8b7e4d8078" type="box">2</container>
+			<container parent="26db44ce-4d85-493a-a871-aa8b7e4d8078" type="folder">11</container>
+			<unittitle>F (4 of 4),</unittitle>
+			<unitdate>1918-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="236d6c7f-ae5c-4aba-84b2-6cb76616fd27" type="box">2</container>
+			<container parent="236d6c7f-ae5c-4aba-84b2-6cb76616fd27" type="folder">12</container>
+			<unittitle>G (1 of 2),</unittitle>
+			<unitdate>1957-1986</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="530623c1-e74a-4407-8580-969a952cd99f" type="box">2</container>
+			<container parent="530623c1-e74a-4407-8580-969a952cd99f" type="folder">13</container>
+			<unittitle>G (2 of 2),</unittitle>
+			<unitdate>1957-1986</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="267a885d-63f4-499d-9b9e-c73e2407f3f9" type="box">2</container>
+			<container parent="267a885d-63f4-499d-9b9e-c73e2407f3f9" type="folder">14</container>
+			<unittitle>H (1 of 5),</unittitle>
+			<unitdate>1945-1993</unitdate>
+		</did>
+	</c01>
+				<c01 level="file">
+					<did>
+						<container id="2142687f-2333-4749-b80b-643198d61ed4" type="box">3</container>
+						<container parent="2142687f-2333-4749-b80b-643198d61ed4" type="folder">1</container>
+						<unittitle>H (2 of 5),</unittitle>
+						<unitdate>1945-1993</unitdate>
+					</did>
+				</c01>
+	<c01 level="file">
+		<did>
+			<container id="e8b8202f-98be-42c7-82ac-e0bdc1cb2386" type="box">3</container>
+			<container parent="e8b8202f-98be-42c7-82ac-e0bdc1cb2386" type="folder">2</container>
+			<unittitle>H (3 of 5),</unittitle>
+			<unitdate>1945-1993</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="496466e4-e564-41a7-a770-dd443cb3645f" type="box">3</container>
+			<container parent="496466e4-e564-41a7-a770-dd443cb3645f" type="folder">3</container>
+			<unittitle>H (4 of 5),</unittitle>
+			<unitdate>1945-1993</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="35b6bb27-2c9d-4239-aa59-88a05b43696e" type="box">3</container>
+			<container parent="35b6bb27-2c9d-4239-aa59-88a05b43696e" type="folder">4</container>
+			<unittitle>H (5 of 5),</unittitle>
+			<unitdate>1945-1993</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="416b1241-8aa1-489f-b192-467279efa94b" type="box">3</container>
+			<container parent="416b1241-8aa1-489f-b192-467279efa94b" type="folder">5</container>
+			<unittitle>I,</unittitle>
+			<unitdate>1950-1988</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="60a70541-8f8b-4a02-9214-573178f5e6dc" type="box">3</container>
+			<container parent="60a70541-8f8b-4a02-9214-573178f5e6dc" type="folder">6</container>
+			<unittitle>J,</unittitle>
+			<unitdate>1955-1979</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="ca098c3a-80bd-4ef7-afaa-6e4ec4c72c9f" type="box">3</container>
+			<container parent="ca098c3a-80bd-4ef7-afaa-6e4ec4c72c9f" type="folder">7</container>
+			<unittitle>K (1 of 2),</unittitle>
+			<unitdate>1965-1991</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="929146f8-8165-48d5-b731-3c660c0c0182" type="box">3</container>
+			<container parent="929146f8-8165-48d5-b731-3c660c0c0182" type="folder">8</container>
+			<unittitle>K (2 of 2),</unittitle>
+			<unitdate>1965-1991</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="023a037d-84cc-49d2-a2b5-7f2c2ad9dbdc" type="box">3</container>
+			<container parent="023a037d-84cc-49d2-a2b5-7f2c2ad9dbdc" type="folder">9</container>
+			<unittitle>L (1 of 2),</unittitle>
+			<unitdate>1960-1991</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="521840ee-e253-455f-859d-7f4e87289da6" type="box">3</container>
+			<container parent="521840ee-e253-455f-859d-7f4e87289da6" type="folder">10</container>
+			<unittitle>L (2 of 2),</unittitle>
+			<unitdate>1960-1991</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="5b56bfd1-d5bb-4868-8239-77258889cd09" type="box">3</container>
+			<container parent="5b56bfd1-d5bb-4868-8239-77258889cd09" type="folder">11</container>
+			<unittitle>M (1 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="4cee4096-6760-4bb2-b60d-c98a418494ca" type="box">3</container>
+			<container parent="4cee4096-6760-4bb2-b60d-c98a418494ca" type="folder">12</container>
+			<unittitle>M (2 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="a7cffa63-fc22-466d-9cbf-a1c7aaaa157f" type="box">3</container>
+			<container parent="a7cffa63-fc22-466d-9cbf-a1c7aaaa157f" type="folder">13</container>
+			<unittitle>M (3 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="cbe88f01-18c9-4eaf-a8a7-2d841bc755ea" type="box">3</container>
+			<container parent="cbe88f01-18c9-4eaf-a8a7-2d841bc755ea" type="folder">14</container>
+			<unittitle>M (4 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+				<c01 level="file">
+					<did>
+						<container id="f071b444-8e07-4570-9020-33efec74889f" type="box">4</container>
+						<container parent="f071b444-8e07-4570-9020-33efec74889f" type="folder">1</container>
+						<unittitle>M (5 of 10),</unittitle>
+						<unitdate>1931-1995</unitdate>
+					</did>
+				</c01>
+	<c01 level="file">
+		<did>
+			<container id="a2127baf-4b21-46b5-9251-bf040b64c9dc" type="box">4</container>
+			<container parent="a2127baf-4b21-46b5-9251-bf040b64c9dc" type="folder">2</container>
+			<unittitle>M (6 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="ea53c99b-ed1e-4d70-ba9c-e93e92d3a586" type="box">4</container>
+			<container parent="ea53c99b-ed1e-4d70-ba9c-e93e92d3a586" type="folder">3</container>
+			<unittitle>M (7 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="21a89c59-12fe-4792-b020-19ce05cee453" type="box">4</container>
+			<container parent="21a89c59-12fe-4792-b020-19ce05cee453" type="folder">4</container>
+			<unittitle>M (8 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="49818654-a9ab-4d79-937d-5772c0209e7c" type="box">4</container>
+			<container parent="49818654-a9ab-4d79-937d-5772c0209e7c" type="folder">5</container>
+			<unittitle>M (9 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="2552a791-4a4c-403d-8728-ae22f18670fe" type="box">4</container>
+			<container parent="2552a791-4a4c-403d-8728-ae22f18670fe" type="folder">6</container>
+			<unittitle>M (10 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="fd38dc61-8077-48c2-b33c-128f2bba7547" type="box">4</container>
+			<container parent="fd38dc61-8077-48c2-b33c-128f2bba7547" type="folder">7</container>
+			<unittitle>N (1 of 2),</unittitle>
+			<unitdate>1966-1986</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="a7a01582-66ba-49ea-8d40-7f4c22f5483e" type="box">4</container>
+			<container parent="a7a01582-66ba-49ea-8d40-7f4c22f5483e" type="folder">8</container>
+			<unittitle>N (2 of 2),</unittitle>
+			<unitdate>1966-1986</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="5a6e46b7-0eed-478b-abe3-12b197a19694" type="box">4</container>
+			<container parent="5a6e46b7-0eed-478b-abe3-12b197a19694" type="folder">9</container>
+			<unittitle>O,</unittitle>
+			<unitdate>1963-1986</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="6a2ba76b-1e9c-47e9-9644-b34eba08ea68" type="box">4</container>
+			<container parent="6a2ba76b-1e9c-47e9-9644-b34eba08ea68" type="folder">10</container>
+			<unittitle>P (1 of 4),</unittitle>
+			<unitdate>1959-1992</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="96efc274-c471-462f-a539-f9896217a93a" type="box">4</container>
+			<container parent="96efc274-c471-462f-a539-f9896217a93a" type="folder">11</container>
+			<unittitle>P (2 of 4),</unittitle>
+			<unitdate>1959-1992</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="8ef484e8-65f2-46e4-95d2-54310d65ff1e" type="box">4</container>
+			<container parent="8ef484e8-65f2-46e4-95d2-54310d65ff1e" type="folder">12</container>
+			<unittitle>P (3 of 4),</unittitle>
+			<unitdate>1959-1992</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="f4618f8d-62c5-4c13-bb5a-3716879d96b1" type="box">4</container>
+			<container parent="f4618f8d-62c5-4c13-bb5a-3716879d96b1" type="folder">13</container>
+			<unittitle>P (4 of 4),</unittitle>
+			<unitdate>1959-1992</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="f64bd7b2-ed8d-49b0-b1be-826b6ac59fb2" type="box">4</container>
+			<container parent="f64bd7b2-ed8d-49b0-b1be-826b6ac59fb2" type="folder">14</container>
+			<unittitle>R (1 of 4),</unittitle>
+			<unitdate>1960-1992</unitdate>
+		</did>
+	</c01>
+				<c01 level="file">
+					<did>
+						<container id="e7ac7d16-559b-4015-9034-402bfa659a05" type="box">5</container>
+						<container parent="e7ac7d16-559b-4015-9034-402bfa659a05" type="folder">1</container>
+						<unittitle>R (2 of 4),</unittitle>
+						<unitdate>1960-1992</unitdate>
+					</did>
+				</c01>
+	<c01 level="file">
+		<did>
+			<container id="6785084c-312c-413b-91a4-724eb7fb8506" type="box">5</container>
+			<container parent="6785084c-312c-413b-91a4-724eb7fb8506" type="folder">2</container>
+			<unittitle>R (3 of 4),</unittitle>
+			<unitdate>1960-1992</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="bfa22089-4513-4bd4-9513-e244c602ac35" type="box">5</container>
+			<container parent="bfa22089-4513-4bd4-9513-e244c602ac35" type="folder">3</container>
+			<unittitle>R (4 of 4),</unittitle>
+			<unitdate>1960-1992</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="a32f7990-dd1f-4621-b754-47477d716179" type="box">5</container>
+			<container parent="a32f7990-dd1f-4621-b754-47477d716179" type="folder">4</container>
+			<unittitle>S (1 of 5),</unittitle>
+			<unitdate>1941-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="cad4f900-019f-4dee-bb44-3e6258e94c9f" type="box">5</container>
+			<container parent="cad4f900-019f-4dee-bb44-3e6258e94c9f" type="folder">5</container>
+			<unittitle>S (2 of 5),</unittitle>
+			<unitdate>1941-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="e3c54380-d360-4f77-bd90-bcb1a03b4f48" type="box">5</container>
+			<container parent="e3c54380-d360-4f77-bd90-bcb1a03b4f48" type="folder">6</container>
+			<unittitle>S (3 of 5),</unittitle>
+			<unitdate>1941-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="f4640faa-e012-4118-96fa-c44d3fdfdccf" type="box">5</container>
+			<container parent="f4640faa-e012-4118-96fa-c44d3fdfdccf" type="folder">7</container>
+			<unittitle>S (4 of 5),</unittitle>
+			<unitdate>1941-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="c30884be-1603-48c5-81dd-ccf1742172c7" type="box">5</container>
+			<container parent="c30884be-1603-48c5-81dd-ccf1742172c7" type="folder">8</container>
+			<unittitle>S (5 of 5),</unittitle>
+			<unitdate>1941-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="692b789d-019f-4b63-80c3-4f27249f5ecb" type="box">5</container>
+			<container parent="692b789d-019f-4b63-80c3-4f27249f5ecb" type="folder">9</container>
+			<unittitle>T (1 of 2),</unittitle>
+			<unitdate>1958-1987</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="56bb4f64-5921-407d-886e-1329f8b8ff65" type="box">5</container>
+			<container parent="56bb4f64-5921-407d-886e-1329f8b8ff65" type="folder">10</container>
+			<unittitle>T (2 of 2),</unittitle>
+			<unitdate>1958-1987</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="65a0b040-3fb6-484d-8885-e02220114dcd" type="box">5</container>
+			<container parent="65a0b040-3fb6-484d-8885-e02220114dcd" type="folder">11</container>
+			<unittitle>U-V (1 of 2),</unittitle>
+			<unitdate>1938-1988</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="82edef95-b435-4f29-a5bb-88cf8c6eb98c" type="box">5</container>
+			<container parent="82edef95-b435-4f29-a5bb-88cf8c6eb98c" type="folder">12</container>
+			<unittitle>U-V (2 of 2),</unittitle>
+			<unitdate>1938-1988</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="5b00eade-2228-441c-ab3b-089f61ab4ebd" type="box">5</container>
+			<container parent="5b00eade-2228-441c-ab3b-089f61ab4ebd" type="folder">13</container>
+			<unittitle>W (1 of 2),</unittitle>
+			<unitdate>1957-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="00c60566-47b5-4b7d-a3ac-9eb08a588416" type="box">5</container>
+			<container parent="00c60566-47b5-4b7d-a3ac-9eb08a588416" type="folder">14</container>
+			<unittitle>W (2 of 2),</unittitle>
+			<unitdate>1957-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container id="bfb1e03d-febf-47be-9c08-fd48fc981e63" type="box">5</container>
+			<container parent="bfb1e03d-febf-47be-9c08-fd48fc981e63" type="folder">15</container>
+			<unittitle>Y-Z,</unittitle>
+			<unitdate>1966-1989</unitdate>
+		</did>
+	</c01>
+</dsc> 
+</archdesc></ead>

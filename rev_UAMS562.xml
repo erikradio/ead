@@ -1,0 +1,4232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+   <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+      <eadid encodinganalog="852">UAMS562</eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">James E. and Barbara H. Sherman Ghost Town Photograph Collection
+	 	       <date calendar="gregorian" certainty="approximate" era="ce" normal="1865/1975" type="inclusive">circa 1865-1975</date>
+	 	       
+	 	       <date normal="1865/1975" type="bulk">(bulk 1964-1969)</date>
+	 	    </titleproper>
+         	<titleproper altrender="nodisplay" type="filing"> Sherman, James E., Sherman, Barbara H. Ghost Town Photograph Collection
+            </titleproper>
+         	<author>Processed by Kim Frontz.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date calendar="gregorian" era="ce" normal="2016">2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Molly Stothert-Maurer. 
+            <date encodinganalog="date" era="ce" normal="20161025">October 25, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language langcode="eng"> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+      
+   <revisiondesc><change><date normal="2017-06-23">2017-06-23</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+
+   <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+      <did> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name"> James E. and Barbara H. Sherman Ghost Town Photograph Collection
+            <unitdate label="Dates" normal="1865/1975" type="inclusive">circa 1865-1975</unitdate>
+            <unitdate label="Dates" normal="1964/1969" type="bulk">(bulk 1964-1975)</unitdate> 
+  	     </unittitle>	 
+	     <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">MS 562</unitid>
+	     <origination label="Creator"> 
+	     	<persname encodinganalog="100" source="local">Sherman, James E.</persname> </origination> 
+      	<origination label="Creator"> 
+      		<persname encodinganalog="100" source="local">Sherman, Barbara H.</persname> </origination> 
+      	<abstract label="Abstract">Photographs, related 35 mm negatives, and research notes produced by James E. Sherman and Barbara H. Sherman for use in their books <emph render="underline">Ghost Towns of Arizona</emph>  and <emph render="underline">Ghost Towns and Mining Camps of New Mexico</emph>.  Early photographs, comprising about thirty percent of the collection, were reproduced from various Arizona and New Mexico archives.  These span from 1865 to 1953 but most were taken between 1880 and 1920.   The majority of the photographs, however, were taken by the Shermans between 1964 and 1969 during their research for their books. The images, from the 1960s, are well identified and mainly show abandoned buildings, mine equipment, cemeteries, and landscapes.  Earlier photographs may also show buildings and equipment but also present for some towns are images of activities, residents and founders, and newspaper advertisements.  A review of the books will give researchers a good idea of the collection.
+      	</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description"><extent>8 linear ft.</extent></physdesc>	 
+	     <repository label="Repository"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English.</language></langmaterial>
+   	        
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+      	<p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>James E. and Barbara H. Sherman Ghost Town Photograph Collection (MS 562). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+      	<p>Processed by Kim Frontz.</p>
+      </processinfo>
+      <bioghist encodinganalog="545"> 
+         <head>Historical Note</head> 
+      	<p>James E. Sherman was a professor of engineering at Pima College in Tucson, Arizona.  His wife, Barbara, graduated from the University of Arizona.  An interest in travel, camping, and photography led them to collect this material and write two books on ghost towns in Arizona and New Mexico between 1964 and 1974.</p> 
+      </bioghist> 
+      <arrangement encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into five series.</p>	 
+         <list>
+         	<item>Series I: Arizona ghost towns photographs and captions,
+         		<unitdate>1865-1969 </unitdate></item>
+         	<item>Series II: New Mexico ghost towns photographs and captions,
+         		<unitdate>1879-1969</unitdate></item>
+         	<item>Series III: Research cards,
+         		<unitdate>circa 1964-1968</unitdate></item>
+         	<item>Series IV: Negatives,
+         		<unitdate>1964-1969</unitdate></item>
+         	<item>Series V: Published books and map,
+         		<unitdate>1969, 1975</unitdate></item>
+         </list>
+      </arrangement> 
+      <scopecontent encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Photographs and related research notes of and about Arizona and New Mexico ghost towns and mining camps gathered between 1964 and 1969.  Early photographs were reproduced from Arizona and New Mexico libraries and archives.  These images may show ghost towns, newspaper advertisements, and portraits of people related to the towns, but a few show mining and other activities of active towns.  Photographs in the 1960s taken by the Shermans show abandoned buildings, mining equipment, and cemeteries.  </p>
+      		<p>
+      		A smaller category of images were donated by individuals living in nearby areas and these are usually dated from the town’s active days.  The individuals who contributed the photographs include Thomas McMichael (b.1,f.45,47), Ralph Morrow (b.2,f.1), Grant Van Tilburg (b.2,f.31), Charles Bronson (b.3,f.3), Jackie Straley Silveris (b.3,f.19, b.6, f.36). John Southwell (b.3,f.25, b.4,f.21, b.6, f.23,38), Joe Young (b.3, f.29), Ruth Hart (b.4, f.11), Frank Berry Jr. (b.5, f.9, b.6, f.31), James Giles (b.5, f.24), Herman Weisner (b.5, f.28), and Glen Dorsett (b.6, f.21,30).
+      		</p><p>
+      		Highlights related to Arizona ghost towns include a schoolhouse with a 48-star flag (Cherry, Ariz.), an adobe schoolhouse ruin with a returning teacher (Duquesne, Ariz.), the Fairbanks, Ariz. railroad station, an ore car and portal of a small mine with its original signage (Golconda, Ariz.), ore teams and a blacksmith shop (Pinal, Ariz.), boarding houses (McCabe and Big Bug, Ariz.), an auto repair shop (Courtland, Ariz.) and the wooden buildings of Sunnyside, Arizona, a religious colony of the Donnellites.
+      		</p><p>
+      		New Mexico highlights include charcoal ovens (Gardiner, Catskill and San Pedro, N.M.), railroad stations (Engle and San Antonio, N.M.), an image of the Swastika Fuel Co. with automobiles (Swastika, N.M.), a school and children (Organ, N.M.), Japanese coal miners (Navajo,N.M.), jail ruins (Hillsboro, N.M.), and underground locomotive (Madrid, N.M.), school children (Johnson Mesa, N.M.), a town's first printing press (Kingston, N.M.), a boy scout first aid group (Dawson, N.M.), a local bullfight (Chloride, N.M.), and photos of main street, a fire, a freight team, a musician’s band, and people with their belongings in the street following the fire (Mogollon, N.M.)
+      		</p><p>
+      		Index cards contain information gathered from business directories and newspapers about the various locations.
+      	</p> 
+      </scopecontent> 
+      
+      <controlaccess>
+         <subject>Extinct cities—Arizona—Photographs.</subject><subject>Extinct cities—New Mexico—Photographs.</subject><subject>Arizona—History—Photographs.</subject><subject>New Mexico--History—Photographs.</subject><subject>Mine buildings—Arizona—Photographs.</subject><subject>Mine buildings—New Mexico—Photographs.</subject><subject>Cemeteries—Southwest, New—Photographs.</subject><subject>Japanese—New Mexico—Photographs.</subject><subject>Sunnyside (Ariz.)--Photographs.</subject><subject>Mogollon (N.M.)--Photographs.</subject></controlaccess>
+  
+      <dsc type="combined"> 
+         <head>Container List</head> 
+         <c01 level="series"> 
+            <did> 
+            	<unitid>Series I</unitid>
+            	<unittitle>Arizona ghost towns photographs and captions,</unittitle> 
+            	<unitdate type="inclusive">1865-1969</unitdate>
+		    </did>
+         	<scopecontent><p>This series is arranged alphabetically by town.  Photographs and caption cards are filed together.</p></scopecontent>
+		    <c02 level="file"> 
+      			<did> 
+      				<container id="f3e07abc-16c7-4ffa-b047-baef0de6e814" type="box">1</container> 
+      				<container parent="f3e07abc-16c7-4ffa-b047-baef0de6e814" type="folder">1</container> 
+      				<unittitle>Alamo, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="327f54d1-da71-4a21-af3a-cee47de1c7dc" type="box">1</container> 
+      				<container parent="327f54d1-da71-4a21-af3a-cee47de1c7dc" type="folder">2</container> 
+      				<unittitle>Alexandra, Ariz.,</unittitle>
+      				<unitdate>1876-1903, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="3764c64b-9886-46c5-a4eb-698f426619c4" type="box">1</container> 
+      				<container parent="3764c64b-9886-46c5-a4eb-698f426619c4" type="folder">3</container> 
+      				<unittitle>Allen City, Ariz.,</unittitle>
+      				<unitdate>1874-1884</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="127cae4d-ec9e-4cbc-a897-0e2edf5cb1e7" type="box">1</container> 
+      				<container parent="127cae4d-ec9e-4cbc-a897-0e2edf5cb1e7" type="folder">4</container> 
+      				<unittitle>American Flag, Ariz.,</unittitle>
+      				<unitdate>1884</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="695f08d2-df99-4852-b198-75c80ba52389" type="box">1</container> 
+      				<container parent="695f08d2-df99-4852-b198-75c80ba52389" type="folder">5</container> 
+      				<unittitle>Aubrey Landing, Ariz.,</unittitle>
+      				<unitdate>n.d.</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="fbaadc39-9771-4ddd-8303-63d5c029532e" type="box">1</container> 
+      				<container parent="fbaadc39-9771-4ddd-8303-63d5c029532e" type="folder">6</container> 
+      				<unittitle>Alto, Ariz.,</unittitle>
+      				<unitdate>1909</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="9fcc5f08-7150-4324-bcca-82dcf7c5d334" type="box">1</container> 
+      				<container parent="9fcc5f08-7150-4324-bcca-82dcf7c5d334" type="folder">7</container> 
+      				<unittitle>Balkan, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="e0996002-95d2-4984-900b-c2f62a729649" type="box">1</container> 
+      				<container parent="e0996002-95d2-4984-900b-c2f62a729649" type="folder">8</container> 
+      				<unittitle>Bellvue, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="fd38dec1-773c-4602-be83-670017e834db" type="box">1</container> 
+      				<container parent="fd38dec1-773c-4602-be83-670017e834db" type="folder">9</container> 
+      				<unittitle>Big Bug, Ariz.,</unittitle>
+      				<unitdate>1888-1895, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="4906e5c6-e222-4098-8721-28ef90d74fd7" type="box">1</container> 
+      				<container parent="4906e5c6-e222-4098-8721-28ef90d74fd7" type="folder">10</container> 
+      				<unittitle>Bradshaw City, Ariz.,</unittitle>
+      				<unitdate>1870s, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="fd86e52f-4c34-4e1f-a7e9-2e6ca0a6f31a" type="box">1</container> 
+      				<container parent="fd86e52f-4c34-4e1f-a7e9-2e6ca0a6f31a" type="folder">11</container> 
+      				<unittitle>Bumblebee, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="80655af4-2a26-4c21-8ec3-1e3593264d60" type="box">1</container> 
+      				<container parent="80655af4-2a26-4c21-8ec3-1e3593264d60" type="folder">12</container> 
+      				<unittitle>Calabasas, Ariz.,</unittitle>
+      				<unitdate>1870s, 1934</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="f50fe94a-4e83-4478-9f54-7ea0f434fdac" type="box">1</container> 
+      				<container parent="f50fe94a-4e83-4478-9f54-7ea0f434fdac" type="folder">13</container> 
+      				<unittitle>Castle Dome, Ariz.,</unittitle>
+      				<unitdate>1877, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="679f0813-bfa1-41e4-b75c-fd2e3628ec66" type="box">1</container> 
+      				<container parent="679f0813-bfa1-41e4-b75c-fd2e3628ec66" type="folder">14</container> 
+      				<unittitle>Catoctin, Ariz.	,</unittitle>
+      				<unitdate>1880s</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="db78e4c5-4fe5-4a19-a1e4-c2f08d13c774" type="box">1</container> 
+      				<container parent="db78e4c5-4fe5-4a19-a1e4-c2f08d13c774" type="folder">15</container> 
+      				<unittitle>Cedar, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="e7b78fe8-1c01-41f0-8390-f37b2fad5aff" type="box">1</container> 
+      				<container parent="e7b78fe8-1c01-41f0-8390-f37b2fad5aff" type="folder">16</container> 
+      				<unittitle>Cerbat,Ariz.,</unittitle>
+      				<unitdate>1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="8d17e7c5-efc1-4179-838f-7d8387e44f28" type="box">1</container> 
+      				<container parent="8d17e7c5-efc1-4179-838f-7d8387e44f28" type="folder">17</container> 
+      				<unittitle>Cerro Colorado, Ariz.,</unittitle>
+      				<unitdate>1865, 1965-1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="23f57b92-f9ec-432d-96d0-2adc495c2311" type="box">1</container> 
+      				<container parent="23f57b92-f9ec-432d-96d0-2adc495c2311" type="folder">18</container> 
+      				<unittitle>Chaparral, Ariz.,</unittitle>
+      				<unitdate>circa 1888</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="6f8081f7-efb1-4f33-aa26-47a2bb0ed187" type="box">1</container> 
+      				<container parent="6f8081f7-efb1-4f33-aa26-47a2bb0ed187" type="folder">19</container> 
+      				<unittitle>Charleston, Ariz.,</unittitle>
+      				<unitdate>1880s-1899, 1963-1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="8ad01b51-b49f-4150-8b18-cad16777db1c" type="box">1</container> 
+      				<container parent="8ad01b51-b49f-4150-8b18-cad16777db1c" type="folder">20</container> 
+      				<unittitle>Cherry, Ariz.,</unittitle>
+      				<unitdate>1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="81d34f81-2932-4bc8-8598-a40da82fb275" type="box">1</container> 
+      				<container parent="81d34f81-2932-4bc8-8598-a40da82fb275" type="folder">21</container> 
+      				<unittitle>Chilito, Ariz.,</unittitle>
+      				<unitdate>1947</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="e15c5536-236b-4c1e-b988-93d282702c11" type="box">1</container> 
+      				<container parent="e15c5536-236b-4c1e-b988-93d282702c11" type="folder">22</container> 
+      				<unittitle>Chloride, Ariz.,</unittitle>
+      				<unitdate>1870s, 1910, 1965-1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="8ce7f2b0-61d4-4315-8b05-4edc03115a54" type="box">1</container> 
+      				<container parent="8ce7f2b0-61d4-4315-8b05-4edc03115a54" type="folder">23</container> 
+      				<unittitle>Christmas, Ariz.,</unittitle>
+      				<unitdate>1965-1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="07af8780-0e29-4c40-8498-4fe50db12dc3" type="box">1</container> 
+      				<container parent="07af8780-0e29-4c40-8498-4fe50db12dc3" type="folder">24</container> 
+      				<unittitle>Chrysotile, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="43c8d862-84d0-4000-9dd7-3fa9f2284079" type="box">1</container> 
+      				<container parent="43c8d862-84d0-4000-9dd7-3fa9f2284079" type="folder">25</container> 
+      				<unittitle>Clack (or Oro Plata),</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="12e1c4cc-8ad4-4f6e-99d8-0bfd234aa5bf" type="box">1</container> 
+      				<container parent="12e1c4cc-8ad4-4f6e-99d8-0bfd234aa5bf" type="folder">26</container> 
+      				<unittitle>Clarkston, Ariz.,</unittitle>
+      				<unitdate>1914-1924, 1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="00326c94-9f49-4fcb-a8cc-f2f384ff19fb" type="box">1</container> 
+      				<container parent="00326c94-9f49-4fcb-a8cc-f2f384ff19fb" type="folder">27</container> 
+      				<unittitle>Cleator, Ariz.,</unittitle>
+      				<unitdate>1924, 1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="631ea9b1-12f8-406d-bf74-6645d347235b" type="box">1</container> 
+      				<container parent="631ea9b1-12f8-406d-bf74-6645d347235b" type="folder">28</container> 
+      				<unittitle>Congress, Ariz.,</unittitle>
+      				<unitdate>1898-1909, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="6adf31ef-9fff-4056-a21f-0459f11958f5" type="box">1</container> 
+      				<container parent="6adf31ef-9fff-4056-a21f-0459f11958f5" type="folder">29</container> 
+      				<unittitle>Constellation, Ariz.,</unittitle>
+      				<unitdate>1898-1912, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="434328ab-2f20-4a27-a113-0836e98141b5" type="box">1</container> 
+      				<container parent="434328ab-2f20-4a27-a113-0836e98141b5" type="folder">30</container> 
+      				<unittitle>Contention City, Ariz.,</unittitle>
+      				<unitdate>1963-1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="babf6825-399a-4e63-97f2-847f2b9f021a" type="box">1</container> 
+      				<container parent="babf6825-399a-4e63-97f2-847f2b9f021a" type="folder">31</container> 
+      				<unittitle>Copper Creek, Ariz.,</unittitle>
+      				<unitdate>1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="d089670a-9717-406e-9a90-edc9dbcbc319" type="box">1</container> 
+      				<container parent="d089670a-9717-406e-9a90-edc9dbcbc319" type="folder">32</container> 
+      				<unittitle>Copper Hill, Ariz.,</unittitle>
+      				<unitdate>1965-1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="a58ff550-31d0-4160-a38e-d30c49b49cbb" type="box">1</container> 
+      				<container parent="a58ff550-31d0-4160-a38e-d30c49b49cbb" type="folder">33</container> 
+      				<unittitle>Courtland, Ariz.,</unittitle>
+      				<unitdate>1909-1920, 1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="350e0d56-ab25-40b1-bf4c-f7bd998a2080" type="box">1</container> 
+      				<container parent="350e0d56-ab25-40b1-bf4c-f7bd998a2080" type="folder">34</container> 
+      				<unittitle>Crown King, Ariz.,</unittitle>
+      				<unitdate>1910-1928, 1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="eeb900e8-d22b-4af8-b3cb-2324f6e8eae2" type="box">1</container> 
+      				<container parent="eeb900e8-d22b-4af8-b3cb-2324f6e8eae2" type="folder">35</container> 
+      				<unittitle>Dos Cabezas, Ariz.,</unittitle>
+      				<unitdate>1925, 1966, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="d30194bb-ea57-4a00-b5f7-173c949557f2" type="box">1</container> 
+      				<container parent="d30194bb-ea57-4a00-b5f7-173c949557f2" type="folder">36</container> 
+      				<unittitle>Duquesne, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="6e51fd27-d8ab-4415-bb40-85f11496c17d" type="box">1</container> 
+      				<container parent="6e51fd27-d8ab-4415-bb40-85f11496c17d" type="folder">37</container> 
+      				<unittitle>Ehrenberg, Ariz.,</unittitle>
+      				<unitdate>1930s, 1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="89a17859-369e-4789-acbf-2d0eb17f28d9" type="box">1</container> 
+      				<container parent="89a17859-369e-4789-acbf-2d0eb17f28d9" type="folder">38</container> 
+      				<unittitle>Fairbanks, Ariz.,</unittitle>
+      				<unitdate>1905, 1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="cbeb96b9-dac3-4474-b60b-fc2d68379711" type="box">1</container> 
+      				<container parent="cbeb96b9-dac3-4474-b60b-fc2d68379711" type="folder">39</container> 
+      				<unittitle>Fortuna, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="5291f98f-65a6-4047-9c06-427b6840ac56" type="box">1</container> 
+      				<container parent="5291f98f-65a6-4047-9c06-427b6840ac56" type="folder">40</container> 
+      				<unittitle>Frisco, Ariz.,</unittitle>
+      				<unitdate>1910-1920, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="fbd9deed-a08b-4ea6-b4e3-30562869a9fc" type="box">1</container> 
+      				<container parent="fbd9deed-a08b-4ea6-b4e3-30562869a9fc" type="folder">41</container> 
+      				<unittitle>Galeyville, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="4865f54b-8e26-4e7a-8e56-55b2e94863f0" type="box">1</container> 
+      				<container parent="4865f54b-8e26-4e7a-8e56-55b2e94863f0" type="folder">42</container> 
+      				<unittitle>Germa, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="41896801-a4f3-4ba3-a09a-d787b35cd171" type="box">1</container> 
+      				<container parent="41896801-a4f3-4ba3-a09a-d787b35cd171" type="folder">43</container> 
+      				<unittitle>Gillette, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="7d163478-5901-48f2-bb6d-6ecc8b9c1ea2" type="box">1</container> 
+      				<container parent="7d163478-5901-48f2-bb6d-6ecc8b9c1ea2" type="folder">44</container> 
+      				<unittitle>Gleeson, Ariz.,</unittitle>
+      				<unitdate>1909, 1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="a98349b6-d1a6-4162-97a5-22fb6f6a100c" type="box">1</container> 
+      				<container parent="a98349b6-d1a6-4162-97a5-22fb6f6a100c" type="folder">45</container> 
+      				<unittitle>Golconda, Ariz.,</unittitle>
+      				<unitdate>1908-1918, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="50111f69-b9c3-4353-ad22-4dd537ebf4dd" type="box">1</container> 
+      				<container parent="50111f69-b9c3-4353-ad22-4dd537ebf4dd" type="folder">46</container> 
+      				<unittitle>Goldfield, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="34611a71-1653-488e-b58c-6a6c6e54c6c7" type="box">1</container> 
+      				<container parent="34611a71-1653-488e-b58c-6a6c6e54c6c7" type="folder">47</container> 
+      				<unittitle>Gold Road, Ariz.,</unittitle>
+      				<unitdate>1905-1918, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="4d60b5e8-57ff-41cf-8e70-e5d6f8a63d40" type="box">1</container> 
+      				<container parent="4d60b5e8-57ff-41cf-8e70-e5d6f8a63d40" type="folder">48</container> 
+      				<unittitle>Greaterville, Ariz.,</unittitle>
+      				<unitdate>1880s-1890s, 1964</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="497fa761-ea45-40c5-b947-a6e70e517e89" type="box">1</container> 
+      				<container parent="497fa761-ea45-40c5-b947-a6e70e517e89" type="folder">49</container> 
+      				<unittitle>Gunsight, Ariz.,</unittitle>
+      				<unitdate>1884, 1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="3fe84ee4-7af5-4836-8220-940594dd1a5e" type="box">1</container> 
+      				<container parent="3fe84ee4-7af5-4836-8220-940594dd1a5e" type="folder">50</container> 
+      				<unittitle>Hackberry, Ariz.,</unittitle>
+      				<unitdate>1888, 1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="53fe8b8c-276b-4821-89d0-859f33d92a8f" type="box">1</container> 
+      				<container parent="53fe8b8c-276b-4821-89d0-859f33d92a8f" type="folder">51</container> 
+      				<unittitle>Hamburg, Ariz. (Ramsey Canyon),</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="a4e96e62-2e29-42cf-be85-7242d370e378" type="box">1</container> 
+      				<container parent="a4e96e62-2e29-42cf-be85-7242d370e378" type="folder">52</container> 
+      				<unittitle>Hardyville, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="d4fbd6dd-b90d-4058-941f-bdc27fef0423" type="box">1</container> 
+      				<container parent="d4fbd6dd-b90d-4058-941f-bdc27fef0423" type="folder">53</container> 
+      				<unittitle>Harquahala, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="5b9da0c1-7148-4f16-9028-99d050091071" type="box">1</container> 
+      				<container parent="5b9da0c1-7148-4f16-9028-99d050091071" type="folder">54</container> 
+      				<unittitle>Harrisburg, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02>  
+         	<c02 level="file"> 
+         		<did> 
+         			<container id="50b57211-9f3f-4d6a-a6d1-b8ff7ddba0a3" type="box">1</container> 
+         			<container parent="50b57211-9f3f-4d6a-a6d1-b8ff7ddba0a3" type="folder">55</container> 
+         			<unittitle>Harshaw, Ariz.,</unittitle>
+         			<unitdate>1880, 1892, circa 1922, 1965</unitdate>
+         		</did> 
+         	</c02>  
+<c02 level="file"> 
+      			<did> 
+      				<container id="1b0ba113-2c60-4e97-8fbd-97f6032921b4" type="box">1</container> 
+      				<container parent="1b0ba113-2c60-4e97-8fbd-97f6032921b4" type="folder">56</container> 
+      				<unittitle>Helvetia, Ariz.,</unittitle>
+      				<unitdate>1964</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="cdad546f-9ded-45c0-9a34-5841220771e9" type="box">1</container> 
+      				<container parent="cdad546f-9ded-45c0-9a34-5841220771e9" type="folder">57</container> 
+      				<unittitle>Hereford, Ariz.,</unittitle>
+      				<unitdate>1900-1914, 1964-1965</unitdate>
+      			</did> 
+      		</c02> 
+         	<c02 level="file"> 
+      			<did> 
+      				<container id="dd149a79-d058-49e0-9458-6c9c3a90c5e7" type="box">2</container> 
+      				<container parent="dd149a79-d058-49e0-9458-6c9c3a90c5e7" type="folder">1</container> 
+      				<unittitle>Hilltop, Ariz.,</unittitle>
+      				<unitdate>1920, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="f00de9b1-3d03-4f7e-b9d5-950ebf33b7d2" type="box">2</container> 
+      				<container parent="f00de9b1-3d03-4f7e-b9d5-950ebf33b7d2" type="folder">2</container> 
+      				<unittitle>Jerome, Ariz.,</unittitle>
+      				<unitdate>1880-1919, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="01910caa-448e-43b1-ae33-b65cc996053c" type="box">2</container> 
+      				<container parent="01910caa-448e-43b1-ae33-b65cc996053c" type="folder">3</container> 
+      				<unittitle>Johnson, Ariz.,</unittitle>
+      				<unitdate>1965-1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="d5f8221d-93a3-4ec6-9705-2026c92a41c5" type="box">2</container> 
+      				<container parent="d5f8221d-93a3-4ec6-9705-2026c92a41c5" type="folder">4</container> 
+      				<unittitle>Katherine, Ariz.,</unittitle>
+      				<unitdate>1917-1918, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="54285792-fbf6-44e7-96ca-d9202fab440c" type="box">2</container> 
+      				<container parent="54285792-fbf6-44e7-96ca-d9202fab440c" type="folder">5</container> 
+      				<unittitle>Kofa, Ariz.,</unittitle>
+      				<unitdate>1900-1916, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="ba472c48-70c2-4f0c-a2da-189b4de6615d" type="box">2</container> 
+      				<container parent="ba472c48-70c2-4f0c-a2da-189b4de6615d" type="folder">6</container> 
+      				<unittitle>La Paz, Ariz.,</unittitle>
+      				<unitdate>1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="c792753a-ad48-46f3-8bff-9b4a54d19e2a" type="box">2</container> 
+      				<container parent="c792753a-ad48-46f3-8bff-9b4a54d19e2a" type="folder">7</container> 
+      				<unittitle>Las Guijas, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="f4a858e4-310c-4875-adb0-4c3bab456030" type="box">2</container> 
+      				<container parent="f4a858e4-310c-4875-adb0-4c3bab456030" type="folder">8</container> 
+      				<unittitle>Lochiel, Ariz. (Pancho Villa),</unittitle>
+      				<unitdate>1919, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="f827a5f2-1276-4f82-a073-a28e7f30b4ad" type="box">2</container> 
+      				<container parent="f827a5f2-1276-4f82-a073-a28e7f30b4ad" type="folder">9</container> 
+      				<unittitle>Mammoth, Ariz.,</unittitle>
+      				<unitdate>1895-1896</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="de36ee87-9388-47da-8967-f183a348c916" type="box">2</container> 
+      				<container parent="de36ee87-9388-47da-8967-f183a348c916" type="folder">10</container> 
+      				<unittitle>Maxton, Ariz.,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="8cc8017e-50b8-4e46-aae8-5e25126fcc69" type="box">2</container> 
+      				<container parent="8cc8017e-50b8-4e46-aae8-5e25126fcc69" type="folder">11</container> 
+      				<unittitle>McCabe, Ariz.,</unittitle>
+      				<unitdate>1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1140dceb-ce72-40a1-902d-eaba5c1e7f35" type="box">2</container> 
+      				<container parent="1140dceb-ce72-40a1-902d-eaba5c1e7f35" type="folder">12</container> 
+      				<unittitle>McMillian, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="4dec46eb-2da7-45a2-87ad-f0f3032e5fb0" type="box">2</container> 
+      				<container parent="4dec46eb-2da7-45a2-87ad-f0f3032e5fb0" type="folder">13</container> 
+      				<unittitle>Metcalf, Ariz.,</unittitle>
+      				<unitdate>1901-1915</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="e04887fb-3bfe-40d6-a11c-41433d05d52c" type="box">2</container> 
+      				<container parent="e04887fb-3bfe-40d6-a11c-41433d05d52c" type="folder">14</container> 
+      				<unittitle>Millville, Ariz.,</unittitle>
+      				<unitdate>1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="f1c735c6-55a3-4087-87cf-8f7be7a1fb8d" type="box">2</container> 
+      				<container parent="f1c735c6-55a3-4087-87cf-8f7be7a1fb8d" type="folder">15</container> 
+      				<unittitle>Mineral Park, Ariz.,</unittitle>
+      				<unitdate>1880, 1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="b794130d-9988-4704-bccd-bc53054941d8" type="box">2</container> 
+      				<container parent="b794130d-9988-4704-bccd-bc53054941d8" type="folder">16</container> 
+      				<unittitle>Mohave City, Ariz.,</unittitle>
+      				<unitdate>1880,1904,1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="74dda498-e582-4eb9-ac9d-a4c4550f424f" type="box">2</container> 
+      				<container parent="74dda498-e582-4eb9-ac9d-a4c4550f424f" type="folder">17</container> 
+      				<unittitle>Mowry, Ariz.,</unittitle>
+      				<unitdate>1909, 1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="8bb3e5a0-64ac-410f-8564-f3d89606f0e7" type="box">2</container> 
+      				<container parent="8bb3e5a0-64ac-410f-8564-f3d89606f0e7" type="folder">18</container> 
+      				<unittitle>New Virginia, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="71ad0321-9ed4-45a8-b021-3f4f9b8eb7cf" type="box">2</container> 
+      				<container parent="71ad0321-9ed4-45a8-b021-3f4f9b8eb7cf" type="folder">19</container> 
+      				<unittitle>Oatman, Ariz.,</unittitle>
+      				<unitdate>1900-1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="72e63974-7f0c-432f-9a09-c263d17c211d" type="box">2</container> 
+      				<container parent="72e63974-7f0c-432f-9a09-c263d17c211d" type="folder">20</container> 
+      				<unittitle>Octave, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="d59467a4-4bf3-4802-a8d1-da9552a7570c" type="box">2</container> 
+      				<container parent="d59467a4-4bf3-4802-a8d1-da9552a7570c" type="folder">21</container> 
+      				<unittitle>Old Trails, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="ef4af32a-6e97-469d-9093-f3ae32c1be0c" type="box">2</container> 
+      				<container parent="ef4af32a-6e97-469d-9093-f3ae32c1be0c" type="folder">22</container> 
+      				<unittitle>Oro Belle, Ariz.,</unittitle>
+      				<unitdate>1870s-1880s, 1900-1910, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="b1732c27-91f8-40c9-a568-38c3f805b7bf" type="box">2</container> 
+      				<container parent="b1732c27-91f8-40c9-a568-38c3f805b7bf" type="folder">23</container> 
+      				<unittitle>Oro Blanco, Ariz. (new),</unittitle>
+      				<unitdate>1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="ecf4a403-013a-4e9d-ad88-1f65c4d4ac2c" type="box">2</container> 
+      				<container parent="ecf4a403-013a-4e9d-ad88-1f65c4d4ac2c" type="folder">24</container> 
+      				<unittitle>Oro Blanco, Ariz. (old),</unittitle>
+      				<unitdate>1966, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="fc1ce5c2-70d3-48c8-896c-d88524d45313" type="box">2</container> 
+      				<container parent="fc1ce5c2-70d3-48c8-896c-d88524d45313" type="folder">25</container> 
+      				<unittitle>Paradise, Ariz.,</unittitle>
+      				<unitdate>1875, 1910-1912, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="3f58671f-d154-4105-9aa0-51a3f1756651" type="box">2</container> 
+      				<container parent="3f58671f-d154-4105-9aa0-51a3f1756651" type="folder">26</container> 
+      				<unittitle>Pearce, Ariz.,</unittitle>
+      				<unitdate>1890s-1906, 1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="010a7160-5f51-488d-9b77-b756a0d342c4" type="box">2</container> 
+      				<container parent="010a7160-5f51-488d-9b77-b756a0d342c4" type="folder">27</container> 
+      				<unittitle>Pima, Ariz.,</unittitle>
+      				<unitdate>undated (no print)</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="99b9e95d-13b7-4621-9488-d4942a9de2a6" type="box">2</container> 
+      				<container parent="99b9e95d-13b7-4621-9488-d4942a9de2a6" type="folder">28</container> 
+      				<unittitle>Pinal, Ariz.,</unittitle>
+      				<unitdate>1880s</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="9163dc97-6f80-494a-b597-1d52360499d8" type="box">2</container> 
+      				<container parent="9163dc97-6f80-494a-b597-1d52360499d8" type="folder">29</container> 
+      				<unittitle>Pioneer, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="23028cf1-9fae-43de-8ce9-86480e47efe3" type="box">2</container> 
+      				<container parent="23028cf1-9fae-43de-8ce9-86480e47efe3" type="folder">30</container> 
+      				<unittitle>Placerita, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="98ca4179-283b-4e5c-aea3-a147b615d0b9" type="box">2</container> 
+      				<container parent="98ca4179-283b-4e5c-aea3-a147b615d0b9" type="folder">31</container> 
+      				<unittitle>Poland, Ariz.,</unittitle>
+      				<unitdate>1900-1910, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="53f39545-82d7-46ad-b739-ee98f907d23c" type="box">2</container> 
+      				<container parent="53f39545-82d7-46ad-b739-ee98f907d23c" type="folder">32</container> 
+      				<unittitle>Polaris, Ariz.,</unittitle>
+      				<unitdate>1910, 1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="4ed1ee14-51b8-40c6-97fe-2cff6a5a7cbd" type="box">2</container> 
+      				<container parent="4ed1ee14-51b8-40c6-97fe-2cff6a5a7cbd" type="folder">33</container> 
+      				<unittitle>Polhamas Landing, Ariz.,</unittitle>
+      				<unitdate>1870s-1900, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="8e7e6351-c220-48a9-82d0-93a04aeb2807" type="box">2</container> 
+      				<container parent="8e7e6351-c220-48a9-82d0-93a04aeb2807" type="folder">34</container> 
+      				<unittitle>Queen, Ariz.,</unittitle>
+      				<unitdate>1881, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="a636bc0a-1a00-4b39-96ff-7bf065954da6" type="box">2</container> 
+      				<container parent="a636bc0a-1a00-4b39-96ff-7bf065954da6" type="folder">35</container> 
+      				<unittitle>Rawhide, Ariz.,</unittitle>
+      				<unitdate>1965 (no prints)</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="583fbbc2-e4f9-410b-9e5d-c112fa402363" type="box">2</container> 
+      				<container parent="583fbbc2-e4f9-410b-9e5d-c112fa402363" type="folder">36</container> 
+      				<unittitle>Reymert, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="08db9e0a-cc25-4be3-8944-7f5dffeb0ef6" type="box">2</container> 
+      				<container parent="08db9e0a-cc25-4be3-8944-7f5dffeb0ef6" type="folder">37</container> 
+      				<unittitle>Ruby, Ariz.,</unittitle>
+      				<unitdate>1920-1930s, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="acb5bff9-5cf7-4de9-90a2-6d6a3e9ec2c7" type="box">2</container> 
+      				<container parent="acb5bff9-5cf7-4de9-90a2-6d6a3e9ec2c7" type="folder">38</container> 
+      				<unittitle>Russelville, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="ef28b55d-69f3-4ac7-972a-e02e92001655" type="box">2</container> 
+      				<container parent="ef28b55d-69f3-4ac7-972a-e02e92001655" type="folder">39</container> 
+      				<unittitle>Salero, Ariz.,</unittitle>
+      				<unitdate>1909, 1953, 1960</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="ce2981ff-7664-46ea-858f-b16fa37e6e8a" type="box">2</container> 
+      				<container parent="ce2981ff-7664-46ea-858f-b16fa37e6e8a" type="folder">40</container> 
+      				<unittitle>San Xavier, Ariz.,</unittitle>
+      				<unitdate>1964</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="d6d33aef-3cd3-47ee-8ad6-483273b33a1c" type="box">2</container> 
+      				<container parent="d6d33aef-3cd3-47ee-8ad6-483273b33a1c" type="folder">41</container> 
+      				<unittitle>Sasco, Ariz.,</unittitle>
+      				<unitdate>1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="05046101-2f61-4c37-ae2b-c0e778114333" type="box">2</container> 
+      				<container parent="05046101-2f61-4c37-ae2b-c0e778114333" type="folder">42</container> 
+      				<unittitle>Senator, Ariz.,</unittitle>
+      				<unitdate>1880s</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="5b594657-5906-44c8-a747-297d826d35c8" type="box">2</container> 
+      				<container parent="5b594657-5906-44c8-a747-297d826d35c8" type="folder">43</container> 
+      				<unittitle>Seymour, Ariz.,</unittitle>
+      				<unitdate>1800</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="2c24f670-6651-412e-bda5-c8c766ba77a5" type="box">2</container> 
+      				<container parent="2c24f670-6651-412e-bda5-c8c766ba77a5" type="folder">44</container> 
+      				<unittitle>Shultz, Ariz. (also Tiger),</unittitle>
+      				<unitdate>1903, 1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1dca5cf1-ad26-4aaa-92ad-bb5156b0ebdb" type="box">2</container> 
+      				<container parent="1dca5cf1-ad26-4aaa-92ad-bb5156b0ebdb" type="folder">45</container> 
+      				<unittitle>Signal, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="e29ce27a-31df-4b17-ac41-b0bd2edacefb" type="box">2</container> 
+      				<container parent="e29ce27a-31df-4b17-ac41-b0bd2edacefb" type="folder">46</container> 
+      				<unittitle>Silent, Ariz.,</unittitle>
+      				<unitdate>1966 (no prints)</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1fea4cec-f848-4487-a189-f3aefc7fd4ce" type="box">2</container> 
+      				<container parent="1fea4cec-f848-4487-a189-f3aefc7fd4ce" type="folder">47</container> 
+      				<unittitle>Silverbell, Ariz.,</unittitle>
+      				<unitdate>1905-1907, 1920s, 1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="089f5c2e-5947-4e50-abb6-f3ab328f49c6" type="box">2</container> 
+      				<container parent="089f5c2e-5947-4e50-abb6-f3ab328f49c6" type="folder">48</container> 
+      				<unittitle>Silver King, Ariz.,</unittitle>
+      				<unitdate>1881-1884, 1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="81bc0e2f-5302-4798-a45e-a3d144b97e66" type="box">2</container> 
+      				<container parent="81bc0e2f-5302-4798-a45e-a3d144b97e66" type="folder">49</container> 
+      				<unittitle>Stanton, Ariz.,</unittitle>
+      				<unitdate>1880s, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="805f42df-9ed0-44ec-88fc-cbda0ac51892" type="box">2</container> 
+      				<container parent="805f42df-9ed0-44ec-88fc-cbda0ac51892" type="folder">50</container> 
+      				<unittitle>Stockton, Ariz.,</unittitle>
+      				<unitdate>1906-1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="fd27fcb8-6f9b-4947-a7ec-80357a8dbac1" type="box">2</container> 
+      				<container parent="fd27fcb8-6f9b-4947-a7ec-80357a8dbac1" type="folder">51</container> 
+      				<unittitle>Stoddard, Ariz.,</unittitle>
+      				<unitdate>1878, 1906, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="b566933f-9e22-4806-8fdc-11b793be1dde" type="box">2</container> 
+      				<container parent="b566933f-9e22-4806-8fdc-11b793be1dde" type="folder">52</container> 
+      				<unittitle>Sunnyside, Ariz.,</unittitle>
+      				<unitdate>1938, 1963-1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1f79907b-b4f5-415e-a7ad-49986ad5bb93" type="box">2</container> 
+      				<container parent="1f79907b-b4f5-415e-a7ad-49986ad5bb93" type="folder">53</container> 
+      				<unittitle>Swansea, Ariz.,</unittitle>
+      				<unitdate>1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1d49d2c9-a15d-460e-9b51-e51121278106" type="box">3</container> 
+      				<container parent="1d49d2c9-a15d-460e-9b51-e51121278106" type="folder">1</container> 
+      				<unittitle>Tip Top, Ariz.,</unittitle>
+      				<unitdate>1888, 1962</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="493cf0fa-a00e-4e1f-ab48-e94aed5b5b2a" type="box">3</container> 
+      				<container parent="493cf0fa-a00e-4e1f-ab48-e94aed5b5b2a" type="folder">2</container> 
+      				<unittitle>Tombstone, Ariz.,</unittitle>
+      				<unitdate>1881-1897, 1963</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="f6eb5b2d-110b-4ceb-8073-40dd764f2c95" type="box">3</container> 
+      				<container parent="f6eb5b2d-110b-4ceb-8073-40dd764f2c95" type="folder">3</container> 
+      				<unittitle>Total Wreck, Ariz.,</unittitle>
+      				<unitdate>1883, 1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="96411e28-2ae4-466e-a138-0ebd4b10871b" type="box">3</container> 
+      				<container parent="96411e28-2ae4-466e-a138-0ebd4b10871b" type="folder">4</container> 
+      				<unittitle>Troy, Ariz.,</unittitle>
+      				<unitdate>1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="6bb465cb-b7cd-4426-a759-6126bacf21cb" type="box">3</container> 
+      				<container parent="6bb465cb-b7cd-4426-a759-6126bacf21cb" type="folder">5</container> 
+      				<unittitle>Twin Buttes, Ariz.,</unittitle>
+      				<unitdate>1905, 1920s, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="5532871a-f70b-43c1-920c-d422206eb485" type="box">3</container> 
+      				<container parent="5532871a-f70b-43c1-920c-d422206eb485" type="folder">6</container> 
+      				<unittitle>Vekol, Ariz.,</unittitle>
+      				<unitdate>1966</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="6cc484d9-43d4-420c-958f-d20773bda208" type="box">3</container> 
+      				<container parent="6cc484d9-43d4-420c-958f-d20773bda208" type="folder">7</container> 
+      				<unittitle>Venezia, Ariz.,</unittitle>
+      				<unitdate>1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="21e255d7-74a7-4786-912a-8820fdc44fb6" type="box">3</container> 
+      				<container parent="21e255d7-74a7-4786-912a-8820fdc44fb6" type="folder">8</container> 
+      				<unittitle>Vulture, Ariz.,</unittitle>
+      				<unitdate>1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="194f98d7-1cf6-4e48-9fa5-b462aee8358e" type="box">3</container> 
+      				<container parent="194f98d7-1cf6-4e48-9fa5-b462aee8358e" type="folder">9</container> 
+      				<unittitle>Walker, Ariz.,</unittitle>
+      				<unitdate>1880s, 1952, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="558a9bbf-2428-4859-a763-b5e93fad41fc" type="box">3</container> 
+      				<container parent="558a9bbf-2428-4859-a763-b5e93fad41fc" type="folder">10</container> 
+      				<unittitle>Washington Camp, Ariz.,</unittitle>
+      				<unitdate>1909, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="eeb66f92-adc3-4ece-b87d-ebf38c924700" type="box">3</container> 
+      				<container parent="eeb66f92-adc3-4ece-b87d-ebf38c924700" type="folder">11</container> 
+      				<unittitle>Weaver, Ariz.,</unittitle>
+      				<unitdate>1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="52fd2195-a602-42fe-9fa0-89e23e9236f5" type="box">3</container> 
+      				<container parent="52fd2195-a602-42fe-9fa0-89e23e9236f5" type="folder">12</container> 
+      				<unittitle>White Hills, Ariz.,</unittitle>
+      				<unitdate>1897-1910, 1965</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="72384433-c1c4-4400-8849-9fb8e5cc26cd" type="box">3</container> 
+      				<container parent="72384433-c1c4-4400-8849-9fb8e5cc26cd" type="folder">13</container> 
+      				<unittitle>Misc. mining,</unittitle>
+      				<unitdate>1880-1897, 1965, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="abf80822-38b2-4f77-8ced-158a93705d26" type="box">3</container> 
+      				<container parent="abf80822-38b2-4f77-8ced-158a93705d26" type="folder">14</container> 
+      				<unittitle>Colorado River boats,</unittitle>
+      				<unitdate>1870-1910, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="6da5ea62-c75b-429d-b6ef-93f6fa1f295d" type="box">3</container> 
+      				<container parent="6da5ea62-c75b-429d-b6ef-93f6fa1f295d" type="folder">15</container> 
+      				<unittitle>Miscellaneous,</unittitle>
+      				<unitdate>1965-1966, undated</unitdate>
+      			</did> 
+      		</c02> 
+ 
+	     </c01> 
+      	<c01 level="series"> 
+      		<did> 
+      			<unitid>Series II</unitid>
+      			<unittitle>New Mexico ghost towns photographs and captions,</unittitle> 
+      			<unitdate type="inclusive">1879-1969 </unitdate>
+      			<unitdate type="bulk">(bulk 1967-1969)</unitdate>
+      		</did>
+      		<scopecontent><p>This series is arranged alphabetically by town.  Photographs and caption cards are filed together.</p></scopecontent>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="fc40bbef-9c97-410e-b919-917f3fe7981a" type="box">3</container> 
+      				<container parent="fc40bbef-9c97-410e-b919-917f3fe7981a" type="folder">16</container> 
+      				<unittitle>Allison, NM,</unittitle>
+      				<unitdate>1913</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="25a72711-1608-4945-a415-0501aeaa0018" type="box">3</container> 
+      				<container parent="25a72711-1608-4945-a415-0501aeaa0018" type="folder">17a</container> 
+      				<unittitle>Alma, NM,</unittitle>
+      				<unitdate>1893-1914, 1968, undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="94c2ddcf-3696-4446-9e06-207e93d35d7f" type="box">3</container> 
+      				<container parent="94c2ddcf-3696-4446-9e06-207e93d35d7f" type="folder">17b</container> 
+      				<unittitle>Alumina, NM,</unittitle>
+      				<unitdate>1892</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="bb3b03ca-6da9-43c9-bd04-406d1a9c8a95" type="box">3</container> 
+      				<container parent="bb3b03ca-6da9-43c9-bd04-406d1a9c8a95" type="folder">18</container> 
+      				<unittitle>Amizett, NM,</unittitle>
+      				<unitdate>1895</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="3b1cea77-7be7-46ba-8f5a-d17f72a005ff" type="box">3</container> 
+      				<container parent="3b1cea77-7be7-46ba-8f5a-d17f72a005ff" type="folder">19</container> 
+      				<unittitle>Ancho, NM,</unittitle>
+      				<unitdate>1905-1918, 1937, 1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="b6727d8a-1145-4211-92e8-218f19410377" type="box">3</container> 
+      				<container parent="b6727d8a-1145-4211-92e8-218f19410377" type="folder">20</container> 
+      				<unittitle>Anchor, NM,</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="f66cc5c2-6cf5-4101-8f3d-30c7e3c76a55" type="box">3</container> 
+      				<container parent="f66cc5c2-6cf5-4101-8f3d-30c7e3c76a55" type="folder">21</container> 
+      				<unittitle>Andrews,NM,</unittitle>
+      				<unitdate>1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="54ae7c2b-c38d-430f-8081-424a1f5e457f" type="box">3</container> 
+      				<container parent="54ae7c2b-c38d-430f-8081-424a1f5e457f" type="folder">22</container> 
+      				<unittitle>Baldy, NM,</unittitle>
+      				<unitdate>1891, 1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="3ea52203-92fc-4344-9790-7d8bd4a118c4" type="box">3</container> 
+      				<container parent="3ea52203-92fc-4344-9790-7d8bd4a118c4" type="folder">23</container> 
+      				<unittitle>Blackhawk, NM,</unittitle>
+      				<unitdate>1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="ab33e9cc-b6a1-4447-8600-d77773da10d0" type="box">3</container> 
+      				<container parent="ab33e9cc-b6a1-4447-8600-d77773da10d0" type="folder">24</container> 
+      				<unittitle>Bland, NM,</unittitle>
+      				<unitdate>1880s-1915</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="10f6b8b2-455c-4900-bfd6-1fa2c048aa2c" type="box">3</container> 
+      				<container parent="10f6b8b2-455c-4900-bfd6-1fa2c048aa2c" type="folder">25</container> 
+      				<unittitle>Blossburg, NM,</unittitle>
+      				<unitdate>1880s-1905</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="22bf85b7-3888-4174-b6f1-170ca29629cc" type="box">3</container> 
+      				<container parent="22bf85b7-3888-4174-b6f1-170ca29629cc" type="folder">26</container> 
+      				<unittitle>Bonanza City, NM,</unittitle>
+      				<unitdate>1880s, 1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="81c05619-9fcc-42b5-b5e3-d3d79f4eea9c" type="box">3</container> 
+      				<container parent="81c05619-9fcc-42b5-b5e3-d3d79f4eea9c" type="folder">27</container> 
+      				<unittitle>Bonito City, NM,</unittitle>
+      				<unitdate>1904</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="eb10bb88-0dc3-46d9-b3d9-94a3bd9b2494" type="box">3</container> 
+      				<container parent="eb10bb88-0dc3-46d9-b3d9-94a3bd9b2494" type="folder">28</container> 
+      				<unittitle>Brice, NM,</unittitle>
+      				<unitdate>1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="0bd0fbc7-a700-4eca-9f7c-5187dbcead89" type="box">3</container> 
+      				<container parent="0bd0fbc7-a700-4eca-9f7c-5187dbcead89" type="folder">29</container> 
+      				<unittitle>Brilliant, NM (old),</unittitle>
+      				<unitdate>1910-1925, 1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="e0edb795-0e2f-4502-bedc-48418da3de2f" type="box">3</container> 
+      				<container parent="e0edb795-0e2f-4502-bedc-48418da3de2f" type="folder">30</container> 
+      				<unittitle>Cabezon, NM,</unittitle>
+      				<unitdate>1950s, 1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="f684f7da-6f31-4113-89cf-e6f9acaa312e" type="box">3</container> 
+      				<container parent="f684f7da-6f31-4113-89cf-e6f9acaa312e" type="folder">31</container> 
+      				<unittitle>Canada, NM,</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="dcd14615-75cd-460d-8d03-6b03f7590d76" type="box">3</container> 
+      				<container parent="dcd14615-75cd-460d-8d03-6b03f7590d76" type="folder">32</container> 
+      				<unittitle>Carbonateville, NM,</unittitle>
+      				<unitdate>1879-1886</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="48534a23-3269-4149-8767-ee09f5a30b99" type="box">3</container> 
+      				<container parent="48534a23-3269-4149-8767-ee09f5a30b99" type="folder">33</container> 
+      				<unittitle>Carlisle, NM,</unittitle>
+      				<unitdate>1900-1916, 1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="cc293e93-74ec-448b-97da-cbf664a4c2f2" type="box">3</container> 
+      				<container parent="cc293e93-74ec-448b-97da-cbf664a4c2f2" type="folder">34</container> 
+      				<unittitle>Carthage, NM,</unittitle>
+      				<unitdate>1882, 1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="d421ce5b-f761-43b9-b298-233cd44182ed" type="box">3</container> 
+      				<container parent="d421ce5b-f761-43b9-b298-233cd44182ed" type="folder">35</container> 
+      				<unittitle>Catskill, NM,</unittitle>
+      				<unitdate>1887-1900, 1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="3b4c4bca-18b7-4a11-ad11-5325f06e1d33" type="box">3</container> 
+      				<container parent="3b4c4bca-18b7-4a11-ad11-5325f06e1d33" type="folder">36</container> 
+      				<unittitle>Cerrillos, NM,</unittitle>
+      				<unitdate>1880s-1891, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="f0f3481c-1c5a-42fe-b643-5afd25ab328e" type="box">4</container> 
+      				<container parent="f0f3481c-1c5a-42fe-b643-5afd25ab328e" type="folder">1</container> 
+      				<unittitle>Chloride, NM,</unittitle>
+      				<unitdate>1884-1917. 1941, 1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="c44e368b-df17-4ee2-9e87-dd6c2c4960be" type="box">4</container> 
+      				<container parent="c44e368b-df17-4ee2-9e87-dd6c2c4960be" type="folder">2</container> 
+      				<unittitle>Clairmont, NM,</unittitle>
+      				<unitdate>1915, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="4c6b9244-6862-4a2c-9468-1e035ed4d8d8" type="box">4</container> 
+      				<container parent="4c6b9244-6862-4a2c-9468-1e035ed4d8d8" type="folder">3</container> 
+      				<unittitle>Cloverdale, NM,</unittitle>
+      				<unitdate>1900, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="55ffe09f-daed-4cb3-a8fb-4c6df2ddb1d6" type="box">4</container> 
+      				<container parent="55ffe09f-daed-4cb3-a8fb-4c6df2ddb1d6" type="folder">4</container> 
+      				<unittitle>Colfax, NM,</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="1e901753-5693-4a12-b40b-cb9e55e726e9" type="box">4</container> 
+      				<container parent="1e901753-5693-4a12-b40b-cb9e55e726e9" type="folder">5</container> 
+      				<unittitle>Columbus, NM,</unittitle>
+      				<unitdate>1913-1916, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="860c65bb-c341-4e4e-9126-5bb3abbae6e4" type="box">4</container> 
+      				<container parent="860c65bb-c341-4e4e-9126-5bb3abbae6e4" type="folder">6</container> 
+      				<unittitle>Cooks, NM,</unittitle>
+      				<unitdate>1900, 1969, undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="a12afbf1-cd9a-4f02-b8ed-d21d04170be4" type="box">4</container> 
+      				<container parent="a12afbf1-cd9a-4f02-b8ed-d21d04170be4" type="folder">7</container> 
+      				<unittitle>Cooney, NM,</unittitle>
+      				<unitdate>1915, 1968, undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="150e4cf7-7c81-462d-884c-be0ee9d1444b" type="box">4</container> 
+      				<container parent="150e4cf7-7c81-462d-884c-be0ee9d1444b" type="folder">8</container> 
+      				<unittitle>Copper City, NM,</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="49f00f0d-ff42-4aa4-ba00-cbd9499b5f73" type="box">4</container> 
+      				<container parent="49f00f0d-ff42-4aa4-ba00-cbd9499b5f73" type="folder">9</container> 
+      				<unittitle>Copperton, NM,</unittitle>
+      				<unitdate>1905, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="58e77386-296a-4c1f-9788-1dc90e393d30" type="box">4</container> 
+      				<container parent="58e77386-296a-4c1f-9788-1dc90e393d30" type="folder">10</container> 
+      				<unittitle>Coyote, NM (see also Hagan NM),</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="1d02bc46-0349-4a70-8e37-ef778340c72f" type="box">4</container> 
+      				<container parent="1d02bc46-0349-4a70-8e37-ef778340c72f" type="folder">11</container> 
+      				<unittitle>Dawson, NM,</unittitle>
+      				<unitdate>1920s, 1940s, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="a75acd8b-41aa-4986-bb63-01f4fbd69238" type="box">4</container> 
+      				<container parent="a75acd8b-41aa-4986-bb63-01f4fbd69238" type="folder">12</container> 
+      				<unittitle>Diener, NM,</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="49a5e353-4f01-4418-9525-64bff0144537" type="box">4</container> 
+      				<container parent="49a5e353-4f01-4418-9525-64bff0144537" type="folder">13</container> 
+      				<unittitle>Dolores, NM,</unittitle>
+      				<unitdate>1968, undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="5456353a-0bc7-4753-bf57-81b9364e96f0" type="box">4</container> 
+      				<container parent="5456353a-0bc7-4753-bf57-81b9364e96f0" type="folder">14</container> 
+      				<unittitle>Elizabethtown, NM,</unittitle>
+      				<unitdate>1898-1901, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="e1b85af7-3e71-4ad8-83d7-cf18ce5d9294" type="box">4</container> 
+      				<container parent="e1b85af7-3e71-4ad8-83d7-cf18ce5d9294" type="folder">15</container> 
+      				<unittitle>Engle,NM,</unittitle>
+      				<unitdate>1882-1890, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="e9c162be-e8b6-4aba-b351-912c6819db9b" type="box">4</container> 
+      				<container parent="e9c162be-e8b6-4aba-b351-912c6819db9b" type="folder">16</container> 
+      				<unittitle>Estey City, NM,</unittitle>
+      				<unitdate>1917</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="10ba48c7-3b4c-4a13-a9d2-2729a8a93c11" type="box">4</container> 
+      				<container parent="10ba48c7-3b4c-4a13-a9d2-2729a8a93c11" type="folder">17</container> 
+      				<unittitle>Faywood, NM,</unittitle>
+      				<unitdate>1900, 1940, 1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="aff53fb1-0cd4-46fc-bf1e-5aa8fc856a06" type="box">4</container> 
+      				<container parent="aff53fb1-0cd4-46fc-bf1e-5aa8fc856a06" type="folder">18</container> 
+      				<unittitle>Fierro, NM,</unittitle>
+      				<unitdate>1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="c19bcf5b-3f65-491d-81ed-03182b9f25e4" type="box">4</container> 
+      				<container parent="c19bcf5b-3f65-491d-81ed-03182b9f25e4" type="folder">19</container> 
+      				<unittitle>Fleming, NM,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="24e75837-3f96-4e29-bc5b-7dd2ccdff56a" type="box">4</container> 
+      				<container parent="24e75837-3f96-4e29-bc5b-7dd2ccdff56a" type="folder">20</container> 
+      				<unittitle>Gamerco, NM,</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="1c4cf443-cc89-4d1a-836e-1c3da67c2344" type="box">4</container> 
+      				<container parent="1c4cf443-cc89-4d1a-836e-1c3da67c2344" type="folder">21</container> 
+      				<unittitle>Gardiner, NM,</unittitle>
+      				<unitdate>1902-1925, 1939, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="7f178946-6e1a-4e94-8be9-cbb2450b8b6e" type="box">4</container> 
+      				<container parent="7f178946-6e1a-4e94-8be9-cbb2450b8b6e" type="folder">22</container> 
+      				<unittitle>Georgetown, NM,</unittitle>
+      				<unitdate>1880s, 1940, 1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="820d4b32-a1b9-43b0-bc04-e5beb8299040" type="box">4</container> 
+      				<container parent="820d4b32-a1b9-43b0-bc04-e5beb8299040" type="folder">23</container> 
+      				<unittitle>Gibson, NM,</unittitle>
+      				<unitdate>1895-1914, 1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="c4d750ae-fe0e-423b-9476-ef8210cd7478" type="box">4</container> 
+      				<container parent="c4d750ae-fe0e-423b-9476-ef8210cd7478" type="folder">24</container> 
+      				<unittitle>Glenwoody, NM,</unittitle>
+      				<unitdate>1909, 1968, undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="c2d666f4-d797-4b1d-8281-d309ef66a5bb" type="box">4</container> 
+      				<container parent="c2d666f4-d797-4b1d-8281-d309ef66a5bb" type="folder">25</container> 
+      				<unittitle>Glorita, NM,</unittitle>
+      				<unitdate>1870s-1910s</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="a89560e0-eff9-46a8-8560-44c0fd162f89" type="box">4</container> 
+      				<container parent="a89560e0-eff9-46a8-8560-44c0fd162f89" type="folder">26</container> 
+      				<unittitle>Gold Dust, NM,</unittitle>
+      				<unitdate>1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="f6a4f447-d28d-4312-a745-74249c0ed7f9" type="box">4</container> 
+      				<container parent="f6a4f447-d28d-4312-a745-74249c0ed7f9" type="folder">27</container> 
+      				<unittitle>Golden, NM,</unittitle>
+      				<unitdate>1903, 1968, undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="433a3bd6-8008-480a-980d-4a3ad27ecdf7" type="box">4</container> 
+      				<container parent="433a3bd6-8008-480a-980d-4a3ad27ecdf7" type="folder">28</container> 
+      				<unittitle>Gold Hill, NM,</unittitle>
+      				<unitdate>1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="496561dc-e768-474d-a1a7-1be2c6a4c0e4" type="box">4</container> 
+      				<container parent="496561dc-e768-474d-a1a7-1be2c6a4c0e4" type="folder">29</container> 
+      				<unittitle>Grafton, NM,</unittitle>
+      				<unitdate>1882-1900, 1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="bd4e9f59-cf88-4dd5-bd72-4297bccab170" type="box">4</container> 
+      				<container parent="bd4e9f59-cf88-4dd5-bd72-4297bccab170" type="folder">30</container> 
+      				<unittitle>Graham, NM,</unittitle>
+      				<unitdate>1968, undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="49c7c294-dbb5-476a-b264-111db6fed9b4" type="box">5</container> 
+      				<container parent="49c7c294-dbb5-476a-b264-111db6fed9b4" type="folder">1</container> 
+      				<unittitle>Hachita, NM (new),</unittitle>
+      				<unitdate>1967-1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="9ae77555-92e0-4848-96c4-bcf80bd0c956" type="box">5</container> 
+      				<container parent="9ae77555-92e0-4848-96c4-bcf80bd0c956" type="folder">2</container> 
+      				<unittitle>Hachita, NM (old),</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="b3bee1e2-d197-4aa7-9db0-58cc09f248d5" type="box">5</container> 
+      				<container parent="b3bee1e2-d197-4aa7-9db0-58cc09f248d5" type="folder">3</container> 
+      				<unittitle>Hagan, NM,</unittitle>
+      				<unitdate>1953, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="27c1454f-c807-4f9b-a134-653ea7485d69" type="box">5</container> 
+      				<container parent="27c1454f-c807-4f9b-a134-653ea7485d69" type="folder">4</container> 
+      				<unittitle>Hanover, NM,</unittitle>
+      				<unitdate>1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="6f5deef0-e915-406c-9345-08441f7d6cce" type="box">5</container> 
+      				<container parent="6f5deef0-e915-406c-9345-08441f7d6cce" type="folder">4b</container> 
+      				<unittitle>Hansonburg, NM,</unittitle>
+      				<unitdate>1892</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="5e02f541-a227-49c8-82a8-bb9346283853" type="box">5</container> 
+      				<container parent="5e02f541-a227-49c8-82a8-bb9346283853" type="folder">5</container> 
+      				<unittitle>Hermanas, NM,</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="359d2dd7-fa66-4304-a362-f3c807f234cf" type="box">5</container> 
+      				<container parent="359d2dd7-fa66-4304-a362-f3c807f234cf" type="folder">6</container> 
+      				<unittitle>Hermosa, NM,</unittitle>
+      				<unitdate>1885-1900</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="561b8b39-3fcd-4f49-af16-e95431bd16e1" type="box">5</container> 
+      				<container parent="561b8b39-3fcd-4f49-af16-e95431bd16e1" type="folder">7</container> 
+      				<unittitle>Hillsboro, NM,</unittitle>
+      				<unitdate>1880-1900, 1967-1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="2a87b017-c66a-474d-96b1-3392d8909e1f" type="box">5</container> 
+      				<container parent="2a87b017-c66a-474d-96b1-3392d8909e1f" type="folder">8</container> 
+      				<unittitle>Jicarilla, NM,</unittitle>
+      				<unitdate>1884, 1969, undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ded510cf-9f32-4e1a-9932-ffb605cf32ea" type="box">5</container> 
+      				<container parent="ded510cf-9f32-4e1a-9932-ffb605cf32ea" type="folder">9</container> 
+      				<unittitle>Johnson Mesa, NM  (Bell, NM),</unittitle>
+      				<unitdate>1920s, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="25bd36c3-81b2-4b7e-a591-3be88a91d108" type="box">5</container> 
+      				<container parent="25bd36c3-81b2-4b7e-a591-3be88a91d108" type="folder">10</container> 
+      				<unittitle>Kelly, NM,</unittitle>
+      				<unitdate>1884-1915, 1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="aec74ae9-ebab-44ef-8520-d881f1d46cfd" type="box">5</container> 
+      				<container parent="aec74ae9-ebab-44ef-8520-d881f1d46cfd" type="folder">11</container> 
+      				<unittitle>Kingston, NM,</unittitle>
+      				<unitdate>1880-1900, 1967-1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ec983929-184a-4a56-8f4f-4c5065d26cc0" type="box">5</container> 
+      				<container parent="ec983929-184a-4a56-8f4f-4c5065d26cc0" type="folder">12</container> 
+      				<unittitle>Koehler, NM,</unittitle>
+      				<unitdate>1915</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="397f7269-f8f1-4397-ac4b-2dad2fb2be39" type="box">5</container> 
+      				<container parent="397f7269-f8f1-4397-ac4b-2dad2fb2be39" type="folder">13</container> 
+      				<unittitle>La Bajada, NM,</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="95f79b25-1df5-4afd-abf2-92ef45a6845b" type="box">5</container> 
+      				<container parent="95f79b25-1df5-4afd-abf2-92ef45a6845b" type="folder">14</container> 
+      				<unittitle>Lake Valley, NM,</unittitle>
+      				<unitdate>1882-1890, 1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="08bb7a9e-f1cd-40cf-be9c-03d33ffc3fd5" type="box">5</container> 
+      				<container parent="08bb7a9e-f1cd-40cf-be9c-03d33ffc3fd5" type="folder">15</container> 
+      				<unittitle>LaVentana, NM,</unittitle>
+      				<unitdate>1928, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="6b5d153f-6d26-4e80-b6a4-72ecf489a999" type="box">5</container> 
+      				<container parent="6b5d153f-6d26-4e80-b6a4-72ecf489a999" type="folder">16</container> 
+      				<unittitle>Leopold, NM,</unittitle>
+      				<unitdate>1915</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="e6c09750-3ec2-4634-b3ff-93d73828e962" type="box">5</container> 
+      				<container parent="e6c09750-3ec2-4634-b3ff-93d73828e962" type="folder">17</container> 
+      				<unittitle>Lincoln, NM,</unittitle>
+      				<unitdate>1969, undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="17f4d5ca-8c9e-48f2-b2b1-510e77e7a451" type="box">5</container> 
+      				<container parent="17f4d5ca-8c9e-48f2-b2b1-510e77e7a451" type="folder">18</container> 
+      				<unittitle>Madrid, NM,</unittitle>
+      				<unitdate>1920-1940, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="442fe8a6-1c77-4f09-b8a5-36404e6b239d" type="box">5</container> 
+      				<container parent="442fe8a6-1c77-4f09-b8a5-36404e6b239d" type="folder">19</container> 
+      				<unittitle>Malone, NM,</unittitle>
+      				<unitdate>1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="b9033090-87f5-4ff8-b51c-cb701d0fade3" type="box">5</container> 
+      				<container parent="b9033090-87f5-4ff8-b51c-cb701d0fade3" type="folder">20</container> 
+      				<unittitle>Mentmore, NM,</unittitle>
+      				<unitdate>1969</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="8dadc796-f5d9-4ee7-98cc-ea14d51eb51d" type="box">5</container> 
+      				<container parent="8dadc796-f5d9-4ee7-98cc-ea14d51eb51d" type="folder">21</container> 
+      				<unittitle>Midnight, NM,</unittitle>
+      				<unitdate>1953, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="bb047279-a8d3-4c65-a147-6390d18ecc98" type="box">5</container> 
+      				<container parent="bb047279-a8d3-4c65-a147-6390d18ecc98" type="folder">22</container> 
+      				<unittitle>Mineral City, NM,</unittitle>
+      				<unitdate>1882</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="f1056240-f070-4b29-8f8e-06af2929db0b" type="box">5</container> 
+      				<container parent="f1056240-f070-4b29-8f8e-06af2929db0b" type="folder">23</container> 
+      				<unittitle>Modoc, NM,</unittitle>
+      				<unitdate>1904-1909</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="6082a7ff-28a6-4c2d-b737-5d23e1976da9" type="box">5</container> 
+      				<container parent="6082a7ff-28a6-4c2d-b737-5d23e1976da9" type="folder">24</container> 
+      				<unittitle>Mogollon, NM,</unittitle>
+      				<unitdate>1914, 1938, 1968, undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="02604539-0424-4d87-a294-672cf13b5097" type="box">5</container> 
+      				<container parent="02604539-0424-4d87-a294-672cf13b5097" type="folder">25</container> 
+      				<unittitle>Navajo, NM,</unittitle>
+      				<unitdate>1913-1914</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="79f5dd53-867c-4b38-ba3f-74987ca4bfe5" type="box">5</container> 
+      				<container parent="79f5dd53-867c-4b38-ba3f-74987ca4bfe5" type="folder">26</container> 
+      				<unittitle>Nogol, NM,</unittitle>
+      				<unitdate>1884</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="40b58b4e-76d2-4256-90ca-622942344c6c" type="box">5</container> 
+      				<container parent="40b58b4e-76d2-4256-90ca-622942344c6c" type="folder">27</container> 
+      				<unittitle>Nutt, NM,</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="997173c7-c573-4100-9ba6-8b24249e4e9d" type="box">5</container> 
+      				<container parent="997173c7-c573-4100-9ba6-8b24249e4e9d" type="folder">28</container> 
+      				<unittitle>Organ, NM,</unittitle>
+      				<unitdate>1915, 1969</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="21baeae1-15f2-4539-8794-670c94e9e949" type="box">6</container> 
+      				<container parent="21baeae1-15f2-4539-8794-670c94e9e949" type="folder">1</container> 
+      				<unittitle>Orogrande, NM,</unittitle>
+      				<unitdate>1913</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="cd38d20e-adaf-40b3-8425-b82ab4fcd502" type="box">6</container> 
+      				<container parent="cd38d20e-adaf-40b3-8425-b82ab4fcd502" type="folder">2</container> 
+      				<unittitle>Otero, NM,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="341847f5-612f-41fc-9fef-da5d8d45fb2f" type="box">6</container> 
+      				<container parent="341847f5-612f-41fc-9fef-da5d8d45fb2f" type="folder">3</container> 
+      				<unittitle>Park City, NM,</unittitle>
+      				<unitdate>1885</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1594d809-5c4e-489f-a8a1-db7149e1856c" type="box">6</container> 
+      				<container parent="1594d809-5c4e-489f-a8a1-db7149e1856c" type="folder">4</container> 
+      				<unittitle>Parsons, NM,</unittitle>
+      				<unitdate>1890, 1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="2ccaf7ad-47a3-4fe1-9338-1140d4258792" type="box">6</container> 
+      				<container parent="2ccaf7ad-47a3-4fe1-9338-1140d4258792" type="folder">5</container> 
+      				<unittitle>Philipsburg, NM,</unittitle>
+      				<unitdate>1890</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1c7b2665-49cd-45b3-9af4-3bc0dc731495" type="box">6</container> 
+      				<container parent="1c7b2665-49cd-45b3-9af4-3bc0dc731495" type="folder">6</container> 
+      				<unittitle>Pinos Altos, NM,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="fed74395-caae-4c42-9373-c689d0d1e350" type="box">6</container> 
+      				<container parent="fed74395-caae-4c42-9373-c689d0d1e350" type="folder">7</container> 
+      				<unittitle>Pyramid, NM,</unittitle>
+      				<unitdate>1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="ea41f163-318f-4bc1-8086-5d36b68c7c19" type="box">6</container> 
+      				<container parent="ea41f163-318f-4bc1-8086-5d36b68c7c19" type="folder">8</container> 
+      				<unittitle>Rabenton, NM,</unittitle>
+      				<unitdate>1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1fff2a67-d4d4-456a-b91d-229e61d88798" type="box">6</container> 
+      				<container parent="1fff2a67-d4d4-456a-b91d-229e61d88798" type="folder">9</container> 
+      				<unittitle>Red River, NM,</unittitle>
+      				<unitdate>1881-1900, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="3d532862-6b63-409e-8108-9ddc343b6edb" type="box">6</container> 
+      				<container parent="3d532862-6b63-409e-8108-9ddc343b6edb" type="folder">10</container> 
+      				<unittitle>Riley, NM,</unittitle>
+      				<unitdate>1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="7fd1bfa1-9061-4321-939b-b3d3ced3c52b" type="box">6</container> 
+      				<container parent="7fd1bfa1-9061-4321-939b-b3d3ced3c52b" type="folder">11</container> 
+      				<unittitle>Robinson, NM,</unittitle>
+      				<unitdate>1882</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="3caa0edd-02cf-463f-8bb6-12b626524b86" type="box">6</container> 
+      				<container parent="3caa0edd-02cf-463f-8bb6-12b626524b86" type="folder">12</container> 
+      				<unittitle>Rosedale, NM,</unittitle>
+      				<unitdate>1905, 1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="3a21b14f-b689-415d-850c-cc5123bfa72d" type="box">6</container> 
+      				<container parent="3a21b14f-b689-415d-850c-cc5123bfa72d" type="folder">13</container> 
+      				<unittitle>San Antonio, NM,</unittitle>
+      				<unitdate>1882-1884, 1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="5b4d41d9-a514-484d-889b-77dac8fd0b6b" type="box">6</container> 
+      				<container parent="5b4d41d9-a514-484d-889b-77dac8fd0b6b" type="folder">14</container> 
+      				<unittitle>San Augustine, NM,</unittitle>
+      				<unitdate>1909, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="3c288d78-8228-4390-bfef-993e95d6b850" type="box">6</container> 
+      				<container parent="3c288d78-8228-4390-bfef-993e95d6b850" type="folder">15</container> 
+      				<unittitle>San Geronimo, NM,</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="a8a8071a-032d-4ad5-bd7c-e9cbc74fc7b9" type="box">6</container> 
+      				<container parent="a8a8071a-032d-4ad5-bd7c-e9cbc74fc7b9" type="folder">16</container> 
+      				<unittitle>San Marcial, NM,</unittitle>
+      				<unitdate>1888</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="992b8025-cb5e-4c04-b701-5b77dcf074ba" type="box">6</container> 
+      				<container parent="992b8025-cb5e-4c04-b701-5b77dcf074ba" type="folder">17</container> 
+      				<unittitle>San Pedro, NM,</unittitle>
+      				<unitdate>1882-1892, 1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="72170e8c-17bf-4034-97c8-f03c4b512211" type="box">6</container> 
+      				<container parent="72170e8c-17bf-4034-97c8-f03c4b512211" type="folder">18</container> 
+      				<unittitle>Santa Rita, NM,</unittitle>
+      				<unitdate>1967, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="bd2fb826-8346-4f38-a640-ee93e34cc7f0" type="box">6</container> 
+      				<container parent="bd2fb826-8346-4f38-a640-ee93e34cc7f0" type="folder">19</container> 
+      				<unittitle>Sawyer, NM,</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1e1b5a45-8c86-4f79-9c03-9ec0bf3a9c4f" type="box">6</container> 
+      				<container parent="1e1b5a45-8c86-4f79-9c03-9ec0bf3a9c4f" type="folder">20</container> 
+      				<unittitle>Senorito,NM,</unittitle>
+      				<unitdate>1900, 1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="c504aff4-7f2a-45ab-bb10-10ce7652a84b" type="box">6</container> 
+      				<container parent="c504aff4-7f2a-45ab-bb10-10ce7652a84b" type="folder">21</container> 
+      				<unittitle>Shakespear, Ariz.,</unittitle>
+      				<unitdate>1967, undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="fcf2e32e-40c2-4528-ac34-4631b9e797b3" type="box">6</container> 
+      				<container parent="fcf2e32e-40c2-4528-ac34-4631b9e797b3" type="folder">22</container> 
+      				<unittitle>Steins, NM,</unittitle>
+      				<unitdate>1964, 1969</unitdate>
+      			</did> 
+      		</c02> 
+
+<c02 level="file"> 
+      			<did> 
+      				<container id="545cfd09-7c4f-4b30-8806-9a03147dd784" type="box">6</container> 
+      				<container parent="545cfd09-7c4f-4b30-8806-9a03147dd784" type="folder">23</container> 
+      				<unittitle>Sugarite, NM,</unittitle>
+      				<unitdate>1915, 1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="10fd6e97-ed92-46f7-9443-4568fadd0ce5" type="box">6</container> 
+      				<container parent="10fd6e97-ed92-46f7-9443-4568fadd0ce5" type="folder">24</container> 
+      				<unittitle>Swastika, NM,</unittitle>
+      				<unitdate>1923-1925, 1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="c5013efc-16b1-46c2-be31-6267c09ff525" type="box">6</container> 
+      				<container parent="c5013efc-16b1-46c2-be31-6267c09ff525" type="folder">25</container> 
+      				<unittitle>Sylvanite, NM,</unittitle>
+      				<unitdate>1908-1909, 1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="869ded50-3676-4842-8677-400cac2f9f22" type="box">6</container> 
+      				<container parent="869ded50-3676-4842-8677-400cac2f9f22" type="folder">26</container> 
+      				<unittitle>Terrero, NM,</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="5c7c1d3e-3a84-4e60-b980-a0adee50bf3f" type="box">6</container> 
+      				<container parent="5c7c1d3e-3a84-4e60-b980-a0adee50bf3f" type="folder">27</container> 
+      				<unittitle>Trementina, NM,</unittitle>
+      				<unitdate>1967-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1fa35528-1f50-44b5-8dad-df503f20d328" type="box">6</container> 
+      				<container parent="1fa35528-1f50-44b5-8dad-df503f20d328" type="folder">28</container> 
+      				<unittitle>Twinning, NM,</unittitle>
+      				<unitdate>1885-1893</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="22609bdd-ebb8-4caa-b7d7-ce2024765241" type="box">6</container> 
+      				<container parent="22609bdd-ebb8-4caa-b7d7-ce2024765241" type="folder">29</container> 
+      				<unittitle>Tyrone, NM,</unittitle>
+      				<unitdate>1967,undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="a6cc6076-f473-49de-b7d5-34c41d65338e" type="box">6</container> 
+      				<container parent="a6cc6076-f473-49de-b7d5-34c41d65338e" type="folder">30</container> 
+      				<unittitle>Valedon, NM,</unittitle>
+      				<unitdate>1920, 1969, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="155af07f-db4b-4b38-ac5d-e1228fa55c96" type="box">6</container> 
+      				<container parent="155af07f-db4b-4b38-ac5d-e1228fa55c96" type="folder">31</container> 
+      				<unittitle>Van Houten, NM,</unittitle>
+      				<unitdate>1903-1910, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="cf5a6f0b-b026-4a98-b488-f5cdc654f6ce" type="box">6</container> 
+      				<container parent="cf5a6f0b-b026-4a98-b488-f5cdc654f6ce" type="folder">32</container> 
+      				<unittitle>Vera Cruz, NM,</unittitle>
+      				<unitdate>1882</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="cb02fd51-34ae-425b-b87b-470e05e40c58" type="box">6</container> 
+      				<container parent="cb02fd51-34ae-425b-b87b-470e05e40c58" type="folder">33</container> 
+      				<unittitle>Virginia City, NM,</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="64f53623-07d1-4601-b4b9-3912dd9748e2" type="box">6</container> 
+      				<container parent="64f53623-07d1-4601-b4b9-3912dd9748e2" type="folder">34</container> 
+      				<unittitle>Waldo, NM,</unittitle>
+      				<unitdate>1968, undated</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="2dc2ff1a-0e46-4bc7-a645-061ca6ceb254" type="box">6</container> 
+      				<container parent="2dc2ff1a-0e46-4bc7-a645-061ca6ceb254" type="folder">35</container> 
+      				<unittitle>Weaver, NM,</unittitle>
+      				<unitdate>1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="14d36323-b560-401c-bee3-96143b269c80" type="box">6</container> 
+      				<container parent="14d36323-b560-401c-bee3-96143b269c80" type="folder">36</container> 
+      				<unittitle>White Oaks, NM,</unittitle>
+      				<unitdate>1881-1917, 1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="25bd7c53-f67d-4707-b9a1-df9ad707ba7e" type="box">6</container> 
+      				<container parent="25bd7c53-f67d-4707-b9a1-df9ad707ba7e" type="folder">37</container> 
+      				<unittitle>Winston, NM (Fairview, NM),</unittitle>
+      				<unitdate>1880-1919, 1969</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="7d0653fa-f5db-4710-b9b0-a71e04824455" type="box">6</container> 
+      				<container parent="7d0653fa-f5db-4710-b9b0-a71e04824455" type="folder">38</container> 
+      				<unittitle>Yankee, NM,</unittitle>
+      				<unitdate>1907-1913, 1968</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="245b55ba-daf4-4435-a64e-a11945568736" type="box">7</container> 
+      				<container parent="245b55ba-daf4-4435-a64e-a11945568736" type="folder">1</container> 
+      				<unittitle>Apache Indians,</unittitle>
+      				<unitdate>1880s, undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="0856b6d9-1c3a-4331-992a-84eb2514b402" type="box">7</container> 
+      				<container parent="0856b6d9-1c3a-4331-992a-84eb2514b402" type="folder">2</container> 
+      				<unittitle>General information,</unittitle>
+      				<unitdate>1880-1913</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="cc1e14c3-3684-42c3-85f7-08e76314b2ee" type="box">7</container> 
+      				<container parent="cc1e14c3-3684-42c3-85f7-08e76314b2ee" type="folder">3</container> 
+      				<unittitle>Miscellaneous,</unittitle>
+      				<unitdate>1880s-1900, 1964</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="152f4c9d-c508-4e41-aece-ad330ed4f0cd" type="box">7</container> 
+      				<container parent="152f4c9d-c508-4e41-aece-ad330ed4f0cd" type="folder">4</container> 
+      				<unittitle>General advertisements,</unittitle>
+      				<unitdate>1888-1891</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="d4bb1986-7ae5-4bb9-a428-473fa9e2ea7e" type="box">7</container> 
+      				<container parent="d4bb1986-7ae5-4bb9-a428-473fa9e2ea7e" type="folder">5</container> 
+      				<unittitle>Santa Fe, NM,</unittitle>
+      				<unitdate>1968</unitdate>
+      			</did> 
+      		</c02>
+	     </c01> 
+      	<c01 level="series"> 
+      		<did> 
+      			<unitid>Series III</unitid>
+      			<unittitle>Research cards,</unittitle> 
+      			<unitdate type="inclusive">circa 1964-1968</unitdate>
+      		</did>
+      		<scopecontent><p>This series is arranged alphabetically by state then by town.</p></scopecontent>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="5da07c65-58cc-4119-838c-85dde65d5e9a" type="box">8</container> 
+      				<container parent="5da07c65-58cc-4119-838c-85dde65d5e9a" type="folder">1</container> 
+      				<unittitle>Alexandra, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="bee7d067-85f8-4768-81f2-3ba8d2f045e0" type="box">8</container> 
+      				<container parent="bee7d067-85f8-4768-81f2-3ba8d2f045e0" type="folder">2</container> 
+      				<unittitle>Aubrey Landing, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="290f99bc-1e33-4d1a-8cff-bbc8cbd9c6e7" type="box">8</container> 
+      				<container parent="290f99bc-1e33-4d1a-8cff-bbc8cbd9c6e7" type="folder">3</container> 
+      				<unittitle>American Flag, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="92a671b9-032b-413b-bce2-897c2675ef6d" type="box">8</container> 
+      				<container parent="92a671b9-032b-413b-bce2-897c2675ef6d" type="folder">4</container> 
+      				<unittitle>Bellevue, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="71afe412-fc13-4043-8d2d-09417f9be5da" type="box">8</container> 
+      				<container parent="71afe412-fc13-4043-8d2d-09417f9be5da" type="folder">5</container> 
+      				<unittitle>Big Bug, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="640f1949-3a3f-4395-994f-93c6fa96ad1f" type="box">8</container> 
+      				<container parent="640f1949-3a3f-4395-994f-93c6fa96ad1f" type="folder">6</container> 
+      				<unittitle>Bradshaw, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="100fb423-2d7a-4ef9-ac14-b0dfd5337558" type="box">8</container> 
+      				<container parent="100fb423-2d7a-4ef9-ac14-b0dfd5337558" type="folder">7</container> 
+      				<unittitle>Bueno, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="2190d595-4219-43c2-afeb-148ae9498cee" type="box">8</container> 
+      				<container parent="2190d595-4219-43c2-afeb-148ae9498cee" type="folder">8</container> 
+      				<unittitle>Bumblebee, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="d0efdb9c-5955-4364-8fc0-71bc55b9e17b" type="box">8</container> 
+      				<container parent="d0efdb9c-5955-4364-8fc0-71bc55b9e17b" type="folder">9</container> 
+      				<unittitle>Calabasas, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="3ea9fef4-3a1f-497c-8294-eee1dbdda94c" type="box">8</container> 
+      				<container parent="3ea9fef4-3a1f-497c-8294-eee1dbdda94c" type="folder">10</container> 
+      				<unittitle>Castle Dome, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="19cabdda-c4b6-4e5a-b763-1a91c2101c9f" type="box">8</container> 
+      				<container parent="19cabdda-c4b6-4e5a-b763-1a91c2101c9f" type="folder">11</container> 
+      				<unittitle>Catoctin, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="d54776d4-8298-4d00-868c-082802d74a3b" type="box">8</container> 
+      				<container parent="d54776d4-8298-4d00-868c-082802d74a3b" type="folder">12</container> 
+      				<unittitle>Cedar, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="9e75c034-8a16-477c-a39d-62c1558ef1cb" type="box">8</container> 
+      				<container parent="9e75c034-8a16-477c-a39d-62c1558ef1cb" type="folder">13</container> 
+      				<unittitle>Cerbat, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="12a70629-2a59-4638-8b8e-05f566b262fb" type="box">8</container> 
+      				<container parent="12a70629-2a59-4638-8b8e-05f566b262fb" type="folder">14</container> 
+      				<unittitle>Cerro Colorado, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="60782aee-ff5c-489a-99f7-e06b13c7b8d8" type="box">8</container> 
+      				<container parent="60782aee-ff5c-489a-99f7-e06b13c7b8d8" type="folder">15</container> 
+      				<unittitle>Chaparral, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="b6dce720-6ecf-4da8-a5ee-f2834c55388c" type="box">8</container> 
+      				<container parent="b6dce720-6ecf-4da8-a5ee-f2834c55388c" type="folder">16</container> 
+      				<unittitle>Charleston, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="5ec16258-c1da-4d31-bcb2-8377dabda112" type="box">8</container> 
+      				<container parent="5ec16258-c1da-4d31-bcb2-8377dabda112" type="folder">17</container> 
+      				<unittitle>Cherry, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="6c95e0d4-abc2-4ef9-9448-94955a28f04b" type="box">8</container> 
+      				<container parent="6c95e0d4-abc2-4ef9-9448-94955a28f04b" type="folder">18</container> 
+      				<unittitle>Chilito, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="40e7c2b6-dcfb-42da-9c11-c47be1b5e6c5" type="box">8</container> 
+      				<container parent="40e7c2b6-dcfb-42da-9c11-c47be1b5e6c5" type="folder">19</container> 
+      				<unittitle>Chrysotile, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="7cd65669-d08e-456d-b7ee-ff691a2751e4" type="box">8</container> 
+      				<container parent="7cd65669-d08e-456d-b7ee-ff691a2751e4" type="folder">20</container> 
+      				<unittitle>Clarkstown, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="ed3ae409-514a-43e4-860b-6ba4b9bd2d0f" type="box">8</container> 
+      				<container parent="ed3ae409-514a-43e4-860b-6ba4b9bd2d0f" type="folder">21</container> 
+      				<unittitle>Christmas, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="2986c761-c048-4fb9-b709-c8a106417e45" type="box">8</container> 
+      				<container parent="2986c761-c048-4fb9-b709-c8a106417e45" type="folder">22</container> 
+      				<unittitle>Cleator, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="e9d0d54d-0de6-4932-863a-7bc14373824f" type="box">8</container> 
+      				<container parent="e9d0d54d-0de6-4932-863a-7bc14373824f" type="folder">23</container> 
+      				<unittitle>Clip, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="f7dc5438-0623-4382-a713-8d64f29d7e86" type="box">8</container> 
+      				<container parent="f7dc5438-0623-4382-a713-8d64f29d7e86" type="folder">24</container> 
+      				<unittitle>Cochran, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="f790778f-ead3-493d-817a-3515f33de073" type="box">8</container> 
+      				<container parent="f790778f-ead3-493d-817a-3515f33de073" type="folder">25</container> 
+      				<unittitle>Columbia, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="c6fa77a8-3efa-44db-b7bf-66c6993babc7" type="box">8</container> 
+      				<container parent="c6fa77a8-3efa-44db-b7bf-66c6993babc7" type="folder">26</container> 
+      				<unittitle>Congress, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="4a3e0d77-902f-4fcf-86b0-656f412197d2" type="box">8</container> 
+      				<container parent="4a3e0d77-902f-4fcf-86b0-656f412197d2" type="folder">27</container> 
+      				<unittitle>Copper Creek, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="17de3765-966f-4e3b-902c-7df2c98acedd" type="box">8</container> 
+      				<container parent="17de3765-966f-4e3b-902c-7df2c98acedd" type="folder">28</container> 
+      				<unittitle>Courtland, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="a0e1b8f6-b2df-4944-a3e7-896a81fb015a" type="box">8</container> 
+      				<container parent="a0e1b8f6-b2df-4944-a3e7-896a81fb015a" type="folder">29</container> 
+      				<unittitle>Constellation, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1cfa4f5a-c68b-49ec-8705-e97566fbdd45" type="box">8</container> 
+      				<container parent="1cfa4f5a-c68b-49ec-8705-e97566fbdd45" type="folder">30</container> 
+      				<unittitle>Contention, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="aacd4099-e710-4c9f-a5db-a538e3881064" type="box">8</container> 
+      				<container parent="aacd4099-e710-4c9f-a5db-a538e3881064" type="folder">31</container> 
+      				<unittitle>Copper Hill, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="35f9c381-294d-41dd-97d9-62d61cc9b4a9" type="box">8</container> 
+      				<container parent="35f9c381-294d-41dd-97d9-62d61cc9b4a9" type="folder">32</container> 
+      				<unittitle>Crown King, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="39b86d23-895b-495a-9bf7-a436d76dfad5" type="box">8</container> 
+      				<container parent="39b86d23-895b-495a-9bf7-a436d76dfad5" type="folder">33</container> 
+      				<unittitle>DeNoon, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1c98e657-6872-4715-b7ed-2cc76d5f7786" type="box">8</container> 
+      				<container parent="1c98e657-6872-4715-b7ed-2cc76d5f7786" type="folder">34</container> 
+      				<unittitle>Dos Cabezas, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="f098ba2f-8391-4f7e-8e77-724916b58099" type="box">8</container> 
+      				<container parent="f098ba2f-8391-4f7e-8e77-724916b58099" type="folder">35</container> 
+      				<unittitle>Ehrenberg, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="e8ac7fe3-927d-44cc-ac09-51a2865f5646" type="box">8</container> 
+      				<container parent="e8ac7fe3-927d-44cc-ac09-51a2865f5646" type="folder">36</container> 
+      				<unittitle>Fairbank, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="8f3fb76c-bc6e-4ffc-b7fd-279e91587182" type="box">8</container> 
+      				<container parent="8f3fb76c-bc6e-4ffc-b7fd-279e91587182" type="folder">37</container> 
+      				<unittitle>Fortuna, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="51f374b5-7e24-4687-b6c8-2f5978d6e343" type="box">8</container> 
+      				<container parent="51f374b5-7e24-4687-b6c8-2f5978d6e343" type="folder">38</container> 
+      				<unittitle>Frisco, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="277d9cc4-9214-464c-a72b-4e34eceb404e" type="box">8</container> 
+      				<container parent="277d9cc4-9214-464c-a72b-4e34eceb404e" type="folder">39</container> 
+      				<unittitle>Galeyville Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1e0d1f0b-4b40-4420-9d86-c227b8852763" type="box">8</container> 
+      				<container parent="1e0d1f0b-4b40-4420-9d86-c227b8852763" type="folder">40</container> 
+      				<unittitle>Garces, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="507e0bd6-2274-4773-ac72-dd1093f756a7" type="box">8</container> 
+      				<container parent="507e0bd6-2274-4773-ac72-dd1093f756a7" type="folder">41</container> 
+      				<unittitle>Germa, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="13ef7f0f-a294-48de-a419-02e3bfdb0d5f" type="box">8</container> 
+      				<container parent="13ef7f0f-a294-48de-a419-02e3bfdb0d5f" type="folder">42</container> 
+      				<unittitle>Gila City, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="b93d0826-1c3c-4a59-8824-9e697b4e04ef" type="box">8</container> 
+      				<container parent="b93d0826-1c3c-4a59-8824-9e697b4e04ef" type="folder">43</container> 
+      				<unittitle>Gillett, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="c933f8d4-4f2e-48a0-b711-2ec15605ec8e" type="box">8</container> 
+      				<container parent="c933f8d4-4f2e-48a0-b711-2ec15605ec8e" type="folder">44</container> 
+      				<unittitle>Gleeson, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="4711fcf7-11b5-45f6-ae75-7066cf7eabea" type="box">8</container> 
+      				<container parent="4711fcf7-11b5-45f6-ae75-7066cf7eabea" type="folder">45</container> 
+      				<unittitle>Golconda, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="b4a29f28-ae93-43f8-be6c-92b42fb12ff2" type="box">8</container> 
+      				<container parent="b4a29f28-ae93-43f8-be6c-92b42fb12ff2" type="folder">46</container> 
+      				<unittitle>Gold Basin, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="e76e299e-bbc5-4c9f-8752-79c06efa84a9" type="box">8</container> 
+      				<container parent="e76e299e-bbc5-4c9f-8752-79c06efa84a9" type="folder">47</container> 
+      				<unittitle>Goldfield, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="6198f2ff-a7b1-42ed-9d76-39357dc7f857" type="box">8</container> 
+      				<container parent="6198f2ff-a7b1-42ed-9d76-39357dc7f857" type="folder">48</container> 
+      				<unittitle>Goldflat, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="34ea708a-94e1-444c-8f44-d3c708de4ec0" type="box">8</container> 
+      				<container parent="34ea708a-94e1-444c-8f44-d3c708de4ec0" type="folder">49</container> 
+      				<unittitle>Gold Road, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="3f13f75a-1667-4b49-9228-a56b942eb02b" type="box">8</container> 
+      				<container parent="3f13f75a-1667-4b49-9228-a56b942eb02b" type="folder">50</container> 
+      				<unittitle>Greaterville, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="120ec709-c90b-41f9-9b24-8070e01467fd" type="box">8</container> 
+      				<container parent="120ec709-c90b-41f9-9b24-8070e01467fd" type="folder">51</container> 
+      				<unittitle>Greenwood City, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="53c80f31-a071-4310-8340-881b35c58270" type="box">8</container> 
+      				<container parent="53c80f31-a071-4310-8340-881b35c58270" type="folder">52</container> 
+      				<unittitle>Gunsight, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="a5dfce7a-9768-445a-ad8d-041d13986213" type="box">8</container> 
+      				<container parent="a5dfce7a-9768-445a-ad8d-041d13986213" type="folder">53</container> 
+      				<unittitle>Hamburg, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="dd09a2df-fd02-4b79-ae17-448aa261d4ce" type="box">8</container> 
+      				<container parent="dd09a2df-fd02-4b79-ae17-448aa261d4ce" type="folder">54</container> 
+      				<unittitle>Harqua Hala, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="6069155c-b9cd-4341-868c-e92f60a886bf" type="box">8</container> 
+      				<container parent="6069155c-b9cd-4341-868c-e92f60a886bf" type="folder">55</container> 
+      				<unittitle>Harrisburg, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="dace6599-ad81-4098-96ae-4906fa23d848" type="box">8</container> 
+      				<container parent="dace6599-ad81-4098-96ae-4906fa23d848" type="folder">56</container> 
+      				<unittitle>Hilltop, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="3962df4b-62f9-432a-8f23-dc1b03a10fe8" type="box">8</container> 
+      				<container parent="3962df4b-62f9-432a-8f23-dc1b03a10fe8" type="folder">57</container> 
+      				<unittitle>Harshaw, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1a2721c1-805e-43f4-a47c-c06c4f9d17b2" type="box">8</container> 
+      				<container parent="1a2721c1-805e-43f4-a47c-c06c4f9d17b2" type="folder">58</container> 
+      				<unittitle>Helvetia, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="294ade9a-c78d-4d2a-b707-bc1a3a551168" type="box">8</container> 
+      				<container parent="294ade9a-c78d-4d2a-b707-bc1a3a551168" type="folder">59</container> 
+      				<unittitle>Howells, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="fb554a5c-b554-44d3-ad3c-aad22e64390a" type="box">8</container> 
+      				<container parent="fb554a5c-b554-44d3-ad3c-aad22e64390a" type="folder">60</container> 
+      				<unittitle>Jerome, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="10272971-631a-4c7c-89c6-5b488ae1c476" type="box">8</container> 
+      				<container parent="10272971-631a-4c7c-89c6-5b488ae1c476" type="folder">61</container> 
+      				<unittitle>Johnson, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="3de520b1-7ad0-4587-962b-2a8f11d53fb0" type="box">8</container> 
+      				<container parent="3de520b1-7ad0-4587-962b-2a8f11d53fb0" type="folder">62</container> 
+      				<unittitle>Katherine, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="192a250d-e2dc-4381-8497-0984150508dc" type="box">8</container> 
+      				<container parent="192a250d-e2dc-4381-8497-0984150508dc" type="folder">63</container> 
+      				<unittitle>Kofa, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="3719a6f5-9719-461d-8610-3e3020dd9290" type="box">8</container> 
+      				<container parent="3719a6f5-9719-461d-8610-3e3020dd9290" type="folder">64</container> 
+      				<unittitle>La Paz, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="43c32641-1930-4248-ac79-c2a64415adb8" type="box">8</container> 
+      				<container parent="43c32641-1930-4248-ac79-c2a64415adb8" type="folder">65</container> 
+      				<unittitle>Lochiel, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="902d7cf0-ba19-45fc-ab25-d2dfdaf76232" type="box">8</container> 
+      				<container parent="902d7cf0-ba19-45fc-ab25-d2dfdaf76232" type="folder">66</container> 
+      				<unittitle>McCabe, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="8ec631ce-0551-4bc4-99b9-44caad5e8c10" type="box">8</container> 
+      				<container parent="8ec631ce-0551-4bc4-99b9-44caad5e8c10" type="folder">67</container> 
+      				<unittitle>McMillenville, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="8ad326a2-24f9-4ee6-ac1a-1616ca71d512" type="box">8</container> 
+      				<container parent="8ad326a2-24f9-4ee6-ac1a-1616ca71d512" type="folder">68</container> 
+      				<unittitle>Metcalf, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="fbc5a9d9-78c4-4b45-8032-ac5a4e2b05af" type="box">8</container> 
+      				<container parent="fbc5a9d9-78c4-4b45-8032-ac5a4e2b05af" type="folder">69</container> 
+      				<unittitle>Middlemarch, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="594ff1e5-5adf-45c3-af18-2ca890aabdc2" type="box">8</container> 
+      				<container parent="594ff1e5-5adf-45c3-af18-2ca890aabdc2" type="folder">70</container> 
+      				<unittitle>Millville, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="530d32a0-993f-49a6-84d4-d23c482c416f" type="box">8</container> 
+      				<container parent="530d32a0-993f-49a6-84d4-d23c482c416f" type="folder">71</container> 
+      				<unittitle>Mineral Hill, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="fccf2201-77c3-488c-9865-ba5e37bb2d15" type="box">8</container> 
+      				<container parent="fccf2201-77c3-488c-9865-ba5e37bb2d15" type="folder">72</container> 
+      				<unittitle>Mineral Park, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="af9185f5-2ea5-4794-9fd1-e60c89a8a817" type="box">8</container> 
+      				<container parent="af9185f5-2ea5-4794-9fd1-e60c89a8a817" type="folder">73</container> 
+      				<unittitle>Mohave City, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="00412c61-e23a-4946-801d-19a18cf77cf8" type="box">8</container> 
+      				<container parent="00412c61-e23a-4946-801d-19a18cf77cf8" type="folder">74</container> 
+      				<unittitle>Mowry, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="a8546564-2726-4b21-9461-d85db87f1f85" type="box">8</container> 
+      				<container parent="a8546564-2726-4b21-9461-d85db87f1f85" type="folder">75</container> 
+      				<unittitle>Nugget, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="1ea8da07-e956-4d69-a6d4-99b704b54375" type="box">8</container> 
+      				<container parent="1ea8da07-e956-4d69-a6d4-99b704b54375" type="folder">76</container> 
+      				<unittitle>Oatman, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="5205b72b-0e39-4923-ba03-dd63926d97cb" type="box">8</container> 
+      				<container parent="5205b72b-0e39-4923-ba03-dd63926d97cb" type="folder">77</container> 
+      				<unittitle>Octave, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="6e900aee-f556-4ddd-9b7d-77468c494ced" type="box">8</container> 
+      				<container parent="6e900aee-f556-4ddd-9b7d-77468c494ced" type="folder">78</container> 
+      				<unittitle>Old Glory, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="eb2f3428-346a-426b-a8ef-1159fe6aedb8" type="box">8</container> 
+      				<container parent="eb2f3428-346a-426b-a8ef-1159fe6aedb8" type="folder">79</container> 
+      				<unittitle>Oldtrails, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="c51c51eb-4371-4a53-95b1-203e78c5ec85" type="box">8</container> 
+      				<container parent="c51c51eb-4371-4a53-95b1-203e78c5ec85" type="folder">80</container> 
+      				<unittitle>Olive, Ariz. (also Olive Camp),</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="b7d3f54f-9b99-461d-99f5-2c1b6908a306" type="box">8</container> 
+      				<container parent="b7d3f54f-9b99-461d-99f5-2c1b6908a306" type="folder">81</container> 
+      				<unittitle>Olive City, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="5177770d-827f-47d7-8661-a667e68845c3" type="box">8</container> 
+      				<container parent="5177770d-827f-47d7-8661-a667e68845c3" type="folder">82</container> 
+      				<unittitle>Oro Belle, Ariz. (also Harrington),</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="2c556886-4df2-4e37-a3a4-72f42d277c63" type="box">8</container> 
+      				<container parent="2c556886-4df2-4e37-a3a4-72f42d277c63" type="folder">83</container> 
+      				<unittitle>Oro Blanco, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="b39e67ba-6f48-42f0-aef3-01d1691228cd" type="box">8</container> 
+      				<container parent="b39e67ba-6f48-42f0-aef3-01d1691228cd" type="folder">84</container> 
+      				<unittitle>Owens, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ba47a834-adaa-4f24-ab84-eebc4a29bbe0" type="box">8</container> 
+      				<container parent="ba47a834-adaa-4f24-ab84-eebc4a29bbe0" type="folder">85</container> 
+      				<unittitle>Paradise, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="25d5f5bd-fc5b-475f-9bcf-64bb7851bc4e" type="box">8</container> 
+      				<container parent="25d5f5bd-fc5b-475f-9bcf-64bb7851bc4e" type="folder">86</container> 
+      				<unittitle>Pearce, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="681ee220-3880-4826-8e7f-468b68fec811" type="box">8</container> 
+      				<container parent="681ee220-3880-4826-8e7f-468b68fec811" type="folder">87</container> 
+      				<unittitle>Pinal, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="de44b58d-f3ef-402e-aefd-9665b91180e0" type="box">8</container> 
+      				<container parent="de44b58d-f3ef-402e-aefd-9665b91180e0" type="folder">88</container> 
+      				<unittitle>Pioneer, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="e73d1962-51ca-4207-b8ef-b0e59320676d" type="box">8</container> 
+      				<container parent="e73d1962-51ca-4207-b8ef-b0e59320676d" type="folder">89</container> 
+      				<unittitle>Placerita, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="76b45123-9339-43d8-ba1e-f29f2f41fee8" type="box">8</container> 
+      				<container parent="76b45123-9339-43d8-ba1e-f29f2f41fee8" type="folder">90</container> 
+      				<unittitle>Planet, Ariz. (and Eagle Landing),</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="1a0455fe-c7fe-4fef-b171-7aafb4ddeace" type="box">8</container> 
+      				<container parent="1a0455fe-c7fe-4fef-b171-7aafb4ddeace" type="folder">91</container> 
+      				<unittitle>Poland, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="a57b8716-b9bf-41fe-a0cd-1c3a236e0ffd" type="box">8</container> 
+      				<container parent="a57b8716-b9bf-41fe-a0cd-1c3a236e0ffd" type="folder">92</container> 
+      				<unittitle>Polaris, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="aa0aaae5-1436-48f9-9a5c-68ec3205009d" type="box">8</container> 
+      				<container parent="aa0aaae5-1436-48f9-9a5c-68ec3205009d" type="folder">93</container> 
+      				<unittitle>Polhamus Landing, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="74d50da0-c091-42ca-b1fc-a36152d93b7e" type="box">8</container> 
+      				<container parent="74d50da0-c091-42ca-b1fc-a36152d93b7e" type="folder">94</container> 
+      				<unittitle>Queen, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="69279a99-735b-426d-bdb3-dc84f900597a" type="box">8</container> 
+      				<container parent="69279a99-735b-426d-bdb3-dc84f900597a" type="folder">95</container> 
+      				<unittitle>Quijotoa, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="a8a2a29c-e77e-4e19-8060-929a60127320" type="box">8</container> 
+      				<container parent="a8a2a29c-e77e-4e19-8060-929a60127320" type="folder">96</container> 
+      				<unittitle>Reymert, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="473a93d4-4c47-4aad-a893-2a297f009b26" type="box">8</container> 
+      				<container parent="473a93d4-4c47-4aad-a893-2a297f009b26" type="folder">97</container> 
+      				<unittitle>Richinbar, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ca0ad1c5-1afa-454e-86d3-1c6ec2f202aa" type="box">8</container> 
+      				<container parent="ca0ad1c5-1afa-454e-86d3-1c6ec2f202aa" type="folder">98</container> 
+      				<unittitle>Rosemont, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="18f2aa95-a1a2-42f6-9f5d-bea1632cc083" type="box">8</container> 
+      				<container parent="18f2aa95-a1a2-42f6-9f5d-bea1632cc083" type="folder">99</container> 
+      				<unittitle>Ruby, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="25112cd9-f217-4044-8bc4-76974207ebe4" type="box">8</container> 
+      				<container parent="25112cd9-f217-4044-8bc4-76974207ebe4" type="folder">100</container> 
+      				<unittitle>Russellville, Ariz. (Russell Camp),</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="9f71ba80-0aba-49d7-8f22-6a01788fd343" type="box">8</container> 
+      				<container parent="9f71ba80-0aba-49d7-8f22-6a01788fd343" type="folder">101</container> 
+      				<unittitle>Salero, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="f7502cdb-b284-42e9-b049-6c9ac3b77bba" type="box">8</container> 
+      				<container parent="f7502cdb-b284-42e9-b049-6c9ac3b77bba" type="folder">102</container> 
+      				<unittitle>Sasco, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="e95ecd75-ff99-4ede-8631-061a6b76dbeb" type="box">8</container> 
+      				<container parent="e95ecd75-ff99-4ede-8631-061a6b76dbeb" type="folder">103</container> 
+      				<unittitle>Senator, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="42633eb6-c0de-43f0-9b28-bf204ac03618" type="box">8</container> 
+      				<container parent="42633eb6-c0de-43f0-9b28-bf204ac03618" type="folder">104</container> 
+      				<unittitle>Seymour, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="268ff153-e934-45a9-bb63-f92841ef06a3" type="box">8</container> 
+      				<container parent="268ff153-e934-45a9-bb63-f92841ef06a3" type="folder">105</container> 
+      				<unittitle>Signal, Ariz. and Liverpool Landing,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="6de8d05d-4156-4a7b-98fb-7fb7276eedf2" type="box">8</container> 
+      				<container parent="6de8d05d-4156-4a7b-98fb-7fb7276eedf2" type="folder">106</container> 
+      				<unittitle>Silent, Ariz. and Norton’s Landing,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="fda3a2da-6e74-4418-9af5-b99645553968" type="box">8</container> 
+      				<container parent="fda3a2da-6e74-4418-9af5-b99645553968" type="folder">107</container> 
+      				<unittitle>Silverbell, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="e86c5df2-e780-4bfe-bd59-9fa7724e8cfe" type="box">8</container> 
+      				<container parent="e86c5df2-e780-4bfe-bd59-9fa7724e8cfe" type="folder">108</container> 
+      				<unittitle>Silver King, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="6716463f-0b3d-4982-8b21-ca48a0b9eb7c" type="box">8</container> 
+      				<container parent="6716463f-0b3d-4982-8b21-ca48a0b9eb7c" type="folder">109</container> 
+      				<unittitle>Stanton, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="8ae69870-71ec-4ea4-9693-0b769a7a053c" type="box">8</container> 
+      				<container parent="8ae69870-71ec-4ea4-9693-0b769a7a053c" type="folder">110</container> 
+      				<unittitle>Stockton, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ad68386e-54d1-4c21-b250-f1cae2f8f146" type="box">8</container> 
+      				<container parent="ad68386e-54d1-4c21-b250-f1cae2f8f146" type="folder">111</container> 
+      				<unittitle>Stoddard, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="6f7832fb-fc4d-4c8d-a6dc-5b081e14d2d3" type="box">8</container> 
+      				<container parent="6f7832fb-fc4d-4c8d-a6dc-5b081e14d2d3" type="folder">112</container> 
+      				<unittitle>Sunnyside, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="53cd184d-a1cb-401a-aaef-40e88c0ed6dd" type="box">8</container> 
+      				<container parent="53cd184d-a1cb-401a-aaef-40e88c0ed6dd" type="folder">113</container> 
+      				<unittitle>Swansea, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ecfb4796-b996-451d-a8d2-686f8635b128" type="box">8</container> 
+      				<container parent="ecfb4796-b996-451d-a8d2-686f8635b128" type="folder">114</container> 
+      				<unittitle>Tiger, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="451d3eae-dd2e-4e68-b44f-5496a88d70b1" type="box">8</container> 
+      				<container parent="451d3eae-dd2e-4e68-b44f-5496a88d70b1" type="folder">115</container> 
+      				<unittitle>Tip Top, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ab732659-de18-45fa-8d42-62c21916b97e" type="box">8</container> 
+      				<container parent="ab732659-de18-45fa-8d42-62c21916b97e" type="folder">116</container> 
+      				<unittitle>Tombstone, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="72772b9c-5fd4-4a62-ab49-8ed4e1e3777d" type="box">8</container> 
+      				<container parent="72772b9c-5fd4-4a62-ab49-8ed4e1e3777d" type="folder">117</container> 
+      				<unittitle>Total Wreck, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="82bc2491-9d9d-49c1-971a-d4ff022d7a5e" type="box">8</container> 
+      				<container parent="82bc2491-9d9d-49c1-971a-d4ff022d7a5e" type="folder">118</container> 
+      				<unittitle>Troy, Ariz.,</unittitle>
+      				<unitdate>circa 1964-1968</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="31967e6c-8675-4856-8b1d-df3d6abe2885" type="box">9</container> 
+      				<container parent="31967e6c-8675-4856-8b1d-df3d6abe2885" type="folder">1</container> 
+      				<unittitle>Twin Buttes, Ariz.,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="e07ff538-5c04-4b55-9314-346bb4e3ef26" type="box">9</container> 
+      				<container parent="e07ff538-5c04-4b55-9314-346bb4e3ef26" type="folder">2</container> 
+      				<unittitle>Vekol, Ariz.,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="46cab857-49e4-475f-b669-2160984cc028" type="box">9</container> 
+      				<container parent="46cab857-49e4-475f-b669-2160984cc028" type="folder">3</container> 
+      				<unittitle>Venezia, Ariz.,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="cfbf56cb-f3c2-4c93-85bd-83fd9569e35c" type="box">9</container> 
+      				<container parent="cfbf56cb-f3c2-4c93-85bd-83fd9569e35c" type="folder">4</container> 
+      				<unittitle>Virginia City, Ariz.,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="7013abab-8017-4714-b9ac-3365cb4d96f3" type="box">9</container> 
+      				<container parent="7013abab-8017-4714-b9ac-3365cb4d96f3" type="folder">5</container> 
+      				<unittitle>Vulture City, Ariz.,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="81e659aa-9c7e-4049-8204-5da32174769e" type="box">9</container> 
+      				<container parent="81e659aa-9c7e-4049-8204-5da32174769e" type="folder">6</container> 
+      				<unittitle>Walker, Ariz.,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="52b2dd8e-0cc4-40dc-8153-60a00e746391" type="box">9</container> 
+      				<container parent="52b2dd8e-0cc4-40dc-8153-60a00e746391" type="folder">7</container> 
+      				<unittitle>Washington Camp and Duquesne,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="21d71413-307e-4b47-a1ab-2b13703565b7" type="box">9</container> 
+      				<container parent="21d71413-307e-4b47-a1ab-2b13703565b7" type="folder">8</container> 
+      				<unittitle>Weaver, Ariz.,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="f6a65e12-4f14-43a4-897f-a840b6cc2d86" type="box">9</container> 
+      				<container parent="f6a65e12-4f14-43a4-897f-a840b6cc2d86" type="folder">9</container> 
+      				<unittitle>White Hills, Ariz.,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="8cedfabe-52d2-4cbb-8907-9ef9bd28ad60" type="box">9</container> 
+      				<container parent="8cedfabe-52d2-4cbb-8907-9ef9bd28ad60" type="folder">10</container> 
+      				<unittitle>General information Ariz. mines,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="38b0d575-7cf3-4739-afd9-3bcae82ca67f" type="box">9</container> 
+      				<container parent="38b0d575-7cf3-4739-afd9-3bcae82ca67f" type="folder">11</container> 
+      				<unittitle>General information, New Mexico mines,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="ce892dd8-69a0-4e3d-b5dd-bf9b179bd61a" type="box">9</container> 
+      				<container parent="ce892dd8-69a0-4e3d-b5dd-bf9b179bd61a" type="folder">12</container> 
+      				<unittitle>Albemarle, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1b651a22-9a0f-47ec-a8b4-301fb57e34b6" type="box">9</container> 
+      				<container parent="1b651a22-9a0f-47ec-a8b4-301fb57e34b6" type="folder">13</container> 
+      				<unittitle>Allerton, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="2bfc05e2-e7dd-4063-bb17-04c88eaad4e0" type="box">9</container> 
+      				<container parent="2bfc05e2-e7dd-4063-bb17-04c88eaad4e0" type="folder">14</container> 
+      				<unittitle>Allison, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="407a64be-4687-48e5-b68a-e3971fe611de" type="box">9</container> 
+      				<container parent="407a64be-4687-48e5-b68a-e3971fe611de" type="folder">15</container> 
+      				<unittitle>Alma, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="7c09d840-2259-4df4-a599-56f83baf4ead" type="box">9</container> 
+      				<container parent="7c09d840-2259-4df4-a599-56f83baf4ead" type="folder">16</container> 
+      				<unittitle>Amizette, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="63820738-28d4-4167-8200-ac7fb8c2c5ba" type="box">9</container> 
+      				<container parent="63820738-28d4-4167-8200-ac7fb8c2c5ba" type="folder">17</container> 
+      				<unittitle>Andrews, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="b898e782-c594-4296-bf63-335bf6855ee8" type="box">9</container> 
+      				<container parent="b898e782-c594-4296-bf63-335bf6855ee8" type="folder">18</container> 
+      				<unittitle>Baldy, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="9e1d5b49-df1b-4dba-84a9-9a9617ab9e6b" type="box">9</container> 
+      				<container parent="9e1d5b49-df1b-4dba-84a9-9a9617ab9e6b" type="folder">19</container> 
+      				<unittitle>Black Hawk, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="3a1683fa-ff28-41bf-987d-c53ee0528af2" type="box">9</container> 
+      				<container parent="3a1683fa-ff28-41bf-987d-c53ee0528af2" type="folder">20</container> 
+      				<unittitle>Bland, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="baf218cb-dbe6-4c3d-b2d0-5f57dfad17eb" type="box">9</container> 
+      				<container parent="baf218cb-dbe6-4c3d-b2d0-5f57dfad17eb" type="folder">21</container> 
+      				<unittitle>Blossburg, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="0902b4f1-7356-40d1-b0d1-8809aa65174c" type="box">9</container> 
+      				<container parent="0902b4f1-7356-40d1-b0d1-8809aa65174c" type="folder">22</container> 
+      				<unittitle>Bonanza City, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="581b3463-d03a-4dc4-aff0-2fc8f89ec06e" type="box">9</container> 
+      				<container parent="581b3463-d03a-4dc4-aff0-2fc8f89ec06e" type="folder">23</container> 
+      				<unittitle>Bonito City, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="a162be2c-6fc8-4f2f-bd45-453f646ba285" type="box">9</container> 
+      				<container parent="a162be2c-6fc8-4f2f-bd45-453f646ba285" type="folder">24</container> 
+      				<unittitle>Brilliant, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="0098e151-2de2-459a-9a6b-410c68b0fe72" type="box">9</container> 
+      				<container parent="0098e151-2de2-459a-9a6b-410c68b0fe72" type="folder">25</container> 
+      				<unittitle>Cabezon, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="b6e933c6-3303-4e26-9f65-ad446785bce7" type="box">9</container> 
+      				<container parent="b6e933c6-3303-4e26-9f65-ad446785bce7" type="folder">26</container> 
+      				<unittitle>Carbonateville, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="aafb3cd8-c057-49a4-bf54-61a6e097e7ab" type="box">9</container> 
+      				<container parent="aafb3cd8-c057-49a4-bf54-61a6e097e7ab" type="folder">27</container> 
+      				<unittitle>Carlisle, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="91eae753-01ed-4f2f-9106-b9c56947f98d" type="box">9</container> 
+      				<container parent="91eae753-01ed-4f2f-9106-b9c56947f98d" type="folder">28</container> 
+      				<unittitle>Carthage, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="6ca8b02c-83fe-448a-a730-a2defe88dbee" type="box">9</container> 
+      				<container parent="6ca8b02c-83fe-448a-a730-a2defe88dbee" type="folder">29</container> 
+      				<unittitle>Catskill, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="65479b2c-2899-4ee9-a69c-d1549a552171" type="box">9</container> 
+      				<container parent="65479b2c-2899-4ee9-a69c-d1549a552171" type="folder">30</container> 
+      				<unittitle>Cerrillos, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="8022ba6e-4914-4e08-813e-c65479c1979b" type="box">9</container> 
+      				<container parent="8022ba6e-4914-4e08-813e-c65479c1979b" type="folder">31</container> 
+      				<unittitle>Chance City, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="41285932-0979-4b76-b361-f67ce2fc027a" type="box">9</container> 
+      				<container parent="41285932-0979-4b76-b361-f67ce2fc027a" type="folder">32</container> 
+      				<unittitle>Chloride, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="7e1e2bcc-9657-49f0-96c3-0d3887d3afad" type="box">9</container> 
+      				<container parent="7e1e2bcc-9657-49f0-96c3-0d3887d3afad" type="folder">33</container> 
+      				<unittitle>Clairmont, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="20433d8e-8d37-475c-9c23-1b22486d5995" type="box">9</container> 
+      				<container parent="20433d8e-8d37-475c-9c23-1b22486d5995" type="folder">34</container> 
+      				<unittitle>Clarkville, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="9d0d575f-581f-440a-846c-7c10fe350494" type="box">9</container> 
+      				<container parent="9d0d575f-581f-440a-846c-7c10fe350494" type="folder">35</container> 
+      				<unittitle>Cloverdale, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="73895608-3027-4f96-a8ab-db047cf1f7f0" type="box">9</container> 
+      				<container parent="73895608-3027-4f96-a8ab-db047cf1f7f0" type="folder">36</container> 
+      				<unittitle>Coalora, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="5dc66dfa-4ce4-4970-8998-63c0a9e9f11d" type="box">9</container> 
+      				<container parent="5dc66dfa-4ce4-4970-8998-63c0a9e9f11d" type="folder">37</container> 
+      				<unittitle>Colfax, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="c0d23a20-e49e-483f-bbcf-3db71d188042" type="box">9</container> 
+      				<container parent="c0d23a20-e49e-483f-bbcf-3db71d188042" type="folder">38</container> 
+      				<unittitle>Columbus, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="c282d593-ba01-49bb-9885-c6bf25a4695d" type="box">9</container> 
+      				<container parent="c282d593-ba01-49bb-9885-c6bf25a4695d" type="folder">39</container> 
+      				<unittitle>Cooks Peak, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="08c38e72-b1c4-4e7b-887b-990b0d990532" type="box">9</container> 
+      				<container parent="08c38e72-b1c4-4e7b-887b-990b0d990532" type="folder">40</container> 
+      				<unittitle>Coolidge, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="865f2ece-12ee-4b6d-b165-1288581639e7" type="box">9</container> 
+      				<container parent="865f2ece-12ee-4b6d-b165-1288581639e7" type="folder">41</container> 
+      				<unittitle>Cooney, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="e1f9e535-b367-4341-a2dd-1b51ccb60254" type="box">9</container> 
+      				<container parent="e1f9e535-b367-4341-a2dd-1b51ccb60254" type="folder">42</container> 
+      				<unittitle>Copper City, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="a521a2f7-dba6-405c-8a8b-c4a2fad80c6b" type="box">9</container> 
+      				<container parent="a521a2f7-dba6-405c-8a8b-c4a2fad80c6b" type="folder">43</container> 
+      				<unittitle>Copperton, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="eb984703-479f-462c-b4d3-cf9eef1e5784" type="box">9</container> 
+      				<container parent="eb984703-479f-462c-b4d3-cf9eef1e5784" type="folder">44</container> 
+      				<unittitle>Council Rock, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="b405e63f-438d-4808-9fd4-3422189a1caf" type="box">9</container> 
+      				<container parent="b405e63f-438d-4808-9fd4-3422189a1caf" type="folder">45</container> 
+      				<unittitle>Dawson, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="78b3ccd2-9461-4506-9763-8af06c660f49" type="box">9</container> 
+      				<container parent="78b3ccd2-9461-4506-9763-8af06c660f49" type="folder">46</container> 
+      				<unittitle>Dolores, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="0705d5c9-3ca6-46bd-aaad-9e8e1340125a" type="box">9</container> 
+      				<container parent="0705d5c9-3ca6-46bd-aaad-9e8e1340125a" type="folder">47</container> 
+      				<unittitle>Elizabethtown, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="a6c681ed-2c2d-42a0-9f3b-37208582fc18" type="box">9</container> 
+      				<container parent="a6c681ed-2c2d-42a0-9f3b-37208582fc18" type="folder">48</container> 
+      				<unittitle>Engle, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="bab4c724-a280-4a4a-8fa8-207d8371240b" type="box">9</container> 
+      				<container parent="bab4c724-a280-4a4a-8fa8-207d8371240b" type="folder">49</container> 
+      				<unittitle>Estey City, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="1cb20aec-909b-44fc-8f5f-452fde25f56e" type="box">9</container> 
+      				<container parent="1cb20aec-909b-44fc-8f5f-452fde25f56e" type="folder">50</container> 
+      				<unittitle>Faywood Hot Springs, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="b9ffe53a-cdbc-400f-801b-32bc2927e8cc" type="box">9</container> 
+      				<container parent="b9ffe53a-cdbc-400f-801b-32bc2927e8cc" type="folder">51</container> 
+      				<unittitle>Fleming, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="f9f27b58-311b-40da-b090-126055e3228f" type="box">9</container> 
+      				<container parent="f9f27b58-311b-40da-b090-126055e3228f" type="folder">52</container> 
+      				<unittitle>Gamerco, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="4bcf64da-b932-4f9c-9aaf-a71177d13ee0" type="box">9</container> 
+      				<container parent="4bcf64da-b932-4f9c-9aaf-a71177d13ee0" type="folder">53</container> 
+      				<unittitle>Gardiner, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="21750412-a207-44d8-9d71-eadcb84e8a98" type="box">9</container> 
+      				<container parent="21750412-a207-44d8-9d71-eadcb84e8a98" type="folder">54</container> 
+      				<unittitle>Georgetown, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="6fb53f6e-59e3-4de5-ba35-8ceb90462a4c" type="box">9</container> 
+      				<container parent="6fb53f6e-59e3-4de5-ba35-8ceb90462a4c" type="folder">55</container> 
+      				<unittitle>Gibson, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="224abec2-fd93-4127-a05e-7c54d3453c03" type="box">9</container> 
+      				<container parent="224abec2-fd93-4127-a05e-7c54d3453c03" type="folder">56</container> 
+      				<unittitle>Glen-Woody, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="68d6c629-b142-4fe6-8254-0fda6f2a3aa1" type="box">9</container> 
+      				<container parent="68d6c629-b142-4fe6-8254-0fda6f2a3aa1" type="folder">57</container> 
+      				<unittitle>Glorieta, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="054d131e-9977-43f8-bc5f-e9f4a49b5c18" type="box">9</container> 
+      				<container parent="054d131e-9977-43f8-bc5f-e9f4a49b5c18" type="folder">58</container> 
+      				<unittitle>Gold Dust, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="aa020c9b-84c1-4968-aecf-0d6306db89dd" type="box">9</container> 
+      				<container parent="aa020c9b-84c1-4968-aecf-0d6306db89dd" type="folder">59</container> 
+      				<unittitle>Golden, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+<c02 level="file"> 
+      			<did> 
+      				<container id="856b6fbe-8f03-4a6e-a86f-4f674d6352be" type="box">9</container> 
+      				<container parent="856b6fbe-8f03-4a6e-a86f-4f674d6352be" type="folder">60</container> 
+      				<unittitle>Gold Hill, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02>  
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="a5a75d46-b8f9-4d94-a033-780e0342fab7" type="box">9</container> 
+      				<container parent="a5a75d46-b8f9-4d94-a033-780e0342fab7" type="folder">61</container> 
+      				<unittitle>Grafton, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="1356539d-322d-468a-8cb4-3c60d8b82d22" type="box">9</container> 
+      				<container parent="1356539d-322d-468a-8cb4-3c60d8b82d22" type="folder">62</container> 
+      				<unittitle>Graham, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="8a2b0c6e-51c3-4bd5-86a2-70032b393b9a" type="box">9</container> 
+      				<container parent="8a2b0c6e-51c3-4bd5-86a2-70032b393b9a" type="folder">63</container> 
+      				<unittitle>Hachita, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="40aadf7e-4606-4444-b980-3f7609d94992" type="box">9</container> 
+      				<container parent="40aadf7e-4606-4444-b980-3f7609d94992" type="folder">64</container> 
+      				<unittitle>Hagan, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="feb5362b-8280-4d0a-9de3-a5df9d26b11a" type="box">9</container> 
+      				<container parent="feb5362b-8280-4d0a-9de3-a5df9d26b11a" type="folder">65</container> 
+      				<unittitle>Hematite, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="660cbb8c-3976-46b6-98ec-a327435f9fde" type="box">9</container> 
+      				<container parent="660cbb8c-3976-46b6-98ec-a327435f9fde" type="folder">66</container> 
+      				<unittitle>Hermanas, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="6f1201f0-5cb4-487b-b485-5d9eeb85b15a" type="box">9</container> 
+      				<container parent="6f1201f0-5cb4-487b-b485-5d9eeb85b15a" type="folder">67</container> 
+      				<unittitle>Hermosa, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="315e7096-84dc-4293-b3b5-ad0fa8cb6e61" type="box">9</container> 
+      				<container parent="315e7096-84dc-4293-b3b5-ad0fa8cb6e61" type="folder">68</container> 
+      				<unittitle>Hillsboro, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="7fee66a6-7d25-4601-a6bc-59eaa02fbf92" type="box">9</container> 
+      				<container parent="7fee66a6-7d25-4601-a6bc-59eaa02fbf92" type="folder">69</container> 
+      				<unittitle>Jicarilla, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="bf1d8d5d-4b61-4db5-a01d-3812fbd308f6" type="box">9</container> 
+      				<container parent="bf1d8d5d-4b61-4db5-a01d-3812fbd308f6" type="folder">70</container> 
+      				<unittitle>Johnson Mesa, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="2b944727-e19e-427e-b941-f0858ca09550" type="box">9</container> 
+      				<container parent="2b944727-e19e-427e-b941-f0858ca09550" type="folder">71</container> 
+      				<unittitle>Kelly, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="3d3f365d-8fd6-4801-bca1-57064c4f919c" type="box">9</container> 
+      				<container parent="3d3f365d-8fd6-4801-bca1-57064c4f919c" type="folder">72</container> 
+      				<unittitle>Kingston, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="10eae38d-547f-461f-8ddc-9a1101fcc469" type="box">9</container> 
+      				<container parent="10eae38d-547f-461f-8ddc-9a1101fcc469" type="folder">73</container> 
+      				<unittitle>Koehler, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="8b0d05ef-c274-4d89-baea-16b7b3a3210d" type="box">9</container> 
+      				<container parent="8b0d05ef-c274-4d89-baea-16b7b3a3210d" type="folder">74</container> 
+      				<unittitle>La Bajada, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="fcc6b7ca-a0c8-4396-9112-11cc397600cc" type="box">9</container> 
+      				<container parent="fcc6b7ca-a0c8-4396-9112-11cc397600cc" type="folder">75</container> 
+      				<unittitle>La Belle, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="44b6bf88-b432-4193-ade8-baf720f7acf5" type="box">9</container> 
+      				<container parent="44b6bf88-b432-4193-ade8-baf720f7acf5" type="folder">76</container> 
+      				<unittitle>Lake Valley, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="92b9b219-66ab-450c-978c-19e82fac994d" type="box">9</container> 
+      				<container parent="92b9b219-66ab-450c-978c-19e82fac994d" type="folder">77</container> 
+      				<unittitle>La Ventana, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ec7c8146-8913-4c86-b8e2-eccc3a438a77" type="box">9</container> 
+      				<container parent="ec7c8146-8913-4c86-b8e2-eccc3a438a77" type="folder">78</container> 
+      				<unittitle>Leopold, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="a8541c45-82af-450b-8f5a-d21d89a24084" type="box">9</container> 
+      				<container parent="a8541c45-82af-450b-8f5a-d21d89a24084" type="folder">79</container> 
+      				<unittitle>Lincoln, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="131d9468-c793-465e-8dd3-5c1033655664" type="box">9</container> 
+      				<container parent="131d9468-c793-465e-8dd3-5c1033655664" type="folder">80</container> 
+      				<unittitle>Madrid, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="13cf5f09-772d-4eb7-9820-4d8c621808c0" type="box">9</container> 
+      				<container parent="13cf5f09-772d-4eb7-9820-4d8c621808c0" type="folder">81</container> 
+      				<unittitle>Malone, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="5997b53d-944f-4127-880e-47255334f990" type="box">9</container> 
+      				<container parent="5997b53d-944f-4127-880e-47255334f990" type="folder">82</container> 
+      				<unittitle>Mentmore, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="4dd1a4dc-b3c5-4937-befd-264c9bb6458d" type="box">9</container> 
+      				<container parent="4dd1a4dc-b3c5-4937-befd-264c9bb6458d" type="folder">83</container> 
+      				<unittitle>Midnight and Anchor, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="83f86829-2099-4df9-a5a5-93aebfdadfa2" type="box">9</container> 
+      				<container parent="83f86829-2099-4df9-a5a5-93aebfdadfa2" type="folder">84</container> 
+      				<unittitle>Mineral Hill, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="215b3295-b8f3-4bd4-9501-3cfd868ec1db" type="box">9</container> 
+      				<container parent="215b3295-b8f3-4bd4-9501-3cfd868ec1db" type="folder">85</container> 
+      				<unittitle>Modoc, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="d3c4b805-6056-496c-a72c-537672ab6cf8" type="box">9</container> 
+      				<container parent="d3c4b805-6056-496c-a72c-537672ab6cf8" type="folder">86</container> 
+      				<unittitle>Mogollon, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="843a12f8-02a8-4a55-9b04-9ca8849520a6" type="box">9</container> 
+      				<container parent="843a12f8-02a8-4a55-9b04-9ca8849520a6" type="folder">87</container> 
+      				<unittitle>Navajo, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="e76aa40a-1f0e-4186-b8e9-1d27c387edf7" type="box">9</container> 
+      				<container parent="e76aa40a-1f0e-4186-b8e9-1d27c387edf7" type="folder">88</container> 
+      				<unittitle>Nutt, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="f937432e-d8ec-4cb9-a7d5-87281080adf4" type="box">9</container> 
+      				<container parent="f937432e-d8ec-4cb9-a7d5-87281080adf4" type="folder">89</container> 
+      				<unittitle>Oak Grove, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="b0a84ff9-6bbc-4501-8a20-d04f47f83f02" type="box">9</container> 
+      				<container parent="b0a84ff9-6bbc-4501-8a20-d04f47f83f02" type="folder">90</container> 
+      				<unittitle>Organ, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="9ac38ae8-99b1-48be-8f60-69496cb3ccdb" type="box">9</container> 
+      				<container parent="9ac38ae8-99b1-48be-8f60-69496cb3ccdb" type="folder">91</container> 
+      				<unittitle>Orogrande, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="caba9d96-0aca-4be6-bba0-3d1b48beec73" type="box">9</container> 
+      				<container parent="caba9d96-0aca-4be6-bba0-3d1b48beec73" type="folder">92</container> 
+      				<unittitle>Otero, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="baa204de-0360-4740-a7aa-782b3e3673e0" type="box">9</container> 
+      				<container parent="baa204de-0360-4740-a7aa-782b3e3673e0" type="folder">93</container> 
+      				<unittitle>Park City, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="1eae8bcd-27a7-48ad-bda5-798d48ec5267" type="box">9</container> 
+      				<container parent="1eae8bcd-27a7-48ad-bda5-798d48ec5267" type="folder">94</container> 
+      				<unittitle>Parsons, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="a7df53ec-a487-4342-8bba-ae6e4cc254a8" type="box">9</container> 
+      				<container parent="a7df53ec-a487-4342-8bba-ae6e4cc254a8" type="folder">95</container> 
+      				<unittitle>Pascal, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="8f3f5111-7b8a-40d4-9f07-746ea9787a9d" type="box">9</container> 
+      				<container parent="8f3f5111-7b8a-40d4-9f07-746ea9787a9d" type="folder">96</container> 
+      				<unittitle>Perryville, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="705dcbaa-62e9-408f-ade8-a450fc7c2acc" type="box">9</container> 
+      				<container parent="705dcbaa-62e9-408f-ade8-a450fc7c2acc" type="folder">97</container> 
+      				<unittitle>Pinos Altos, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="28321423-bcfe-46f3-9791-162eb2e5a100" type="box">9</container> 
+      				<container parent="28321423-bcfe-46f3-9791-162eb2e5a100" type="folder">98</container> 
+      				<unittitle>Pyramid, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="7370076f-08fb-4578-b606-a139f16ea03d" type="box">9</container> 
+      				<container parent="7370076f-08fb-4578-b606-a139f16ea03d" type="folder">99</container> 
+      				<unittitle>Rabenton, NM,</unittitle>
+      				<unitdate>circa 1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="471d8ad3-cf42-43dc-99e5-d0ba65055585" type="box">9</container> 
+      				<container parent="471d8ad3-cf42-43dc-99e5-d0ba65055585" type="folder">100</container> 
+      				<unittitle>Red River, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="6d648333-2933-4a7a-967c-52f020404a97" type="box">9</container> 
+      				<container parent="6d648333-2933-4a7a-967c-52f020404a97" type="folder">101</container> 
+      				<unittitle>Riley, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ad5a0a03-595b-4a79-a8ca-733e00301f20" type="box">9</container> 
+      				<container parent="ad5a0a03-595b-4a79-a8ca-733e00301f20" type="folder">102</container> 
+      				<unittitle>Robinson, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="1db3d9c4-6943-48f2-bf38-c0193029029a" type="box">9</container> 
+      				<container parent="1db3d9c4-6943-48f2-bf38-c0193029029a" type="folder">103</container> 
+      				<unittitle>Rosedale, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="6788782b-cf70-4155-806e-c2d4db129cc4" type="box">9</container> 
+      				<container parent="6788782b-cf70-4155-806e-c2d4db129cc4" type="folder">104</container> 
+      				<unittitle>Sacramento City, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="985951a6-3962-40ba-959e-3b3513025cf4" type="box">9</container> 
+      				<container parent="985951a6-3962-40ba-959e-3b3513025cf4" type="folder">105</container> 
+      				<unittitle>San Antonio, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="fd473149-b17a-49c8-984b-b801475f9b89" type="box">9</container> 
+      				<container parent="fd473149-b17a-49c8-984b-b801475f9b89" type="folder">106</container> 
+      				<unittitle>San Augustine, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="00251475-8084-49c6-9124-42e656883a26" type="box">9</container> 
+      				<container parent="00251475-8084-49c6-9124-42e656883a26" type="folder">107</container> 
+      				<unittitle>San Geronimo, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="86480521-b5c7-40dd-9121-74507d78113e" type="box">9</container> 
+      				<container parent="86480521-b5c7-40dd-9121-74507d78113e" type="folder">108</container> 
+      				<unittitle>San Marcial, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="110a7c1d-b3b9-4af1-9e56-b4f664049f74" type="box">9</container> 
+      				<container parent="110a7c1d-b3b9-4af1-9e56-b4f664049f74" type="folder">109</container> 
+      				<unittitle>San Pedro, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="95b66e2d-dba4-4eb4-9d1c-daca3ef760a3" type="box">9</container> 
+      				<container parent="95b66e2d-dba4-4eb4-9d1c-daca3ef760a3" type="folder">110</container> 
+      				<unittitle>Santa Rita, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="04b861d6-6f98-4272-9db3-076a4274205d" type="box">9</container> 
+      				<container parent="04b861d6-6f98-4272-9db3-076a4274205d" type="folder">111</container> 
+      				<unittitle>Sawyer, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="68004560-f5c6-43af-8cbb-a2feffc88caf" type="box">9</container> 
+      				<container parent="68004560-f5c6-43af-8cbb-a2feffc88caf" type="folder">112</container> 
+      				<unittitle>Senorito, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="7b9b982c-1d5f-4dcc-915a-bb227801824b" type="box">9</container> 
+      				<container parent="7b9b982c-1d5f-4dcc-915a-bb227801824b" type="folder">113</container> 
+      				<unittitle>Shakespeare, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="0798dc2b-a9e4-44bf-9b57-db8d47755729" type="box">9</container> 
+      				<container parent="0798dc2b-a9e4-44bf-9b57-db8d47755729" type="folder">114</container> 
+      				<unittitle>Shandon, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="0bd598d1-2798-4647-bc44-58a3904fc06a" type="box">9</container> 
+      				<container parent="0bd598d1-2798-4647-bc44-58a3904fc06a" type="folder">115</container> 
+      				<unittitle>Steins, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="e304dbac-776e-4050-b31d-7308fa28906d" type="box">9</container> 
+      				<container parent="e304dbac-776e-4050-b31d-7308fa28906d" type="folder">116</container> 
+      				<unittitle>Sugarite, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="af69b71e-36ff-4e5c-a9f6-a74f4068a714" type="box">9</container> 
+      				<container parent="af69b71e-36ff-4e5c-a9f6-a74f4068a714" type="folder">117</container> 
+      				<unittitle>Swastika, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="e27370e5-e919-4f41-8dd1-8eb636ac2946" type="box">9</container> 
+      				<container parent="e27370e5-e919-4f41-8dd1-8eb636ac2946" type="folder">118</container> 
+      				<unittitle>Sylvanite, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="da560e00-778a-4637-9fe6-81af77551e0d" type="box">9</container> 
+      				<container parent="da560e00-778a-4637-9fe6-81af77551e0d" type="folder">119</container> 
+      				<unittitle>Telegraph, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="6de97d22-3274-4535-bd18-7e16b08b3567" type="box">9</container> 
+      				<container parent="6de97d22-3274-4535-bd18-7e16b08b3567" type="folder">120</container> 
+      				<unittitle>Tererro, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="8a0b4e50-6cc0-4022-b708-b644bfea914b" type="box">9</container> 
+      				<container parent="8a0b4e50-6cc0-4022-b708-b644bfea914b" type="folder">121</container> 
+      				<unittitle>Tierra Blanca, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="26ddda59-61d4-4ebb-8e85-d9dddbc551c8" type="box">9</container> 
+      				<container parent="26ddda59-61d4-4ebb-8e85-d9dddbc551c8" type="folder">122</container> 
+      				<unittitle>Tokay, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="7b2913d8-8276-4fb9-bf92-99a5d974e9e4" type="box">9</container> 
+      				<container parent="7b2913d8-8276-4fb9-bf92-99a5d974e9e4" type="folder">123</container> 
+      				<unittitle>Trementina, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="c2ae6b87-aa37-4f1a-bb65-62400ae22694" type="box">9</container> 
+      				<container parent="c2ae6b87-aa37-4f1a-bb65-62400ae22694" type="folder">124</container> 
+      				<unittitle>Twining, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="6f88af2d-3230-4c12-b18b-0644070b9e77" type="box">9</container> 
+      				<container parent="6f88af2d-3230-4c12-b18b-0644070b9e77" type="folder">125</container> 
+      				<unittitle>Tyrone, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="291c6a4c-29e7-4221-b030-b76cf0dc3d53" type="box">9</container> 
+      				<container parent="291c6a4c-29e7-4221-b030-b76cf0dc3d53" type="folder">126</container> 
+      				<unittitle>Valedon, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ecea04f7-0e99-48dc-adf7-ebdc83647656" type="box">9</container> 
+      				<container parent="ecea04f7-0e99-48dc-adf7-ebdc83647656" type="folder">127</container> 
+      				<unittitle>Van Houten, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="da5e1fe7-ee62-4793-8b5a-37a7a15817aa" type="box">9</container> 
+      				<container parent="da5e1fe7-ee62-4793-8b5a-37a7a15817aa" type="folder">128</container> 
+      				<unittitle>Vera Cruz, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ee621936-54a3-48ac-b594-9dc7dd523230" type="box">9</container> 
+      				<container parent="ee621936-54a3-48ac-b594-9dc7dd523230" type="folder">129</container> 
+      				<unittitle>Virginia City, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="ff75397a-a62d-4b42-8e8f-ed11e0464edd" type="box">9</container> 
+      				<container parent="ff75397a-a62d-4b42-8e8f-ed11e0464edd" type="folder">130</container> 
+      				<unittitle>Waldo, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="18acf324-0f4d-4dd5-b3e3-fa1c5f6b4b1e" type="box">9</container> 
+      				<container parent="18acf324-0f4d-4dd5-b3e3-fa1c5f6b4b1e" type="folder">131</container> 
+      				<unittitle>White Oaks, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="52b8de21-f2f2-48af-a103-193dc41a2a2e" type="box">9</container> 
+      				<container parent="52b8de21-f2f2-48af-a103-193dc41a2a2e" type="folder">132</container> 
+      				<unittitle>Winston. NM (Fairview),</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="c32cf6e2-3aac-4361-875e-5382063469dd" type="box">9</container> 
+      				<container parent="c32cf6e2-3aac-4361-875e-5382063469dd" type="folder">133</container> 
+      				<unittitle>Yankee, NM,</unittitle>
+      				<unitdate>1968-1974</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="dd13b300-fd41-49e7-8d10-6ad22a0b45cc" type="box">10</container> 
+      				<container parent="dd13b300-fd41-49e7-8d10-6ad22a0b45cc" type="folder">1</container> 
+      				<unittitle>Research cards, general information and locations not used in the book,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="2ebc785c-82c2-4b4b-83ed-ea6ec3720262" type="box">10</container> 
+      				<container parent="2ebc785c-82c2-4b4b-83ed-ea6ec3720262" type="folder">2</container> 
+      				<unittitle>Research contacts,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02> 
+      	</c01>
+      	<c01 level="series"> 
+      		<did> 
+      			<unitid>Series IV</unitid>
+      			<unittitle>Negatives,</unittitle> 
+      			<unitdate type="inclusive">1964-1969</unitdate>
+      		</did>
+      		
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="0fbf2d4b-e9ad-4eec-807c-3d5aae16ca28" type="box">10</container> 
+      				<container parent="0fbf2d4b-e9ad-4eec-807c-3d5aae16ca28" type="folder">3</container> 
+      				<unittitle>Negatives of book page layout, 3 1/2" x 4 1/2",</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="88ca863e-bf93-4224-a881-fd42496be4f9" type="box">11</container> 
+      				 
+      				<unittitle>35mm negatives of the photographs  in boxes 1 through 7,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02> 
+      	</c01>
+      	<c01 level="series"> 
+      		<did> 
+      			<unitid>Series V</unitid>
+      			<unittitle>Published books and map,</unittitle> 
+      			<unitdate type="inclusive">1969, 1975</unitdate>
+      		</did>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="9a021e93-5019-4ef3-bea9-e7679ce630f0" type="box">12</container> 
+      				<container parent="9a021e93-5019-4ef3-bea9-e7679ce630f0" type="folder">1</container> 
+      				<unittitle>Map of Lincoln County, NM ghost towns,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02> 
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="668071f4-f182-40c9-af60-d37f11229282" type="box">12</container> 
+      				<container parent="668071f4-f182-40c9-af60-d37f11229282" type="folder">2</container> 
+      				<unittitle><emph render="underline">Ghost Towns of Arizona</emph>,</unittitle>
+      				<unitdate>1969</unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container id="a2d9de35-c576-4dd7-9c72-2c672a043838" type="box">12</container> 
+      				<container parent="a2d9de35-c576-4dd7-9c72-2c672a043838" type="folder">3</container> 
+      				<unittitle><emph render="underline">Ghost Towns and Mining Camps of New Mexico</emph>,</unittitle>
+      				<unitdate>1975</unitdate>
+      			</did> 
+      		</c02>
+      	</c01>
+      </dsc> 
+   </archdesc>
+</ead>

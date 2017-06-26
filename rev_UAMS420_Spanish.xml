@@ -1,0 +1,2497 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="complete" langencoding="ISO_639-2b" relatedencoding="dc" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid >UAMS420</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="title">Registros de la Familia De la Torre,
+               <date calendar="gregorian" encodinganalog="date" era="ce" normal="1874/2003">1874-2003</date>
+             </titleproper>
+           <author audience="internal" encodinganalog="creator">Processed by Hannivett Nabahe.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="publisher">University of Arizona Libraries, Special Collections</publisher>
+            <address>
+               <addressline>PO Box 210055</addressline>
+               <addressline>Tucson, AZ 85721-0055</addressline>
+               <addressline>Phone: 520-621-6423</addressline>
+               <addressline>Fax: 520-621-9733</addressline>
+               <addressline>URL:http://speccoll.library.arizona.edu</addressline>
+               <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+            <date calendar="gregorian" encodinganalog="date" era="ce" normal="2015">2015</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Inventory encoded in Oxygen XML editor by Hannivett Nabahe. 
+            <date encodinganalog="date" era="ce" normal="20151009">October 09, 2015</date></creation>
+         <langusage>Finding guide encoded in <language  langcode="spa" scriptcode="Latn">Spanish.</language></langusage>
+         <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules> 
+      </profiledesc>
+   <revisiondesc><change><date normal="2017-06-22">2017-06-22</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader>
+   <frontmatter>
+      <titlepage>
+         <titleproper encodinganalog="245$a">Registros de la Familia De la Torre,
+            <date calendar="gregorian" era="ce" normal="1874/2003">1874-2003</date>
+         </titleproper>
+         <num>Código de Referencia: MS 420</num>
+         <publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections.</publisher>
+         <p>© 2015 Arizona Board of Regents.  All rights reserved.</p>
+      </titlepage>
+   </frontmatter>
+   <archdesc encodinganalog="351$c" level="collection">
+      <did>
+         <head>Visión General de la Colección</head>
+         <unitid countrycode="US" encodinganalog="99" label="Código de Referencia" repositorycode="US-azu">MS 420</unitid>
+         <origination label="Creator"><corpname encodinganalog="110" role="creator" rules="aacr2">La Familia De la Torre</corpname></origination>
+         <unittitle encodinganalog="245$a" label="Título">Registros de la Familia De la Torre
+            <unitdate encodinganalog="245$f" label="Fecha" normal="1874/2003" type="inclusive">1874-2003</unitdate></unittitle>
+         <physdesc label="Volumen y Soporte">
+            <extent encodinganalog="300$a">13 Cajas,</extent>
+            <extent encodinganalog="300$a"> 12.50 Pies Lineales</extent>
+         </physdesc>
+         <abstract encodinganalog="520" label="Resúmen">Registro, 1874-2003 (Volumen 1910-1946). Esta colección contiene material que documenta la vida de la familia De la Torre y su involucración en el Movimiento Cristero. La familia se trasladó del centro de México a Nogales, Sonora, llevando con ellos el Movimiento al norte del país. El registro consiste de materiales bibliográficos; correspondencia; materiales impresos, incluyendo folletos, boletines de noticias, recortes de periódico e declaraciones públicas; fotografías y negativos. El volumen, o mayor parte del registro, está constituido por materiales impresos y fotografías. Esta colección también incluye más de 280 libros que pueden encontrarse en el catálogo de la Biblioteca de la Universidad de Arizona bajo el título Cristero Movement Collection. La mayoría de los materiales son en español. An <extref actuate="onload" href="http://www.azarchivesonline.org/xtf/view?docId=ead/uoa/UAMS420.xml" linktype="simple" show="new" title="English Language" /> version of this finding aid is available.</abstract>
+         <note>
+            <p>Nota Sobre el Procesamiento: Materiales adicionales fueron proporcionados por Jose De la Torre en el año 2014, y estos fueron procesados como suplemento del registro en el año 2015. La guía general de la colección fue revisada con el fín de incluir esta última adición de manuscritos y fotografías como una nueva serie.</p>   
+         </note>
+         <langmaterial label="Lengua">Español      
+         </langmaterial>
+         <repository label="Depósito">
+            <corpname encodinganalog="852$a">University of Arizona Libraries, Special Collections</corpname>
+            <address>
+               <addressline>University of Arizona Libraries, Special Collections</addressline>
+               <addressline>PO Box 210055</addressline>
+               <addressline>Tucson, AZ 85721-0055</addressline>
+               <addressline>Phone: 520-621-6423</addressline>
+               <addressline>Fax: 520-621-9733</addressline>
+               <addressline>URL:http://speccoll.library.arizona.edu</addressline>
+               <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+      </did>
+         <accessrestrict encodinganalog="506">
+            <head>Restricciones de Acceso</head>
+            <p>No hay restricciones de accesso.</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <head>Derechos de Autor</head>
+            <p>El Arizona Board of Regents (el Consejo de Administración de la Educación Superior del Estado de Arizona) reserva los derechos sobre esta colección en nombre del Departamento de Colecciones Especiales de la Universidad de Arizona. La publicación, la exposición o la distribución de cualquier información proveniente de esta colección requiere el permiso por escrito del supervisor del Departmento de Archivos y Colecciones Especiales.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <head>Cita Bibliográfica</head>
+            <p>De la Torre Family Papers, MS 420. University of Arizona Libraries, Special Collections.</p>
+         </prefercite>
+      <relatedmaterial encodinganalog="544">
+         <head>Unidades de Descripción Relacionadas</head>
+         <p>Esta colección también incluye más de 280 libros que pueden encontrarse en el catálogo de la Biblioteca de la Universidad de Arizona bajo el título Cristero Movement Collection.</p>
+      </relatedmaterial>
+      <bioghist encodinganalog="545">
+         <head>Nota Histórica</head>
+         <p>El Movimiento Cristero (1926-1929) fue una revuelta de los católicos en contra del gobierno mexicano la cual ocurrió en respuesta a legislación anticatólica.  Estás legislaciones comenzaron con la Constitución de México en 1917, pero fue con la llegada del presidente Plutarco Elías Calles (1924-1928) que estas leyes comenzaron a ser impuestas. El presidente Calles agregó a estas sus propias severas legislaciones, las cuales imponían severas restricciones a clero y la iglesia en México. El Movimiento Cristero se originó en el sur de México y rápidamente llegó al norte.</p>
+         <p>El Movimiento duró una década y costó más de 100,000 vidas. Los Cristeros eventualmente lograron establecer su libertad religiosa en práctica, pues aunque las provisiones anticléricas se mantuvieron como parte de la Constitución, estas dejaron de ser impuestas. La familia De la Torre, teniendo vínculos estrechos con la Iglesia Católica y el clero, fue instrumental en transmitir al Movimiento Cristero al norte de México. La familia, originaria de Zacatecas y Guanajuato, se mudó a Aguascalientes y después, en 1922, a San Luis Potosí. La familia se trasladó una vez más, a Tampico, por razones económicas hasta que finalmente se mudaron a Nogales, tanto Sonora como Arizona, para escapar la persecución de las autoridades debido a su involucramiento con la Iglesia y el Movimiento.</p>    
+         <p>Ignacio De la Torre Berumen (n. 1878) y María De la Torre Uribarren (Velasco) (n. 1878) fueron los padres de siete hijos y una hija, muchos de los cuales llegaron a ser figuras importantes dentro del Movimiento, tanto como miembros del clero y seglares. María (n. 1900) fue una figura central de apoyo para la familia, sirviendo de punto central para la comunicación e información. El novio de María, Fidel Muro, quien también fue parte del Movimiento, fue capturado y ejecutado en 1928. Ignacio (n. 1901) fue un sacerdote que se convirtió en vicario general de la arquáidiócesis de Hermosillo. Él fue activo en el campo de la educación y fundó varias organizaciones religiosas. Ignacio fue asesinado bajo circunstancias misteriosas en 1979 en Imuris, Sonora. Tanto Francisco (b. 1905) como Carlos (b. 1914) llegaron a ser respetados sacerdotes jesuitas. Estos tres hermanos fueron instrumentales en reabrir las iglesias que el gobierno había cerrado en Nogales. Alfonso (b. 1908), un soldado Cristero, murió en 1935 durante una batalla cerca de Aguascalientes. Luis (b. 1910) también se involucró en el Movimiento Cristero y luego se casó y formó una familia. Ni Edmundo (b. 1912) ni Benjamín (b. 1918) tuvieron una fuerte participación en el Movimiento, prefiriendo enfocarse en sus familias y negocios. </p>    
+         <p>La familia De la Torre mantenía amistad con figuras prominentes del Movimiento Cristero, tales como el sacerdote Juan Navarrete. Varios de los miembros de la familia pertenecieron a organizaciones Cristeras como la Asociación Católica de la Juventud Mexicana (ACJM) y la Liga Nacional Defensora de la Libertad (LNDL). Tanto María como Ignacio solían usar seudónimos en sus correspondencias y publicaciones. María usó el seudónimo de Margarita Sofía e Ignacio usó varios seudónimos, incluyendo José, Ysidro, Ismael Gómez, e Ismael Tizcareño.</p>   
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Alcance y Contenido</head>
+         <p>Registro, 1874-2003 (Volumen 1910-1946). Esta colección contiene documentos de la familia De la Torre que comprueban su involucración con el Movimiento Cristero y su traslado del centro de México a Sonora, incluyendo Nogales. El volumen, o mayoría de la colección, consiste de materiales impresos y fotografías. Los materiales impresos destacan el progreso del Movimiento e incluye Folletos religiosos y políticos, boletines de noticias, recortes de periódico, y reportes. La mayoría de las fotografías tienen que ver con la familia De la Torre y sus amigos. Algunos documentos están relacionados con organizaciones políticas Cristeras, tal como la Asociación Católica de la Juventud Mexicana (ACJM) y la Liga Nacional Defensora de la Libertad (LNDL), incluyendo documentos de contabilidad y administrativos.  Otros materiales únicos consisten de un registro de combate, cuentas personales y tiras cómicas políticas. También incluye documentos y correspondencia personales de la familia De la Torre. La mayoría de los materiales están en español. Esta colección cuenta también con más de 280 libros que pueden encontrarse en el catálogo de la Biblioteca de la Universidad de Arizona, bajo el título “Cristero Movement Collection.”</p>
+      </scopecontent>
+      <relatedmaterial>
+         <relatedmaterial encodinganalog="544">
+            <head>Related Material</head>
+            <p>Juan Navarrete y Guerrero Collection, (1912-2000), MS 423</p>
+            <p>An <extref actuate="onload" href="http://www.azarchivesonline.org/xtf/view?docId=ead/uoa/UAMS420.xml" linktype="simple" show="new" title="English Language" /> version of this finding aid is available.</p>
+         </relatedmaterial>
+      </relatedmaterial>
+      <arrangement encodinganalog="351">
+         <head>Arreglo</head>
+         <p>Esta colección está organizada en siete series:</p>
+         <list>
+            <item>Serie I: Archivos Bibliográficos,
+               <unitdate>1874-1984</unitdate></item>
+            <item>Serie II: Correspondencia,
+               <unitdate>1890-1994</unitdate></item>
+            <item>Serie III: Archivos Temáticos,
+               <unitdate>1928-1944</unitdate></item>
+            <item>Serie IV: Materiales Impresos,
+               <unitdate>1885-1990</unitdate></item>
+            <item>Serie V: Fotografías y Negativos,
+               <unitdate>1874-1970</unitdate></item>
+            <item>Serie VI: Materiales Sobredimensionados,
+               <unitdate>1906-1979</unitdate></item>
+            <item>Serie VII: Suplemento de Manuscritos y Fotografías de la Familia,
+               <unitdate>1910-2003</unitdate></item>    
+         </list>     
+      </arrangement>
+      <controlaccess>
+         <persname>De la Torre Family- Archives</persname><persname>Navarrete y Guerrero, Juan, 1886-1982</persname><subject>Cristero Rebellion, 1926-1929--History--Sources</subject><subject>Cristero Rebellion, 1926-1929</subject><subject>Cristero Rebellion, 1926-1929--Religious aspects</subject><subject>Church and state--Mexico--History--20th century</subject><subject>Asociación Católica de la Juventud Mexicana</subject><subject /><geogname>Mexico, North--Politics and government--20th century</geogname><geogname>Sonora (México : State)</geogname></controlaccess>
+      <dsc type="combined">
+         <head>Lista de Contenidos</head>
+         <c01 level="series">
+            <did> 
+               <unittitle>Archivos Bibliográficos,</unittitle> 
+               <unitdate type="inclusive">1874-1984</unitdate>
+            </did>
+            <scopecontent><p>Organización: Alfabética. Esta serie contiene materiales biográficos de miembros de la familia De la Torre, incluyendo anuarios y certificados escolares, anuncios de nacimiento, comunión, boda y fallecimiento, un árbol familiar, documentos de inmigración, historias familiares, recuentos personales. También cuenta con materiales de otros líderes religiosos. La mayoría de los documentos biográficos se encuentras en español. Nota: Algunos materiales se encuentras en la serie VII, de materiales sobredimensionados.</p></scopecontent>
+            <c02 level="file">
+               <did>
+                  <container id="8fb3b618-1db7-43a9-a61b-24217e9a1f14" type="box">1</container>
+                  <container parent="8fb3b618-1db7-43a9-a61b-24217e9a1f14" type="folder">1</container>
+                  <unittitle>Certificados,</unittitle>
+                  <unitdate>sin fecha, 1877-1962</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="51db22b1-f0bd-464e-b789-e589ddf29270" type="box">1</container>
+                  <container parent="51db22b1-f0bd-464e-b789-e589ddf29270" type="folder">2</container>
+                  <unittitle>De la Torre, Alfonso – Fallecimiento,</unittitle>
+                  <unitdate>1935-1945</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="1af68ebf-16a0-448a-8eda-37ccb54dd9ad" type="box">1</container>
+                  <container parent="1af68ebf-16a0-448a-8eda-37ccb54dd9ad" type="folder">3</container>
+                  <unittitle>De la Torre, Benjamín,</unittitle>
+                  <unitdate>sin fecha, 1926-1942</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="b4d80bf3-6b08-4623-a02e-ce7f9655bdd0" type="box">1</container>
+                  <container parent="b4d80bf3-6b08-4623-a02e-ce7f9655bdd0" type="folder">4</container>
+                  <unittitle>De la Torre, Carlos,</unittitle>
+                  <unitdate>sin fecha, 1914-1973</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="9d068e5c-cdce-4b0b-86e9-e7a8320d9ccd" type="box">1</container>
+                  <container parent="9d068e5c-cdce-4b0b-86e9-e7a8320d9ccd" type="folder">5</container>
+                  <unittitle>De la Torre, Carlos – Anuario Escolar,</unittitle>
+                  <unitdate>1944</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="6aa6e758-27f6-4249-9974-d40f41b97b15" type="box">1</container>
+                  <container parent="6aa6e758-27f6-4249-9974-d40f41b97b15" type="folder">6</container>
+                  <unittitle>De la Torre, Carlos – Anuario Escolar,</unittitle>
+                  <unitdate>1946</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="d858d33e-577c-471e-9970-cf26408828d1" type="box">1</container>
+                  <container parent="d858d33e-577c-471e-9970-cf26408828d1" type="folder">7</container>
+                  <unittitle>De la Torre, Edmundo,</unittitle>
+                  <unitdate>1912-1965</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="461dd880-169e-46c7-96d4-22065bd31655" type="box">1</container>
+                  <container parent="461dd880-169e-46c7-96d4-22065bd31655" type="folder">8</container>
+                  <unittitle>De la Torre, Francisco,</unittitle>
+                  <unitdate>sin fecha, 1918-1939</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="9590fc80-4c4a-4892-af2e-ceb6e357890a" type="box">1</container>
+                  <container parent="9590fc80-4c4a-4892-af2e-ceb6e357890a" type="folder">9</container>
+                  <unittitle>De la Torre, Ignacio,</unittitle>
+                  <unitdate>sin fecha, 1909-1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="6b163e95-bb2a-4a41-80e3-d53a48db36ee" type="box">1</container>
+                  <container parent="6b163e95-bb2a-4a41-80e3-d53a48db36ee" type="folder">10</container>
+                  <unittitle>De la Torre, Ignacio – Anuario Escolar,</unittitle>
+                  <unitdate>1945</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="72edea93-942c-4e8a-b4aa-5b978375d7fd" type="box">1</container>
+                  <container parent="72edea93-942c-4e8a-b4aa-5b978375d7fd" type="folder">11</container>
+                  <unittitle>De la Torre, Luis,</unittitle>
+                  <unitdate>sin fecha, 1910-1952</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="1171ddcc-4703-452e-9c97-1532cf51bb72" type="box">1</container>
+                  <container parent="1171ddcc-4703-452e-9c97-1532cf51bb72" type="folder">12</container>
+                  <unittitle>De la Torre Berumen, Ignacio – Fallecimiento,</unittitle>
+                  <unitdate>1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="fd3b9ca9-5472-4b22-82e1-d43c78c4a3ad" type="box">1</container>
+                  <container parent="fd3b9ca9-5472-4b22-82e1-d43c78c4a3ad" type="folder">13</container>
+                  <unittitle>De la Torre, Historia Familiar – Estampas Cristeras,</unittitle>
+                  <unitdate>sin fecha</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="c1fb697b-dd94-4a77-a644-1c41d3486434" type="box">1</container>
+                  <container parent="c1fb697b-dd94-4a77-a644-1c41d3486434" type="folder">14</container>
+                  <unittitle>De la Torre, Historia Familiar – Árbol Familiar,</unittitle>
+                  <unitdate>sin fecha</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="ed0aade1-5c24-4dc9-ad79-e5d0e22ec382" type="box">1</container>
+                  <container parent="ed0aade1-5c24-4dc9-ad79-e5d0e22ec382" type="folder">15</container>
+                  <unittitle>Duval, Louis,</unittitle>
+                  <unitdate>sin fecha</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="d05fcf2d-41dc-40a1-bd9b-80d9b7d691f1" type="box">1</container>
+                  <container parent="d05fcf2d-41dc-40a1-bd9b-80d9b7d691f1" type="folder">16</container>
+                  <unittitle>Anuncios Funerales,</unittitle>
+                  <unitdate>sin fecha, 1885-1984</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="c45a231f-1920-4723-8511-861ee83815e5" type="box">1</container>
+                  <container parent="c45a231f-1920-4723-8511-861ee83815e5" type="folder">17</container>
+                  <unittitle>General,</unittitle>
+                  <unitdate>sin fecha, 1874-1970</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="a628aa85-01f4-46ef-b68e-b9e191325f9f" type="box">1</container>
+                  <container parent="a628aa85-01f4-46ef-b68e-b9e191325f9f" type="folder">18</container>
+                  <unittitle>Documentos Inmigratorios,</unittitle>
+                  <unitdate>1927-1942</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="d751053f-9579-417b-aefd-c68908145288" type="box">1</container>
+                  <container parent="d751053f-9579-417b-aefd-c68908145288" type="folder">19</container>
+                  <unittitle>Muro, Fidel,</unittitle>
+                  <unitdate>1928-1953</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="1b79a65c-993d-45e1-8043-3534ce5a89e3" type="box">1</container>
+                  <container parent="1b79a65c-993d-45e1-8043-3534ce5a89e3" type="folder">20</container>
+                  <unittitle>Navarrete, Juan,</unittitle>
+                  <unitdate>sin fecha, 1920-1968</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="b8f25383-4fd5-4a21-8e2b-83cdbefe01b9" type="box">1</container>
+                  <container parent="b8f25383-4fd5-4a21-8e2b-83cdbefe01b9" type="folder">21</container>
+                  <unittitle>Uribarren De la Torre, María,</unittitle>
+                  <unitdate>sin fecha, 1887-1927</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did> 
+               <unittitle>Correspondencia,</unittitle> 
+               <unitdate type="inclusive">1890-1994</unitdate>
+            </did>
+            <scopecontent><p>Organización: Alfabética. Esta serie contiene correspondencia, en su mayoría entre miembros de la familia De la Torre, pero también entre el Arzobispo de Hermosillo, Juan Navarrete, y otras figuras del Movimiento Cristero. La mayoría de la correspondencia está en español. Algunas piezas se encuentran en inglís y latín.</p></scopecontent>
+            <c02 level="file">
+               <did>
+                  <container id="edca0c6f-e5e0-4ecc-b2c2-9a59fd54fc2a" type="box">1</container>
+                  <container parent="edca0c6f-e5e0-4ecc-b2c2-9a59fd54fc2a" type="folder">22</container>
+                  <unittitle>De la Torre, Alfonso,</unittitle>
+                  <unitdate>sin fecha, 1921-1928</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="410f4dde-bf7e-4d1f-b05c-4836aa5690f9" type="box">1</container>
+                  <container parent="410f4dde-bf7e-4d1f-b05c-4836aa5690f9" type="folder">23</container>
+                  <unittitle>De la Torre, Alfonso,</unittitle>
+                  <unitdate>1932-1935</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="82a23f08-9a32-4cc9-818a-5768a0195216" type="box">1</container>
+                  <container parent="82a23f08-9a32-4cc9-818a-5768a0195216" type="folder">24</container>
+                  <unittitle>De la Torre, Alfonso – Fallecimiento,</unittitle>
+                  <unitdate>1935-1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="4d2dd911-7cd3-44f6-841c-d96dc917f65e" type="box">1</container>
+                  <container parent="4d2dd911-7cd3-44f6-841c-d96dc917f65e" type="folder">25</container>
+                  <unittitle>De la Torre, Benjamín,</unittitle>
+                  <unitdate>sin fecha, 1931-1944</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="03a3ec6d-a2df-427d-8ef6-9d1565c477dd" type="box">1</container>
+                  <container parent="03a3ec6d-a2df-427d-8ef6-9d1565c477dd" type="folder">26</container>
+                  <unittitle>De la Torre, Benjamín,</unittitle>
+                  <unitdate>1945-1949</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="255f6154-ff02-4eda-ad31-dd43c04ee681" type="box">1</container>
+                  <container parent="255f6154-ff02-4eda-ad31-dd43c04ee681" type="folder">27</container>
+                  <unittitle>De la Torre, Carlos,</unittitle>
+                  <unitdate>sin fecha, 1926-1938</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="f02fc5b3-6098-4137-9536-7e9f5d064980" type="box">1</container>
+                  <container parent="f02fc5b3-6098-4137-9536-7e9f5d064980" type="folder">28</container>
+                  <unittitle>De la Torre, Carlos,</unittitle>
+                  <unitdate>1939-1960</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="d79d8d03-b41b-457d-9d87-c61305b933a9" type="box">1</container>
+                  <container parent="d79d8d03-b41b-457d-9d87-c61305b933a9" type="folder">29</container>
+                  <unittitle>De la Torre, Edmundo,</unittitle>
+                  <unitdate>sin fecha, 1917-1964</unitdate>
+               </did>
+            </c02>  
+            <c02 level="file">
+            <did>
+               <container id="82e5dbb0-9ffc-4d12-951d-b3b63d72c970" type="box">2</container>
+               <container parent="82e5dbb0-9ffc-4d12-951d-b3b63d72c970" type="folder">1</container>
+               <unittitle>De la Torre, Francisco,</unittitle>
+               <unitdate>sin fecha, 1920-1929</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="ed3be663-4fd9-4775-abac-dbb191210348" type="box">2</container>
+               <container parent="ed3be663-4fd9-4775-abac-dbb191210348" type="folder">2</container>
+               <unittitle>De la Torre, Francisco,</unittitle>
+               <unitdate>1930-1939</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="298437fd-cfb1-4023-8a1b-2351170257c6" type="box">2</container>
+               <container parent="298437fd-cfb1-4023-8a1b-2351170257c6" type="folder">3</container>
+               <unittitle>De la Torre, Francisco,</unittitle>
+               <unitdate>1940-1989</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="0e3fd253-3aae-4c77-8cc4-0a3cad0c0dce" type="box">2</container>
+               <container parent="0e3fd253-3aae-4c77-8cc4-0a3cad0c0dce" type="folder">4</container>
+               <unittitle>De la Torre, Ignacio,</unittitle>
+               <unitdate>sin fecha, 1919-1934</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="9dc3a9f4-69dc-4557-83dc-147aefa04681" type="box">2</container>
+               <container parent="9dc3a9f4-69dc-4557-83dc-147aefa04681" type="folder">5</container>
+               <unittitle>De la Torre, Ignacio,</unittitle>
+               <unitdate>1935-1955</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="26f7f9db-5838-4cd5-9c88-41626c95375f" type="box">2</container>
+               <container parent="26f7f9db-5838-4cd5-9c88-41626c95375f" type="folder">6</container>
+               <unittitle>De la Torre, Luis,</unittitle>
+               <unitdate>1921-1959</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="e3d4387e-c1aa-46be-b40b-99903d8e7a4f" type="box">2</container>
+               <container parent="e3d4387e-c1aa-46be-b40b-99903d8e7a4f" type="folder">7</container>
+               <unittitle>De la Torre, María,</unittitle>
+               <unitdate>1909-1965</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="b39f76fe-493e-4572-ac63-e18ea78cb410" type="box">2</container>
+               <container parent="b39f76fe-493e-4572-ac63-e18ea78cb410" type="folder">8</container>
+               <unittitle>De la Torre, María - Reseña Biográfica de Fidel Muro,</unittitle>
+               <unitdate>1942-1943</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="02c7c9e4-7d6b-47ef-8f8f-78dbed767374" type="box">2</container>
+               <container parent="02c7c9e4-7d6b-47ef-8f8f-78dbed767374" type="folder">9</container>
+               <unittitle>De la Torre Berumen, Ignacio,</unittitle>
+               <unitdate>1900-1946</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="fd1afac6-6ad4-4cb8-a80d-d558e7961d67" type="box">2</container>
+               <container parent="fd1afac6-6ad4-4cb8-a80d-d558e7961d67" type="folder">10</container>
+               <unittitle>Duval, Louis, </unittitle>
+               <unitdate>sin fecha, 1930-1945</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="02edec5a-8b7f-4967-9984-935928ca4908" type="box">2</container>
+               <container parent="02edec5a-8b7f-4967-9984-935928ca4908" type="folder">11</container>
+               <unittitle>General,</unittitle>
+               <unitdate>sin fecha, 1917-1994</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="cb093745-d6fb-49f0-bc96-7037c7f85d0a" type="box">2</container>
+               <container parent="cb093745-d6fb-49f0-bc96-7037c7f85d0a" type="folder">12</container>
+               <unittitle>López, Eulalio,</unittitle>
+               <unitdate>1935-1937</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="eb479402-bab2-4499-b403-d7ecc8cd554e" type="box">2</container>
+               <container parent="eb479402-bab2-4499-b403-d7ecc8cd554e" type="folder">13</container>
+               <unittitle>Manríquez y Zarate, José de Jesús,</unittitle>
+               <unitdate>1931-1932</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="0d8460d9-48c7-433a-93e0-a1c5208ef288" type="box">2</container>
+               <container parent="0d8460d9-48c7-433a-93e0-a1c5208ef288" type="folder">14</container>
+               <unittitle>Familia Muro,</unittitle>
+               <unitdate>sin fecha, 1927-1944</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="f11a7f69-20ca-4d73-8141-76cc6a25f37d" type="box">2</container>
+               <container parent="f11a7f69-20ca-4d73-8141-76cc6a25f37d" type="folder">15</container>
+               <unittitle>Navarrete, Juan,</unittitle>
+               <unitdate>1919-1946</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="ad651334-84e1-4de2-8520-e260c7f8f927" type="box">2</container>
+               <container parent="ad651334-84e1-4de2-8520-e260c7f8f927" type="folder">16</container>
+               <unittitle>Palomar y Vizcarra, Miguel,</unittitle>
+               <unitdate>1944-1965</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="33abd6bf-f718-42da-9417-0917e7fda6fa" type="box">2</container>
+               <container parent="33abd6bf-f718-42da-9417-0917e7fda6fa" type="folder">17</container>
+               <unittitle>Unión Nacional Sinarquista,</unittitle>
+               <unitdate>1937-1944</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="b02c772f-d91b-4ce9-9dbb-f82f9986abfc" type="box">2</container>
+               <container parent="b02c772f-d91b-4ce9-9dbb-f82f9986abfc" type="folder">18</container>
+               <unittitle>Uribarren De la Torre, María,</unittitle>
+               <unitdate>sin fecha, 1890-1945</unitdate>
+            </did>
+         </c02>
+         </c01> 
+         <c01 level="series">
+            <did> 
+               <unittitle>Archivos Temáticos,</unittitle> 
+               <unitdate type="inclusive">1928-1944</unitdate>
+            </did>
+            <scopecontent><p>Organización: Alfabética. Esta serie contiene materiales relacionados con el Movimiento Cristero e incluyen memorias personales, un libro de contabilidad, dinero impreso y un registro de combate. También contenidos están materiales misceláneos como anuarios escolares, estampillas y documentos relacionados con Alemania en los tiempos de la Segunda Guerra Mundial. La mayoría de los documentos están en español.</p></scopecontent>
+            <c02 level="file">
+               <did>
+                  <container id="af6a6fd0-2b76-4ef2-86aa-fd910a828a0b" type="box">2</container>
+                  <container parent="af6a6fd0-2b76-4ef2-86aa-fd910a828a0b" type="folder">19</container>
+                  <unittitle>Libro de Direcciones,</unittitle>
+                  <unitdate>sin fecha</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="02e63251-cd29-436e-9687-8efe037b8c44" type="box">2</container>
+                  <container parent="02e63251-cd29-436e-9687-8efe037b8c44" type="folder">20</container>
+                  <unittitle>Tiras Cómicas – Alfonso De la Torre,</unittitle>
+                  <unitdate>sin fecha, 1928-1930</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="3f9183fa-4027-4253-be2a-b1f555a9e0c1" type="box">2</container>
+                  <container parent="3f9183fa-4027-4253-be2a-b1f555a9e0c1" type="folder">21</container>
+                  <unittitle>Colegio Centro América – Anuario Escolar</unittitle>
+                  <unitdate>1935-1936</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="fa2d0b96-bdd3-48d7-9bd9-32aa2f5e9f70" type="box">2</container>
+                  <container parent="fa2d0b96-bdd3-48d7-9bd9-32aa2f5e9f70" type="folder">22</container>
+                  <unittitle>Registro de Combate,</unittitle>
+                  <unitdate>1932</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="818b4630-7816-4f06-bccc-5724adf51944" type="box">2</container>
+                  <container parent="818b4630-7816-4f06-bccc-5724adf51944" type="folder">23</container>
+                  <unittitle>Libro de Contabilidad,</unittitle>
+                  <unitdate>1935-1936</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="d7fdd446-a5f5-4ef4-8886-66b3d8904ed9" type="box">2</container>
+                  <container parent="d7fdd446-a5f5-4ef4-8886-66b3d8904ed9" type="folder">24</container>
+                  <unittitle>Documentos Alemanes,</unittitle>
+                  <unitdate>sin fecha,  1936-1945</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="b7fb79b7-0e29-417d-93ea-d03235a59838" type="box">2</container>
+                  <container parent="b7fb79b7-0e29-417d-93ea-d03235a59838" type="folder">25</container>
+                  <unittitle>Universidad Gregoriana (Rome, Italy),</unittitle>
+                  <unitdate>sin fecha</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="d89bb643-2a14-4922-bbeb-48cd019b272e" type="box">2</container>
+                  <container parent="d89bb643-2a14-4922-bbeb-48cd019b272e" type="folder">26</container>
+                  <unittitle>Liga Nacional Defensora de la Libertad – Memoria,</unittitle>
+                  <unitdate>1937</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="6157a752-269f-4756-8ea2-f62e6a493366" type="box">2</container>
+                  <container parent="6157a752-269f-4756-8ea2-f62e6a493366" type="folder">27</container>
+                  <unittitle>Mapas</unittitle>
+                  <unitdate>sin fecha</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="1d4f5a36-ec5f-47f2-aa96-a20374507d57" type="box">2</container>
+                  <container parent="1d4f5a36-ec5f-47f2-aa96-a20374507d57" type="folder">28</container>
+                  <unittitle>Dinero,</unittitle>
+                  <unitdate>sin fecha</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="d679a3ba-17bb-4744-8a36-799ffebd7fa6" type="box">2</container>
+                  <container parent="d679a3ba-17bb-4744-8a36-799ffebd7fa6" type="folder">29</container>
+                  <unittitle>Pro, Miguel (Sacerdote),</unittitle>
+                  <unitdate>sin fecha</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="598e554d-8e6b-4fe4-9330-fb1c0a3cbf67" type="box">2</container>
+                  <container parent="598e554d-8e6b-4fe4-9330-fb1c0a3cbf67" type="folder">30</container>
+                  <unittitle>Tarjetas Religiosas,</unittitle>
+                  <unitdate>sin fecha, 1935-1967</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="67e0dd79-bbca-4108-84f6-5c1877171e8d" type="box">2</container>
+                  <container parent="67e0dd79-bbca-4108-84f6-5c1877171e8d" type="folder">31</container>
+                  <unittitle>Seminario Nacional Mexicano – Montezuma, New Mexico – Anuario Pontifical,</unittitle>
+                  <unitdate>1944</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container id="13c47a9a-3029-4d27-a348-09a9be88c957" type="box">2</container>
+                  <container parent="13c47a9a-3029-4d27-a348-09a9be88c957" type="folder">32</container>
+                  <unittitle>Estampillas,</unittitle>
+                  <unitdate>sin fecha</unitdate>
+               </did>
+            </c02>
+         </c01>
+            <c01 level="series">
+               <did> 
+                  <unittitle>Materiales Impresos,</unittitle> 
+                  <unitdate type="inclusive">1885-1990</unitdate>
+               </did>
+               <scopecontent><p>Organización: Alfabética. Esta serie contiene documentos políticos y religiosos, en su mayoría concernientes al Movimiento Cristero y los cuales incluyen propaganda, folletos, boletines de noticias, volantes y recortes de periódicos. Contenidos también están recuerdos religiosos. La mayoría de los documentos están en español, pero se incluyen algunos en inglés, francés, alemán y latín. Nota: Algunos materiales se encuentras en la serie VII, de materiales sobredimensionados.</p></scopecontent>
+               <c02 level="file">
+                  <did>
+                     <container id="0f997ce6-7e71-457d-88ca-7669a912cc5f" type="box">3</container>
+                     <container parent="0f997ce6-7e71-457d-88ca-7669a912cc5f" type="folder">1</container>
+                     <unittitle>Folletos,</unittitle>
+                     <unitdate>sin fecha, 1931-1953</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="863859c1-be9a-419d-8482-9063ab4b5a05" type="box">3</container>
+                     <container parent="863859c1-be9a-419d-8482-9063ab4b5a05" type="folder">2</container>
+                     <unittitle>Volantes,</unittitle>
+                     <unitdate>sin fecha, 1914-1970</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="0034efe6-d0ca-4afd-bb23-da34ab8d8995" type="box">3</container>
+                     <container parent="0034efe6-d0ca-4afd-bb23-da34ab8d8995" type="folder">3</container>
+                     <unittitle>Himnos,</unittitle>
+                     <unitdate>sin fecha, 1924-1966</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="e778d7b3-379c-4560-a753-9b174ccab0a9" type="box">3</container>
+                     <container parent="e778d7b3-379c-4560-a753-9b174ccab0a9" type="folder">4</container>
+                     <unittitle>Publicaciones – General,</unittitle>
+                     <unitdate>1904-1949</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="398c9bcf-9a8b-4dc1-8e4e-112f1ccc55da" type="box">3</container>
+                     <container parent="398c9bcf-9a8b-4dc1-8e4e-112f1ccc55da" type="folder">5</container>
+                     <unittitle>Publicaciones – Juventud Católica,</unittitle>
+                     <unitdate>1922-1923</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="bfab0850-4609-4217-a4d2-3b7fcc427d6f" type="box">3</container>
+                     <container parent="bfab0850-4609-4217-a4d2-3b7fcc427d6f" type="folder">6</container>
+                     <unittitle>Publicaciones – Juventud Católica,</unittitle>
+                     <unitdate>1923-1924</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="b91863bf-297b-4f7c-a422-69314d992af4" type="box">3</container>
+                     <container parent="b91863bf-297b-4f7c-a422-69314d992af4" type="folder">7</container>
+                     <unittitle>Revistas – General,</unittitle>
+                     <unitdate>1924-1967</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="013273de-35e1-4276-a30c-97d0a1060462" type="box">3</container>
+                     <container parent="013273de-35e1-4276-a30c-97d0a1060462" type="folder">8</container>
+                     <unittitle>Revistas – Juan Diego,</unittitle>
+                     <unitdate>1935-1951</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="f4571c5e-4850-43b9-8da3-12a154becbd9" type="box">3</container>
+                     <container parent="f4571c5e-4850-43b9-8da3-12a154becbd9" type="folder">9</container>
+                     <unittitle>Revistas – Juventud,</unittitle>
+                     <unitdate>1939-1957</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="3337a94e-db94-431e-907a-582e6c632926" type="box">3</container>
+                     <container parent="3337a94e-db94-431e-907a-582e6c632926" type="folder">10</container>
+                     <unittitle>Revistas – Latinoamérica,</unittitle>
+                     <unitdate>1949
+                     </unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="6812fd4e-2316-4fc1-9a06-281504683185" type="box">3</container>
+                     <container parent="6812fd4e-2316-4fc1-9a06-281504683185" type="folder">11</container>
+                     <unittitle>Revistas – Legión,</unittitle>
+                     <unitdate>1967-1968</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="07749177-1dbf-4acc-8be1-75cf70c8c648" type="box">3</container>
+                     <container parent="07749177-1dbf-4acc-8be1-75cf70c8c648" type="folder">12</container>
+                     <unittitle>Revistas – Legión,</unittitle>
+                     <unitdate>1968-1969</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="216da395-72c3-4d08-9a87-04d5f2806f49" type="box">3</container>
+                     <container parent="216da395-72c3-4d08-9a87-04d5f2806f49" type="folder">13</container>
+                     <unittitle>Revistas – Señal,</unittitle>
+                     <unitdate>1963</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="3d6e04bf-7a40-460e-bebc-cd68c0cf2f9a" type="box">3</container>
+                     <container parent="3d6e04bf-7a40-460e-bebc-cd68c0cf2f9a" type="folder">14</container>
+                     <unittitle>Revistas – Revista Católica,</unittitle>
+                     <unitdate>1929</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="d86caf85-f995-4a2e-b442-d179866904f1" type="box">3</container>
+                     <container parent="d86caf85-f995-4a2e-b442-d179866904f1" type="folder">15</container>
+                     <unittitle>Revistas – Unión,</unittitle>
+                     <unitdate>1945-1952</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="61f18566-b276-4289-bcd8-4dd888473a2f" type="box">3</container>
+                     <container parent="61f18566-b276-4289-bcd8-4dd888473a2f" type="folder">16</container>
+                     <unittitle>Misceláneos,</unittitle>
+                     <unitdate>sin fecha, 1904-1927</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="5104f3b0-42ca-4a6b-b375-955cea1fb2c7" type="box">3</container>
+                     <container parent="5104f3b0-42ca-4a6b-b375-955cea1fb2c7" type="folder">17</container>
+                     <unittitle>Misceláneos,</unittitle>
+                     <unitdate>1945-1982</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="5f7e822b-2030-4eda-9c5e-f7645755a10f" type="box">3</container>
+                     <container parent="5f7e822b-2030-4eda-9c5e-f7645755a10f" type="folder">18</container>
+                     <unittitle>Recortes de Periódico,</unittitle>
+                     <unitdate>sin fecha </unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="b62536ba-5c2f-411d-8cab-0b30d35e0cba" type="box">3</container>
+                     <container parent="b62536ba-5c2f-411d-8cab-0b30d35e0cba" type="folder">19</container>
+                     <unittitle>Recortes de Periódico,</unittitle>
+                     <unitdate>1894-1966</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="73ff30b7-f25a-4405-b41f-557b248ce17a" type="box">3</container>
+                     <container parent="73ff30b7-f25a-4405-b41f-557b248ce17a" type="folder">20</container>
+                     <unittitle>Boletines de Noticias – El Auxilio Mariano,</unittitle>
+                     <unitdate>1928-1929</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="ed2a3d5f-a4cf-4673-b0b8-341008ab5296" type="box">3</container>
+                     <container parent="ed2a3d5f-a4cf-4673-b0b8-341008ab5296" type="folder">21</container>
+                     <unittitle>Boletines de Noticias – La Batea,</unittitle>
+                     <unitdate>1928</unitdate>
+                  </did>
+               </c02>  
+         <c02 level="file">
+            <did>
+               <container id="f2c81edc-585d-4bd3-9d17-8ff3381392dc" type="box">3</container>
+               <container parent="f2c81edc-585d-4bd3-9d17-8ff3381392dc" type="folder">22</container>
+               <unittitle>Boletines de Noticias – Boletín de la Comisión Central de Instrucción Religiosa de la Acción Católica Mexicana,
+               </unittitle>
+               <unitdate>1933</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="2264b6fa-b4f6-4fc9-a415-4e28b90bccb1" type="box">3</container>
+               <container parent="2264b6fa-b4f6-4fc9-a415-4e28b90bccb1" type="folder">23</container>
+               <unittitle>Boletines de Noticias – Boletín de la Guerra,</unittitle>
+               <unitdate>sin fecha, 1928</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="5eb16afe-4454-46f0-a104-1e3520944531" type="box">3</container>
+               <container parent="5eb16afe-4454-46f0-a104-1e3520944531" type="folder">24</container>
+               <unittitle>Boletines de Noticias - Boletín de la Sociedad de Santa Teresita,</unittitle>
+               <unitdate>1928-1935</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="faafaf81-9688-4db9-8aab-43e99d0b026d" type="box">3</container>
+               <container parent="faafaf81-9688-4db9-8aab-43e99d0b026d" type="folder">25</container>
+               <unittitle>Boletines de Noticias - Boletín Oficial de Integrismo,</unittitle>
+               <unitdate>1952</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="d0f9984f-076b-4ba6-92d5-e635161b17c0" type="box">3</container>
+               <container parent="d0f9984f-076b-4ba6-92d5-e635161b17c0" type="folder">26</container>
+               <unittitle>Boletines de Noticias – Boletín Oficial del IV Centrario Guadalupano,</unittitle>
+               <unitdate>1931</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="d638636d-9d6c-4e9f-8356-afcbca84ab4d" type="box">3</container>
+               <container parent="d638636d-9d6c-4e9f-8356-afcbca84ab4d" type="folder">27</container>
+               <unittitle>Boletines de Noticias – Buenas Nuevas</unittitle>
+               <unitdate>1983</unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+            <did>
+               <container id="104b2c5f-06dd-4e4d-b883-c66131667389" type="box">3</container>
+               <container parent="104b2c5f-06dd-4e4d-b883-c66131667389" type="folder">28</container>
+               <unittitle>Boletines de Noticias – Carta Pastoral,</unittitle>
+               <unitdate>sin fecha, 1923-1936 </unitdate>
+            </did>
+         </c02>
+         <c02 level="file">
+                  <did>
+                     <container id="b63a501b-1bcb-46cc-a2ed-bf3f12a718ca" type="box">4</container>
+                     <container parent="b63a501b-1bcb-46cc-a2ed-bf3f12a718ca" type="folder">1</container>
+                     <unittitle>Boletines de Noticias - Carta Pastoral,</unittitle>
+                     <unitdate>1938-1944</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="74427339-48a1-4563-8fd0-8c32a5a2504f" type="box">4</container>
+                     <container parent="74427339-48a1-4563-8fd0-8c32a5a2504f" type="folder">2</container>
+                     <unittitle>Boletines de Noticias - Comité Popular de Defensa Mexicana,</unittitle>
+                     <unitdate>1935</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="f8a2634a-5832-4070-b257-f72c40bc8c43" type="box">4</container>
+                     <container parent="f8a2634a-5832-4070-b257-f72c40bc8c43" type="folder">3</container>
+                     <unittitle>Boletines de Noticias - Criterio,</unittitle>
+                     <unitdate>1926-1934</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="87dcfecc-cd5b-45ba-983f-ce6a7139a7e8" type="box">4</container>
+                     <container parent="87dcfecc-cd5b-45ba-983f-ce6a7139a7e8" type="folder">4</container>
+                     <unittitle>Boletines de Noticias - Criterio,</unittitle>
+                     <unitdate>1934</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="b03ae66e-0db0-440c-9cd2-a5917c614d1e" type="box">4</container>
+                     <container parent="b03ae66e-0db0-440c-9cd2-a5917c614d1e" type="folder">5</container>
+                     <unittitle>Boletines de Noticias - Cultura Cristiana,</unittitle>
+                     <unitdate>1933-1936</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="ba4648b3-36fb-4051-b514-e1ab236c13be" type="box">4</container>
+                     <container parent="ba4648b3-36fb-4051-b514-e1ab236c13be" type="folder">6</container>
+                     <unittitle>Boletines de Noticias - De Broma y de Vera,</unittitle>
+                     <unitdate>1927</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="91a728ae-523f-418a-a813-dcad7c43a607" type="box">4</container>
+                     <container parent="91a728ae-523f-418a-a813-dcad7c43a607" type="folder">7</container>
+                     <unittitle>Boletines de Noticias - David,</unittitle>
+                     <unitdate>1937-1959</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="6aaea3cc-3630-41f5-91ba-749f69787c44" type="box">4</container>
+                     <container parent="6aaea3cc-3630-41f5-91ba-749f69787c44" type="folder">8</container>
+                     <unittitle>Boletines de Noticias - Desde México,</unittitle>
+                     <unitdate>sin fecha, 1934-1937</unitdate>
+                  </did>
+               </c02>  
+               <c02 level="file">
+                  <did>
+                     <container id="2141cf82-41b2-482f-ac8c-44dca9956850" type="box">4</container>
+                     <container parent="2141cf82-41b2-482f-ac8c-44dca9956850" type="folder">9</container>
+                     <unittitle>Boletines de Noticias - Desde Mi Destierro,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="b89b0fbb-9b38-4192-b473-ec2ad12754f7" type="box">4</container>
+                     <container parent="b89b0fbb-9b38-4192-b473-ec2ad12754f7" type="folder">10</container>
+                     <unittitle>Boletines de Noticias - Desde Mi Sotano,</unittitle>
+                     <unitdate>1926</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="fe7928d7-a965-4682-97a8-cd243173a6e5" type="box">4</container>
+                     <container parent="fe7928d7-a965-4682-97a8-cd243173a6e5" type="folder">11</container>
+                     <unittitle>Boletines de Noticias - El Ensayo,</unittitle>
+                     <unitdate>1928</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="d12566f2-306c-4685-89aa-18ab56709386" type="box">4</container>
+                     <container parent="d12566f2-306c-4685-89aa-18ab56709386" type="folder">12</container>
+                     <unittitle>Boletines de Noticias - Evangelio,</unittitle>
+                     <unitdate>1945</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="54241637-5f44-4483-a707-09252905aa43" type="box">4</container>
+                     <container parent="54241637-5f44-4483-a707-09252905aa43" type="folder">13</container>
+                     <unittitle>Boletines de Noticias - El Faro,</unittitle>
+                     <unitdate>1932</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="d3eb41c9-7228-493d-90e3-a135147f93ba" type="box">4</container>
+                     <container parent="d3eb41c9-7228-493d-90e3-a135147f93ba" type="folder">14</container>
+                     <unittitle>Boletines de Noticias - General,</unittitle>
+                     <unitdate>sin fecha, 1926-1971</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="61cff48e-7ec2-479a-b515-60dd3fac1bd2" type="box">4</container>
+                     <container parent="61cff48e-7ec2-479a-b515-60dd3fac1bd2" type="folder">15</container>
+                     <unittitle>Boletines de Noticias - Gladius,</unittitle>
+                     <unitdate>1926</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="1ce99b66-ee9d-41d8-8320-f789e48f4bd4" type="box">4</container>
+                     <container parent="1ce99b66-ee9d-41d8-8320-f789e48f4bd4" type="folder">16</container>
+                     <unittitle>Boletines de Noticias - Hector,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="70eb45e7-a48d-4641-90ce-78e80eb20bcc" type="box">4</container>
+                     <container parent="70eb45e7-a48d-4641-90ce-78e80eb20bcc" type="folder">17</container>
+                     <unittitle>Boletines de Noticias - Hoja Parroquial,</unittitle>
+                     <unitdate>1990</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="be8fa744-5c1b-44b8-9cbc-2ee09daee8b7" type="box">4</container>
+                     <container parent="be8fa744-5c1b-44b8-9cbc-2ee09daee8b7" type="folder">18</container>
+                     <unittitle>Boletines de Noticias - La Honda, </unittitle>
+                     <unitdate>1936</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="5bbd564b-fc3b-4002-a4a6-c29db3245c5a" type="box">4</container>
+                     <container parent="5bbd564b-fc3b-4002-a4a6-c29db3245c5a" type="folder">19</container>
+                     <unittitle>Boletines de Noticias - Juan Diego,</unittitle>
+                     <unitdate>1940</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="e00ae26f-311e-482d-9771-818b2e5e88be" type="box">4</container>
+                     <container parent="e00ae26f-311e-482d-9771-818b2e5e88be" type="folder">20</container>
+                     <unittitle>Boletines de Noticias - La Lucha,</unittitle>
+                     <unitdate>1935</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="0027e15a-2ad5-4f75-8c93-399326148b5b" type="box">4</container>
+                     <container parent="0027e15a-2ad5-4f75-8c93-399326148b5b" type="folder">21</container>
+                     <unittitle>Boletines de Noticias - Las Maravillas del Santo Rosario,</unittitle>
+                     <unitdate>1989</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="bfa8e0fd-0c8a-4f74-b1ba-21b87eff4bb7" type="box">4</container>
+                     <container parent="bfa8e0fd-0c8a-4f74-b1ba-21b87eff4bb7" type="folder">22</container>
+                     <unittitle>Boletines de Noticias - Liga Nacional Defensora de la Libertad Religiosa,</unittitle>
+                     <unitdate>sin fecha, 1926-1936</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="7c548de1-522c-4b3d-8325-3c4ddb3746f6" type="box">4</container>
+                     <container parent="7c548de1-522c-4b3d-8325-3c4ddb3746f6" type="folder">23</container>
+                     <unittitle>Boletines de Noticias - Minutillo,</unittitle>
+                     <unitdate>1929</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="457404e6-b680-43cb-bb03-a27fd084725f" type="box">4</container>
+                     <container parent="457404e6-b680-43cb-bb03-a27fd084725f" type="folder">24</container>
+                     <unittitle>Boletines de Noticias - Nuestra Vida,</unittitle>
+                     <unitdate>1937-1938</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="c96c4cd9-2548-45ee-bf32-7c3ffd8fc697" type="box">4</container>
+                     <container parent="c96c4cd9-2548-45ee-bf32-7c3ffd8fc697" type="folder">25</container>
+                     <unittitle>Boletines de Noticias - Onir,</unittitle>
+                     <unitdate>1935-1936</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="c45c4bc5-7c81-4a32-a294-2f197364c010" type="box">4</container>
+                     <container parent="c45c4bc5-7c81-4a32-a294-2f197364c010" type="folder">26</container>
+                     <unittitle>Boletines de Noticias-Organo Oficial del Comite Popular de Defensa Mexicana,</unittitle>
+                     <unitdate>1935</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="c00045f9-d884-40d5-bd08-ce9333fa895e" type="box">4</container>
+                     <container parent="c00045f9-d884-40d5-bd08-ce9333fa895e" type="folder">27</container>
+                     <unittitle>Boletines de Noticias - Para Nuestros Amigos,</unittitle>
+                     <unitdate>1952</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="d3d1e3b4-178f-42d3-84b4-6bae597e605b" type="box">4</container>
+                     <container parent="d3d1e3b4-178f-42d3-84b4-6bae597e605b" type="folder">28</container>
+                     <unittitle>Boletines de Noticias - Pro Patria,</unittitle>
+                     <unitdate>1935-1936</unitdate>
+                  </did>
+               </c02>  
+               <c02 level="file">
+                  <did>
+                     <container id="5d687f13-08f2-4a10-bad5-16e3bfa695b5" type="box">4</container>
+                     <container parent="5d687f13-08f2-4a10-bad5-16e3bfa695b5" type="folder">29</container>
+                     <unittitle>Boletines de Noticias - Pro Patria,</unittitle>
+                     <unitdate>1936-1937</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="1416b66f-c482-43f2-8af4-64135b7b69be" type="box">4</container>
+                     <container parent="1416b66f-c482-43f2-8af4-64135b7b69be" type="folder">30</container>
+                     <unittitle>Boletines de Noticias - Propaganda Misional,</unittitle>
+                     <unitdate>1929-1930</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="7416ac08-b421-43ea-b906-93840663954b" type="box">4</container>
+                     <container parent="7416ac08-b421-43ea-b906-93840663954b" type="folder">31</container>
+                     <unittitle>Boletines de Noticias - El Propagandista Católico,</unittitle>
+                     <unitdate>1928</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="49cae34f-16eb-4961-a7d7-e57ad4781e37" type="box">4</container>
+                     <container parent="49cae34f-16eb-4961-a7d7-e57ad4781e37" type="folder">32</container>
+                     <unittitle>Boletines de Noticias - Reconquista,</unittitle>
+                     <unitdate>1930-1944</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="1aeb55be-d793-46b0-add8-b34059facc15" type="box">4</container>
+                     <container parent="1aeb55be-d793-46b0-add8-b34059facc15" type="folder">33</container>
+                     <unittitle>Boletines de Noticias - Regis/El Heraldo del Hogar,</unittitle>
+                     <unitdate>1933</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="34667889-a74c-476c-842d-59bb474dd743" type="box">4</container>
+                     <container parent="34667889-a74c-476c-842d-59bb474dd743" type="folder">34</container>
+                     <unittitle>Boletines de Noticias - Saber,</unittitle>
+                     <unitdate>1935</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="a4a09f61-8124-487d-8907-bf6391c352d6" type="box">4</container>
+                     <container parent="a4a09f61-8124-487d-8907-bf6391c352d6" type="folder">35</container>
+                     <unittitle>Boletines de Noticias - El Sembrador,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="8e97b588-4057-499e-abde-d2ff2763772e" type="box">4</container>
+                     <container parent="8e97b588-4057-499e-abde-d2ff2763772e" type="folder">36</container>
+                     <unittitle>Boletines de Noticias - Sembrando,</unittitle>
+                     <unitdate>1953</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="a3583316-56c8-490c-b120-b67c6fe79a02" type="box">4</container>
+                     <container parent="a3583316-56c8-490c-b120-b67c6fe79a02" type="folder">37</container>
+                     <unittitle>Boletines de Noticias - La Trinchera,</unittitle>
+                     <unitdate>1936</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="2e37d64e-55a2-425d-beaf-423c9325387f" type="box">4</container>
+                     <container parent="2e37d64e-55a2-425d-beaf-423c9325387f" type="folder">38</container>
+                     <unittitle>Boletines de Noticias - La Unión,</unittitle>
+                     <unitdate>1933</unitdate>
+                  </did>
+               </c02>  
+               <c02 level="file">
+                  <did>
+                     <container id="5299fd2d-56c7-42ed-bfdd-dcba0aecdb09" type="box">4</container>
+                     <container parent="5299fd2d-56c7-42ed-bfdd-dcba0aecdb09" type="folder">39</container>
+                     <unittitle>Boletines de Noticias - Vida del Alma,</unittitle>
+                     <unitdate>1953</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="a4499399-2ae8-471e-ab01-32498e954f78" type="box">4</container>
+                     <container parent="a4499399-2ae8-471e-ab01-32498e954f78" type="folder">40</container>
+                     <unittitle>Boletines de Noticias - La Voz Guadalupana,</unittitle>
+                     <unitdate>1942</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="170382bd-3ae8-4921-aede-76504e94470a" type="box">4</container>
+                     <container parent="170382bd-3ae8-4921-aede-76504e94470a" type="folder">41</container>
+                     <unittitle>Boletines de Noticias - Ydea al Servicio de la Verdad,</unittitle>
+                     <unitdate>1953</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="bd5319e6-0a61-49ac-a3a8-816a81a2ac64" type="box">4</container>
+                     <container parent="bd5319e6-0a61-49ac-a3a8-816a81a2ac64" type="folder">42</container>
+                     <unittitle>Folletos,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="f889ca0a-c11a-4806-8d49-eb4df35eada1" type="box">4</container>
+                     <container parent="f889ca0a-c11a-4806-8d49-eb4df35eada1" type="folder">43</container>
+                     <unittitle>Folletos,</unittitle>
+                     <unitdate>1885-1920</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="c4896124-f9c6-4b97-8011-bc61d3895a7c" type="box">4</container>
+                     <container parent="c4896124-f9c6-4b97-8011-bc61d3895a7c" type="folder">44</container>
+                     <unittitle>Folletos,</unittitle>
+                     <unitdate>1922-1925</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="88113a40-1704-49c3-9e76-6cea841893dd" type="box">4</container>
+                     <container parent="88113a40-1704-49c3-9e76-6cea841893dd" type="folder">45</container>
+                     <unittitle>Folletos,</unittitle>
+                     <unitdate>1926</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="e5902f03-38c7-4874-935e-7cf3cf89d31a" type="box">4</container>
+                     <container parent="e5902f03-38c7-4874-935e-7cf3cf89d31a" type="folder">46</container>
+                     <unittitle>Folletos,</unittitle>
+                     <unitdate>1927</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="bf4961c9-97d4-4059-80eb-2dddbcef28b9" type="box">4</container>
+                     <container parent="bf4961c9-97d4-4059-80eb-2dddbcef28b9" type="folder">47</container>
+                     <unittitle>Folletos,</unittitle>
+                     <unitdate>1928-1934</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="3c668a20-5821-40bd-b0ec-5b5f32359406" type="box">5</container>
+                     <container parent="3c668a20-5821-40bd-b0ec-5b5f32359406" type="folder">1</container>
+                     <unittitle>Folletos,</unittitle>
+                     <unitdate>1935</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="c946f6eb-10f6-4d5b-bcb6-af63d9b58f25" type="box">5</container>
+                     <container parent="c946f6eb-10f6-4d5b-bcb6-af63d9b58f25" type="folder">2</container>
+                     <unittitle>Folletos,</unittitle>
+                     <unitdate>1936-1939</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="ac7d52ee-6ec4-4738-9c8d-1df389ea2777" type="box">5</container>
+                     <container parent="ac7d52ee-6ec4-4738-9c8d-1df389ea2777" type="folder">3</container>
+                     <unittitle>Folletos,</unittitle>
+                     <unitdate>1943-1950</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="2a675822-b968-4ffa-9bca-30d63f19ab42" type="box">5</container>
+                     <container parent="2a675822-b968-4ffa-9bca-30d63f19ab42" type="folder">4</container>
+                     <unittitle>Folletos,</unittitle>
+                     <unitdate>1969-1985</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="72082095-fd3f-47fe-9df3-e10c57791e31" type="box">5</container>
+                     <container parent="72082095-fd3f-47fe-9df3-e10c57791e31" type="folder">5</container>
+                     <unittitle>Obras de Teatro,</unittitle>
+                     <unitdate>sin fecha, 1894-1906</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="6de78ade-22b0-4dd5-bc1d-5b7140aa624b" type="box">5</container>
+                     <container parent="6de78ade-22b0-4dd5-bc1d-5b7140aa624b" type="folder">6</container>
+                     <unittitle>Obras de Teatro,</unittitle>
+                     <unitdate>1919-1947</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="34c550d3-90db-410e-8c67-6d40fdbea591" type="box">5</container>
+                     <container parent="34c550d3-90db-410e-8c67-6d40fdbea591" type="folder">7</container>
+                     <unittitle>Poemas,</unittitle>
+                     <unitdate>sin fecha, 1905-1945</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="e9733e81-8063-4245-879d-c6a0e07326c7" type="box">5</container>
+                     <container parent="e9733e81-8063-4245-879d-c6a0e07326c7" type="folder">8</container>
+                     <unittitle>Programas,</unittitle>
+                     <unitdate>sin fecha, 1910-1986</unitdate>
+                  </did>
+               </c02>  
+               <c02 level="file">
+                  <did>
+                     <container id="3d391896-ffd1-40c3-86e2-36e353c90721" type="box">5</container>
+                     <container parent="3d391896-ffd1-40c3-86e2-36e353c90721" type="folder">9</container>
+                     <unittitle>Declaraciones Públicas,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="255d922f-7333-49be-913d-5509334623bc" type="box">5</container>
+                     <container parent="255d922f-7333-49be-913d-5509334623bc" type="folder">10</container>
+                     <unittitle>Declaraciones Públicas,</unittitle>
+                     <unitdate>1914-1925</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="7589b421-f17b-49c6-9cc4-3317709b5bc4" type="box">5</container>
+                     <container parent="7589b421-f17b-49c6-9cc4-3317709b5bc4" type="folder">11</container>
+                     <unittitle>Declaraciones Públicas,</unittitle>
+                     <unitdate>1926</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="c089e202-805e-45f5-8d12-401879872899" type="box">5</container>
+                     <container parent="c089e202-805e-45f5-8d12-401879872899" type="folder">12</container>
+                     <unittitle>Declaraciones Públicas,</unittitle>
+                     <unitdate>1927-1933</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="c48d2253-e331-40b0-9bd9-ce6f44b214f2" type="box">5</container>
+                     <container parent="c48d2253-e331-40b0-9bd9-ce6f44b214f2" type="folder">13</container>
+                     <unittitle>Declaraciones Públicas,</unittitle>
+                     <unitdate>1934-1936</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="d033f856-ddb9-45d6-9c19-79b597e1a377" type="box">5</container>
+                     <container parent="d033f856-ddb9-45d6-9c19-79b597e1a377" type="folder">14</container>
+                     <unittitle>Declaraciones Públicas,</unittitle>
+                     <unitdate>1937-1939</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="105a8bd9-36a2-4819-8cb4-c4ecbeddc36b" type="box">5</container>
+                     <container parent="105a8bd9-36a2-4819-8cb4-c4ecbeddc36b" type="folder">15</container>
+                     <unittitle>Declaraciones Públicas,</unittitle>
+                     <unitdate>1940-1971</unitdate>
+                  </did>
+               </c02>
+            </c01>
+            <c01 level="series">
+                  <did> 
+                     <unittitle>Fotografías y Negativos,</unittitle> 
+                     <unitdate type="inclusive">1874-1970</unitdate>
+                  </did>
+               <scopecontent><p>Organización: Alfabética. Esta serie contiene fotografías y negativos, la mayoría de ellos relacionados con la familia De la Torre. Incluidos están también amistades y parientes, incluyendo algunos de Leopoldo Varela, Jose M M Aguilar, Foto Harrison y Linder Art Studio.  
+                  Contine también fotografías individuales de CB Waite and Govan and North. Los estudios y fotógrafos eran originarios de Aguascalientes, Guadalajara, Navajoa, Sonora, Nogales, Sonora and Arizona, San Luis Potosi, and Zacatecas.  La mayoría de las leyendas al reverso de fotografías son en español.   Nota: Algunos materiales se encuentras en la serie 7, de materiales sobredimensionados.
+               </p></scopecontent>
+               <c02 level="file">
+                  <did>
+                     <container id="9eb01a7d-6260-4a05-8b42-a137f5a8977f" type="box">5</container>
+                     <container parent="9eb01a7d-6260-4a05-8b42-a137f5a8977f" type="folder">16</container>
+                     <unittitle>Disco Compacto – Copia del Archivo de la Familia De la Torre,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="85513469-0554-4d1d-aa8f-22547982c6d2" type="box">5</container>
+                     <container parent="85513469-0554-4d1d-aa8f-22547982c6d2" type="folder">17</container>
+                     <unittitle>Fotografías – Grupo de Aguascalientes,</unittitle>
+                     <unitdate>sin fecha, 1919</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="5fe7e318-c589-4a18-9fe9-c13689159e35" type="box">5</container>
+                     <container parent="5fe7e318-c589-4a18-9fe9-c13689159e35" type="folder">18</container>
+                     <unittitle>Fotografías – California,</unittitle>
+                     <unitdate>1883-1907</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="808a44ec-f6a8-48de-871e-a7613b7a9cbf" type="box">6</container>
+                     <container parent="808a44ec-f6a8-48de-871e-a7613b7a9cbf" type="folder">1</container>
+                     <unittitle>Fotografías – Iglesias,</unittitle>
+                     <unitdate>sin fecha, 1885-1927</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="c50f54bf-1a3d-4a48-ac5a-dd97b8f1d326" type="box">6</container>
+                     <container parent="c50f54bf-1a3d-4a48-ac5a-dd97b8f1d326" type="folder">2</container>
+                     <unittitle>Fotografías – Coronación de la Virgen Santísima de Guadalupe (Los Angeles, California),</unittitle>
+                     <unitdate>1937</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="289acb6b-2025-4bc4-9ee4-4a17ad391b8b" type="box">6</container>
+                     <container parent="289acb6b-2025-4bc4-9ee4-4a17ad391b8b" type="folder">3</container>
+                     <unittitle>Fotografías – Soldados Cristeros,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="b88a070a-6f69-4c90-b52a-4e22ac3efcaa" type="box">6</container>
+                     <container parent="b88a070a-6f69-4c90-b52a-4e22ac3efcaa" type="folder">4</container>
+                     <unittitle>Fotografías – De la Torre, Alfonso,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="77b4f4ab-9bb3-4bf3-acf8-718923b08231" type="box">6</container>
+                     <container parent="77b4f4ab-9bb3-4bf3-acf8-718923b08231" type="folder">5</container>
+                     <unittitle>Fotografías – De la Torre, Alfonso,</unittitle>
+                     <unitdate>1910-1936</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="1272b628-a00e-4ee1-aac4-2d6e6cea1654" type="box">6</container>
+                     <container parent="1272b628-a00e-4ee1-aac4-2d6e6cea1654" type="folder">6</container>
+                     <unittitle>Fotografías – De la Torre, Alfonso – Exhumación del cuerpo,</unittitle>
+                     <unitdate>1944</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="cfcc649c-2043-4f68-8d77-f6cedb83235c" type="box">6</container>
+                     <container parent="cfcc649c-2043-4f68-8d77-f6cedb83235c" type="folder">7</container>
+                     <unittitle>Fotografías – De la Torre, Benjamín,</unittitle>
+                     <unitdate>sin fecha, 1926-1953</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="2c993c76-119f-4781-9cbe-69047b9a91e6" type="box">6</container>
+                     <container parent="2c993c76-119f-4781-9cbe-69047b9a91e6" type="folder">8</container>
+                     <unittitle>Fotografías – De la Torre, Carlos,</unittitle>
+                     <unitdate>sin fecha, 1931-1961</unitdate>
+                  </did>
+               </c02>  
+               <c02 level="file">
+                  <did>
+                     <container id="d2c8f0a0-e784-40f2-8775-ccfe84faf477" type="box">6</container>
+                     <container parent="d2c8f0a0-e784-40f2-8775-ccfe84faf477" type="folder">9</container>
+                     <unittitle>Fotografías – De la Torre, Edmundo,</unittitle>
+                     <unitdate>sin fecha, 1938-1953</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="20aa6b1d-593f-4070-a7ce-dffa872e017f" type="box">6</container>
+                     <container parent="20aa6b1d-593f-4070-a7ce-dffa872e017f" type="folder">10</container>
+                     <unittitle>Fotografías – De la Torre, Francisco,</unittitle>
+                     <unitdate>sin fecha, 1920-1941</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="112fe04a-a39b-4e28-b50d-2d27e5511a58" type="box">6</container>
+                     <container parent="112fe04a-a39b-4e28-b50d-2d27e5511a58" type="folder">11</container>
+                     <unittitle>Fotografías – De la Torre, Ignacio,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="1ead61bb-96e0-44f9-acf3-8305e6ce9b09" type="box">6</container>
+                     <container parent="1ead61bb-96e0-44f9-acf3-8305e6ce9b09" type="folder">12</container>
+                     <unittitle>Fotografías – De la Torre, Ignacio,</unittitle>
+                     <unitdate>1920-1970</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="d47830ca-90a6-4632-b957-ecb95cfc334a" type="box">6</container>
+                     <container parent="d47830ca-90a6-4632-b957-ecb95cfc334a" type="folder">13</container>
+                     <unittitle>Fotografías – De la Torre, Ignacio – Viajes,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="53b12858-5e0b-4fc8-b851-49a5585215f4" type="box">6</container>
+                     <container parent="53b12858-5e0b-4fc8-b851-49a5585215f4" type="folder">14</container>
+                     <unittitle>Fotografías – De la Torre, Luis,</unittitle>
+                     <unitdate>sin fecha, 1921-1956</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="e1519373-2e1a-4f6e-bbe5-e2601c208443" type="box">6</container>
+                     <container parent="e1519373-2e1a-4f6e-bbe5-e2601c208443" type="folder">15</container>
+                     <unittitle>Fotografías – De la Torre, María,</unittitle>
+                     <unitdate>sin fecha, 1901-1948</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="33925e4a-be84-4923-8708-882ff99d06e3" type="box">6</container>
+                     <container parent="33925e4a-be84-4923-8708-882ff99d06e3" type="folder">16</container>
+                     <unittitle>Fotografías-De la Torre Berumen, Ignacio,</unittitle>
+                     <unitdate>sin fecha, 1896-1948</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="04fa48d0-eb2a-46a9-aa38-4b71310a8b5d" type="box">6</container>
+                     <container parent="04fa48d0-eb2a-46a9-aa38-4b71310a8b5d" type="folder">17</container>
+                     <unittitle>Fotografías - De la Torre Berumen, Ignacio and Uribarren De la Torre, María,</unittitle>
+                     <unitdate>sin fecha, 1901</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="ce6afb41-b33b-4756-80f9-45bf4340c728" type="box">6</container>
+                     <container parent="ce6afb41-b33b-4756-80f9-45bf4340c728" type="folder">18</container>
+                     <unittitle>Fotografías - Familia De la Torre Berumen, </unittitle>
+                     <unitdate>sin fecha, 1874-1901</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="b6678cd2-e930-4b39-9a72-2169ba40376e" type="box">6</container>
+                     <container parent="b6678cd2-e930-4b39-9a72-2169ba40376e" type="folder">19</container>
+                     <unittitle>Fotografías - Familia De la Torre,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="4ba92b2c-2ce8-4862-925b-c2003f0f576c" type="box">6</container>
+                     <container parent="4ba92b2c-2ce8-4862-925b-c2003f0f576c" type="folder">20</container>
+                     <unittitle>Fotografías- Familia De la Torre,</unittitle>
+                     <unitdate>1906-1936</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="178e4486-3f30-43b5-b1b4-de4e31d75987" type="box">6</container>
+                     <container parent="178e4486-3f30-43b5-b1b4-de4e31d75987" type="folder">21</container>
+                     <unittitle>Fotografías- Familia De la Torre— Album de Fotos ,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="2e4d6b4d-0c9f-4d42-9d9a-95da2fac6efa" type="box">7</container>
+                     <container parent="2e4d6b4d-0c9f-4d42-9d9a-95da2fac6efa" type="folder">1</container>
+                     <unittitle>Fotografías - Familia Delgado,</unittitle>
+                     <unitdate>sin fecha, 1923</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="01b4d81e-4565-4162-aca5-d6d0a6ca8bd7" type="box">7</container>
+                     <container parent="01b4d81e-4565-4162-aca5-d6d0a6ca8bd7" type="folder">2</container>
+                     <unittitle>Fotografías - Familia Downing,</unittitle>
+                     <unitdate>sin fecha, 1944-1947</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="50c94f5e-f269-4a6f-9d93-b210776e69e4" type="box">7</container>
+                     <container parent="50c94f5e-f269-4a6f-9d93-b210776e69e4" type="folder">3</container>
+                     <unittitle>Fotografías - Duval, Louis,</unittitle>
+                     <unitdate>sin fecha, 1932-1938</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="72eef1e8-1175-4bff-8f63-8d5def19ca00" type="box">7</container>
+                     <container parent="72eef1e8-1175-4bff-8f63-8d5def19ca00" type="folder">4</container>
+                     <unittitle>Fotografías - Eucharist Crusade,</unittitle>
+                     <unitdate>1924</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="0c2f9ed9-dfae-474c-b27b-be0d9499d324" type="box">7</container>
+                     <container parent="0c2f9ed9-dfae-474c-b27b-be0d9499d324" type="folder">5</container>
+                     <unittitle>Fotografías - Familia Garibi,</unittitle>
+                     <unitdate>sin fecha, 1948</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="7fd071d1-3015-41c4-a1af-22b8ee95ffec" type="box">7</container>
+                     <container parent="7fd071d1-3015-41c4-a1af-22b8ee95ffec" type="folder">6</container>
+                     <unittitle>Fotografías - Familias Garibi y Velasco,</unittitle>
+                     <unitdate>sin fecha, 1909-1920</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="6b1d04f2-2197-401e-b41f-9a0c0f1b57a3" type="box">7</container>
+                     <container parent="6b1d04f2-2197-401e-b41f-9a0c0f1b57a3" type="folder">7</container>
+                     <unittitle>Fotografías - General,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="81ff41e3-5e34-4705-aba8-e593ee7e211c" type="box">7</container>
+                     <container parent="81ff41e3-5e34-4705-aba8-e593ee7e211c" type="folder">8</container>
+                     <unittitle>Fotografías - General,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>  
+               <c02 level="file">
+                  <did>
+                     <container id="ed7d629d-fe7a-4d87-b2c6-8aec1f4c9dc4" type="box">7</container>
+                     <container parent="ed7d629d-fe7a-4d87-b2c6-8aec1f4c9dc4" type="folder">9</container>
+                     <unittitle>Fotografías - General,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="67bf6917-561b-4213-b833-b7c2af9af10e" type="box">7</container>
+                     <container parent="67bf6917-561b-4213-b833-b7c2af9af10e" type="folder">10</container>
+                     <unittitle>Fotografías - General,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="5fd7e69f-a699-4b1e-ba4d-67e18f563258" type="box">7</container>
+                     <container parent="5fd7e69f-a699-4b1e-ba4d-67e18f563258" type="folder">11</container>
+                     <unittitle>Fotografías - General,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="cf02fb67-b5d0-4bfe-b772-933cf1fc0adb" type="box">7</container>
+                     <container parent="cf02fb67-b5d0-4bfe-b772-933cf1fc0adb" type="folder">12</container>
+                     <unittitle>Fotografías - General,</unittitle>
+                     <unitdate>1891-1899</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="4c894947-59d0-4bf4-9e8c-3c0a34462cde" type="box">7</container>
+                     <container parent="4c894947-59d0-4bf4-9e8c-3c0a34462cde" type="folder">13</container>
+                     <unittitle>Fotografías - General,</unittitle>
+                     <unitdate>1901-1919</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="2c290de9-0414-4f19-8829-ea71d8831c6f" type="box">7</container>
+                     <container parent="2c290de9-0414-4f19-8829-ea71d8831c6f" type="folder">14</container>
+                     <unittitle>Fotografías - General,</unittitle>
+                     <unitdate>1920-1929</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="1e6ff655-72d0-4c30-937e-ce7b4147cdb7" type="box">7</container>
+                     <container parent="1e6ff655-72d0-4c30-937e-ce7b4147cdb7" type="folder">15</container>
+                     <unittitle>Fotografías - General,</unittitle>
+                     <unitdate>1930-1939</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="33576b7c-7361-4f05-ad2b-4f41bf33341f" type="box">7</container>
+                     <container parent="33576b7c-7361-4f05-ad2b-4f41bf33341f" type="folder">16</container>
+                     <unittitle>Fotografías - General,</unittitle>
+                     <unitdate>1940-1970</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="a92fb2f5-3f0c-4cd3-acfd-9bbc54293fc1" type="box">7</container>
+                     <container parent="a92fb2f5-3f0c-4cd3-acfd-9bbc54293fc1" type="folder">17</container>
+                     <unittitle>Fotografías – Familia Grabral,</unittitle>
+                     <unitdate>sin fecha, 1891-1938</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="29c097c2-7311-46f2-a4eb-ab1a30c77422" type="box">7</container>
+                     <container parent="29c097c2-7311-46f2-a4eb-ab1a30c77422" type="folder">18</container>
+                     <unittitle>Fotografías – Iglesia y Virgen, </unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="8828a02b-2873-4e82-804a-832584d4af9b" type="box">7</container>
+                     <container parent="8828a02b-2873-4e82-804a-832584d4af9b" type="folder">19</container>
+                     <unittitle>Fotografías – Familia Marcado,</unittitle>
+                     <unitdate>sin fecha, 1931-1941</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="b91c0aae-e55d-42c6-bc7d-b9235a1424c8" type="box">7</container>
+                     <container parent="b91c0aae-e55d-42c6-bc7d-b9235a1424c8" type="folder">20</container>
+                     <unittitle>Fotografías – Muro, Fidel,</unittitle>
+                     <unitdate>sin fecha, 1928</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="783cb18d-3abe-4062-b51c-6f55db973623" type="box">7</container>
+                     <container parent="783cb18d-3abe-4062-b51c-6f55db973623" type="folder">21</container>
+                     <unittitle>Fotografías – Navarrete, Juan,</unittitle>
+                     <unitdate>sin fecha, 1937</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="9edb23b2-2dc2-4068-8fdf-c66b1666c016" type="box">7</container>
+                     <container parent="9edb23b2-2dc2-4068-8fdf-c66b1666c016" type="folder">22</container>
+                     <unittitle>Fotografías – Noriega, Alfonso,</unittitle>
+                     <unitdate>sin fecha, 1927</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="c8d9b708-6945-4638-b893-47a16a1f3755" type="box">7</container>
+                     <container parent="c8d9b708-6945-4638-b893-47a16a1f3755" type="folder">23</container>
+                     <unittitle>Fotografías – Orozco y Velasco,</unittitle>
+                     <unitdate>sin fecha, 1910-1914</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="fb6cfa55-98fa-4e98-b43c-bf088b062dbf" type="box">7</container>
+                     <container parent="fb6cfa55-98fa-4e98-b43c-bf088b062dbf" type="folder">24</container>
+                     <unittitle>Fotografías – San Pedro de la Cueoa,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="133e3143-1ac7-456b-8446-c70cec2f3f68" type="box">7</container>
+                     <container parent="133e3143-1ac7-456b-8446-c70cec2f3f68" type="folder">25</container>
+                     <unittitle>Fotografías – Colegio Serafico,</unittitle>
+                     <unitdate>sin fecha, 1922-1929</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="9f5065cd-393d-4d8f-99c7-e9b51dc13a96" type="box">7</container>
+                     <container parent="9f5065cd-393d-4d8f-99c7-e9b51dc13a96" type="folder">26</container>
+                     <unittitle>Fotografías – Movimiento Sinarquistas,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="f4d45980-0bee-4dd1-bf80-7ea899d985d1" type="box">7</container>
+                     <container parent="f4d45980-0bee-4dd1-bf80-7ea899d985d1" type="folder">27</container>
+                     <unittitle>Fotografías – Iglesia Sonorense,</unittitle>
+                     <unitdate>sin fecha, 1937-1970</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="fcbaf1e5-ef6a-47ad-ac4d-b0ce8ba1647a" type="box">7</container>
+                     <container parent="fcbaf1e5-ef6a-47ad-ac4d-b0ce8ba1647a" type="folder">28</container>
+                     <unittitle>Fotografías – Familias Sureñas Cristeras,</unittitle>
+                     <unitdate>sin fecha, 1932 </unitdate>
+                  </did>
+               </c02>  
+               <c02 level="file">
+                  <did>
+                     <container id="f79772aa-e113-4eec-b296-f5ad380d9cde" type="box">7</container>
+                     <container parent="f79772aa-e113-4eec-b296-f5ad380d9cde" type="folder">29</container>
+                     <unittitle>Fotografías – Monumento Nacional Tumacacori (Tumacacori, Arizona),</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="cb33363f-a5e7-4a1c-977d-00aa624b00f9" type="box">7</container>
+                     <container parent="cb33363f-a5e7-4a1c-977d-00aa624b00f9" type="folder">30</container>
+                     <unittitle>Fotografías – Uribarren De la Torre, María,</unittitle>
+                     <unitdate>sin fecha, 1897-1901</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="9bf2af56-ce0b-4630-b0dd-1e30fb95f0c0" type="box">7</container>
+                     <container parent="9bf2af56-ce0b-4630-b0dd-1e30fb95f0c0" type="folder">31</container>
+                     <unittitle>Fotografías – Uribarren Family,</unittitle>
+                     <unitdate>sin fecha, 1934</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="474085e3-e5b1-4aa9-bf06-16ba736aae76" type="box">7</container>
+                     <container parent="474085e3-e5b1-4aa9-bf06-16ba736aae76" type="folder">32</container>
+                     <unittitle>Fotografías – Velazco de Perez,</unittitle>
+                     <unitdate>sin fecha, 1922</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="f41b8002-e7ee-41b0-b52a-1a6e2c22d173" type="box">7</container>
+                     <container parent="f41b8002-e7ee-41b0-b52a-1a6e2c22d173" type="folder">33</container>
+                     <unittitle>Fotografías – Familia Velazco,</unittitle>
+                     <unitdate>sin fecha, 1897</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="74df3678-2a45-497b-bbb1-b88cd14f469b" type="box">7</container>
+                     <container parent="74df3678-2a45-497b-bbb1-b88cd14f469b" type="folder">34</container>
+                     <unittitle>Fotografías – Familia Villegas de Noriega,</unittitle>
+                     <unitdate>1906</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="67899498-3abe-43d8-9641-7d6b80cf72c9" type="box">7</container>
+                     <container parent="67899498-3abe-43d8-9641-7d6b80cf72c9" type="folder">35</container>
+                     <unittitle>Fotografías – Colegio Ysleta,</unittitle>
+                     <unitdate>sin fecha, 1937-1938</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="c20658b8-2437-453f-9c1a-225edc40b424" type="box">7</container>
+                     <container parent="c20658b8-2437-453f-9c1a-225edc40b424" type="folder">36</container>
+                     <unittitle>Negativos – Universidad Buena Vista,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="407a9eef-98e9-4b33-9568-de0763ba2e4e" type="box">7</container>
+                     <container parent="407a9eef-98e9-4b33-9568-de0763ba2e4e" type="folder">37</container>
+                     <unittitle>Negativos – Iglesias,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="4faa689c-58a1-459b-9468-17fe215c4700" type="box">7</container>
+                     <container parent="4faa689c-58a1-459b-9468-17fe215c4700" type="folder">38</container>
+                     <unittitle>Negativos – Soldados Cristeros,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>  
+               <c02 level="file">
+                  <did>
+                     <container id="1d9372f6-e0d1-49bf-8f13-43dbcf263045" type="box">7</container>
+                     <container parent="1d9372f6-e0d1-49bf-8f13-43dbcf263045" type="folder">39</container>
+                     <unittitle>Negativos – De la Torre, Alfonso,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="7e0f868f-70f5-4888-bc02-aaacfe716ede" type="box">7</container>
+                     <container parent="7e0f868f-70f5-4888-bc02-aaacfe716ede" type="folder">40</container>
+                     <unittitle>Negativos – De la Torre, Alfonso – Exhumación del cuerpo,</unittitle>
+                     <unitdate>1944</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="2ef94ac6-c7a1-4638-ad8f-c1207280ac4c" type="box">7</container>
+                     <container parent="2ef94ac6-c7a1-4638-ad8f-c1207280ac4c" type="folder">41</container>
+                     <unittitle>Negativos – De la Torre, Benjamín,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="e7d5ae38-491b-4788-82c6-421c4bc9fc8c" type="box">8</container>
+                     <container parent="e7d5ae38-491b-4788-82c6-421c4bc9fc8c" type="folder">1</container>
+                     <unittitle>Negativos – De la Torre, Carlos,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="501c63a5-dd0c-4088-93ef-0215e4cebcc1" type="box">8</container>
+                     <container parent="501c63a5-dd0c-4088-93ef-0215e4cebcc1" type="folder">2</container>
+                     <unittitle>Negativos – De la Torre, Ignacio,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="57860aa9-2c60-411e-af85-2f33208f327a" type="box">8</container>
+                     <container parent="57860aa9-2c60-411e-af85-2f33208f327a" type="folder">3</container>
+                     <unittitle>Negativos – De la Torre, Luis,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="0b50428d-03bb-4535-b633-94239fadc418" type="box">8</container>
+                     <container parent="0b50428d-03bb-4535-b633-94239fadc418" type="folder">4</container>
+                     <unittitle>Negativos – De la Torre, María,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="394ac0f0-9681-4326-89d3-45590375199b" type="box">8</container>
+                     <container parent="394ac0f0-9681-4326-89d3-45590375199b" type="folder">5</container>
+                     <unittitle>Negativos – De la Torre Berumen, Ignacio,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="96a36fa0-6bc0-456d-a72b-16d73739f989" type="box">8</container>
+                     <container parent="96a36fa0-6bc0-456d-a72b-16d73739f989" type="folder">6</container>
+                     <unittitle>Negativos – Familia De la Torre,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="75e05066-6618-4d69-805f-67c00196dcab" type="box">8</container>
+                     <container parent="75e05066-6618-4d69-805f-67c00196dcab" type="folder">7</container>
+                     <unittitle>Negativos – Familia De la Torre,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="9a6af40d-ec05-4666-9184-b08e860af13d" type="box">8</container>
+                     <container parent="9a6af40d-ec05-4666-9184-b08e860af13d" type="folder">8</container>
+                     <unittitle>Negativos – General,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>  
+               <c02 level="file">
+                  <did>
+                     <container id="301a82d4-827f-4f0a-91f8-7415493448aa" type="box">8</container>
+                     <container parent="301a82d4-827f-4f0a-91f8-7415493448aa" type="folder">9</container>
+                     <unittitle>Negativos – Iglesia y Virgen,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="ca5eefeb-1ad2-4bbf-8091-5406875bc676" type="box">8</container>
+                     <container parent="ca5eefeb-1ad2-4bbf-8091-5406875bc676" type="folder">10</container>
+                     <unittitle>Negativos – Muro, Fidel,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="83171d8a-6fc0-411c-9a4c-57efe47423f6" type="box">8</container>
+                     <container parent="83171d8a-6fc0-411c-9a4c-57efe47423f6" type="folder">11</container>
+                     <unittitle>Negativos – Nogales,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+               <c02 level="file">
+                  <did>
+                     <container id="4dcb9852-9657-4d87-a301-11daea40376a" type="box">8</container>
+                     <container parent="4dcb9852-9657-4d87-a301-11daea40376a" type="folder">12</container>
+                     <unittitle>Negativos – Uribarren De la Torre, María,</unittitle>
+                     <unitdate>sin fecha</unitdate>
+                  </did>
+               </c02>
+            </c01>
+           <c01 level="series">
+            <did> 
+               <unittitle>Materiales Sobredimensionados,</unittitle> 
+               <unitdate type="inclusive">1906-1979</unitdate>
+            </did>
+              <scopecontent><p>Esta serie contiene materiales sobredimensionados pertenecientes a diferentes series que incluyen archivos bibliográficos, materiales impresos, fotografías y negativos.</p></scopecontent>
+              <c02 level="file">
+                 <did>
+                    <container id="56a50d21-caf4-4487-a767-37b8dd49a26f" type="box">9</container>
+                    <container parent="56a50d21-caf4-4487-a767-37b8dd49a26f" type="folder">1</container>
+                    <unittitle>Archivos Bibliográficos: Certificados,</unittitle>
+                    <unitdate>1929</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="2368b92d-1154-4112-9adf-68a7d6d4f59d" type="box">9</container>
+                    <container parent="2368b92d-1154-4112-9adf-68a7d6d4f59d" type="folder">2</container>
+                    <unittitle>Materiales Impresos: Revistas – General,</unittitle>
+                    <unitdate>1939-1951</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="58e7bc84-d679-48d3-8bb3-8917af4e2a44" type="box">9</container>
+                    <container parent="58e7bc84-d679-48d3-8bb3-8917af4e2a44" type="folder">3</container>
+                    <unittitle>Materiales Impresos: Revistas – El Niño sin Hogar,</unittitle>
+                    <unitdate>1929-1939</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="1eaaa6d9-28a9-4450-a715-219f1f3c907c" type="box">9</container>
+                    <container parent="1eaaa6d9-28a9-4450-a715-219f1f3c907c" type="folder">4</container>
+                    <unittitle>Materiales Impresos: Boletines de Noticias – General,</unittitle>
+                    <unitdate>sin fecha, 1926-1936</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="08da9387-6d55-49b1-9f11-1e4d8d789ede" type="box">9</container>
+                    <container parent="08da9387-6d55-49b1-9f11-1e4d8d789ede" type="folder">5</container>
+                    <unittitle>Materiales Impresos: Periódicos,</unittitle>
+                    <unitdate>1923-1933</unitdate>
+                 </did>
+              </c02> 
+              <c02 level="file">
+                 <did>
+                    <container id="f2149cbf-8353-4c3a-8247-da7a29549636" type="box">10</container>
+                    <container parent="f2149cbf-8353-4c3a-8247-da7a29549636" type="folder">1</container>
+                    <unittitle>Materiales Impresos: Periódicos,</unittitle>
+                    <unitdate>1934-1979</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="2033de62-9279-496d-9247-bf0c8d93f16c" type="box">10</container>
+                    <container parent="2033de62-9279-496d-9247-bf0c8d93f16c" type="folder">2</container>
+                    <unittitle>Materiales Impresos: Posters,</unittitle>
+                    <unitdate>sin fecha, 1924-1974</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="3b344712-97de-421d-84c6-837a0086a6f1" type="box">10</container>
+                    <container parent="3b344712-97de-421d-84c6-837a0086a6f1" type="folder">3</container>
+                    <unittitle>Materiales Impresos: Declaraciones Públicas,</unittitle>
+                    <unitdate>sin fecha, 1924-1961</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="6f2ebf95-f4f2-419c-afd1-010998102986" type="box">10</container>
+                    <container parent="6f2ebf95-f4f2-419c-afd1-010998102986" type="folder">4</container>
+                    <unittitle>Fotografías y Negativos: Fotografías – Iglesias,</unittitle>
+                    <unitdate>sin fecha</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="6d6026fd-457d-43c6-a27c-8c309f55e353" type="box">10</container>
+                    <container parent="6d6026fd-457d-43c6-a27c-8c309f55e353" type="folder">5</container>
+                    <unittitle>Fotografías y Negativos: Fotografías – De la Torre, Alfonso,</unittitle>
+                    <unitdate>sin fecha</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="71f600a6-312e-42ef-817b-b86477f556c7" type="box">10</container>
+                    <container parent="71f600a6-312e-42ef-817b-b86477f556c7" type="folder">6</container>
+                    <unittitle>Fotografías y Negativos: Fotografías – De la Torre, Benjamín,</unittitle>
+                    <unitdate>1942</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="8f358bb9-26f7-44ef-b1e9-63f2c4c66a5a" type="box">10</container>
+                    <container parent="8f358bb9-26f7-44ef-b1e9-63f2c4c66a5a" type="folder">7</container>
+                    <unittitle>Fotografías y Negativos: Fotografías – De la Torre, Luis,</unittitle>
+                    <unitdate>1942</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="80f6c745-7638-4f6b-8543-cc909d4f1d34" type="box">10</container>
+                    <container parent="80f6c745-7638-4f6b-8543-cc909d4f1d34" type="folder">8</container>
+                    <unittitle>Fotografías y Negativos: Fotografías – De la Torre Berumen, Ignacio y  De la Torre Uribarren, María,</unittitle>
+                    <unitdate>sin fecha</unitdate>
+                 </did>
+              </c02>  
+              <c02 level="file">
+                 <did>
+                    <container id="fccd4f86-ba29-4421-a6c3-3126b71fc680" type="box">10</container>
+                    <container parent="fccd4f86-ba29-4421-a6c3-3126b71fc680" type="folder">9</container>
+                    <unittitle>Fotografías y Negativos: Fotografías – Familia De la Torre Berumen,</unittitle>
+                    <unitdate>sin fecha</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="006ae110-3d70-40f5-87e5-1d43ff5543de" type="box">11</container>
+                    <container parent="006ae110-3d70-40f5-87e5-1d43ff5543de" type="folder">1</container>
+                    <unittitle>Fotografías and Negativos: Fotografías – Familia De la Torre,</unittitle>
+                    <unitdate>sin fecha, 1906</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="e069b315-d9b8-4d66-9169-324f3982379a" type="box">11</container>
+                    <container parent="e069b315-d9b8-4d66-9169-324f3982379a" type="folder">2</container>
+                    <unittitle>Fotografías and Negativos: Fotografías – Sacerdotes Franciscanos y otras amistades,</unittitle>
+                    <unitdate>sin fecha, 1921-1969</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="b540c94e-684d-49a9-bd7d-ef96dd04a53d" type="box">11</container>
+                    <container parent="b540c94e-684d-49a9-bd7d-ef96dd04a53d" type="folder">3</container>
+                    <unittitle>Fotografías and Negativos: Fotografías – General,</unittitle>
+                    <unitdate>sin fecha, 1909-1932 </unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="3dc73c84-c5f6-4594-9db6-41d9a8bb451c" type="box">11</container>
+                    <container parent="3dc73c84-c5f6-4594-9db6-41d9a8bb451c" type="folder">4</container>
+                    <unittitle>Fotografías y Negativos: Fotografías – Grupos de Tampico, Tamaulipas,</unittitle>
+                    <unitdate>sin fecha, 1923</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="14546985-6e56-48f6-81e3-7fe27fb3f705" type="box">11</container>
+                    <container parent="14546985-6e56-48f6-81e3-7fe27fb3f705" type="folder">5</container>
+                    <unittitle>Fotografías y Negativos: Fotografías – Familia Velasco de Garibi,</unittitle>
+                    <unitdate>sin fecha, 1908</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="0763c532-c32f-4476-9cdc-038783cbe942" type="box">11</container>
+                    <container parent="0763c532-c32f-4476-9cdc-038783cbe942" type="folder">6</container>
+                    <unittitle>Suplemento: Fotografías – Familia Ruiz de Chávez,</unittitle>
+                    <unitdate>1912</unitdate>
+                 </did>
+              </c02>
+              <c02 level="file">
+                 <did>
+                    <container id="980d438f-2ed8-4ec0-993b-8a34dad1eb0c" type="box">11</container>
+                    <container parent="980d438f-2ed8-4ec0-993b-8a34dad1eb0c" type="folder">7</container>
+                    <unittitle>Suplemento: Fotografías – Asociación Católica de la Juventud Mexicana,</unittitle>
+                    <unitdate>1920</unitdate>
+                 </did>
+              </c02>
+           </c01>
+              <c01 level="series">
+                 <did> 
+                    <unittitle>Suplemento de Manuscritos y Fotografías de la Familia,</unittitle> 
+                    <unitdate type="inclusive">1910-2003</unitdate>
+                 </did>
+                 <scopecontent><p>Esta serie contiene un suplemento de materiales acumulados por José De la Torre. Esta serie está dividida en subseries que reflejan la organización del registro original. Las subseries incluyen archivos biográficos, correspondencia, archivos temáticos, materiales impresos, fotografías y materiales sobredimensionados. Estos materiales son en español.</p></scopecontent>
+                 <c02 level="file">
+                    <did>
+                       <container id="27da0717-5bba-4f53-b823-1051f4c2e8a5" type="box">12</container>
+                       <container parent="27da0717-5bba-4f53-b823-1051f4c2e8a5" type="folder">1</container>
+                       <unittitle>Archivos Bibliográficos: Misceláneos,</unittitle>
+                       <unitdate>1939-1991</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="5b569f0d-1e06-4c0c-bc9b-03b18ba659ce" type="box">12</container>
+                       <container parent="5b569f0d-1e06-4c0c-bc9b-03b18ba659ce" type="folder">2</container>
+                       <unittitle>Archivos Bibliográficos: De la Torre, Alfonso,</unittitle>
+                       <unitdate>1935-1945</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="bbf579a6-d6b0-454d-8358-2ffbfb3dcff0" type="box">12</container>
+                       <container parent="bbf579a6-d6b0-454d-8358-2ffbfb3dcff0" type="folder">3</container>
+                       <unittitle>Archivos Bibliográficos: De la Torre, Carlos,</unittitle>
+                       <unitdate>1956-1984</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="16cac728-77fd-4696-b189-86c0029ac6bf" type="box">12</container>
+                       <container parent="16cac728-77fd-4696-b189-86c0029ac6bf" type="folder">4</container>
+                       <unittitle>Archivos Bibliográficos: De la Torre, Ignacio,</unittitle>
+                       <unitdate>1953-1978</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="613f21ff-b69e-4aee-a81d-a3eddd38003d" type="box">12</container>
+                       <container parent="613f21ff-b69e-4aee-a81d-a3eddd38003d" type="folder">5</container>
+                       <unittitle>Archivos Bibliográficos: De la Torre, Ignacio,</unittitle>
+                       <unitdate>1979-1988</unitdate>
+                    </did>
+                 </c02> 
+                 <c02 level="file">
+                    <did>
+                       <container id="90ea1882-df1e-45df-902c-66cb18458316" type="box">12</container>
+                       <container parent="90ea1882-df1e-45df-902c-66cb18458316" type="folder">6</container>
+                       <unittitle>Archivos Bibliográficos: De la Torre, Luis,</unittitle>
+                       <unitdate>1910-1967</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="abbf461d-a333-4a6f-b2e0-f97dcc2f5c1e" type="box">12</container>
+                       <container parent="abbf461d-a333-4a6f-b2e0-f97dcc2f5c1e" type="folder">7</container>
+                       <unittitle>Archivos Bibliográficos: De la Torre, Luis y Carmela,</unittitle>
+                       <unitdate>1942-1961</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="caa83c3a-cebf-4688-b78a-329d24468003" type="box">12</container>
+                       <container parent="caa83c3a-cebf-4688-b78a-329d24468003" type="folder">8</container>
+                       <unittitle>Correspondencia: Misceláneos,</unittitle>
+                       <unitdate>1927-2003</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="d54b7e47-1c2f-47fe-ba29-ba03c52ffe6a" type="box">12</container>
+                       <container parent="d54b7e47-1c2f-47fe-ba29-ba03c52ffe6a" type="folder">9</container>
+                       <unittitle>Correspondencia: De la Torre, Alfonso,</unittitle>
+                       <unitdate>1925-1932</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="3d9143fd-dc71-41c4-af8f-753994c062d9" type="box">12</container>
+                       <container parent="3d9143fd-dc71-41c4-af8f-753994c062d9" type="folder">10</container>
+                       <unittitle>Correspondencia: De la Torre, Benjamín,</unittitle>
+                       <unitdate>1987-1989</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="c7448e09-51e2-46fa-9ae8-c7831d94ebe7" type="box">12</container>
+                       <container parent="c7448e09-51e2-46fa-9ae8-c7831d94ebe7" type="folder">11</container>
+                       <unittitle>Correspondencia: De la Torre, Carlos,</unittitle>
+                       <unitdate>1932-1953</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="dd9eb2d2-fefa-47b5-a893-76ac32ec8599" type="box">12</container>
+                       <container parent="dd9eb2d2-fefa-47b5-a893-76ac32ec8599" type="folder">12</container>
+                       <unittitle>Correspondencia: De la Torre, Francisco,</unittitle>
+                       <unitdate>1941-1942</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="10d9eeae-1cd3-49b4-9d23-11f4e5bbcc7d" type="box">12</container>
+                       <container parent="10d9eeae-1cd3-49b4-9d23-11f4e5bbcc7d" type="folder">13</container>
+                       <unittitle>Correspondencia: De la Torre, Ignacio,</unittitle>
+                       <unitdate>1967</unitdate>
+                    </did>
+                 </c02>  
+                 <c02 level="file">
+                    <did>
+                       <container id="0a6265d2-d9fb-4909-9ab9-ff79bf3c9560" type="box">12</container>
+                       <container parent="0a6265d2-d9fb-4909-9ab9-ff79bf3c9560" type="folder">14</container>
+                       <unittitle>Correspondencia: De la Torre, Luis,</unittitle>
+                       <unitdate>1929-1964</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="ecdd328d-7a84-4fa1-8102-544e62f5ee44" type="box">12</container>
+                       <container parent="ecdd328d-7a84-4fa1-8102-544e62f5ee44" type="folder">15</container>
+                       <unittitle>Correspondencia: De la Torre, María,</unittitle>
+                       <unitdate>1942-1946</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="d4a40ed8-3a56-4cb5-99ce-76b7a21ebb84" type="box">12</container>
+                       <container parent="d4a40ed8-3a56-4cb5-99ce-76b7a21ebb84" type="folder">16</container>
+                       <unittitle>Correspondencia: De la Torre, Robert,</unittitle>
+                       <unitdate>1942</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="2b232e57-7c54-48e3-b163-8ca6a4b2c6f9" type="box">12</container>
+                       <container parent="2b232e57-7c54-48e3-b163-8ca6a4b2c6f9" type="folder">17</container>
+                       <unittitle>Correspondencia: Navarrete, Juan,</unittitle>
+                       <unitdate>1942-1954</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="97c71b91-631c-4ec6-980c-a189093afd60" type="box">12</container>
+                       <container parent="97c71b91-631c-4ec6-980c-a189093afd60" type="folder">18</container>
+                       <unittitle>Correspondencia: Paloma y Vizcarra, Miguel,</unittitle>
+                       <unitdate>1944</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="de2aac83-4f9c-4f2d-84d7-3a24967d47f5" type="box">12</container>
+                       <container parent="de2aac83-4f9c-4f2d-84d7-3a24967d47f5" type="folder">19</container>
+                       <unittitle>Correspondencia: Ruiz de Chávez, Ignacio,</unittitle>
+                       <unitdate>1942-1947</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="4734f12f-91d4-4892-a1ba-e41f26dc8b0c" type="box">13</container>
+                       <container parent="4734f12f-91d4-4892-a1ba-e41f26dc8b0c" type="folder">1</container>
+                       <unittitle>Archivos Temáticos: Misceláneos,</unittitle>
+                       <unitdate>sin fecha</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="b41c483f-39bb-4a85-9f00-da1ed8c69ced" type="box">13</container>
+                       <container parent="b41c483f-39bb-4a85-9f00-da1ed8c69ced" type="folder">2</container>
+                       <unittitle>Archivos Temáticos: Narrativa Cristera,</unittitle>
+                       <unitdate>1935</unitdate>
+                    </did>
+                 </c02> 
+                 <c02 level="file">
+                    <did>
+                       <container id="86486e7d-110f-4b7f-886b-e3cb6c3cb80b" type="box">13</container>
+                       <container parent="86486e7d-110f-4b7f-886b-e3cb6c3cb80b" type="folder">3</container>
+                       <unittitle>Archivos Temáticos: Apuntes y Reflexiones sobre una Conferencia,</unittitle>
+                       <unitdate>1947</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="8b56c7e2-6251-4a73-81c3-07b6c3319124" type="box">13</container>
+                       <container parent="8b56c7e2-6251-4a73-81c3-07b6c3319124" type="folder">4</container>
+                       <unittitle>Archivos Temáticos: Congreso Eucarístico Nacional de México,</unittitle>
+                       <unitdate>1924-1937</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="fe7ebcb6-7c7e-47e5-bcd7-5d63436c12dc" type="box">13</container>
+                       <container parent="fe7ebcb6-7c7e-47e5-bcd7-5d63436c12dc" type="folder">5</container>
+                       <unittitle>Archivos Temáticos: Diario,</unittitle>
+                       <unitdate>1935</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="afb1a457-447c-4646-8f67-5e0abc82bef9" type="box">13</container>
+                       <container parent="afb1a457-447c-4646-8f67-5e0abc82bef9" type="folder">6</container>
+                       <unittitle>Archivos Temáticos: Liga Nacional Defensora de la Libertad,</unittitle>
+                       <unitdate>1934-1937</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="db352af5-9420-4650-9f98-6f57eafcf70b" type="box">13</container>
+                       <container parent="db352af5-9420-4650-9f98-6f57eafcf70b" type="folder">7</container>
+                       <unittitle>Archivos Temáticos: Notas,</unittitle>
+                       <unitdate>1944</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="41c81e6d-d790-499e-94cd-c80afa29c60d" type="box">13</container>
+                       <container parent="41c81e6d-d790-499e-94cd-c80afa29c60d" type="folder">8</container>
+                       <unittitle>Archivos Temáticos: Prosa,</unittitle>
+                       <unitdate>sin fecha, 1926-1928</unitdate>
+                    </did>
+                 </c02>  
+                 <c02 level="file">
+                    <did>
+                       <container id="828c2915-1ff4-429f-9cb3-4512ceb8684a" type="box">13</container>
+                       <container parent="828c2915-1ff4-429f-9cb3-4512ceb8684a" type="folder">9</container>
+                       <unittitle>Materiales Impresos: Misceláneos,</unittitle>
+                       <unitdate>1924-1947</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="0fba2d53-bd3a-4a64-8d88-4837ca48ad38" type="box">13</container>
+                       <container parent="0fba2d53-bd3a-4a64-8d88-4837ca48ad38" type="folder">10</container>
+                       <unittitle>Materiales Impresos: Las Chabelitas,</unittitle>
+                       <unitdate>1970</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="edf70de5-7e62-4d1e-8227-350984758b69" type="box">13</container>
+                       <container parent="edf70de5-7e62-4d1e-8227-350984758b69" type="folder">11</container>
+                       <unittitle>Materiales Impresos: Álbum del Primer Congreso Diocesano de Sonora,</unittitle>
+                       <unitdate>1922</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="e6b97ff6-892d-4bcd-868d-499d16b6a366" type="box">13</container>
+                       <container parent="e6b97ff6-892d-4bcd-868d-499d16b6a366" type="folder">12</container>
+                       <unittitle>Materiales Impresos: Sermón IV Carta Pastoral,</unittitle>
+                       <unitdate>1932-1935</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="52bf2737-17f4-4f76-92a0-e29ebfa734d4" type="box">13</container>
+                       <container parent="52bf2737-17f4-4f76-92a0-e29ebfa734d4" type="folder">13</container>
+                       <unittitle>Materiales Impresos: Periódico El Debate,</unittitle>
+                       <unitdate>1901-1919</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="ded59fb0-0920-475f-ad69-320a16d6e6ee" type="box">13</container>
+                       <container parent="ded59fb0-0920-475f-ad69-320a16d6e6ee" type="folder">14</container>
+                       <unittitle>Materiales Impresos: Publicaciones Religiosas,</unittitle>
+                       <unitdate>1924-1978</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="ec878ef0-c184-4b7b-8e75-2a25c059e2e9" type="box">13</container>
+                       <container parent="ec878ef0-c184-4b7b-8e75-2a25c059e2e9" type="folder">15</container>
+                       <unittitle>Fotografías: Álbum de Fotografías,</unittitle>
+                       <unitdate>1927-1979</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="6342c1ba-8f74-4601-a423-9ef8e8eaffb1" type="box">13</container>
+                       <container parent="6342c1ba-8f74-4601-a423-9ef8e8eaffb1" type="folder">16</container>
+                       <unittitle>Fotografías: De la Torre, Alfonso,</unittitle>
+                       <unitdate>sin fecha</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="f5d0d28a-651a-45cb-beb7-28a3f64315dd" type="box">13</container>
+                       <container parent="f5d0d28a-651a-45cb-beb7-28a3f64315dd" type="folder">17</container>
+                       <unittitle>Fotografías: Familia De la Torre,</unittitle>
+                       <unitdate>sin fecha</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="ce2b4591-63b7-4168-a839-1a8b2137d52d" type="box">13</container>
+                       <container parent="ce2b4591-63b7-4168-a839-1a8b2137d52d" type="folder">18</container>
+                       <unittitle>Fotografías: De la Torre, Luis y Familia, </unittitle>
+                       <unitdate>sin fecha</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="6846a65d-e363-4ef2-8dd0-f3aa35c6e2f4" type="box">13</container>
+                       <container parent="6846a65d-e363-4ef2-8dd0-f3aa35c6e2f4" type="folder">19</container>
+                       <unittitle>Fotografías: Familia De la Torre Uribarren – CD,</unittitle>
+                       <unitdate>1921-1985</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="c04faa3b-8952-490a-ade2-7b6d04442273" type="box">13</container>
+                       <container parent="c04faa3b-8952-490a-ade2-7b6d04442273" type="folder">20</container>
+                       <unittitle>Fotografías: McGucken, Joseph T.,</unittitle>
+                       <unitdate>1953</unitdate>
+                    </did>
+                 </c02>
+                 <c02 level="file">
+                    <did>
+                       <container id="fe528810-67b0-45d8-89d9-9839cd9031ef" type="box">13</container>
+                       <container parent="fe528810-67b0-45d8-89d9-9839cd9031ef" type="folder">21</container>
+                       <unittitle>Fotografías: Ruiz de Chávez, Felipe,</unittitle>
+                       <unitdate>sin fecha</unitdate>
+                    </did>
+                 </c02>
+           </c01>
+	  </dsc>
+	  </archdesc>
+	  </ead>
