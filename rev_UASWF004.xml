@@ -1,0 +1,2109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" relatedencoding="MARC21" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+    <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+        <eadid>UASWF004</eadid> 
+        <filedesc> 
+            <titlestmt> 
+                <titleproper encodinganalog="title">Papers of George C. Baker
+                    <date calendar="gregorian" certainty="approximate" era="ce" normal="1903/1958" type="inclusive">1903-1958</date>
+                    <date normal="1943/1957" type="bulk">(bulk 1943-1957)</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing">Papers of George C. Baker, 1903-1958  
+                </titleproper>
+                <author>Processed by Lisa Janzer, Pat Kittelson, 1993; Ila Abernathy, Jenny Loengard, 1996; Scott B. Denlinger, 1997.</author> 
+            </titlestmt> 
+            <publicationstmt> 
+                <publisher>University of Arizona Libraries, Special Collections</publisher> 
+                <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+                <date calendar="gregorian" era="ce" normal="2017">2017</date> 
+                <p>Arizona Board of Regents. All Rights Reserved.</p> 
+            </publicationstmt> 
+        </filedesc> 
+        <profiledesc> 
+            <creation>Inventory encoded in Oxygen XML editor by Michelle Nicole Boyer-Kelly
+                <date encodinganalog="date" era="ce" normal="20170630">June 30, 2017</date> </creation>
+            <langusage>Finding aid encoded in<language langcode="eng"> English</language></langusage>
+            <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+        </profiledesc>
+    <revisiondesc><change><date normal="2017-07-06">2017-07-06</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+     <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+        <did> 
+            <head>Collection Summary</head> 
+            <unittitle encodinganalog="245" label="Collection Name"> Papers of George C. Baker
+                <unitdate label="Dates" normal="1903/1957" type="inclusive">1903-1958</unitdate>
+                <unitdate label="Dates" normal="1943/1957" type="bulk">(bulk 1943-1957)</unitdate> 
+            </unittitle>	 
+            <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">SWF 004</unitid>
+            <origination label="Creator"> 
+                <persname encodinganalog="100" source="lcnaf">George C. Barker</persname> </origination> 
+            <abstract label="Abstract">Correspondence, research materials, published and unpublished manuscripts and articles, slides, photographs, and one audio tape, primarily from 
+                1943 to 1957, of anthropologist George C. Barker. The collection documents Barker's anthropological research into folk drama and ritual, the social functions of language,
+                the Pachuco language of Hispanic youths, and Yaqui Indian culture and customs. A 1964 gift to the Southwest Folklore Archives from George C. Barker, Sr. Deaccessioned 
+                from the collection in 1993 were approximately 0.2 feet of duplicates and items of a personal nature. In 1996 two 11 x 14 black-and-white photographs by Alfred A. Cohn 
+                were transferred to the L. Marguerite Collier Collection, Southwest Folklore Center Manuscripts Collection SWF 005.</abstract> 
+            <physdesc encodinganalog="300$a" label="Physical Description:"><extent>8.25 linear feet.</extent></physdesc>	 
+            <repository label="Repository"> 
+                <corpname>University of Arizona Libraries, Special Collections</corpname> 
+                <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+            </repository>
+            <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English and </language>
+            <language encodinganalog="546" langcode="spa" scriptcode="Latn"> Spanish.</language></langmaterial>
+        </did> 
+        <accessrestrict> 
+            <head>Restrictions</head> 
+            <p>Restricted. Researchers are restricted to an edited user cassette copy of Barker’s recorded interview of Pachuco language speakers.</p> 
+        </accessrestrict> 
+        <userestrict> 
+            <head>Copyright</head> 
+            <p>It is the responsibility of the user to obtain permission to publish
+                from the owner of the copyright (the institution, the creator of the record,
+                the author or his/her transferees, heirs, legates, or literary executors). The
+                user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+                University of Arizona, its officers, employees, and agents from and against all
+                claims made by any person asserting that he or she is an owner of
+                copyright.
+            </p> 
+        </userestrict> 
+        <prefercite> 
+            <head>Credit Line</head> 
+            <p>Papers of George C. Baker, 1903-1958 (SWF 004). Special Collections, University of Arizona Libraries.</p>
+        </prefercite> 
+        <processinfo>
+            <head>Processing History</head>
+            <p>Processed by Lisa Janzer, Pat Kittelson, 1993; Ila Abernathy, Jenny Loengard, 1996; Scott B. Denlinger, 1997.</p>
+        </processinfo>
+        <bioghist encodinganalog="545"> 
+            <head>Biographical Note</head> 
+            <p>George C. Barker was born on November 15, 1912, in Omaha, Nebraska. He received his A.B. in history from the University of California, Los Angeles, in 1935 and an M.S. in 
+                journalism from Columbia University in 1936. After developing an interest in anthropology, he attended the University of Chicago and received an M.A. (1943) and a Ph.D. 
+                (1947) in that field. He was elected a Fellow of the American Anthropological Association in 1947.</p> 
+            <p>Despite recurring poor health and physical handicaps, Barker engaged in a number of research activities. His primary areas of interest were folk drama, folk religion, 
+                Native American cultures in the Southwest, the social functions of language, and the Pachuco language of Mexican-American youths. He published various works on these
+                topics.</p>
+            <p>Barker served as a Research Associate at the Institute of Human Relations, Yale University, in 1942, and at the University of Arizona in 1947-48. In 1950 he became a 
+                Research Associate in Anthropology at the University of California, Los Angeles, a position he held until his death in 1958. While in Los Angeles, he worked with the Los 
+                Angeles County Probation Department and the Neighborhood Youth Association of West Los Angeles on problems of Mexican-American youth.</p>
+            <p>For additional biographical information, see Harry T. Getty's biographical introduction in the 1958 reissue of: Barker, George C. Pachuco: An American-Spanish Argot and 
+                its Social Functions in Tucson, Arizona. University of Arizona Bulletin XXI:1. Social Science Bulletin, no. 18. (Tucson: University of Arizona Press, 1958) [reprinted 
+                1970].</p>
+        </bioghist> 
+        <arrangement encodinganalog="351$a"> 
+            <head>Arrangement</head> 
+            <p>This collection is organized into six series.</p>	 
+            <list>
+                <item>Series I: Research Materials,
+                    <unitdate>1903, 1929-1958</unitdate></item>
+                <item>Series II: Correspondence,
+                    <unitdate>1931, 1940-1958</unitdate></item>
+                <item>Series III: Published and Unpublished Articles, Papers and Reviews,
+                    <unitdate>1936-1958</unitdate></item>
+                <item>Series IV: Field and Research Notes,
+                    <unitdate>1940-1958</unitdate></item>
+                <item>Series V: Poems and Essays,
+                    <unitdate>1927-1956</unitdate></item>
+                <item>Series VI: Visual and Audio Materials,
+                    <unitdate>1940s-1950s</unitdate></item>
+            </list>
+        </arrangement> 
+        <scopecontent encodinganalog="520"> 
+            <head>Scope and Content Note</head> 
+            <p>The collection consists of George C. Barker’s research notes, correspondence and field notes from his research activities. The research notes consist primarily of articles,
+                offprints, newspaper clippings and secondary literature accumulated by Barker during the course of his study and research in bilingualism and folklore. Many items address
+                issues of bilingualism in the southwestern United States, and its social manifestations.</p> 
+            <p>Barker’s correspondence documents exchanges between him and his colleagues in anthropology and folklore, including Edward P. Dozier and Edward H. Spicer. Also included are
+                correspondence with Frances Gillmor, several letters to and from the Reverend Anthony Soto, one family letter, and personal correspondence with Mexican American families 
+                in Tucson. The collection includes some correspondence addressed to Barker’s father, George C. Barker, Sr.</p> 
+            <p>Barker’s works include his publications, and drafts of published and unpublished articles, papers, monographs, and reviews, field and research notes from his doctoral 
+                thesis and other projects, and transcripts of interviews. There is a handwritten manuscript of Coloquio de pastores del hijo pródigo, transcribed by ensayador Aristéo 
+                Flores, from Chapalá, Mexico. This was edited and translated by Barker and published in Folklore Studies: 2 by the University of California Press in 1953.</p> 
+            <p>Visual and audio materials include 379 original kodachrome slides and 151 copies, about 70 of which are of Yaqui village scenes and Holy Week processions in the Yaqui 
+                village at Hermosillo, Mexico. The other slides are of travel scenes in various countries, inconclusively referenced in notes for a presentation and an undated index, 
+                both stored with the slides. Photographs and negatives include photos of Yaqui Indian ceremonies, several postcards, and unidentified photos of Mexico, Spain, and various
+                ceremonies. The collection includes reel tapes of Pachuco dialogue, songs, and interviews. An edited reel has been made from the original paper tape reel. Personal names 
+                have been edited out of this duplicate reel.</p> 
+            <p>Preservation xerostatic copies of a substantial portion of the materials have been made. Boxes 1-5 of the collection contain working copies of the materials, a small 
+                number of uncopied originals, and slides and photographs. Original documents of which working copies have been made are stored in boxes 6-9. The working copies of the 
+                audio tapes are housed in the Southwest Folklore Center Manuscript Collection SWF 009, with the call numbers 85.2/C.1 and 85.2/R.1.</p> 
+            <p>Researchers must obtain permission from the coordinator of the University of Arizona Southwest Folklore Center or the University of Arizona manuscripts librarian to
+                use the original documents.</p> 
+        </scopecontent> 
+        <controlaccess>
+            <persname>Barker, George C. (George Carpenter), 1912-1958.</persname><persname>Dozier, Edward P..</persname><persname>Spicer, Edward Holland, 1906.</persname><subject>Folk drama, Spanish American.</subject><subject>Christmas plays.</subject><subject>Prodigal son (Parable) -- Drama.</subject><subject>Spanish language -- Dialects -- Arizona -- Tucson.</subject><subject>Spanish language -- Social aspects -- Arizona -- Tucson.</subject><subject>Spanish language -- Slang.</subject><subject>Bilingualism -- Arizona -- Tucson.</subject><subject>Mexican Americans -- Arizona -- Tucson -- Languages.</subject><subject>Gangs -- Arizona -- Tucson.</subject><subject>Tucson (Ariz.) --Social life and customs.</subject><subject>Yaqui Indians -- Mexico -- Hermosillo -- Rites and Ceremonies -- Photographs.</subject><subject>Audio tapes.</subject><subject>Correspondence.</subject><subject>Manuscripts for publication.</subject><subject>Photographs.</subject><subject>Slides (Photographs).</subject><geogname>Arizona--Tucson.</geogname><geogname>Tucson (Ariz.).</geogname></controlaccess>
+        <dsc type="combined"> 
+            <head>Container List</head> 
+            <c01 level="series"> 
+                <did> 
+                    <unitid>Series I</unitid>
+                    <unittitle>Research Materials,</unittitle> 
+                    <unitdate type="inclusive">1903, 1929-1958</unitdate>
+                </did>
+                <scopecontent><p>Books, pamphlets, articles and papers collected by Barker on a variety of sociological, anthropological and folk topics related to Barker's research. 
+                    There are also newspaper and magazine clippings, programs, minutes, and papers from various activities. Material is arranged by type of material, and thereunder
+                chronologically when possible. </p></scopecontent>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="5acc6637-25a2-4f58-8cc5-eb672650c910" type="box">1</container> 
+                        <container parent="5acc6637-25a2-4f58-8cc5-eb672650c910" type="folder">1-70</container> 
+                        <unittitle>Published works, pamphlets, articles, and brochures,</unittitle>
+                        <unitdate>1929-1957</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> 
+                        <container id="d8851605-98c7-4d1d-8a0f-c0c3c4127564" type="box">1</container> 
+                        <container parent="d8851605-98c7-4d1d-8a0f-c0c3c4127564" type="folder">71</container> 
+                        <unittitle>Notes and two papers from a conference, <title>"Work Conference on Research Problems of Bilingualism 1954"</title>; and a paper by Leonard Broom and Eshref Shevky, 
+                            <title>"Mexicans in the United States: A Problem in Social Differentiation"</title>,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="cf3a5d98-c174-4ab1-98de-7b62fe0b38ba" type="box">1</container> 
+                        <container parent="cf3a5d98-c174-4ab1-98de-7b62fe0b38ba" type="folder">72-76</container> 
+                        <unittitle>Announcements, fliers, programs, street maps, meeting minutes, and miscellaneous materials,</unittitle>
+                        <unitdate>1936-1957</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="3488f1bb-8e8d-4cc2-b072-22be72130eca" type="box">1</container> 
+                        <container parent="3488f1bb-8e8d-4cc2-b072-22be72130eca" type="folder">77</container> 
+                        <unittitle>Newspaper and magazine clippings,</unittitle>
+                        <unitdate>1903, 1936-1958</unitdate>
+                    </did> 
+                </c02>
+            </c01> 
+            <c01 level="series"> 
+                <did> 
+                    <unitid>Series II</unitid>
+                    <unittitle>Correspondence,</unittitle> 
+                    <unitdate type="inclusive">1931, 1940-1958</unitdate>
+                </did>
+                <scopecontent><p>Correspondence between Barker and his colleagues in anthropology and folklore, and with persons regarding sources of information for research. Also 
+                    included are a family letter and personal letters from Mexican American contacts in Tucson, Arizona and California. Items are arranged chronologically.</p></scopecontent>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="062368ed-8cff-4eeb-8fa5-676ebb57a365" type="box">2</container> 
+                        <container parent="062368ed-8cff-4eeb-8fa5-676ebb57a365" type="folder">1</container>
+                        <container parent="062368ed-8cff-4eeb-8fa5-676ebb57a365" type="item">1</container>
+                        <unittitle>Letter from Barker to his grandmother,</unittitle>
+                        <unitdate>December 21, 1931</unitdate>
+                        <abstract>Describes a camping trip taken with his father in the previous week.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="e409c745-2f03-46c0-b71b-6e3b7c6c2fd8" type="box">2</container> 
+                        <container parent="e409c745-2f03-46c0-b71b-6e3b7c6c2fd8" type="folder">1</container>
+                        <container parent="e409c745-2f03-46c0-b71b-6e3b7c6c2fd8" type="item">2</container>
+                        <unittitle>Letter from Thomas Sebeok to Barker,</unittitle>
+                        <unitdate>February 25, 1943</unitdate>
+                        <abstract>Answers questions Barker posed to him concerning Sebeok’s bilingualism.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="2486c47c-7c45-43d9-8af6-25b1d52412d8" type="box">2</container> 
+                        <container parent="2486c47c-7c45-43d9-8af6-25b1d52412d8" type="folder">1</container>
+                        <container parent="2486c47c-7c45-43d9-8af6-25b1d52412d8" type="item">3</container>
+                        <unittitle>Letter from Ralph Beals, Univ. of California, to Barker,</unittitle>
+                        <unitdate>December 7, 1943</unitdate>
+                        <abstract>Responds to Barker’s query regarding areas in which would be appropriate for him to do his dissertation field work on bilingualism.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="cd8ff664-edff-4370-b017-85a3b3fb9e80" type="box">2</container> 
+                        <container parent="cd8ff664-edff-4370-b017-85a3b3fb9e80" type="folder">1</container>
+                        <container parent="cd8ff664-edff-4370-b017-85a3b3fb9e80" type="item">4</container>
+                        <unittitle>Letter from Harry T. Getty, Univ. of Arizona, to Barker,</unittitle>
+                        <unitdate>Dec. 27, 1943</unitdate>
+                        <abstract>Discusses possible communities in which Barker could do his dissertation work. Discusses Tucson’s suitability.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="2433944d-360b-4b36-a1c2-054dbf3033d5" type="box">2</container> 
+                        <container parent="2433944d-360b-4b36-a1c2-054dbf3033d5" type="folder">1</container>
+                        <container parent="2433944d-360b-4b36-a1c2-054dbf3033d5" type="item">5</container>
+                        <unittitle>Letter from Abe Halpern, Univ. of Chicago, to Barker,</unittitle>
+                        <unitdate>June 2, 1944</unitdate>
+                        <abstract>Transmits materials on language use habits in Guatemala.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="14b76c06-292a-4d37-b656-f59113710e51" type="box">2</container> 
+                        <container parent="14b76c06-292a-4d37-b656-f59113710e51" type="folder">1</container>
+                        <container parent="14b76c06-292a-4d37-b656-f59113710e51" type="item">6</container>
+                        <unittitle>Letter from Frank E. Moore to Barker,</unittitle>
+                        <unitdate>June 8, 1944</unitdate>
+                        <abstract>Discusses Redlands, California as a possible location for Barker’s dissertation research.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="3dc37929-f8eb-41ba-b4af-2d539f4b05ff" type="box">2</container> 
+                        <container parent="3dc37929-f8eb-41ba-b4af-2d539f4b05ff" type="folder">1</container>
+                        <container parent="3dc37929-f8eb-41ba-b4af-2d539f4b05ff" type="item">7</container>
+                        <unittitle>Letter from Harry T. Getty, Univ. of Arizona, to Barker,</unittitle>
+                        <unitdate>June 13, 1944</unitdate>
+                        <abstract>Discusses language use in the Tucson, Arizona Mexican and Mexican American community.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="f3c22c56-a612-4f1b-be1a-ea4b8504be65" type="box">2</container> 
+                        <container parent="f3c22c56-a612-4f1b-be1a-ea4b8504be65" type="folder">1</container>
+                        <container parent="f3c22c56-a612-4f1b-be1a-ea4b8504be65" type="item">8</container>
+                        <unittitle>Letter from Joe Chalita Hernandez to Barker,</unittitle>
+                        <unitdate>undated</unitdate>
+                        <abstract>Conveys personal news (partly in Spanish).</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="ebfaf8ff-6d46-4f96-8bed-ea8e88a33cbd" type="box">2</container> 
+                        <container parent="ebfaf8ff-6d46-4f96-8bed-ea8e88a33cbd" type="folder">1</container>
+                        <container parent="ebfaf8ff-6d46-4f96-8bed-ea8e88a33cbd" type="item">9</container>
+                        <unittitle>Letter from Mrs. Joe Hernandez to Barker,</unittitle>
+                        <unitdate>March 22, 1946</unitdate>
+                        <abstract>Personal news of the family and envelope.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="b5674dc0-fd1b-4efd-be5f-e13e37a44132" type="box">2</container> 
+                        <container parent="b5674dc0-fd1b-4efd-be5f-e13e37a44132" type="folder">1</container>
+                        <container parent="b5674dc0-fd1b-4efd-be5f-e13e37a44132" type="item">10</container>
+                        <unittitle>Letter from Barker to Manuel Cajero,</unittitle>
+                        <unitdate>April 12, 1946</unitdate>
+                        <abstract>Asks that Cajero fill out and return a language use survey.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="d1a1f5c1-0da0-4ee3-945a-2b514d38b4db" type="box">2</container> 
+                        <container parent="d1a1f5c1-0da0-4ee3-945a-2b514d38b4db" type="folder">1</container>
+                        <container parent="d1a1f5c1-0da0-4ee3-945a-2b514d38b4db" type="item">11</container>
+                        <unittitle>Letter from Barker to Ricardo Manzo,</unittitle>
+                        <unitdate>April 24, 1946</unitdate>
+                        <abstract>Describes the preliminary findings of his language use research.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="59488bf8-9360-4900-b8b8-c0cec4948e68" type="box">2</container> 
+                        <container parent="59488bf8-9360-4900-b8b8-c0cec4948e68" type="folder">1</container>
+                        <container parent="59488bf8-9360-4900-b8b8-c0cec4948e68" type="item">12</container>
+                        <unittitle>Letter from Barker to Rebecca Mariscal, Alianza Hispano-Americana,</unittitle>
+                        <unitdate>April 24, 1946</unitdate>
+                        <abstract>Asks that Mariscal complete a questionnaire on language use in her family. Attached is a preliminary summary of his research 
+                            [for Tucson area speakers?].</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="072c1d1b-bad3-4dc4-8398-04d30abf80e5" type="box">2</container> 
+                        <container parent="072c1d1b-bad3-4dc4-8398-04d30abf80e5" type="folder">1</container>
+                        <container parent="072c1d1b-bad3-4dc4-8398-04d30abf80e5" type="item">13</container>
+                        <unittitle>Letter from Maria Huerta to Barker,</unittitle>
+                        <unitdate>21 de Mayo de 1946</unitdate>
+                        <abstract>Conveys family news.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="19e78105-1f06-42b7-a8ce-0ee309262a30" type="box">2</container> 
+                        <container parent="19e78105-1f06-42b7-a8ce-0ee309262a30" type="folder">1</container>
+                        <container parent="19e78105-1f06-42b7-a8ce-0ee309262a30" type="item">14</container>
+                        <unittitle>Letter from Maria [Huerta] to Barker,</unittitle>
+                        <unitdate>Sept. 3, 1946</unitdate>
+                        <abstract>Family news.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="102ee344-f97a-4890-a912-3af3f6d67c61" type="box">2</container> 
+                        <container parent="102ee344-f97a-4890-a912-3af3f6d67c61" type="folder">1</container>
+                        <container parent="102ee344-f97a-4890-a912-3af3f6d67c61" type="item">15</container>
+                        <unittitle>Letter from Maria Huerta to Barker,</unittitle>
+                        <unitdate>2 de Octobre de 1946</unitdate>
+                        <abstract>Family news.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="dafa4920-7ff8-4efc-8ffa-0e3e2f223938" type="box">2</container> 
+                        <container parent="dafa4920-7ff8-4efc-8ffa-0e3e2f223938" type="folder">1</container>
+                        <container parent="dafa4920-7ff8-4efc-8ffa-0e3e2f223938" type="item">16</container>
+                        <unittitle>Letter from L.E. Romero and Gila to Barker,</unittitle>
+                        <unitdate>Dec. 18, 1946</unitdate>
+                        <abstract>Personal greeting accompanying a Christmas card.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="bf90ea1e-491d-49c5-b6dd-7986901d1d99" type="box">2</container> 
+                        <container parent="bf90ea1e-491d-49c5-b6dd-7986901d1d99" type="folder">1</container>
+                        <container parent="bf90ea1e-491d-49c5-b6dd-7986901d1d99" type="item">17</container>
+                        <unittitle>Letter from Mr. and Mrs. J. Hernandez to Mr. and Mrs. George Barker [Sr.],</unittitle>
+                        <unitdate>Dec. 18, 1947</unitdate>
+                        <abstract>Conveys greetings and personal news.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="9e201bbf-2bea-441b-aa2f-d3a69565251f" type="box">2</container> 
+                        <container parent="9e201bbf-2bea-441b-aa2f-d3a69565251f" type="folder">1</container>
+                        <container parent="9e201bbf-2bea-441b-aa2f-d3a69565251f" type="item">18</container>
+                        <unittitle>Letter from Barker to Leland Sonnichsen,</unittitle>
+                        <unitdate>May 28, 1948</unitdate>
+                        <abstract>Barker shows Interest in El Paso Pachuco and requests verification of his own information of the origin of the argot.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="c52a10e3-ac29-42b7-86c9-b2b5df44386c" type="box">2</container> 
+                        <container parent="c52a10e3-ac29-42b7-86c9-b2b5df44386c" type="folder">1</container>
+                        <container parent="c52a10e3-ac29-42b7-86c9-b2b5df44386c" type="item">19</container>
+                        <unittitle>Letter from Leland Sonnichsen to Barker,</unittitle>
+                        <unitdate>June 7, 1948</unitdate>
+                        <abstract>Has turned over Barker's letter to Gabriel Cordova, a graduate student and former court interpreter who compiled a list of several thousand words of the
+                            argot.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="fd2e6e04-0144-432b-8909-088f0f05191b" type="box">2</container> 
+                        <container parent="fd2e6e04-0144-432b-8909-088f0f05191b" type="folder">1</container>
+                        <container parent="fd2e6e04-0144-432b-8909-088f0f05191b" type="item">20</container>
+                        <unittitle>Letter from Barker to Leland Sonnichsen,</unittitle>
+                        <unitdate>June 10, 1948</unitdate>
+                        <abstract>Conveys his thanks for the information.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="6723e119-13a9-434f-b92d-597fef7ce980" type="box">2</container> 
+                        <container parent="6723e119-13a9-434f-b92d-597fef7ce980" type="folder">1</container>
+                        <container parent="6723e119-13a9-434f-b92d-597fef7ce980" type="item">21</container>
+                        <unittitle>Letter from Barker to Gabriel Cordova,</unittitle>
+                        <unitdate>June 15, 1948</unitdate>
+                        <abstract>Contains acknowledgment of the information given on origin of Pachuco. Gives Barker's professional background and explains his interest in Tucson 
+                            Pachuco.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="9bd4b4a3-7a9b-4669-80cf-6d92aadbc7d3" type="box">2</container> 
+                        <container parent="9bd4b4a3-7a9b-4669-80cf-6d92aadbc7d3" type="folder">1</container>
+                        <container parent="9bd4b4a3-7a9b-4669-80cf-6d92aadbc7d3" type="item">22</container>
+                        <unittitle>Letter from Ned [i.e. Edward Spicer] to Barker,</unittitle>
+                        <unitdate>July 27, 1948</unitdate>
+                        <abstract>Mentions his slow progress on “People of Pascua” and discusses issues and approaches to the "off-reservation research program" on Arizona Indians that 
+                            he intends to do in conjunction with Barker.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="c15863ca-9f06-43c3-bf04-3f478314eab3" type="box">2</container> 
+                        <container parent="c15863ca-9f06-43c3-bf04-3f478314eab3" type="folder">1</container>
+                        <container parent="c15863ca-9f06-43c3-bf04-3f478314eab3" type="item">23</container>
+                        <unittitle>Letter from Barker to Mr. Donald Biery,</unittitle>
+                        <unitdate>July 29, 1948</unitdate>
+                        <abstract>Asks the Superintendent of the Sherman Institute the questions that Spicer raised in his letter (cf. above letter).</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="29c5f268-8b02-4332-bb87-0d346baacf32" type="box">2</container> 
+                        <container parent="29c5f268-8b02-4332-bb87-0d346baacf32" type="folder">1</container>
+                        <container parent="29c5f268-8b02-4332-bb87-0d346baacf32" type="item">24</container>
+                        <unittitle>Letter from Barker to Ned [i.e. Edward Spicer],</unittitle>
+                        <unitdate>August 3, 1948</unitdate>
+                        <abstract>Reply to Spicer’s letter of July 27, 1948 (item 22, above).</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="2b77d8be-f235-488c-bdb6-2e340d31dda4" type="box">2</container> 
+                        <container parent="2b77d8be-f235-488c-bdb6-2e340d31dda4" type="folder">1</container>
+                        <container parent="2b77d8be-f235-488c-bdb6-2e340d31dda4" type="item">25</container>
+                        <unittitle>Letter from Barker to Ned [i.e. Edward Spicer],</unittitle>
+                        <unitdate>August 14, 1948</unitdate>
+                        <abstract>Reports on a visit to Sherman Institute where he did some preliminary data collecting for a study of off-reservation Arizona Indians. 
+                            (cf. folder 1, item 23).</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="b8158e12-2c03-4ed2-8575-9b88e94fef2a" type="box">2</container> 
+                        <container parent="b8158e12-2c03-4ed2-8575-9b88e94fef2a" type="folder">1</container>
+                        <container parent="b8158e12-2c03-4ed2-8575-9b88e94fef2a" type="item">26</container>
+                        <unittitle>Letter from Maria to Olive [Barker],</unittitle>
+                        <unitdate>December 13, 1948</unitdate>
+                        <abstract>Contains a description of the feast of the Virgin of Guadalupe at Morelia.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="41aa3984-4e76-44a2-8cd7-70afbc56c617" type="box">2</container> 
+                        <container parent="41aa3984-4e76-44a2-8cd7-70afbc56c617" type="folder">1</container>
+                        <container parent="41aa3984-4e76-44a2-8cd7-70afbc56c617" type="item">27</container>
+                        <unittitle>Letter from Aristéo Flores to Barker,</unittitle>
+                        <unitdate>26 de Disiembre [sic] de 1948</unitdate>
+                        <abstract>Thanks Barker for making him aware of another copy of El hijo pródigo.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="636992e1-9219-4dc5-8419-d0f587e26107" type="box">2</container> 
+                        <container parent="636992e1-9219-4dc5-8419-d0f587e26107" type="folder">1</container>
+                        <container parent="636992e1-9219-4dc5-8419-d0f587e26107" type="item">28</container>
+                        <unittitle>Letter from Ned [i.e. Edward Spicer] to Barker,</unittitle>
+                        <unitdate>September 20, 1948</unitdate>
+                        <abstract>Reply to Barker’s letter of August 14, 1948 (item 25, above). Also contains a report on his two new books People of Pascua and Potam, a Yaqui Village 
+                            in Sonora.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="6a21e340-cbe6-4240-b753-51939c1c786e" type="box">2</container> 
+                        <container parent="6a21e340-cbe6-4240-b753-51939c1c786e" type="folder">2</container>
+                        <container parent="6a21e340-cbe6-4240-b753-51939c1c786e" type="item">1</container>
+                        <unittitle>Letter from Barker to Frances Gillmor,</unittitle>
+                        <unitdate>May 20, 1950</unitdate>
+                        <abstract>Describes how he acquired the religious folk drama El hijo pródigo in 1948 and points out the unusual nature of the text which "combines the story of 
+                            the prodigal son with that of the pilgrimage of the shepherds to Bethlehem."</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="901378c1-fd7d-4eb3-987d-7f96c7bb0901" type="box">2</container> 
+                        <container parent="901378c1-fd7d-4eb3-987d-7f96c7bb0901" type="folder">2</container>
+                        <container parent="901378c1-fd7d-4eb3-987d-7f96c7bb0901" type="item">2</container>
+                        <unittitle>Letter from Barker to Frances Gillmor,</unittitle>
+                        <unitdate>June 10, 1950</unitdate>
+                        <abstract>Thanks Gillmor for bibliographical advice and mentions her research on "dance dramas with a ‘fighting pattern.’”</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="bbce037c-a94f-4ba0-a1d4-f144b590aad7" type="box">2</container> 
+                        <container parent="bbce037c-a94f-4ba0-a1d4-f144b590aad7" type="folder">2</container>
+                        <container parent="bbce037c-a94f-4ba0-a1d4-f144b590aad7" type="item">3</container>
+                        <unittitle>Letter from Arthur L. Campa to Barker,</unittitle>
+                        <unitdate>June 20, 1950</unitdate>
+                        <abstract>Gives his opinion on the Los pastores play collected by Barker and calls Barker's attention to the two cycles of plays he published in the University of
+                            New Mexico Bulletin.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="b3873ca7-6c32-4546-bcf3-debbe7404486" type="box">2</container> 
+                        <container parent="b3873ca7-6c32-4546-bcf3-debbe7404486" type="folder">2</container>
+                        <container parent="b3873ca7-6c32-4546-bcf3-debbe7404486" type="item">4</container>
+                        <unittitle>Letter from Frances Gillmor to Barker,</unittitle>
+                        <unitdate>June 30, 1950</unitdate>
+                        <abstract>Gives bibliographical information for the Los pastores play and discusses publication possibilities. Also mentions Barker's Pachuco bulletin.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="fd6f6b67-2353-48d1-b579-34dcfd6a5197" type="box">2</container> 
+                        <container parent="fd6f6b67-2353-48d1-b579-34dcfd6a5197" type="folder">2</container>
+                        <container parent="fd6f6b67-2353-48d1-b579-34dcfd6a5197" type="item">5</container>
+                        <unittitle>Letter from Frances Gillmor to Barker,</unittitle>
+                        <unitdate>July 15, 1950</unitdate>
+                        <abstract>Mentions the Pachuco bulletin and publication possibilities for Barker's folk play. Also describes progress on folk plays with "fighting patterns."</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="712159b8-bc7c-4726-b68a-2a91ca79e9bf" type="box">2</container> 
+                        <container parent="712159b8-bc7c-4726-b68a-2a91ca79e9bf" type="folder">2</container>
+                        <container parent="712159b8-bc7c-4726-b68a-2a91ca79e9bf" type="item">6</container>
+                        <unittitle>Letter from Barker to Dick [family name not given],</unittitle>
+                        <unitdate>November 28, 1950</unitdate>
+                        <abstract>Excerpt of a conversation that Barker had with an informant in West Los Angeles (in Spanish).</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="70e0acd0-839f-4b6b-baac-765cfd3b2a6c" type="box">2</container> 
+                        <container parent="70e0acd0-839f-4b6b-baac-765cfd3b2a6c" type="folder">2</container>
+                        <container parent="70e0acd0-839f-4b6b-baac-765cfd3b2a6c" type="item">7</container>
+                        <unittitle>Letter from Barker to Charles F. Harding III,</unittitle>
+                        <unitdate>July 13, 1951</unitdate>
+                        <abstract>Outlines his intended research on "language usage and acculturation among Mexican Americans in Southern California.”</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="bc1bdd51-b685-48f4-8e74-62a530e1908f" type="box">2</container> 
+                        <container parent="bc1bdd51-b685-48f4-8e74-62a530e1908f" type="folder">2</container>
+                        <container parent="bc1bdd51-b685-48f4-8e74-62a530e1908f" type="item">8</container>
+                        <unittitle>Letter from Barker to Mr. Robert E.G. Harris,</unittitle>
+                        <unitdate>September 27, 1951</unitdate>
+                        <abstract>Requests information on "wetbacks" for the "occupational survey of persons of Mexican descent in southern California."</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="c9671e1e-1f8b-433c-9f47-65d013adac63" type="box">2</container> 
+                        <container parent="c9671e1e-1f8b-433c-9f47-65d013adac63" type="folder">2</container>
+                        <container parent="c9671e1e-1f8b-433c-9f47-65d013adac63" type="item">9</container>
+                        <unittitle>Letter from Ed [i.e. Edward Dozier?] to Barker,</unittitle>
+                        <unitdate>December 28, 1951</unitdate>
+                        <abstract>Largest part of the letter concerns the annual performance of a morality play witnessed at Christmas time in San Antonio, Texas. Attached are “Notes on 
+                            the presentation of Los pastores.”</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="66b6543f-8c89-41ee-9b49-59cca3445658" type="box">2</container> 
+                        <container parent="66b6543f-8c89-41ee-9b49-59cca3445658" type="folder">2</container>
+                        <container parent="66b6543f-8c89-41ee-9b49-59cca3445658" type="item">10</container>
+                        <unittitle>Letter from Aristéo Flores to George and Olive Barker,</unittitle>
+                        <unitdate>5 de Enero de 1952</unitdate>
+                        <abstract>Conveys personal news and asks the Barkers if they can offer him employment.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="98d91d4b-f327-4fb2-af0e-271a481f3878" type="box">2</container> 
+                        <container parent="98d91d4b-f327-4fb2-af0e-271a481f3878" type="folder">2</container>
+                        <container parent="98d91d4b-f327-4fb2-af0e-271a481f3878" type="item">11</container>
+                        <unittitle>Letter from Barker to Aristéo Flores,</unittitle>
+                        <unitdate>11 Enero, 1952</unitdate>
+                        <abstract>Responds to the above letter. Offers an address where Flores can inquire about work opportunities.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="45a66101-5046-4101-aa37-08e1b3e029a0" type="box">2</container> 
+                        <container parent="45a66101-5046-4101-aa37-08e1b3e029a0" type="folder">2</container>
+                        <container parent="45a66101-5046-4101-aa37-08e1b3e029a0" type="item">12</container>
+                        <unittitle>Letter from Aristéo Flores to Barker,</unittitle>
+                        <unitdate>16 Enero, 1952</unitdate>
+                        <abstract>Discusses the possibility of filming a version of El hijo pródigo. Asks if the Barkers have any contacts in the film industry. Asks if the Barkers can 
+                            assist him in obtaining U.S. citizenship.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="7f6ef715-186e-4759-b212-6d9afc3418ca" type="box">2</container> 
+                        <container parent="7f6ef715-186e-4759-b212-6d9afc3418ca" type="folder">2</container>
+                        <container parent="7f6ef715-186e-4759-b212-6d9afc3418ca" type="item">13</container>
+                        <unittitle>Letter from Barker to Aristéo Flores,</unittitle>
+                        <unitdate>27 Enero, 1952</unitdate>
+                        <abstract>Responds to the above letter. Explains that he cannot offer help in obtaining U.S. citizenship.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="745bd69a-a1d6-47f4-b26c-20cc209b866e" type="box">2</container> 
+                        <container parent="745bd69a-a1d6-47f4-b26c-20cc209b866e" type="folder">2</container>
+                        <container parent="745bd69a-a1d6-47f4-b26c-20cc209b866e" type="item">14</container>
+                        <unittitle>Letter from Lyle Saunders to Barker,</unittitle>
+                        <unitdate>April 22, 1952</unitdate>
+                        <abstract>Thanks Barker for a reprint of "Growing up in a Bilingual Community." He thinks that a recognition of language and cultural differences will help 
+                            provide adequate medical care to the Spanish-speaking people of Denver.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="498dd66e-8af0-4483-8c67-72cfb095a5b8" type="box">2</container> 
+                        <container parent="498dd66e-8af0-4483-8c67-72cfb095a5b8" type="folder">2</container>
+                        <container parent="498dd66e-8af0-4483-8c67-72cfb095a5b8" type="item">15</container>
+                        <unittitle>Letter from Barker to Mr. Afton D. Nance,</unittitle>
+                        <unitdate>December 2, 1952</unitdate>
+                        <abstract>Inquires whether the State Department of Education, California, would be interested in an outline for a home study course in citizenship for Mexican 
+                            immigrants.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="d5b0c199-68fb-4767-8184-2894b27fded6" type="box">2</container> 
+                        <container parent="d5b0c199-68fb-4767-8184-2894b27fded6" type="folder">2</container>
+                        <container parent="d5b0c199-68fb-4767-8184-2894b27fded6" type="item">16</container>
+                        <unittitle>Letter from Barker to George Mann,</unittitle>
+                        <unitdate>December 31, 1952</unitdate>
+                        <abstract>Referred to Mann by Afton Nance. Barker inquires again what programs there for adult Mexican immigrants In English and citizenship. Suggests the 
+                            possibility of a home study course.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="20ec47a8-7c05-44e9-9b88-8e988fdf5be5" type="box">2</container> 
+                        <container parent="20ec47a8-7c05-44e9-9b88-8e988fdf5be5" type="folder">3</container>
+                        <container parent="20ec47a8-7c05-44e9-9b88-8e988fdf5be5" type="item">1</container>
+                        <unittitle>Letter from George Mann to Barker,</unittitle>
+                        <unitdate>January 6, 1953</unitdate>
+                        <abstract>Expresses interest in the home study course in English and citizenship for adult Mexican immigrants that Barker suggested.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="77b42a64-02a3-4098-899f-35e4b828173c" type="box">2</container> 
+                        <container parent="77b42a64-02a3-4098-899f-35e4b828173c" type="folder">3</container>
+                        <container parent="77b42a64-02a3-4098-899f-35e4b828173c" type="item">2</container>
+                        <unittitle>Letter from Barker to George Mann,</unittitle>
+                        <unitdate>January 15, 1953</unitdate>
+                        <abstract>Short note that he Is assembling material for the home study course.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="7644a71f-31f5-4447-b15f-d0a6b84618b3" type="box">2</container> 
+                        <container parent="7644a71f-31f5-4447-b15f-d0a6b84618b3" type="folder">3</container>
+                        <container parent="7644a71f-31f5-4447-b15f-d0a6b84618b3" type="item">3</container>
+                        <unittitle>Letter from David L. Olmstead to Barker,</unittitle>
+                        <unitdate>March 25, 1953</unitdate>
+                        <abstract>Responds to a Barker letter [?] dealing with acculturation and language.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="ccefdecc-9662-4c18-9e3c-341c1543e785" type="box">2</container> 
+                        <container parent="ccefdecc-9662-4c18-9e3c-341c1543e785" type="folder">3</container>
+                        <container parent="ccefdecc-9662-4c18-9e3c-341c1543e785" type="item">4</container>
+                        <unittitle>Letter from Robert Redfield to Barker,</unittitle>
+                        <unitdate>April 13, 1953</unitdate>
+                        <abstract>Cautions Barker to study bilingualism without applying it to social mobility, delinquency, and jobs based on the data he is going to elicit.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="7f6de9ac-d8ff-40d3-8c82-25b59e0c2395" type="box">2</container> 
+                        <container parent="7f6de9ac-d8ff-40d3-8c82-25b59e0c2395" type="folder">3</container>
+                        <container parent="7f6de9ac-d8ff-40d3-8c82-25b59e0c2395" type="item">5</container>
+                        <unittitle>Letter from Waldemar A. Nielsen to Barker,</unittitle>
+                        <unitdate>April 20, 1953</unitdate>
+                        <abstract>Rejection of Barker’s proposal to the Ford Foundation for a bilingual study.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="5a7cae17-2fc0-497a-bef1-2dbede755384" type="box">2</container> 
+                        <container parent="5a7cae17-2fc0-497a-bef1-2dbede755384" type="folder">3</container>
+                        <container parent="5a7cae17-2fc0-497a-bef1-2dbede755384" type="item">6</container>
+                        <unittitle>Letter from Barker to Ed [Dozier],</unittitle>
+                        <unitdate>April 22, 1953</unitdate>
+                        <abstract>Contains comments on the manuscript about the Tewa on First Mesa of the Hopi Reservation.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="abc0d304-606e-4d38-9439-0b6f2a4f8074" type="box">2</container> 
+                        <container parent="abc0d304-606e-4d38-9439-0b6f2a4f8074" type="folder">3</container>
+                        <container parent="abc0d304-606e-4d38-9439-0b6f2a4f8074" type="item">7</container>
+                        <unittitle>Letter from Barker to David Olmstead,</unittitle>
+                        <unitdate>April 23, 1953</unitdate>
+                        <abstract>Response to Olmstead’s letter of March 25, 1953. Deals with their different opinions on language and acculturation; Barker holds that bilingualism is 
+                            possible without acculturation while Olmstead has taken the opposite view.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="5fe68e7c-a706-4ab3-a938-c908b5bd1711" type="box">2</container> 
+                        <container parent="5fe68e7c-a706-4ab3-a938-c908b5bd1711" type="folder">3</container>
+                        <container parent="5fe68e7c-a706-4ab3-a938-c908b5bd1711" type="item">8</container>
+                        <unittitle>Letter from Barker to R.R. [i.e. Robert Redfield],</unittitle>
+                        <unitdate>April 29, 1953</unitdate>
+                        <abstract>Reply to Redfield’s letter of April 13, 1953 (folder 3, item 4). It is a thank you note and indicates that Barker intends to revise his proposal for 
+                            the study of bilingualism rejected by the Ford Foundation.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="ece99d0f-d846-4010-b171-101afa0fca06" type="box">2</container> 
+                        <container parent="ece99d0f-d846-4010-b171-101afa0fca06" type="folder">3</container>
+                        <container parent="ece99d0f-d846-4010-b171-101afa0fca06" type="item">9</container>
+                        <unittitle>Letter from Stanley H. Robe to Barker,</unittitle>
+                        <unitdate>May 27, 1953</unitdate>
+                        <abstract>Gives a short summary of Juan Rael’s talk on pastores plays at the meeting of the California folklore society. Attached is a sheet that shows the 
+                            distribution of pastores plays and different types.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="2d75b975-3c08-4956-b072-aa84fbaabadc" type="box">2</container> 
+                        <container parent="2d75b975-3c08-4956-b072-aa84fbaabadc" type="folder">3</container>
+                        <container parent="2d75b975-3c08-4956-b072-aa84fbaabadc" type="item">10</container>
+                        <unittitle>Letter from Matt [i.e. T.M. Pearce] to Barker,</unittitle>
+                        <unitdate>June 21, 1953</unitdate>
+                        <abstract>Thanks Barker for sending him Rael’s map on Los pastores plays (cf. above letter) and discusses the conclusions Rael presented at the meeting.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="ef91e139-3e89-4adc-bc70-2c1ee7866950" type="box">2</container> 
+                        <container parent="ef91e139-3e89-4adc-bc70-2c1ee7866950" type="folder">3</container>
+                        <container parent="ef91e139-3e89-4adc-bc70-2c1ee7866950" type="item">11</container>
+                        <unittitle>Letter from Kurt H. Wolf, Institut für Sozialforschung an der Johann-Wolfgang-Goethe-Universität, Frankfurt a. Main, Germany, to Barker,</unittitle>
+                        <unitdate>July 15, 1953</unitdate>
+                        <abstract>Discusses his experiences of bilingualism in Germany, especially between High German and German dialect.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="28d7a2ad-df14-4d45-b7f8-c1b9dc3f3937" type="box">2</container> 
+                        <container parent="28d7a2ad-df14-4d45-b7f8-c1b9dc3f3937" type="folder">3</container>
+                        <container parent="28d7a2ad-df14-4d45-b7f8-c1b9dc3f3937" type="item">12</container>
+                        <unittitle>Letter from Dave [i.e. David Weingarden] to Barker,</unittitle>
+                        <unitdate>July 16, 1953</unitdate>
+                        <abstract>List of the angel’s names for the study Barker is doing for the Neighborhood Settlement Association.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="e3d2843f-f950-478b-9533-004abeb6d066" type="box">2</container> 
+                        <container parent="e3d2843f-f950-478b-9533-004abeb6d066" type="folder">3</container>
+                        <container parent="e3d2843f-f950-478b-9533-004abeb6d066" type="item">13</container>
+                        <unittitle>Postcard from Porfirio Gonzalez to Barker [George C. Barker, Sr.?],</unittitle>
+                        <unitdate>July 27, 1953</unitdate>
+                        <abstract>Discusses payment received for work performed for Barker.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="713e74e9-b451-4784-924b-d6fef0fa90b4" type="box">2</container> 
+                        <container parent="713e74e9-b451-4784-924b-d6fef0fa90b4" type="folder">3</container>
+                        <container parent="713e74e9-b451-4784-924b-d6fef0fa90b4" type="item">14</container>
+                        <unittitle>Letter from Einar Haugen, University of Wisconsin, to Barker,</unittitle>
+                        <unitdate>July 28, 1953</unitdate>
+                        <abstract>Inquires about the nature of Barker’s bibliography on bilingualism, and plans for its publication, if any.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="96592d5a-3edd-4dae-ac84-041356d18f3f" type="box">2</container> 
+                        <container parent="96592d5a-3edd-4dae-ac84-041356d18f3f" type="folder">3</container>
+                        <container parent="96592d5a-3edd-4dae-ac84-041356d18f3f" type="item">15</container>
+                        <unittitle>Letter from Barker to Kurt [i.e., Kurt H. Wolf],</unittitle>
+                        <unitdate>July 29, 1953</unitdate>
+                        <abstract>Responds to Wolf’s letter of July 15, 1953 (folder 3, item 11). Discusses varieties of English in the U.S.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="c8dfbfd2-e7fe-43b4-963f-c6c6984a9cea" type="box">2</container> 
+                        <container parent="c8dfbfd2-e7fe-43b4-963f-c6c6984a9cea" type="folder">3</container>
+                        <container parent="c8dfbfd2-e7fe-43b4-963f-c6c6984a9cea" type="item">16</container>
+                        <unittitle>Letter from Barker to Joseph B. Casagrande, Stanford,</unittitle>
+                        <unitdate>July 31, 1953</unitdate>
+                        <abstract>Reports on his exchange of letters with Wolf and suggests an inter-university seminar on bilingualism.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="6cb4909f-bd4f-4cf4-ac66-5f419d0f6e28" type="box">2</container> 
+                        <container parent="6cb4909f-bd4f-4cf4-ac66-5f419d0f6e28" type="folder">3</container>
+                        <container parent="6cb4909f-bd4f-4cf4-ac66-5f419d0f6e28" type="item">17</container>
+                        <unittitle>Letter from Barker to Prof. Einar Haugen, University of Wisconsin,</unittitle>
+                        <unitdate>August 10, 1953</unitdate>
+                        <abstract>Describes the nature of his bibliography on bilingualism, and points out that it will address the “social functions of bilingualism.”</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="5a7efd5e-c07d-45e1-8f30-b90a1d7f5002" type="box">2</container> 
+                        <container parent="5a7efd5e-c07d-45e1-8f30-b90a1d7f5002" type="folder">3</container>
+                        <container parent="5a7efd5e-c07d-45e1-8f30-b90a1d7f5002" type="item">18</container>
+                        <unittitle>Letter from Barker to George M. Foster,</unittitle>
+                        <unitdate>September 10, 1953</unitdate>
+                        <abstract>Acknowledges support given in regard to Barker's pastores play and promises a copy of the recently published play.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="85eb04ce-92c8-47cf-9414-ebbbd3e9151e" type="box">2</container> 
+                        <container parent="85eb04ce-92c8-47cf-9414-ebbbd3e9151e" type="folder">3</container>
+                        <container parent="85eb04ce-92c8-47cf-9414-ebbbd3e9151e" type="item">19</container>
+                        <unittitle>Letter from Albert R. Marquez to Barker,</unittitle>
+                        <unitdate>September 18, 1953</unitdate>
+                        <abstract>Attached is: "Descendants of First Settlers Witness Dedication of old Rancho Marker," Palisadian XXVI:21 (September 18, 1953), in Spanish.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="62489b7f-b361-46d9-8c52-38ca1b9192c7" type="box">2</container> 
+                        <container parent="62489b7f-b361-46d9-8c52-38ca1b9192c7" type="folder">3</container>
+                        <container parent="62489b7f-b361-46d9-8c52-38ca1b9192c7" type="item">20</container>
+                        <unittitle>Letter from Barker to Aurelio M. Espinosa,</unittitle>
+                        <unitdate>September 24, 1953</unitdate>
+                        <abstract>Acknowledges information given on The Shepherds' Play of the Prodigal Son and promises a copy of the play.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="7266efd3-951d-4e35-a368-9a39041da682" type="box">2</container> 
+                        <container parent="7266efd3-951d-4e35-a368-9a39041da682" type="folder">3</container>
+                        <container parent="7266efd3-951d-4e35-a368-9a39041da682" type="item">21</container>
+                        <unittitle>Letter from Barker to T. M. Pearce,</unittitle>
+                        <unitdate>September 24, 1953</unitdate>
+                        <abstract>Acknowledges receipt of the copy of The New Mexican Shepherds' Play and mentions the recent publication of Barker's own pastores play.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="9bad651e-51f0-4316-99cc-a887a6614f17" type="box">2</container> 
+                        <container parent="9bad651e-51f0-4316-99cc-a887a6614f17" type="folder">3</container>
+                        <container parent="9bad651e-51f0-4316-99cc-a887a6614f17" type="item">22</container>
+                        <unittitle>Letter from Barker to Professor Arthur L. Campa,</unittitle>
+                        <unitdate>September 24, 1953</unitdate>
+                        <abstract>Announces the shipment of an autographed copy of Barker's pastores play and acknowledges Prof. Campa’s "pioneer work in the field of religious folk
+                            drama in the Southwest."</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="50b32e1c-f11b-4b4a-a109-9df00add7430" type="box">2</container> 
+                        <container parent="50b32e1c-f11b-4b4a-a109-9df00add7430" type="folder">3</container>
+                        <container parent="50b32e1c-f11b-4b4a-a109-9df00add7430" type="item">23</container>
+                        <unittitle>Letter from Peg [i.e. Margaret Mudgett] to Barker,</unittitle>
+                        <unitdate>September 25, 1953</unitdate>
+                        <abstract>Acknowledges the excellent work Barker did for the Neighborhood Settlement Association.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="d72be4d0-8543-4b17-a240-9afcd209dd4d" type="box">2</container> 
+                        <container parent="d72be4d0-8543-4b17-a240-9afcd209dd4d" type="folder">3</container>
+                        <container parent="d72be4d0-8543-4b17-a240-9afcd209dd4d" type="item">24</container>
+                        <unittitle>Letter from Barker to Prof. J. Philipson, U. of San Paulo,</unittitle>
+                        <unitdate>Sept. 28, 1953</unitdate>
+                        <abstract>Thanks Philipson for sending him an offprint.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="3abd145b-adb0-4cb2-afcf-087e6a192883" type="box">2</container> 
+                        <container parent="3abd145b-adb0-4cb2-afcf-087e6a192883" type="folder">3</container>
+                        <container parent="3abd145b-adb0-4cb2-afcf-087e6a192883" type="item">25</container>
+                        <unittitle>Letter from Barker to Mr. Albert A. Marquez,</unittitle>
+                        <unitdate>September 29, 1953</unitdate>
+                        <abstract>Invites Marquez to attend a playing of his recorded dedication speech of the Marquez Rancho Marker.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="85d7ea4a-16bb-48a0-b5d9-165f28e99110" type="box">2</container> 
+                        <container parent="85d7ea4a-16bb-48a0-b5d9-165f28e99110" type="folder">3</container>
+                        <container parent="85d7ea4a-16bb-48a0-b5d9-165f28e99110" type="item">26</container>
+                        <unittitle>Letter from Barker to T.M. Pearce,</unittitle>
+                        <unitdate>October 2, 1953</unitdate>
+                        <abstract>Comments on a paper by Pearce on Los pastores plays and suggests that there might have been a cycle of these plays rather than a master play of which 
+                            all "episodes" are a part.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="46ba0643-c53d-4a61-990c-77cc475f6589" type="box">2</container> 
+                        <container parent="46ba0643-c53d-4a61-990c-77cc475f6589" type="folder">3</container>
+                        <container parent="46ba0643-c53d-4a61-990c-77cc475f6589" type="item">27</container>
+                        <unittitle>Letter from Aurelio M. Espinosa to Barker,</unittitle>
+                        <unitdate>October 6, 1953</unitdate>
+                        <abstract>Acknowledges the receipt of a <title>Los pastores</title> manuscript.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="55cfe643-fb89-452c-bf12-4e2e835c3631" type="box">2</container> 
+                        <container parent="55cfe643-fb89-452c-bf12-4e2e835c3631" type="folder">3</container>
+                        <container parent="55cfe643-fb89-452c-bf12-4e2e835c3631" type="item">28</container>
+                        <unittitle>Letter from George M. Foster to Barker,</unittitle>
+                        <unitdate>October 8, 1953</unitdate>
+                        <abstract>Acknowledges the receipt of Barker's published <title>Los pastores</title> play.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="827b592d-cb17-4ab4-a159-326775a9bc44" type="box">2</container> 
+                        <container parent="827b592d-cb17-4ab4-a159-326775a9bc44" type="folder">3</container>
+                        <container parent="827b592d-cb17-4ab4-a159-326775a9bc44" type="item">29</container>
+                        <unittitle>Letter from Barker to Everett C. Hughes,</unittitle>
+                        <unitdate>October 31, 1953</unitdate>
+                        <abstract>Accompanies a manuscript submitted to the <title>American Journal of Sociology</title>.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="c72fb949-058a-4c00-bd2a-fc4de92e329a" type="box">2</container> 
+                        <container parent="c72fb949-058a-4c00-bd2a-fc4de92e329a" type="folder">3</container>
+                        <container parent="c72fb949-058a-4c00-bd2a-fc4de92e329a" type="item">30</container>
+                        <unittitle>Letter from Barker to Louis J. King,</unittitle>
+                        <unitdate>November 25, 1953</unitdate>
+                        <abstract>Requests that King and Barker compare notes on the "Angels", the follow up study Barker was doing for the Neighborhood Settlement Association.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="8755b75c-e87c-4550-af84-3d492c603ebf" type="box">2</container> 
+                        <container parent="8755b75c-e87c-4550-af84-3d492c603ebf" type="folder">3</container>
+                        <container parent="8755b75c-e87c-4550-af84-3d492c603ebf" type="item">31</container>
+                        <unittitle>Letter from Juan B. Real to Barker,</unittitle>
+                        <unitdate>December 17, 1953</unitdate>
+                        <abstract>Acknowledges the complimentary copy of Barker's <title>Los pastores</title> and mentions that Real did not find pastores plays south of Mexico.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="53c5cadf-1cd4-47e1-9174-35997efebac9" type="box">2</container> 
+                        <container parent="53c5cadf-1cd4-47e1-9174-35997efebac9" type="folder">4</container>
+                        <container parent="53c5cadf-1cd4-47e1-9174-35997efebac9" type="item">1</container>
+                        <unittitle>Letter from A.W. Woolsey to Barker,</unittitle>
+                        <unitdate>January 26, 1954</unitdate>
+                        <abstract>Inquires about Barker's <title>The Shepherds' Play of the Prodigal Son</title> and mentions that the Texas State College for Women has two pastores 
+                            plays.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="6f1fdd87-8f3d-47b7-b9d8-0a0bef9ce2c5" type="box">2</container> 
+                        <container parent="6f1fdd87-8f3d-47b7-b9d8-0a0bef9ce2c5" type="folder">4</container>
+                        <container parent="6f1fdd87-8f3d-47b7-b9d8-0a0bef9ce2c5" type="item">2</container>
+                        <unittitle>Letter from Barker to Editor, Fortnight,</unittitle>
+                        <unitdate>February 2, 1954</unitdate>
+                        <abstract>Congratulates the editor on the unbiased article on teenage gangs in Los Angeles and briefly states his own involvement with the Neighborhood 
+                            Settlement Association.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="f9426a02-bfbe-46c2-aa00-896ddbc961aa" type="box">2</container> 
+                        <container parent="f9426a02-bfbe-46c2-aa00-896ddbc961aa" type="folder">4</container>
+                        <container parent="f9426a02-bfbe-46c2-aa00-896ddbc961aa" type="item">3</container>
+                        <unittitle>Letter from John B. Carroll, American Council of Learned Studies (ACLS), to Barker,</unittitle>
+                        <unitdate>March 24, 1954</unitdate>
+                        <abstract>Expresses approval of Barker’s research proposal for an interdisciplinary study of Mexican bilingualism in Los Angeles,
+                            and informs him that the ACLS Committee on the Language Program will help procure funds.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="c0a91d55-c536-4a0d-ae16-a357b474c798" type="box">2</container> 
+                        <container parent="c0a91d55-c536-4a0d-ae16-a357b474c798" type="folder">4</container>
+                        <container parent="c0a91d55-c536-4a0d-ae16-a357b474c798" type="item">4</container>
+                        <unittitle>Letter from Einar Haugen, Univ. of Wisc., to Prof. John B. Carroll,</unittitle>
+                        <unitdate>March 31, 1954</unitdate>
+                        <abstract>Supports and endorses Barker’s proposal to Carroll for the study.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="82a08cc3-e15c-4397-a77f-97c27c2ffb39" type="box">2</container> 
+                        <container parent="82a08cc3-e15c-4397-a77f-97c27c2ffb39" type="folder">4</container>
+                        <container parent="82a08cc3-e15c-4397-a77f-97c27c2ffb39" type="item">5</container>
+                        <unittitle>Letter from John B. Carroll, ACLS, to Barker,</unittitle>
+                        <unitdate>April 20, 1954</unitdate>
+                        <abstract>Reports on the comments received from Einar Haugen and Mary Haas.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="1ac54b25-7db5-4a7e-ad18-b4b482add576" type="box">2</container> 
+                        <container parent="1ac54b25-7db5-4a7e-ad18-b4b482add576" type="folder">4</container>
+                        <container parent="1ac54b25-7db5-4a7e-ad18-b4b482add576" type="item">6</container>
+                        <unittitle>Letter from John B. Carroll, ACLS, to Barker,</unittitle>
+                        <unitdate>May 19, 1954</unitdate>
+                        <abstract>Informs Barker that he may delay the submission of his revised proposal.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="53e17af0-0295-46cb-a623-9cd0bdd7aa36" type="box">2</container> 
+                        <container parent="53e17af0-0295-46cb-a623-9cd0bdd7aa36" type="folder">4</container>
+                        <container parent="53e17af0-0295-46cb-a623-9cd0bdd7aa36" type="item">7</container>
+                        <unittitle>Postcard from Pacific Palisades Art Association to Mr. and Mrs. Barker, [Sr.?],</unittitle>
+                        <unitdate>September 3, 1954</unitdate>
+                        <abstract>Announcement of a lecture to be given by Barker followed by a lecture on Spanish art given by George, Sr.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="3ee582ad-47c1-4bac-b90d-e62990b023ac" type="box">2</container> 
+                        <container parent="3ee582ad-47c1-4bac-b90d-e62990b023ac" type="folder">4</container>
+                        <container parent="3ee582ad-47c1-4bac-b90d-e62990b023ac" type="item">8</container>
+                        <unittitle>Letter from Barker to John B. Carroll, ACLS,</unittitle>
+                        <unitdate>September 15, 1954</unitdate>
+                        <abstract>Informs Carroll he will send the revised proposal by the end of the month.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="b3e651e2-0396-4b8d-9701-89d92c9d8e19" type="box">2</container> 
+                        <container parent="b3e651e2-0396-4b8d-9701-89d92c9d8e19" type="folder">4</container>
+                        <container parent="b3e651e2-0396-4b8d-9701-89d92c9d8e19" type="item">9</container>
+                        <unittitle>Letter from John B. Carroll, ACLS, to Barker,</unittitle>
+                        <unitdate>October 7, 1954</unitdate>
+                        <abstract>Carroll received the proposal, and gives Barker the addresses of other members of the Committee on the Language Program.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="a2bf8e49-814c-4495-9ba9-4c453f082b3c" type="box">2</container> 
+                        <container parent="a2bf8e49-814c-4495-9ba9-4c453f082b3c" type="folder">4</container>
+                        <container parent="a2bf8e49-814c-4495-9ba9-4c453f082b3c" type="item">10</container>
+                        <unittitle>Letter from Jose Perez Vidal to Barker,</unittitle>
+                        <unitdate>October 29, 1954</unitdate>
+                        <abstract>Transmits Cantos populares españoles, Seville, 1882, and envelope (in Spanish).</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="938834f9-7878-4c8b-bf8a-d295df8ea378" type="box">2</container> 
+                        <container parent="938834f9-7878-4c8b-bf8a-d295df8ea378" type="folder">4</container>
+                        <container parent="938834f9-7878-4c8b-bf8a-d295df8ea378" type="item">11</container>
+                        <unittitle>Letter from Albert H. Marckwardt to Barker,</unittitle>
+                        <unitdate>November 19, 1954</unitdate>
+                        <abstract>Asks for a copy of Barker’s research proposal submitted to the ACLS.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="fbc1776c-04ac-476d-a2bf-b0565991ac6f" type="box">2</container> 
+                        <container parent="fbc1776c-04ac-476d-a2bf-b0565991ac6f" type="folder">4</container>
+                        <container parent="fbc1776c-04ac-476d-a2bf-b0565991ac6f" type="item">12</container>
+                        <unittitle>Letter from Leslie E. Eichelberger to Barker,</unittitle>
+                        <unitdate>March 18, 1955</unitdate>
+                        <abstract>Discusses Barker's Neighborhood Association work.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="11969e43-d340-4c70-8909-1f05af451579" type="box">2</container> 
+                        <container parent="11969e43-d340-4c70-8909-1f05af451579" type="folder">4</container>
+                        <container parent="11969e43-d340-4c70-8909-1f05af451579" type="item">13</container>
+                        <unittitle>Letter from Joseph B. Casagrande to Barker,</unittitle>
+                        <unitdate>April 11, 1955</unitdate>
+                        <abstract>Accompanies report on a “work conference on bilingualism” and two papers.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="f269e030-a47d-4374-a5dd-6ac35c563085" type="box">2</container> 
+                        <container parent="f269e030-a47d-4374-a5dd-6ac35c563085" type="folder">4</container>
+                        <container parent="f269e030-a47d-4374-a5dd-6ac35c563085" type="item">14</container>
+                        <unittitle>Letter from Sister Celine, S.S.S., to Barker,</unittitle>
+                        <unitdate>April 19, 1955</unitdate>
+                        <abstract>Promises support for Barker's "cultural influence'' study of a Catholic Youth Organization club in Los Angeles, Calif.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="3701f248-a380-43eb-b27f-43ea6fd96915" type="box">2</container> 
+                        <container parent="3701f248-a380-43eb-b27f-43ea6fd96915" type="folder">4</container>
+                        <container parent="3701f248-a380-43eb-b27f-43ea6fd96915" type="item">15</container>
+                        <unittitle>Letter from Barker to Ed [i.e. Edward Dozier],</unittitle>
+                        <unitdate>July 29, 1955</unitdate>
+                        <abstract>Comments on the Southwestern Project In Comparative Psycholinguistics and on his own bilingual study entitled at that point, "A Study of 
+                            Communication Patterns and Social Isolation among Mexican American Boys' Gangs in Los Angeles.”</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="821be7a7-67c3-4baf-8507-2260bbc42520" type="box">2</container> 
+                        <container parent="821be7a7-67c3-4baf-8507-2260bbc42520" type="folder">4</container>
+                        <container parent="821be7a7-67c3-4baf-8507-2260bbc42520" type="item">16</container>
+                        <unittitle>Letter from Ed [i.e. Edward Dozier] to Barker,</unittitle>
+                        <unitdate>August 12, 1955</unitdate>
+                        <abstract>Contains information on goals and working techniques of the Southwestern Project in Comparative Psycholinguistics.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="2698dca3-0f44-4a46-ba12-4d8bf9b46bae" type="box">2</container> 
+                        <container parent="2698dca3-0f44-4a46-ba12-4d8bf9b46bae" type="folder">4</container>
+                        <container parent="2698dca3-0f44-4a46-ba12-4d8bf9b46bae" type="item">17</container>
+                        <unittitle>Letter from William Whitley to Barker,</unittitle>
+                        <unitdate>August 23, 1955</unitdate>
+                        <abstract>Acknowledges interest Barker was taking in a special series of CBS Television Pacific Network.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="86440c63-c5c0-4d2a-8d3d-c649d164c664" type="box">2</container> 
+                        <container parent="86440c63-c5c0-4d2a-8d3d-c649d164c664" type="folder">4</container>
+                        <container parent="86440c63-c5c0-4d2a-8d3d-c649d164c664" type="item">18</container>
+                        <unittitle>Letter from Barker to Mr. A.F. Schaeffer,</unittitle>
+                        <unitdate>September 15, 1955</unitdate>
+                        <abstract>Concerns U.S. Public Health Service research grant application administrative matters.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="d22b5835-3b1b-4f49-8117-77db1e13685b" type="box">2</container> 
+                        <container parent="d22b5835-3b1b-4f49-8117-77db1e13685b" type="folder">4</container>
+                        <container parent="d22b5835-3b1b-4f49-8117-77db1e13685b" type="item">19</container>
+                        <unittitle>Letter from Barker to Harold R. Muntz,</unittitle>
+                        <unitdate>October 4, 1955</unitdate>
+                        <abstract>Transmits the results of his language study to the Los Angeles County Probation Department.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="bbb0e60d-12c9-4b72-b1ef-7129aa1e07f5" type="box">2</container> 
+                        <container parent="bbb0e60d-12c9-4b72-b1ef-7129aa1e07f5" type="folder">4</container>
+                        <container parent="bbb0e60d-12c9-4b72-b1ef-7129aa1e07f5" type="item">20</container>
+                        <unittitle>Postcard from Bill Gutierrez to Barker,</unittitle>
+                        <unitdate>October 9, 1955</unitdate>
+                        <abstract>Asks for a copy of the boys' gang study in Los Angeles.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="6f8805f5-cd0e-49f6-a3a8-ece94cec628e" type="box">2</container> 
+                        <container parent="6f8805f5-cd0e-49f6-a3a8-ece94cec628e" type="folder">4</container>
+                        <container parent="6f8805f5-cd0e-49f6-a3a8-ece94cec628e" type="item">21</container>
+                        <unittitle>Letter from Mrs. W.L. Clemens to Barker,</unittitle>
+                        <unitdate>December 5, 1955</unitdate>
+                        <abstract>Thanks Barker for participating in a panel [at Puente High School?].</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="b8c0abd8-6505-41b1-83a3-d441bfe6c0c0" type="box">2</container> 
+                        <container parent="b8c0abd8-6505-41b1-83a3-d441bfe6c0c0" type="folder">4</container>
+                        <container parent="b8c0abd8-6505-41b1-83a3-d441bfe6c0c0" type="item">22</container>
+                        <unittitle>Letter from Barker to Dr. Corbato,</unittitle>
+                        <unitdate>December 15, 1955</unitdate>
+                        <abstract>Transmits paper on penitential processions in Spain. Corbato returns the letter with annotations.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="0c58a4bc-53f5-4955-a8ca-c1bfe2bbbe03" type="box">2</container> 
+                        <container parent="0c58a4bc-53f5-4955-a8ca-c1bfe2bbbe03" type="folder">4</container>
+                        <container parent="0c58a4bc-53f5-4955-a8ca-c1bfe2bbbe03" type="item">23</container>
+                        <unittitle>Letter from Edmund O. Barker to Barker,</unittitle>
+                        <unitdate>March 24, 1956</unitdate>
+                        <abstract>Contains bibliographical material on the Mexican shepherds' play and mentions the "‘boycott trials’ of the Negroes in Montgomery.”</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="a4721685-490b-4c5c-996f-cc06d2c3a472" type="box">2</container> 
+                        <container parent="a4721685-490b-4c5c-996f-cc06d2c3a472" type="folder">4</container>
+                        <container parent="a4721685-490b-4c5c-996f-cc06d2c3a472" type="item">24</container>
+                        <unittitle>Letter from Father Radtke [et al.] to "Dear Parishioner,",</unittitle>
+                        <unitdate>March, 1956</unitdate>
+                        <abstract>Announces the Easter ceremonies of the Sacred Heart Church in Nogales, Ariz.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="1658ebab-e47c-4ebc-8a98-9bf17599c69b" type="box">2</container> 
+                        <container parent="1658ebab-e47c-4ebc-8a98-9bf17599c69b" type="folder">4</container>
+                        <container parent="1658ebab-e47c-4ebc-8a98-9bf17599c69b" type="item">25</container>
+                        <unittitle>Letter from Barker to Ed [i.e. Edward Dozier],</unittitle>
+                        <unitdate>June 13, 1956</unitdate>
+                        <abstract>Announces a field trip to New Mexico to observe the San Buenaventura celebrations at Cochiti for his study of "Catholic ritual processions in Spain and
+                            the American Southwest" and also expresses the hope to be able to talk to members of the psycholinguistic project.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="933c5dfb-4c5a-4edc-8776-14d65eab7797" type="box">2</container> 
+                        <container parent="933c5dfb-4c5a-4edc-8776-14d65eab7797" type="folder">4</container>
+                        <container parent="933c5dfb-4c5a-4edc-8776-14d65eab7797" type="item">26</container>
+                        <unittitle>Anonymous postcard to Barker,</unittitle>
+                        <unitdate>August 28, 1956</unitdate>
+                        <abstract>Postcard consists of a hand-drawn map.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="00c3776b-102f-463b-9c37-c6b31cd2c313" type="box">2</container> 
+                        <container parent="00c3776b-102f-463b-9c37-c6b31cd2c313" type="folder">4</container>
+                        <container parent="00c3776b-102f-463b-9c37-c6b31cd2c313" type="item">27</container>
+                        <unittitle>Letter from Frances Gillmor to Barker,</unittitle>
+                        <unitdate>October 15, 1956</unitdate>
+                        <abstract>Thanks Barker for participating in a panel on folk drama at the folklore meeting.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="f882c622-8c8c-44ed-acd7-5daca08d02c1" type="box">2</container> 
+                        <container parent="f882c622-8c8c-44ed-acd7-5daca08d02c1" type="folder">4</container>
+                        <container parent="f882c622-8c8c-44ed-acd7-5daca08d02c1" type="item">28</container>
+                        <unittitle>Letter from Barker to Mr. Herrera,</unittitle>
+                        <unitdate>November l, 1956</unitdate>
+                        <abstract>Asks the Governor of Cochiti Pueblo questions about the corn dance and procession of the feast day of San Buenaventura.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="2343f87e-bb7a-486c-9133-b99dadfce4ca" type="box">2</container> 
+                        <container parent="2343f87e-bb7a-486c-9133-b99dadfce4ca" type="folder">4</container>
+                        <container parent="2343f87e-bb7a-486c-9133-b99dadfce4ca" type="item">29</container>
+                        <unittitle>Letter from Barker to Ed [i.e. Edward Dozier],</unittitle>
+                        <unitdate>December 13, 1956</unitdate>
+                        <abstract>Comments on "Ed's" [i.e. Dozier’s?] paper on evaluating "aboriginal rituals from the standpoints of degree of sacredness, extend of community 
+                            participation, and extent of public visibility and outside participation."</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="b6c55974-eafe-4130-95c0-5083e078e880" type="box">2</container> 
+                        <container parent="b6c55974-eafe-4130-95c0-5083e078e880" type="folder">4</container>
+                        <container parent="b6c55974-eafe-4130-95c0-5083e078e880" type="item">30</container>
+                        <unittitle>Letter from Ed [i.e. Edward Dozier] to Barker,</unittitle>
+                        <unitdate>December 16, 1956</unitdate>
+                        <abstract>Contains further information about Pueblo Catholicism and Indian ceremonies in reply to Barker's letter (cf. above letter).</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="1230b955-ad67-4c24-93e9-1fa987483ddf" type="box">2</container> 
+                        <container parent="1230b955-ad67-4c24-93e9-1fa987483ddf" type="folder">5</container>
+                        <container parent="1230b955-ad67-4c24-93e9-1fa987483ddf" type="item">1</container>
+                        <unittitle>Letter from Barker to Edward P. Dozier,</unittitle>
+                        <unitdate>January 4, 1957</unitdate>
+                        <abstract>Acknowledges help given by Dozier at the meeting in Santa Monica and refers to their papers on Pueblo materials.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="5761a073-0aa1-48a0-b019-83385249fe6f" type="box">2</container> 
+                        <container parent="5761a073-0aa1-48a0-b019-83385249fe6f" type="folder">5</container>
+                        <container parent="5761a073-0aa1-48a0-b019-83385249fe6f" type="item">2</container>
+                        <unittitle>Letter from Ed [i.e. Edward Dozier] to Barker,</unittitle>
+                        <unitdate>January 14, 1957</unitdate>
+                        <abstract>Talks about the possibility of publishing the three papers on Pueblo and Yaqui materials together (Edward Spicer, Edward Dozier, and Barker).</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="2ace6c4f-2c0c-45ac-9134-49ac9759a20f" type="box">2</container> 
+                        <container parent="2ace6c4f-2c0c-45ac-9134-49ac9759a20f" type="folder">5</container>
+                        <container parent="2ace6c4f-2c0c-45ac-9134-49ac9759a20f" type="item">3</container>
+                        <unittitle>Letter from Frances Gillmor to Barker,</unittitle>
+                        <unitdate>January 16, 1957</unitdate>
+                        <abstract>Thanks Barker for the wonderful Santa Monica meetings.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="30301bf5-222f-4fc7-999a-51ca6522af55" type="box">2</container> 
+                        <container parent="30301bf5-222f-4fc7-999a-51ca6522af55" type="folder">5</container>
+                        <container parent="30301bf5-222f-4fc7-999a-51ca6522af55" type="item">4</container>
+                        <unittitle>Letter from Wayland D. Hand to Barker,</unittitle>
+                        <unitdate>January 18, 1957</unitdate>
+                        <abstract>Friendly note.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="79eaeb8a-9630-46b9-91bc-bf8239aca944" type="box">2</container> 
+                        <container parent="79eaeb8a-9630-46b9-91bc-bf8239aca944" type="folder">5</container>
+                        <container parent="79eaeb8a-9630-46b9-91bc-bf8239aca944" type="item">5</container>
+                        <unittitle>Letter from Barker to Ned [i.e. Edward Spicer],</unittitle>
+                        <unitdate>January 19, 1957</unitdate>
+                        <abstract>Discusses the joint publishing venture for the three papers again.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="17a13565-9399-4b77-9d21-7804a4d58e54" type="box">2</container> 
+                        <container parent="17a13565-9399-4b77-9d21-7804a4d58e54" type="folder">5</container>
+                        <container parent="17a13565-9399-4b77-9d21-7804a4d58e54" type="item">6</container>
+                        <unittitle>Letter from Thomas A. Sebeok to Barker,</unittitle>
+                        <unitdate>January 31, 1957</unitdate>
+                        <abstract>Friendly note referring to recent meetings.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="97eda30b-f679-434e-9382-f699e88a6e98" type="box">2</container> 
+                        <container parent="97eda30b-f679-434e-9382-f699e88a6e98" type="folder">5</container>
+                        <container parent="97eda30b-f679-434e-9382-f699e88a6e98" type="item">7</container>
+                        <unittitle>Letter from Edward H. Spicer to Barker,</unittitle>
+                        <unitdate>February 1, 1957</unitdate>
+                        <abstract>Agrees to the joint publishing of the three papers on Pueblo and Yaqui materials. Agrees to do the overall comments.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="b98f0202-827f-4e6e-b3ad-fdef1d23ee89" type="box">2</container> 
+                        <container parent="b98f0202-827f-4e6e-b3ad-fdef1d23ee89" type="folder">5</container>
+                        <container parent="b98f0202-827f-4e6e-b3ad-fdef1d23ee89" type="item">8</container>
+                        <unittitle>Letter from Barker to Ned [i.e. Edward Spicer],</unittitle>
+                        <unitdate>February 7, 1957</unitdate>
+                        <abstract>Comments on the three papers in regard to Linton's <title>Acculturation in Seven American Indian Tribes</title>.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="1b3928f7-c6d8-44e3-8bb8-95db7677e884" type="box">2</container> 
+                        <container parent="1b3928f7-c6d8-44e3-8bb8-95db7677e884" type="folder">5</container>
+                        <container parent="1b3928f7-c6d8-44e3-8bb8-95db7677e884" type="item">9</container>
+                        <unittitle>Letter from Ed [i.e. Edward Dozier] to Barker,</unittitle>
+                        <unitdate>March 20, 1957</unitdate>
+                        <abstract>Comments on his [Dozier’s] intended revisions to his paper planned for publication with Barker’s and Spicer’s.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="8e528a0e-011a-47ec-b5b7-8a59af513cb2" type="box">2</container> 
+                        <container parent="8e528a0e-011a-47ec-b5b7-8a59af513cb2" type="folder">5</container>
+                        <container parent="8e528a0e-011a-47ec-b5b7-8a59af513cb2" type="item">10</container>
+                        <unittitle>Letter from Sheilagh Brooks and Richard H. Brooks to Barker,</unittitle>
+                        <unitdate>April 27, 1957</unitdate>
+                        <abstract>Mentions their fieldwork in northwestern Mexico and also refers to a Los pastores manuscript they have collected.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="ec9f9209-ea56-4079-a879-c14b9d95e38f" type="box">2</container> 
+                        <container parent="ec9f9209-ea56-4079-a879-c14b9d95e38f" type="folder">5</container>
+                        <container parent="ec9f9209-ea56-4079-a879-c14b9d95e38f" type="item">11</container>
+                        <unittitle>Letter from Barker to Ned [i.e. Edward Spicer],</unittitle>
+                        <unitdate>May 12, 1957</unitdate>
+                        <abstract>Refers again to the joint publishing venture and comments on Spicer's paper.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="49d376d0-2814-42e0-ba36-1c1df07bfb52" type="box">2</container> 
+                        <container parent="49d376d0-2814-42e0-ba36-1c1df07bfb52" type="folder">5</container>
+                        <container parent="49d376d0-2814-42e0-ba36-1c1df07bfb52" type="item">12</container>
+                        <unittitle>Letter from Wayland D. Hand to Barker,</unittitle>
+                        <unitdate>May 13, 1957</unitdate>
+                        <abstract>Discusses the use of photographs in Barker's article in <title>Western Folklore</title> (October issue). Article is on Yaqui Easter ceremonies.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="f724f7c8-c43c-4af0-ac54-bae1ee1e4b54" type="box">2</container> 
+                        <container parent="f724f7c8-c43c-4af0-ac54-bae1ee1e4b54" type="folder">5</container>
+                        <container parent="f724f7c8-c43c-4af0-ac54-bae1ee1e4b54" type="item">13</container>
+                        <unittitle>Letter from Barker to Wayland D. Hand,</unittitle>
+                        <unitdate>May 20, 1957</unitdate>
+                        <abstract>Promises a selection of photographs and the manuscript by the end of the month (cf. above letter).</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="e8906540-1f9b-418d-a9f5-afceeae3f9f2" type="box">2</container> 
+                        <container parent="e8906540-1f9b-418d-a9f5-afceeae3f9f2" type="folder">5</container>
+                        <container parent="e8906540-1f9b-418d-a9f5-afceeae3f9f2" type="item">14</container>
+                        <unittitle>Letter from Barker to Esther Goldfrank,</unittitle>
+                        <unitdate>May 20, 1957</unitdate>
+                        <abstract>Requests information about a manuscript of Mexican dance drama originally collected by Elsie Clews Parsons. Barker had received the manuscript from 
+                            Ralph Beals.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="fd974ed3-7dca-4c7d-9897-0e573dfea58b" type="box">2</container> 
+                        <container parent="fd974ed3-7dca-4c7d-9897-0e573dfea58b" type="folder">5</container>
+                        <container parent="fd974ed3-7dca-4c7d-9897-0e573dfea58b" type="item">15</container>
+                        <unittitle>Letter from Barker to Sheilagh and Richard Brooks,</unittitle>
+                        <unitdate>May 20, 1957</unitdate>
+                        <abstract>Contains suggestions for questions to ask their Informant (cf. the Brooks’s letter of April 27, 1957) in regard to their Los pastores play. Also 
+                            mentions Elsie Clews Parson’s <title>Mexican dance drama of the Mexican Revolution</title> (cf. previous letter).</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="600da750-3620-4bc0-8113-b99c093a2feb" type="box">2</container> 
+                        <container parent="600da750-3620-4bc0-8113-b99c093a2feb" type="folder">5</container>
+                        <container parent="600da750-3620-4bc0-8113-b99c093a2feb" type="item">16</container>
+                        <unittitle>Letter from Barker to Muriel Thayer Painter,</unittitle>
+                        <unitdate>June 15, 1957</unitdate>
+                        <abstract>Sends his manuscript of his paper on the Yaqui Easter ceremonies in Hermosillo, Mexico, and asks her comments. The letter also contains additional 
+                            information on the Yaqui Easter ceremony.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="dc815234-274a-4ce3-aadc-c99fb925ecc0" type="box">2</container> 
+                        <container parent="dc815234-274a-4ce3-aadc-c99fb925ecc0" type="folder">5</container>
+                        <container parent="dc815234-274a-4ce3-aadc-c99fb925ecc0" type="item">17</container>
+                        <unittitle>Letter from Wayland [i.e. Wayland D. Hand] to Barker,</unittitle>
+                        <unitdate>June 17, 1957</unitdate>
+                        <abstract>Friendly note.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="d403faf2-9793-4838-8ed2-d52358c10ab2" type="box">2</container> 
+                        <container parent="d403faf2-9793-4838-8ed2-d52358c10ab2" type="folder">5</container>
+                        <container parent="d403faf2-9793-4838-8ed2-d52358c10ab2" type="item">18</container>
+                        <unittitle>Letter from Barker to Eugenio Cabrero,</unittitle>
+                        <unitdate>June 20, 1957</unitdate>
+                        <abstract>Mentions a field trip to Spain to do research on the Spanish background of Southwestern religious folk dramas. Seeks support of the Del Amo Foundation.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="343cb756-2036-48a1-8ddb-955bf88c160c" type="box">2</container> 
+                        <container parent="343cb756-2036-48a1-8ddb-955bf88c160c" type="folder">5</container>
+                        <container parent="343cb756-2036-48a1-8ddb-955bf88c160c" type="item">19</container>
+                        <unittitle>Letter from Barker to Russell H. Fitzgibbon,</unittitle>
+                        <unitdate>July 29, 1957</unitdate>
+                        <abstract>Concerns the financial support of his research on the Spanish background of Mexican folk dramas in the Southwest by the Del Amo Foundation 
+                            (cf. previous letter).</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="bfe72ac6-7ee3-41c9-bf08-cbab26b88c9e" type="box">2</container> 
+                        <container parent="bfe72ac6-7ee3-41c9-bf08-cbab26b88c9e" type="folder">5</container>
+                        <container parent="bfe72ac6-7ee3-41c9-bf08-cbab26b88c9e" type="item">20</container>
+                        <unittitle>Letter from Barker to Sheilagh and Richard H. Brooks,</unittitle>
+                        <unitdate>September 14, 1957</unitdate>
+                        <abstract>Mentions the Brooks’s <title>Los pastores</title> play and some interesting parallels to other folk dramas of the time. Gives no specifics parallels, 
+                            however.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="102c409b-a648-42a4-8500-34d42cd94e0d" type="box">2</container> 
+                        <container parent="102c409b-a648-42a4-8500-34d42cd94e0d" type="folder">5</container>
+                        <container parent="102c409b-a648-42a4-8500-34d42cd94e0d" type="item">21</container>
+                        <unittitle>Letter from Barker to Russell H. Fitzgibbon,</unittitle>
+                        <unitdate>September 24, 1957</unitdate>
+                        <abstract>Outlines his research project in Spain for the Committee of Latin American Studies. Intends to study the Spanish background of the Southwestern folk 
+                            dramas (cf. Barker’s letters of June 20 and July 29, 1957).</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="4585ce25-66b3-4881-b4a8-f579a5d6a034" type="box">2</container> 
+                        <container parent="4585ce25-66b3-4881-b4a8-f579a5d6a034" type="folder">5</container>
+                        <container parent="4585ce25-66b3-4881-b4a8-f579a5d6a034" type="item">22</container>
+                        <unittitle>Letter from Barker to Russell H. Fitzgibbon,</unittitle>
+                        <unitdate>October 17, 1957</unitdate>
+                        <abstract>Asks for an acknowledgment of the materials sent (cf. Barker’s letters of June 20 and July 29, 1957).</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="9f849e95-bdf2-48aa-955c-f5568af1c6c0" type="box">2</container> 
+                        <container parent="9f849e95-bdf2-48aa-955c-f5568af1c6c0" type="folder">5</container>
+                        <container parent="9f849e95-bdf2-48aa-955c-f5568af1c6c0" type="item">23</container>
+                        <unittitle>Letter from Eugenio Cabrero to Barker,</unittitle>
+                        <unitdate>October 25, 1957</unitdate>
+                        <abstract>Del Amo Foundation declines to fund research in Spain.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="2e5d8a68-da68-418d-acdb-421befaed16e" type="box">2</container> 
+                        <container parent="2e5d8a68-da68-418d-acdb-421befaed16e" type="folder">5</container>
+                        <container parent="2e5d8a68-da68-418d-acdb-421befaed16e" type="item">24</container>
+                        <unittitle>Letter from Richard and Sheilagh Brooks to Barker,</unittitle>
+                        <unitdate>October 26, 1957</unitdate>
+                        <abstract>Promises further talk with informant on the <title>Los pastores manuscript</title>.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="8dec1adc-83ac-44c4-940f-12c26702592c" type="box">2</container> 
+                        <container parent="8dec1adc-83ac-44c4-940f-12c26702592c" type="folder">5</container>
+                        <container parent="8dec1adc-83ac-44c4-940f-12c26702592c" type="item">25</container>
+                        <unittitle>Letter from the Rev. Anthony Soto to Barker,</unittitle>
+                        <unitdate>February 11, 1958</unitdate>
+                        <abstract>Contains historical background of Pala Mission and gives also some general information of the Corpus Christi processions at the mission.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="0df940ce-7882-42e2-8554-b39130a9901c" type="box">2</container> 
+                        <container parent="0df940ce-7882-42e2-8554-b39130a9901c" type="folder">5</container>
+                        <container parent="0df940ce-7882-42e2-8554-b39130a9901c" type="item">26</container>
+                        <unittitle>Letter from Barker to the Rev. Anthony Soto,</unittitle>
+                        <unitdate>February 14, 1958</unitdate>
+                        <abstract>Acknowledges information and inquires about mission records, the changes in the Corpus Christi procession and changes in administration.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="1e1708d5-1e08-47f7-9478-d535e8a554c4" type="box">2</container> 
+                        <container parent="1e1708d5-1e08-47f7-9478-d535e8a554c4" type="folder">5</container>
+                        <container parent="1e1708d5-1e08-47f7-9478-d535e8a554c4" type="item">27</container>
+                        <unittitle>Letter from the Rev. Anthony Soto to Barker,</unittitle>
+                        <unitdate>February 16, 1958</unitdate>
+                        <abstract>Provides the name of missionaries who worked at Pala.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="a28d4a77-d624-4b59-a78d-913411f6be06" type="box">2</container> 
+                        <container parent="a28d4a77-d624-4b59-a78d-913411f6be06" type="folder">5</container>
+                        <container parent="a28d4a77-d624-4b59-a78d-913411f6be06" type="item">28</container>
+                        <unittitle>Letter from Barker to the Rev. Anthony Soto,</unittitle>
+                        <unitdate>February 19, 1958</unitdate>
+                        <abstract>Thanks Soto for his help and asks for information on other processions at San Luis Rey and Pala. Barker intends to make a study of the Pala Corpus 
+                            Christi procession similar to the one he did on Yaqui Easter ceremonies at Hermosillo, Mexico.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="f3d2e0c6-505b-47a1-816c-6e50816a71db" type="box">2</container> 
+                        <container parent="f3d2e0c6-505b-47a1-816c-6e50816a71db" type="folder">5</container>
+                        <container parent="f3d2e0c6-505b-47a1-816c-6e50816a71db" type="item">29</container>
+                        <unittitle>Letter from Richard H. Brooks to Barker,</unittitle>
+                        <unitdate>February 20, 1958</unitdate>
+                        <abstract>Asks Barker's advice on the publication of their <title>Los pastores</title>play.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="f6138674-df6c-49bb-a953-74c0002a3afe" type="box">2</container> 
+                        <container parent="f6138674-df6c-49bb-a953-74c0002a3afe" type="folder">5</container>
+                        <container parent="f6138674-df6c-49bb-a953-74c0002a3afe" type="item">30</container>
+                        <unittitle>Letter from the Rev. Anthony Soto to Barker,</unittitle>
+                        <unitdate>February 24, 1958</unitdate>
+                        <abstract>Supplies additional information on processions at Pala and San Luis Rey and also gives a few sources.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="95ad92c4-4a9e-4a28-98dd-4b7869845a6d" type="box">2</container> 
+                        <container parent="95ad92c4-4a9e-4a28-98dd-4b7869845a6d" type="folder">5</container>
+                        <container parent="95ad92c4-4a9e-4a28-98dd-4b7869845a6d" type="item">31</container>
+                        <unittitle>Letter from Barker to Richard H. Brooks,</unittitle>
+                        <unitdate>February 27, 1958</unitdate>
+                        <abstract>Promises to collaborate on the article to be published with the translation of the Brooks’ <title>Los pastores</title> play.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="2256eb4b-f0cf-423e-b51d-92adbddeb54b" type="box">2</container> 
+                        <container parent="2256eb4b-f0cf-423e-b51d-92adbddeb54b" type="folder">5</container>
+                        <container parent="2256eb4b-f0cf-423e-b51d-92adbddeb54b" type="item">32</container>
+                        <unittitle>Letter from Barker to the Rev. Anthony Soto,</unittitle>
+                        <unitdate>February 28, 1958</unitdate>
+                        <abstract>Acknowledges the information provided by Soto and asks for a brochure written by an Indian on early Indian life at San Luis Rey.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="74b4ba9a-bb6b-4fd6-b473-c6881fec31de" type="box">2</container> 
+                        <container parent="74b4ba9a-bb6b-4fd6-b473-c6881fec31de" type="folder">5</container>
+                        <container parent="74b4ba9a-bb6b-4fd6-b473-c6881fec31de" type="item">33</container>
+                        <unittitle>Letter from Barker to the Rev. Anthony Soto,</unittitle>
+                        <unitdate>March 21, 1958</unitdate>
+                        <abstract>Mentions the receipt of <title>Indian Life at Mission San Luis Rey</title> and announces a visit to Pala during Holy Week.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="421db68a-947f-473c-91e7-17fdcdc4413d" type="box">2</container> 
+                        <container parent="421db68a-947f-473c-91e7-17fdcdc4413d" type="folder">5</container>
+                        <container parent="421db68a-947f-473c-91e7-17fdcdc4413d" type="item">34</container>
+                        <unittitle>Letter from Barker to the Gift Shop, Old Mission San Luis Rey, California,</unittitle>
+                        <unitdate>March 21, 1958</unitdate>
+                        <abstract>Payment for <title>Indian Life at Mission San Luis Rey</title>, sent by the Rev. Anthony Soto.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="6e8880ce-46ed-4193-9962-2c1d55852bfa" type="box">2</container> 
+                        <container parent="6e8880ce-46ed-4193-9962-2c1d55852bfa" type="folder">5</container>
+                        <container parent="6e8880ce-46ed-4193-9962-2c1d55852bfa" type="item">35</container>
+                        <unittitle>Letter from the Rev. Anthony Soto to Barker,</unittitle>
+                        <unitdate>March 24, 1958</unitdate>
+                        <abstract>Arranges a time for a visit with Barker during his intended visit (Holy Week).</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="dc15238c-f828-4b9f-99f7-a48c11498f57" type="box">2</container> 
+                        <container parent="dc15238c-f828-4b9f-99f7-a48c11498f57" type="folder">5</container>
+                        <container parent="dc15238c-f828-4b9f-99f7-a48c11498f57" type="item">36</container>
+                        <unittitle>Postcard from Jean K. Adams (Pauma Valley Motor Lodge) to Barker,</unittitle>
+                        <unitdate>March 27, 1958</unitdate>
+                        <abstract>Confirms his reservation for Holy Week.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="2dfcdded-6967-43e5-a98c-d8da6ae2d81f" type="box">2</container> 
+                        <container parent="2dfcdded-6967-43e5-a98c-d8da6ae2d81f" type="folder">5</container>
+                        <container parent="2dfcdded-6967-43e5-a98c-d8da6ae2d81f" type="item">37</container>
+                        <unittitle>Letter from Richard H. Brooks to Barker,</unittitle>
+                        <unitdate>April l, 1958</unitdate>
+                        <abstract>Confirms arrangement for collaboration on the <title>Los pastores</title> article.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="d5e5cde5-90b2-4f3d-aab7-f62849ace2f6" type="box">2</container> 
+                        <container parent="d5e5cde5-90b2-4f3d-aab7-f62849ace2f6" type="folder">5</container>
+                        <container parent="d5e5cde5-90b2-4f3d-aab7-f62849ace2f6" type="item">38</container>
+                        <unittitle>Letter from George Barker (Sr.) to Richard H. Brooks,</unittitle>
+                        <unitdate>May 7, 1958</unitdate>
+                        <abstract>Announces his son's death and returns the <title>Los pastores</title> manuscript.</abstract>
+                    </did> 
+                </c02>
+            </c01>
+            <c01 level="series"> 
+                <did> 
+                    <unitid>Series III</unitid>
+                    <unittitle>Published and Unpublished Articles, Papers and Reviews,</unittitle> 
+                    <unitdate type="inclusive">1936-1958</unitdate>
+                </did>
+                <scopecontent><p>Text, illustrations, and captions of Barker's works. Printed publications appear first, followed by manuscript copies of informal essays and vignettes 
+                    and then manuscripts of Barker's anthropological work, in loose chronological order. The Folk Drama subseries contains a handwritten transcript of a Christmas 
+                    "shepherd's play" provided by Aristéo Flores of Chapalá, Mexico, and Barker's published bilingual edition of the text. Items are arranged by genre and thereunder 
+                    roughly chronologically.</p></scopecontent>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="529f406c-94a3-49dc-8dd5-2a2f5ac5197f" type="box">2</container> 
+                        <container parent="529f406c-94a3-49dc-8dd5-2a2f5ac5197f" type="folder">6-10</container> 
+                        <unittitle>Publications (excluding The Shepherds' Play of the Prodigal Son. See box 2, folder 26),</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> 
+                        <container id="3e735939-b4f2-4eb2-a713-429802348881" type="box">2</container>  
+                        <container parent="3e735939-b4f2-4eb2-a713-429802348881" type="folder">11</container> 
+                        <unittitle>Pilgrimage to Mexico [unpublished manuscript, typescript xerostatic copy],</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="eaf93514-bcd4-4471-b2e3-95e48adf017d" type="box">2</container> 
+                        <container parent="eaf93514-bcd4-4471-b2e3-95e48adf017d" type="folder">12</container> 
+                        <unittitle>"The Velorio;" illustrations intended to accompany Pilgrimage to Mexico,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="cc04dee8-833f-4bcf-b71f-66d9f1129b04" type="box">2</container>  
+                        <container parent="cc04dee8-833f-4bcf-b71f-66d9f1129b04" type="folder">13-17</container> 
+                        <unittitle>Essays, stories, vignettes: "Back-Country Notes" (1939), Hello Stranger, "Artist for the Million," "The Itinerant Buckeye Painter as Folk Artist: A 
+                            Profile," and "Backwoods Rembrandt," all unpublished; and "Birthday Party for the Virgin" (New Mexico Folklore Record, 1950).,</unittitle>
+                        <unitdate>1939; 1950</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="68607729-dc1f-4ba1-adfa-1011f26cdaf4" type="box">2</container>  
+                        <container parent="68607729-dc1f-4ba1-adfa-1011f26cdaf4" type="folder">18</container> 
+                        <unittitle>"Vanishing Indian Cultures of Southern California" (Pacific Horizons, 1939). Typescript and copy of publication,</unittitle>
+                        <unitdate>1939</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="49cacba7-8c30-463c-8cce-2afe3540f6cb" type="box">2</container> 
+                        <container parent="49cacba7-8c30-463c-8cce-2afe3540f6cb" type="folder">19</container> 
+                        <unittitle>Papers, reviews, reports, 1943-1955, on language and linguistics: includes bibliography of sources relating to "Social Functions of Bilingualism"; 
+                            "Investigating Human Behavior: First Notes for a Primer on General Semantics" (Los Angeles Society for General Semantics, 1939); "The Social Functions of 
+                            Language" (Etc.: A Review of General Semantics, 1945); a review of Victor Grove's The Language Bar (Etc. A Review of General Semantics, 1952); and other 
+                            papers and reviews.,</unittitle>
+                        <unitdate>1939; 1943-1955;</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="9db9cccb-c8d9-4c6b-a797-77ca448e85ee" type="box">2</container>  
+                        <container parent="9db9cccb-c8d9-4c6b-a797-77ca448e85ee" type="folder">20</container> 
+                        <unittitle>"Growing Up in a Bilingual Community" (Kiva, 1951),</unittitle>
+                        <unitdate>1951</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="0c63d95d-b5ca-4f9c-8cae-08f3309b720a" type="box">2</container>  
+                        <container parent="0c63d95d-b5ca-4f9c-8cae-08f3309b720a" type="folder">21</container> 
+                        <unittitle>Supplemental materials, prepared by Barker, for a "Ways of Justice" discussion program on international law,</unittitle>
+                        <unitdate>post 1950</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="067612c3-e5d3-40af-8d76-b5fecaf6eeb2" type="box">2</container> 
+                        <container parent="067612c3-e5d3-40af-8d76-b5fecaf6eeb2" type="folder">22</container> 
+                        <unittitle>"Notes on Some Conversations with Men of Mexican Descent in an Occupational Group",</unittitle>
+                        <unitdate>1950-1951</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="b11d25ca-1c10-41f5-b0f2-ee97fa7bca10" type="box">2</container> 
+                        <container parent="b11d25ca-1c10-41f5-b0f2-ee97fa7bca10" type="folder">23-25</container> 
+                        <unittitle>Papers on Yaqui and Pueblo adaptations of Spanish Catholic traditions, processions, and ceremony,</unittitle>
+                        <unitdate>1956-1958</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="c1f05cd5-9cfa-4a5a-862e-6cffdbea0ca0" type="box">2</container>  
+                        <container parent="c1f05cd5-9cfa-4a5a-862e-6cffdbea0ca0" type="folder">26</container> 
+                        <unittitle>“The Shepherds' Play of the Prodigal Son.” Folklore Studies 2 (1953). Publication,</unittitle>
+                        <unitdate>1953</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="70fb1de5-0bc5-47f5-940e-cbd6c7f7b6f1" type="box">2</container> 
+                        <container parent="70fb1de5-0bc5-47f5-940e-cbd6c7f7b6f1" type="folder">27</container> 
+                        <unittitle>Coloquio de pastores del hijo pródigo from Chapalá, Mexico. Handwritten transcription of folk drama, and related correspondence,</unittitle>
+                        <unitdate>1949</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="0b1b367b-6890-4be0-93e4-aaff4deadd43" type="box">2</container>  
+                        <container parent="0b1b367b-6890-4be0-93e4-aaff4deadd43" type="folder">28</container> 
+                        <unittitle>The Prodigal Son suggested treatment, unpublished,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+            </c01>    
+            <c01 level="series"> 
+                <did> 
+                    <unitid>Series IV</unitid>
+                    <unittitle>Field and Research Notes,</unittitle> 
+                    <unitdate type="inclusive">1940-1958</unitdate>
+                </did>
+                <scopecontent><p>Papers, minutes, field notes, M.A. and Ph.D. notes, and secondary research materials. Items are arranged by subject and thereunder chronologically.</p></scopecontent>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="c6c18939-292e-4785-99ee-1d268bfdf3f3" type="box">2</container> 
+                        <container parent="c6c18939-292e-4785-99ee-1d268bfdf3f3" type="folder">29-34</container>
+                        <unittitle>Field notes and secondary research,</unittitle>
+                        <unitdate>ca. 1940-1944</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="49abf505-b1b5-42d3-b86b-496bff516c37" type="box">2</container> 
+                        <container parent="49abf505-b1b5-42d3-b86b-496bff516c37" type="folder">35-36</container>
+                        <unittitle>Field notes for M.A. thesis: "Functions of the Ancestral Language among American Immigrants and Their Descendants",</unittitle>
+                        <unitdate>1943</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="d274215a-614e-4f3b-afcc-a8e0b6b1c400" type="box">2</container> 
+                        <container parent="d274215a-614e-4f3b-afcc-a8e0b6b1c400" type="folder">37-48</container>
+                        <unittitle>Field notes and secondary research, 1944-1947, primarily relating to field work in Tucson for his doctoral thesis: "Social Functions of Language in a
+                            Mexican-American Community",</unittitle>
+                        <unitdate>1947</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="5e316d09-d6b1-4f73-915f-70f6804d2c1c" type="box">3</container> 
+                        <container parent="5e316d09-d6b1-4f73-915f-70f6804d2c1c" type="folder">1-2</container>
+                        <unittitle>Notes, Spanish and Mexican folk drama,</unittitle>
+                        <unitdate>1948</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="22c6f2ac-f2fb-415d-a415-758a64c8c45d" type="box">3</container> 
+                        <container parent="22c6f2ac-f2fb-415d-a415-758a64c8c45d" type="folder">3-4</container>
+                        <unittitle>Field notes, including notes for <title>Pilgrimage to Mexico</title>,</unittitle>
+                        <unitdate>1948-1949</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="c47a4fcb-05a6-4e4b-9762-369c7ac9c59d" type="box">3</container> 
+                        <container parent="c47a4fcb-05a6-4e4b-9762-369c7ac9c59d" type="folder">5-17</container>
+                        <unittitle>Vocabulary notes, Pachuco border language,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="25f41ec6-3e34-4d96-8e79-c3c40de73192" type="box">3</container> 
+                        <container parent="25f41ec6-3e34-4d96-8e79-c3c40de73192" type="folder">18-19</container>
+                        <unittitle>Interviews and notes, for "Notes on Some Conversations with Men of Mexican Descent in an Occupational Group.",</unittitle>
+                        <unitdate>1950-1951</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="c311696d-d4c4-48c1-bf65-e957bf6c16c7" type="box">3</container> 
+                        <container parent="c311696d-d4c4-48c1-bf65-e957bf6c16c7" type="folder">20-27</container>
+                        <unittitle>Field and research notes, interviews, and follow-up studies, primarily for West Los Angeles Neighborhood Settlement Association work with gangs,</unittitle>
+                        <unitdate>1949-1953</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="6bfb7a1f-666d-4489-8f92-9343dcc25141" type="box">3</container> 
+                        <container parent="6bfb7a1f-666d-4489-8f92-9343dcc25141" type="folder">28-33</container>
+                        <unittitle>Field and secondary-research notes, on Catholic ritual processions and ceremonies, Yaqui Indian Holy Week ceremonies, and New Mexican Pueblo Indian 
+                            ceremonies,</unittitle>
+                        <unitdate>1953-1957</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="3565aa84-d7c9-4454-bc41-87b2a523d3b8" type="box">3</container> 
+                        <container parent="3565aa84-d7c9-4454-bc41-87b2a523d3b8" type="folder">34</container>
+                        <unittitle>Field notes, Pala Indians; miscellaneous,</unittitle>
+                        <unitdate>1957-1958</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="0da1df1e-5be1-4f96-b817-cb91845419b5" type="box">3</container> 
+                        <container parent="0da1df1e-5be1-4f96-b817-cb91845419b5" type="folder">35-38</container>
+                        <unittitle>Proposals, including proposals and other materials on semantics, bilingualism, school survey in Tucson, Pachuco language, and work with gangs in Los 
+                            Angeles,</unittitle>
+                        <unitdate>1939-1955</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="0e2c2d61-602a-4be8-a1fb-7edc64d57ce0" type="box">3</container> 
+                        <container parent="0e2c2d61-602a-4be8-a1fb-7edc64d57ce0" type="folder">39</container>
+                        <unittitle>Miscellaneous additions, working copies,</unittitle>
+                        <unitdate>1940s, 1953</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="d9c09676-25f5-4a23-8f04-dbe0815a7a94" type="box">3</container> 
+                        <container parent="d9c09676-25f5-4a23-8f04-dbe0815a7a94" type="folder">40-44</container>
+                        <unittitle>Miscellaneous materials, including foundation lists, bibliographies, research and field notes and notebooks covering the entire scope of Barker's 
+                            professional career, and material about his Pachuco language study and informants,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+            </c01>
+            <c01 level="series"> 
+                <did> 
+                    <unitid>Series V</unitid>
+                    <unittitle>Poems and Essays,</unittitle> 
+                    <unitdate type="inclusive">1927-1956</unitdate>
+                </did>
+                <scopecontent><p>Miscellaneous poetry and notes, and handwritten and typed copies of the essay "When I was a Child."</p></scopecontent>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="039f7e33-297e-4e47-b288-9f9acb53831f" type="box">3</container> 
+                        <container parent="039f7e33-297e-4e47-b288-9f9acb53831f" type="folder">45</container>
+                        <unittitle>Published ephemera (clippings), primarily poetry,</unittitle>
+                        <unitdate>1938-1950</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="d632814d-fda0-4e98-a950-530c752e95e0" type="box">3</container> 
+                        <container parent="d632814d-fda0-4e98-a950-530c752e95e0" type="folder">46</container>
+                        <unittitle>Essays and poems,</unittitle>
+                        <unitdate>1927-1956</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="04119603-269b-45b5-bb52-db525b416dc0" type="box">3</container> 
+                        <container parent="04119603-269b-45b5-bb52-db525b416dc0" type="folder">47</container>
+                        <unittitle><title>When I Was a Child</title> typescript,</unittitle>
+                        <unitdate>1939</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="fe466835-d163-42a4-89a4-99eb4f1d2e62" type="box">3</container> 
+                        <container parent="fe466835-d163-42a4-89a4-99eb4f1d2e62" type="folder">48</container>
+                        <unittitle><title>When I Was a Child</title>, holograph manuscript, and miscellaneous writing,</unittitle>
+                        <unitdate>May 25-31, 1939</unitdate>
+                    </did> 
+                </c02>
+            </c01>
+            <c01 level="series"> 
+                <did> 
+                    <unitid>Series VI</unitid>
+                    <unittitle>Visual and Audio Materials,</unittitle> 
+                    <unitdate type="inclusive">1940s-1950s</unitdate>
+                </did>
+                <scopecontent><p>There are 379 original color slides and 151 duplicates. Approximately 70 each of slides and duplicates are of Yaqui village scenes and Holy Week 
+                    processions at Hermosillo, Sonora, Mexico. The rest are travel slides of various countries, largely unidentified. The slides are arranged as follows: unlabeled 
+                    originals in metal mounts (220); cardboard-mounted duplicates (151), all marked "AV Services, U of A" (duplicates of the first 50 metal-mounted originals plus 1
+                    unidentified slide from the same series, and of 100 of the cardboard-mounted originals); 159 originals in cardboard mounts. </p>
+                    <p>Photographic materials consist of 8” x 10” black and white enlargements of Yaqui Indian ceremonies; 12 black and white postcards of Easter ceremonies at Pascua 
+                        village, Tucson, Arizona; of Yaqui leader Louis Hernandez; and of a cathedral in Guadalajara, Mexico; and several unidentified photos of various people and 
+                        locations. There are 11 4” x 5” negatives of photos corresponding to the 8” x 10” enlargements of Yaqui ceremonies, one set marked “Hermosillo.”</p>
+                    <p>Audio materials consist of interviews and examples of the Pachuco language used by Tucson area gangs in the 1940s. The recordings were initially made on two 7” 
+                        tape reels, one with a paper substrate. These original tapes were duplicated onto a 10" tape reel with background noise removed and an edited 7" working copy. 
+                        These tape reels have themselves been copied onto working cassettes, and housed in the Southwest Folklore Center cassette tape collection, SWF 009, with the call
+                        numbers 85.2/C.1 and 85.2/R.1. Due to the sensitive and personal nature of the material Barker recorded, names of persons and other identifying information have 
+                        been deleted from the working copy. The duplicate reels and the fragile, paper tape original are stored with the other original materials in the collection. 
+                        (Note: the tapes open with classical piano music, followed by informal interactions and then the Pachuco interviews.)</p>
+                    <p>Items are arranged by type of material.</p></scopecontent>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="d60e3a4f-15ba-4a45-9f3d-b7f950c0b5a9" type="box">4</container> 
+                        <container parent="d60e3a4f-15ba-4a45-9f3d-b7f950c0b5a9" type="folder">1</container>
+                        <unittitle>Suggested 20-minute presentation of the visual materials for “The Yaqui Easter Ceremony at Hermosillo;” undated rough index of slides 
+                            (does not correspond to accessioned order or total number of originals, but contains identifying commentary),</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="ab9261bf-6757-4a7a-a738-9210fccb4dbc" type="box">4</container> 
+                        <container parent="ab9261bf-6757-4a7a-a738-9210fccb4dbc" type="folder">2</container>
+                        <unittitle>Slides, originals, in metal mounts,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="7e77d732-f3e9-4600-a8f8-8b954803579f" type="box">4</container> 
+                        <container parent="7e77d732-f3e9-4600-a8f8-8b954803579f" type="folder">3</container>
+                        <unittitle>Slides, copies; followed by original slides in cardboard mounts,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="275af485-5122-4837-99b1-c0964e0d36f4" type="box">5</container> 
+                        <container parent="275af485-5122-4837-99b1-c0964e0d36f4" type="folder">1</container>
+                        <unittitle>Photographs and postcards,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="ba884965-18a8-425e-a988-80635e1c4cac" type="box">5</container> 
+                        <container parent="ba884965-18a8-425e-a988-80635e1c4cac" type="folder">2</container>
+                        <unittitle>Negatives,</unittitle>
+                        <unitdate>undated</unitdate>
+                        <abstract>The following boxes contain the original documents copied to make up the working collection described above. Material in the following boxes may only 
+                            be used with the permission of the coordinator of the Southwest Folklore Center or the University of Arizona manuscripts librarian. The material is described
+                            in detail above.</abstract>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did>
+                        <container id="f8d0dc4d-bdf2-4541-b21c-1012ca84fa42" type="box">6</container> 
+                        <container parent="f8d0dc4d-bdf2-4541-b21c-1012ca84fa42" type="folder">1-7</container>
+                        <unittitle>Background research notes,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did>
+                        <container id="3b5ff87a-51f2-4e65-b943-0f16db5e6770" type="box">6</container> 
+                        <container parent="3b5ff87a-51f2-4e65-b943-0f16db5e6770" type="folder">8-9</container>
+                        <unittitle>Monographs,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did>
+                        <container id="833410dd-125a-4e6b-b7de-a7095b62cd49" type="box">6</container> 
+                        <container parent="833410dd-125a-4e6b-b7de-a7095b62cd49" type="folder">10-11</container>
+                        <unittitle>Announcements, fliers, miscellaneous,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did>
+                        <container id="bf2953c7-d121-40d9-8a5e-a58ffdba8fc4" type="box">6</container> 
+                        <container parent="bf2953c7-d121-40d9-8a5e-a58ffdba8fc4" type="folder">12</container>
+                        <unittitle>Correspondence,</unittitle>
+                        <unitdate>1931, 1940-1958</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did>
+                        <container id="42079a7a-73f5-41a5-b70d-19608db4094e" type="box">6</container> 
+                        <container parent="42079a7a-73f5-41a5-b70d-19608db4094e" type="folder">13-16</container>
+                        <unittitle>Published and unpublished articles, papers, and reviews,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="3bde5d41-f22b-4144-b589-eae59612cbe4" type="box">7</container> 
+                        <container parent="3bde5d41-f22b-4144-b589-eae59612cbe4" type="folder">1-14</container>
+                        <unittitle>Published and unpublished articles, papers, and reviews (continued),</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="b849926e-a5ba-417c-a91f-6c0479f68eff" type="box">7</container> 
+                        <container parent="b849926e-a5ba-417c-a91f-6c0479f68eff" type="folder">15</container>
+                        <unittitle>Folk drama,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="cfd5fd98-f152-4796-bb5f-076fe0d38038" type="box">7</container> 
+                        <container parent="cfd5fd98-f152-4796-bb5f-076fe0d38038" type="folder">16-20</container>
+                        <unittitle>Field and research notes,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="fcd35796-42f7-4331-9a94-1c79962db102" type="box">8</container> 
+                        <container parent="fcd35796-42f7-4331-9a94-1c79962db102" type="folder">1-16</container>
+                        <unittitle>Field and research notes (continued),</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="e737295d-c1db-44e2-9202-1633a3d71b88" type="box">8</container> 
+                        <container parent="e737295d-c1db-44e2-9202-1633a3d71b88" type="folder">17</container>
+                        <unittitle>Poems and personal writings (published ephemera),</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="28374f7f-c931-4549-ae0c-7bc49b7a4112" type="box">8</container> 
+                        <container parent="28374f7f-c931-4549-ae0c-7bc49b7a4112" type="folder">18</container>
+                        <unittitle>Original tape reel (paper substrate; fragile),</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>
+                <c02 level="file"> 
+                    <did> 
+                        <container id="aa777bef-0980-4064-b43b-5f54b1341270" type="box">8</container> 
+                        <container parent="aa777bef-0980-4064-b43b-5f54b1341270" type="folder">19</container>
+                        <unittitle>Tape reel “master”,</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02>     
+                <c02 level="file"> 
+                    <did> 
+                        <container id="72c2936d-0853-4ab9-a911-a6a0a9a17c83" type="box">9</container> 
+                        <unittitle>Duplicated tape reels,</unittitle>
+                        <unitdate>undated</unitdate>
+                        <abstract>Duplicated tape reels of the materials in box 8, folders 18-19: a 10" restricted-use duplicate tape reel with background noise removed and a working 
+                            7" reel with names deleted; master cassette copies of the reels.</abstract>
+                    </did> 
+                </c02>
+            </c01>
+        </dsc> 
+    </archdesc>
+</ead>
