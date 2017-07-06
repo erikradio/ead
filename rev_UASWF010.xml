@@ -1,0 +1,992 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead relatedencoding="MARC21" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"> 
+    <eadheader audience="internal" findaidstatus="complete" langencoding="iso639-2b"> 
+        <eadid>UASWF010</eadid> 
+        <filedesc> 
+            <titlestmt> 
+                <titleproper encodinganalog="title">Southwest Folklore Center Video Recordings Collection
+                    <date calendar="gregorian" certainty="approximate" era="ce" normal="1977/2017" type="inclusive">1977-ongoing</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing"> Southwest Folklore Center Video Recording Collection
+                </titleproper>
+                <author>Processed by Kim Frontz (1995) and Scott B. Denlinger (1997).</author> 
+            </titlestmt> 
+            <publicationstmt> 
+                <publisher>University of Arizona Libraries, Special Collections</publisher> 
+                <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+                <date calendar="gregorian" era="ce" normal="2017">2017</date> 
+                <p>Arizona Board of Regents. All Rights Reserved.</p> 
+            </publicationstmt> 
+        </filedesc> 
+        <profiledesc> 
+            <creation>Inventory encoded in Oxygen XML editor by Michelle Nicole Boyer-Kelly
+                <date encodinganalog="date" era="ce" normal="20170627">June 27, 2017</date> </creation>
+            <langusage>Finding aid encoded in<language langcode="eng"> English</language></langusage>
+            <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+        </profiledesc> 
+    <revisiondesc><change><date normal="2017-07-06">2017-07-06</date><item>This finding aid was updated in alignment with LC EAD 2.0 specifications using a python script created by Erik Radio.</item></change></revisiondesc></eadheader> 
+    <archdesc encodinganalog="351$c" level="collection" type="inventory"> 
+        <did> 
+            <head>Collection Summary</head> 
+            <unittitle encodinganalog="245" label="Collection Name"> Southwest Folklore Center Video Recordings Collection,
+                <unitdate label="Dates" normal="1977/2017" type="inclusive">1977-ongoing</unitdate>
+            </unittitle> 
+            <unitid countrycode="US" encodinganalog="099" label="Collection Number" repositorycode="US-azu">SWF 010</unitid>
+            <origination label="Creator"> 
+                <corpname encodinganalog="110" source="lcnaf">Southwest Folklore Center</corpname> </origination>
+            <abstract label="Abstract">Videorecordings produced and recorded locally by various collectors, depicting Native American poetry readings, dance, music and storytelling 
+                performances, chiefly in Tucson and southern Arizona; Mexican-American music; Ukranian folk art; oral histories of Tucson residents; and interviews with cowboy poets, 
+                singers, and storytellers. 75 videocassettes.</abstract> 
+            <physdesc encodinganalog="300$a" label="Physical Description"><extent>7 linear feet</extent></physdesc>	 
+            <repository label="Repository"> 
+                <corpname>University of Arizona Libraries, Special Collections</corpname> 
+                <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+            </repository>
+            <langmaterial>Materials are in <language encodinganalog="546" langcode="eng">English,</language> 
+                <language encodinganalog="546" langcode="spa" scriptcode="Latn">Spanish,</language> Yaqui, and Tohono o'Odham.
+            </langmaterial>
+        </did> 
+        <accessrestrict> 
+            <head>Restrictions</head> 
+            <p>There are no restrictions on this collection.</p> 
+        </accessrestrict> 
+        <userestrict> 
+            <head>Copyright</head> 
+            <p>It is the responsibility of the user to obtain permission to publish
+                from the owner of the copyright (the institution, the creator of the record,
+                the author or his/her transferees, heirs, legates, or literary executors). The
+                user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+                University of Arizona, its officers, employees, and agents from and against all
+                claims made by any person asserting that he or she is an owner of
+                copyright.
+            </p> 
+        </userestrict> 
+        <prefercite> 
+            <head>Credit Line</head> 
+            <p>Southwest Folklore Center Video Recordings Collection (SWF 010). Special Collections, University of Arizona Libraries.</p>
+        </prefercite> 
+        <processinfo>
+            <head>Processing History</head>
+            <p>Processed by Kim Frontz (1995) and Scott B. Denglinger (1997).</p>
+        </processinfo>
+        <bioghist encodinganalog="545"> 
+            <head>Historical Note</head> 
+            <p>The Southwest Folklore Center was founded in 1979 upon the dissolution of the University of Arizona Folklore Committee. Since then it has served as an archive for 
+                folklore material. Its activities include actively researching and collecting information about Arizona's folk communities, generating outreach programs, and 
+                coordinating folk activities throughout the state.</p> 
+        </bioghist> 
+        <arrangement encodinganalog="351$a"> 
+            <head>Arrangement</head> 
+            <p>This collection is organized into three series.</p>	 
+            <list>
+                <item>Series I: General Folklore Materials,
+                    <unitdate>1977-1994</unitdate></item>
+                <item>Series II: Barrio Historico Interviews,
+                    <unitdate>1990</unitdate></item>
+                <item>Series III: Arco Iris Association Productions,
+                    <unitdate>1989-1992</unitdate></item>
+            </list>
+        </arrangement> 
+        <scopecontent encodinganalog="520"> 
+            <head>Scope and Content Note</head> 
+            <p>These videos document a range of folkways, chiefly of the Sonoran region. General folklore materials include interviews with Alexandra Romanenko, creator of Ukranian 
+                Easter eggs; Stefan Tkachyk, Ukranian wood-carver; and cowboy singers, poets, and storytellers. A tribute in honor of Lalo Guerrero includes performances by several 
+                celebrities of music, movies, and television. Other materials include a performance by the Gu-Achi Fiddlers and a presentation by the Richey Elementary School children 
+                in cooperation with the San Ignacio Yaqui Council.
+            </p> 
+            <p>Arco Iris Association materials consist of productions of arts programming that reflect ethnic diversity and intergenerational interaction. These include four years of 
+                the annual Evening of Native American Expressions productions. The programs consist of performances by professional and student artists, including N. Scott Momaday, Joy 
+                Harjo, Chesley Wilson, Mary Redhouse Howard, and Doreen Seton. Also present is master footage of the 1990 Waila Festival with music, food, artists, and traditional 
+                dances of the Tohono O'odham. Other productions include various storytelling workshops for children.  
+            </p>
+            <p>The Barrio Historico (Tucson, Arizona) interviews were created during 1990 by Kathryn Wilde, a resident of the barrio. She videotaped interviews with eighteen people who 
+                lived in the Barrio Historico area between 1910 and 1990; however, the recollections chiefly concern the 1930s and 1940s. Residents reminisce about the neigborhood, 
+                their way of life, school experiences, celebrations, and more. The interviews with Irene Brown, Lalo Guerrero, Arturo Carrillo Strong, Henry Oyama, and Henry Garcia are 
+                especially informative. 
+            </p>
+        </scopecontent> 
+        <controlaccess>
+            <subject>Yaqui Indians -- Arizona -- Folklore.</subject><subject>Yaqui poetry -- Arizona.</subject><subject>Tohono O'Odham Indians -- Music.</subject><subject>American literature -- Indian authors.</subject><subject>Mexican Americans -- Music.</subject><subject>Cowboys -- Arizona.</subject><subject>Cowboys' writings, American.</subject><subject>Indians of North America.</subject><subject>Tucson (Ariz.) -- Social life and customs.</subject><subject>Mexican Americans -- Arizona -- Tucson -- Social life and customs.</subject><subject>Easter eggs -- Ukraine.</subject><geogname>Tucson (Ariz.).</geogname><geogname>Richey Elementary School -- Tucson (Ariz.).</geogname><geogname>Barrio  Historicio -- Tucson (Ariz.).</geogname></controlaccess>
+        
+        <dsc type="combined"> 
+            <head>Container List</head> 
+            <c01 level="series"> 
+                <did> 
+                    <unitid>Series I:</unitid>
+                    <unittitle>General Folkore Materials,</unittitle> 
+                    <unitdate type="inclusive">1977-1994</unitdate>
+                </did>
+                <scopecontent><p>Includes videos of student performances of Yaqui poetry and dance, performances by Tohono O'odham fiddlers, Mexican-American music by celebrities in a 
+                    tribute to Lalo Guerrero; and interviews with Ukranian folk artists and cowboy singers, poets, and storytellers. Materials are organized chronologically by date of
+                    performance. Series includes 31 videocassettes, 1/2 inch and 3/4 inch VHS formats.</p></scopecontent>
+                <c02 level="subseries">
+                    <did> 
+                        <unitid>Subseries 1</unitid>
+                        <unittitle>Van Holyoak, Holyoak ranch scenes,</unittitle> 
+                        <unitdate type="inclusive">March 17-20, 1977</unitdate>
+                    </did> 
+                    <scopecontent><p>Video recordings of Van Holyoak working at his ranch in Clay Springs, Ariz. V.1 is a 15 minute show that appeared on television as part of the 
+                        Folio show with host Dick Gallagher; created from material on V.2 through V.13. V.2 through V.13 contain footage of various aspects of ranch life including 
+                        riding horseback, cooking over a campfire, rounding up and branding cattle, and repairing a windmill. V.2 includes a brief interview by Jim Griffith concerning 
+                        settlement of the Clay Springs area and the development of Holyoak's songs and singing. VHS format. Collected by James S. Griffith. Clay Springs, Ariz. 13 
+                        videocassettes (ca. 260 min.) : sd., col. ; 3/4 in.</p></scopecontent> 
+                <c03 level="file"> 
+                    <did> 
+                        <container id="873c6b87-d268-4c88-bb02-29a4b9ef5740" type="box">77.1</container> 
+                        <container parent="873c6b87-d268-4c88-bb02-29a4b9ef5740" type="folder">V1</container> 
+                        <unittitle>Videotape of 15 min. profile of Van Holyoak shown on Folio television show,</unittitle>
+                        <unitdate>March 17-20, 1977</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="a05e7aa3-c797-4ee6-ba0a-1544523b42ae" type="box">77.1</container> 
+                        <container parent="a05e7aa3-c797-4ee6-ba0a-1544523b42ae" type="folder">V2</container> 
+                        <unittitle>Footage of Van on horseback with interview by Jim Griffith about history of settlement of Clay Springs, Ariz. and development of Holyoak's songs,</unittitle>
+                        <unitdate>March 17-20, 1977</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="ce8dd478-ee9f-44c9-b11a-554403e22419" type="box">77.1</container> 
+                        <container parent="ce8dd478-ee9f-44c9-b11a-554403e22419" type="folder">V3</container> 
+                        <unittitle>Ranch scenes,</unittitle>
+                        <unitdate>March 17-20, 1977</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="cbcaacaf-f0a7-4ee4-bef1-fd11b3bdbe7c" type="box">77.1</container> 
+                        <container parent="cbcaacaf-f0a7-4ee4-bef1-fd11b3bdbe7c" type="folder">V4</container> 
+                        <unittitle>Ranch scenes,</unittitle>
+                        <unitdate>March 17-20, 1977</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="f62d13a6-3dcf-4656-a76a-830f61e9a8a8" type="box">77.1</container> 
+                        <container parent="f62d13a6-3dcf-4656-a76a-830f61e9a8a8" type="folder">V5</container> 
+                        <unittitle>Ranch scenes,</unittitle>
+                        <unitdate>March 17-20, 1977</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="2899ca1a-670f-4111-8464-edbae8d1c8b1" type="box">77.1</container> 
+                        <container parent="2899ca1a-670f-4111-8464-edbae8d1c8b1" type="folder">V6</container> 
+                        <unittitle>Ranch scenes,</unittitle>
+                        <unitdate>March 17-20, 1977</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="01196616-e0db-4729-8dc8-51303ebd94fd" type="box">77.1</container> 
+                        <container parent="01196616-e0db-4729-8dc8-51303ebd94fd" type="folder">V7</container> 
+                        <unittitle>Cattle roundup and calf branding scenes,</unittitle>
+                        <unitdate>March 17-20, 1977</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="30e8bccc-9a6b-4631-9a52-55e70d15b526" type="box">77.1</container> 
+                        <container parent="30e8bccc-9a6b-4631-9a52-55e70d15b526" type="folder">V8</container> 
+                        <unittitle>Cattle roundup and calf branding scenes,</unittitle>
+                        <unitdate>March 17-20, 1977</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="cdba8981-4d35-411d-99ae-8e63cf45f438" type="box">77.1</container> 
+                        <container parent="cdba8981-4d35-411d-99ae-8e63cf45f438" type="folder">V9</container> 
+                        <unittitle>Scenes of Clay Springs, Ariz. and Van sings while driving his truck,</unittitle>
+                        <unitdate>March 17-20, 1977</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="127aa419-9b80-4279-8346-1e5ce79819ae" type="box">77.1</container> 
+                        <container parent="127aa419-9b80-4279-8346-1e5ce79819ae" type="folder">V10</container> 
+                        <unittitle>Scenes of Clay Springs, Ariz. and Van sings while driving his truck,</unittitle>
+                        <unitdate>March 17-20, 1977</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="e1429bb4-9500-43dd-a7b3-950be6561c6f" type="box">77.1</container> 
+                        <container parent="e1429bb4-9500-43dd-a7b3-950be6561c6f" type="folder">V11</container> 
+                        <unittitle>Ranch scenes,</unittitle>
+                        <unitdate>March 17-20, 1977</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="99026f0b-b13e-4efe-8c2b-81d0665df909" type="box">77.1</container> 
+                        <container parent="99026f0b-b13e-4efe-8c2b-81d0665df909" type="folder">V12</container> 
+                        <unittitle>Ranch scenes,</unittitle>
+                        <unitdate>March 17-20, 1977</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="8a7096ba-5b9e-4f39-bcdc-c735b644213b" type="box">77.1</container> 
+                        <container parent="8a7096ba-5b9e-4f39-bcdc-c735b644213b" type="folder">V13</container> 
+                        <unittitle>Ranch scenes,</unittitle>
+                        <unitdate>March 17-20, 1977</unitdate>
+                    </did> 
+                </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did> 
+                        <unitid>Subseries 2</unitid>
+                        <unittitle>Gardner, Gail, George B. German, Glenn Ohrlin, and Van Holyoak, Cowboy singers and songwriters interviews,</unittitle> 
+                        <unitdate type="inclusive">April 21, 1979</unitdate>
+                    </did> 
+                    <scopecontent><p>Video recordings of informal interviews with cowboy poets, singers, and songwriters discussing their musical beginnings, singing songs, and telling 
+                        stories. V.1 includes Gardner singing his well-known song "The Sierry Petes" and describing Prescott, Ariz. at the turn of the century. George German talks about
+                        gathering songs, rancher and songwriter Romaine Loudermilk, and sings "The Big Corral". Glenn Ohrlin sings Loudermilk's song "Crossover Lee's Ferry." V.2 contains
+                        Griffith's interview with George German, who also sings "Riding Old Paint", and with Ohrlin who sings various songs. V.3 and V.4 are different views of V.1 and 
+                        V.2. Ohrlin visits with Holyoak about cattle ranching and storytelling on V.5. An edited, dubbed version with introductory material by Jim Griffith is on V.6. 
+                        Gail Gardner, cowboy poet, George German, western radio singer, Glenn Orhlin, cowboy singer, and Van Holyoak, cowboy storyteller and poet; interviewed by Jim 
+                        Griffith, folklorist, at his home prior to a public performance. VHS format. Tucson, Ariz. 6 videocassettes (ca. 200 min.) : sd., col. ; 3/4 in.
+                    </p></scopecontent> 
+                <c03 level="file"> 
+                    <did> 
+                        <container id="00f994d5-4e5e-4c85-9f3e-60c1b33250be" type="box">79.1</container> 
+                        <container parent="00f994d5-4e5e-4c85-9f3e-60c1b33250be" type="folder">V1</container> 
+                        <unittitle>Interview by Jim Griffith of Gail Gardner; sings and relates story behind writing the song "Sierry Petes". Interview with George B. German about 
+                            gathering cowboy songs. He sings "The Big Corral". Glenn Ohrlin sings "Crossover Lee's Ferry",</unittitle>
+                        <unitdate>April 21, 1979</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="ad56d230-b968-4ccc-8f91-8061740d8d11" type="box">79.1</container> 
+                        <container parent="ad56d230-b968-4ccc-8f91-8061740d8d11" type="folder">V2</container> 
+                        <unittitle>More interview of George German by Jim Griffith. German sings "Riding Old Paint". Glenn Ohrlin sings various songs and talks about his musical 
+                            background,</unittitle>
+                        <unitdate>April 21, 1979</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="cd35cc9b-25c7-4f92-af64-1cd66d162d27" type="box">79.1</container> 
+                        <container parent="cd35cc9b-25c7-4f92-af64-1cd66d162d27" type="folder">V3</container> 
+                        <unittitle>Another view of V.1 and V.2,</unittitle>
+                        <unitdate>April 21, 1979</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="1c588695-2f0f-405f-8b52-d8001c6a2006" type="box">79.1</container> 
+                        <container parent="1c588695-2f0f-405f-8b52-d8001c6a2006" type="folder">V4</container> 
+                        <unittitle>Another view of V.1 and V.2,</unittitle>
+                        <unitdate>1977-1994</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="0aa70469-26ed-484c-9ceb-ffb5a63fb6b8" type="box">79.1</container> 
+                        <container parent="0aa70469-26ed-484c-9ceb-ffb5a63fb6b8" type="folder">V5</container> 
+                        <unittitle>Glenn Ohrlin visits with Van Holyoak about cattle ranching and storytelling. Holyoak tells stories,</unittitle>
+                        <unitdate>April 21, 1979</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="539a697a-58e7-48b8-af8e-976d5eda7336" type="box">79.1</container> 
+                        <container parent="539a697a-58e7-48b8-af8e-976d5eda7336" type="folder">V6</container> 
+                        <unittitle>Edited, dubbed version with introduction by Jim Griffith,</unittitle>
+                        <unitdate>April 21, 1979</unitdate>
+                    </did> 
+                </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did> 
+                        <unitid>Subseries 3</unitid>
+                        <unittitle>Alexandra Romanenko, Ukranian pysanky interviews,</unittitle> 
+                        <unitdate type="inclusive">April 28-May 25, 1982</unitdate>
+                    </did> 
+                    <scopecontent><p>Romanenko explains and demonstrates the making of Ukranian Easter eggs, or pysanky. In V.1 she describes how colors, symbols, and design combine to 
+                        create the meaning of each egg. Many examples are displayed. V.2 and V.3 contain Romanenko's experiences in the Ukraine during World War I and World War II, and 
+                        she demonstrates and explains how to create pysanky. V. 4 is an edited, dubbed version of V.1 through V.3 created by Jim Griffith, Southwest Folklore Center.
+                        Alexandra Romanenko; interviewed by Jim Griffith. VHS format. Tucson, Ariz. 4 videocassettes (80 min.) : sd., col. ; 3/4 in.
+                    </p></scopecontent>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="956d00ad-c894-4066-b0d9-2b003bd9d2a0" type="box">83.3</container> 
+                        <container parent="956d00ad-c894-4066-b0d9-2b003bd9d2a0" type="folder">V1</container> 
+                        <unittitle>Interview of Romanenko by Jim Griffith. She talks about use of colors, symbols, and design in combination to create meaning 
+                            of each Ukranian Easter egg,</unittitle>
+                        <unitdate>April 28-May 25, 1982</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="9348c2b7-e7c0-4883-9473-19a02fd60d28" type="box">83.3</container> 
+                        <container parent="9348c2b7-e7c0-4883-9473-19a02fd60d28" type="folder">V2</container> 
+                        <unittitle>She talks about her experiences in the Ukraine during World War I and II while demonstrating how to create eggs,</unittitle>
+                        <unitdate>April 28-May 25, 1982</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="f5e05e49-d504-48f2-935e-86033646d293" type="box">83.3</container> 
+                        <container parent="f5e05e49-d504-48f2-935e-86033646d293" type="folder">V3</container> 
+                        <unittitle>She talks about her experiences in the Ukraine during World War I and II while demonstrating how to create eggs,</unittitle>
+                        <unitdate>April 28-May 25, 1982</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="45006025-014e-4362-82bc-bb688dcae3fb" type="box">83.3</container> 
+                        <container parent="45006025-014e-4362-82bc-bb688dcae3fb" type="folder">V4</container> 
+                        <unittitle>Edited, dubbed version narrated by Jim Griffith,</unittitle>
+                        <unitdate>April 28-May 25, 1982</unitdate>
+                    </did> 
+                </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did> 
+                        <unitid>Subseries 4</unitid>
+                        <unittitle>Stefan Tkachyk, Ukranian wood carving interview,</unittitle> 
+                        <unitdate type="inclusive">1984</unitdate>
+                    </did> 
+                    <scopecontent><p>Tkachyk first learned his wood-carving skills while a U.S. prisoner of war in World War II. He explains and demonstrates Ukranian wood-carving, 
+                        including the uses of different tools, and wood staining and beading. V.2 is an edited version of V.1 created by Jim Griffith for the Southwest Folklore Center.
+                        Stefan Tkachyk, wood-carver; interviewed by Jim Griffith. VHS format. Tucson, Ariz. 2 videocassettes (30 min.) : sd., col. ; 3/4 in.
+                    </p></scopecontent>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="23c1ea6b-f603-4533-87f8-0b5a7e47e4fd" type="box">84.1</container> 
+                        <container parent="23c1ea6b-f603-4533-87f8-0b5a7e47e4fd" type="folder">V1</container> 
+                        <unittitle>Explains and demonstrates Ukranian wood-carving,</unittitle>
+                        <unitdate>1984</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="4576ee58-354f-4a1d-bb9c-28d59b2f1d15" type="box">84.1</container> 
+                        <container parent="4576ee58-354f-4a1d-bb9c-28d59b2f1d15" type="folder">V2</container> 
+                        <unittitle>Edited version, narrated by Jim Griffith,</unittitle>
+                        <unitdate>1984</unitdate>
+                    </did> 
+                </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did> 
+                        <unitid>Subseries 5</unitid>
+                        <unittitle>Project Choki,</unittitle> 
+                        <unitdate type="inclusive">1987-1988</unitdate>
+                    </did> 
+                    <scopecontent><p>Bwia Toli performance preparations, 1987 Oct. 28. Students rehearse program of two plays representing Yaqui folklore, learn about Yaqui culture, and 
+                        make masks and other materials for their performance. Videos of the resulting performances in this series are at SWF 90.9/V.2 and SWF 90.9/V.3. Project Choki was 
+                        funded by an Arizona Humanities Council grant to teach students about Yaqui culture. Richey School students and teachers. VHS format. Tucson, Ariz., 1987. 1 
+                        videocassette (ca. 90 min.) : sd., col. ; 1/2 in.
+                    </p>
+                        <p>Christmas performance - Bwia Toli, 1987 Dec.. Christmas holiday program at Richey School. Includes Christmas songs and Project Choki program of two plays 
+                            representing Yaqui folklore, Bwia Toli and U Kuvahe, and poetry by the students. Also includes discussion among teachers, parents, and contributors to the 
+                            project following the show. Project Choki was funded by an Arizona Humanities Council grant to teach students about Yaqui culture. The Project Choki segment 
+                            was later presented to the San Ignacio Yaqui Council; related film at SWF 90.9/V.3. Richey Elementary School students and teachers. Collected by Christine 
+                            Bixler. VHS format. Tucson, Ariz., 1987. 1 videocassette (ca. 120 min.) : sd., col. ; 1/2 in.
+                        </p>
+                        <p>Bwia Toli: An evening of Yaqui folklore, 1988 Jan. 20. For the San Ignacio Yaqui Council, the students perform two plays, Bwia Toli and U Kuvahe, and read 
+                            poetry created through Project Choki. The project was funded by an Arizona Humanities Council grant to teach students about Yaqui culture. Yaqui deer dancers 
+                            also perform. Related films at SWF 90.9/V.1 and SWF 90.9/V.2. Charlie Delgado, producer, and Richey Elementary Students, performers. VHS format. 
+                            Tucson, Ariz., 1988. 1 videocassette (ca. 90 min.) : sd., col. ; 1/2 in.
+                        </p></scopecontent>
+               <c03 level="file"> 
+                    <did> 
+                        <container id="d4f58dcb-7ffe-43c6-ae05-0a627f7ef058" type="box">90.9</container> 
+                        <container parent="d4f58dcb-7ffe-43c6-ae05-0a627f7ef058" type="folder">V1</container> 
+                        <unittitle>Rehearsal for program by Richey Elementary School children,</unittitle>
+                        <unitdate>October 28, 1987</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="c188af09-d67f-4f86-bfd8-a6ad56c61ac9" type="box">90.9</container> 
+                        <container parent="c188af09-d67f-4f86-bfd8-a6ad56c61ac9" type="folder">V2</container> 
+                        <unittitle>Christmas performance of program includes holiday songs, Yaqui poetry by students, and two plays from Yaqui folklore, Bwia 
+                            Toli and U Kuvahe,</unittitle>
+                        <unitdate>December 1987</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="0b15f95b-a32b-45e8-81a5-35451a111341" type="box">90.9</container> 
+                        <container parent="0b15f95b-a32b-45e8-81a5-35451a111341" type="folder">V3</container> 
+                        <unittitle>Students perform the two plays and read their poetry for the San Ignacio Yaqui Council,</unittitle>
+                        <unitdate>January 20, 1988</unitdate>
+                    </did> 
+                </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did> 
+                        <unitid>Subseries 6</unitid>
+                        <unittitle>Lalo Guerrero, Tribute to Lalo and Amigos,</unittitle> 
+                        <unitdate type="inclusive">October 11, 1992</unitdate>
+                    </did> 
+                    <scopecontent><p>Gala tribute to Lalo Guerrero and his band, Amigos with many well-known performers.Singers, musicians, comedians, actors, and actresses perform 
+                        including Paul Rodriguez and Linda Ronstadt. Palm Springs, Calif., 1992. 2 videocassettes (ca. 180 min.) : sd., col. ; 1/2 in. Some tracking problems noted.
+                    Collected by Lalo Guerrrero.</p></scopecontent> 
+                <c03 level="file"> 
+                    <did> 
+                        <container id="525cc5ff-8a72-48cc-b96d-c5ec5e687664" type="box">92.23</container> 
+                        <container parent="525cc5ff-8a72-48cc-b96d-c5ec5e687664" type="folder">V1</container> 
+                        <unittitle>Gala tribute to Guerrero and his band, Amigos performed by celebrities from music, movies, and television including Linda Ronstadt 
+                            and Paul Rodriguez,</unittitle>
+                        <unitdate>October 11, 1992</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="7ec5ebe2-c00c-48c5-8a77-494a0d3abb87" type="box">92.23</container> 
+                        <container parent="7ec5ebe2-c00c-48c5-8a77-494a0d3abb87" type="folder">V2</container> 
+                        <unittitle>Gala tribute to Guerrero and his band, Amigos performed by celebrities from music, movies, and television including Linda Ronstadt 
+                            and Paul Rodriguez,</unittitle>
+                        <unitdate>October 11, 1992</unitdate>
+                    </did> 
+                </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did> 
+                        <unitid>Subseries 7</unitid>
+                        <unittitle>Gu-Achi Fiddlers, 1990 Festival of American Fiddle Tunes,</unittitle> 
+                        <unitdate type="inclusive">1990</unitdate>
+                    </did> 
+                    <scopecontent><p>On-stage performance at American Fiddle Tunes Festival. Gu-Achi Fiddlers, Tohono O'odham band. Collected by Glenn Michael Alessi. VHS format.
+                        1 videocassette (ca. 60 min.) : sd., col. ; 1/2 in.</p></scopecontent>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="4657af19-515b-48d0-8907-9a1352c0c9d2" type="box">94.7</container> 
+                        <container parent="4657af19-515b-48d0-8907-9a1352c0c9d2" type="folder">V1</container> 
+                        <unittitle>Tohono O'Odham musicians in an on-stage performance at American Fiddle Tunes Festival,</unittitle>
+                        <unitdate>1990</unitdate>
+                    </did> 
+                </c03>
+                </c02>
+            </c01>
+        <c01 level="series"> 
+                <did> 
+                    <unitid>Series II</unitid>
+                    <unittitle>Barrio Historico Interviews,</unittitle> 
+                    <unitdate type="inclusive">1990</unitdate>
+                </did>
+                <scopecontent><p>Interviews with residents who lived in Barrio Historico between 1910 and 1990. Their reminiscences chiefly concern the 1930s and 1940s in Tucson. Some 
+                    interviews are in Spanish. Series is arranged chronologically by date of interview. Includes 18 videocassettes in 1/2 inch VHS format.</p></scopecontent>
+            <c02 level="subseries">
+                <did> 
+                    <unitid>Subseries 1</unitid>
+                    <unittitle>A Walk through Barrio Historico,</unittitle> 
+                    <unitdate type="inclusive">1990-1991</unitdate>
+                </did> 
+                <scopecontent><p>V1. Two separate oral history interviews concerning recollections of barrio life, 1920s to present. Angela was interviewed June 4th; Carlos, on June 15th. 
+                    Both interviews are in Spanish; handwritten translations are available. Carlos and Angela Montoya, husband and wife; interviewed by Kathryn Wilde. Collected by Kathryn Wilde.
+                    VHS format. Tucson, Ariz. 1 videocassette (ca. 90 min.) : sd., col. : 1/2 in. </p>
+                <p>V2. Oral history interview concerning recollections of barrio life, 1915 to present. Richard Camacho; interviewed by Kathryn Wilde. VHS format.
+                        Tucson, Ariz. 1 videocassette (ca. 60 min.) : sd., col. ; 1/2 in. </p>
+                    <p> V3. Oral history interview concerning recollections of barrio life, ca. 1910 to present. Interview with Trejo is in Spanish. Carmen Trejo and daughter, Mary Estrada; 
+                        interviewed by Kathryn Wilde. VHS format. Tucson, Ariz. 1 videocassette (ca. 45 min.) : sd., col. ; 1/2 in.</p>
+                    <p>V4. Oral history interview concerning recollections of barrio life from 1968 to present, including schools, neighbors, and lifestyle. Suey Gee; interviewed by 
+                        Kathryn Wilde. VHS format. Tucson, Ariz. 1 videocassette (ca. 20 min.) : sd., col. : 1/2 in. </p>
+                    <p>V5. Oral history interview concerning recollections of barrio life 
+                        and changes in the barrio in the 1980s. Jose Valenzuela, manager of La Providencia, a store located in the barrio; interviewed by Kathryn Wilde. VHS format.
+                        Tucson, Ariz. 1 videocassette (ca. 30 min.) : sd., col. : 1/2 in. V6. </p>
+                    <p>V6. Oral history interview concerning recollections of barrio life, 1923 to 1990, including neighbors and lifestyles. Arnulfo Trejo; interviewed by Kathryn Wilde.
+                        VHS format. Tucson, Ariz. 1 videocassette (39 min.) : sd., col. ; 1/2 in.</p>
+                    <p>V7. Oral history interview with Armando concerns recollections of barrio life, 1940 to present. Guadalupe relates present conditions in barrio.
+                        Armando and Guadalupe Montano; interviewed by Kathryn Wilde. VHS format. Tucson, Ariz. 1 videocassette (ca. 60 min.) : sd., col. : 1/2 in.</p>
+                    <p>V8. Oral history interview concerning recollections of barrio life, 1930s to 1940s, and changes from then to present. Humberto and Viola Soto, husband and wife; 
+                        interviewed by Kathryn Wilde. VHS format. Tucson, Ariz. 1 videocassette (ca. 90 min.) : sd., col. ; 1/2 in.</p>
+                    <p>V9. Two oral history interviews concerning recollections of barrio life, 1930s to present, including family history, neighbors, lifestyle, and changes in the barrio.
+                        John and Bertha Esparza, husband and wife; interviewed by Kathyrn Wilde. VHS format. Tucson, Ariz. 1 videocassette (ca. 60 min.) : sd., col. : 1/2 in.</p>
+                    <p>V10. Oral history interview concerning recollections of barrio life, 1930s to 1940s, including family history, schools, neighbors, and lifestyle. Belen Ramirez; 
+                        interviewed by Kathryn Wilde. VHS format. Tucson, Ariz. 1 videocassette (ca. 90 min.) : sd., col. : 1/2 in.</p>
+                    <p>V11. Oral history interview concerning recollections of barrio life, 1916 to 1930s, including schools, neighbors, lifestyle, and relates his early 
+                        musical development in Tucson. Guerrero also sings several songs which he wrote about Tucson and Barrio Historico. Lalo Guerrero; interviewed by Kathryn Wilde.
+                        VHS format. Tucson, Ariz. 1 videocassette (ca. 120 min.) : sd., col. ; 1/2 in. </p>
+                    <p>V12. Oral history interview concerning recollections of barrio life, ca. 1925 to present, including neighbors, lifestyle, schools, and events. Some portions in Spanish.
+                        Maria Trujillo; interviewed by Kathryn Wilde. VHS format. Tucson, Ariz. 1 videocassette (ca. 90 min.) : sd., col. ; 1/2 in.</p>
+                    <p>V13. Oral history interview concerning recollections of barrio life from 1920s to present. Describes in detail life in barrio, people, events, social life and customs, 
+                        ethnic groups, musicians, and discusses changes in barrio over time. Henry Garcia; interviewed by Kathryn Wilde. VSH format. Tucson, Ariz. 1 videocassette (ca. 120 min.) : 
+                        sd., col. ; 1/2 in.</p>
+                    <p>V14. Oral history interview concerning recollections of barrio life, 1930s to 1940s, including family history, neighbors, lifestyle, and events.
+                        Arturo Strong; interviewed by Kathryn Wilde. VHS format. Tucson, Ariz. 1 videocassette (ca. 120 min.) : sd., col. ; 1/2 in.</p>
+                    <p>V15. Oral history interview concerning recollections of barrio life, ca. 1925 to 1990. Mary Soto and daughter, Magdalena Valencia; interviewed by Kathryn Wilde.
+                        VHS format. Tucson, Ariz. 1 videocassette (ca. 60 min.) : sd., col. ; 1/2 in.</p>
+                    <p>V16. Oral history interview concerning recollections of barrio life, 1930 to present. Discusses neighbors, events and lifestyle. Also relates experiences when 
+                        evacuated to War Authority Relocation camp near Parker, Ariz., and later U.S. Army service during World War II. Henry Oyama; interviewed by Kathryn Wilde.
+                        VHS format. Tucson, Ariz. 1 videocassette (ca. 90 min.) : sd., col. : 1/2 in.</p>
+                    <p>V17. Oral history interview concerning recollections of barrio life, ca. 1915 to present, including schools, neighbors, and lifestyle. Viola Zepeda; interviewed by 
+                        Kathryn Wilde. VHS format. Tucson, Ariz. 1 videocassette (ca. 90 min.) : sd., col. : 1/2 in.</p>
+                    <p>Oral history interview concerning recollections of barrio life, 1930 to 1958, including schools, San Cosmes Chapel, Dia San Juan Bautista celebration, the Santa 
+                        Cruz River, neighbors, lifestyle, and more. Irene Brown; interviewed by Kathryn Wilde. VHS format. Tucson, Ariz. 1 videocassette (ca. 120 min.) : sd., col. ; 1/2 in.</p>
+                </scopecontent>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="6b7f248f-56aa-4023-b7ad-2a5d646f0e1b" type="box">92.6</container> 
+                        <container parent="6b7f248f-56aa-4023-b7ad-2a5d646f0e1b" type="folder">V1</container> 
+                        <unittitle>Carlos and Angela Montoya; in Spanish,</unittitle>
+                        <unitdate>June 1-4, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="2a4c78cf-b5aa-427c-be70-618178df2c1b" type="box">92.6</container> 
+                        <container parent="2a4c78cf-b5aa-427c-be70-618178df2c1b" type="folder">V2</container> 
+                        <unittitle>Richard O. Camacho,</unittitle>
+                        <unitdate>June 7, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="c35f9ac4-ea0f-4898-b950-4b17335a41ce" type="box">92.6</container> 
+                        <container parent="c35f9ac4-ea0f-4898-b950-4b17335a41ce" type="folder">V3</container> 
+                        <unittitle>Carmen S. Trejo and daughter, Mary Estrada; Trejo interview in Spanish,</unittitle>
+                        <unitdate>June 11, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="ab9123cf-6dae-4dc5-b7cb-927a81e7e66f" type="box">92.6</container> 
+                        <container parent="ab9123cf-6dae-4dc5-b7cb-927a81e7e66f" type="folder">V4</container> 
+                        <unittitle>Suey L. Gee,</unittitle>
+                        <unitdate>June 20, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="9ec862bc-82a1-4081-979a-2446f1a51293" type="box">92.6</container> 
+                        <container parent="9ec862bc-82a1-4081-979a-2446f1a51293" type="folder">V5</container> 
+                        <unittitle>Jose Valenzuela,</unittitle>
+                        <unitdate>June 20, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="6dca8d4b-a57d-431a-82c7-d774a915585e" type="box">92.6</container> 
+                        <container parent="6dca8d4b-a57d-431a-82c7-d774a915585e" type="folder">V6</container> 
+                        <unittitle>Arnulfo D. Trejo,</unittitle>
+                        <unitdate>June 19, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="8f54db2e-c4a1-4b7c-9558-80627ed9e499" type="box">92.6</container> 
+                        <container parent="8f54db2e-c4a1-4b7c-9558-80627ed9e499" type="folder">V7</container> 
+                        <unittitle>Armando and Guadalupe Montano,</unittitle>
+                        <unitdate>June 23, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="7692dfbb-4809-49be-b7db-e91cbd5060a9" type="box">92.6</container> 
+                        <container parent="7692dfbb-4809-49be-b7db-e91cbd5060a9" type="folder">V8</container> 
+                        <unittitle>Humberto M. and Viola T. Soto,</unittitle>
+                        <unitdate>July 3, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="7bae0a92-1796-430c-a836-d214ea2f17a7" type="box">92.6</container> 
+                        <container parent="7bae0a92-1796-430c-a836-d214ea2f17a7" type="folder">V9</container> 
+                        <unittitle>John and Bertha Esparza,</unittitle>
+                        <unitdate>July 5, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="1e72677e-15d5-427d-9576-bc3935c26cee" type="box">92.6</container> 
+                        <container parent="1e72677e-15d5-427d-9576-bc3935c26cee" type="folder">V10</container> 
+                        <unittitle>Belen R. Ramirez,</unittitle>
+                        <unitdate>July 5, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="8b97f494-2ecf-45ff-a444-4a34f877e743" type="box">92.6</container> 
+                        <container parent="8b97f494-2ecf-45ff-a444-4a34f877e743" type="folder">V11</container> 
+                        <unittitle>Lalo Guerrero,</unittitle>
+                        <unitdate>July 9, 1991</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="721a06c7-6488-4f1f-b0d9-cd3130137ff5" type="box">92.6</container> 
+                        <container parent="721a06c7-6488-4f1f-b0d9-cd3130137ff5" type="folder">V12</container> 
+                        <unittitle>Maria M. Trujillo; portions in Spanish,</unittitle>
+                        <unitdate>July 18, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="3512f07f-ab22-4599-83cc-232dcd32561a" type="box">92.6</container> 
+                        <container parent="3512f07f-ab22-4599-83cc-232dcd32561a" type="folder">V13</container> 
+                        <unittitle>Henry Garcia,</unittitle>
+                        <unitdate>July 24, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="2dce8b4a-da74-4a37-be97-75e51c42e049" type="box">92.6</container> 
+                        <container parent="2dce8b4a-da74-4a37-be97-75e51c42e049" type="folder">V14</container> 
+                        <unittitle>Arturo C. Strong,</unittitle>
+                        <unitdate>August 3, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="756c1698-fbe8-4eeb-b8fb-576f7aea8484" type="box">92.6</container> 
+                        <container parent="756c1698-fbe8-4eeb-b8fb-576f7aea8484" type="folder">V15</container> 
+                        <unittitle>Mary Soto and daughter, Magdalena Valencia,</unittitle>
+                        <unitdate>August 16, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="0ef4a5ea-c599-4551-9fc9-e30e92b96e93" type="box">92.6</container> 
+                        <container parent="0ef4a5ea-c599-4551-9fc9-e30e92b96e93" type="folder">V16</container> 
+                        <unittitle>Henry Oyama,</unittitle>
+                        <unitdate>August 17, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="8d42cc82-08ae-4896-bca9-99c5d59263c4" type="box">92.6</container> 
+                        <container parent="8d42cc82-08ae-4896-bca9-99c5d59263c4" type="folder">V17</container> 
+                        <unittitle>Viola Zepeda,</unittitle>
+                        <unitdate>August 24, 1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="f791af60-0e98-4785-ba36-b11aa234cc6e" type="box">92.6</container> 
+                        <container parent="f791af60-0e98-4785-ba36-b11aa234cc6e" type="folder">V18</container> 
+                        <unittitle>Irene A. Brown,</unittitle>
+                        <unitdate>August 30, 1990</unitdate>
+                    </did> 
+                </c03>
+            </c02>
+            </c01>
+            <c01 level="series"> 
+                <did> 
+                    <unitid>Series III</unitid>
+                    <unittitle>Arco Iris Association Productions,</unittitle> 
+                    <unitdate type="inclusive">1989-1992</unitdate>
+                </did>
+                <scopecontent><p>Videotapes produced by Arco Iris Productions. Includes four years of annual Evening of Native American Expressions (ENAE) productions, the 1990 Waila 
+                    Festival, and various storytelling workshops. The 1989 ENAE includes performances by Joy Harjo, N. Scott Momaday, Joy Mihesuah, George Thomas, and the San Xavier 
+                    Preschool Dancers. Chesley Wilson and student writers and poets of ArtsReach perform in 1990. At the 1991 ENAE program, performers include Chesley Wilson, Mary 
+                    Redhouse Howard, Doreen Seton, the San Xavier Preschool Dancers, and the Richey Elementary School students. The 1992 ENAE program included Doreen Seton, Danny Lopez,
+                    Mary Redhouse Howard, Chesley Wilson, and others. Series is arranged chronologically by date of performance. Includes 26 videocassettes, 1/2 inch VHS format.</p></scopecontent>
+                <c02 level="subseries">
+                    <did> 
+                        <unitid>Subseries 1</unitid>
+                        <unittitle>Waila Festival, 1990,</unittitle> 
+                        <unitdate type="inclusive">1990</unitdate>
+                    </did> 
+                    <scopecontent><p>Festival of Waila music, food, artists, and traditional dances of the Tohono O'odham. Consists mostly of music, bands, and dancing at the 
+                        festival. Also includes interviews with Tohono O'odham elders concerning their recollections of past Waila celebrations, an interview with Angelo Joaquin, Sr. 
+                        concerning the evolution of Waila music from the late 1800s to the present day, discussion between Robert Garfias and band members about the music and interviews 
+                        with artists about their work. A 90-minute, edited version created from these tapes is available at SWF 93.27/V.4. Participants include Angelo Joaquin, Sr., 
+                        chairman; Angelo Joaquin, Jr., festival director; Tohono O'odham elders; The American Indians, John Manuel and Simon Cruz, bandleaders; The O'odham Sunliners,
+                        Mandro Jose, bandleader; The Tohono O'odham Band, Henry Juan, bandleader; The Santa Rosa Band, Homer Marks, Sr., bandleader; Robert Garfias, ethnomusicologist; 
+                        Frances Manuel, basketmaker; Ascencio Antone, woodcarver; Mike Chiago, painter; John Reno, jeweler; and Leonard Chana, painter. VHS format. 
+                        Tucson, Ariz. 6 videocassettes (ca. 360 min.) : sd., col. ; 1/2 in.</p></scopecontent>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="f6d60986-7989-49eb-95be-02742b553d56" type="box">93.25</container> 
+                        <container parent="f6d60986-7989-49eb-95be-02742b553d56" type="folder">V1</container> 
+                        <unittitle>Interviews with Tohono O'odham elders by Daniel Joachin and Danny Lopez; mostly in Tohono O'odham language,</unittitle>
+                        <unitdate>1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="b0deeb39-9b03-4163-9a78-73f34825bc0e" type="box">93.25</container> 
+                        <container parent="b0deeb39-9b03-4163-9a78-73f34825bc0e" type="folder">V2</container> 
+                        <unittitle>Interviews with Tohono O'odham musicians with Robert Garfias about their music, and Angelo Joaquin, Sr. concerning evolution of this 
+                            music from the late 1800s,</unittitle>
+                        <unitdate>1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="4e3f1327-afbb-43dc-8de8-e861164c9253" type="box">93.25</container> 
+                        <container parent="4e3f1327-afbb-43dc-8de8-e861164c9253" type="folder">V3</container> 
+                        <unittitle>Inside footage of Waila Festival includes brief talks with various artists and craftsmen,</unittitle>
+                        <unitdate>1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="f4725380-5018-48f2-b615-06a132324051" type="box">93.25</container> 
+                        <container parent="f4725380-5018-48f2-b615-06a132324051" type="folder">V4</container> 
+                        <unittitle>Outside footage of food preparation and dancing at the festival,</unittitle>
+                        <unitdate>1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="13c3bc10-7143-4285-9675-e8c0f8abaebe" type="box">93.25</container> 
+                        <container parent="13c3bc10-7143-4285-9675-e8c0f8abaebe" type="folder">V5</container> 
+                        <unittitle>Inside footage of dancing,</unittitle>
+                        <unitdate>1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="50495134-e190-4a11-a85c-7d5f42e470bb" type="box">93.25</container> 
+                        <container parent="50495134-e190-4a11-a85c-7d5f42e470bb" type="folder">V6</container> 
+                        <unittitle>Outside footage of dancing,</unittitle>
+                        <unitdate>1990</unitdate>
+                    </did> 
+                </c03>
+                </c02>
+               <c02 level="subseries">
+                        <did> 
+                            <unitid>Subseries 2</unitid>
+                            <unittitle>Evening of Native American Expressions,</unittitle> 
+                            <unitdate type="inclusive">1989</unitdate>
+                        </did> 
+                   <scopecontent><p>V1-3. Arts program, presented by Arco Iris, of Native American poetry, music, dance, and storytelling by professional and student artists. 
+                       Presented at the University of Arizona Senior Ballroom. V.1 contains the master edited version, V.2 is unedited with audio, and V.3 is unedited with no audio.
+                       Joshua K. Mihesuah, host; N. Scott Momaday, Joy Harjo, Joy Mihesuah, George Thomas, and the San Xavier Preschool dancers. VHS format. 
+                       Tucson, Ariz. 3 videocassettes (ca. 360 min.) : sd., col. ; 1/2 in.</p>
+                       <p>V4. Arts program of Native American poetry, music, dance, and storytelling by professional and student artists.
+                           Octavania Trujillo and Todd Francis, co-hosts; San Xavier Preschool Dancers; Chesley Wilson; and student writers and poets of ArtsReach. VHS format.
+                           Tucson, Ariz. 1 videocassette (ca. 120 min.) : sd., col. ; 1/2 in.</p>
+                       <p>V5-10. Arts program of Native American poetry, music, dance, and storytelling by professional and student artists. V.5 contains part 1 of the show, 
+                           V.6 contains part 2. V.7 and V.8 present a view of the show from the left; while V.9 and V.10 present a high center view. Todd Francis, host; Chesley Wilson, 
+                           Mary Redhouse Howard, Doreen Seton, the San Xavier Preschool dancers, and Richey Elementary School students. VHS format. 
+                           Tucson, Ariz. 6 videocassettes (ca. 480 min.) : sd., col. ; 1/2 in.</p>
+                       <p>V11-13. Arts program of Native American poetry, music, dance, and storytelling by professional and student artists. V.11 contains part 1 of the show, 
+                           V.12 has part 2, and V. 13 consists of part 1 and most of part 2 but ends before the last performer is finished. Howard Syies, host; San Xavier Preschool 
+                           Dancers, Richey School Traditional Dancers, Doreen Seton, Danny Lopez, Mary Redhouse Howard, Chesley Wilson, and others. VHS format. 
+                           Tucson, Ariz. 3 videocassettes (ca. 360 min.) : sd., col. ; 1/2 in.</p></scopecontent>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="feef4e4c-30dc-4033-99b6-7a25a35ca3c0" type="box">93.26</container> 
+                        <container parent="feef4e4c-30dc-4033-99b6-7a25a35ca3c0" type="folder">V1</container> 
+                        <unittitle>Edited version of program,</unittitle>
+                        <unitdate>February 3, 1989</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="a888a4f4-30eb-4203-9e8d-b7fd4630220f" type="box">93.26</container> 
+                        <container parent="a888a4f4-30eb-4203-9e8d-b7fd4630220f" type="folder">V2</container> 
+                        <unittitle>Master footage of program with audio,</unittitle>
+                        <unitdate>February 3, 1989</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="98b3c5ae-7746-4b73-98c0-50345714d267" type="box">93.26</container> 
+                        <container parent="98b3c5ae-7746-4b73-98c0-50345714d267" type="folder">V3</container> 
+                        <unittitle>Master footage of program without audio,</unittitle>
+                        <unitdate>February 3, 1989</unitdate>
+                    </did> 
+                </c03>
+                   <c03 level="file"> 
+                    <did> 
+                        <container id="ae847712-dabe-4530-9f7c-78b8b3b73dd6" type="box">93.26</container> 
+                        <container parent="ae847712-dabe-4530-9f7c-78b8b3b73dd6" type="folder">V4</container> 
+                        <unittitle>Master footage of program,</unittitle>
+                        <unitdate>1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="0cca7f7e-c63c-411b-b94e-75bd3a79222d" type="box">93.26</container> 
+                        <container parent="0cca7f7e-c63c-411b-b94e-75bd3a79222d" type="folder">V5</container> 
+                        <unittitle>Master footage of program,</unittitle>
+                        <unitdate>1991</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="c26cb500-d9d7-4e0a-98a4-dfc76b31ed17" type="box">93.26</container> 
+                        <container parent="c26cb500-d9d7-4e0a-98a4-dfc76b31ed17" type="folder">V6</container> 
+                        <unittitle>Master footage of program,</unittitle>
+                        <unitdate>1991</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="7c839bdb-c0fc-4dfd-aca6-46f1b9ae62ff" type="box">93.26</container> 
+                        <container parent="7c839bdb-c0fc-4dfd-aca6-46f1b9ae62ff" type="folder">V7</container> 
+                        <unittitle>Footage from a left viewpoint, same content as V.5-V.6,</unittitle>
+                        <unitdate>1991</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="50210ca4-956a-4874-91db-13eae9b8c1de" type="box">93.26</container> 
+                        <container parent="50210ca4-956a-4874-91db-13eae9b8c1de" type="folder">V8</container> 
+                        <unittitle>Footage from a left viewpoint, same content as V.5-V.6,</unittitle>
+                        <unitdate>1991</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="e2cc3d88-43bb-47b5-9c08-14c03b7efb35" type="box">93.26</container> 
+                        <container parent="e2cc3d88-43bb-47b5-9c08-14c03b7efb35" type="folder">V9</container> 
+                        <unittitle>Footage from high center viewpoint, same content,</unittitle>
+                        <unitdate>1991</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="e31570a1-c75f-4214-9afc-f3bce9debece" type="box">93.26</container> 
+                        <container parent="e31570a1-c75f-4214-9afc-f3bce9debece" type="folder">V10</container> 
+                        <unittitle>Footage from high center viewpoint, same content,</unittitle>
+                        <unitdate>1991</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="9abb81a2-f3f9-4675-8850-3e7f01f11274" type="box">93.26</container> 
+                        <container parent="9abb81a2-f3f9-4675-8850-3e7f01f11274" type="folder">V11</container> 
+                        <unittitle>Master footage of program,</unittitle>
+                        <unitdate>1992</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="356fa8e7-aad8-4bde-b224-6e7ac52e063c" type="box">93.26</container> 
+                        <container parent="356fa8e7-aad8-4bde-b224-6e7ac52e063c" type="folder">V12</container> 
+                        <unittitle>Master footage of program,</unittitle>
+                        <unitdate>1992</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="83012917-8c62-4669-8603-922ca86c265c" type="box">93.26</container> 
+                        <container parent="83012917-8c62-4669-8603-922ca86c265c" type="folder">V13</container> 
+                        <unittitle>Different view of V.11-V.12 but does not have complete program,</unittitle>
+                        <unitdate>1992</unitdate>
+                    </did> 
+                </c03>
+               </c02>
+                <c02 level="subseries">
+                    <did> 
+                        <unitid>Subseries 3</unitid>
+                        <unittitle>Nykimkyim Story Theatre Summer Tour,</unittitle> 
+                        <unitdate type="inclusive">1989</unitdate>
+                    </did> 
+                    <scopecontent><p>Storytelling and dramatic performance workshop shows facilitator leading schoolchildren in listening to stories, developing stories, and acting out roles.
+                        VHS format. Tucson, Ariz. 1 videocassette (ca. 120 min.) : sd., col. ; 1/2 in.</p></scopecontent>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="688312bb-99c0-4f14-8cbf-234e87e692b4" type="box">93.27</container> 
+                        <container parent="688312bb-99c0-4f14-8cbf-234e87e692b4" type="folder">V1</container> 
+                        <unittitle>Storytelling and dramatic performance workshop,</unittitle>
+                        <unitdate>1989</unitdate>
+                    </did> 
+                </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did> 
+                        <unitid>Subseries 4</unitid>
+                        <unittitle>Making Dramatic Themes from Original Writing,</unittitle> 
+                        <unitdate type="inclusive">1990</unitdate>
+                    </did> 
+                    <scopecontent><p>Workshop held at Blue Sky Learning Center, Arivaca, Ariz., teaches schoolchildren about the creative process of writing dramatic productions. 
+                        Produced by Arivaca Arts Council and Arco Iris. Ron Steffens, writer and facilitator; Nina Baldridge, actress and dramatist; teachers and students of Blue 
+                        Sky Learning Center. VHS format. Tucson, Ariz. 1 videocassette (ca. 60 min.) : sd., col. ; 1/2 in.</p></scopecontent>
+                 <c03 level="file"> 
+                    <did> 
+                        <container id="61be8905-72f2-4ecb-87f6-a56dc7d81f67" type="box">93.27</container> 
+                        <container parent="61be8905-72f2-4ecb-87f6-a56dc7d81f67" type="folder">V2</container> 
+                        <unittitle>Storytelling workshop, Blue Sky Learning Center, Arivaca, Ariz.,</unittitle>
+                        <unitdate>1990</unitdate>
+                    </did> 
+                </c03>   
+                </c02>
+                <c02 level="subseries">
+                    <did> 
+                        <unitid>Subseries 5</unitid>
+                        <unittitle>MOSIACA,</unittitle> 
+                        <unitdate type="inclusive">1990</unitdate>
+                    </did> 
+                    <scopecontent><p>Joe Walsh teaches schoolchildren about story development and leads them through creating stories then telling the stories to the group.
+                        Joe Walsh, local attorney; and children at the House of Neighborly Service, South Tucson, Ariz. VHS format. Tucson, Ariz. 1 videocassette (ca. 45 min.) : sd., 
+                        col. ; 1/2 in.</p></scopecontent>
+                 <c03 level="file"> 
+                    <did> 
+                        <container id="b6abce48-d5f3-44ee-880b-39a59d1ad25d" type="box">93.27</container> 
+                        <container parent="b6abce48-d5f3-44ee-880b-39a59d1ad25d" type="folder">V3</container> 
+                        <unittitle>Joe Walsh at the House of Neighborly Service, Storytelling workshop,</unittitle>
+                        <unitdate>1991</unitdate>
+                    </did> 
+                </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did> 
+                        <unitid>Subseries 6</unitid>
+                        <unittitle>Video Clips,</unittitle> 
+                        <unitdate type="inclusive">1989-1990</unitdate>
+                    </did>             
+                <c03 level="file"> 
+                    <did> 
+                        <container id="b840596b-cf3b-40d4-ba5b-2779efaafb11" type="box">93.27</container> 
+                        <container parent="b840596b-cf3b-40d4-ba5b-2779efaafb11" type="folder">V4</container> 
+                        <unittitle>Same as V.5 but without the Waila Festival footage,</unittitle>
+                        <unitdate>1989-1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="a0ea9681-ec62-4626-b918-b92c5b5fee6c" type="box">93.27</container> 
+                        <container parent="a0ea9681-ec62-4626-b918-b92c5b5fee6c" type="folder">V5</container> 
+                        <unittitle>Two minute edited segments of programs produced in 1989 and 1990. Includes 90 min. edited version of Waila Festival with English 
+                            translations dubbed onto the interviews of tribal elders,</unittitle>
+                        <unitdate>1989-1990</unitdate>
+                    </did> 
+                </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did> 
+                        <unitid>Subseries 7</unitid>
+                        <unittitle>St. Marks Preschool Classroom,</unittitle> 
+                        <unitdate type="inclusive">1990</unitdate>
+                    </did>
+                    <scopecontent><p>Teacher explains and demonstrates teaching methods relating to dinosaur theme. V.7 is a duplicate of V.6. Kindergarten teacher 
+                        and class at St. Marks Preschool. Tucson, Ariz. 2 video cassettes (ca. 60 min.) : sd., col. ; 1/2 in.</p></scopecontent>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="4e8e3ecc-a32c-4452-b4cc-c54e287821ce" type="box">93.27</container> 
+                        <container parent="4e8e3ecc-a32c-4452-b4cc-c54e287821ce" type="folder">V6</container> 
+                        <unittitle>Classroom scenes with children,</unittitle>
+                        <unitdate>1990</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container id="a044d3ef-36d9-47bb-99b5-96eb08f46ac0" type="box">93.27</container> 
+                        <container parent="a044d3ef-36d9-47bb-99b5-96eb08f46ac0" type="folder">V7</container> 
+                        <unittitle>Classroom scenes with children,</unittitle>
+                        <unitdate>1990</unitdate>
+                    </did> 
+                </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
